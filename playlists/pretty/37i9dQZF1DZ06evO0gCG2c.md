@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,780 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,821 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
 | 50 | [Lonely \- MTG Remix](https://open.spotify.com/track/2GU2UiCjZ7tKxfCJHg6TgU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Trouble: The MTG Remixes](https://open.spotify.com/album/0f7ff2GMRuXVvqOtrvHloI) | 3:08 |
 
-Snapshot ID: `Z6KqAAAAAADVltSYXpdEsvBshHkGSOaA`
+Snapshot ID: `Z6P7gAAAAAAVBgq6mtH8vBwRGuobnW1Z`

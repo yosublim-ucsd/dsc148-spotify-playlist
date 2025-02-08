@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day.",
+  "description": "The soulful tunes to ease you into your day. Cover: TA Thomas",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
@@ -4266,10 +4266,28 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 236904,
       "name": "GPS",
       "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
+    {
+      "album": {
+        "name": "Gramercy Place",
+        "url": "https://open.spotify.com/album/7sCrAbkBZ3CmpntiP7EOTE"
+      },
+      "artists": [
+        {
+          "name": "Aneesa Strings",
+          "url": "https://open.spotify.com/artist/1pzHCKOXkQSrNx3hU00bqo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256079,
+      "name": "Gramercy Place",
+      "url": "https://open.spotify.com/track/5KmskMkOTqQZPvV2GmkQBU"
     },
     {
       "album": {
@@ -4659,6 +4677,32 @@
     },
     {
       "album": {
+        "name": "Hey Girl(s)",
+        "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Hey Girl(s)",
+      "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
       },
@@ -4834,7 +4878,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 306325,
       "name": "Hopes and Dreams - Abbey Road After Hours Sessions",
       "url": "https://open.spotify.com/track/2GI2CqfgtVHUH2DFEUWW9B"
@@ -7483,6 +7527,24 @@
     },
     {
       "album": {
+        "name": "Mona Lisa Smile",
+        "url": "https://open.spotify.com/album/1uHymd2eSx7ch8RDKBAzIC"
+      },
+      "artists": [
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215418,
+      "name": "Mona Lisa Smile",
+      "url": "https://open.spotify.com/track/0sjhlV2MhCYGtPlYhuplD6"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
@@ -9241,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6dC9IJx0kWu3Kv17B57Ss4"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199669,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/6IbR4u6OnMPIf3hkCAMXOh"
+    },
+    {
+      "album": {
         "name": "Private Party (feat. Siaira Shawn)",
         "url": "https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV"
       },
@@ -9530,6 +9610,28 @@
       "duration_ms": 140960,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/0kAy9nius3LMRVcE3W0I9J"
+    },
+    {
+      "album": {
+        "name": "Right One, Wrong Time",
+        "url": "https://open.spotify.com/album/0k0X8HA8QCyr5KIBDn9VpU"
+      },
+      "artists": [
+        {
+          "name": "JeRonelle",
+          "url": "https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Right One, Wrong Time",
+      "url": "https://open.spotify.com/track/2PJP7lSOD44N6kRN7o6MNQ"
     },
     {
       "album": {
@@ -10602,7 +10704,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 193729,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn"
@@ -10646,7 +10748,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 235630,
       "name": "Star",
       "url": "https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS"

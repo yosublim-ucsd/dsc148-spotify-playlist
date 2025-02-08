@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=baAWU7xKS9WdZjxCYcU7DA>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,075 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,250 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THE IMAGE](https://open.spotify.com/track/5Jcyio3R1T9AgfXGMXjZJS) | [Gather Worship](https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [The Image](https://open.spotify.com/album/1MZf1cnYGh2ywBkZBk5oRa) | 5:10 |
-| 2 | [Adun \- Acoustic](https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Adun \(Acoustic\)](https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u) | 5:26 |
+| 2 | [Adun \- Acoustic](https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Adun \(Acoustic\)](https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u) | 5:26 |
 | 3 | [Uyena \- Live](https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi \(Live\)](https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY) | 5:47 |
 | 4 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
 | 5 | [Nginobufakazi](https://open.spotify.com/track/3nwAv4rnjs29WbN80LnvaY) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Nginobufakazi](https://open.spotify.com/album/5T5Tzr9YcpmtUWZdahtXQT) | 8:25 |

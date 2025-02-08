@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 156 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 156 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 76 | [scared](https://open.spotify.com/track/69pDGXAeiBbqpjD43GJko2) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:15 |
 | 77 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 |
 | 78 | [Timeline \(feat\. vito\)](https://open.spotify.com/track/4ZPNM1GpxgRN5aDJCbvYaj) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [vito](https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw) | [Moai](https://open.spotify.com/album/7yb5k9jqAjeXjT2q0ShQey) | 2:43 |
-| 79 | [Knock](https://open.spotify.com/track/56oCkcfexBeYD4q4jEJJBV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:20 |
-| 80 | [Alone](https://open.spotify.com/track/0xda5IoHwLOv7BnHLBCrL7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:10 |
+| 79 | [Alone](https://open.spotify.com/track/0xda5IoHwLOv7BnHLBCrL7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:10 |
+| 80 | [Knock](https://open.spotify.com/track/56oCkcfexBeYD4q4jEJJBV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:20 |
 | 81 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
 | 82 | [Bad Karma](https://open.spotify.com/track/3RVirB4bHhZtl1QTAVWHSo) | [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [Bad Karma](https://open.spotify.com/album/7c6BhXUAOuIfbqGEwnJakE) | 3:25 |
 | 83 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 155 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 156 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Abo5dAAAAAD2f5iC5mzb/a/FBc0MtZZe`
+Snapshot ID: `Abo+7AAAAAA5KxcpbPwR80HX560272Ly`

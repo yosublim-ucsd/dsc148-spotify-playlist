@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 133696,
+  "num_followers": 133763,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY6gAAAAC/1oGiOAP8hcWQnms/1BaD",
+  "snapshot_id": "Z6WTZwAAAACtQuInlHXRwWblftCVyAa/",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:26",
@@ -43,6 +43,42 @@
       "duration_ms": 168894,
       "name": "Supernova - Jafunk Remix",
       "url": "https://open.spotify.com/track/57peujtPGEpGAS68azZVO1"
+    },
+    {
+      "added_at": "2025-02-07 05:00:23",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/40ASIywv9G1hvVm672UNsd"
+      },
+      "artists": [
+        {
+          "name": "Jules Grant",
+          "url": "https://open.spotify.com/artist/5KLQxnoQmOOHaSobJveoD8"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4ksPvkPCRgMufnlTkgLtuG"
+    },
+    {
+      "added_at": "2025-02-07 05:00:23",
+      "album": {
+        "name": "Messie",
+        "url": "https://open.spotify.com/album/56tFnMDVp2wNef1zSmME0H"
+      },
+      "artists": [
+        {
+          "name": "Mathien",
+          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Messie",
+      "url": "https://open.spotify.com/track/36IHDOzNRDPltiZTYCbuwa"
     },
     {
       "added_at": "2025-01-10 05:00:13",
@@ -83,6 +119,26 @@
       "duration_ms": 304488,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/1D7yD0chLEPc1Q73YV1hFt"
+    },
+    {
+      "added_at": "2025-02-07 05:00:23",
+      "album": {
+        "name": "Need You Again",
+        "url": "https://open.spotify.com/album/0zRgJvZ5gL9yP2esofyni5"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        },
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Need You Again",
+      "url": "https://open.spotify.com/track/0h6MTPMCoYwh3GGsqSuszz"
     },
     {
       "added_at": "2025-01-17 05:00:28",
@@ -201,7 +257,7 @@
         }
       ],
       "duration_ms": 161076,
-      "name": "On the Move (feat. Cannons)",
+      "name": "On the Move - feat. Cannons",
       "url": "https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY"
     },
     {
@@ -1617,26 +1673,6 @@
       "url": "https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Mystery of Love (Le Flex \"Summer Mystery\" Remix)",
-        "url": "https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        },
-        {
-          "name": "Le Flex",
-          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
-        }
-      ],
-      "duration_ms": 253097,
-      "name": "Mystery of Love - Le Flex \"Summer Mystery\" Remix",
-      "url": "https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f"
-    },
-    {
       "added_at": "2022-12-16 05:01:00",
       "album": {
         "name": "Crying At The Discoteque",
@@ -1691,26 +1727,6 @@
       "duration_ms": 176803,
       "name": "Space",
       "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "HISTORY",
-        "url": "https://open.spotify.com/album/6IwONZNPHt81ip42NboklH"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1871,26 +1887,6 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "So Good To Me (feat. Karen Harding)",
-        "url": "https://open.spotify.com/album/67YrcWduP8KBrTpshIyvJV"
-      },
-      "artists": [
-        {
-          "name": "Hot Toddy",
-          "url": "https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "So Good To Me (feat. Karen Harding)",
-      "url": "https://open.spotify.com/track/3WfuS8tulwcGr7XZX7Qkpw"
     },
     {
       "added_at": "2024-09-20 04:01:00",

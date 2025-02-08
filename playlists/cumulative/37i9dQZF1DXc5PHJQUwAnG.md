@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Dan García, Sheeno y ND Kobi' en portada.
 
-339 songs - 15 hr 58 min
+340 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Trap Gun \- Vol\. 1](https://open.spotify.com/track/3ZIe2aiW9TNUe23h36YIc4) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Wesos El Savage](https://open.spotify.com/artist/2Ei5kNvEc7wSrdaJDu3coa), [Yohan Huerta](https://open.spotify.com/artist/0G4msKrq1jl7fc08HECxTZ), [Sack Baby](https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s), [Da Flako](https://open.spotify.com/artist/3MITY1rIhoSQyB51lgqifs) | [Trap Gun \(Vol\. 1\)](https://open.spotify.com/album/1jsMJtEborG5sLWY2oGo6M) | 4:45 | 2023-11-17 | 2024-05-04 |
 | [Trap Kingz](https://open.spotify.com/track/2v0qGsN7KN3Wv4LZson2Fd) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb) | [Trap Kingz](https://open.spotify.com/album/6XD0ppc6d3Dv5vAhqnQxBi) | 2:20 | 2023-09-23 | 2024-04-13 |
 | [Trapman](https://open.spotify.com/track/25l6wVWXH3LIf5dJQqZyqf) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trapman](https://open.spotify.com/album/1llef7nzTSwQDrdaCrS8jO) | 3:10 | 2023-09-15 | 2024-06-15 |
+| [Tsunami](https://open.spotify.com/track/03xiVJYbab7t7CXOpoqvGq) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tsunami](https://open.spotify.com/album/4GjjGPNztWRpc1QxHclJvh) | 1:34 | 2025-02-07 |  |
 | [tu ciudad](https://open.spotify.com/track/0o3eb8tDTW5yMBmcjcEjcK) | [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl) | [tu ciudad \(video oficial\).mp4](https://open.spotify.com/album/5kBv5qDuco9Pue7fKBx2xQ) | 3:11 | 2023-06-09 | 2023-10-23 |
 | [Tus Ojos](https://open.spotify.com/track/2rWrjWEG90FvokHkyLPip3) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo), [Fraag Malas](https://open.spotify.com/artist/4EK2mROuFdIQDSY7QdgLS2) | [Fam Love Money](https://open.spotify.com/album/6gRnexmPU8V53K6DP2g7im) | 3:02 | 2023-06-30 | 2024-05-18 |
 | [UK London](https://open.spotify.com/track/1RPYiPrkxGUbZqa1xRtcgS) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [UK London](https://open.spotify.com/album/1UJ6KgprTMBpaiVc6AT1kt) | 2:42 | 2024-11-01 |  |

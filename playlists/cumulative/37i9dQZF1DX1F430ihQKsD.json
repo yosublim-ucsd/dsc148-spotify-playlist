@@ -5669,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9a // Tableaux de craie",
+        "url": "https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb"
+      },
+      "artists": [
+        {
+          "name": "pol",
+          "url": "https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198059,
+      "name": "L\u00e9a",
+      "url": "https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV"
+    },
+    {
+      "album": {
         "name": "L\u00e9o",
         "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
       },
@@ -5886,7 +5904,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 245526,
       "name": "Mercure",
       "url": "https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB"

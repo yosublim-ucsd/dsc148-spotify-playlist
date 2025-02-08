@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Fito Paez",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Turf y Conociendo Rusia",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 227555,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/0pKq8NLJDwYbT7Ja7AEUYE"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 191227,
       "name": "Desorden",
       "url": "https://open.spotify.com/track/4OUKqP6yONMhzts8jFt123"
@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
+    },
+    {
+      "album": {
         "name": "El Universo",
         "url": "https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy"
       },
@@ -1986,6 +2004,24 @@
       "duration_ms": 242489,
       "name": "En este barco",
       "url": "https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4"
+    },
+    {
+      "album": {
+        "name": "En la Banquina de Alg\u00fan Lado con Palabras Estorbantes (En Vivo en Necochea, 28 de Diciembre de 2024)",
+        "url": "https://open.spotify.com/album/5cLclDeoWesn13ue1C8yLv"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623520,
+      "name": "En la Banquina de Alg\u00fan Lado con Palabras Estorbantes - En Vivo en Necochea, 28 de Diciembre de 2024",
+      "url": "https://open.spotify.com/track/3FXv5NSGqenpz1ME0cX3vz"
     },
     {
       "album": {
@@ -2518,6 +2554,28 @@
       "duration_ms": 211194,
       "name": "Goodbye Adi\u00f3s",
       "url": "https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1"
+    },
+    {
+      "album": {
+        "name": "Gris Analg\u00e9sico",
+        "url": "https://open.spotify.com/album/5HTNiFaAVKqa4FX9xFQBad"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        },
+        {
+          "name": "Las Paritarias",
+          "url": "https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Gris Analg\u00e9sico",
+      "url": "https://open.spotify.com/track/68OwDpAxaUgrh3J1nR1hYq"
     },
     {
       "album": {
@@ -3150,7 +3208,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 286999,
       "name": "La ilusi\u00f3n que me condena",
       "url": "https://open.spotify.com/track/3T4vk3awY1RataAdlFrKew"
@@ -3878,10 +3936,32 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 188571,
       "name": "L\u00edo",
       "url": "https://open.spotify.com/track/6beIAPeMfoxwAfF8kuWeVi"
+    },
+    {
+      "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220927,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
     },
     {
       "album": {
@@ -4534,7 +4614,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186202,
       "name": "Nuevo Comienzo",
       "url": "https://open.spotify.com/track/6b2Dw4kSKnmWMyiBXyRX2e"
@@ -6332,6 +6412,28 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f"
+    },
+    {
+      "album": {
+        "name": "Volver a casa",
+        "url": "https://open.spotify.com/album/55SkNTTfJRbCtnFTKvDMMd"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        },
+        {
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231922,
+      "name": "Volver a casa",
+      "url": "https://open.spotify.com/track/05195FLjI1KmJDB8MxHU1U"
     },
     {
       "album": {

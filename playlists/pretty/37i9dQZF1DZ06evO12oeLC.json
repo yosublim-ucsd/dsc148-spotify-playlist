@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAABpbRZW2fcvGOaQKDQeUB1L",
+  "snapshot_id": "Z6P7gAAAAADw4PpSHENAoAnAYrtoOOq2",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jok'travolta",
+        "url": "https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Chilla",
+          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 485993,
+      "name": "Nos souvenirs",
+      "url": "https://open.spotify.com/track/7CUAGxYmpmSJv9pbLgqVjy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
       },
@@ -91,30 +115,6 @@
       "duration_ms": 176771,
       "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jok'travolta",
-        "url": "https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Chilla",
-          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 485993,
-      "name": "Nos souvenirs",
-      "url": "https://open.spotify.com/track/7CUAGxYmpmSJv9pbLgqVjy"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un autre monde - Souvenirs d'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/4HFu2CSI1n0vAiKdhbHDGX"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 238976,
-      "name": "Un autre monde - Souvenirs d'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 230130,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un autre monde - Souvenirs d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/4HFu2CSI1n0vAiKdhbHDGX"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 238976,
+      "name": "Un autre monde - Souvenirs d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg"
     },
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "5H",
-      "url": "https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u2019Amour",
         "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 159333,
       "name": "CATCHEUR",
       "url": "https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "5H",
+      "url": "https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Station",
-        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
+        "name": "Le gang des antillais",
+        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
       },
       "artists": [
         {
-          "name": "Ria Sean",
-          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+          "name": "Lino",
+          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
+      "duration_ms": 218467,
+      "name": "Meilleur homme",
+      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le gang des antillais",
-        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
+        "name": "Love Station",
+        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
       },
       "artists": [
         {
-          "name": "Lino",
-          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 218467,
-      "name": "Meilleur homme",
-      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
+      "duration_ms": 182400,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
     },
     {
       "added_at": null,

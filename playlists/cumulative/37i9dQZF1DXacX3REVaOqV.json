@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Control Yourself EP",
+        "url": "https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Control Yourself - Radio Edit",
+      "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
+    },
+    {
+      "album": {
         "name": "Cortez (Laidback Luke's 1997 Remix)",
         "url": "https://open.spotify.com/album/3wRcmlQ9jYqH1nT82M83ew"
       },
@@ -4495,6 +4513,24 @@
     },
     {
       "album": {
+        "name": "Grace Note",
+        "url": "https://open.spotify.com/album/7LpgG3Pc5k14wlanV3LfAQ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "House Is The Religion",
+      "url": "https://open.spotify.com/track/10o9PsKjYzrPopHbZMxSpO"
+    },
+    {
+      "album": {
         "name": "House Music (feat. Arctic Lake) (feat. Arctic Lake) [Edit]",
         "url": "https://open.spotify.com/album/5xpZSKJdk6jje1g3HUIXU9"
       },
@@ -4840,7 +4876,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 195343,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/0yg55SYRcOFhlTgpLtGW6p"
@@ -9290,7 +9326,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208863,
       "name": "Somebody - Radio Edit",
       "url": "https://open.spotify.com/track/4R5HDTBHkbpcEBahlXp4nw"

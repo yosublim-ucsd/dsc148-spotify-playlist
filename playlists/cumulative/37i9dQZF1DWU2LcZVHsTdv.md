@@ -2,9 +2,9 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying.
+> The country way of testifying\. Cover: Jelly Roll and Brandon Lake
 
-262 songs - 15 hr 59 min
+264 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 | 2021-12-10 |  |
 | [Greatest Hits](https://open.spotify.com/track/5HHk0B7B7mz6REWAlarrdA) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Greatest Hits](https://open.spotify.com/album/2MelPAapOVxlQkP78Uo2Fk) | 3:23 | 2023-02-17 |  |
 | [Grew up on That](https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 2:52 | 2021-12-10 |  |
+| [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 | 2025-02-07 |  |
 | [Hardest Prayer I Pray](https://open.spotify.com/track/3q4DXtTVqzak1TlWXW30Ex) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Hardest Prayer I Pray](https://open.spotify.com/album/1jRkuiTgbpxJOaUT3ccxAv) | 3:35 | 2023-09-29 |  |
 | [He Got a Hold of Me](https://open.spotify.com/track/6TzjdXiUn6iPBX6LcyyoFP) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [He Got a Hold of Me](https://open.spotify.com/album/5IWDeyHcJ6CR6Y0bQxuRdN) | 3:40 | 2023-09-15 |  |
 | [He Touched Me / Something Beautiful](https://open.spotify.com/track/08r7I8bTMrjQL8KWWy4W4o) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Susie McEntire](https://open.spotify.com/artist/2eCSPBCgOoSo97Uy7zTI6U), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b), [Becky Isaacs](https://open.spotify.com/artist/3rxvs0DJZWRwAtdhg3bEDC) | [He Touched Me / Something Beautiful](https://open.spotify.com/album/0aDye7Hbc6IkmxyN1pUsqh) | 3:35 | 2023-08-04 | 2024-12-14 |
@@ -188,7 +189,8 @@
 | [Prodigal Son's Prayer](https://open.spotify.com/track/5yVesQH1l8bOgjuWN0ub2a) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 2:51 | 2021-12-10 |  |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-01-07 |  |
 | [Real Men Love Jesus](https://open.spotify.com/track/4PUd2AwQAWY05WWR5qxig9) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Michael Ray](https://open.spotify.com/album/1JBo2GmY1NskygCzWzGqHF) | 3:11 | 2021-12-10 |  |
-| [Red Letter Blueprint](https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Red Letter Blueprint](https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0) | 3:52 | 2024-03-29 |  |
+| [Red Letter Blueprint](https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Red Letter Blueprint](https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0) | 3:52 | 2024-03-29 | 2025-02-08 |
+| [Red Letter Blueprint \(feat\. Jason Crabb\)](https://open.spotify.com/track/4Fva7xZy5rnslgLQZdNFYC) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Red Letter Blueprint \(feat\. Jason Crabb\)](https://open.spotify.com/album/0CQjyCJ1EO1FQAMUAlzZ00) | 3:34 | 2025-02-07 |  |
 | [Rich](https://open.spotify.com/track/5Oa6OS9SMCGYn1cVDpdt7s) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Rich](https://open.spotify.com/album/29cO6aoKc7Ced6oa4WeoQl) | 3:55 | 2024-04-19 |  |
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2021-12-10 |  |
 | [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 | 2023-10-06 |  |

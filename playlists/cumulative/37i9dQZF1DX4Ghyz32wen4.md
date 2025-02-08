@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. ASTROPICAL en portada.
 
-213 songs - 11 hr 17 min
+214 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 | 2024-04-12 |  |
 | [Café](https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Neutro](https://open.spotify.com/album/6vsqSYcjmlq80EUqG3le2b) | 3:47 | 2022-04-25 | 2024-06-01 |
 | [Calles De Madrid](https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [Calles De Madrid](https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4) | 2:59 | 2024-07-26 |  |
+| [Cariño](https://open.spotify.com/track/0FrI3fYFs4eKzPeosbFTzl) | [ABHIR](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Cariño](https://open.spotify.com/album/4vbKDOZ7m1GgVwpWq6RLuB) | 3:13 | 2025-02-07 |  |
 | [Carrusel](https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Carrusel](https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6) | 2:23 | 2024-02-21 |  |
 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 | 2024-04-05 |  |
 | [Casa](https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Casa](https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry) | 3:23 | 2024-12-20 | 2025-02-01 |

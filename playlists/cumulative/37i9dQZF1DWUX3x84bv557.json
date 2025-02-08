@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Numidia",
+  "description": "De nieuwste Nederlandse pop! Cover: Hannah Mae",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Beetje Van Mij",
+        "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Beetje Van Mij",
+      "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
+    },
+    {
+      "album": {
         "name": "Beetje Vrijheid",
         "url": "https://open.spotify.com/album/7noOA6uNQKPIOS0PUkACvf"
       },
@@ -3509,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/4AtOJ3QhLmFPZ7RdsuT7tc"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189166,
+      "name": "Deze Plek",
+      "url": "https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ"
+    },
+    {
+      "album": {
         "name": "Dezelfde Maan",
         "url": "https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR"
       },
@@ -3600,6 +3636,24 @@
       "duration_ms": 125038,
       "name": "Dilara",
       "url": "https://open.spotify.com/track/3N2cxA2874Unb9GY7jLK0F"
+    },
+    {
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/5EuDRJqTmvzvG2FTIOpZRc"
+      },
+      "artists": [
+        {
+          "name": "Denise Kroes",
+          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/0aaHREbGi6WYkihcLMtGB2"
     },
     {
       "album": {
@@ -10541,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "Ooit",
+        "url": "https://open.spotify.com/album/2tSHHPhn58yk1pHuAbO8HT"
+      },
+      "artists": [
+        {
+          "name": "Elle Hollis",
+          "url": "https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208836,
+      "name": "Ooit",
+      "url": "https://open.spotify.com/track/1cfwCRlpkbTDoVQwY0jF7L"
+    },
+    {
+      "album": {
         "name": "Op Een Dag",
         "url": "https://open.spotify.com/album/2p41O5ojTgxLFRNlmJNjJp"
       },
@@ -13616,7 +13688,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 161431,
       "name": "Verloren",
       "url": "https://open.spotify.com/track/65pxNsz5Kcap7xTE4e9eJp"
@@ -14771,6 +14843,28 @@
     },
     {
       "album": {
+        "name": "Wie We Waren (with Lucas Nicholas)",
+        "url": "https://open.spotify.com/album/11iUfkqlm2hPxToQ5b7u2r"
+      },
+      "artists": [
+        {
+          "name": "Dominique de Bont",
+          "url": "https://open.spotify.com/artist/2fYxLnbFdDBpgVs5Vaa4RO"
+        },
+        {
+          "name": "Lucas Nicholas",
+          "url": "https://open.spotify.com/artist/60df08YRf2Oh7A2PUK24Vi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183825,
+      "name": "Wie We Waren (with Lucas Nicholas)",
+      "url": "https://open.spotify.com/track/1ATxOdW5SrpzDuI6iZFyJr"
+    },
+    {
+      "album": {
         "name": "Wijze Woorden",
         "url": "https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG"
       },
@@ -14912,6 +15006,36 @@
       "duration_ms": 237672,
       "name": "Zaklamp",
       "url": "https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN"
+    },
+    {
+      "album": {
+        "name": "Zal Ik Blijven",
+        "url": "https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "Zal Ik Blijven",
+      "url": "https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5"
     },
     {
       "album": {

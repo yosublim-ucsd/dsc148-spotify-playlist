@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 91124,
       "name": "A Little Miracle",
       "url": "https://open.spotify.com/track/75hEpUsgtjTqpvXbXJbft1"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 129996,
       "name": "Dream A Little Dream",
       "url": "https://open.spotify.com/track/2qPwfefFQBMgzPsnAXtPV5"
@@ -5571,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Leo the Lion",
+        "url": "https://open.spotify.com/album/5fXtr8PSSOLxTXQdpFkDSR"
+      },
+      "artists": [
+        {
+          "name": "Noel Keys",
+          "url": "https://open.spotify.com/artist/6wjGDoGXnUiwtucOSTqac1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81239,
+      "name": "Leo the Lion",
+      "url": "https://open.spotify.com/track/3T4LWuYdxwyejPxCQeM0B9"
+    },
+    {
+      "album": {
         "name": "Leonel's First Steps",
         "url": "https://open.spotify.com/album/1BDjxKRPAh5yDiRfM1aBpw"
       },
@@ -8412,6 +8430,24 @@
       "duration_ms": 59021,
       "name": "Rat In The Hat",
       "url": "https://open.spotify.com/track/3GZUhpSu3G5zhMRWC4k5ma"
+    },
+    {
+      "album": {
+        "name": "Rest My Sweet",
+        "url": "https://open.spotify.com/album/5A1fqaloC7cYD1mvh5mY9S"
+      },
+      "artists": [
+        {
+          "name": "Rohan Bhasker",
+          "url": "https://open.spotify.com/artist/13ETCLA4rmADTdgWDvyZlo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "Rest My Sweet",
+      "url": "https://open.spotify.com/track/51z1KkfB6UBJIKWtBUQGzF"
     },
     {
       "album": {

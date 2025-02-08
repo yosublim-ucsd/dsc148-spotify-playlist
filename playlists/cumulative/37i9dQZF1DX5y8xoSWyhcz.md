@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,280 songs - 2 day 17 hr 59 min
+1,282 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2020-10-29\* | 2020-11-04 |
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-23 | 2022-01-08 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-07-01 | 2023-08-12 |
+| [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-07 |  |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-03-06 | 2021-06-05 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-03-06 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-27 | 2021-06-05 |
@@ -374,7 +375,7 @@
 | [Filth](https://open.spotify.com/track/6ynqLEZvcA4Wqv8B23IyYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Heavy Hitting Hurts My Head](https://open.spotify.com/album/787pfRNdf6yHmnQen8LaBo) | 3:53 | 2021-02-13 | 2021-04-17 |
 | [Fire for You](https://open.spotify.com/track/7MXMcK1xAEYzkfjKKwh6ry) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0yNnJlpbR9kNXB1fUUCuOz) | 3:51 | 2020-10-29\* | 2021-02-13 |
 | [First Date](https://open.spotify.com/track/2NaNX3RHDNeOfJXX3ZPGRT) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [First Date](https://open.spotify.com/album/5IY5gfTnwVUs3m3xce9jYE) | 3:07 | 2023-06-16 | 2024-06-22 |
-| [First Love Song](https://open.spotify.com/track/3vCVIcXgMwj5PdpSFgoVxa) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [First Love Song](https://open.spotify.com/album/2ygtFwFxHv24w6GWITZkkX) | 2:44 | 2023-07-08 |  |
+| [First Love Song](https://open.spotify.com/track/3vCVIcXgMwj5PdpSFgoVxa) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [First Love Song](https://open.spotify.com/album/2ygtFwFxHv24w6GWITZkkX) | 2:44 | 2023-07-08 | 2025-02-08 |
 | [First Place](https://open.spotify.com/track/5Td5Y4mFerZdmgs2mmGw9A) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [First Place](https://open.spotify.com/album/4t8vZxmCJHeUWcaQlKtBK6) | 2:33 | 2021-03-14 | 2021-06-19 |
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-07-23 |
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/4MjIJnPOuO83ZiKr244QKk) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Flower \(In Full Bloom\)](https://open.spotify.com/album/0Rxa9TV9eNXcVu4kblPAw0) | 3:51 | 2021-10-02 | 2022-01-29 |
@@ -782,7 +783,7 @@
 | [Nikes On](https://open.spotify.com/track/5z14e4rPImlgk40W33dt0U) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Nikes On](https://open.spotify.com/album/1g3OgxosiUiccwisdf8mI1) | 2:42 | 2020-10-29\* | 2021-01-21 |
 | [No Excuses](https://open.spotify.com/track/2K5j1aGJAIrPmyQTGn9C8Q) | [Taylor Waters](https://open.spotify.com/artist/4NAFc6jrwULBe2e70H35hv) | [No Excuses](https://open.spotify.com/album/0FAmQKR7N48JI3PewLo5tT) | 2:51 | 2021-05-15 | 2021-09-11 |
 | [NO HALO](https://open.spotify.com/track/2UDmpdnADZIOYzKePhsIo7) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [NO HALO](https://open.spotify.com/album/5OmFuJ0OkD55KqjrgnULTy) | 3:07 | 2021-10-16 | 2021-10-30 |
-| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-31 |  |
+| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-31 | 2025-02-08 |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-10-29\* | 2021-02-13 |
 | [No Use](https://open.spotify.com/track/2m7AO4zLdkbd5SRmjNfnwz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [No Use](https://open.spotify.com/album/0RIkHPlHX2jVXi1xo8tkhM) | 3:16 | 2020-10-29\* | 2021-01-21 |
 | [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 | 2024-09-13 |  |
@@ -975,6 +976,7 @@
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-10 | 2023-09-16 |
 | [SICK](https://open.spotify.com/track/1vuNMMrJKt2l3oaUgre2rC) | [Saya](https://open.spotify.com/artist/5M60ox9b9C4RSPOYYQLTae) | [SICK](https://open.spotify.com/album/2ERQ2STtX9I7TdZOU94uBz) | 3:05 | 2022-04-08 | 2022-08-30 |
 | [Sidelines](https://open.spotify.com/track/2O8GAg2e0odKtTlPklQZ07) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Sidelines](https://open.spotify.com/album/5Bb1KAdfxmz6ZaPurgva1H) | 2:46 | 2021-02-06 | 2021-03-19 |
+| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-02-07 |  |
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-11 | 2022-01-29 |
 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 | 2022-06-03 | 2022-11-02 |
 | [Silver Lining](https://open.spotify.com/track/4jiDREwTvSuZxWPWpNzLcK) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [My Medicine](https://open.spotify.com/album/1yaLCoco4n4PQBC1BOHyxk) | 3:39 | 2022-10-28 | 2022-11-20 |

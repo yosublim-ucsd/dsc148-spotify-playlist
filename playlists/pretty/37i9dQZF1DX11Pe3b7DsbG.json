@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232009,
+  "num_followers": 232011,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Eu Sou O Samba",
-        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Foi Um Rio Que Passou Em Minha Vida",
-      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
+      "duration_ms": 171253,
+      "name": "Feijoada Completa",
+      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
     },
     {
       "added_at": "2024-10-04 13:58:33",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 171253,
-      "name": "Feijoada Completa",
-      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
+      "duration_ms": 155466,
+      "name": "Foi Um Rio Que Passou Em Minha Vida",
+      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
     },
     {
       "added_at": "2024-10-04 13:58:33",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Argumento",
-        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Argumento",
-      "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
+      "duration_ms": 185706,
+      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
     },
     {
       "added_at": "2024-10-04 13:58:33",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Argumento",
+      "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
         "name": "Nova Bis - Clara Nunes",
         "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 181466,
       "name": "\u00ca Baiana",
       "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
-        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
-      },
-      "artists": [
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
     },
     {
       "added_at": "2024-10-04 13:58:33",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Argumento",
-        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "No Pagode Do Vav\u00e1",
-      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 140706,
       "name": "Saudosa Maloca",
       "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
+        "name": "De M\u00e3os Dadas",
+        "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
+      },
+      "artists": [
+        {
+          "name": "Noca Da Portela",
+          "url": "https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Promessa",
+      "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
     },
     {
       "added_at": "2024-10-04 13:58:33",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "De M\u00e3os Dadas",
-        "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
       },
       "artists": [
         {
-          "name": "Noca Da Portela",
-          "url": "https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Promessa",
-      "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
+      "duration_ms": 185120,
+      "name": "No Pagode Do Vav\u00e1",
+      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
     },
     {
       "added_at": "2024-10-04 13:58:33",

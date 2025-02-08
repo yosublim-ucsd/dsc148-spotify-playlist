@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Aohd\u00e1n King",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Amanda Cook",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 254817,
       "name": "A Hope and a Future",
       "url": "https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6"
+    },
+    {
+      "album": {
+        "name": "A New Eden (Live)",
+        "url": "https://open.spotify.com/album/1qy8v552qL1akwKfQNobYs"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Sloat",
+          "url": "https://open.spotify.com/artist/0QnfjcipXuIdXf2my3uoAp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392791,
+      "name": "A New Eden - Live",
+      "url": "https://open.spotify.com/track/15YSfwwIosOjmc3yGad6pn"
     },
     {
       "album": {
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 270496,
       "name": "Come Into The Light",
       "url": "https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb"
@@ -2838,10 +2860,36 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 292185,
       "name": "Constant (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
+    },
+    {
+      "album": {
+        "name": "Live at Maverick City",
+        "url": "https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295312,
+      "name": "Constant - Live",
+      "url": "https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ"
     },
     {
       "album": {
@@ -2860,6 +2908,28 @@
       "duration_ms": 210464,
       "name": "Counting My Blessings",
       "url": "https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO"
+    },
+    {
+      "album": {
+        "name": "Covered By The Blood (Live)",
+        "url": "https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432793,
+      "name": "Covered By The Blood - Live",
+      "url": "https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN"
     },
     {
       "album": {
@@ -3742,7 +3812,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 525758,
       "name": "Firm Foundation (He Won't) [feat. Cody Carnes]",
       "url": "https://open.spotify.com/track/6KY6K2UVCcYHkQyI4ePMSx"
@@ -4256,7 +4326,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 246754,
       "name": "God Is Not Against Me - Radio Version",
       "url": "https://open.spotify.com/track/2N5f3KRzq8PooIqm3TJGfv"
@@ -4570,6 +4640,24 @@
       "duration_ms": 298682,
       "name": "GOODBYE YESTERDAY",
       "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
+    },
+    {
+      "album": {
+        "name": "Goodness of God (Acapella)",
+        "url": "https://open.spotify.com/album/5iKCGvqzdPm9ivOFhTeUs1"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135952,
+      "name": "Goodness of God (Acapella)",
+      "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
     },
     {
       "album": {
@@ -6152,7 +6240,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 313708,
       "name": "I Know That I Know - Live",
       "url": "https://open.spotify.com/track/2StfK9QdCBoRcGzIDWIaQy"
@@ -6581,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "If it wasn't for Jesus (from the studio)",
+        "url": "https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242343,
+      "name": "If it wasn't for Jesus - from the studio",
+      "url": "https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f"
+    },
+    {
+      "album": {
         "name": "MOVE (Live from LO Conference)",
         "url": "https://open.spotify.com/album/2S5j3lNg8CT6NvN3q1nFox"
       },
@@ -6768,7 +6874,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
@@ -7584,6 +7690,24 @@
       "duration_ms": 310333,
       "name": "Just The Mention Of His Name - Live",
       "url": "https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3"
+    },
+    {
+      "album": {
+        "name": "Keep Me",
+        "url": "https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220376,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM"
     },
     {
       "album": {
@@ -9957,6 +10081,24 @@
     },
     {
       "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/7psjjAFyfKCI3ZJDMxI4Yw"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307919,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/38eG7CWY62HKPQkjiSSWoD"
+    },
+    {
+      "album": {
         "name": "One and Only Jesus",
         "url": "https://open.spotify.com/album/50OzYCE4poMoyteNi845mA"
       },
@@ -10536,7 +10678,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
@@ -10698,7 +10840,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 215746,
       "name": "PRAISE YOU ANYWHERE",
       "url": "https://open.spotify.com/track/1mMmA3puXjtI9EzrScvE86"
@@ -10874,7 +11016,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
@@ -11320,7 +11462,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 261133,
       "name": "REVIVAL GENERATION",
       "url": "https://open.spotify.com/track/1evlqx86VEjtiY2EaHk5jE"
@@ -11851,6 +11993,24 @@
     },
     {
       "album": {
+        "name": "SURVEY: Part 2, Live at St. John at Hackney",
+        "url": "https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351225,
+      "name": "SING OF THIS - Live",
+      "url": "https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW"
+    },
+    {
+      "album": {
         "name": "Slower I Go (Live)",
         "url": "https://open.spotify.com/album/4nb1qV2WBNOgTpR0QL6V0P"
       },
@@ -12236,6 +12396,28 @@
       "duration_ms": 297488,
       "name": "Supernatural Love - Live",
       "url": "https://open.spotify.com/track/1KrKAsdDbmvyBwqKST85hq"
+    },
+    {
+      "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452829,
+      "name": "Sure Been Good (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
     },
     {
       "album": {
@@ -14786,7 +14968,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 251032,
       "name": "What a friend",
       "url": "https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs"
@@ -14864,7 +15046,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 354223,
       "name": "What A Miracle (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1GkgOYQ797fsxJ3BvrBOBH"
@@ -15348,7 +15530,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 172821,
       "name": "Wonderful Merciful Saviour",
       "url": "https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY"
@@ -15428,7 +15610,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 241574,
       "name": "Worship!",
       "url": "https://open.spotify.com/track/3uJ539yuwsbaVh2CIAp4Cr"

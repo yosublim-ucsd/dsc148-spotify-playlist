@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,001 likes - 33 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,025 likes - 35 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,21 +25,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 | 15 | [Lie To Me](https://open.spotify.com/track/6oygSHfl61zwl7FFPsof4P) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Big Dawg](https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY) | 1:58 |
 | 16 | [If You Love It](https://open.spotify.com/track/7oFfQisb6SrEAHofz4rJpe) | [Naomi August](https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh) | [Inter Alia](https://open.spotify.com/album/456ZHuyvmEayTD8xVVJoyA) | 2:46 |
 | 17 | [Buss It](https://open.spotify.com/track/73b2nyZY6hIOUpUIa4W69g) | [Helena](https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ) | [Do It To 'Em](https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi) | 2:14 |
-| 18 | [Bounce](https://open.spotify.com/track/1cqTyjGUsdOOkbCCPtWrfE) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Big Dawg](https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY) | 1:52 |
-| 19 | [Blood Runs Deep](https://open.spotify.com/track/4hP6yMHRvp1ysIiEUrWVsG) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 4:04 |
-| 20 | [Parlay](https://open.spotify.com/track/2BStgy3c1EpQZUVejAShm2) | [Ishmusic](https://open.spotify.com/artist/4LrLnA9391jvy62Wlybrm4), [Chugg Jamal](https://open.spotify.com/artist/6c2F5h7B99l6YgzxG46eDz) | [Parlay](https://open.spotify.com/album/6U3Qnk7WQgJ8X3OkGbX7EO) | 2:41 |
-| 21 | [I'm Done](https://open.spotify.com/track/5OROt6Kq0NgDBk5t3A9ecs) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Love Wins](https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx) | 2:48 |
-| 22 | [So Hood](https://open.spotify.com/track/0PWXLW5VCA0BqogBhNK5ZA) | [Juwon](https://open.spotify.com/artist/6MHshInQw0WmiW4iui0j8T) | [So Hood](https://open.spotify.com/album/2RaHojQNThjljyiUswColj) | 1:57 |
-| 23 | [Up On Us](https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Up On Us](https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP) | 2:59 |
-| 24 | [Smilin' with Snake Eyes](https://open.spotify.com/track/77aZlC6jhti07xv9JVriIm) | [The Regulators](https://open.spotify.com/artist/2ijIBVKNxaVL42km0cfbJi) | [Snake Eyes](https://open.spotify.com/album/4FrZqEBPv8KCSBsgzXdtIc) | 3:05 |
-| 25 | [Top Back](https://open.spotify.com/track/2Tv7Ef5fRh8TnGp154zisH) | [Naomi August](https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh) | [Top Back](https://open.spotify.com/album/05JJH4NecXBnskIuTyl4Se) | 2:20 |
-| 26 | [Flow Widdit](https://open.spotify.com/track/2syDFZtUeMvSOLqy7oSt9A) | [Nick Jordan](https://open.spotify.com/artist/0qhVlsnPIrOB8QYW3Clz07) | [Flow Widdit](https://open.spotify.com/album/4wxpZE78d0xO3A7Lcv0jh5) | 2:14 |
-| 27 | [Hella Bandz](https://open.spotify.com/track/5wczjID12AjJdvFCGfkQV3) | [Hunnit](https://open.spotify.com/artist/1cRYeRzp53EbYDxqbtgirQ), [Mucho](https://open.spotify.com/artist/3YfNMbc4wYmEWug01GZGET) | [Famous No Where](https://open.spotify.com/album/3tJudQKnMacPG0oDEiIQmN) | 3:23 |
-| 28 | [Fabric](https://open.spotify.com/track/4lBHRYH1xFGPqZVkrl26df) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Eden](https://open.spotify.com/album/6sWz3hjGjLYCtcnPPuRe9i) | 2:21 |
-| 29 | [Freak Love](https://open.spotify.com/track/1nAV87cdjTkBhBDociyAPp) | [Helena](https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ) | [Do It To 'Em](https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi) | 2:43 |
-| 30 | [Poppin](https://open.spotify.com/track/1roj4a6clyNV7vSn3vkPXr) | [Jo Stunnah](https://open.spotify.com/artist/3YYw4TNcibgOzRx0XWfIXi) | [Poppin](https://open.spotify.com/album/3qpKCrcgeQMNliCtSH9Oae) | 2:13 |
-| 31 | [Another Day In A Small Town](https://open.spotify.com/track/3B1zj88YhiYFSLGf0Kty2A) | [The Salty Dogs](https://open.spotify.com/artist/6Jkj2rAfvW5x563aQR1PqW) | [Brand New Reason](https://open.spotify.com/album/1liXMXQmbQQnB8xXBHqdv0) | 3:17 |
-| 32 | [DIRTY](https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm) | [TANGELA](https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU) | [DIRTY](https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT) | 2:39 |
-| 33 | [You is a Dark Cloud](https://open.spotify.com/track/6lKuXGOquwUx7RJaQo9lwL) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN), [Lambert 'Stereo' Waldrip](https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 1:32 |
+| 18 | [This Ain't Fa Errbody](https://open.spotify.com/track/7JKms9l3hAX2CD0vc5K9Pd) | [YK The Realest](https://open.spotify.com/artist/1Zj0f2osYkhrETeKd3gsfx) | [This Ain't Fa Errbody](https://open.spotify.com/album/05pHIQT7qOkwfcSJksNkkg) | 2:17 |
+| 19 | [None](https://open.spotify.com/track/2Sush4VEfYWPPcktzGl3AE) | [FLEX SINATRA](https://open.spotify.com/artist/7uoqKC9LIvAx8UGEOiqqZl) | [None](https://open.spotify.com/album/7MwH7t5XxBwAaCb7KSsM5b) | 2:38 |
+| 20 | [Bounce](https://open.spotify.com/track/1cqTyjGUsdOOkbCCPtWrfE) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Big Dawg](https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY) | 1:52 |
+| 21 | [Blood Runs Deep](https://open.spotify.com/track/4hP6yMHRvp1ysIiEUrWVsG) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 4:04 |
+| 22 | [Parlay](https://open.spotify.com/track/2BStgy3c1EpQZUVejAShm2) | [Ishmusic](https://open.spotify.com/artist/4LrLnA9391jvy62Wlybrm4), [Chugg Jamal](https://open.spotify.com/artist/6c2F5h7B99l6YgzxG46eDz) | [Parlay](https://open.spotify.com/album/6U3Qnk7WQgJ8X3OkGbX7EO) | 2:41 |
+| 23 | [I'm Done](https://open.spotify.com/track/5OROt6Kq0NgDBk5t3A9ecs) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Love Wins](https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx) | 2:48 |
+| 24 | [So Hood](https://open.spotify.com/track/0PWXLW5VCA0BqogBhNK5ZA) | [Juwon](https://open.spotify.com/artist/6MHshInQw0WmiW4iui0j8T) | [So Hood](https://open.spotify.com/album/2RaHojQNThjljyiUswColj) | 1:57 |
+| 25 | [Up On Us](https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Up On Us](https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP) | 2:59 |
+| 26 | [Smilin' with Snake Eyes](https://open.spotify.com/track/77aZlC6jhti07xv9JVriIm) | [The Regulators](https://open.spotify.com/artist/2ijIBVKNxaVL42km0cfbJi) | [Snake Eyes](https://open.spotify.com/album/4FrZqEBPv8KCSBsgzXdtIc) | 3:05 |
+| 27 | [Top Back](https://open.spotify.com/track/2Tv7Ef5fRh8TnGp154zisH) | [Naomi August](https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh) | [Top Back](https://open.spotify.com/album/05JJH4NecXBnskIuTyl4Se) | 2:20 |
+| 28 | [Flow Widdit](https://open.spotify.com/track/2syDFZtUeMvSOLqy7oSt9A) | [Nick Jordan](https://open.spotify.com/artist/0qhVlsnPIrOB8QYW3Clz07) | [Flow Widdit](https://open.spotify.com/album/4wxpZE78d0xO3A7Lcv0jh5) | 2:14 |
+| 29 | [Hella Bandz](https://open.spotify.com/track/5wczjID12AjJdvFCGfkQV3) | [Hunnit](https://open.spotify.com/artist/1cRYeRzp53EbYDxqbtgirQ), [Mucho](https://open.spotify.com/artist/3YfNMbc4wYmEWug01GZGET) | [Famous No Where](https://open.spotify.com/album/3tJudQKnMacPG0oDEiIQmN) | 3:23 |
+| 30 | [Fabric](https://open.spotify.com/track/4lBHRYH1xFGPqZVkrl26df) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Eden](https://open.spotify.com/album/6sWz3hjGjLYCtcnPPuRe9i) | 2:21 |
+| 31 | [Freak Love](https://open.spotify.com/track/1nAV87cdjTkBhBDociyAPp) | [Helena](https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ) | [Do It To 'Em](https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi) | 2:43 |
+| 32 | [Poppin](https://open.spotify.com/track/1roj4a6clyNV7vSn3vkPXr) | [Jo Stunnah](https://open.spotify.com/artist/3YYw4TNcibgOzRx0XWfIXi) | [Poppin](https://open.spotify.com/album/3qpKCrcgeQMNliCtSH9Oae) | 2:13 |
+| 33 | [Another Day In A Small Town](https://open.spotify.com/track/3B1zj88YhiYFSLGf0Kty2A) | [The Salty Dogs](https://open.spotify.com/artist/6Jkj2rAfvW5x563aQR1PqW) | [Brand New Reason](https://open.spotify.com/album/1liXMXQmbQQnB8xXBHqdv0) | 3:17 |
+| 34 | [DIRTY](https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm) | [TANGELA](https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU) | [DIRTY](https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT) | 2:39 |
+| 35 | [You is a Dark Cloud](https://open.spotify.com/track/6lKuXGOquwUx7RJaQo9lwL) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN), [Lambert 'Stereo' Waldrip](https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 1:32 |
 
-Snapshot ID: `Z0Yd2gAAAABQ2YFDiXvXUmcxoLnBnCTp`
+Snapshot ID: `Z6aa1wAAAACQV9yOjylqTa7FMp/yZ6xd`

@@ -4,7 +4,7 @@
 
 > The shape of noise to come with Glixen \(pictured\), Superheaven, Glare, and more.
 
-780 songs - 1 day 20 hr 37 min
+783 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Blow Up the Spot](https://open.spotify.com/track/2ZdqMML5cHLInZe5TgScPR) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Blow Up the Spot](https://open.spotify.com/album/1LWOjhtKbzzdC83agk1z76) | 2:26 | 2024-11-01 | 2024-11-27 |
 | [Blue Eyes](https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH) | 3:31 | 2024-01-19 | 2024-03-02 |
 | [Blue Sky](https://open.spotify.com/track/1aQgDoin5W59DV8XayTlbK) | [Big World](https://open.spotify.com/artist/1iXlRbJ302iGzpBlPs773g) | [Blue Sky](https://open.spotify.com/album/4REq7tbkedlik4lirEXitL) | 2:26 | 2024-01-26 | 2024-05-03 |
-| [Blur](https://open.spotify.com/track/0EbMzjbBoeWsTcmPXtdV2Z) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blur](https://open.spotify.com/album/3DZu3vIjxF9SOTaFzVDV9i) | 3:45 | 2024-09-30 |  |
+| [Blur](https://open.spotify.com/track/0EbMzjbBoeWsTcmPXtdV2Z) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blur](https://open.spotify.com/album/3DZu3vIjxF9SOTaFzVDV9i) | 3:45 | 2024-09-30 | 2025-02-08 |
 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 | 2023-04-07 | 2023-08-22 |
 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 | 2022-03-10 | 2022-04-22 |
 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 | 2023-06-16 | 2023-10-14 |
@@ -151,7 +151,7 @@
 | [Chow](https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Chow](https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh) | 2:49 | 2024-08-16 | 2024-08-24 |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-14 | 2023-01-21 |
 | [clairbourne practice](https://open.spotify.com/track/2FkaJLh6XOW89prNsJvsdq) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:07 | 2024-11-29 |  |
-| [Clarity](https://open.spotify.com/track/2X3BB3fO2RdZAdjymw5q0i) | [Saving Face](https://open.spotify.com/artist/13upTRjiSvKITKBtvWkypR) | [Clarity](https://open.spotify.com/album/75kZgDnW8R67X306ZDEfjj) | 3:49 | 2024-11-22 |  |
+| [Clarity](https://open.spotify.com/track/2X3BB3fO2RdZAdjymw5q0i) | [Saving Face](https://open.spotify.com/artist/13upTRjiSvKITKBtvWkypR) | [Clarity](https://open.spotify.com/album/75kZgDnW8R67X306ZDEfjj) | 3:49 | 2024-11-22 | 2025-02-08 |
 | [Clean Hands](https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv) | [The Darling Fire](https://open.spotify.com/artist/280ynciDmBOnHdsAwrewis) | [Clean Hands](https://open.spotify.com/album/05UaLB7zgQ8lcjLlnVIXcz) | 4:14 | 2022-06-30 | 2022-10-01 |
 | [Clementine](https://open.spotify.com/track/7AxasOJ0ksH6jDzWXLnTqM) | [Gravedweller](https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX) | [Clementine/Geeked](https://open.spotify.com/album/486qhyhOlmxt6q3xAABtTp) | 2:36 | 2024-03-08 | 2024-04-19 |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-21 | 2022-09-07 |
@@ -263,7 +263,7 @@
 | [Feel Good](https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7) | [Nature Trip](https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg) | [Feel Good](https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5) | 3:42 | 2023-08-31 | 2023-11-11 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2021-12-16 | 2022-03-04 |
 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 | 2022-10-28 | 2023-01-28 |
-| [First Dream](https://open.spotify.com/track/629n7q18V9TA28T9BbgB9c) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [End of the Nail](https://open.spotify.com/album/2jI5obOMH5PFlFPbN2AE5u) | 4:06 | 2024-12-06 |  |
+| [First Dream](https://open.spotify.com/track/629n7q18V9TA28T9BbgB9c) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [End of the Nail](https://open.spotify.com/album/2jI5obOMH5PFlFPbN2AE5u) | 4:06 | 2024-12-06 | 2025-02-08 |
 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 | 2023-03-24 | 2024-03-02 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz) | 2:53 | 2023-04-07 | 2023-04-22 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/3jm9aU4VMaweWv0Z8qigRO) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Flowers for Handcuffs](https://open.spotify.com/album/7EAnHOl4iSzdrU9CJ7sW4n) | 2:53 | 2023-03-17 | 2023-04-09 |
@@ -311,6 +311,7 @@
 | [Grab The Wheel](https://open.spotify.com/track/6Ah3fGbAzn3mjKIySvl4YI) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Grab The Wheel](https://open.spotify.com/album/1aBwM4YpCLH1yI3YQDQYpv) | 3:17 | 2023-10-13 | 2023-10-21 |
 | [Gradient](https://open.spotify.com/track/4uhtG8r6uEUX85lM8SSAD9) | [MERCURY](https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2) | [Gradient](https://open.spotify.com/album/2mAiu74drTc15UeOo5xU1q) | 4:05 | 2024-07-15 | 2024-09-06 |
 | [Gradient](https://open.spotify.com/track/5YShlRQKMKKBvkhAFKi1SA) | [MERCURY](https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2) | [This Place I'm Forgetting, Replaced with an Ending.](https://open.spotify.com/album/2ggl0S6JP5xAnwPe8TGvi0) | 4:05 | 2024-10-04 |  |
+| [Graze](https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Graze](https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64) | 4:24 | 2025-02-07 |  |
 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 | 2021-12-16 | 2022-02-11 |
 | [Greener Grass](https://open.spotify.com/track/6IboepxmrdjdyKDYrBDn7Y) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Greener Grass](https://open.spotify.com/album/5B3f2hJ9Adl5StkQBq8bpf) | 3:57 | 2022-10-14 | 2022-11-19 |
 | [Grow](https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Grow](https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S) | 3:47 | 2023-03-10 | 2023-06-17 |
@@ -596,6 +597,7 @@
 | [Seventh Hell](https://open.spotify.com/track/0K134na0zJBSypTieFgNlN) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 2:22 | 2023-10-06 | 2023-10-14 |
 | [SEX DOPE GOLD](https://open.spotify.com/track/3jxOhd8XKXjNjV84USrER4) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [SEX DOPE GOLD](https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI) | 2:57 | 2022-02-24 | 2022-05-27 |
 | [She Said](https://open.spotify.com/track/6TRywjMnxZ2v0rADXDAvAX) | [Daze](https://open.spotify.com/artist/570hYppifPXSy1q9odRQwy) | [She Said](https://open.spotify.com/album/5KIgGTw6BNSkLW3kfG0mma) | 3:33 | 2024-07-26 | 2024-10-01 |
+| [Shithouse Rat](https://open.spotify.com/track/3mNyiBEEiYFmGDx8ISA8Zy) | [No Culture](https://open.spotify.com/artist/5GCSNRo0GKjFLGJlgVRofv) | [Shithouse Rat](https://open.spotify.com/album/2XEUnkXHZGLhgVuYQfdUh5) | 3:41 | 2025-02-07 |  |
 | [Shiver](https://open.spotify.com/track/1nXOm9Z1C5WgGGpnboauqm) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Shiver](https://open.spotify.com/album/5lyPpLIB9rE7M5qfH9o1ch) | 3:47 | 2024-06-28 | 2024-07-09 |
 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 | 2024-02-02 | 2024-08-24 |
 | [Shoulders](https://open.spotify.com/track/0rTLdT65nXUA04EY0jEF6L) | [Giveaway](https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A) | [Shoulders](https://open.spotify.com/album/0kT8xYHpoDyAbBfjrtuvwX) | 2:33 | 2023-04-21 | 2023-06-10 |
@@ -642,6 +644,7 @@
 | [Still Love](https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-07-28 | 2023-08-22 |
 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-20 | 2023-08-22 |
 | [Stillpoint](https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT), [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Stillpoint](https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN) | 3:37 | 2024-06-14 | 2024-08-03 |
+| [Story of the Egg](https://open.spotify.com/track/4d9sh6oekDIWtAT16Y5YhX) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Story of the Egg](https://open.spotify.com/album/443hnII8iE2ZckH3FhzVEG) | 4:25 | 2025-02-07 |  |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2022-09-07 |
 | [Stuck](https://open.spotify.com/track/5hkgZ6ihtsF6IZr0KaYeMd) | [Oceanator](https://open.spotify.com/artist/4XUljLhCjbV8Zc6IX14Yj6) | [Stuck](https://open.spotify.com/album/49SmbwW9P7GYiQUXimkcTJ) | 3:46 | 2022-03-10 | 2022-09-07 |
 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-29 | 2023-12-21 |

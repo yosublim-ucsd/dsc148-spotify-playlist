@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. rusowsky",
-  "num_followers": 215482,
+  "num_followers": 215499,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -251,30 +251,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "BABASONICO",
-        "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
+        "name": "El Grimorio",
+        "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
       },
       "artists": [
         {
-          "name": "Stiffy",
-          "url": "https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO"
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
         },
         {
-          "name": "turrobaby",
-          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
-        },
-        {
-          "name": "Zell",
-          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
-        },
-        {
-          "name": "AgusFortnite2008",
-          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
         }
       ],
-      "duration_ms": 106500,
-      "name": "BABASONICO",
-      "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
+      "duration_ms": 161454,
+      "name": "Olor a perfume caro y tabaco",
+      "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -347,22 +339,30 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "El Grimorio",
-        "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
+        "name": "BABASONICO",
+        "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
       },
       "artists": [
         {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+          "name": "Stiffy",
+          "url": "https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO"
         },
         {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        },
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        },
+        {
+          "name": "AgusFortnite2008",
+          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Olor a perfume caro y tabaco",
-      "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
+      "duration_ms": 106500,
+      "name": "BABASONICO",
+      "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "FAMILY MART",
-        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        }
-      ],
-      "duration_ms": 118936,
-      "name": "FAMILY MART",
-      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "Pelle Pelle",
         "url": "https://open.spotify.com/album/0fu3kaEwQh3remDH0eO1pH"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 146382,
       "name": "Pelle Pelle",
       "url": "https://open.spotify.com/track/5OIqUziOPgWQiAj8bl2W0v"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "FAMILY MART",
+        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "duration_ms": 118936,
+      "name": "FAMILY MART",
+      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "SCARYHOT",
-        "url": "https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "SCARYHOT",
-      "url": "https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "Nunca Volver\u00e1",
         "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+        "name": "SCARYHOT",
+        "url": "https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         }
       ],
-      "duration_ms": 90270,
-      "name": "TUSSI",
-      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
+      "duration_ms": 129000,
+      "name": "SCARYHOT",
+      "url": "https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -691,6 +675,22 @@
       "duration_ms": 155131,
       "name": "MARLA",
       "url": "https://open.spotify.com/track/7zBNaG5D2YRoK3CED4LK4M"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 90270,
+      "name": "TUSSI",
+      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -999,46 +999,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "ENTUUUUPIELX2",
-        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
-      },
-      "artists": [
-        {
-          "name": "dieglitter",
-          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
-        },
-        {
-          "name": "Bbynito",
-          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "ENTUUUUPIELX2",
-      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "Ying Yang",
-        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
-      },
-      "artists": [
-        {
-          "name": "grauu",
-          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Ying Yang",
-      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "Vaciador_remixes",
         "url": "https://open.spotify.com/album/3q9JQQR59X2dsVKgBKfgOM"
       },
@@ -1063,6 +1023,26 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
+      },
+      "artists": [
+        {
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Lo Que Dijiste",
         "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 208182,
       "name": "Lo Que Dijiste",
       "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "ENTUUUUPIELX2",
+        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        },
+        {
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "ENTUUUUPIELX2",
+      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "MET\u00c1LICA",
-        "url": "https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W"
+        "name": "sofocao",
+        "url": "https://open.spotify.com/album/2iEniiWCuH6TuTYYWnprLk"
       },
       "artists": [
         {
-          "name": "Korashe",
-          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+          "name": "Xave",
+          "url": "https://open.spotify.com/artist/3rGVvULlz4GVZLUHFuvYIg"
         },
         {
-          "name": "Kf\u00e9",
-          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+          "name": "Snaki",
+          "url": "https://open.spotify.com/artist/1X3v5U1pwuTFdBfmmswwLV"
         }
       ],
-      "duration_ms": 126030,
-      "name": "MET\u00c1LICA",
-      "url": "https://open.spotify.com/track/7kcYzcqJddmGW2UxSgKnFa"
+      "duration_ms": 142500,
+      "name": "sofocao",
+      "url": "https://open.spotify.com/track/6EuzBdcfKZTsX1CILyiqQF"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "sofocao",
-        "url": "https://open.spotify.com/album/2iEniiWCuH6TuTYYWnprLk"
+        "name": "MET\u00c1LICA",
+        "url": "https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W"
       },
       "artists": [
         {
-          "name": "Xave",
-          "url": "https://open.spotify.com/artist/3rGVvULlz4GVZLUHFuvYIg"
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
         },
         {
-          "name": "Snaki",
-          "url": "https://open.spotify.com/artist/1X3v5U1pwuTFdBfmmswwLV"
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
         }
       ],
-      "duration_ms": 142500,
-      "name": "sofocao",
-      "url": "https://open.spotify.com/track/6EuzBdcfKZTsX1CILyiqQF"
+      "duration_ms": 126030,
+      "name": "MET\u00c1LICA",
+      "url": "https://open.spotify.com/track/7kcYzcqJddmGW2UxSgKnFa"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
-      },
-      "artists": [
-        {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 124478,
-      "name": "L\u00edmites",
-      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "10g de polen",
         "url": "https://open.spotify.com/album/4xrJeIzrtiXDuCfZ5vMeG4"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 193681,
       "name": "10g de polen",
       "url": "https://open.spotify.com/track/73zUjNka4cvwb8sxEBfLrJ"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "duration_ms": 124478,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
+        "name": "A DIOS LE PIDO",
+        "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
       },
       "artists": [
         {
-          "name": "albwhisp",
-          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
-        },
-        {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Rituales",
-      "url": "https://open.spotify.com/track/7vZ4cZWrkapkEP31EobmyU"
+      "duration_ms": 136811,
+      "name": "A DIOS LE PIDO",
+      "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1375,22 +1371,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "SALIR A MORIR",
-        "url": "https://open.spotify.com/album/5yqkq8TGunOioNW34845RH"
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
       },
       "artists": [
         {
-          "name": "shakeitmila",
-          "url": "https://open.spotify.com/artist/6SZq6mW5RGGMuqvgz6y5mx"
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
         },
         {
-          "name": "VILLARROYA",
-          "url": "https://open.spotify.com/artist/5MyMJH918WtAhGfaeepXGZ"
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
         }
       ],
-      "duration_ms": 154777,
-      "name": "SALIR A MORIR",
-      "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
+      "duration_ms": 155200,
+      "name": "Rituales",
+      "url": "https://open.spotify.com/track/7vZ4cZWrkapkEP31EobmyU"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1407,6 +1403,26 @@
       "duration_ms": 196000,
       "name": "I Love Me More",
       "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "SALIR A MORIR",
+        "url": "https://open.spotify.com/album/5yqkq8TGunOioNW34845RH"
+      },
+      "artists": [
+        {
+          "name": "shakeitmila",
+          "url": "https://open.spotify.com/artist/6SZq6mW5RGGMuqvgz6y5mx"
+        },
+        {
+          "name": "VILLARROYA",
+          "url": "https://open.spotify.com/artist/5MyMJH918WtAhGfaeepXGZ"
+        }
+      ],
+      "duration_ms": 154777,
+      "name": "SALIR A MORIR",
+      "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1439,22 +1455,6 @@
       "duration_ms": 155571,
       "name": "DESNUDO",
       "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "A DIOS LE PIDO",
-        "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
-      },
-      "artists": [
-        {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
-        }
-      ],
-      "duration_ms": 136811,
-      "name": "A DIOS LE PIDO",
-      "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "FOREVER YOUNG",
+        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Im Forever",
+      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "GUSTARLE A TU ABUELA",
         "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 132903,
       "name": "GUSTARLE A TU ABUELA",
       "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "FOREVER YOUNG",
-        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
-      },
-      "artists": [
-        {
-          "name": "Mejiias",
-          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
-        }
-      ],
-      "duration_ms": 235384,
-      "name": "Im Forever",
-      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1719,42 +1719,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "mario crush",
-        "url": "https://open.spotify.com/album/7l8GKbKPx8iUPyOyC2p8xZ"
-      },
-      "artists": [
-        {
-          "name": "resaca emocional",
-          "url": "https://open.spotify.com/artist/15uHkHsjAPqZHsliqQbaa7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "mario crush",
-      "url": "https://open.spotify.com/track/7rbPqcfGBdQFeD9r871Azi"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "SUBNORMAL",
-        "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 114549,
-      "name": "SUBNORMAL",
-      "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "Diavlo",
         "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
       },
@@ -1771,6 +1735,22 @@
       "duration_ms": 193714,
       "name": "Diavlo",
       "url": "https://open.spotify.com/track/7F0p1D0tQMBTRmquBbDuDs"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "mario crush",
+        "url": "https://open.spotify.com/album/7l8GKbKPx8iUPyOyC2p8xZ"
+      },
+      "artists": [
+        {
+          "name": "resaca emocional",
+          "url": "https://open.spotify.com/artist/15uHkHsjAPqZHsliqQbaa7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "mario crush",
+      "url": "https://open.spotify.com/track/7rbPqcfGBdQFeD9r871Azi"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1795,6 +1775,26 @@
       "duration_ms": 153750,
       "name": "NIGHTMARE",
       "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "SUBNORMAL",
+        "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 114549,
+      "name": "SUBNORMAL",
+      "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1851,6 +1851,30 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "Santo Veneno",
+        "url": "https://open.spotify.com/album/6wHJNkkWvuyoaogfMxUk0L"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        },
+        {
+          "name": "KIDHARTA",
+          "url": "https://open.spotify.com/artist/5jn0wsZPoQjwvWCaAJrih2"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Santo Veneno",
+      "url": "https://open.spotify.com/track/1sLscscAu0fWvCfSA9aGNc"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "cara de malo",
         "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
       },
@@ -1879,30 +1903,6 @@
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "Santo Veneno",
-        "url": "https://open.spotify.com/album/6wHJNkkWvuyoaogfMxUk0L"
-      },
-      "artists": [
-        {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
-        },
-        {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
-        },
-        {
-          "name": "KIDHARTA",
-          "url": "https://open.spotify.com/artist/5jn0wsZPoQjwvWCaAJrih2"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Santo Veneno",
-      "url": "https://open.spotify.com/track/1sLscscAu0fWvCfSA9aGNc"
     }
   ],
   "unique_name": "helium",

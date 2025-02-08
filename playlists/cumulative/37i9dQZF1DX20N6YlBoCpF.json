@@ -27078,6 +27078,24 @@
     {
       "album": {
         "name": "Weet Jy",
+        "url": "https://open.spotify.com/album/1SFYnxrZvDZFbH7oyrdmvu"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Weet Jy",
+      "url": "https://open.spotify.com/track/0hClSz5kQYa9qi1HWEottD"
+    },
+    {
+      "album": {
+        "name": "Weet Jy",
         "url": "https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6"
       },
       "artists": [

@@ -2,7 +2,7 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> our Spotify KALYE Song of the Year is Babaero! Cover: gins&melodies
+> our Spotify KALYE Artist of the Year is Hev Abi!
 
 229 songs - 12 hr 56 min
 

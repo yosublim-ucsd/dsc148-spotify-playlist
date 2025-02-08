@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with LEVEL UP",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Levity",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -1238,6 +1238,32 @@
       "duration_ms": 195310,
       "name": "BACKSTAGE",
       "url": "https://open.spotify.com/track/14Ej4RnUsCPFyTxyTBiVmz"
+    },
+    {
+      "album": {
+        "name": "BAD MOFO",
+        "url": "https://open.spotify.com/album/0wI74ce9eDJi0S7NXEeCJS"
+      },
+      "artists": [
+        {
+          "name": "Rated R",
+          "url": "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
+        },
+        {
+          "name": "BRASIVE",
+          "url": "https://open.spotify.com/artist/7yhggvYGaHbDDKtgK4tXKm"
+        },
+        {
+          "name": "MYSTRVS",
+          "url": "https://open.spotify.com/artist/1UWyyX8LZnn0nkNAVIfTvZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "BAD MOFO",
+      "url": "https://open.spotify.com/track/3uj3tSsASKFqIHvYh1Qdh2"
     },
     {
       "album": {
@@ -4380,7 +4406,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 175448,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/3ZotZNd6EIjff0TvXR1J2P"
@@ -4912,6 +4938,24 @@
       "duration_ms": 163862,
       "name": "DOODLE",
       "url": "https://open.spotify.com/track/5DphXBn0OLpQHBXHkVmoyP"
+    },
+    {
+      "album": {
+        "name": "DOOM SEQUENCE",
+        "url": "https://open.spotify.com/album/1j33fB6svpXegZT6pydDkE"
+      },
+      "artists": [
+        {
+          "name": "Cromatik",
+          "url": "https://open.spotify.com/artist/3gEQTLtiHaWmeTwXpOOptm"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "DOOM SEQUENCE",
+      "url": "https://open.spotify.com/track/3hcc1pbWxg7qseINZr9wJI"
     },
     {
       "album": {
@@ -5741,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "EVIL EMPIRE",
+        "url": "https://open.spotify.com/album/2ufPF1NIS93YdihlOwEpve"
+      },
+      "artists": [
+        {
+          "name": "THE RESISTANCE",
+          "url": "https://open.spotify.com/artist/4VU3TBTKad327N0Ql1P1ew"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "EVIL EMPIRE",
+      "url": "https://open.spotify.com/track/7DcnddUxZUXuCoE9vtkTex"
+    },
+    {
+      "album": {
         "name": "Excalibur",
         "url": "https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU"
       },
@@ -6118,7 +6180,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 181846,
       "name": "FEEL THIS",
       "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"
@@ -6784,7 +6846,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 198857,
       "name": "Funk With Me",
       "url": "https://open.spotify.com/track/6jOIKPg5B5SK98ZL1oAqkx"
@@ -8632,7 +8694,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 195428,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/36h4vOjsaWSb3oWDaH8PdG"
@@ -9771,6 +9833,24 @@
     },
     {
       "album": {
+        "name": "Ophelia Presents: Advent Volume 10",
+        "url": "https://open.spotify.com/album/2iaEfkIwxGmUjaiKfqVQVV"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "LETS GET THIS THING MOVING",
+      "url": "https://open.spotify.com/track/5D0V7Ra4ndxQ2qaiWnBfPj"
+    },
+    {
+      "album": {
         "name": "Level",
         "url": "https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX"
       },
@@ -10030,6 +10110,24 @@
       "duration_ms": 234267,
       "name": "LOST MY MIND",
       "url": "https://open.spotify.com/track/7M4OzDvdo8GuL4WwFnTG9j"
+    },
+    {
+      "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/5xXul2PWn3SYaEdcZ0xesB"
+      },
+      "artists": [
+        {
+          "name": "MACHAKI",
+          "url": "https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/0G2Rh4K8prhlCQb8GRyCiH"
     },
     {
       "album": {
@@ -10560,7 +10658,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 204814,
       "name": "MIND CONTROL (EDDIE Remix)",
       "url": "https://open.spotify.com/track/44hbzdovYYuLzLuQspQ84x"
@@ -12088,7 +12186,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 244965,
       "name": "operator",
       "url": "https://open.spotify.com/track/5FmZHhKz6yzJa3lzFNrxeg"
@@ -12644,6 +12742,24 @@
       "duration_ms": 192000,
       "name": "PORTAL TO SIN",
       "url": "https://open.spotify.com/track/0eLVe0R4EKX9wCtnoCzAnO"
+    },
+    {
+      "album": {
+        "name": "Postman",
+        "url": "https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191379,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3"
     },
     {
       "album": {
@@ -13832,7 +13948,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186625,
       "name": "Riot - Kompany Remix",
       "url": "https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X"
@@ -14890,7 +15006,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145333,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj"
@@ -17331,6 +17447,24 @@
     },
     {
       "album": {
+        "name": "INFINITE PORTALS",
+        "url": "https://open.spotify.com/album/3Ty8uV8M15lueLmF0B1HZT"
+      },
+      "artists": [
+        {
+          "name": "Cromatik",
+          "url": "https://open.spotify.com/artist/3gEQTLtiHaWmeTwXpOOptm"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129931,
+      "name": "THUNDA TO THE DOME",
+      "url": "https://open.spotify.com/track/1mWCtsyDr6r9D7Cy3m7Sxl"
+    },
+    {
+      "album": {
         "name": "Tick Tock",
         "url": "https://open.spotify.com/album/5Ak9k5tjtq6IANvIV7A4Cl"
       },
@@ -18567,6 +18701,28 @@
     },
     {
       "album": {
+        "name": "WDGAF",
+        "url": "https://open.spotify.com/album/2X8ltfBTaQ8HuxDT7kTSpg"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "WDGAF",
+      "url": "https://open.spotify.com/track/5Z3kCJv6U3hQ6Ti7ujd8Fj"
+    },
+    {
+      "album": {
         "name": "Weird & ODD",
         "url": "https://open.spotify.com/album/25uLQgfbFL6njUMLNRSoaL"
       },
@@ -18644,7 +18800,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 171428,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/4DgRIcXzeaunKVtGxiF4RN"
@@ -18860,6 +19016,24 @@
       "duration_ms": 155588,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu"
+    },
+    {
+      "album": {
+        "name": "Wubcraft",
+        "url": "https://open.spotify.com/album/0vOIYEyFrixFT4I6quSsIJ"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155700,
+      "name": "Wubcraft",
+      "url": "https://open.spotify.com/track/3g8WmeSOar7RKuQEEfNhZo"
     },
     {
       "album": {

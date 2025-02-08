@@ -793,6 +793,28 @@
     },
     {
       "album": {
+        "name": "It Is Finished",
+        "url": "https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W"
+      },
+      "artists": [
+        {
+          "name": "Sean Rodriguez",
+          "url": "https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250086,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw"
+    },
+    {
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },

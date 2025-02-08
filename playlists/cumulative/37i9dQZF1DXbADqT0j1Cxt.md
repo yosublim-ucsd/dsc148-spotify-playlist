@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-698 songs - 21 hr 16 min
+700 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/track/5zAG6QyEaqloTJPLn9wexX) | [Mark J Welles](https://open.spotify.com/artist/28MAEVYUiojJMpu7EqtBbr) | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/album/2pCLp3sqJ72I9xSHEHLXhx) | 2:21 | 2021-10-07 | 2022-05-14 |
 | [A Friend Like You](https://open.spotify.com/track/3lUeZg1nFKs90uuP759lLx) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [A Friend Like You](https://open.spotify.com/album/48s2eCCUzsLCDMu7oDAw4A) | 1:38 | 2022-01-21 |  |
 | [A Friend through the Night](https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [A Friend through the Night](https://open.spotify.com/album/7jVd2qD7qlF1WX9CZWtI5w) | 1:09 | 2021-10-07 | 2025-01-18 |
-| [A Little Miracle](https://open.spotify.com/track/75hEpUsgtjTqpvXbXJbft1) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [A Little Miracle](https://open.spotify.com/album/2WfyBbf2UawU7JNcsq1WmF) | 1:31 | 2022-01-21 |  |
+| [A Little Miracle](https://open.spotify.com/track/75hEpUsgtjTqpvXbXJbft1) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [A Little Miracle](https://open.spotify.com/album/2WfyBbf2UawU7JNcsq1WmF) | 1:31 | 2022-01-21 | 2025-02-08 |
 | [A Little Sun Rises](https://open.spotify.com/track/2psD0UIayu6V1oC20BKhKx) | [Jesse Holderman](https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez) | [A Little Sun Rises](https://open.spotify.com/album/52UkXhpFKB4uzKy0NdfbWc) | 2:04 | 2022-04-19 |  |
 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 | 2023-12-22 |  |
 | [A Ram Sam Sam](https://open.spotify.com/track/0bnnxOSirCBcu276sRJ0s6) | [Paul Chevez](https://open.spotify.com/artist/40ZcdfHKTyisdGQOIHAmFJ) | [A Ram Sam Sam](https://open.spotify.com/album/2DzR3IjWQWUFQxC5o6DJla) | 1:44 | 2021-10-07 | 2022-11-26 |
@@ -146,7 +146,7 @@
 | [Douceur](https://open.spotify.com/track/7coUTLWmwsrqGRZWOzl7Y3) | [Liv Isglans](https://open.spotify.com/artist/6fYU0RQ2ZOvofVWtAWvMqU) | [Douceur](https://open.spotify.com/album/48WZeVMoxKNVakvkc8vH6v) | 2:39 | 2024-05-24 |  |
 | [Down By The Bay](https://open.spotify.com/track/742c6pq3nrmbAVBfIs5rrT) | [Polyák Lazar](https://open.spotify.com/artist/04qxCyQREKAuS2k9LAQbEZ) | [Humpty Dumpty](https://open.spotify.com/album/660aCDME0MSiTTcWIayRxs) | 1:21 | 2021-10-07 | 2022-12-10 |
 | [Down By The Bay](https://open.spotify.com/track/33vHl033oQ8m50wbAEc5jg) | [Ruby Barnes](https://open.spotify.com/artist/2kzymRA8IJ9cGwKYvRLiI8) | [Down By The Bay](https://open.spotify.com/album/27Gvpy7UBRrrSbDL1AYuEL) | 1:43 | 2021-10-07 | 2023-04-09 |
-| [Dream A Little Dream](https://open.spotify.com/track/2qPwfefFQBMgzPsnAXtPV5) | [Hugo Beauchamp](https://open.spotify.com/artist/3QG279a9CdSRX7ktPF3RGA) | [Dream A Little Dream](https://open.spotify.com/album/3oby7ZywgBCMfRRyMSkCLy) | 2:09 | 2024-12-06 |  |
+| [Dream A Little Dream](https://open.spotify.com/track/2qPwfefFQBMgzPsnAXtPV5) | [Hugo Beauchamp](https://open.spotify.com/artist/3QG279a9CdSRX7ktPF3RGA) | [Dream A Little Dream](https://open.spotify.com/album/3oby7ZywgBCMfRRyMSkCLy) | 2:09 | 2024-12-06 | 2025-02-08 |
 | [Dream Time](https://open.spotify.com/track/4ZRCedGgRihP3QkJuqDMOW) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Dream Time](https://open.spotify.com/album/5L1AFKWXBh2dZ8NHoNL2Jg) | 2:20 | 2024-01-05 |  |
 | [Dreambear](https://open.spotify.com/track/6JKkegxsYmFJ2HbjLxwz9O) | [Alicja Pawlowska](https://open.spotify.com/artist/3sZRepzXEVWUR0vTDpmBBn) | [Dreambear](https://open.spotify.com/album/4dyt7Kgu09MWKs303sGCWH) | 2:04 | 2024-06-28 |  |
 | [Dreamland](https://open.spotify.com/track/13GKdhfHesxaGXTOS6y1Ui) | [Poppy Penguin](https://open.spotify.com/artist/70lc84qIQU7cNBmLtOQrt3) | [Dreamland](https://open.spotify.com/album/1T9Z7uWLpBdOA54sAlKhfP) | 1:39 | 2023-04-07 |  |
@@ -317,6 +317,7 @@
 | [Le Fiacre](https://open.spotify.com/track/6gADa9cE5XwpVQQLH5HqG6) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Le Fiacre](https://open.spotify.com/album/4H3qwhO3Oqg54bBxNt8jQF) | 2:07 | 2022-12-09 |  |
 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lemon sky](https://open.spotify.com/track/3UvDZep35uVvjQs2C1kLLW) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Lemon sky](https://open.spotify.com/album/4GXco887kb4osKRxt2Ia8r) | 1:21 | 2021-10-07 |  |
+| [Leo the Lion](https://open.spotify.com/track/3T4LWuYdxwyejPxCQeM0B9) | [Noel Keys](https://open.spotify.com/artist/6wjGDoGXnUiwtucOSTqac1) | [Leo the Lion](https://open.spotify.com/album/5fXtr8PSSOLxTXQdpFkDSR) | 1:21 | 2025-02-07 |  |
 | [Leonel's First Steps](https://open.spotify.com/track/5mKfrBb5iCkXF7EkRO6lrA) | [Regina Scott](https://open.spotify.com/artist/12whHrHwuz0rDPhO3LY9a3) | [Leonel's First Steps](https://open.spotify.com/album/1BDjxKRPAh5yDiRfM1aBpw) | 1:59 | 2021-10-07 | 2023-03-18 |
 | [Let's Call It A Night](https://open.spotify.com/track/3Hfc2BB0RAZ13TW1TFliE6) | [Lilly\-Ann Ottley](https://open.spotify.com/artist/6UVVSofDYobp2qJM6p35lL) | [Let's Call It A Night](https://open.spotify.com/album/0hRGRBZNsqFonXKYLxEEgJ) | 1:14 | 2022-04-19 |  |
 | [Lied des Mondes](https://open.spotify.com/track/776OzJITrDMcQ4TdJpo8Iu) | [Jana Bohm](https://open.spotify.com/artist/6ehqULwx1NwQNyO6fLGMjJ) | [Lied des Mondes](https://open.spotify.com/album/3sSOGzSv4jhuTdGRNUHxhZ) | 1:37 | 2022-04-19 |  |
@@ -475,6 +476,7 @@
 | [Rainbow Sky](https://open.spotify.com/track/4svS894AnmwsJboKSF37Gi) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Rainbow Sky](https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n) | 2:06 | 2023-03-17 |  |
 | [Raindrops and Roses](https://open.spotify.com/track/4qhBjg5zm5FhLT1vyd1Nok) | [Daisy Stokes](https://open.spotify.com/artist/6QMA6JrxN306K7jz8oPsSc) | [Raindrops and Roses](https://open.spotify.com/album/4u5rTefoDIN7FAA89A4ske) | 1:30 | 2021-10-07 | 2024-05-24 |
 | [Rat In The Hat](https://open.spotify.com/track/3GZUhpSu3G5zhMRWC4k5ma) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Rat In The Hat](https://open.spotify.com/album/7p8i5EqvUcTzLKlYZR8QId) | 0:59 | 2023-12-08 |  |
+| [Rest My Sweet](https://open.spotify.com/track/51z1KkfB6UBJIKWtBUQGzF) | [Rohan Bhasker](https://open.spotify.com/artist/13ETCLA4rmADTdgWDvyZlo) | [Rest My Sweet](https://open.spotify.com/album/5A1fqaloC7cYD1mvh5mY9S) | 3:50 | 2025-02-07 |  |
 | [Rest Now, Child](https://open.spotify.com/track/7kH8eTfyPn17ryyIZ9OfAC) | [Roly Lucian](https://open.spotify.com/artist/6lEfvybWRACgFS0gXlZbUM) | [Rest Now, Child](https://open.spotify.com/album/5yceu7kN6AGSLpgytQU26Q) | 1:42 | 2021-10-07 | 2024-04-19 |
 | [Rest time for blossoms](https://open.spotify.com/track/786mO43v2Nc1cDVxf7urrt) | [Bernette Michael](https://open.spotify.com/artist/4DUIwR3vpLeBkdTzM3lf3d) | [Rest time for blossoms](https://open.spotify.com/album/4kqsQOwZPtVQvGD573V99o) | 1:28 | 2021-10-07 | 2024-04-19 |
 | [Rest Your Head, My Sleepy Angel](https://open.spotify.com/track/3ykGNcPD71hSGvRPSOKgfu) | [Tammy Madison](https://open.spotify.com/artist/1agrSvX42t5Gd0Poo68KcC) | [Rest Your Head, My Sleepy Angel](https://open.spotify.com/album/53CcPly9siBbxuQI5RDGuv) | 1:41 | 2021-10-07 | 2024-03-29 |

@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Instable",
+        "url": "https://open.spotify.com/album/5icje3HSoFgSiMcqndAhIe"
+      },
+      "artists": [
+        {
+          "name": "Will River",
+          "url": "https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169999,
+      "name": "Instable",
+      "url": "https://open.spotify.com/track/6sax4loTjkdYSCxpFHkmo5"
+    },
+    {
+      "album": {
         "name": "J'ach\u00e8te \u00e7a",
         "url": "https://open.spotify.com/album/1w4OAYC5ux28WTXEbvmZHq"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  (Cover: Luby Sparks )",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  (Cover: AprilBlue)",
   "name": "Haze ",
   "tracks": [
     {
@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "foundyou",
+        "url": "https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz"
+      },
+      "artists": [
+        {
+          "name": "downy",
+          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291896,
+      "name": "foundyou",
+      "url": "https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/1dFa01UouZKtNsOKp3m6Rm"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120600,
       "name": "Jason",
       "url": "https://open.spotify.com/track/0muSzxcpLf9pLLydlTPwyV"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 304901,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/3sSO66ktjkZ8u6cEFsuJ4p"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 167444,
       "name": "NOT Okay",
       "url": "https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB"
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 276077,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC"
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 210138,
       "name": "tears",
       "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 240857,
       "name": "\u3042\u307e\u308a\u98a8",
       "url": "https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75"
@@ -3110,6 +3128,24 @@
       "duration_ms": 153400,
       "name": "\u3055\u3056\u3081\u304f\u9ea6\u308f\u3089",
       "url": "https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2"
+    },
+    {
+      "album": {
+        "name": "yura",
+        "url": "https://open.spotify.com/album/6DCKEaArrhu5mdwr5e8vgY"
+      },
+      "artists": [
+        {
+          "name": "AprilBlue",
+          "url": "https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249464,
+      "name": "\u3072\u3089\u3044\u3066",
+      "url": "https://open.spotify.com/track/3X4U5HF411RAU1MOteMbG8"
     },
     {
       "album": {
@@ -3250,7 +3286,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 226261,
       "name": "\u89e6\u308c\u3066 - re-recording",
       "url": "https://open.spotify.com/track/0a2u5s21XvkRuDNcQ5h4Yy"
@@ -3272,7 +3308,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 211044,
       "name": "\u9014\u4e2d",
       "url": "https://open.spotify.com/track/2frHHHja8jNzy5s4Pdx4hr"

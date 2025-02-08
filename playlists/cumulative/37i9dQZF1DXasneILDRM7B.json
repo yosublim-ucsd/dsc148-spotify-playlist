@@ -5175,24 +5175,6 @@
     },
     {
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "date_added": "2022-04-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158733,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
-    },
-    {
-      "album": {
         "name": "Too Soon For School",
         "url": "https://open.spotify.com/album/4sZY9hFXrExiWFHkBqBFgk"
       },
@@ -5208,6 +5190,24 @@
       "duration_ms": 159253,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0szI4FkE2fqfq1u3LxBPqo"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
     },
     {
       "album": {

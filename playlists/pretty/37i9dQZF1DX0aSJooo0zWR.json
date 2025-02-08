@@ -1,13 +1,29 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: Chick Corea",
-  "num_followers": 207758,
+  "num_followers": 207791,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAADN50/ISId0V5GdLGrdjJOd",
+  "snapshot_id": "Z6WTZAAAAACN2qMDwl6oxaonk/0EaDq7",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:20",
+      "album": {
+        "name": "Medallion",
+        "url": "https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "duration_ms": 269155,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {

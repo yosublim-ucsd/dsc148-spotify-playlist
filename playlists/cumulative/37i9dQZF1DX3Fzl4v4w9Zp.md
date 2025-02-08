@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Sierra Ferrell
+> Keep your finger on the pulse of Americana\. Cover: Wilder Woods
 
-752 songs - 1 day 22 hr 18 min
+755 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [God in Everything](https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:07 | 2023-06-09 | 2023-12-02 |
 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 | 2024-08-16 |  |
 | [Gold](https://open.spotify.com/track/4FhJPRWj8OB36Jk4CDlSY4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Unicorn](https://open.spotify.com/album/3tb5q9GynOzJaq0lIy9pvR) | 3:22 | 2022-10-28 | 2023-11-11 |
+| [Gold Rush](https://open.spotify.com/track/5jx8nGaWvgYQZJd6k1OOuO) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Gold Rush](https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9) | 4:15 | 2025-02-07 |  |
 | [Golden State](https://open.spotify.com/track/6OZlJDNIs9Eix2QGajJEOy) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [All The Wine In California](https://open.spotify.com/album/5hvJoYH3K4PaGfVcI9Dqny) | 4:24 | 2023-09-08 | 2025-01-18 |
 | [Golden Years](https://open.spotify.com/track/4fQXOpDKcxHWgYXmincsq8) | [Parker Gispert](https://open.spotify.com/artist/2EPHhgkv9L6O4FzWJT5kcs) | [Golden Years](https://open.spotify.com/album/0sfjxBL5IvqREalOeEkmDW) | 3:37 | 2022-06-17 | 2023-04-22 |
 | [Good Morning Coffee](https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 3:46 | 2022-10-28 | 2024-01-27 |
@@ -399,6 +400,7 @@
 | [Look Up](https://open.spotify.com/track/5Snxe2isWXVShJuXCg5rCO) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:10 | 2025-01-10 |  |
 | [Lost Lover's Eyes](https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK) | [Vince Herman](https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG) | [Lost Lover's Eyes](https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG) | 3:23 | 2022-11-11 | 2024-02-03 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-21 | 2022-11-19 |
+| [Love Last](https://open.spotify.com/track/7kaHskn4s3SM1aY7GNVqbc) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Curioso](https://open.spotify.com/album/3GQfiWf3Hmkn7wW7FsQTKr) | 3:23 | 2025-02-07 |  |
 | [Love Of A Girl](https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Love Of A Girl](https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g) | 3:16 | 2024-03-01 | 2024-04-13 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2023-01-13 | 2023-12-16 |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 | 2023-04-01 |
@@ -432,6 +434,7 @@
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 |  |
 | [Movin'](https://open.spotify.com/track/2BjoPGw339b87PMwe8g9FT) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Movin'](https://open.spotify.com/album/02iPeaTe80HSdxgFrkVUNB) | 2:41 | 2023-08-18 | 2023-12-02 |
 | [Movin'](https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines \(Deluxe\)](https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae) | 2:41 | 2023-09-22 | 2024-08-10 |
+| [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 |  |
 | [Music City USA](https://open.spotify.com/track/5ihYhdTD821QxrVkb4OSAh) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY) | 3:02 | 2021-12-17 | 2022-05-14 |
 | [My Cleveland Heart](https://open.spotify.com/track/5V0XUXOFHrNckBWd0W43ii) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [My Cleveland Heart](https://open.spotify.com/album/0FeTw0ViiTbLogPSCEpCTG) | 3:20 | 2021-12-17 | 2022-06-04 |
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-12-17 | 2023-02-18 |

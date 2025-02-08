@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp 22
 
-901 songs - 1 day 23 hr 29 min
+903 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Fogueteiro](https://open.spotify.com/track/5eyeaF2U4JcdB6pYWnWwwQ) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Fogueteiro](https://open.spotify.com/album/1tQ82lszdUufjR7xlUP0FV) | 2:08 | 2024-09-13 | 2025-02-01 |
 | [Forasteiro](https://open.spotify.com/track/5DKHLJEuO3wcUksmcSV4fg) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Paulo Dionísio](https://open.spotify.com/artist/2yA2ENYD6IQ6eKmf78Ym0r) | [Forasteiro](https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6) | 4:50 | 2023-05-19 | 2023-07-08 |
 | [Forasteiro](https://open.spotify.com/track/3Q1wnBqnb53CieoQiqmYZJ) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Forasteiro](https://open.spotify.com/album/6EwhjSxrATQBHEoXGCppa1) | 2:43 | 2022-06-24 | 2022-07-09 |
+| [Força](https://open.spotify.com/track/4ZNu1yYAJFt3IAYhIwjQs6) | [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Em Nome das Ruas](https://open.spotify.com/album/1oU1ThRWobv3TG27DL5O7Y) | 1:38 | 2025-02-07 |  |
 | [Fragmentado](https://open.spotify.com/track/4e0p6uPUomr9Jm2Mg8wbXC) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Fragmentado](https://open.spotify.com/album/6VpD6wZITYQuFTC4d1IU9A) | 2:05 | 2023-05-26 | 2023-07-15 |
 | [Freedom](https://open.spotify.com/track/3Wb5YWd4OQDGzPejuCMDpX) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/5TPmdgtQDTntLIj5VWWtsb), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:53 | 2024-11-01 | 2024-11-09 |
 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [prodbynaf](https://open.spotify.com/artist/60vTQUOr7wZvKONCVZ0JwQ), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 | 2023-11-17 | 2024-06-22 |
@@ -896,6 +897,7 @@
 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 | 2024-07-12 | 2024-08-10 |
 | [Voltando Pra Casa](https://open.spotify.com/track/5q0EO4vFsXnMq39026KLFf) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [KLAP](https://open.spotify.com/artist/6EPKecUbr8DHnDO66obdzW) | [Majin Boo Tape 2](https://open.spotify.com/album/1Wq2Wt1vNrmtmT7YsjKe27) | 3:07 | 2022-11-18 | 2022-12-03 |
 | [Voltei](https://open.spotify.com/track/77Yf4Jfx61VmOvOG1c4jhL) | [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [PROIBIDRILL](https://open.spotify.com/album/1MndcCC7a7N1qSfAg1Z1S6) | 1:48 | 2023-01-27 | 2023-02-18 |
+| [Vou Descer Minha Favela de Nave](https://open.spotify.com/track/14opA23741M0TKpFjTnMTP) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Nunca Tenha Medo](https://open.spotify.com/album/2KLXDzdhtlXARb2Xj45v0q) | 2:20 | 2025-02-07 |  |
 | [Vá Embora](https://open.spotify.com/track/5Uh1buBfx7aG7dM3pInB6t) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [Vá Embora](https://open.spotify.com/album/3BfxM0NyaDSa3FkHMONqEd) | 3:44 | 2024-11-08 |  |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-27 | 2022-07-30 |
 | [Word Play](https://open.spotify.com/track/5gvvfzNHsICM3wdh7PlAGf) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Word Play](https://open.spotify.com/album/5yUNVLFxO85U2B8EiMw4O6) | 3:03 | 2024-10-04 | 2024-12-21 |

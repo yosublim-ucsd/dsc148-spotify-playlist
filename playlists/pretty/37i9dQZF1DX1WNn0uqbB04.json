@@ -1,6 +1,6 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87597,
+  "num_followers": 87604,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218052,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
     },
     {
       "added_at": "2024-11-04 16:33:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
-        "name": "Amor de Madrugada",
-        "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "Amor de Madrugada",
-      "url": "https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168813,
       "name": "Veinte Veinte",
       "url": "https://open.spotify.com/track/7ubSJ86N9Lzzt3qYL58ZNV"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
+        "name": "Amor de Madrugada",
+        "url": "https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Amor de Madrugada",
+      "url": "https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD"
     },
     {
       "added_at": "2024-11-04 16:33:26",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
-        "name": "Porque Canto Asi",
-        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
-      },
-      "artists": [
-        {
-          "name": "La Milonga Electrica",
-          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
-        }
-      ],
-      "duration_ms": 134272,
-      "name": "Porque Canto Asi",
-      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
         "name": "Funky Tango (Remasterizado 2023)",
         "url": "https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
+        "name": "Porque Canto Asi",
+        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
+      },
+      "artists": [
+        {
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        }
+      ],
+      "duration_ms": 134272,
+      "name": "Porque Canto Asi",
+      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
-        "name": "De Arrabal",
-        "url": "https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq"
-      },
-      "artists": [
-        {
-          "name": "Octavio Caruso",
-          "url": "https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "Taquito Militar",
-      "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"
-    },
-    {
-      "added_at": "2024-11-04 16:33:26",
-      "album": {
         "name": "Buenos Aires Dreams",
         "url": "https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 226000,
       "name": "Buenos Aires Dreams",
       "url": "https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf"
+    },
+    {
+      "added_at": "2024-11-04 16:33:26",
+      "album": {
+        "name": "De Arrabal",
+        "url": "https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq"
+      },
+      "artists": [
+        {
+          "name": "Octavio Caruso",
+          "url": "https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "Taquito Militar",
+      "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"
     },
     {
       "added_at": "2024-11-04 16:33:26",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-11-04 16:33:26",
       "album": {
-        "name": "This Is Richard Bona",
-        "url": "https://open.spotify.com/album/28rNJjo7RDgAV7Uscjv67T"
+        "name": "Ran Tan Plan",
+        "url": "https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4"
       },
       "artists": [
         {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+          "name": "Tango Tripping Project",
+          "url": "https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Uprising Of Kindness",
-      "url": "https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2"
+      "duration_ms": 252750,
+      "name": "Ran Tan Plan",
+      "url": "https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng"
     }
   ],
   "unique_name": "Neo Tango",

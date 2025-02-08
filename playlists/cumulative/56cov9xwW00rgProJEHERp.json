@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 246586,
       "name": "Cinnamon Curls",
       "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "Did You Love Somebody (feat. Sir Chloe)",
+        "url": "https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        },
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248722,
+      "name": "Did You Love Somebody (feat. Sir Chloe)",
+      "url": "https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz"
+    },
+    {
+      "album": {
         "name": "die young (acoustic)",
         "url": "https://open.spotify.com/album/5JhVeJ2aYQYsca9e5FQLh3"
       },
@@ -896,7 +918,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
@@ -972,6 +994,24 @@
       "duration_ms": 195619,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231011,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
     },
     {
       "album": {
@@ -1506,7 +1546,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186080,
       "name": "happier without you",
       "url": "https://open.spotify.com/track/3tNLceJBTqBOMytGODY1IG"
@@ -3674,6 +3714,28 @@
       "duration_ms": 161950,
       "name": "Too Attached",
       "url": "https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L"
+    },
+    {
+      "album": {
+        "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+        "url": "https://open.spotify.com/album/19pEsriNgkcdwceVA3hsTt"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "BigBoi0101",
+          "url": "https://open.spotify.com/artist/1IqgbdJ2IqjyKqpA2DqbZv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180499,
+      "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+      "url": "https://open.spotify.com/track/2zwFbXK3HDpHd6HRaDGE7K"
     },
     {
       "album": {

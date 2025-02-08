@@ -4,7 +4,7 @@
 
 > Myke Towers y el resto de novedades más importantes de la semana.
 
-1,046 songs - 2 day 5 hr 20 min
+1,047 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 | 2025-01-23 | 2025-01-31 |
 | [Descaro 2.0](https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Descaro 2.0](https://open.spotify.com/album/5M5oPUHmII7DOfjH2xssey) | 4:29 | 2025-01-23 | 2025-01-31 |
 | [Desde El Otro Lado](https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Qué Lástima](https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3) | 3:18 | 2024-11-28 | 2024-12-06 |
+| [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 | 2025-02-07 |  |
 | [DESPELUCATE](https://open.spotify.com/track/4hQ1eX9ynFhz1Cq75Be5v8) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [DESPELUCATE](https://open.spotify.com/album/5woPWKdnvURwLGx3EIGFYP) | 2:41 | 2024-11-15 | 2024-11-22 |
 | [Destrozado por Tu Amor](https://open.spotify.com/track/4Cq1ZjUMdUbvEfdLCt29OU) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Un Tiempo en Casa Solo](https://open.spotify.com/album/1F0FOFi0OdE2SArmKBjuTg) | 2:32 | 2024-10-24 | 2024-11-01 |
 | [Diabla](https://open.spotify.com/track/52QRvnfB3dsZ8lAxA9LBMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Diabla](https://open.spotify.com/album/4M3kwhaviuamydOcfq6B8C) | 2:38 | 2024-10-24 | 2024-11-01 |

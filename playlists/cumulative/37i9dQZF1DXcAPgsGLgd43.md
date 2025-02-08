@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-351 songs - 19 hr 18 min
+352 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Dile](https://open.spotify.com/track/5nZ9KC7vuQe8vy7N3M5YXj) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Dile](https://open.spotify.com/album/2BHqGdPeSADGVZ5P1CcxAi) | 2:30 | 2024-03-19 |  |
 | [Dile Que \- Original Mix](https://open.spotify.com/track/3LfUI8MFuiJTCwuUcqv7ng) | [FIGHT CLVB](https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [Dile Que](https://open.spotify.com/album/3vYAAKqfsMY6JAs24Kq1Ko) | 4:06 | 2024-02-02 | 2024-02-12 |
 | [Diluvio](https://open.spotify.com/track/1ktxjDVHlAqnzmbmzgKoZC) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Diluvio](https://open.spotify.com/album/09YqQh4UDSidW3LLJZteIw) | 2:58 | 2024-05-17 | 2024-10-26 |
+| [Dime Mami](https://open.spotify.com/track/0f7c6AnAvH7lSfGTUvqgvm) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Tyago Baby](https://open.spotify.com/artist/7BbERzGvIzvgGbtExDXWGC) | [Dime Mami](https://open.spotify.com/album/0gwpRpnAtiOGQzmvkLAZPf) | 2:49 | 2025-02-07 |  |
 | [Dimini](https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Dimini](https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny) | 2:22 | 2023-11-10 | 2024-06-29 |
 | [Dinga](https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02) | [Bezh](https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH) | [Dinga](https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF) | 2:42 | 2024-01-26 | 2024-04-27 |
 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 | 2021-10-08 | 2023-11-11 |
@@ -293,7 +294,7 @@
 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 | 2021-10-08 | 2023-11-11 |
 | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A) | 3:47 | 2024-09-20 | 2024-11-22 |
 | [Sin Nada](https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow) | [MelyJones](https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Sin Nada](https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT) | 3:19 | 2024-05-10 |  |
-| [Sola](https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX) | [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Sola](https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU) | 1:45 | 2025-01-10 |  |
+| [Sola](https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX) | [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [Sola](https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU) | 1:45 | 2025-01-10 | 2025-02-08 |
 | [Solo Se Vive Una Vez](https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi) | [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Solo Se Vive Una Vez](https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u) | 2:27 | 2024-09-06 |  |
 | [Sombras](https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Sombras](https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF) | 5:51 | 2024-11-04 | 2025-01-13 |
 | [Sombrerito Blanco](https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Sombrerito Blanco](https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu) | 2:07 | 2024-04-05 |  |

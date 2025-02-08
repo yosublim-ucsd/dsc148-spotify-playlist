@@ -1,6 +1,6 @@
 {
   "description": "S\u00e4m Wilder op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1816,
+  "num_followers": 1815,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Chica Chica",
+        "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
+      },
+      "artists": [
+        {
+          "name": "Chica Chica",
+          "url": "https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Chica Chica",
+      "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Hou Me Vast",
         "url": "https://open.spotify.com/album/7uy0X46Xpf5FnJlfEiT67s"
       },
@@ -211,6 +227,22 @@
       "duration_ms": 174734,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/2pLpQS9Bpz095fvVPFFsSV"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+      },
+      "artists": [
+        {
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -231,22 +263,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Chica Chica",
-        "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
-      },
-      "artists": [
-        {
-          "name": "Chica Chica",
-          "url": "https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Chica Chica",
-      "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Nothing Ever Happens Around Here",
         "url": "https://open.spotify.com/album/6SDfF97SR7lQQWE50Nq3Qj"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 135447,
       "name": "Belong",
       "url": "https://open.spotify.com/track/23herECwL0FJOKSvAO3Ens"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
-      },
-      "artists": [
-        {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "YOYO",
-        "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
-      },
-      "artists": [
-        {
-          "name": "ENJAKU YOYO",
-          "url": "https://open.spotify.com/artist/3UjMIKdyIpsjZG0VJgNv5n"
-        }
-      ],
-      "duration_ms": 283124,
-      "name": "YOYO",
-      "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 142386,
       "name": "Payback",
       "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "YOYO",
+        "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
+      },
+      "artists": [
+        {
+          "name": "ENJAKU YOYO",
+          "url": "https://open.spotify.com/artist/3UjMIKdyIpsjZG0VJgNv5n"
+        }
+      ],
+      "duration_ms": 283124,
+      "name": "YOYO",
+      "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Everything I Need Is Here",
-        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Everything I Need Is Here",
-      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 236080,
       "name": "Waiting for You - Edit",
       "url": "https://open.spotify.com/track/26qMH9vOtdcXcNywg1tpJ7"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Everything I Need Is Here",
+        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Everything I Need Is Here",
+      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "High Wire",
-        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
-      },
-      "artists": [
-        {
-          "name": "Sol Power",
-          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Flat Caps And Rain Macs",
         "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 240000,
       "name": "Flat Caps And Rain Macs",
       "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
+      },
+      "artists": [
+        {
+          "name": "Sol Power",
+          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04"
+      },
+      "artists": [
+        {
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+        }
+      ],
+      "duration_ms": 248344,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Melanotan - Detonate",
         "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 229919,
       "name": "Comfortabel",
       "url": "https://open.spotify.com/track/0tJaLyuvRnQeoeeAHqrkvT"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Leave It",
-        "url": "https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04"
-      },
-      "artists": [
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
-        }
-      ],
-      "duration_ms": 248344,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
-      },
-      "artists": [
-        {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
-        }
-      ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Sirocco",
         "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
       },
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
-      },
-      "artists": [
-        {
-          "name": "MADOUX",
-          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "In Our Blood",
-      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "IK WIL EEN PORSCHE",
         "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 126816,
       "name": "IK WIL EEN PORSCHE",
       "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
+      },
+      "artists": [
+        {
+          "name": "MADOUX",
+          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "In Our Blood",
+      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Black Beach",
-        "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
-      },
-      "artists": [
-        {
-          "name": "BlackBeach",
-          "url": "https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "8888",
-      "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Shit / Verliefd",
         "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 165490,
       "name": "Shit / Verliefd",
       "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Black Beach",
+        "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
+      },
+      "artists": [
+        {
+          "name": "BlackBeach",
+          "url": "https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "8888",
+      "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "met de beste intenties",
-        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
-      },
-      "artists": [
-        {
-          "name": "Jean Jacques",
-          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
-        }
-      ],
-      "duration_ms": 159669,
-      "name": "beste intenties",
-      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "As Time Went By",
         "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 204100,
       "name": "Again",
       "url": "https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "met de beste intenties",
+        "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
+      },
+      "artists": [
+        {
+          "name": "Jean Jacques",
+          "url": "https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR"
+        }
+      ],
+      "duration_ms": 159669,
+      "name": "beste intenties",
+      "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
     },
     {
       "added_at": "2024-10-21 10:10:26",

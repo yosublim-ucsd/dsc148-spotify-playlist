@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 57093,
+  "num_followers": 57094,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "APRIL 6th Mini Album 'the Ruby'",
-        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 205332,
-      "name": "Oh! my mistake",
-      "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
         "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 212950,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "APRIL 6th Mini Album 'the Ruby'",
+        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 205332,
+      "name": "Oh! my mistake",
+      "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Like Heaven",
         "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 209453,
       "name": "Like Heaven (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -647,38 +647,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "5min to heartbreak",
         "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
       },
@@ -695,6 +663,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Loving you",
         "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 213768,
       "name": "Loving you",
       "url": "https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Here, This Moment",
         "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Moonset with KozyPop",
-        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        },
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Moonset",
-      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
-      },
-      "artists": [
-        {
-          "name": "kursor",
-          "url": "https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR"
-        }
-      ],
-      "duration_ms": 208085,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Shining Love Song",
         "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Cream Dream",
-        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
       "artists": [
         {
-          "name": "TrophyCat",
-          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
+          "name": "kursor",
+          "url": "https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR"
         }
       ],
-      "duration_ms": 196112,
-      "name": "Cream Dream",
-      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+      "duration_ms": 208085,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Drive Thru",
-        "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
+        "name": "Cream Dream",
+        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
       "artists": [
         {
-          "name": "Wilcox",
-          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+          "name": "TrophyCat",
+          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
         }
       ],
-      "duration_ms": 182188,
-      "name": "Drive Thru",
-      "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
+      "duration_ms": 196112,
+      "name": "Cream Dream",
+      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1099,34 +1083,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Line 1",
-      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+      "duration_ms": 182188,
+      "name": "Drive Thru",
+      "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1171,6 +1139,38 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Line 1",
+      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 216578,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "FM302",
         "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Dive in Love",
         "url": "https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
       "artists": [
         {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 226453,
-      "name": "A day of weather",
-      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
       "artists": [
         {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
         }
       ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+      "duration_ms": 226453,
+      "name": "A day of weather",
+      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+      },
+      "artists": [
+        {
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "My Universe - Home Recording Project #4",
         "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 200000,
       "name": "My Universe - Home Recording Project #4",
       "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
-      },
-      "artists": [
-        {
-          "name": "Nahee Kim",
-          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "<K>",
         "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 188320,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
+      },
+      "artists": [
+        {
+          "name": "Nahee Kim",
+          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
     },
     {
       "added_at": "2024-09-30 08:00:00",

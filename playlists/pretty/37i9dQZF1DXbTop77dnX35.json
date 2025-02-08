@@ -1,12 +1,12 @@
 {
   "description": "New Music from Rema and more ",
-  "num_followers": 100619,
+  "num_followers": 101628,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNPAAAAAAL2F7/hxFvS7wcCNNThfPC",
+  "snapshot_id": "Z6W/rQAAAAD4AVAiC030L1JcwYPpTIhh",
   "tracks": [
     {
       "added_at": "2025-02-07 00:01:00",
@@ -109,6 +109,26 @@
       "url": "https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN"
     },
     {
+      "added_at": "2025-02-07 08:09:17",
+      "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/2tE095AGUsUc0yVWT84pK1"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Vic Reagan",
+          "url": "https://open.spotify.com/artist/1Fe2Gy9HxSQJjbc6rb1AJQ"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Top Striker",
+      "url": "https://open.spotify.com/track/6fNzetbfhj85y8sDADpfHV"
+    },
+    {
       "added_at": "2025-02-07 00:01:00",
       "album": {
         "name": "DND",
@@ -155,6 +175,26 @@
       "duration_ms": 164400,
       "name": "Mad Me",
       "url": "https://open.spotify.com/track/6nzy1kCe3cYyWCWBqYBN7Z"
+    },
+    {
+      "added_at": "2025-02-07 00:01:00",
+      "album": {
+        "name": "Toot It Up",
+        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Toot It Up",
+      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
     },
     {
       "added_at": "2025-02-07 00:01:00",
@@ -627,6 +667,26 @@
       "duration_ms": 153827,
       "name": "Taataa",
       "url": "https://open.spotify.com/track/4uyKxIfY5y2fZ6jMx1BoKT"
+    },
+    {
+      "added_at": "2025-02-07 00:01:00",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/10xs3lZ7o3ucQm5kyEizT1"
+      },
+      "artists": [
+        {
+          "name": "JFT",
+          "url": "https://open.spotify.com/artist/3SMAmnqzgcvrocqxyf8rvB"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 203956,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/5GoJO28Dx1ireBVmQS0gxn"
     },
     {
       "added_at": "2025-02-07 00:01:00",

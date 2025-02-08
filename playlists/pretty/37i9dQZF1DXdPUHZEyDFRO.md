@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPUHZEyDFRO.md) - [plain]
 
 > Listen to the soundtracks of Perfect Family\. \(완벽한 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,420 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPUHZEyDFRO.md) - [plain]
 | 70 | [Let's take time](https://open.spotify.com/track/6XmVgdJ8NUIB5CAkhQZ9pW) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 3:42 |
 | 71 | [How to Love a Rainbow](https://open.spotify.com/track/3a8TKwYs3gA9DEe6oauNM1) | [Moon shines on it’s own](https://open.spotify.com/artist/5qWhuGxp7QbZKCNk1uVRrs) | [How to Love a Rainbow](https://open.spotify.com/album/7uczbFFqYu8br7nb8z3HrE) | 3:40 |
 | 72 | [salty](https://open.spotify.com/track/14atQLDFxR48zRkqZS0FSL) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [" sin ! "](https://open.spotify.com/album/71gTz5GCDWEZVRne3H6hT6) | 2:56 |
-| 73 | [어른이](https://open.spotify.com/track/79ybYxLTu5TjpIdHcTMr2Y) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [어른이](https://open.spotify.com/album/7gtknhYftgpWiSLAPCG3KW) | 3:36 |
+| 73 | [Adults and children](https://open.spotify.com/track/79ybYxLTu5TjpIdHcTMr2Y) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Adults and children](https://open.spotify.com/album/7gtknhYftgpWiSLAPCG3KW) | 3:36 |
 | 74 | [Time limit \(Feat\. Leellamarz, Loco\)](https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 3:49 |
 | 75 | [To Heaven \- Instrumental](https://open.spotify.com/track/0eizp0wKlhJ4at9t0PVGXi) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Perfect Family \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2JwnPxoyZmKK9dosgekTAc) | 3:17 |
 | 76 | [I am firefly \- Instrumental](https://open.spotify.com/track/2iMBccgeOadS9umDA3z6Te) | [Kim Ho Jeong](https://open.spotify.com/artist/26RogiediR08e49bNars1L) | [Perfect Family \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4vOyPmN7K04LeLBMMdwRJS) | 3:40 |

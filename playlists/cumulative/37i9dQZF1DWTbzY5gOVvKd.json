@@ -717,6 +717,32 @@
     },
     {
       "album": {
+        "name": "Dance me Love",
+        "url": "https://open.spotify.com/album/6mMuAmH1j9RPmq7tU4hBNP"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        },
+        {
+          "name": "Vince Mendoza",
+          "url": "https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt"
+        },
+        {
+          "name": "Stavanger Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410640,
+      "name": "Dance me Love",
+      "url": "https://open.spotify.com/track/6HuDtUKtqmoEyHV9tdBt4g"
+    },
+    {
+      "album": {
         "name": "With a Twist",
         "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
       },
@@ -1178,7 +1204,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 318980,
       "name": "I Can't Give You Anything",
       "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"

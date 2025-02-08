@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-192 songs - 13 hr 12 min
+196 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Lekas](https://open.spotify.com/track/76dalAQTO59VXaVmOHeLV7) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:14 | 2024-08-22 |  |
 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 | 2024-01-05 |  |
 | [Magic](https://open.spotify.com/track/5qp8vPqA5Vbz9VqKQ8stCN) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Lebih Dari Bintang](https://open.spotify.com/album/6Pgmq2CRu66fYZK74b9c6C) | 3:50 | 2024-10-14 |  |
+| [Malaikat Juga Tahu](https://open.spotify.com/track/01NxFtuXZ30sDVfdErskKl) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [Rectoverso](https://open.spotify.com/album/5NEQMtVC3NuKMOZbPgXLal) | 4:26 | 2025-02-07 |  |
 | [Malaikat Juga Tahu](https://open.spotify.com/track/2mSZwPBXpTMbjiNHAKMUo7) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/0e3Uf5EZr7LLzpl19UbJ8N) | 5:24 | 2024-01-05 | 2024-04-19 |
 | [Malaikat Juga Tahu](https://open.spotify.com/track/4F0zagZIjtGtZpFhqggW7P) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/7xDITPT69DW3zhYUTwM50B) | 5:24 | 2024-04-19 |  |
 | [Malam Biru](https://open.spotify.com/track/6PY4SQue8uzeN3GrLaHwgF) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Sandhy Sondoro](https://open.spotify.com/album/24k3Yl1sgc3U9P2VpPDYpD) | 2:48 | 2024-01-05 |  |
@@ -125,6 +126,7 @@
 | [Menyimpan Rasa](https://open.spotify.com/track/1oPhiw7KmW3JK0gjuSF4YH) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Menyimpan Rasa](https://open.spotify.com/album/0E8TQKFgUP04XaMYK1ls1m) | 3:30 | 2024-05-27 |  |
 | [Merindu Lagi \(Pada Kekasih Orang\)](https://open.spotify.com/track/3vN8A1HfOcytUpCiEm2qqI) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 2:59 | 2024-01-05 |  |
 | [Muara](https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Muara](https://open.spotify.com/album/45nwYGZMMBIXEKl1SUzYMj) | 4:01 | 2024-01-05 |  |
+| [Natural](https://open.spotify.com/track/0BPOskXqLW4DaFTPodiPjD) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [Persiapan](https://open.spotify.com/album/3Q6oW24ccQhsfLE7PEW36v) | 3:54 | 2025-02-07 |  |
 | [Nenekku Pahlawanku](https://open.spotify.com/track/2ALQHMFnSjKzRhGwXVSfHD) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 4:15 | 2024-10-08 |  |
 | [Oh Baby](https://open.spotify.com/track/2Sol76xmqWjMa8MKhgMYJF) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Cinta Laura](https://open.spotify.com/album/5mm6E2mqMUFzPMR6z8kOkA) | 4:27 | 2024-01-05 |  |
 | [Opera Tuhan](https://open.spotify.com/track/2hLbk8JJR5olKLVWkuRDW7) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Opera Tuhan](https://open.spotify.com/album/4xTwP1jFzSH3HryH9sI0r8) | 3:43 | 2024-07-19 |  |
@@ -163,8 +165,10 @@
 | [Sewindu](https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 4:00 | 2024-01-05 |  |
 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/1SbpxkBg8DnkbTDgflkf6w) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 5:28 | 2024-04-19 |  |
 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/4I9OcbyMEmLwFaTUAir6cw) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 5:28 | 2024-01-05 | 2024-04-19 |
+| [Suatu Hari](https://open.spotify.com/track/3RAAh7iL0uS3dnVlqz6cl8) | [Wonderboys](https://open.spotify.com/artist/3njwmX9hqzPi3Pjx6isWqP) | [Suatu Hari](https://open.spotify.com/album/1QzRB2edYZDXYwVToEB0ej) | 4:48 | 2025-02-07 |  |
 | [Sumpah dan Cinta Matiku](https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA) | 4:45 | 2024-01-05 |  |
 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 | 2024-01-05 |  |
+| [Sweet Scar](https://open.spotify.com/track/3R0FDwQSXOiO5gaOZFxKZ5) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Reza Oktovian](https://open.spotify.com/artist/2lM2f6loqD5wA5lWgmB3il), [Billy Taner](https://open.spotify.com/artist/2wDPEmGxZefhW42RGBOJxP) | [Sweet Scar](https://open.spotify.com/album/3IlfbLXXM2MHrb5Yv8CJn1) | 3:14 | 2025-02-07 |  |
 | [Tak Kan Pernah Ada](https://open.spotify.com/track/0SbIIWkcFv72jdZSzjq3Vd) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Yang Ngehits 2000an](https://open.spotify.com/album/0wWk8fGY4MfjwHPc9exwpE) | 3:34 | 2024-01-05 | 2024-04-19 |
 | [Tak Kan Pernah Ada](https://open.spotify.com/track/4cXRA1wHbs4YwUqdINY1bh) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Anugrah Terindah](https://open.spotify.com/album/4CLnW54mkGKD4RLOsS7tAA) | 3:34 | 2024-04-19 |  |
 | [Tak Lagi Sama](https://open.spotify.com/track/6UXFqV37k4fzxYaocJunaF) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 5:15 | 2024-01-05 |  |

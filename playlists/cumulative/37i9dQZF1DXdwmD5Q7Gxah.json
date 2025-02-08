@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Newsletter coming soon...</a> Cover: Chappell Roan",
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Newsletter coming soon...</a> Cover: Dora Jar",
   "name": "Lorem",
   "tracks": [
     {
@@ -1564,6 +1564,32 @@
       "duration_ms": 219146,
       "name": "Adonis - feat. KIRBY",
       "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
+    },
+    {
+      "album": {
+        "name": "ADORE",
+        "url": "https://open.spotify.com/album/0AxAaCFZ4KbDgv3vj38UDz"
+      },
+      "artists": [
+        {
+          "name": "child star",
+          "url": "https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1"
+        },
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        },
+        {
+          "name": "Sean Henry",
+          "url": "https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146448,
+      "name": "ADORE",
+      "url": "https://open.spotify.com/track/3BorXY9G9eZoOlUQZA0YoO"
     },
     {
       "album": {
@@ -15925,6 +15951,32 @@
     },
     {
       "album": {
+        "name": "Eso Que T\u00fa Llamas Amor",
+        "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "Eso Que T\u00fa Llamas Amor",
+      "url": "https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi"
+    },
+    {
+      "album": {
         "name": "Espada Primo",
         "url": "https://open.spotify.com/album/0Dw542vo3ipfUGWT5vS9Ou"
       },
@@ -18371,6 +18423,24 @@
     },
     {
       "album": {
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145625,
+      "name": "Forever salty",
+      "url": "https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG"
+    },
+    {
+      "album": {
         "name": "forever&more",
         "url": "https://open.spotify.com/album/2ox1YSN2qTOg170HnzqqI3"
       },
@@ -20658,7 +20728,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -27531,6 +27601,24 @@
     },
     {
       "album": {
+        "name": "Jinx!",
+        "url": "https://open.spotify.com/album/0C4Dk75gkYgJo6MGrVsdSb"
+      },
+      "artists": [
+        {
+          "name": "Joon Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Jinx!",
+      "url": "https://open.spotify.com/track/43sg2nW6LjsgaXxakTuhHF"
+    },
+    {
+      "album": {
         "name": "jm'en bas les couilles",
         "url": "https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7"
       },
@@ -31742,6 +31830,24 @@
     {
       "album": {
         "name": "Lucky",
+        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "album": {
+        "name": "Lucky",
         "url": "https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM"
       },
       "artists": [
@@ -32500,6 +32606,24 @@
       "duration_ms": 245496,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220384,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
     },
     {
       "album": {
@@ -39517,6 +39641,24 @@
     },
     {
       "album": {
+        "name": "pitpony",
+        "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156536,
+      "name": "pitpony",
+      "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
+    },
+    {
+      "album": {
         "name": "Pity Party",
         "url": "https://open.spotify.com/album/65tgtb3bmFjIhWgDY0W6PN"
       },
@@ -43082,6 +43224,24 @@
       "duration_ms": 159480,
       "name": "say it first",
       "url": "https://open.spotify.com/track/0XSncrobBZoW1A0bFh8Ttx"
+    },
+    {
+      "album": {
+        "name": "Say It For Yourself",
+        "url": "https://open.spotify.com/album/5AsPA4EGv5o5fhMd9zpUXP"
+      },
+      "artists": [
+        {
+          "name": "Casino Hearts",
+          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Say It For Yourself",
+      "url": "https://open.spotify.com/track/5V0AdWrAzR06pZPpxAxt5Y"
     },
     {
       "album": {
@@ -48559,6 +48719,24 @@
     },
     {
       "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "album": {
         "name": "Suckerpunch",
         "url": "https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03"
       },
@@ -53290,6 +53468,28 @@
       "duration_ms": 247265,
       "name": "Tonight (I Wish I Was Your Boy)",
       "url": "https://open.spotify.com/track/3AQrryq4mc956K3RtLZAFo"
+    },
+    {
+      "album": {
+        "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+        "url": "https://open.spotify.com/album/19pEsriNgkcdwceVA3hsTt"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "BigBoi0101",
+          "url": "https://open.spotify.com/artist/1IqgbdJ2IqjyKqpA2DqbZv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180499,
+      "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+      "url": "https://open.spotify.com/track/2zwFbXK3HDpHd6HRaDGE7K"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\u00c0 deux, c'est mieux ! Photo : Julien Dor\u00e9 et Joseph Kamel",
+  "description": "\u00c0 deux, c'est mieux ! Photo : Pierre Garnier et M. Pokora",
   "name": "Entre deux",
   "tracks": [
     {
@@ -266,6 +266,28 @@
       "duration_ms": 218000,
       "name": "Carrousel (feat. Indila)",
       "url": "https://open.spotify.com/track/6rHywKNBPzJ6aLVLT5RshH"
+    },
+    {
+      "album": {
+        "name": "Chaque seconde (feat. M. Pokora)",
+        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Chaque seconde (feat. M. Pokora)",
+      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
     },
     {
       "album": {
@@ -687,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Ensemble (feat. Charlotte Cardin)",
+        "url": "https://open.spotify.com/album/5n2ZA5eyiINxyd91NzPAhM"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ensemble - feat. Charlotte Cardin",
+      "url": "https://open.spotify.com/track/59MBW52Ah8tdkaM6HIOCMn"
+    },
+    {
+      "album": {
         "name": "Grandir",
         "url": "https://open.spotify.com/album/61Kjs8CGtVFQAP1qt5sSuf"
       },
@@ -922,7 +966,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 194973,
       "name": "Le pire de nous deux (feat. Dani Terreur)",
       "url": "https://open.spotify.com/track/6KTYSQkmMJPxnLy905uXbV"
@@ -1296,7 +1340,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197733,
       "name": "Petit jeu",
       "url": "https://open.spotify.com/track/0e8egATGvJTvGLteAKqDcN"

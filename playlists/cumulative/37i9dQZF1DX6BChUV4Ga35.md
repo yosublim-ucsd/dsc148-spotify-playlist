@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-133 songs - 4 hr 36 min
+134 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [I'm A Cow](https://open.spotify.com/track/1WeI7KjHAp0X1vOPsNPFYO) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs & Rarities](https://open.spotify.com/album/2Op3dWBKGOXkOOzSHxh3On) | 0:31 | 2022-02-01 |  |
 | [I'm a Cow](https://open.spotify.com/track/1qFTAz02KIOglffJJ0R3wW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Here Comes the Big Red Car](https://open.spotify.com/album/576st95zAvurKHUNm6GWNA) | 0:31 | 2022-07-25 | 2024-04-19 |
 | [I've Got A Goat](https://open.spotify.com/track/5aOmYquQylHT2GhJ5TjSu6) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [Tag, You're It!](https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3) | 2:16 | 2022-02-01 |  |
+| [Imagination Animals](https://open.spotify.com/track/299qNT5sm2V78qPltuXZgr) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Record Player \- Pop](https://open.spotify.com/album/666IUzXuGmiUtwlq6qqxWo) | 1:28 | 2025-02-07 |  |
 | [Jellyfish Jones](https://open.spotify.com/track/32GZOJVBjAyJem2WVIqYhW) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Away We Go!](https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS) | 2:29 | 2023-11-08 |  |
 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 | 2022-02-01 |  |
 | [Lil' red Rooster](https://open.spotify.com/track/2kqx7Js7xvJNFHABI75LRS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:49 | 2022-02-01 |  |

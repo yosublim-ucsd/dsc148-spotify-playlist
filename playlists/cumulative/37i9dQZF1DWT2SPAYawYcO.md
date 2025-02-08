@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Dom Dolla
 
-7,297 songs - 16 day 11 hr 16 min
+7,298 songs - 16 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6596,6 +6596,7 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-21 | 2024-03-23 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-21 | 2024-03-29 |
 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-15 | 2023-06-23 |
+| [Toot It Up](https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Toot It Up](https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO) | 2:09 | 2025-02-06 |  |
 | [toothbrush](https://open.spotify.com/track/0fExwBPbNM9s1TozJR9Gak) | [Kate Gill](https://open.spotify.com/artist/33xEE8UWA6WNNAev0Ctn6Y) | [toothbrush](https://open.spotify.com/album/2kaxeIYbvmPmRmWGOg06zY) | 3:12 | 2023-11-23 | 2023-12-01 |
 | [toothless](https://open.spotify.com/track/39KVeDBnRiRK4v28UnaZBp) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [toothless](https://open.spotify.com/album/5awy8WsSU4RS57ReMevsk8) | 2:17 | 2023-12-07 | 2023-12-15 |
 | [Top](https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Rico Tonga](https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz) | [Top](https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7) | 2:23 | 2023-06-15 | 2023-06-23 |

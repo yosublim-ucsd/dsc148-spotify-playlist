@@ -1,13 +1,29 @@
 {
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Mae Martin",
-  "num_followers": 8552,
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Georgia Harmer",
+  "num_followers": 8551,
   "original_name": "Chill Indie Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAbo7iQflte/li81ZYALW0hEKK/C6ir",
+  "snapshot_id": "AAAbpqG286F0+vz5l3l4Ywq8vABi3KHi",
   "tracks": [
+    {
+      "added_at": "2025-02-07 13:31:58",
+      "album": {
+        "name": "Can We Be Still",
+        "url": "https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Can We Be Still",
+      "url": "https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt"
+    },
     {
       "added_at": "2025-01-31 18:57:40",
       "album": {

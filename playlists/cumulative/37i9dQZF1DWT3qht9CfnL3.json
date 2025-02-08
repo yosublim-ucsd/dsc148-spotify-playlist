@@ -453,6 +453,36 @@
     },
     {
       "album": {
+        "name": "Descaro 2.0",
+        "url": "https://open.spotify.com/album/5M5oPUHmII7DOfjH2xssey"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269960,
+      "name": "Descaro 2.0",
+      "url": "https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA"
+    },
+    {
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -698,6 +728,28 @@
       "duration_ms": 184826,
       "name": "Ex (con La Joaqui)",
       "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
+    },
+    {
+      "album": {
+        "name": "EX ASS",
+        "url": "https://open.spotify.com/album/3rFQBtfLRISVN50QeNwWFq"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "EX ASS",
+      "url": "https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB"
     },
     {
       "album": {
@@ -1810,7 +1862,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 215800,
       "name": "Nuestra Canci\u00f3n - Culpables Remix",
       "url": "https://open.spotify.com/track/0uet57hmtZRdID59DHTzOh"
@@ -1850,7 +1902,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169026,
       "name": "OTRA OPORTUNIDAD",
       "url": "https://open.spotify.com/track/5EUCaO1SzuWNM3Fs0GOzt5"
@@ -2783,6 +2835,32 @@
     },
     {
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/28XheYO8LENCbxaxnTCEpD"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273191,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/1efCQf19awAV54qzlWJlZF"
+    },
+    {
+      "album": {
         "name": "TODAV\u00cdA",
         "url": "https://open.spotify.com/album/7c9WHDjHOwphOmJUp7C7WG"
       },
@@ -3084,7 +3162,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168266,
       "name": "\u00bfQue Te Pas\u00f3?",
       "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"

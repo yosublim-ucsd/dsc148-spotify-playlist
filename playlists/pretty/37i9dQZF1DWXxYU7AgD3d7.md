@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,781 likes - 40 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,785 likes - 40 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 22 | [Ruby](https://open.spotify.com/track/4nEuIUz3MYhErH40zqVm6z) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:03 |
 | 23 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
 | 24 | [Lick My Deck](https://open.spotify.com/track/30LmSARZJ4HcFlqDuiIxq2) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Stockholm Disco EP](https://open.spotify.com/album/2Sc0BBRKiEPgvSnI7oqOUG) | 8:10 |
-| 25 | [Bang The Box](https://open.spotify.com/track/1F8fGt8MoFxJjt4n9bLuMA) | [Little by Little](https://open.spotify.com/artist/4NtDZn3pwDKxwK6blZrFGX) | [Bang The Box EP](https://open.spotify.com/album/5pM6LxLOhdb9iCLlnZTPhL) | 6:18 |
+| 25 | [Bang The Box](https://open.spotify.com/track/1F8fGt8MoFxJjt4n9bLuMA) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [Bang The Box EP](https://open.spotify.com/album/5pM6LxLOhdb9iCLlnZTPhL) | 6:18 |
 | 26 | [Key103](https://open.spotify.com/track/10LN4j7BJzNWF6dj3JCnd9) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Ocotillo](https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH) | 7:22 |
 | 27 | [The Power](https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Collection 1999\-2011](https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD) | 8:35 |
 | 28 | [Korben Dallas](https://open.spotify.com/track/2ABwcIpFHhrI6hF1DSOZJl) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [IILE 01](https://open.spotify.com/album/6i0DrQ0KXLXtAegVhTdjxW) | 6:16 |

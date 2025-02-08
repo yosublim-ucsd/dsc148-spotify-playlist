@@ -6947,6 +6947,24 @@
     },
     {
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/4GjjGPNztWRpc1QxHclJvh"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94703,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/03xiVJYbab7t7CXOpoqvGq"
+    },
+    {
+      "album": {
         "name": "tu ciudad (video oficial).mp4",
         "url": "https://open.spotify.com/album/5kBv5qDuco9Pue7fKBx2xQ"
       },

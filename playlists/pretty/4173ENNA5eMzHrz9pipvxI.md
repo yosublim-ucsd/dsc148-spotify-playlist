@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Colyn, Innellea
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,623 likes - 41 songs - 1 hr 54 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,625 likes - 41 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You've Got The Love](https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [You've Got The Love](https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA) | 2:45 |
-| 2 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 |
+| 1 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 |
+| 2 | [You've Got The Love](https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [You've Got The Love](https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA) | 2:45 |
 | 3 | [Bass In Da Blood](https://open.spotify.com/track/2RvpQFVb9ZTStAm4qJSRf2) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bass In Da Blood](https://open.spotify.com/album/4IMtgnaXkHupe6aRGiHdoA) | 2:12 |
 | 4 | [Let’s Go \(feat\. Tom Enzy, Juany Bravo & Sami Brielle\) \[HUGEL Remix\]](https://open.spotify.com/track/5jde2vTSXmrIAKaZYmhqSF) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Let’s Go \(feat\. Tom Enzy, Juany Bravo & Sami Brielle\) \[HUGEL Remix\]](https://open.spotify.com/album/6qCYuLsIIPfjROPwX9QxGc) | 2:28 |
 | 5 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 40 | [Dark Days](https://open.spotify.com/track/0hR5LkJ583zCT6SeNacuBV) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Dark Days](https://open.spotify.com/album/3s2OsUcKQigkeEnnU5ZHfg) | 2:33 |
 | 41 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
 
-Snapshot ID: `AAAewuZPmL6oHKXWqNegMzGYnmKxBnf4`
+Snapshot ID: `AAAeww33hiF8UqgfZG5pK+xNvuCg8+AB`

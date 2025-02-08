@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/2e6uyFP80Vuaz7V7bDWD0e"
@@ -6436,6 +6454,24 @@
       "duration_ms": 233975,
       "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
       "url": "https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea"
+    },
+    {
+      "album": {
+        "name": "D\u00f9 Cho T\u1eadn Th\u1ebf",
+        "url": "https://open.spotify.com/album/5QDR0OiGmansGUC3umc6db"
+      },
+      "artists": [
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233263,
+      "name": "D\u00f9 Cho T\u1eadn Th\u1ebf",
+      "url": "https://open.spotify.com/track/0oSc7X1uRQGuEqNRtXEeQL"
     },
     {
       "album": {
@@ -10662,7 +10698,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -12492,7 +12528,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197998,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/6PJ4rafx2ufoaPaTewsRfh"
@@ -12550,7 +12586,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 191834,
       "name": "MOIEM",
       "url": "https://open.spotify.com/track/265hQASPY3HFmUH38zZrSK"
@@ -16866,7 +16902,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 252625,
       "name": "SAO H\u1ea0NG A (feat. HIEUTHUHAI, D\u01b0\u01a1ng Domic, Song Lu\u00e2n, Jsol & Tr\u1ea7n \u0110\u0103ng D\u01b0\u01a1ng)",
       "url": "https://open.spotify.com/track/446ygEWkggc5FMbBPQSMuM"
@@ -17680,7 +17716,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -19969,6 +20005,28 @@
     },
     {
       "album": {
+        "name": "Ti\u1ebfn Hay L\u00f9i (N\u1ee5 H\u00f4n B\u1ea1c T\u1ef7 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/18lTxJpTnS3LOndGcbDjAY"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i C\u00f4ng Nam",
+          "url": "https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj"
+        },
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Ti\u1ebfn Hay L\u00f9i (N\u1ee5 H\u00f4n B\u1ea1c T\u1ef7 Original Soundtrack)",
+      "url": "https://open.spotify.com/track/5ca1aUHYwTDNO5E6unithq"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -21570,7 +21628,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -23004,7 +23062,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 293112,
       "name": "\u00c2m Th\u1ea7m B\u00ean Em",
       "url": "https://open.spotify.com/track/2wZAvkgiOE5tyrnqhB69KA"

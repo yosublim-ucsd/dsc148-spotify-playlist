@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-744 songs - 1 day 20 hr 34 min
+746 songs - 1 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Atlanta](https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Atlanta](https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-12-17 |  |
 | [Autopilot](https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Autopilot](https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f) | 3:20 | 2022-04-08 | 2022-07-19 |
-| [Autumn Love](https://open.spotify.com/track/0Oo5Vuk60VCYYGqcyXTemd) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Someday I'll Make It All Up To You](https://open.spotify.com/album/2fnMyjmDEPmVECNnWv4yho) | 4:55 | 2021-12-17 |  |
+| [Autumn Love](https://open.spotify.com/track/0Oo5Vuk60VCYYGqcyXTemd) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Someday I'll Make It All Up To You](https://open.spotify.com/album/2fnMyjmDEPmVECNnWv4yho) | 4:55 | 2021-12-17 | 2025-02-08 |
 | [Bad Enough](https://open.spotify.com/track/2b8bgS5wN0iQJCTcjNxfUA) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Bad Enough](https://open.spotify.com/album/6O1mF56WOndAv4eNW3fLgJ) | 4:05 | 2021-12-17 | 2022-04-17 |
 | [Bad Happens](https://open.spotify.com/track/6aLR0vGQBiNq06QT09LNL6) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Bad Happens](https://open.spotify.com/album/1Kx5nQPa7LErxmQL7wbxQd) | 3:09 | 2022-01-24 | 2022-04-16 |
 | [Bali](https://open.spotify.com/track/7lAEGfjVzHAscI40AZy0EW) | [Charley Noda](https://open.spotify.com/artist/0vH8VOuSRfwIjH3KqdbZmb), [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd) | [Bali](https://open.spotify.com/album/4xP7076aGQHLA8hA8PZM3W) | 3:37 | 2021-12-17 |  |
@@ -251,6 +251,7 @@
 | [Good to Be Alone](https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up) | [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Heartbreak Hits](https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I) | 3:41 | 2021-12-17 |  |
 | [Goodbye Mr Blue](https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr Blue](https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf) | 5:00 | 2022-03-11 | 2022-07-28 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-07-22 | 2024-04-19 |
+| [Got You Right](https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Got You Right](https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6) | 3:25 | 2025-02-07 |  |
 | [Grand Canyon \- Acoustic](https://open.spotify.com/track/5LVPzj9rFJpNTCSHNtnMai) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Grand Canyon \(Acoustic\)](https://open.spotify.com/album/3REbphDAeZjd65DfJANyJQ) | 2:53 | 2021-12-17 | 2022-07-23 |
 | [Grand Plan](https://open.spotify.com/track/5v2qaBcqbwEfZPZASIvc3w) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan / Work](https://open.spotify.com/album/1ubyv5aPvZQqDYwGuv3eCU) | 3:13 | 2022-01-24 | 2022-04-20 |
 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 | 2022-01-24 | 2023-03-29 |
@@ -568,7 +569,7 @@
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 |  |
 | [She's Not Like That](https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [12 Views Of Beatenberg](https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi) | 3:12 | 2021-12-17 |  |
-| [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 |  |
+| [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 | 2025-02-08 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 |  |
 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 | 2022-07-22 | 2023-08-06 |
 | [Silence \- Acoustic](https://open.spotify.com/track/55284O777DNiEDa9X1B6Tb) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/2JAEZaBeklU4xM4FqEFb00) | 3:41 | 2022-01-24 | 2022-04-21 |
@@ -606,6 +607,7 @@
 | [Summer Somewhere](https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Summer Somewhere](https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3) | 3:03 | 2023-10-06 |  |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-12-17 |  |
 | [Sunny Day](https://open.spotify.com/track/6h2wnYAtNfGX0NnvoClEvP) | [A Boy and His Kite](https://open.spotify.com/artist/5JkAsTexi8F7wk7jsqmgWZ) | [Sunny Day](https://open.spotify.com/album/1qBpkJXxSW1gARiOHwxacJ) | 3:20 | 2022-01-24 | 2022-04-15 |
+| [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 | 2025-02-07 |  |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2022-07-29 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/23A4WepE6mwaOXFyxWhQpk) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/7FJy9YzzkILLRvi5gYr0gb) | 3:55 | 2022-01-24 | 2022-04-13 |
 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 | 2021-12-17 | 2024-09-08 |

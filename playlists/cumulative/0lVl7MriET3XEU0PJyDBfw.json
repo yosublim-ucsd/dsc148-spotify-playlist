@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "2 Day Bender",
+        "url": "https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT"
+      },
+      "artists": [
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "2 Day Bender",
+      "url": "https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG"
+    },
+    {
+      "album": {
         "name": "2 Sexi",
         "url": "https://open.spotify.com/album/0OMfEuu9FY2h9HIDBwUBnJ"
       },

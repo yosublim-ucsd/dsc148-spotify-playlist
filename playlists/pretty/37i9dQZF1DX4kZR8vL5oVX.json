@@ -1,12 +1,12 @@
 {
   "description": "Les femmes montent le son. Playlist r\u00e9alis\u00e9e avec Solann (du titre #1 au #15).",
-  "num_followers": 201456,
+  "num_followers": 201619,
   "original_name": "EQUAL France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6OgCQAAAADe+3dgzT81EPdgVhP+cjBx",
+  "snapshot_id": "Z6ZBWgAAAACza6y28IJUn32A0yE6Jlc4",
   "tracks": [
     {
       "added_at": "2025-02-04 23:00:38",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2"
     },
     {
-      "added_at": "2025-02-04 23:00:38",
-      "album": {
-        "name": "VENDETTA",
-        "url": "https://open.spotify.com/album/2DMgmdNwczV5ru2A53BjDB"
-      },
-      "artists": [
-        {
-          "name": "Doria",
-          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
-        }
-      ],
-      "duration_ms": 229083,
-      "name": "VENDETTA",
-      "url": "https://open.spotify.com/track/7AV0BrYMW2e1rtzuyHYe4s"
-    },
-    {
       "added_at": "2025-01-07 23:00:02",
       "album": {
         "name": "harvest sky / obvious",
@@ -647,6 +631,22 @@
       "duration_ms": 160026,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/4cZHE36Q0PKAKrw2vubIm0"
+    },
+    {
+      "added_at": "2025-02-07 17:22:34",
+      "album": {
+        "name": "Ma s\u0153ur (Au pays des Merveilles)",
+        "url": "https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Ma s\u0153ur - Au pays des Merveilles",
+      "url": "https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq"
     },
     {
       "added_at": "2025-01-07 23:00:02",

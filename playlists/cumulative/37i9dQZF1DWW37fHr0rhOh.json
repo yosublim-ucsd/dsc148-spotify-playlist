@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Nelons",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Lynda Randle",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -196,10 +196,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 165450,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1PZYQ7LrODJfDc5I0TFsV2"
+    },
+    {
+      "album": {
+        "name": "Can I Get A Witness",
+        "url": "https://open.spotify.com/album/5Wnwe3xCiSfT1UgskNX9XD"
+      },
+      "artists": [
+        {
+          "name": "Act Of Congress",
+          "url": "https://open.spotify.com/artist/5pcRkpZHW0fibP8wxh0s48"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223881,
+      "name": "Can I Get A Witness",
+      "url": "https://open.spotify.com/track/61DSQo98OtVeCI2U1JVUBz"
     },
     {
       "album": {
@@ -886,7 +904,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208010,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
@@ -1114,6 +1132,24 @@
       "duration_ms": 160506,
       "name": "I'm Lovin' Life",
       "url": "https://open.spotify.com/track/62xUNQ4M5OOyb8Pe4QsZpJ"
+    },
+    {
+      "album": {
+        "name": "I'm Saved",
+        "url": "https://open.spotify.com/album/4Fl0H1akoDgEJ8kRxVzovJ"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "I'm Saved",
+      "url": "https://open.spotify.com/track/7KciX5o5XOm7p52y4JiKaV"
     },
     {
       "album": {
@@ -1719,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "By The Riverside (Deluxe)",
+        "url": "https://open.spotify.com/album/0KsRZ282ajaz9v7kPJOEaD"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240520,
+      "name": "One More Hallelujah",
+      "url": "https://open.spotify.com/track/384RrrnhTnjcHKqv6o6eRs"
+    },
+    {
+      "album": {
         "name": "Sings Greatest Country Gospel Hits",
         "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
@@ -2178,7 +2232,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 159000,
       "name": "So High",
       "url": "https://open.spotify.com/track/4PYdJQUN1pFsPJJcsJ4hvo"
@@ -2665,6 +2719,28 @@
     },
     {
       "album": {
+        "name": "Sweet Hymns Of Fellowship (Live)",
+        "url": "https://open.spotify.com/album/4lWB8vQEfDawQAPCfAqVvk"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Bradley Walker",
+          "url": "https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "The Old Rugged Cross - Live",
+      "url": "https://open.spotify.com/track/2KQrthUDiTwCQJGLlTE9OZ"
+    },
+    {
+      "album": {
         "name": "After All This Time",
         "url": "https://open.spotify.com/album/5s8uLbrdR1gI2U8aQqpItU"
       },
@@ -3090,7 +3166,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 160800,
       "name": "When God Dips His Love In My Heart",
       "url": "https://open.spotify.com/track/3odt0FL3JwouXcCG4EKZRt"

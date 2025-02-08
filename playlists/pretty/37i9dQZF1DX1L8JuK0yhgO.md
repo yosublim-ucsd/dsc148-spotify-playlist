@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,460 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,462 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 51 | [Tears of Faith](https://open.spotify.com/track/16ydiDJ9OyUuSMswFQ4WTZ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Tears of Faith](https://open.spotify.com/album/0W7xdEp1vtfIb72BbTFA91) | 2:45 |
 | 52 | [Mr\. Poseman](https://open.spotify.com/track/2igCtkfrRmcEQoq02e7Wbo) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [After the First Wave](https://open.spotify.com/album/0btqYkyRMkGW0kspnhJQDK) | 3:05 |
 | 53 | [munchies](https://open.spotify.com/track/2igMlLhuhOTVWXag1MD9lm) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [munchies](https://open.spotify.com/album/5u4K2KzXpMTy6iubXvQ36x) | 3:44 |
-| 54 | [capital, sweat](https://open.spotify.com/track/3TPnXcGNj5ZLC7tAlZUgGz) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Insomniac Reveries](https://open.spotify.com/album/3KmJraekZB97bNHKm3V83u) | 2:39 |
+| 54 | [Capital, sweat](https://open.spotify.com/track/3TPnXcGNj5ZLC7tAlZUgGz) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Insomniac Reveries](https://open.spotify.com/album/3KmJraekZB97bNHKm3V83u) | 2:39 |
 | 55 | [Jamming feat\. Keyco](https://open.spotify.com/track/4lXik909emynYRoCU033lx) | [The Clap Brothers](https://open.spotify.com/artist/5KVOAUYmBV0uwGpsUcSNlh), [Tipleso](https://open.spotify.com/artist/7CdhZdKlqmrYHhfrrw6j7e), [KEIZOmachine!](https://open.spotify.com/artist/3ZaYH9SzdXFvnqHj7ISPQY), [Keyco](https://open.spotify.com/artist/6Ou9H9iV3nhw1zHUxMoQS4) | [Jamming feat\. Keyco](https://open.spotify.com/album/5nUTyvHVSFbFta6biMrAHd) | 3:19 |
 | 56 | [By Far](https://open.spotify.com/track/04SI8kA776WQ9fqJdvtiEn) | [Rudebwoy Face](https://open.spotify.com/artist/0knzo2ocVAltWTjEDsSrsk) | [By Far](https://open.spotify.com/album/36e7vnCDW1ZK6UEPZ4cAd6) | 2:22 |
 | 57 | [COMBINATION](https://open.spotify.com/track/6TRrwhGhrUABCChKmUOUjX) | [TEN's UNIQUE](https://open.spotify.com/artist/0tNoGA6RfiW4j8pcLAzWNU), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Pour Out A Little Liquor](https://open.spotify.com/album/1iTgGUtj6jxanfXDaIqJIt) | 2:52 |

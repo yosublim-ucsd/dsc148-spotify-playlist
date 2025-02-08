@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2025 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: DVBBS, Cash Cash, Quinn XCII
+> Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Dom Dolla
 
-615 songs - 1 day 7 hr 55 min
+617 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 | 2023-07-28 |  |
 | [Dope Eyes](https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Natassa Tsonis](https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J) | [Dope Eyes](https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz) | 2:36 | 2023-08-04 | 2023-12-14 |
 | [DREAM SLOW](https://open.spotify.com/track/3ZyPNjKVjFe8yJOkHnCGVS) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DREAM SLOW](https://open.spotify.com/album/4i8IUJfnIZfz217lwVEiyq) | 3:18 | 2022-07-22 | 2022-11-19 |
+| [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 | 2025-02-07 |  |
 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 | 2023-12-08 |  |
 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 | 2023-12-08 |  |
 | [Drinkee](https://open.spotify.com/track/0WE8YTl6GAVHnkfvMfci98) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee](https://open.spotify.com/album/2o1klTHRbovfM3ABxUcKnc) | 4:57 | 2022-06-03 | 2023-02-05 |
@@ -468,6 +469,7 @@
 | [Sexuality \(If You Take Your Love\) \- Pessto Remix](https://open.spotify.com/track/041cJOdbU2Vl3yksl5PRpV) | [Terri & Monica](https://open.spotify.com/artist/5WKBQBv8kqyBnfjoZl5UqB), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Sexuality \(If You Take Your Love\) \[Pessto Remix\]](https://open.spotify.com/album/7KBACSNOBQKy3QjxBAWuki) | 2:55 | 2023-12-08 |  |
 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 | 2023-03-24 | 2023-07-29 |
 | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Urfavxboyfriend](https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5), [Goldsoul](https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk) | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J) | 2:13 | 2023-02-04 | 2023-07-29 |
+| [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-02-07 |  |
 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-07-14 |  |
 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 | 2024-05-31 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-06-03 | 2023-02-05 |

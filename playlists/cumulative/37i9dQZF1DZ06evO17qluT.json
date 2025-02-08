@@ -883,6 +883,28 @@
     },
     {
       "album": {
+        "name": "Estou Pronto",
+        "url": "https://open.spotify.com/album/1u3wi9Erf344qelp0Df6MS"
+      },
+      "artists": [
+        {
+          "name": "Goribeatzz",
+          "url": "https://open.spotify.com/artist/49HDbqanAupBgdzDaHPGk9"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162510,
+      "name": "Estou Pronto",
+      "url": "https://open.spotify.com/track/1K1FiMlJcF8MLatTtb5I6q"
+    },
+    {
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },

@@ -1,13 +1,165 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Aqyila",
-  "num_followers": 53884,
+  "description": "R&B of the moment by the artists of the future. Cover: Bren Joy",
+  "num_followers": 53907,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z51PggAAAABvSnbi7NDM7XLVR/xFRmXR",
+  "snapshot_id": "Z6XDRAAAAADK2bpzyjMBgsceDnKk34gM",
   "tracks": [
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "COUTURE",
+        "url": "https://open.spotify.com/album/3UkaTpmazdfhV7a8NjWn07"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        }
+      ],
+      "duration_ms": 179743,
+      "name": "COUTURE",
+      "url": "https://open.spotify.com/track/55U1NwmDzrJcRhoiQYj1Ca"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "1-800 Heartbreak",
+        "url": "https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "1-800 Heartbreak",
+      "url": "https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "THERAPIST - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3AtVFYIzMlATP24DMqZNYR"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 149501,
+      "name": "THERAPIST - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5VRJGfiWnWiTsa6I0eQn48"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "Am I Too?",
+        "url": "https://open.spotify.com/album/2uCnrVFVpQbzqytNDlEXht"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 137168,
+      "name": "Am I Too?",
+      "url": "https://open.spotify.com/track/6NcqqBWk2zHZpE7bZXAHwG"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6dC9IJx0kWu3Kv17B57Ss4"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 199669,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/6IbR4u6OnMPIf3hkCAMXOh"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2RniGd4rfm2HFYwajJKNpE"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "Person I Knew / Another Man's Life",
+        "url": "https://open.spotify.com/album/0HqPyQcks2JPLAdvjVE7L4"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "Another Man's Life",
+      "url": "https://open.spotify.com/track/13Td777M2ReYcBLsNRfDA6"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "REMEMBER WHEN",
+        "url": "https://open.spotify.com/album/4qhe990gZoUbWJMqAMirj2"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
+        },
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 135647,
+      "name": "GREY",
+      "url": "https://open.spotify.com/track/41ZGDLBTRWnOoOfEa3P86W"
+    },
+    {
+      "added_at": "2025-02-07 08:24:36",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/1dfU1wafLFqy4FtvyUwGi9"
+      },
+      "artists": [
+        {
+          "name": "Kennedy Ryon",
+          "url": "https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH"
+        },
+        {
+          "name": "Swanky",
+          "url": "https://open.spotify.com/artist/3Igx2cI24XDGjGsOLEDM6E"
+        }
+      ],
+      "duration_ms": 198656,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/5piMrHmFYoQekulxfIcoUy"
+    },
     {
       "added_at": "2025-01-31 10:15:38",
       "album": {

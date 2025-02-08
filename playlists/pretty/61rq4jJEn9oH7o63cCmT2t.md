@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 60 songs - 3 hr 19 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 61 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 58 | [Crows](https://open.spotify.com/track/1Lp630hamdrNXkf4AFnCHr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Devil in the Shortwave](https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih) | 2:08 |
 | 59 | [Orange Ball Of Peace](https://open.spotify.com/track/74oZqezSCXiJZjwLZ2KgzX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 1:25 |
 | 60 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
+| 61 | [Heel Turn 2](https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 5:58 |
 
-Snapshot ID: `AAAAR46kLcHbHhgKEEUk5kSkD2Udgfe1`
+Snapshot ID: `AAAASCMREm6YWIxCcts/uBK3nWH66cJ1`

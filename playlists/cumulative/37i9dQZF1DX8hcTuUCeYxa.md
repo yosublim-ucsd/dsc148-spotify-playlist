@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Rikas
 
-984 songs - 2 day 8 hr 8 min
+985 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 | 2024-07-04 | 2024-08-02 |
 | [All Night](https://open.spotify.com/track/4AW0BzuXMC1SL1mFwOHKat) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [All Night / There Was A Time](https://open.spotify.com/album/6S1YZ4eSwNc1CUbaOvlzIf) | 2:57 | 2024-07-18 | 2024-08-09 |
 | [All Over Me](https://open.spotify.com/track/3389qIMwJsirfOPfZincr0) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [All Over Me](https://open.spotify.com/album/5mPiOYUtmoTjfdnxysJSYT) | 2:52 | 2024-09-26 | 2024-10-25 |
-| [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-16 |  |
+| [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-16 | 2025-02-08 |
 | [All These Words](https://open.spotify.com/track/6Go7V9gIpYg8ksusOZylON) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [All These Words](https://open.spotify.com/album/4wrthrHVWtj4TJAabueOA2) | 3:33 | 2024-11-07 | 2024-12-06 |
 | [All Threes](https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 5:24 | 2024-09-19 | 2024-10-18 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-26 | 2024-10-25 |
@@ -623,6 +623,7 @@
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-08-23 |
 | [Nothing \- Demo](https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Nothing \(Demo\)](https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC) | 1:52 | 2024-08-08 | 2024-08-23 |
 | [Nothing Changes](https://open.spotify.com/track/5lgacIkujsufHSO4dGHrIB) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Nothing Changes](https://open.spotify.com/album/0Wvnfb6s4XQOQIK1sKEBwH) | 4:43 | 2024-10-24 | 2024-11-08 |
+| [Nothing Dazzled](https://open.spotify.com/track/6RIpu69RQPXCziQ1oahyVl) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [Nothing Dazzled](https://open.spotify.com/album/4OWLIYH2BMvXcq4MZLABUQ) | 3:25 | 2025-02-07 |  |
 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 | 2024-10-10 | 2024-11-01 |
 | [Nouveau départ](https://open.spotify.com/track/6Be312SFmugZFtSMY22J3K) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Nouveau départ](https://open.spotify.com/album/5F8J6TG8vHp9YWsLSoDLNK) | 3:17 | 2024-12-05 | 2025-01-17 |
 | [Nur Wegen Dir](https://open.spotify.com/track/69ka9kFN9ndRH3mYLIlDJ1) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg), [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV) | [Nur Wegen Dir](https://open.spotify.com/album/3Uv9Uq8dU7KLyfarlXVECh) | 2:47 | 2024-09-19 | 2024-10-04 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4VQIBSMjfFD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4VQIBSMjfFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4VQIBSMjfFD)
 
-### [TAEYANG TOUR ENCORE \[THE LIGHT YEAR\]](https://open.spotify.com/playlist/37i9dQZF1DX4VQIBSMjfFD)
+### [TAEYANG TOUR \[THE LIGHT YEAR\] ENCORE ](https://open.spotify.com/playlist/37i9dQZF1DX4VQIBSMjfFD)
 
 > Get ready for the upcoming concert tour by listening to Taeyang's best songs! \(태양의 베스트 곡들을 들으며 다가오는 콘서트 투어를 준비해보세요!\)
 

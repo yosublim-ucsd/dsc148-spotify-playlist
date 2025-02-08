@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Juliana",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond & Emilia",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 160021,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/4ULCOafYh99FL7iMMEF9cc"
@@ -4352,6 +4352,28 @@
       "duration_ms": 277333,
       "name": "Ven y Dime",
       "url": "https://open.spotify.com/track/5oehfo4iOEb2qdTdKxxgRj"
+    },
+    {
+      "album": {
+        "name": "Vestido Rojo",
+        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153868,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
     },
     {
       "album": {

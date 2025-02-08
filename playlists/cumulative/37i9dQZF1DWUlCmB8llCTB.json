@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Andy Rivera, El Jordan 23 y El Malilla.",
+  "description": "Perreando toda la noche con Anitta.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -17637,6 +17637,24 @@
     },
     {
       "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190624,
+      "name": "ROMEO",
+      "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
+    },
+    {
+      "album": {
         "name": "Romperte (Remix) [feat. Brray, Juanka & Nio Garcia]",
         "url": "https://open.spotify.com/album/5hwhLz3uw1fLSyVljnm9AD"
       },
@@ -19514,7 +19532,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 223846,
       "name": "TE COMO TOA (feat. Matt Hunter)",
       "url": "https://open.spotify.com/track/71dUQtqnhVDwixg3tg70O3"

@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Fight",
+        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213716,
+      "name": "Love Is A Fight",
+      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
+    },
+    {
+      "album": {
         "name": "Love Me Harder",
         "url": "https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW"
       },

@@ -2981,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/0lO0JNz7Rz94RoSi8pW65l"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83410,
+      "name": "Coffee In The Morning",
+      "url": "https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp"
+    },
+    {
+      "album": {
         "name": "Coffee's on Me",
         "url": "https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K"
       },
@@ -6999,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "i could be your hands",
+        "url": "https://open.spotify.com/album/7bvImW5Fd4it9hJQ36QWt9"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237217,
+      "name": "i could be your hands",
+      "url": "https://open.spotify.com/track/3wAhqMAdeZ9km9WmBGSpLN"
+    },
+    {
+      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob"
       },
@@ -10040,7 +10076,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145720,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
@@ -13143,6 +13179,24 @@
     },
     {
       "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "album": {
         "name": "Sororicide",
         "url": "https://open.spotify.com/album/0sONVzqDRpCsk3rKVBdjU0"
       },
@@ -15432,7 +15486,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 163611,
       "name": "wasting your love",
       "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
@@ -15634,7 +15688,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 225000,
       "name": "what's true?",
       "url": "https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd"

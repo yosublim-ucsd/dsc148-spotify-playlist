@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Sophie Powers",
+  "description": "Dark, hard hitting pop. Cover: Cil",
   "name": "SALT",
   "tracks": [
     {
@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Boy Clothes",
+        "url": "https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Boy Clothes",
+      "url": "https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr"
+    },
+    {
+      "album": {
         "name": "boy i'd like to kill",
         "url": "https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7"
       },
@@ -3302,7 +3320,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 154647,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX"
@@ -6818,7 +6836,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 143829,
       "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
       "url": "https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ"
@@ -9581,6 +9599,24 @@
     },
     {
       "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/6217G8cp3DohoFXef2elzd"
+      },
+      "artists": [
+        {
+          "name": "ASTON",
+          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152609,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx"
+    },
+    {
+      "album": {
         "name": "AIKONIC",
         "url": "https://open.spotify.com/album/3D3e4B1bGx5FWmCCWbHAYv"
       },
@@ -11148,7 +11184,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169014,
       "name": "Relevant",
       "url": "https://open.spotify.com/track/0M4b06JYKNHHOv5vi5XsfJ"
@@ -15498,6 +15534,24 @@
       "duration_ms": 173066,
       "name": "You Ruined Nirvana",
       "url": "https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK"
+    },
+    {
+      "album": {
+        "name": "You're a Liar (You Love Me)",
+        "url": "https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174904,
+      "name": "You're a Liar (You Love Me)",
+      "url": "https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG"
     },
     {
       "album": {

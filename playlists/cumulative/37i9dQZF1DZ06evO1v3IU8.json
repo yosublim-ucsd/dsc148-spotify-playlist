@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Mesa Para Uno",
+        "url": "https://open.spotify.com/album/1ZBwoakVD5XEnww8RBWJxa"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "Mesa Para Uno",
+      "url": "https://open.spotify.com/track/0Bfx8bZW89UbbCD7U7PqaJ"
+    },
+    {
+      "album": {
         "name": "Mi Mayor Anhelo",
         "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
       },

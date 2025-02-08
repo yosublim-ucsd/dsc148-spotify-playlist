@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-117 songs - 5 hr 58 min
+118 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Did I Mention](https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh) | [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:33 | 2024-11-04 |  |
 | [Don't Go Breaking My Heart \- From "Chicken Little"/Soundtrack Version](https://open.spotify.com/track/52nSf9QgQrQphbJv1ssF2Z) | [Runt of the Litter](https://open.spotify.com/artist/0d1adB2baUQbq6D9xlQZ16), [Foxy Loxy](https://open.spotify.com/artist/6pZE2bLEfbqNJBoob82x4K), [Chicken Little](https://open.spotify.com/artist/2G0KshUNR4nyMJrre61dIa), [Buck Cluck](https://open.spotify.com/artist/2QLIFqNZ6ik7xoyPgrkcDr), [Abby Mallard](https://open.spotify.com/artist/6aSf2DXkTRBCDPrVT5j3Xe), [Fish Out of Water](https://open.spotify.com/artist/3d4OixBeZFNIPyRX2M3VMJ), [Mayor Turkey Lurkey](https://open.spotify.com/artist/71JJNrmX5y3tfgPH29Fuhq), [Mr\. Woolensworth](https://open.spotify.com/artist/4ta66UrsS071lVaTuorgHY) | [Chicken Little](https://open.spotify.com/album/3Z93u37mCvyowExFmHR6Bc) | 1:53 | 2022-03-16 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2022-03-16 |  |
+| [En Mi Corazón Estarás](https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Merche Macaria](https://open.spotify.com/artist/3EpcaEm4CiGeEAhHymp7TV) | [Tarzan \(Banda Sonora Original\)](https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm) | 1:39 | 2025-02-07 |  |
 | [Footloose & Collar\-Free/Bella Notte \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/1Gx8ozbDJZjzWUp5eRr6Hh) | [Oliver Wallace](https://open.spotify.com/artist/497FibW7265st1H0UfpGb2), [George Givot](https://open.spotify.com/artist/0amtHf5yFCceg0y8YUBd1z), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 4:22 | 2022-03-16 |  |
 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 | 2022-03-16 |  |
 | [Go the Distance](https://open.spotify.com/track/2rm72l5pjfby1cWvPMUojI) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 3:14 | 2022-03-16 | 2022-07-29 |

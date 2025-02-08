@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain](/playlists/plain/37i9dQZF1DX4VQIBSMjfFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4VQIBSMjfFD)
 
-### [TAEYANG TOUR ENCORE \[THE LIGHT YEAR\]](https://open.spotify.com/playlist/37i9dQZF1DX4VQIBSMjfFD)
+### [TAEYANG TOUR \[THE LIGHT YEAR\] ENCORE ](https://open.spotify.com/playlist/37i9dQZF1DX4VQIBSMjfFD)
 
 > Get ready for the upcoming concert tour by listening to Taeyang's best songs! \(태양의 베스트 곡들을 들으며 다가오는 콘서트 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,166 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,223 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain]
 | 19 | [STAY WITH ME](https://open.spotify.com/track/4Hznsw4SROqqX8T54Syguv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:22 |
 | 20 | [Where U At](https://open.spotify.com/track/1qbwaDM22exlyLRAmM9vKd) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:49 |
 
-Snapshot ID: `Z5i50AAAAAD336XdMaNKJjAhHhmGea1d`
+Snapshot ID: `Z6WDfQAAAABHPSd7Q5YDOk75CHxGWB7x`

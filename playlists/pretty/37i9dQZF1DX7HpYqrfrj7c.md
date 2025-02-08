@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,373 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,523 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,16 +78,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 68 | [Alley Cats](https://open.spotify.com/track/1IZ9MPYWU7MhZvo6NOq79Q) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Straight From the Source](https://open.spotify.com/album/2XkAsmlShB6JNy7JmdXMHI) | 3:22 |
 | 69 | [It's A Party \(Instrumental\)](https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko) | 4:40 |
 | 70 | [Climax \- Instrumental Mix](https://open.spotify.com/track/6phS0dmak9yAw1vhYJAj9T) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:22 |
-| 71 | [blow for blow.](https://open.spotify.com/track/0ejflAxFckJQrUKxiT1LP8) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [white night.](https://open.spotify.com/album/3aaNpWGGAwZUE0Y1lzqbV1) | 1:56 |
-| 72 | [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
-| 73 | [Family and Loyalty \- Instrumental](https://open.spotify.com/track/0ffXklHorIux1lxo3QdPaA) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 4:34 |
-| 74 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 |
-| 75 | [Cyan Depts](https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Cyan Depts](https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg) | 2:08 |
-| 76 | [garden](https://open.spotify.com/track/74Vg6QC4c1RbUf06QPiFAA) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [garden](https://open.spotify.com/album/4SPyNdJsi4bwa3e8McuCaj) | 1:55 |
-| 77 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 |
-| 78 | [1999 \- Instrumental](https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1999 / Like They Used To Say \(Remixes\)](https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf) | 4:16 |
-| 79 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
-| 80 | [Teekup](https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh) | [The Jazzual Suspects](https://open.spotify.com/artist/7KH5fBS44kdTebdgzspYtJ) | [Teekup](https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb) | 3:00 |
-| 81 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
+| 71 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 |
+| 72 | [blow for blow.](https://open.spotify.com/track/0ejflAxFckJQrUKxiT1LP8) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [white night.](https://open.spotify.com/album/3aaNpWGGAwZUE0Y1lzqbV1) | 1:56 |
+| 73 | [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
+| 74 | [Family and Loyalty \- Instrumental](https://open.spotify.com/track/0ffXklHorIux1lxo3QdPaA) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 4:34 |
+| 75 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 |
+| 76 | [Cyan Depts](https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk) | [88keys](https://open.spotify.com/artist/7K52AJqMzOyGW6ImM0w9yQ) | [Cyan Depts](https://open.spotify.com/album/4D681WRORwtP5p7ch1IYlg) | 2:08 |
+| 77 | [garden](https://open.spotify.com/track/74Vg6QC4c1RbUf06QPiFAA) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [garden](https://open.spotify.com/album/4SPyNdJsi4bwa3e8McuCaj) | 1:55 |
+| 78 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 |
+| 79 | [How High \- Instrumental](https://open.spotify.com/track/4HGXJaw3H9ED4ACfYd6ZhV) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [How High](https://open.spotify.com/album/4qlXsDXdQMHdWWZzqf6Hzm) | 3:49 |
+| 80 | [all love.](https://open.spotify.com/track/5MuK3IJqHnDPNUTqNnsjMo) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [all love.](https://open.spotify.com/album/7fdzbUdKADmbLh9fYPMPGp) | 2:17 |
+| 81 | [1999 \- Instrumental](https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1999 / Like They Used To Say \(Remixes\)](https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf) | 4:16 |
+| 82 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
+| 83 | [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 |
+| 84 | [Teekup](https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh) | [The Jazzual Suspects](https://open.spotify.com/artist/7KH5fBS44kdTebdgzspYtJ) | [Teekup](https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb) | 3:00 |
+| 85 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
 
-Snapshot ID: `Z5P9RwAAAADFuYfv3tU4P/l6ftZ159ZJ`
+Snapshot ID: `Z6Z9HAAAAADu87/ODqrkyDyyX0zwUoCh`

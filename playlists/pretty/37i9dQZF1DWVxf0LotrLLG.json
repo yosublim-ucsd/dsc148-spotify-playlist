@@ -1,15 +1,231 @@
 {
   "description": "Descubre los nuevos \u00e1lbumes del 2025. Hit shuffle for a mixed listening experience. Cover: Pedro Cap\u00f3",
-  "num_followers": 36958,
+  "num_followers": 36963,
   "original_name": "New Latin Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY5QAAAAAu/qszWsv+vwlFi+3ZvUIi",
+  "snapshot_id": "Z6Y+bgAAAAAQdd1ZHXiffPef3MyE2FN9",
   "tracks": [
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Natti Natasha en Amargue",
+        "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 203563,
+      "name": "Desde Hoy",
+      "url": "https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Natti Natasha en Amargue",
+        "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 199227,
+      "name": "Ya No Comparto",
+      "url": "https://open.spotify.com/track/0099ZFXDXNi4DuRhoOiEaV"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Natti Natasha en Amargue",
+        "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 194587,
+      "name": "Polo Norte",
+      "url": "https://open.spotify.com/track/4htzIe7Oyoc9md1fWaVL30"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Un Bendito D\u00eda",
+        "url": "https://open.spotify.com/album/6tYRIeNLlDe8MxrU0rl48o"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 211116,
+      "name": "Un Bendito D\u00eda",
+      "url": "https://open.spotify.com/track/0SN8t32hU7C203Tnmzew1p"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214552,
+      "name": "Yo Tuve un Amor",
+      "url": "https://open.spotify.com/track/0aURWMQhHqx8LdnLYvhn9G"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Sin Filtro",
+      "url": "https://open.spotify.com/track/48zbSViwZYXbXcEZqVRyGx"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Fotograf\u00edas",
+        "url": "https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
+        }
+      ],
+      "duration_ms": 246103,
+      "name": "Fotograf\u00edas",
+      "url": "https://open.spotify.com/track/488ebozC7zLK9syFesprpO"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Fotograf\u00edas",
+        "url": "https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
+        }
+      ],
+      "duration_ms": 332489,
+      "name": "Emigrantes",
+      "url": "https://open.spotify.com/track/0Flcvu0k8OkfVFlgwebzLb"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "Fotograf\u00edas",
+        "url": "https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
+        }
+      ],
+      "duration_ms": 400874,
+      "name": "Hoy Por Ti (Ma\u00f1ana Por Mi)",
+      "url": "https://open.spotify.com/track/60Kuul4b5eFHIhswJ5YcWW"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "FUTURALGIA",
+        "url": "https://open.spotify.com/album/3n9jiZcUfCsBuflB5irP62"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Lo Siento?",
+      "url": "https://open.spotify.com/track/7CPZ6ym5Fr0cSXa8tz2p0C"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "FUTURALGIA",
+        "url": "https://open.spotify.com/album/3n9jiZcUfCsBuflB5irP62"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 135370,
+      "name": "Dif\u00edcil de Querer",
+      "url": "https://open.spotify.com/track/4VVyjEkjFcHUQEQSIP6eH4"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
+      "album": {
+        "name": "FUTURALGIA",
+        "url": "https://open.spotify.com/album/3n9jiZcUfCsBuflB5irP62"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 143194,
+      "name": "Raro",
+      "url": "https://open.spotify.com/track/0uRemIrTqUfduLKfHxxzcr"
+    },
+    {
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/7gFsnxX16N2ZoPI23SibID"
@@ -25,7 +241,7 @@
       "url": "https://open.spotify.com/track/2NvnmIJHPoDLqPIGmoMZS7"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
@@ -41,7 +257,7 @@
       "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
@@ -57,7 +273,7 @@
       "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
@@ -73,7 +289,7 @@
       "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
@@ -89,7 +305,7 @@
       "url": "https://open.spotify.com/track/1IwMWBD9BBE4QUReJZlXo7"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
@@ -105,7 +321,7 @@
       "url": "https://open.spotify.com/track/148wN6BPI1KtmuqQqatet6"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "Torre Infiel, Vol. 2",
         "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
@@ -121,7 +337,7 @@
       "url": "https://open.spotify.com/track/3mEHrF2D2WUKwGlZZpyM0r"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "Torre Infiel, Vol. 2",
         "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
@@ -137,7 +353,7 @@
       "url": "https://open.spotify.com/track/3IYRwXvdnwxAuMA2x1Tbrg"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "Torre Infiel, Vol. 2",
         "url": "https://open.spotify.com/album/1vm5VgqnS5d1qtFRYJpJAI"
@@ -153,7 +369,7 @@
       "url": "https://open.spotify.com/track/7utB3VcCmMddJFdJbbXi1P"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -169,7 +385,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -185,7 +401,7 @@
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -201,7 +417,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
@@ -217,7 +433,7 @@
       "url": "https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
@@ -233,7 +449,7 @@
       "url": "https://open.spotify.com/track/4Mo8HR9xoVDPuNXO8b6ICS"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "SECO",
         "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
@@ -249,7 +465,7 @@
       "url": "https://open.spotify.com/track/0P6cpsCHovH3ATZM7re7yY"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
@@ -269,7 +485,7 @@
       "url": "https://open.spotify.com/track/4WlJ7BuGVLrx6ekP5RpDUd"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
@@ -289,7 +505,7 @@
       "url": "https://open.spotify.com/track/20AO2WwNDOcOfa0FrQmRKV"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
@@ -309,7 +525,7 @@
       "url": "https://open.spotify.com/track/3INmM0AM2XyIdK6G77ZISz"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"
@@ -325,7 +541,7 @@
       "url": "https://open.spotify.com/track/6CMVbqVZ66SXPXsD3NzGuw"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"
@@ -345,7 +561,7 @@
       "url": "https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh"
     },
     {
-      "added_at": "2025-01-31 05:00:21",
+      "added_at": "2025-02-07 17:10:06",
       "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"

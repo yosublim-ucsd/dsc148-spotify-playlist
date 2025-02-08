@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "3 am empty",
+        "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "3 am walk",
+      "url": "https://open.spotify.com/track/6mFsMkwQi9onAvRZNlWvhJ"
+    },
+    {
+      "album": {
         "name": "analog",
         "url": "https://open.spotify.com/album/3wcz6SGuGPDAktWQc20uBc"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 105183,
       "name": "autumn days with you",
       "url": "https://open.spotify.com/track/6iJ5dTOgd0lsqbRoeHnFTw"
@@ -637,6 +655,24 @@
     },
     {
       "album": {
+        "name": "deep thoughts",
+        "url": "https://open.spotify.com/album/3VmmwqFLCElKvDnFMxHFS9"
+      },
+      "artists": [
+        {
+          "name": "inside of my head.",
+          "url": "https://open.spotify.com/artist/6F1GS2DD776dXGpo7nzElq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "deep thoughts",
+      "url": "https://open.spotify.com/track/6STKFhN6HrHE9nCWdsidRJ"
+    },
+    {
+      "album": {
         "name": "deja vu (slowed)",
         "url": "https://open.spotify.com/album/0VdXEw6vwRWFaH8FUUjlWr"
       },
@@ -648,7 +684,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 76273,
       "name": "deja vu - slowed",
       "url": "https://open.spotify.com/track/7eBHqNPHWbCNX3zXpQ4GOY"
@@ -728,7 +764,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 138795,
       "name": "distorted love",
       "url": "https://open.spotify.com/track/6yV5uNZLbrLCowcywutgpl"
@@ -746,7 +782,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 126779,
       "name": "Distorted Reflection",
       "url": "https://open.spotify.com/track/1BKy0j97r7k1d4zxBatcbr"
@@ -1116,7 +1152,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 114857,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/6sVsKes7vgD1XmNM3aAcDk"
@@ -1182,7 +1218,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 170769,
       "name": "Ethereal Dreams",
       "url": "https://open.spotify.com/track/1PkO7wuVgJ9Z00M3srC3vr"
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 132000,
       "name": "Floating Beyond",
       "url": "https://open.spotify.com/track/46R7YAndtQpOLNK6qrlK2h"
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120007,
       "name": "for people who strengthen our lives",
       "url": "https://open.spotify.com/track/0xJudXohbbnbRPwKD7nldI"
@@ -1711,6 +1747,28 @@
     },
     {
       "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/4dqOzDj2fe4nZdo48bN1Wc"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "Jay Karin",
+          "url": "https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70285,
+      "name": "home",
+      "url": "https://open.spotify.com/track/5rHc5peKIYcuaWlilEy9ni"
+    },
+    {
+      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/7yt2GHDPd31ioK7HrshD4i"
       },
@@ -1766,7 +1824,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 103200,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/7Le9FkXJJqPLkIF18WTprA"
@@ -2192,7 +2250,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 95215,
       "name": "lost memories",
       "url": "https://open.spotify.com/track/3DyCu44Xrz8N83BLcQy5WM"
@@ -2308,7 +2366,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 124660,
       "name": "maps to nowhere",
       "url": "https://open.spotify.com/track/2wvhy8OLnkBfThXvDwrAlj"
@@ -2352,7 +2410,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 224571,
       "name": "milk cassette x.mp3 (slowed + reverb)",
       "url": "https://open.spotify.com/track/0QZMfHkSdCXeJpszp7peVR"
@@ -2592,7 +2650,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 101333,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6VczOdO8TqPFS82DxGaNMD"
@@ -2700,7 +2758,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 138352,
       "name": "orchid painting.",
       "url": "https://open.spotify.com/track/5SgQauUegEIkxqm5P6N26P"
@@ -2830,7 +2888,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 108923,
       "name": "pulsar",
       "url": "https://open.spotify.com/track/33cXVAoxpOHTHkt2KdqC9c"
@@ -2888,7 +2946,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 126000,
       "name": "recalling memories that never existed",
       "url": "https://open.spotify.com/track/4Hc2TTFkRGXqZjBXKh4QL7"
@@ -2950,7 +3008,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 116687,
       "name": "regrets",
       "url": "https://open.spotify.com/track/392wSTVT2YtUpWyZ1D2wzr"
@@ -2972,7 +3030,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 137500,
       "name": "reverie",
       "url": "https://open.spotify.com/track/5AdSdtdhDm5ksTbbgXwNZh"
@@ -3070,7 +3128,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 139636,
       "name": "safe",
       "url": "https://open.spotify.com/track/3e8iYpjIK0MdKut5BNXwoB"
@@ -3146,7 +3204,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 173609,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1EZ6UEouCbyEe3nyEoxXcy"
@@ -3164,7 +3222,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120006,
       "name": "Savory Tea",
       "url": "https://open.spotify.com/track/2d8EFRwq0rLxIkh7MGy2Vd"
@@ -3374,7 +3432,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 129032,
       "name": "Sleeping City",
       "url": "https://open.spotify.com/track/6unebrf4wJ1DLAk0fpIC8A"
@@ -3418,7 +3476,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
@@ -3436,7 +3494,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120000,
       "name": "soundscape lullaby",
       "url": "https://open.spotify.com/track/7BJggajuFb0FnqTWfno1AO"
@@ -3476,7 +3534,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 87016,
       "name": "springtime",
       "url": "https://open.spotify.com/track/5UpSHFwzGWfwTRbm2m0tgh"
@@ -3932,7 +3990,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 50349,
       "name": "what do your thoughts sound like?",
       "url": "https://open.spotify.com/track/2NJeair83CrcDrvo4qxDD8"
@@ -3968,7 +4026,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145942,
       "name": "whatever happens",
       "url": "https://open.spotify.com/track/3yhIlekGzARbycsRhAWlt1"
@@ -4154,7 +4212,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 128798,
       "name": "you not the same",
       "url": "https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh"

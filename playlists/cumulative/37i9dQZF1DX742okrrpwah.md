@@ -4,7 +4,7 @@
 
 > LISA, Doja Cat et RAYE au top des nouveautés de la semaine !
 
-3,418 songs - 7 day 10 hr 17 min
+3,420 songs - 7 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [Des Choses](https://open.spotify.com/track/1zvmRYVcCbdr2ml6U9cqxw) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Des Choses](https://open.spotify.com/album/6HSL1XRfNmkBkPWJ4Ix5YH) | 3:12 | 2024-11-14 | 2024-11-22 |
 | [Des fleurs](https://open.spotify.com/track/2jNeR1QAIvikSfvpImES6f) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [Des fleurs](https://open.spotify.com/album/350HmeclApbU0aOtqWtkjh) | 2:53 | 2025-01-09 | 2025-01-17 |
 | [Des Histoires](https://open.spotify.com/track/2hvfaFWZHErqc3FyDfeXQe) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Des Histoires](https://open.spotify.com/album/4tCoXW3fESM9myCDX6cSD2) | 3:16 | 2024-05-16 | 2024-05-24 |
+| [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 | 2025-02-07 |  |
 | [Desire](https://open.spotify.com/track/5mMrzK6wWTG1LuBq9IhfOQ) | [Josh Stanley](https://open.spotify.com/artist/2YctNu2EnMnIwcxdCp0lJy) | [Desire](https://open.spotify.com/album/4E1YsoFmbxA9XIGccrODI5) | 2:46 | 2024-10-31 | 2024-11-08 |
 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 | 2024-12-05 | 2024-12-13 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 | 2024-08-23 |
@@ -1486,6 +1487,7 @@
 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 | 2024-06-27 | 2024-07-05 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-20 | 2024-06-28 |
 | [Into My World](https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Into My World](https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU) | 2:52 | 2025-01-23 | 2025-01-31 |
+| [INTRO VVV](https://open.spotify.com/track/4JKtbP8gSk81cw2Pg2ddOI) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [INTRO VVV](https://open.spotify.com/album/150SDiYGHHQraJ8VEAFDCt) | 2:33 | 2025-02-07 |  |
 | [INTÉRIEUR](https://open.spotify.com/track/07s3BgK1aaUsyj4YX1LlRY) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [INTÉRIEUR](https://open.spotify.com/album/0zMCM791RLp47y1AWM2NjR) | 2:17 | 2025-01-30 | 2025-02-07 |
 | [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 | 2025-02-07 |  |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-25 | 2024-08-02 |
@@ -3125,6 +3127,7 @@
 | [Tout tenter](https://open.spotify.com/track/0VE1NQ4QwD6B69kSMfpIG7) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:58 | 2024-11-14 | 2024-11-22 |
 | [Tout va bien](https://open.spotify.com/track/2FZ1AAsXouaO7rlfjC9HW6) | [Dalí](https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo) | [Tout va bien](https://open.spotify.com/album/1tT7pYugJik1DxxfXsjNgQ) | 2:18 | 2024-11-07 | 2024-11-15 |
 | [Tout y est](https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d) | [Tout y est](https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU) | 2:47 | 2024-07-11 | 2024-07-19 |
+| [Toute la Noché](https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Longue Vie à Nous](https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF) | 2:54 | 2025-02-07 |  |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-01-31 |
 | [Toute seule](https://open.spotify.com/track/3AUFJBCkOtXq72YJoA7zut) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs](https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN) | 3:17 | 2024-09-26 | 2024-10-04 |
 | [Toutes les femmes de ta vie](https://open.spotify.com/track/4FCPmgBL7GBcSmhC2cxKEb) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Toutes les femmes de ta vie](https://open.spotify.com/album/6ssnzGVbWrn8zssfMS3Aol) | 3:54 | 2024-09-26 | 2024-10-04 |
@@ -3207,7 +3210,6 @@
 | [Vaï & 2Viens](https://open.spotify.com/track/6HVgs3qm88xtW9RONwZjVn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [SOLEDAD SAISON 1](https://open.spotify.com/album/7ohXPrS754eVGz7pnseqmd) | 3:15 | 2025-01-23 | 2025-01-31 |
 | [Vendredi soir](https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Vendredi soir](https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY) | 3:12 | 2025-01-02 | 2025-01-10 |
 | [VENDREDI À LONDRES](https://open.spotify.com/track/1rPZ6Dbqoy7nQ0jDIsIbIP) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9), [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K) | [VENDREDI À LONDRES](https://open.spotify.com/album/5GQz2O9IUXNuGyuyBJkLdI) | 2:58 | 2024-10-24 | 2024-11-01 |
-| [VENI VIDI VICI](https://open.spotify.com/track/4JKtbP8gSk81cw2Pg2ddOI) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [VENI VIDI VICI](https://open.spotify.com/album/150SDiYGHHQraJ8VEAFDCt) | 2:33 | 2025-02-07 |  |
 | [Vent du Nord](https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Vent du Nord](https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks) | 2:25 | 2024-09-05 | 2024-09-07 |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 | 2024-10-18 |
 | [Very Bad Trip](https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Very Bad Trip](https://open.spotify.com/album/6pq9OhOvQuDwUzQva73v0t) | 2:11 | 2024-05-30 | 2024-06-07 |

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vidaamuyarchi
 
-1,649 songs - 4 day 4 hr 6 min
+1,650 songs - 4 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Kalavaani Pasanga](https://open.spotify.com/track/2Yq3NFbDvp7TZKUPXkxH9r) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Kalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G91uQmyzwXGJ7555VJtct) | 3:43 | 2024-03-26 | 2024-06-01 |
 | [Kalavadum Kalvane](https://open.spotify.com/track/2V6tGaQE9E2Zazaw4hVMXl) | [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kaalangalil Aval Vasantham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29foXrcPoTRSXisAxLUBKz) | 3:14 | 2022-10-17 | 2022-11-03 |
 | [Kalavi Paadal \(From "Devil"\)](https://open.spotify.com/track/15qKvMi51eQD6BheCnf3hr) | [Mysskin](https://open.spotify.com/artist/0KZtQr4Jlhym13H0AHOCmB), [Devu Treesa Mathew](https://open.spotify.com/artist/2KHdX9l7Y1lzaoSydLo83m) | [Kalavi Paadal \(From "Devil"\)](https://open.spotify.com/album/2nrdOvdQrKn1I7zmRo2jxV) | 5:09 | 2023-06-29 | 2023-07-21 |
+| [Kalayile Koovuthu \(From "Vettu"\)](https://open.spotify.com/track/645vAT6TMJ9xHoU86u4KhO) | [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Dharmateja](https://open.spotify.com/artist/4CjDouVKiLBCjhb8n5aho5), [Amma Rajashekar](https://open.spotify.com/artist/5HgMQXCMNsJeVAT8exXVqK) | [Kalayile Koovuthu \(From "Vettu"\)](https://open.spotify.com/album/5KClQC5ny2GzBLLPiDANpP) | 3:05 | 2025-02-07 |  |
 | [Kalloorum \- From "Veera Dheera Sooran"](https://open.spotify.com/track/1tsvjUpHeho8hX0ynlDwLO) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Kalloorum \(From "Veera Dheera Sooran"\)](https://open.spotify.com/album/0qTFfYaSPhXMZvMTqMGnGn) | 3:32 | 2025-01-13 |  |
 | [Kalloorum Poove](https://open.spotify.com/track/1dhTDwt6g8kJ2OhEqzyRct) | [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo), [Arun Bharathi](https://open.spotify.com/artist/61gLMpZ8tl6e5yQcjIvsFE) | [Pichaikkaran 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5haEWhDD82jDtNj2aPBMgV) | 3:57 | 2023-05-17 | 2023-06-08 |
 | [Kalloorum Poove](https://open.spotify.com/track/7iOhJgR7UhSByspuJwLkwA) | [Vijay Antony](https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalloorum Poove \(From "Pichaikkaran 2"\)](https://open.spotify.com/album/3ybaQGp3ehkyznYDHFqheK) | 3:57 | 2023-05-17 | 2023-05-19 |

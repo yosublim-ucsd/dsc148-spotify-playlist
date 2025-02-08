@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-942 songs - 1 day 4 hr 25 min
+944 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Iris](https://open.spotify.com/track/44uqQJfPv3LO9p4Zt8CyIH) | [Milo Creek](https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF) | [Iris](https://open.spotify.com/album/4HXfz8OFPcxrBjd1ji2GUd) | 1:29 | 2024-12-06 |  |
 | [Isolde’s dream](https://open.spotify.com/track/3EbKqMFaqKVt1pSgper4xm) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Isolde’s dream](https://open.spotify.com/album/7fybKYONWHdx5KLUViY3oQ) | 1:29 | 2024-03-22 |  |
 | [It Is Not Yet Morning](https://open.spotify.com/track/0SyY5BDrGJgFuEA4uUxeUm) | [The Wamsutters](https://open.spotify.com/artist/6SiqU9ymNMulXbnEORdvS6) | [Time for Bed My Little One](https://open.spotify.com/album/2d7uXNg9XjZYszBl2tWKcF) | 1:57 | 2021-10-05 | 2022-10-08 |
-| [It's a Small World](https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [It's a Small World](https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l) | 1:35 | 2023-01-27 |  |
+| [It's a Small World](https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [It's a Small World](https://open.spotify.com/album/3CKHyzgaKJilIAS8l3458l) | 1:35 | 2023-01-27 | 2025-02-08 |
 | [It's A Small World](https://open.spotify.com/track/3U6wVhRZZnobaCdmOMD9jK) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [It's A Small World](https://open.spotify.com/album/1vAScbdQXRQhlFC3CkuEAa) | 2:04 | 2022-06-30 | 2023-02-25 |
 | [It's Been A Long Day](https://open.spotify.com/track/1CeFzDg9kNbUSL0bC1njez) | [Lev Castillo](https://open.spotify.com/artist/6dyJAS8BWMoNaWDHxJR2J6) | [It's Been A Long Day](https://open.spotify.com/album/2uT46NkfNy5Ac1Aq27Va2T) | 1:26 | 2021-10-05 | 2022-12-16 |
 | [It's Time To Go To Sleep](https://open.spotify.com/track/77QmgMIy7bCzuHWAB7GEqV) | [Lemon Riley](https://open.spotify.com/artist/71PXjgSkpSdlXqSMSyLuMj) | [It's Time To Go To Sleep](https://open.spotify.com/album/0nlM8fEdZQOPrlfd0cwEKb) | 1:46 | 2021-10-05 | 2022-10-08 |
@@ -588,7 +588,7 @@
 | [One Of A Kind](https://open.spotify.com/track/0dgkwzWUtsVvwAoJXOVUP1) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [One Of A Kind](https://open.spotify.com/album/4udIJ4PmznmTYAbljWAbll) | 1:18 | 2022-08-10 |  |
 | [One Still Night](https://open.spotify.com/track/0wFBURvO5zzS5LQ2MYIVM8) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [One Still Night](https://open.spotify.com/album/5m3yH47ThlKuxj051JwyMh) | 2:11 | 2024-05-24 |  |
 | [Open, Shut Them](https://open.spotify.com/track/65c8jRrH1mxOMbm47H2bT5) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Old MacDonald Had a Farm](https://open.spotify.com/album/14rhsxNAMbwColnxVl43hR) | 1:54 | 2022-07-27 | 2023-09-08 |
-| [Opsis Kalopsis](https://open.spotify.com/track/6mAUs61UZZd5Y2IK5avEUK) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Opsis Kalopsis](https://open.spotify.com/album/40ZJOOz5dQVA4qsp4OA6ke) | 1:02 | 2023-02-17 |  |
+| [Opsis Kalopsis](https://open.spotify.com/track/6mAUs61UZZd5Y2IK5avEUK) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Opsis Kalopsis](https://open.spotify.com/album/40ZJOOz5dQVA4qsp4OA6ke) | 1:02 | 2023-02-17 | 2025-02-08 |
 | [Our Baby \(Piano Version\)](https://open.spotify.com/track/6Wc69YTIhZTREGW75w2VDc) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Our Baby](https://open.spotify.com/album/0ZnzgmLSUMWAC3s9AGw3TX) | 1:45 | 2022-06-08 | 2024-05-24 |
 | [Our Little Sandman](https://open.spotify.com/track/2503WM2PCCscHWQcr0xBjg) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Our Little Sandman](https://open.spotify.com/album/6oQZqafqOJCYPaXDcYMgJP) | 1:06 | 2023-12-08 |  |
 | [Over The Moon](https://open.spotify.com/track/76uTqyHnM2QeuQRH45nN60) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Over The Moon](https://open.spotify.com/album/1KRXc6Syep1qAIENwFJjvC) | 1:41 | 2023-06-02 |  |
@@ -724,6 +724,7 @@
 | [Soft Pa](https://open.spotify.com/track/6mBfgifmPmzt92J0EKdBRL) | [Helene Daley](https://open.spotify.com/artist/2wplXTYPzITffTg0srIQ1k) | [Soft Pa](https://open.spotify.com/album/2Jqm4kQbm6SbpUX8KaqkFJ) | 2:08 | 2021-10-05 | 2023-02-18 |
 | [Soft Pillow](https://open.spotify.com/track/5Xh6QvWKR1Msp7iMyjy3XT) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [Soft Pillow](https://open.spotify.com/album/130RcIWFFeGP7ALfjY9QyZ) | 1:52 | 2023-05-05 |  |
 | [Softly Sleep](https://open.spotify.com/track/7H71wFbyd6Fah2qPEvIuLv) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Song for Teddy](https://open.spotify.com/album/2NOyL3zlkGmaj7Cogw5a5e) | 1:21 | 2022-05-12 | 2024-10-26 |
+| [Softly Swaying](https://open.spotify.com/track/08bfEu8pNyqukX5hq8AmBR) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Softly Swaying](https://open.spotify.com/album/4N4uobEwsoF6eu8cKBy3wr) | 1:46 | 2025-02-07 |  |
 | [Softly to Sleep](https://open.spotify.com/track/2rsmjUSeq0aVGpOPrngdzh) | [Polly Panda](https://open.spotify.com/artist/3a3EfjMdWAf4CibZGa4btE) | [Softly to Sleep](https://open.spotify.com/album/64afAC2HzH6abbHqPeKdH1) | 2:28 | 2024-06-28 |  |
 | [Sogni d’oro](https://open.spotify.com/track/3ZrREPkekC17w11uxaanhW) | [Leora Bianchi](https://open.spotify.com/artist/7BnEklN1peuEwAJrp2u7z3) | [Sogni d’oro](https://open.spotify.com/album/0SdGm7wUUA4ThFb0oazFz5) | 1:35 | 2021-10-05 | 2022-11-19 |
 | [Som En Saga](https://open.spotify.com/track/7e87LdroN5zBYSDiwLHuEx) | [Joanna Lynn](https://open.spotify.com/artist/4OU281BUS1sOrdDdqhVto2) | [Som En Saga](https://open.spotify.com/album/1p6VwL6fF7EbNCBpBlDehC) | 1:21 | 2023-02-17 | 2023-06-03 |
@@ -824,6 +825,7 @@
 | [The Sun And The Moon](https://open.spotify.com/track/672ddiOXkfFEohz6kDsQr7) | [Mio Niño](https://open.spotify.com/artist/6fQXNz8OKXCDBLdTepU6un) | [The Sun And The Moon](https://open.spotify.com/album/37WU53dkBC0QYdYNRb7FMU) | 1:53 | 2023-02-17 |  |
 | [The Swan In The Lake](https://open.spotify.com/track/1P2owVvqc0HB40gKhVgKe0) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [The Swan In The Lake](https://open.spotify.com/album/1HDlp8HSgaPInae7UZOBUm) | 1:59 | 2024-08-09 |  |
 | [The Sweetest Dream](https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [The Sweetest Dream](https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t) | 1:57 | 2021-10-05 | 2022-12-16 |
+| [The Teddy Bear Lullaby](https://open.spotify.com/track/4m4fy3omAQyRDr26FXxOIS) | [Blue Bonnie](https://open.spotify.com/artist/0LXltNT59TO1olyZabSJo9) | [The Teddy Bear Lullaby](https://open.spotify.com/album/5IObjk6KRTYHXqCpMIui8U) | 2:02 | 2025-02-07 |  |
 | [The town is sleeping](https://open.spotify.com/track/3ARZdopPI7sJ6jmL1Cyndo) | [Joey Milford](https://open.spotify.com/artist/3Kk7RKWK5Y6N9xNeDIxeRE) | [The town is sleeping](https://open.spotify.com/album/1SUHe361jPqrqIheUJXfnV) | 1:26 | 2021-10-05 | 2023-02-18 |
 | [The Train in My Room](https://open.spotify.com/track/14PppcrXx1cPyS4qbzPSVp) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Train in My Room](https://open.spotify.com/album/0DNlLXZwdHk25rgNosTIfo) | 1:49 | 2025-01-17 |  |
 | [The Wheels On The Bus](https://open.spotify.com/track/6cczf3Ut0uCzAUveJg7Dur) | [Mads Brown](https://open.spotify.com/artist/03XOZ14tcmZDbkQHQWaYnB) | [The Wheels On The Bus](https://open.spotify.com/album/4bkgcrJ0hML1VynmJT1zTE) | 1:40 | 2023-12-08 |  |

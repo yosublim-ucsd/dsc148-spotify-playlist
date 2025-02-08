@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Vicky & Rumman Ahmed
 
-992 songs - 2 day 5 hr 29 min
+993 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Mundri \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/6NjBQvSxCCWaZcSuTJOF5v) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Gulrez Akhter](https://open.spotify.com/artist/0pRrQLjQnlQcMfWGk9Mu1g), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Mundri \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/59WBPxlOSvG7xdS6J6hwwR) | 3:48 | 2022-08-31 | 2022-09-03 |
 | [Musafir](https://open.spotify.com/track/3ePSdJjeQha1iU4a9flZsh) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Shareek 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pPCg7ZLDCM1owPBdTzxyt) | 2:45 | 2022-06-22 | 2022-07-06 |
 | [Mutiyare Ni](https://open.spotify.com/track/2HggAxPmbLEPlpyo9qov5M) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Mutiyare Ni](https://open.spotify.com/album/5iOyPMRGRtCJCTmWX2M0hp) | 2:23 | 2022-07-13 | 2022-08-18 |
+| [My World](https://open.spotify.com/track/67JEKx7fuUhDQYwYoCllHG) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ) | [My World](https://open.spotify.com/album/7zTPB4jTdzab3IBl2B5qKc) | 2:54 | 2025-02-07 |  |
 | [Na Na](https://open.spotify.com/track/1FukRhyhL5am2YlSiI5Lpg) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Na Na](https://open.spotify.com/album/0KOkukOiZMLXcwVkubGIEd) | 3:09 | 2022-02-10 | 2022-02-19 |
 | [Naa Jatt Da](https://open.spotify.com/track/2Eqt2NKX6OabmhvuoJTkFO) | [Zafar](https://open.spotify.com/artist/69XQ6av48UPSbXZXtfshjO) | [Naa Jatt Da](https://open.spotify.com/album/2GhWgEpAxCslZZGzPxGgtI) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [Naah](https://open.spotify.com/track/50BYymJYX2k7hnmfiXnYXs) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah](https://open.spotify.com/album/61MLWkKNzRwx2Fa1uLrEoG) | 3:05 | 2022-03-14 | 2023-02-02 |
@@ -949,7 +950,7 @@
 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 | 2024-02-06 | 2024-09-06 |
 | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/track/2hjARU9stCimSBlpSliMSQ) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/album/3t8B4tf2XXm8bRggCe0KTO) | 3:23 | 2024-08-14 |  |
 | [Veham](https://open.spotify.com/track/2eZv9lBnm3x8mtCG8h1jJC) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Veham](https://open.spotify.com/album/0aR1TwlOoL2EDURRu06JrW) | 2:54 | 2022-07-22 | 2022-08-18 |
-| [Vekhan Nu](https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Vekhan Nu](https://open.spotify.com/album/6yLUJetgjlcqhskoOUBSD9) | 3:27 | 2025-01-24 |  |
+| [Vekhan Nu](https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Vekhan Nu](https://open.spotify.com/album/6yLUJetgjlcqhskoOUBSD9) | 3:27 | 2025-01-24 | 2025-02-08 |
 | [Velly Touch](https://open.spotify.com/track/69w7HEi8HNfceDTx1rpWYl) | [Harjot](https://open.spotify.com/artist/7xk9bcMbRjtMCraHg4kSAd), [Meharwani](https://open.spotify.com/artist/6yYJCb4Qd0Uek7s1uDQLeW) | [Velly Touch](https://open.spotify.com/album/4gNRYP2tI4Sv5Tl57uTWrS) | 3:24 | 2022-03-21 | 2022-04-06 |
 | [Viah Da Card](https://open.spotify.com/track/231DYXxOB9cdA2OOhhlEIw) | [Dilpreet Matharu](https://open.spotify.com/artist/1gUNTGQ3bSoZfHXjPOncbL) | [Viah Da Card](https://open.spotify.com/album/0cybM6rUwqUug1y24DTESZ) | 2:54 | 2022-01-10 | 2022-02-01 |
 | [Vibe](https://open.spotify.com/track/3VzH1l9nxlrCZTjEDTCEqc) | [Preetinder](https://open.spotify.com/artist/1r8t9QJtZZL9OsSCG2qij9) | [Vibe](https://open.spotify.com/album/7cU75aJMGcx8gkBgU5EjDG) | 2:46 | 2022-07-21 | 2022-08-18 |

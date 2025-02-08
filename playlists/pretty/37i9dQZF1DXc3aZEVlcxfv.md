@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 ### [Blessed](https://open.spotify.com/playlist/37i9dQZF1DXc3aZEVlcxfv)
 
-> I am blessed!
+> I am blessed! Cover: Festizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,403 likes - 152 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,405 likes - 152 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 151 | [Hallee Hallee](https://open.spotify.com/track/0RDjQE3FpiG4u0GmoQzJZM) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [T.S.T \(Deluxe Version\)](https://open.spotify.com/album/6Z9sSZdcLxPuMu2NMKICSW) | 2:38 |
 | 152 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 |
 
-Snapshot ID: `Z6VNPgAAAAAdpBQqjZbzVYbt3d7iO16M`
+Snapshot ID: `Z6WTHAAAAAD9AwLUNhNpPidMZw4rgCaf`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover:  Anike, Jackie Hill Perry, Lecrae, Trip Lee, and Alexxander",
+  "description": "The best of Christian Hip Hop today.  Cover:  KB",
   "name": "The Flow",
   "tracks": [
     {
@@ -184,6 +184,24 @@
       "duration_ms": 114000,
       "name": "2022",
       "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
+    },
+    {
+      "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/7FxxEE432NRYuQtM5sM259"
+      },
+      "artists": [
+        {
+          "name": "Skema Boy",
+          "url": "https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129567,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/1ZZ6Y9JwO4RFGrLhvmXiLl"
     },
     {
       "album": {
@@ -1245,6 +1263,32 @@
     },
     {
       "album": {
+        "name": "Anointed",
+        "url": "https://open.spotify.com/album/65YOR163Z3fnH9JZbhVt1n"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Young C",
+          "url": "https://open.spotify.com/artist/3jTD8sMuIA35Rw9PRrOE5L"
+        },
+        {
+          "name": "GodFearin",
+          "url": "https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Anointed",
+      "url": "https://open.spotify.com/track/6V9fLB9uDbacLCqg3Bwz0A"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
@@ -1342,7 +1386,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 108172,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/0KhsLo8VjOpv4D78Yhr0zj"
@@ -1360,7 +1404,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 147310,
       "name": "anxiety.",
       "url": "https://open.spotify.com/track/5sWZIXPGLEK5vHTnH6ttYg"
@@ -2244,7 +2288,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 152810,
       "name": "Before Ye Was Republican",
       "url": "https://open.spotify.com/track/6syM7I90jAbl2DSowZ49gU"
@@ -4456,7 +4500,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 149610,
       "name": "close like",
       "url": "https://open.spotify.com/track/6QvpbjvbqQb1tlJjWc8HpF"
@@ -4949,6 +4993,28 @@
     },
     {
       "album": {
+        "name": "CROSSES UP (Remix)",
+        "url": "https://open.spotify.com/album/2T3xmPWQ3XAQbYtScBHoWm"
+      },
+      "artists": [
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "CROSSES UP - Remix",
+      "url": "https://open.spotify.com/track/4gIaaHyRRpvXXyjeTZ9N67"
+    },
+    {
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/5YlDLaoyUwFwDy7UsHpECE"
       },
@@ -5288,7 +5354,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 233369,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/21I4CyXu9X3YeB8E7KJG9z"
@@ -8329,6 +8395,32 @@
     },
     {
       "album": {
+        "name": "GRACE & MERCY",
+        "url": "https://open.spotify.com/album/7qBELAtbyUeurx5QbL4MEl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Austin",
+          "url": "https://open.spotify.com/artist/7CX2IocKUqEmOQ74CsU9zt"
+        },
+        {
+          "name": "Tope",
+          "url": "https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq"
+        },
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "GRACE & MERCY",
+      "url": "https://open.spotify.com/track/4NfnQR9NFV5sRkVlPUboLn"
+    },
+    {
+      "album": {
         "name": "Graded 10",
         "url": "https://open.spotify.com/album/3497rXxrbuhJuArE8fa0NH"
       },
@@ -9832,6 +9924,24 @@
       "duration_ms": 150463,
       "name": "I DONT EVEN WALK BY SIGHT (IDEWBS)",
       "url": "https://open.spotify.com/track/0phy1bFQHxebC37OtcXnLK"
+    },
+    {
+      "album": {
+        "name": "I Found Rest",
+        "url": "https://open.spotify.com/album/4LJ5a9T2ImLjyu4XDgBHaB"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "I Found Rest",
+      "url": "https://open.spotify.com/track/1rIXPIfJrlSkeoYhy3LKVb"
     },
     {
       "album": {
@@ -11470,7 +11580,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 187706,
       "name": "King Jesus (unplugged)",
       "url": "https://open.spotify.com/track/7DlvyiWXJzsQuYI32datIG"
@@ -12466,7 +12576,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179263,
       "name": "Live 03'",
       "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
@@ -13187,6 +13297,28 @@
     },
     {
       "album": {
+        "name": "Matthew 18:20",
+        "url": "https://open.spotify.com/album/2axk8Nh8qkD8cj7gx6vGgh"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        },
+        {
+          "name": "De La Cruz",
+          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "Matthew 18:20",
+      "url": "https://open.spotify.com/track/2CQNa8WplamGGPnMpSlFt6"
+    },
+    {
+      "album": {
         "name": "MAYBACH DREAMS",
         "url": "https://open.spotify.com/album/0muWX84K9dVZkoOqCOAaww"
       },
@@ -13396,7 +13528,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 161856,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/3ABM3YFS4W9zzEWEh0Vbr0"
@@ -13608,7 +13740,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 178666,
       "name": "Most High",
       "url": "https://open.spotify.com/track/1RR8q4IepBoQwVFmbOizQM"
@@ -14334,7 +14466,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 210810,
       "name": "New Level",
       "url": "https://open.spotify.com/track/02EeVD4OGjzBJUhcU7Fb9I"
@@ -16449,6 +16581,24 @@
     },
     {
       "album": {
+        "name": "The Best is Yet to Come",
+        "url": "https://open.spotify.com/album/1KQncjCjcHSIm8eputWGaB"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/4tlZNXtDtVLK4eIb7o1se9"
+    },
+    {
+      "album": {
         "name": "WE MISSED YOU",
         "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
       },
@@ -16468,6 +16618,28 @@
       "duration_ms": 135831,
       "name": "Poetic Pain",
       "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
+    },
+    {
+      "album": {
+        "name": "POP OFF",
+        "url": "https://open.spotify.com/album/7gGXjlwQjSF9zcZZ0dMGQs"
+      },
+      "artists": [
+        {
+          "name": "CJ Emulous",
+          "url": "https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ"
+        },
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209564,
+      "name": "POP OFF",
+      "url": "https://open.spotify.com/track/1uKNjYLV5RILivOYfQAVkm"
     },
     {
       "album": {
@@ -16840,7 +17012,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 159071,
       "name": "PRAY FOR ME",
       "url": "https://open.spotify.com/track/5nsavBahRlyRcQdFbBBXu9"
@@ -17490,7 +17662,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 200097,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
@@ -18424,7 +18596,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 139593,
       "name": "Run It",
       "url": "https://open.spotify.com/track/3Nfwi4mUJORfeYNR9dx36x"
@@ -18580,7 +18752,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164571,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/3sosZQcjSU01AInKcpk0B9"
@@ -19544,7 +19716,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 156444,
       "name": "Stand On It",
       "url": "https://open.spotify.com/track/1emZYIpWUtTuhSjWPWYFiA"
@@ -20537,6 +20709,24 @@
     },
     {
       "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/6ncZj0ClMnM1MxgTVLT6pL"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/1Gro4Q3KEZZXEcERr7udH1"
+    },
+    {
+      "album": {
         "name": "Signing Bonus",
         "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
       },
@@ -20946,6 +21136,32 @@
       "duration_ms": 144574,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2K0o1pR9VC9EAtuZQflDYg"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309950,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0qGSovU6VNe2p5cT63jq99"
     },
     {
       "album": {
@@ -23072,7 +23288,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 126666,
       "name": "We Know",
       "url": "https://open.spotify.com/track/6XDfILr6lkW93PtaapDj0x"
@@ -23130,6 +23346,32 @@
       "duration_ms": 182602,
       "name": "We Still Believe",
       "url": "https://open.spotify.com/track/4gTB45ZsPSNLKZGFkh9CG0"
+    },
+    {
+      "album": {
+        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "One Church Music",
+          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171822,
+      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
     },
     {
       "album": {
@@ -23377,6 +23619,24 @@
     },
     {
       "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/5gFPsSNALRqMZeqmiIcFWE"
+      },
+      "artists": [
+        {
+          "name": "Kijan Boone",
+          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158458,
+      "name": "When It's Cold",
+      "url": "https://open.spotify.com/track/2o9LVPMR3Ld9UCejac6y0W"
+    },
+    {
+      "album": {
         "name": "where do i ?",
         "url": "https://open.spotify.com/album/4bQsUMaLySZWpPhYQNQvXU"
       },
@@ -23428,7 +23688,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 125948,
       "name": "WHITE ELEPHANT",
       "url": "https://open.spotify.com/track/3C9sUtiSUvAkhwko0kcmas"

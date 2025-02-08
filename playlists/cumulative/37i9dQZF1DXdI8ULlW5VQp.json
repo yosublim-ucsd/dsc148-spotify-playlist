@@ -387,6 +387,32 @@
     },
     {
       "album": {
+        "name": "Amor Clandestino (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7x2bjtxejjCzg64hRa5f5Y"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Israel Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI"
+        },
+        {
+          "name": "Diego del Morao",
+          "url": "https://open.spotify.com/artist/0SJeISsEAcENQ8JU6w9FPw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290401,
+      "name": "Amor Clandestino - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3QsAugA92ZAQxysKw2ebAz"
+    },
+    {
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
@@ -1516,7 +1542,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 173000,
       "name": "Cuando La Vida Sea Trago",
       "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
@@ -1665,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "De Contrabando",
+        "url": "https://open.spotify.com/album/68fniPnNf6lJQdOpn5V8Ny"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/4czu8sRwSkJjyTz659Bt0X"
+    },
+    {
+      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -1748,7 +1792,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 222354,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
@@ -4198,7 +4242,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 306858,
       "name": "no hay problema - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
       "url": "https://open.spotify.com/track/0L6mynDwbVc69EEpOk2XSB"
@@ -5607,7 +5651,7 @@
       "artists": [
         {
           "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+          "url": "https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px"
         }
       ],
       "date_added": "2025-02-04",
@@ -5994,6 +6038,24 @@
       "duration_ms": 277500,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr"
+    },
+    {
+      "album": {
+        "name": "Tropezar",
+        "url": "https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164942,
+      "name": "Tropezar",
+      "url": "https://open.spotify.com/track/1rUv7qNQOT6Ak0eCWPITNg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: When the Stars Gossip\(별들에게 물어봐\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,006 songs - 2 day 13 hr 0 min
+1,007 songs - 2 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [NOW](https://open.spotify.com/track/0cSWRpS1lcoQ4TmOrVtuTw) | [HYUNGWON](https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4b5yJuT7w8iqaRemL0ZFg1) | 3:46 | 2023-10-10 | 2024-04-05 |
 | [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-13 | 2023-06-03 |
 | [Now and Then](https://open.spotify.com/track/7JK1aQJhLncPEHfXgIfvWc) | [The Restless Age](https://open.spotify.com/artist/0Y542nOYf1jTnkPmV9Vvp0) | [The Midnight Romance in Hagwon, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3nU9Qb3zIAVMc8SxiravEm) | 4:44 | 2024-05-27 | 2024-11-13 |
+| [Now Do You \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.1\)](https://open.spotify.com/track/7HiDzkOceWmOfRbQQZHcet) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Now Do You \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.1\)](https://open.spotify.com/album/0G4FxVwqxigLC6CjdM9bKd) | 4:06 | 2025-02-07 |  |
 | [Now or Never](https://open.spotify.com/track/6flW8xreXJvR6Ay5ClaotA) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Becoming Witch, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4Vi7JUCaBgZ4PPmrowbZ5J) | 3:23 | 2022-08-12 | 2022-12-20 |
 | [Now, love](https://open.spotify.com/track/6TuabkccWNyU5aFBYB9kPT) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [﻿Cinderella at 2AM OST Part 7](https://open.spotify.com/album/5h0ANL1dEmueSADLxmbGPJ) | 3:35 | 2024-09-20 |  |
 | [Nuclear](https://open.spotify.com/track/1pK3JtFHhcP7yjkrVrGTcj) | [임윤성](https://open.spotify.com/artist/3VNHUvK0rkFvmDNYEVrSLq) | [A Superior Day, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/58VANxQ4mL62ACQqmh6z4w) | 3:03 | 2022-04-21 | 2022-06-29 |
@@ -770,7 +771,7 @@
 | [Stay In My Love](https://open.spotify.com/track/6V1P8SmEl4rk5UJKjLatgI) | [Nine \(OnlyOneOf](https://open.spotify.com/artist/1rOsib3dwCJVmQJ7kVZOyi) | [Bump Up Business \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/55rQ2NQ1ncvIFaSLfP9z0Q) | 3:54 | 2023-11-14 | 2024-05-28 |
 | [Stay With Me](https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/4ebeZziAY8xysG8bHhHljX) | 2:52 | 2023-01-03 | 2023-04-19 |
 | [Step](https://open.spotify.com/track/1DGoluJIZMwilqWh4qfrR3) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Perfect Stranger OST Part.5](https://open.spotify.com/album/3Tw2db9aECq79ynM7HegtX) | 4:13 | 2023-06-02 | 2023-11-03 |
-| [Steps](https://open.spotify.com/track/5TrW0Wt3O0xThI4Pk7CzBi) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [My Military Valentine OST Part.4](https://open.spotify.com/album/4XjWfuocVDLv57lgRYWGeR) | 3:23 | 2024-09-20 |  |
+| [Steps](https://open.spotify.com/track/5TrW0Wt3O0xThI4Pk7CzBi) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [My Military Valentine OST Part.4](https://open.spotify.com/album/4XjWfuocVDLv57lgRYWGeR) | 3:23 | 2024-09-20 | 2025-02-08 |
 | [Still](https://open.spotify.com/track/7bvw9MygklDI1i5hYEPMF7) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Still \(Payback X A+B\)](https://open.spotify.com/album/6BNiGAJPUw97hzTvuE9sfJ) | 3:39 | 2023-02-24 | 2023-07-18 |
 | [Still here](https://open.spotify.com/track/69r9DFmi5uStx44buSi0sm) | [Kang Asol](https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3XQXgsluskowvlFGZIKTQ7) | 3:51 | 2022-02-16 | 2022-05-04 |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-06-02 | 2023-11-03 |

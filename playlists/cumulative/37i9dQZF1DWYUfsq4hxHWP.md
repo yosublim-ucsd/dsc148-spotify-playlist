@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Don Louis, Artwork: Fanélie Muselier
 
-2,884 songs - 6 day 12 hr 15 min
+2,886 songs - 6 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2268,6 +2268,7 @@
 | [Something to Me](https://open.spotify.com/track/4OjSPOG4uFAfmC1RumcH7h) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Something to Me](https://open.spotify.com/album/4Qz4fVY2jelwzS5JpTfLoW) | 2:32 | 2024-09-11 | 2024-12-05 |
 | [Something To Say](https://open.spotify.com/track/2tXSbsLky1mcb5ouzzHcAY) | [Trent Cowie Band](https://open.spotify.com/artist/4U82Z5ImPvKQF1wgZdhBZE) | [Something To Say](https://open.spotify.com/album/7bBSjkHVqrNTlRyWyYxboj) | 4:02 | 2023-05-17 | 2023-07-27 |
 | [Something to Write About](https://open.spotify.com/track/3uqOjTxgPGnqKnRbtaeuJx) | [Preston Duffee](https://open.spotify.com/artist/7gZp6jBVmnRI9CyDYASFgG) | [Something to Write About](https://open.spotify.com/album/03tPSueFSE4cibY2T1M2ZO) | 3:31 | 2023-07-19 | 2023-09-14 |
+| [Something to You](https://open.spotify.com/track/21eiOnxVlk996lavh1nrW5) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Something to You](https://open.spotify.com/album/3VOErOnbkiq9ZadCRxX5vm) | 3:09 | 2025-02-07 |  |
 | [Something's Better Than Nothing](https://open.spotify.com/track/3MtpNksWn0Z4ryBsyy8PYp) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Something's Better Than Nothing](https://open.spotify.com/album/2zqDTszF75ieoctWNdaSg5) | 3:20 | 2022-03-23 | 2022-05-05 |
 | [Sometimes I Forget](https://open.spotify.com/track/7yfpq3klp4u0Dnq050Bqpa) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Annie Bosko](https://open.spotify.com/album/4S6lo7o1wqFJSoroj535uA) | 3:37 | 2024-01-10 | 2024-02-22 |
 | [Somewhere Between](https://open.spotify.com/track/3xAmrTIwaWPMve9xI1D2Sh) | [John Cummings](https://open.spotify.com/artist/6ln1jm5VuuntfLTTbQ7N84) | [Somewhere Between](https://open.spotify.com/album/0qkzYLy00f6XBal3JmjqVm) | 3:34 | 2024-10-09 | 2024-12-05 |
@@ -2831,6 +2832,7 @@
 | [Wrong To Die Alone](https://open.spotify.com/track/0uuAeZ3EbHzJKJrST1UeAc) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Wrong To Die Alone](https://open.spotify.com/album/3QjQ1wKvgRUmH2qyLJ8LFy) | 3:15 | 2024-10-23 | 2024-12-05 |
 | [WYDRN?](https://open.spotify.com/track/6KwP7EwpHI2tddvbDHByET) | [PJ North](https://open.spotify.com/artist/6NWptU8WArewy8NBT9JN7B) | [WYDRN?](https://open.spotify.com/album/70CyqLJs2DobxaFD2nFKhP) | 3:03 | 2023-02-22 | 2023-03-30 |
 | [XANAX & CHAMPAGNE](https://open.spotify.com/track/2PwO2Le2ExxYWbwMScVBti) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [XANAX & CHAMPAGNE](https://open.spotify.com/album/43msAeuWOzOYtoGF3Ts2qT) | 2:51 | 2022-09-09 | 2022-10-27 |
+| [XO](https://open.spotify.com/track/7HG4FFHOWUVqW4s6Z6VquZ) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [XO](https://open.spotify.com/album/3fM0ElNIjg1iRrfVPTTUZn) | 2:41 | 2025-02-07 |  |
 | [YOU](https://open.spotify.com/track/14R4oL1JfhczvXI1NYtXLS) | [Avery Roberson](https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU) | [YOU](https://open.spotify.com/album/5DoxOukzk3cAwIZ2zjIBxr) | 3:10 | 2023-01-18 | 2023-02-16 |
 | [You](https://open.spotify.com/track/41TKkyOhJJB2zEWHpdodmf) | [Britt Wilder](https://open.spotify.com/artist/3FVBIjspPmkOpbWYmSjx3N) | [You](https://open.spotify.com/album/1Wmj9d4aohyQF6k9G7QbKZ) | 2:26 | 2021-12-01 | 2022-01-13 |
 | [You & Me](https://open.spotify.com/track/3XBbAZIIxZAs3Hvmqnwb7w) | [Jon Wayne Hatfield](https://open.spotify.com/artist/5gzO6m2kswPvKeW2hGCTmp) | [You & Me](https://open.spotify.com/album/0b9JMhjHTNBTMlMUDglyRb) | 3:11 | 2022-06-08 | 2022-07-21 |

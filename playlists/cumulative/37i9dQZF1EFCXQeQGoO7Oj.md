@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-596 songs - 1 day 11 hr 41 min
+597 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Cloud Number Nine](https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:45 | 2024-01-29 |  |
 | [Clumsy](https://open.spotify.com/track/6xac3qrRcsz36yCSW3UG0i) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/4SvSiE8d8TGEq38vsjCPyS) | 3:02 | 2024-01-29 |  |
 | [Codes](https://open.spotify.com/track/4s7HDBfWKvfTsG9IE8cw83) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:16 | 2024-01-29 |  |
+| [Collaborations Medley \- Live](https://open.spotify.com/track/3Z9FpylTD2f6B6BhmTYnjN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+\-=÷× \(Tour Collection: Live\)](https://open.spotify.com/album/5ZewPP4nTMtJTn4krePB2d) | 6:41 | 2025-02-07 |  |
 | [Coloratura](https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 10:17 | 2024-01-29 |  |
 | [Come N Go \(feat\. Enrique Iglesias\)](https://open.spotify.com/track/5Zc3d993GDKljZ5d6NNk3b) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 3:50 | 2024-01-29 |  |
 | [Come Together](https://open.spotify.com/track/5ISnrqK9VnQ4YrtIjgDkN0) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:20 | 2024-01-29 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Argüello, Naty Botero
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,513 likes - 35 songs - 1 hr 38 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,512 likes - 35 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You've Got The Love](https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [You've Got The Love](https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA) | 2:45 |
-| 2 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 |
+| 1 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 |
+| 2 | [You've Got The Love](https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [You've Got The Love](https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA) | 2:45 |
 | 3 | [Bass In Da Blood](https://open.spotify.com/track/2RvpQFVb9ZTStAm4qJSRf2) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bass In Da Blood](https://open.spotify.com/album/4IMtgnaXkHupe6aRGiHdoA) | 2:12 |
 | 4 | [Let’s Go \(feat\. Tom Enzy, Juany Bravo & Sami Brielle\) \[HUGEL Remix\]](https://open.spotify.com/track/5jde2vTSXmrIAKaZYmhqSF) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Let’s Go \(feat\. Tom Enzy, Juany Bravo & Sami Brielle\) \[HUGEL Remix\]](https://open.spotify.com/album/6qCYuLsIIPfjROPwX9QxGc) | 2:28 |
 | 5 | [TKM](https://open.spotify.com/track/0KESlOROu9lFyAOHiuvr1N) | [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy), [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [TKM](https://open.spotify.com/album/6aGgkfccZ2TTNupxuOMGFf) | 2:33 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 34 | [Lowkey \(with Liquid Silva\)](https://open.spotify.com/track/5bXWpj4RxYxMtichvf4Rwe) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Adnan Veron](https://open.spotify.com/artist/0YpOe2SiYZVcWvrHiCV17W), [Erga](https://open.spotify.com/artist/3aJ68Ih0UWLFSwyPxWKRMa), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Lowkey \(with Liquid Silva\)](https://open.spotify.com/album/6VN8CODkyWNadiJ6okvaOj) | 3:01 |
 | 35 | [Free Your Mind](https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Free Your Mind](https://open.spotify.com/album/36Xd1WEAvD1tKhcwvRh90J) | 2:35 |
 
-Snapshot ID: `AAAr6j2eNrFcptIcYx4sb3A4ImZP1w7e`
+Snapshot ID: `AAAr60jTU5dqEZYI9ocRKNHiwkfW0SP5`

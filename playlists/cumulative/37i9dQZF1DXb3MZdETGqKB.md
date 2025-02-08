@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-333 songs - 19 hr 35 min
+334 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 | 2022-03-04 | 2024-01-27 |
 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 | 2023-05-26 | 2023-06-24 |
 | [Loud \[Feat\. Tech N9ne\]](https://open.spotify.com/track/50l33yFFCNnGRdB301Hvur) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Faster](https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah) | 4:53 | 2021-09-10 | 2022-06-19 |
+| [Love Is A Fight](https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Love Is A Fight](https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga) | 3:33 | 2025-02-07 |  |
 | [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 | 2023-05-26 | 2023-09-23 |
 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 | 2021-10-19 | 2023-06-17 |
 | [Love One Another](https://open.spotify.com/track/56pU90MrM2CTr19neVoZCg) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF), [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Love One Another](https://open.spotify.com/album/5sIKiUbccZ7A2zp5fNQLGE) | 3:03 | 2021-07-09 | 2022-07-29 |

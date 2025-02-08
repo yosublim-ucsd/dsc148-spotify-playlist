@@ -2,9 +2,9 @@
 
 ### [Noisy](https://open.spotify.com/playlist/37i9dQZF1DX98f0uoU1Pcs)
 
-> a unique mix of rock, punk, alt & indie\. Cover: Black Country, New Road
+> a unique mix of rock, punk, alt & indie\. Cover: Squid
 
-764 songs - 1 day 18 hr 46 min
+767 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-16 |  |
 | [Bubblegum Infinity](https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 3:10 | 2022-04-29 | 2022-07-09 |
 | [Build a Bridge](https://open.spotify.com/track/04X3gZTOCcaBtoTYCV3X3K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Careful!](https://open.spotify.com/album/4y7SBeyt5aznj46pLCxddm) | 3:29 | 2023-09-08 | 2024-08-03 |
-| [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-31 |  |
+| [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-31 | 2025-02-08 |
+| [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 | 2025-02-07 |  |
 | [BUMMER!](https://open.spotify.com/track/73phkrwQPTCg8UrlqEkSyj) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/5c8so0KAt0lRHZNF24lFwe) | 2:39 | 2023-05-22 | 2023-07-01 |
 | [Bunny Man](https://open.spotify.com/track/6EBOq3nyD5vfZAHE7sGlaj) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/03sH5Msxg1MRYmmXlbUhO2) | 2:58 | 2022-01-07 | 2022-07-29 |
 | [Bunny Man](https://open.spotify.com/track/7Mhs6TsXacUO1wJP67r3yp) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/6bKrlySqeQntAp4PtX46oW) | 2:58 | 2022-07-08 | 2023-04-09 |
@@ -228,7 +229,7 @@
 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 | 2023-02-17 | 2024-06-22 |
 | [Fate Is...](https://open.spotify.com/track/0pMAi0RA1Y1zKt5VNM4uED) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/4Qe5TvCjMQmX0gjjYwtARt) | 2:40 | 2022-01-07 | 2022-07-29 |
 | [Fate Is…](https://open.spotify.com/track/0wIwl2tvNN2fxKFh7V9rPF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/07dXaYcSea0bdLcwmpeZJw) | 2:40 | 2022-07-08 | 2022-11-22 |
-| [Fear](https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Fear](https://open.spotify.com/album/5FUD1SRn2eqvbLHMMFitlH) | 2:24 | 2024-07-15 |  |
+| [Fear](https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Fear](https://open.spotify.com/album/5FUD1SRn2eqvbLHMMFitlH) | 2:24 | 2024-07-15 | 2025-02-08 |
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-13 | 2023-04-09 |
 | [Field Of Ruins](https://open.spotify.com/track/2BXzFWbrIzc7TYfs3z8Igv) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Field Of Ruins](https://open.spotify.com/album/5ic3ni2tPnm9mrK6DfvfJg) | 3:42 | 2024-01-13 | 2024-07-16 |
 | [Final Summer](https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Final Summer](https://open.spotify.com/album/1QXeBl2ZJ382SCUs2uqJK5) | 2:36 | 2023-12-12 | 2024-03-02 |
@@ -335,6 +336,7 @@
 | [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 | 2023-07-14 | 2024-07-31 |
 | [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 | 2023-07-14 | 2023-08-28 |
 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 | 2022-03-25 | 2022-08-27 |
+| [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 | 2025-02-07 |  |
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2021-10-07 | 2022-03-12 |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-26 | 2022-12-10 |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-06-17 | 2023-05-23 |
@@ -433,6 +435,7 @@
 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 | 2023-06-02 | 2024-06-11 |
 | [Manhattan Youth](https://open.spotify.com/track/1oPuvI6N2TDeynwrqT1K7F) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Manhattan Youth](https://open.spotify.com/album/3JpYCRNpgUuh4qvp38O5Gr) | 3:41 | 2022-08-16 | 2024-02-17 |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-25 | 2023-04-09 |
+| [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 | 2025-02-07 |  |
 | [Matilda](https://open.spotify.com/track/0Zkmfw2BDhqY5n2dP8hZAI) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Matilda](https://open.spotify.com/album/21e01B6u3KVo6l2LOFnZxC) | 3:51 | 2022-03-11 | 2022-06-15 |
 | [Matilda](https://open.spotify.com/track/2OH3Yc4xqr76ld5Xnjzd3v) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:51 | 2022-04-01 | 2022-08-27 |
 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 | 2023-10-20 |  |
@@ -633,7 +636,7 @@
 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 | 2024-08-23 |  |
 | [Squid](https://open.spotify.com/track/58xA6gMO8ptTMAW5sPvp9e) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Squid](https://open.spotify.com/album/0weYSXHoWpA9F7TDJOvT87) | 4:47 | 2023-05-22 | 2023-06-05 |
 | [Squid](https://open.spotify.com/track/5kKBFSnpiBrvIZUwfsjSoB) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Brain Worms](https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho) | 4:47 | 2023-06-02 | 2024-04-19 |
-| [Squid](https://open.spotify.com/track/61k4hy4UTqLzx7U5c4jxJC) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Squid](https://open.spotify.com/album/2mg4S1RvbaNn2IwVCctY99) | 4:47 | 2024-04-12 |  |
+| [Squid](https://open.spotify.com/track/61k4hy4UTqLzx7U5c4jxJC) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Squid](https://open.spotify.com/album/2mg4S1RvbaNn2IwVCctY99) | 4:47 | 2024-04-12 | 2025-02-08 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-06-04 | 2024-09-28 |
 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 | 2023-10-20 |  |
 | [Starting and Staring](https://open.spotify.com/track/2XsyUC0ufwTPbJR1xZsJez) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Starting and Staring](https://open.spotify.com/album/7ItYXwOKuLOCINQfl7t2lG) | 3:00 | 2024-01-13 | 2024-04-13 |

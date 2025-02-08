@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -1367,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "Encontro a S\u00f3s",
+        "url": "https://open.spotify.com/album/01xfN7vr1VH5h9S8zxeesX"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273357,
+      "name": "Encontro a S\u00f3s",
+      "url": "https://open.spotify.com/track/46z9goAGF6jnaXDFkfUwam"
+    },
+    {
+      "album": {
         "name": "Enlace de Amor",
         "url": "https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp"
       },
@@ -2168,7 +2190,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 302794,
       "name": "Maria da Minha Inf\u00e2ncia",
       "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
@@ -2407,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "Milagre de Amor",
+        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256824,
+      "name": "Milagre de Amor",
+      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
+    },
+    {
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -2502,7 +2546,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 384059,
       "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
@@ -2568,7 +2612,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 330694,
       "name": "Nada Al\u00e9m de Ti",
       "url": "https://open.spotify.com/track/4hfWx8nT2PJeB86r4wDjrr"
@@ -3710,6 +3754,28 @@
       "duration_ms": 255510,
       "name": "Subirei a Montanha",
       "url": "https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Gabriel da Virgem Dolorosa",
+        "url": "https://open.spotify.com/album/0ApI4y745b7T9UYJQmlaS5"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o Nova",
+          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
+        },
+        {
+          "name": "Vinni Mattos",
+          "url": "https://open.spotify.com/artist/3WfbdWpqlI9sdRNQ7hmDSA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225865,
+      "name": "S\u00e3o Gabriel da Virgem Dolorosa",
+      "url": "https://open.spotify.com/track/4ATc9LJWga0GWkuxRBbGqX"
     },
     {
       "album": {

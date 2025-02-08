@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 441948,
+  "num_followers": 442049,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAAMESaA6UmGciNvPkRzxyaF",
+  "snapshot_id": "Z6P7gAAAAAAxio64E9SMoCGwHO3gVhZO",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valentin Elizalde En Vivo",
-        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 186960,
       "name": "Vete Con \u00c9l",
       "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 184306,
+      "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
     },
     {
       "added_at": null,

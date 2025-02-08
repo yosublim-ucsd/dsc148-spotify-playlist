@@ -17204,7 +17204,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK"
@@ -28715,6 +28715,24 @@
     },
     {
       "album": {
+        "name": "da vinci",
+        "url": "https://open.spotify.com/album/6vGtOhxvei6ImgDp7VXOFi"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "da vinci",
+      "url": "https://open.spotify.com/track/2pt9YJfOzgDrmAbwkv9Fak"
+    },
+    {
+      "album": {
         "name": "Da Wes Sht",
         "url": "https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps"
       },
@@ -35198,7 +35216,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145294,
       "name": "east",
       "url": "https://open.spotify.com/track/4DvhXIz1GekL4TtXrEhDG1"
@@ -35494,7 +35512,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 130369,
       "name": "Edgy Stripes",
       "url": "https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue"
@@ -35778,6 +35796,24 @@
       "duration_ms": 185481,
       "name": "Elara",
       "url": "https://open.spotify.com/track/6J4cjngSfP9CFSmYIPr2Xc"
+    },
+    {
+      "album": {
+        "name": "elderflower",
+        "url": "https://open.spotify.com/album/4yhxoUYT18HPh40RnXrC6n"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "elderflower",
+      "url": "https://open.spotify.com/track/3K8RlmFABhgqsqzgFCYJN7"
     },
     {
       "album": {
@@ -50097,6 +50133,24 @@
     },
     {
       "album": {
+        "name": "Grow Apart",
+        "url": "https://open.spotify.com/album/0jkevzeHvvHmkqQESoIkFS"
+      },
+      "artists": [
+        {
+          "name": "ARISU",
+          "url": "https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Grow Apart",
+      "url": "https://open.spotify.com/track/1A6n6B6msUviICOsWLjblE"
+    },
+    {
+      "album": {
         "name": "You Know I Know",
         "url": "https://open.spotify.com/album/22o16QDSQfLOcYs9FVtFAP"
       },
@@ -50222,6 +50276,24 @@
       "duration_ms": 143571,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/02tOh7uEWKJ6NmbbU8bRbp"
+    },
+    {
+      "album": {
+        "name": "Guitar Mood",
+        "url": "https://open.spotify.com/album/0k12982RMpEBJqM2AsVvxy"
+      },
+      "artists": [
+        {
+          "name": "Skipclass",
+          "url": "https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141187,
+      "name": "Guitar Mood",
+      "url": "https://open.spotify.com/track/0FglhHTdJY9YTLuxSds4g1"
     },
     {
       "album": {
@@ -57044,7 +57116,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 124895,
       "name": "Im Like Ice, Buddy",
       "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
@@ -58518,7 +58590,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 137468,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/4ZM8ZZ3yoKQ3iW4nwlq8ia"
@@ -62762,7 +62834,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 114392,
       "name": "Kamada",
       "url": "https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC"
@@ -66916,7 +66988,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 116442,
       "name": "Lemon Verde",
       "url": "https://open.spotify.com/track/4lbjjP9MCWyRo4pRr2NTAm"
@@ -70926,7 +70998,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 98816,
       "name": "Lost Track",
       "url": "https://open.spotify.com/track/3y3EGDwhprjjVR8IJCHaOh"
@@ -78379,6 +78451,24 @@
     },
     {
       "album": {
+        "name": "Monolome",
+        "url": "https://open.spotify.com/album/4eIHkEFDSzIJNjdCBLHpzI"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127594,
+      "name": "Monolo",
+      "url": "https://open.spotify.com/track/4TG8tf21DAiKmXWhWNY0eI"
+    },
+    {
+      "album": {
         "name": "Monotation",
         "url": "https://open.spotify.com/album/7iizN309bv4fotTInRIOqe"
       },
@@ -79618,6 +79708,24 @@
       "duration_ms": 155424,
       "name": "Morning Beat",
       "url": "https://open.spotify.com/track/4tJfuf60LLTh39AS2qP75y"
+    },
+    {
+      "album": {
+        "name": "morning birds",
+        "url": "https://open.spotify.com/album/09YoCRt7Zb7gjgSOu6iRK9"
+      },
+      "artists": [
+        {
+          "name": "morning green",
+          "url": "https://open.spotify.com/artist/3FItRGy5Od4t19e3GvlDKZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "morning birds",
+      "url": "https://open.spotify.com/track/7gGDHkOjxxL6pt7qIPtYPz"
     },
     {
       "album": {
@@ -82856,7 +82964,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 128780,
       "name": "Never Feel the Same",
       "url": "https://open.spotify.com/track/578wuYvZKJhL3ZnHLbBlRz"
@@ -83482,6 +83590,24 @@
       "duration_ms": 155024,
       "name": "Niagra",
       "url": "https://open.spotify.com/track/0csGIkiQ6mV8CzEz4LNn5M"
+    },
+    {
+      "album": {
+        "name": "Mellow Moments",
+        "url": "https://open.spotify.com/album/0jHn7a0ao8QfpAVEajMzTd"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126219,
+      "name": "Niamey",
+      "url": "https://open.spotify.com/track/7E4Yg1DcAMeYNeNysFexKR"
     },
     {
       "album": {
@@ -90386,6 +90512,28 @@
     {
       "album": {
         "name": "Outside",
+        "url": "https://open.spotify.com/album/085LfKKbbHWmiGbkH9EmRM"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "think less.",
+          "url": "https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116079,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/05AcIr6sleSW8lNtQdh3vw"
+    },
+    {
+      "album": {
+        "name": "Outside",
         "url": "https://open.spotify.com/album/0uztScwtnvscI0Fk2ZR6P5"
       },
       "artists": [
@@ -91276,7 +91424,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 171000,
       "name": "Parachuuu",
       "url": "https://open.spotify.com/track/0wcezIYbSOCeB5isQAFIeu"
@@ -99456,7 +99604,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 129101,
       "name": "Rent A Movie",
       "url": "https://open.spotify.com/track/5OdZ0Ahg5undV50Z0alMnI"
@@ -101778,7 +101926,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 114500,
       "name": "Round Trip",
       "url": "https://open.spotify.com/track/3K27WPWvFPE6c5FXJng3WB"
@@ -108490,7 +108638,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 123000,
       "name": "Slow Motion Daydream",
       "url": "https://open.spotify.com/track/2RCH3sjMvOZvLQlNRdhYY9"
@@ -139680,7 +139828,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120000,
       "name": "ZenBeat",
       "url": "https://open.spotify.com/track/1ZCkTog6u0IlJq4cztCR5u"

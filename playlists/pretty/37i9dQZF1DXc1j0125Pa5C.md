@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,027 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,057 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 22 | [Para De Falar Tanta Besteira / Leite Condensado \- Ao Vivo](https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Para De Falar Tanta Besteira / Leite Condensado \(Ao Vivo\)](https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ) | 3:41 |
 | 23 | [Não Foi a Toa / Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Não Foi a Toa / Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M) | 3:22 |
 | 24 | [Amanhã / Loucura do Seu Coração \- Ao Vivo](https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:13 |
-| 25 | [Lance Livre / Péssimo Negócio / A Gente Já Não Rola \- Ao Vivo](https://open.spotify.com/track/48ZGOiBpmTfbd5rEH51ktX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Mixturadin 3 \- Vol\. 3](https://open.spotify.com/album/5iaTc8wLU0vV5sqbNxQXE0) | 4:58 |
+| 25 | [Lance Livre / Péssimo Negócio / A Gente Já Não Rola \- Ao Vivo](https://open.spotify.com/track/48ZGOiBpmTfbd5rEH51ktX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Mixturadin 3 \- Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5iaTc8wLU0vV5sqbNxQXE0) | 4:58 |
 | 26 | [Erro Gostoso / Mal Acostumado / A Gente Se Entrega](https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 1](https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4) | 5:26 |
 | 27 | [Abandonado / Deixa Alagar / Brilho no Olhar \- Ao Vivo](https://open.spotify.com/track/6NnKz9rTLECmysrV9DwFkh) | [Puro Clima](https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq) | [Pra Quem Não Conhece, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4NGOlC5CIiLYoLEGI12TEr) | 4:59 |
 | 28 | [Para/ S.O.S Paixão/ Mais Forte Que Eu \- Ao Vivo](https://open.spotify.com/track/2YO697JUFpneIUTVw6FESL) | [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Pagodão do Darlan \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/2BDOgPbEuF5egCi2ddDWnU) | 4:35 |

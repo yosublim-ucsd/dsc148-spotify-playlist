@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Rocka
 
-320 songs - 15 hr 21 min
+321 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Skarbie](https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6) | [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Skarbie](https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0) | 2:57 | 2024-07-18 | 2024-11-22 |
 | [sms](https://open.spotify.com/track/5Fv3sGOVFop6zGbdry3xh4) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [sms](https://open.spotify.com/album/3d3eqzubQo2dFDb2FX1HP6) | 2:49 | 2025-01-30 |  |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2025-01-23 | 2025-02-07 |
-| [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 |  |
+| [Spark to Die](https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB) | [Juno Willo](https://open.spotify.com/artist/6nPeloQYD2WuhzUJawHZke) | [Spark to Die](https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc) | 3:32 | 2025-02-06 | 2025-02-08 |
 | [spokój w ciele](https://open.spotify.com/track/1g1KaSYXkfQ8hhZYDsLTK0) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [spokój w ciele](https://open.spotify.com/album/2kwYX1EuiZXzFEImvpX2H3) | 3:15 | 2024-09-27 | 2025-01-24 |
 | [Spytaj jak się czuje](https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb) | [Spytaj jak się czuje](https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX) | 4:02 | 2025-01-23 |  |
 | [Spójrz](https://open.spotify.com/track/1VmwW7Vd0MJ6oWZcHX0KLI) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Spójrz](https://open.spotify.com/album/1piehJNAANHslFDChsBrCo) | 4:40 | 2025-01-23 |  |
@@ -295,6 +295,7 @@
 | [w co ty dziś grasz?](https://open.spotify.com/track/0DotJtk7REWwFsZSTCTlw7) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Hodak](https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU) | [w co ty dziś grasz?](https://open.spotify.com/album/0PVYr7Fh8V6IKXug2EUGQr) | 3:36 | 2024-06-28 | 2024-07-27 |
 | [W moim śnie](https://open.spotify.com/track/4KbU2jeBjeQOsG8T0apLgK) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [W moim śnie](https://open.spotify.com/album/1cboBq4Gu3OhwHsr48YVHe) | 2:43 | 2024-06-28 | 2024-08-23 |
 | [WAS DWÓCH](https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [WAS DWÓCH](https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9) | 2:49 | 2025-01-23 |  |
+| [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2025-02-06 |  |
 | [What do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [What do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-22 | 2024-10-12 |
 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 | 2025-01-23 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 |  |

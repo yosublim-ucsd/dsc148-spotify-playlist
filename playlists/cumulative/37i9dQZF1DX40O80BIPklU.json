@@ -2053,6 +2053,28 @@
     },
     {
       "album": {
+        "name": "Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/0pTbMw4LFmKL1UWtq6pwDv"
+      },
+      "artists": [
+        {
+          "name": "THR Cru2",
+          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+        },
+        {
+          "name": "Fume871",
+          "url": "https://open.spotify.com/artist/4A0zvhdGzPzwgotxI5O3ci"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/2y1gjaqTLPkX8TvtNIgXms"
+    },
+    {
+      "album": {
         "name": "Cnv Sound Volums (Kion Studio One Shots)",
         "url": "https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3"
       },
@@ -3004,7 +3026,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 161730,
       "name": "DPIE",
       "url": "https://open.spotify.com/track/3rVgoTdUk9yzCQKfEtx8VA"
@@ -3066,7 +3088,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197934,
       "name": "Edad media",
       "url": "https://open.spotify.com/track/4MAcdiljJGgdhmMeRFQxi3"
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 155272,
       "name": "Estrellas de Rock",
       "url": "https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg"
@@ -4864,7 +4886,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 180923,
       "name": "La Mec\u00e1nica",
       "url": "https://open.spotify.com/track/3FoeErD0dAHW2wr8uOBwSv"
@@ -6368,7 +6390,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197761,
       "name": "Mi Psique",
       "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
@@ -7328,6 +7350,28 @@
       "duration_ms": 209759,
       "name": "PAC-MAN",
       "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
+    },
+    {
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/7JzSJSKExEK54ge8ttcb9Q"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Pobre Drums",
+          "url": "https://open.spotify.com/artist/4j3S0DKZF3Lc8ccqMPdMsM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241922,
+      "name": "Palabras Manchadas",
+      "url": "https://open.spotify.com/track/22m5BZJMvuVpa8Y1jXGLQJ"
     },
     {
       "album": {
@@ -8874,7 +8918,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
@@ -8930,7 +8974,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 213646,
       "name": "Sin Sendero",
       "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
@@ -9868,6 +9912,24 @@
       "duration_ms": 200600,
       "name": "Toma 4",
       "url": "https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz"
+    },
+    {
+      "album": {
+        "name": "LYKE MIIKE (DELUXE)",
+        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198358,
+      "name": "TOP TIER",
+      "url": "https://open.spotify.com/track/0znBmy9nsYHvO1cyipLKDR"
     },
     {
       "album": {

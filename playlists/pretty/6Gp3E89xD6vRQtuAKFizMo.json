@@ -1,13 +1,61 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44204,
+  "num_followers": 44203,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ2dmBRs8l4BTXwJcCLePhoWh1ULeL",
+  "snapshot_id": "AAAZ3HtB7C/pWvdBAplxVtK5VPXqQgxG",
   "tracks": [
+    {
+      "added_at": "2025-02-07 16:35:39",
+      "album": {
+        "name": "Final Call",
+        "url": "https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Final Call",
+      "url": "https://open.spotify.com/track/79OlaXxTge9eY0eizS7iyj"
+    },
+    {
+      "added_at": "2025-02-07 16:36:05",
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/1oYfAY7ppfDpOVUK2cgodg"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        }
+      ],
+      "duration_ms": 211874,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/3mtzh5163ltjqu4J5gLwSV"
+    },
+    {
+      "added_at": "2025-02-07 16:35:47",
+      "album": {
+        "name": "Final Call",
+        "url": "https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Want It",
+      "url": "https://open.spotify.com/track/4enwReslov5NVsfyExJkTN"
+    },
     {
       "added_at": "2025-01-31 15:29:18",
       "album": {

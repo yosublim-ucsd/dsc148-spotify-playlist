@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-222 songs - 18 hr 0 min
+223 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Ghbina Mora Ghbina](https://open.spotify.com/track/6VnRY3NS8IqE93MmXZSNDe) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ghbina Mora Ghbina](https://open.spotify.com/album/6C3JfZkinqjhUVmmuBEU9l) | 6:20 | 2022-09-20 | 2022-12-01 |
 | [Ghir Wahdi Mdamar](https://open.spotify.com/track/2K6B9NcxYnqwTzFmbjghUm) | [Cheb Mouiz](https://open.spotify.com/artist/2CgN8028PDOYbE4I0tMhZN) | [Ghir Wahdi Mdamar](https://open.spotify.com/album/3yAjMxvfCcH69wFsB9KY7e) | 7:29 | 2022-09-20 | 2022-12-01 |
 | [Haki Swalhek Haki](https://open.spotify.com/track/16ggzT3QSUDvyU2ZIC7W9z) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs), [DJ ILyas](https://open.spotify.com/artist/0I1NTt5GRa9pE7jT3q1KmP) | [Haki Swalhek Haki](https://open.spotify.com/album/7BsoFUPCQRWcLKOtZ63XND) | 3:24 | 2022-11-14 | 2022-11-21 |
+| [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 | 2025-02-07 |  |
 | [Harb Ahlia](https://open.spotify.com/track/51ma99eBjCpUuDJeIquhgX) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Harb Ahlia](https://open.spotify.com/album/0rwO5csrugYNREOZya0waC) | 3:32 | 2021-10-19 | 2024-04-24 |
 | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/track/5tc8bdNrYN8GzcVJbYIlp4) | [Cheb Lotfi](https://open.spotify.com/artist/0FGxUTcyQRfL287iqNCJ6h) | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/album/63sI8qiT2XPZMdplp9U7B6) | 4:29 | 2022-09-20 | 2022-12-01 |
 | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/track/24qwVpC78t6IkQCcUNw9gV) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Bibi Maestro](https://open.spotify.com/artist/3rhycpQTLaIhJpM2e38d8A) | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/album/3VUIHN3PowVv65jGKndH7t) | 6:50 | 2021-10-19 | 2022-09-21 |
@@ -170,7 +171,7 @@
 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 |  |
 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 |  |
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 | 2024-09-02 |
-| [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 |  |
+| [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 | 2025-02-08 |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |
 | [Sayi Lmineur Kebret](https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5) | [Cheb walid](https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI) | [Sayi Lmineur Kebret](https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J) | 3:29 | 2024-03-16 |  |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 | 2023-10-12 |

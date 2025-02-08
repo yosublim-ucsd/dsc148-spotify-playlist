@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-161 songs - 13 hr 33 min
+163 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,9 @@
 | [Hot Mallets](https://open.spotify.com/track/3Bj1fTJC5zIqAUybuCyRl2) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [The Complete Victor Lionel Hampton Sessions, Vol\. 2](https://open.spotify.com/album/2cDa78D61i3gH89oELnQ1r) | 2:16 | 2022-08-19 |  |
 | [How it feels pt\. 2](https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0) | [Harald Lassen](https://open.spotify.com/artist/5S7kHKrpKHvzpQSYw9SMx1), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG) | [How It Feels Pt\. 2](https://open.spotify.com/album/63cCSdLjj0LDiZTP1WhTcB) | 4:26 | 2021-12-17 | 2022-03-02 |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-12-17 |  |
+| [I Feel Good](https://open.spotify.com/track/0jrJ3Dr0E51xShrrzHO8ZP) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [I Feel Good](https://open.spotify.com/album/0kWKrCjfPKEtAxLgq646Mo) | 4:57 | 2025-02-07 |  |
 | [I Got Rhythm](https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [The Hard Swing](https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz) | 3:07 | 2022-03-04 |  |
+| [I Wanna Be With You](https://open.spotify.com/track/5VnQFEz0Z3xGc4bK5MjAL0) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk) | [I Wanna Be With You](https://open.spotify.com/album/1Aq4DvP7DWpGSKcQX4WRiC) | 4:00 | 2025-02-07 |  |
 | [I Wish I Knew](https://open.spotify.com/track/11yFXAL7mtcXaEz8CnumIq) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Blue's Moods](https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw) | 4:26 | 2022-03-04 | 2023-09-14 |
 | [I'll Close My Eyes](https://open.spotify.com/track/76oiXjka5OXZJ4eqSQIDfY) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Blue's Moods](https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw) | 5:53 | 2022-03-04 |  |
 | [I'll Remember April](https://open.spotify.com/track/4RLNFZ5CHaLH1URS90ycgP) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 4:41 | 2022-03-04 |  |

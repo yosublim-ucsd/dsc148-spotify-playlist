@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: José Jr
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Marcela Taís
 
-194 songs - 11 hr 26 min
+195 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [CHAVE](https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri) | [Arthur Martins](https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd) | [CHAVE](https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6) | 3:07 | 2024-06-14 | 2024-10-26 |
 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2022-08-05 | 2022-10-15 |
 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 | 2022-08-05 |  |
+| [Copinho de Extrato de Tomate](https://open.spotify.com/track/1lVd6sm5t1GxblrTsicl9A) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Copinho de Extrato de Tomate](https://open.spotify.com/album/7ktV3hvFEh2JABI8JDX55C) | 4:36 | 2025-02-07 |  |
 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 | 2023-02-25 | 2023-03-18 |
 | [Corre](https://open.spotify.com/track/78o7oJ7OoxRKJ5RMLh5Cwp) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z), [Kelvin Galdeano](https://open.spotify.com/artist/2WSvRKmrPtawczPZ8ZCULQ) | [Corre](https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ) | 3:21 | 2025-01-10 |  |
 | [Crescer](https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Crescer](https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T) | 3:57 | 2022-08-05 | 2023-07-15 |
@@ -194,7 +195,7 @@
 | [Vai Ser Melhor](https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy) | [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Vai Ser Melhor](https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL) | 2:57 | 2023-02-25 | 2023-07-22 |
 | [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 | 2022-08-05 | 2024-08-31 |
-| [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 | 2022-08-05 |  |
+| [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 | 2022-08-05 | 2025-02-08 |
 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 | 2022-08-05 | 2023-03-25 |
 | [Você Por Perto](https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Você Por Perto](https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew) | 3:51 | 2022-08-05 | 2024-08-31 |
 | [Volta Jesus](https://open.spotify.com/track/6Qdw49imoXR5YWbPX5Vh4K) | [Brendo Azevedo](https://open.spotify.com/artist/5xlKk4GHzWSDyLCkjBCE6z) | [Volta Jesus](https://open.spotify.com/album/4wh6ETQ5diA8HMlxEi8n7e) | 3:10 | 2023-07-28 | 2023-09-02 |

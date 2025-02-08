@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip hop\. Cover:  Will Smith and Big Sean
+> Inspirational hip hop\. Cover:  Trae The Truth
 
-477 songs - 23 hr 47 min
+478 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Tested](https://open.spotify.com/track/1vCJ5LrHXRPUsSCZe4jeP8) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [Tested](https://open.spotify.com/album/1chlteN1sQQVdWFHhRS7LY) | 2:08 | 2022-03-25 | 2022-07-29 |
 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 | 2024-08-26 |  |
 | [THANK GOD](https://open.spotify.com/track/5RgUNedzrDv7fdnRz7LUqj) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ) | 3:04 | 2024-10-04 |  |
+| [Thank You](https://open.spotify.com/track/0qGSovU6VNe2p5cT63jq99) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Thank You](https://open.spotify.com/album/2K0o1pR9VC9EAtuZQflDYg) | 5:09 | 2025-02-07 |  |
 | [Thank You Lord \(feat\. Fridayy\)](https://open.spotify.com/track/3SEkpudtZpHg83ulvK5fb4) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:47 | 2024-10-04 |  |
 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 | 2022-11-18 | 2024-06-26 |
 | [That's What Happens](https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Dreamers](https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR) | 2:55 | 2023-02-18 |  |
@@ -437,7 +438,7 @@
 | [True Religion](https://open.spotify.com/track/0hw0pt9irKkXj3qmML0Vbe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [True Religion](https://open.spotify.com/album/6gIjCOKVtLmcFYQvr3sWjg) | 2:26 | 2024-06-25 |  |
 | [U GETTING JUMPED TONIGHT](https://open.spotify.com/track/3LYk2sXHkP9ynCcvrbIGKv) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [FLOP ERA VOL\. 1](https://open.spotify.com/album/49MEwSwNRI4Fg8v1PSZh4h) | 2:13 | 2024-06-25 | 2024-08-27 |
 | [Uh Huh](https://open.spotify.com/track/3S517WPLzc0J1LJUbFNpfm) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [Talk To Me Nice](https://open.spotify.com/album/5A5sFoe5kD6AO26FgXynON) | 3:33 | 2024-06-25 | 2024-09-04 |
-| [Until I’m Gone](https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Let Us Pray: Chapter X](https://open.spotify.com/album/4Uwc1AZZlUPPjq5tifmpug) | 4:01 | 2024-12-13 |  |
+| [Until I’m Gone](https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Let Us Pray: Chapter X](https://open.spotify.com/album/4Uwc1AZZlUPPjq5tifmpug) | 4:01 | 2024-12-13 | 2025-02-08 |
 | [Up](https://open.spotify.com/track/5LV9n8BUBL5jSbnoQqiJYH) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Seb Camry](https://open.spotify.com/artist/0fpMbgAbLI5z3gEuXuhlTP), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Sharon Irving](https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3) | [Up](https://open.spotify.com/album/7ikJ2TQqjTIX9zna0J5cRK) | 4:03 | 2022-03-25 | 2022-11-19 |
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-11-18 | 2024-06-26 |
 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 | 2022-03-25 | 2022-11-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,959 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,960 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 31 | [Que me des tu cariño](https://open.spotify.com/track/6UFrpHowqX4yrcHuAsXem7) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Que me des tu cariño](https://open.spotify.com/album/0xbWZ29zelFd3pRliOx3K6) | 3:30 |
 | 32 | [Canción Sencilla](https://open.spotify.com/track/1ceJvEoUjmq0MaM6kOIZh9) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Los Muertos](https://open.spotify.com/album/1LispKb3uy0Xs9Ta8zPvik) | 4:36 |
 | 33 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
-| 34 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
-| 35 | [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 |
+| 34 | [Noche no te vayas](https://open.spotify.com/track/1GKok6wWSzudFNbkrkrPAC) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Aunque Duela](https://open.spotify.com/album/452C4js8HEkYI3UgkuRJ5C) | 3:41 |
+| 35 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
 
 Snapshot ID: `Z6OHdAAAAADoa2MKCTqiuggcUSXTCwZX`

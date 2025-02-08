@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Employed to Serve.",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Spiritbox.",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -1787,6 +1787,42 @@
     },
     {
       "album": {
+        "name": "BOUND BY AFFLICTION",
+        "url": "https://open.spotify.com/album/1pPM49Pp8c6C9YBkgTeVJ0"
+      },
+      "artists": [
+        {
+          "name": "FINAL RESTING PLACE",
+          "url": "https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170562,
+      "name": "BOUND BY AFFLICTION",
+      "url": "https://open.spotify.com/track/38dFFlYYJHGOJMWKkpSVi5"
+    },
+    {
+      "album": {
+        "name": "Box",
+        "url": "https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142957,
+      "name": "Box",
+      "url": "https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ"
+    },
+    {
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI"
       },
@@ -3268,6 +3304,24 @@
       "duration_ms": 273072,
       "name": "Death Ov Circumstance",
       "url": "https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c"
+    },
+    {
+      "album": {
+        "name": "Death Shall Have No Dominion",
+        "url": "https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288602,
+      "name": "Death Shall Have No Dominion",
+      "url": "https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC"
     },
     {
       "album": {
@@ -6461,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "House of Light",
+        "url": "https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX"
+      },
+      "artists": [
+        {
+          "name": "Rivers of Nihil",
+          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349360,
+      "name": "House of Light",
+      "url": "https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb"
       },
@@ -9084,6 +9156,24 @@
       "duration_ms": 134647,
       "name": "No Good At Goodbyes",
       "url": "https://open.spotify.com/track/6IeBSwVGgwJG0phWB0TfJM"
+    },
+    {
+      "album": {
+        "name": "No Loss, No Love",
+        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
     },
     {
       "album": {
@@ -15642,6 +15732,24 @@
       "duration_ms": 278181,
       "name": "Vultures of North",
       "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
+    },
+    {
+      "album": {
+        "name": "W.T.F",
+        "url": "https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207797,
+      "name": "W.T.F",
+      "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: Chick Corea
 
-168 songs - 16 hr 12 min
+169 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Make Your Move](https://open.spotify.com/track/0soFv0nJyrRbZ1WBZtir0p) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Make Your Move](https://open.spotify.com/album/5EkzlyKKcUJualXXffkZxC) | 4:26 | 2021-08-27 |  |
 | [Matinee Idol](https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Yellowjackets](https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI) | 5:12 | 2021-02-12 |  |
 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 | 2021-11-12 |  |
+| [Medallion](https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Medallion](https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C) | 4:29 | 2025-02-07 |  |
 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 | 2021-02-12 |  |
 | [Midnight Rendezvous](https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:38 | 2021-02-12 |  |
 | [Mirage](https://open.spotify.com/track/4PJOwnZaZec8a7bvt98lvL) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Enigmatic Ocean](https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB) | 4:54 | 2021-02-12 |  |

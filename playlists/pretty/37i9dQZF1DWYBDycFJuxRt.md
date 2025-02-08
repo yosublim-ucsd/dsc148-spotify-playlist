@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/335384">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,087 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,091 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 24 | [おくすり](https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [おくすり](https://open.spotify.com/album/5ECXkzYGgaN9L70Hehi02Q) | 4:01 |
 | 25 | [心の奥](https://open.spotify.com/track/0tbeRI5RFnZlqufHP7bMnS) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [溜息](https://open.spotify.com/album/3U0cY8IL5mhYjIveWhZa6g) | 2:40 |
 | 26 | [Souzou](https://open.spotify.com/track/3eXuRVXDkkaIuxju1nA76j) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Souzou](https://open.spotify.com/album/1ZUlQDfi1RQshIy5BBuCHO) | 3:44 |
-| 27 | [Apollo \- Leno Remix](https://open.spotify.com/track/30XgHkRutHrCkWGhP0Axze) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Leno](https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G) | [Apollo](https://open.spotify.com/album/7pJkY6zhcFm4jzSeGEUy6k) | 3:33 |
+| 27 | [Apollo \- Leno Remix](https://open.spotify.com/track/30XgHkRutHrCkWGhP0Axze) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Leno](https://open.spotify.com/artist/3LtJ6guaKmBs18xm99BzUC) | [Apollo](https://open.spotify.com/album/7pJkY6zhcFm4jzSeGEUy6k) | 3:33 |
 | 28 | [喝采](https://open.spotify.com/track/4K6CpifWHUbtsFHuvEfh5w) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [喝采](https://open.spotify.com/album/0hpn2l3TB4m1WlnD72JJ1N) | 2:18 |
 | 29 | [生活の果てに音楽が鳴る](https://open.spotify.com/track/79Hui5CmuIVnqA5KRkf6sz) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [痛覚](https://open.spotify.com/album/68XeWou0ujSHKJsD3hwLLl) | 4:01 |
 | 30 | [sentimental](https://open.spotify.com/track/6N5aK6TK484YUWkxmyl1Us) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [sentimental](https://open.spotify.com/album/4Eo8AuMGmSxKslhMaEDdzD) | 3:42 |

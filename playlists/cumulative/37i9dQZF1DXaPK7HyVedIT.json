@@ -2177,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Da Boom",
+        "url": "https://open.spotify.com/album/0LZKbkVqBCFKNlbEHnaZjX"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        },
+        {
+          "name": "Erich Lennig",
+          "url": "https://open.spotify.com/artist/2T7bdw0TFPa9G27D2cVNCh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Da Boom",
+      "url": "https://open.spotify.com/track/7grJW0MlmUIYptGxKSEvWQ"
+    },
+    {
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -4262,7 +4284,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168780,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5Iwl3a0VOuH5g6zzenvVHI"
@@ -4382,7 +4404,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
@@ -6890,6 +6912,28 @@
       "duration_ms": 283337,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE"
+    },
+    {
+      "album": {
+        "name": "Million Good Reasons",
+        "url": "https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157130,
+      "name": "Million Good Reasons",
+      "url": "https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73"
     },
     {
       "album": {

@@ -8512,7 +8512,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 159010,
       "name": "Fragolamilano",
       "url": "https://open.spotify.com/track/1lhOVOQ1GxLXULLIQxnp37"
@@ -19676,6 +19676,28 @@
       "duration_ms": 139607,
       "name": "SIAMO DROGA - Remix",
       "url": "https://open.spotify.com/track/5WslM26ntpzasnzDtO0WuT"
+    },
+    {
+      "album": {
+        "name": "CIRCO GRAN SIBERIA",
+        "url": "https://open.spotify.com/album/5JA9dUjaDOiuN7AGfLCfep"
+      },
+      "artists": [
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj"
+        },
+        {
+          "name": "Cripo",
+          "url": "https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "SIBERIA",
+      "url": "https://open.spotify.com/track/3UGQkfXRscpBu6wzdHWcBn"
     },
     {
       "album": {

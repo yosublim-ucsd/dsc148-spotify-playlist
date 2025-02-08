@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,729 songs - 4 day 22 hr 10 min
+1,730 songs - 4 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [California Heaven \- Medasin Remix](https://open.spotify.com/track/0SIxPkBt6iyocxMSLgcxI7) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [California Heaven \(Medasin Remix\)](https://open.spotify.com/album/3aT2WqA7Fsnrm8e0UcUZAZ) | 3:36 | 2020-05-18 | 2020-07-18 |
 | [Call Katie](https://open.spotify.com/track/0CRs7vCuzxgxjSGqjckzjn) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Call Katie](https://open.spotify.com/album/2XM03VGtZTKcotiQzxrnFO) | 3:01 | 2021-03-19 | 2021-09-11 |
 | [Call my name](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Call my name](https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we) | 2:54 | 2024-02-09 |  |
+| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 |  |
 | [Called](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Called](https://open.spotify.com/album/4pT6jidjPodWkfoVSEHViq) | 6:04 | 2020-03-17 | 2022-04-19 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-04-06 |
 | [Canopée des Cîmes](https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Canopée des Cîmes](https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u) | 4:56 | 2022-07-01 | 2023-09-09 |
@@ -782,7 +783,7 @@
 | [Invitation \(feat\. Yade Lauren\)](https://open.spotify.com/track/5t5e19EoXJGGt3l6XNnRgx) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Invitation \(feat\. Yade Lauren\)](https://open.spotify.com/album/6Omn0WS6Cp0XFFeEtCoATT) | 2:32 | 2020-05-18 | 2020-07-03 |
 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 | 2023-06-09 | 2024-06-22 |
 | [Islands](https://open.spotify.com/track/7sBZvwylmtrxRlghCooQdM) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [Islands](https://open.spotify.com/album/4JwTjsTN3QyGMuKoMB8gzP) | 4:16 | 2020-05-19 | 2020-07-03 |
-| [It Can Be Better Now](https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Hero / It Can Be Better Now](https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd) | 3:11 | 2024-11-22 |  |
+| [It Can Be Better Now](https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Hero / It Can Be Better Now](https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd) | 3:11 | 2024-11-22 | 2025-02-08 |
 | [It Was You \(With Zeeba\)](https://open.spotify.com/track/42uG027pzJkSk63FZkUd0I) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [It Was You \(With Zeeba\)](https://open.spotify.com/album/6pCrr0GMlTyu6XOirgJVF5) | 2:37 | 2020-03-20 | 2021-12-21 |
 | [It's All Love](https://open.spotify.com/track/4KD5P3vY1rZUziFdw2qrKp) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [It's All Love](https://open.spotify.com/album/0bSjpqslnkqZHImdwBIRL0) | 5:15 | 2024-05-31 | 2024-07-21 |
 | [It's All Over](https://open.spotify.com/track/1bqcDfcEHDQP7Q5AOUCnC5) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 4:10 | 2020-10-13 | 2021-03-06 |

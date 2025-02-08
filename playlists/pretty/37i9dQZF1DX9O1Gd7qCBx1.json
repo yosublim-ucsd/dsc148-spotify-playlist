@@ -1,6 +1,6 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 225184,
+  "num_followers": 225176,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "El Mexico Que Se Nos Fue",
         "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 211933,
       "name": "Muerto en Vida",
       "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Rey Az\u00facar",
         "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Romance del Enamorado y la Muerte",
-        "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
+        "name": "D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Romance del Enamorado y la Muerte",
-      "url": "https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY"
+      "duration_ms": 192765,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -947,6 +931,22 @@
       "duration_ms": 228400,
       "name": "Ch\u00e9ni (Miedo)",
       "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Romance del Enamorado y la Muerte",
+        "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Romance del Enamorado y la Muerte",
+      "url": "https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
+        "name": "La Danza de la Muerte (D\u00eda de Muertos)",
+        "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
+      },
+      "artists": [
+        {
+          "name": "Fanko",
+          "url": "https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n"
+        }
+      ],
+      "duration_ms": 194092,
+      "name": "La Danza de la Muerte - D\u00eda de Muertos",
+      "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
         "name": "Caracoles",
         "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 209706,
       "name": "Dimensi\u00f3n Astral",
       "url": "https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
-        "name": "La Danza de la Muerte (D\u00eda de Muertos)",
-        "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
-      },
-      "artists": [
-        {
-          "name": "Fanko",
-          "url": "https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "La Danza de la Muerte - D\u00eda de Muertos",
-      "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "D\u00eda de los Muertos: El Mariachi",
-        "url": "https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB"
-      },
-      "artists": [
-        {
-          "name": "Wilbert Pere y Mariachi Tanampa",
-          "url": "https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n"
-        }
-      ],
-      "duration_ms": 201247,
-      "name": "Que Me Importa Morir",
-      "url": "https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Espectro (En Vivo Desde Cuba)",
         "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 268992,
       "name": "Espectro (En Vivo Desde Cuba)",
       "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "D\u00eda de los Muertos: El Mariachi",
+        "url": "https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Pere y Mariachi Tanampa",
+          "url": "https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n"
+        }
+      ],
+      "duration_ms": 201247,
+      "name": "Que Me Importa Morir",
+      "url": "https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f"
     },
     {
       "added_at": "2024-11-01 03:59:23",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-11-01 03:59:23",
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "La Reyna Del Inframundo",
-      "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
-    },
-    {
-      "added_at": "2024-11-01 03:59:23",
-      "album": {
         "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
         "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 193973,
       "name": "Para Cuando Muera",
       "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
+    },
+    {
+      "added_at": "2024-11-01 03:59:23",
+      "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "La Reyna Del Inframundo",
+      "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
     },
     {
       "added_at": "2024-11-01 03:59:23",

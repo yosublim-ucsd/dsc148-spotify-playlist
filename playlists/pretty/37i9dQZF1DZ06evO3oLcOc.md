@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,239 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,257 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 51 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 52 | [Bouncin On My D\*ck](https://open.spotify.com/track/3xJj1mU7B83yop2dA03Smk) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Dash D Cadet](https://open.spotify.com/artist/60N2qoNBFLTHNSBElNpANC) | [\#BitchImTheShit](https://open.spotify.com/album/6xJC9AbMpm4ebrTWz6Fd5S) | 3:15 |
 
-Snapshot ID: `Z6KqAAAAAACRe23rTsMk5lhw3Z6cHD0w`
+Snapshot ID: `Z6P7gAAAAABkQABJvm/R1ZFUmR6FThWE`

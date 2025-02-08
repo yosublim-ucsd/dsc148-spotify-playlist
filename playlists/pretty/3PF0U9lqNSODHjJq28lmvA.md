@@ -4,19 +4,20 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,461 likes - 10 songs - 37 min 40 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,464 likes - 11 songs - 44 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ALOHA HAWAII](https://open.spotify.com/track/0smBlg56vgwAM3NF8EndJ4) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [ALOHA HAWAII](https://open.spotify.com/album/2H9FRSHBDxeJh8yGe7Uey4) | 2:18 |
-| 2 | [En andra sista chans](https://open.spotify.com/track/5qpIM4nlfJA40knfPhu3ou) | [Anders Barsk](https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO) | [En andra sista chans](https://open.spotify.com/album/2AtRQgMrBvLih6xrEGirB0) | 3:24 |
-| 3 | [Sometimes always](https://open.spotify.com/track/3ugA3NsCvyuP7ewHDgFOGu) | [Overhead Compartments](https://open.spotify.com/artist/1l1Ybjg552x1F7EcgmEzYH) | [Sometimes always](https://open.spotify.com/album/5RbKgiRbllmub5oh48WA7R) | 2:46 |
-| 4 | [Selfish Heart](https://open.spotify.com/track/30sowAkTk06nb2rk5Ywioc) | [Yara Liz](https://open.spotify.com/artist/2bK30CUQYUBhG7HbOYVPoO) | [Cýra](https://open.spotify.com/album/6q3euzIBwKajowyadeg5P5) | 3:38 |
-| 5 | [Jelly's Chicken Fried Chicken Dance](https://open.spotify.com/track/7GFIlcV2RTfj1ceKmA3VZS) | [Jelly and Friends](https://open.spotify.com/artist/0BpQTnNiRjqYgZIcWtq6x1) | [Jelly's Sing\-Along, Vol\. 2](https://open.spotify.com/album/0mwLJStTYmyKaPq7vMoQbg) | 3:05 |
-| 6 | [Birds](https://open.spotify.com/track/3Xkcq0HeNxiTBC6jx5F9js) | [Kimpatrik](https://open.spotify.com/artist/610rpF7Ul6xZ5jXlBl4PM5) | [Birds](https://open.spotify.com/album/2KtbHxbkodZugpQJfOjdfl) | 4:13 |
-| 7 | [Tattoos](https://open.spotify.com/track/67iEaKTb96xJiZuCPqRDuI) | [Isabella Delgado](https://open.spotify.com/artist/5zRi6BSdHxKKEdS2sI0dsF) | [Tattoos](https://open.spotify.com/album/5ejCbOJSdw27nRFvgg7Pb4) | 5:28 |
-| 8 | [I am alone again](https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap) | [VaterSon](https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl) | [I am alone again](https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn) | 2:59 |
-| 9 | [We're All Friends \- OFFICIAL RLP TAG 2025 SONG](https://open.spotify.com/track/7jytzRRUPLeDP0FrBEDIau) | [LuK](https://open.spotify.com/artist/0VXYph9Pw0atj5otoeNgyX), [die tanzmanufaktur](https://open.spotify.com/artist/0954fvorbWCgIhFtkq6nVS) | [We're All Friends \- OFFICIAL RLP TAG 2025 SONG](https://open.spotify.com/album/5FFV4XvRiXn8SEnMivY4mN) | 2:47 |
-| 10 | [Goodbye Ziggy Stardust](https://open.spotify.com/track/0hdekznWjIcj7TvSF7umoI) | [Trevor Tanner](https://open.spotify.com/artist/6qYPZN3ZMEwFlPwHUEiYKI) | [Goodbye Ziggy Stardust](https://open.spotify.com/album/5WWz7EROxRPqfIq5QKXoDJ) | 6:58 |
+| 1 | [Ajatuskatkolla](https://open.spotify.com/track/1XfxDeezisDeOOII7xKns0) | [Huge L](https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB) | [Ajatuskatkolla](https://open.spotify.com/album/16Yhrn28F63KZfcwaUm4BF) | 3:21 |
+| 2 | [there goes my heart](https://open.spotify.com/track/5FsIVsQvAgqTywYQs4p14q) | [TeYo](https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC) | [there goes my heart](https://open.spotify.com/album/3x8btzvYXhpSXKI5MsxU2C) | 3:46 |
+| 3 | [When I Know Her](https://open.spotify.com/track/5JoX311i1XC6LXGhueZb2O) | [moonweather](https://open.spotify.com/artist/2jTReqlg8DnjfZtCq3RzgV) | [When I Know Her](https://open.spotify.com/album/5a4buMrAv3p4EyBod946ae) | 2:14 |
+| 4 | [mumbl](https://open.spotify.com/track/3ZDOP0kkG4yNEd3jbK3cvy) | [ailias](https://open.spotify.com/artist/6x5wrokIsPXFHJN45EiAsp) | [mumbl](https://open.spotify.com/album/6lKuG70DfEBHmiwZn9N4ep) | 1:58 |
+| 5 | [Winter Flowers](https://open.spotify.com/track/5eFPFnkG2R1KaOOaO10HVl) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo) | [Winter Flowers](https://open.spotify.com/album/38gdunrUuxg4jMiI5ZluIh) | 4:23 |
+| 6 | [Oniro \(K\)](https://open.spotify.com/track/4zG1QOECjRHrLxLUC3YYH6) | [KYMA](https://open.spotify.com/artist/34WwUS1xwAUOaud53F2zQr) | [NIGHT KLUB](https://open.spotify.com/album/4RIan65wPiRQeGjyYxw46c) | 3:18 |
+| 7 | [Tid och Rum](https://open.spotify.com/track/0shJgeOiPYVwPO0so1E84H) | [Emanuel Ehlin](https://open.spotify.com/artist/6DRJCiYgeObRhHZE2dZ54W) | [B\-SIDOR](https://open.spotify.com/album/3xH6lxKQryhEHuuiOutx7C) | 2:54 |
+| 8 | [Moves](https://open.spotify.com/track/1uvsEbjfEgKRPOqGHiJYli) | [The Garden Leave](https://open.spotify.com/artist/2a19Styur29GsN6aH2KhLt) | [Moves](https://open.spotify.com/album/55epvMKzrq4wzmkc7iakC4) | 4:17 |
+| 9 | [Tell Me](https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO) | [The Dirty Mirrors](https://open.spotify.com/artist/3KZD02FB9WTcEcUNOxJJrW) | [Tell Me](https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy) | 3:55 |
+| 10 | [Roto](https://open.spotify.com/track/7jiRUEhHuQwWzbnRQpagsP) | [Moranis](https://open.spotify.com/artist/4yyVqVbxxTtnIjY6wABvKc) | [Roto](https://open.spotify.com/album/2O6K8QlH45SrwaSzVn7xX0) | 6:32 |
+| 11 | [Africa](https://open.spotify.com/track/4UonYOSQgecCsM5qvSsXnu) | [TiTi](https://open.spotify.com/artist/47fG6LJKwGHXDw3Q2LU3cK) | [Africa](https://open.spotify.com/album/54e82Pge93CBfN7txY4o0v) | 8:03 |
 
-Snapshot ID: `AAAEBszNAaOOPFIGcldhFWq8VFAmyXfC`
+Snapshot ID: `AAAECC5iFtf6b2yLSU+72HqMLn02FR+/`

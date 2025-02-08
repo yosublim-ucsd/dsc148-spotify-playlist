@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Sierra Ferrell",
+  "description": "Keep your finger on the pulse of Americana. Cover: Wilder Woods",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -4553,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/5PCVQKjEnyxqaWi9M45Gz9"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255280,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/5jx8nGaWvgYQZJd6k1OOuO"
+    },
+    {
+      "album": {
         "name": "All The Wine In California",
         "url": "https://open.spotify.com/album/5hvJoYH3K4PaGfVcI9Dqny"
       },
@@ -7359,6 +7377,24 @@
     },
     {
       "album": {
+        "name": "Curioso",
+        "url": "https://open.spotify.com/album/3GQfiWf3Hmkn7wW7FsQTKr"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Love Last",
+      "url": "https://open.spotify.com/track/7kaHskn4s3SM1aY7GNVqbc"
+    },
+    {
+      "album": {
         "name": "Love Of A Girl",
         "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
       },
@@ -7982,6 +8018,24 @@
       "duration_ms": 161484,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/5mwr49vu0RI3RJG8NLiJ1z"
+    },
+    {
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
     },
     {
       "album": {

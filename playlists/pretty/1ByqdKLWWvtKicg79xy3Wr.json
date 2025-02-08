@@ -6,8 +6,136 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGQDnhyNbe8mkzvyv6aumyRRSUbjC/",
+  "snapshot_id": "AAAGQQbafadf7EWZzIdd7COhqRCHpAPv",
   "tracks": [
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
+    },
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Last Time (VIP Mix)",
+        "url": "https://open.spotify.com/album/1cthLrYVRWzuk8ZnoQQInC"
+      },
+      "artists": [
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        },
+        {
+          "name": "JANEVA",
+          "url": "https://open.spotify.com/artist/6gmHQVzmcuzRTAv2fhjSfm"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Last Time (VIP Mix)",
+      "url": "https://open.spotify.com/track/7I1K3OqS6aQi4J9uanR9x1"
+    },
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 175869,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8"
+    },
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Ooh",
+        "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
+      },
+      "artists": [
+        {
+          "name": "Dan be",
+          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
+        },
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "Ooh",
+      "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
+    },
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Goodbye (Warm Up) [Chris Lake Remix]",
+        "url": "https://open.spotify.com/album/2VAQAjkUenNudHqxlt6DrA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 210655,
+      "name": "Goodbye (Warm Up) - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0uGsvOus0qVqvvQiOk3h3D"
+    },
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "added_at": "2025-02-07 03:41:51",
+      "album": {
+        "name": "Can't You See?",
+        "url": "https://open.spotify.com/album/7L0bigqBGueBuPpp5QI2iK"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        },
+        {
+          "name": "FLAT 22",
+          "url": "https://open.spotify.com/artist/1eQLSOs8Z1RB43eNMH3fAl"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Can't You See?",
+      "url": "https://open.spotify.com/track/7AZ0MjV5ZDW5M57ZkyNpp9"
+    },
     {
       "added_at": "2025-01-19 06:26:09",
       "album": {

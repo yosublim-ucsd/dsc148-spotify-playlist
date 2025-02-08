@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,483 songs - 10 day 11 hr 9 min
+4,484 songs - 10 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Afterburner](https://open.spotify.com/track/2VFU0UbmHogeFsGAfzCBKH) | [BSOD](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05) | [No Way, Get Real](https://open.spotify.com/album/6ScoMm4OZmUMaDhHeXEh4b) | 4:41 | 2020-04-22 | 2020-05-24 |
 | [Afterglow](https://open.spotify.com/track/5sCTbkhI2JYg03xypi4uCV) | [Craig Caliva](https://open.spotify.com/artist/1UR8HRevJdliHzsYXixh7V) | [Afterglow](https://open.spotify.com/album/1EKwZgF7LMf4elB71VSR88) | 3:26 | 2024-01-27 | 2024-02-04 |
 | [Again](https://open.spotify.com/track/0KKBzBvkntXQ0LQytomdd5) | [Ant St.](https://open.spotify.com/artist/2hIxFgindSKBkPHGNoRlHh) | [Again](https://open.spotify.com/album/5u6xMFMQAahNjsJe5BKCiy) | 1:25 | 2021-09-10 | 2021-09-26 |
+| [Again](https://open.spotify.com/track/2A3ijYyP7ykPxW4VB6maMO) | [Louie Rubio](https://open.spotify.com/artist/3vl3HfodbBg1UY2FYVMbGU) | [Again](https://open.spotify.com/album/55NtS9a9STDpDvUJUWlboQ) | 2:53 | 2025-02-07 |  |
 | [Again](https://open.spotify.com/track/7xIZeD0t82QUTfTYW2QBQP) | [Rowe](https://open.spotify.com/artist/1WDWbPAWjUikjxh7cqKUgL) | [Again](https://open.spotify.com/album/23dUdtwmrS01a8ODRuqflj) | 5:08 | 2021-07-31 | 2021-08-16 |
 | [Again \- DLMT Remix](https://open.spotify.com/track/0O5dd0a3OoC5QhLwAcUSTn) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Again \(DLMT Remix\)](https://open.spotify.com/album/1gW2kaLLltSmt8m3wr1ltd) | 3:09 | 2021-01-23 | 2021-02-06 |
 | [AGAIN3X](https://open.spotify.com/track/3ftsAK8dCcPdkoZyRTSsxo) | [Liv Hanna](https://open.spotify.com/artist/5m1lbZz7bdNNytYynLZdix) | [AGAIN3X](https://open.spotify.com/album/1giEqTUIngq2GVPRaXgJ6T) | 1:57 | 2024-11-02 | 2024-11-14 |
@@ -3441,7 +3442,7 @@
 | [Simply in Love](https://open.spotify.com/track/2l3vDZiOi6c8NLoMv3LmP1) | [Carlos Rising](https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro) | [Simply in Love](https://open.spotify.com/album/2SqSLXleVQNc7MIxIEfuSF) | 3:47 | 2023-06-06 | 2023-06-27 |
 | [Sin Piezas](https://open.spotify.com/track/4Etnql7HKVNAkZiwWVvRdO) | [Giulianna](https://open.spotify.com/artist/1vN6MlKggoxbXYYYRJydod) | [Sin Piezas](https://open.spotify.com/album/2jWulsE5KWL83wzklqjOfM) | 2:20 | 2024-03-04 | 2024-03-12 |
 | [Sin ti](https://open.spotify.com/track/0bU1vcFRJRzMSvRW5ye3Gc) | [Cabo Cope](https://open.spotify.com/artist/1FSnvbqPFBkFwTYiyaUX8N), [María Grant](https://open.spotify.com/artist/0Sg2pRSX5FGjIJj3DJSrv4) | [Sin ti](https://open.spotify.com/album/2Qkayw553C4CibeE6l4V6a) | 4:12 | 2024-11-03 | 2024-11-15 |
-| [Sin Ti](https://open.spotify.com/track/0Mv8tLl5YjMCu3JUY7yxsv) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [Sin Ti](https://open.spotify.com/album/08PygRV72H6UbPziPxf941) | 2:38 | 2025-01-27 |  |
+| [Sin Ti](https://open.spotify.com/track/0Mv8tLl5YjMCu3JUY7yxsv) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [Sin Ti](https://open.spotify.com/album/08PygRV72H6UbPziPxf941) | 2:38 | 2025-01-27 | 2025-02-08 |
 | [Sina Makosa](https://open.spotify.com/track/2KZnuhaMiOwsSpHg1jip5S) | [Aimé\. M.](https://open.spotify.com/artist/1fm0ZvqiFGSU6RLI5rnqCp) | [Sina Makosa](https://open.spotify.com/album/5LwzHFooLhTeDNwV8ywLP6) | 3:08 | 2024-06-28 | 2024-07-10 |
 | [Since I Have A Lover](https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 4:42 | 2023-12-29 | 2024-03-08 |
 | [Since May](https://open.spotify.com/track/5K458fnpZM0Aa4y8k7d4bQ) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:28 | 2023-09-01 | 2024-06-20 |
@@ -3646,7 +3647,7 @@
 | [Stutter, Vol\. 2](https://open.spotify.com/track/2hbcCTN9V0W8s3I0Ji92IS) | [Antonio Sky](https://open.spotify.com/artist/02Evk0EwdPaRF3MZp0dKCH) | [Stutter, Vol\. 2](https://open.spotify.com/album/7EaHIM4CF9ibf5aZ5syd3F) | 3:39 | 2024-11-15 | 2024-11-27 |
 | [Sucka 4 U](https://open.spotify.com/track/0UFDa4PDpdM69t1FDaAXSJ) | [Morgan Taylor](https://open.spotify.com/artist/6aaFMlrrpvM8drt4IjyNph) | [Sucka 4 U](https://open.spotify.com/album/11r4U0e6ER09oLIeW7F5cJ) | 2:46 | 2024-02-14 | 2024-02-26 |
 | [Suddenly](https://open.spotify.com/track/5xIy9cysQ2zQ2VPlKxs1wk) | [Elline Day](https://open.spotify.com/artist/0iClslv1V4PdKWLVzXyn2g) | [Suddenly](https://open.spotify.com/album/5h6OGZIm80BtGbDTopuPuv) | 2:17 | 2024-10-26 | 2024-11-07 |
-| [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-01-29 |  |
+| [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-01-29 |  |
 | [Sueño De Verano](https://open.spotify.com/track/6qYXc6mGRhYy7yqKb5PzJt) | [Sergi Barranco](https://open.spotify.com/artist/7dOw0iVZzE0c3kzJcDrh5w), [Carmen Arráez](https://open.spotify.com/artist/4wK8q4slC1jdxgiUejKwEY), [La Vecina](https://open.spotify.com/artist/23d8X4AewGJySQDXyvk88W) | [Anáforas](https://open.spotify.com/album/4V987WePrxIr8LCkoWVnJJ) | 2:40 | 2024-02-24 | 2024-03-03 |
 | [Sugar Daddy](https://open.spotify.com/track/2R1759HDsyHhhOn4PM3pSk) | [Jordan Rivers & The Real Juice](https://open.spotify.com/artist/23V3hZ8OOhLund0FUEW6Cm) | [Sugar Daddy](https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ) | 4:05 | 2024-01-28 | 2024-02-05 |
 | [Sugar Rush](https://open.spotify.com/track/5bik4LKCGQq0s6KRuBjB36) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Sugar Rush](https://open.spotify.com/album/38lLpEsRcfJW91jcNBsYOK) | 2:37 | 2024-06-14 | 2024-06-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: LIE NING, David Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,602 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,617 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 56 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 |
 | 57 | [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 |
 | 58 | [Visions Of Pain \- Tim Goldsworthy Remix](https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4), [Tim Goldsworthy](https://open.spotify.com/artist/2uFlruav0o4m1tVv05Bvuc) | [Visions Of Pain \(Tim Goldsworthy Remix\)](https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5) | 7:26 |
-| 59 | [On the Move \(feat\. Cannons\)](https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Adult Contemporary \(Deluxe\)](https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8) | 2:41 |
+| 59 | [On the Move \- feat\. Cannons](https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Adult Contemporary \(Deluxe\)](https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8) | 2:41 |
 | 60 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 |
 | 61 | [Love is so Unreal](https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Love is so Unreal](https://open.spotify.com/album/2Ky4TmcA2p4q1bJVaRL6Wa) | 4:07 |
 | 62 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |

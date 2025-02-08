@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Velours Velours
 
-559 songs - 1 day 8 hr 7 min
+560 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2022-03-25 | 2022-06-04 |
 | [Love pour toi](https://open.spotify.com/track/3uW42r1lILVcS2DGBYxScN) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Love pour toi](https://open.spotify.com/album/4ed8rgdhz9Omd8YFN6ezBW) | 2:31 | 2024-09-06 |  |
 | [Lumière noire](https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI) | [Projet Jacob](https://open.spotify.com/artist/0qBsS23IlLEUKTugdb591W) | [Sans brume](https://open.spotify.com/album/6r7pxiyTKIPwjJnvBFBHtu) | 2:57 | 2022-03-25 | 2022-04-02 |
+| [Léa](https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Léa // Tableaux de craie](https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb) | 3:18 | 2025-02-07 |  |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-12-04 | 2025-01-14 |
 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 | 2023-01-20 | 2024-04-19 |
 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 | 2023-05-26 | 2023-08-19 |
@@ -317,7 +318,7 @@
 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 | 2022-10-14 | 2023-04-01 |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-25 | 2022-10-15 |
 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 | 2022-03-25 | 2022-04-29 |
-| [Mercure](https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45), [thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Mercure](https://open.spotify.com/album/72rzVypIG6LhrJStwG1KBe) | 4:05 | 2023-09-22 |  |
+| [Mercure](https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45), [thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Mercure](https://open.spotify.com/album/72rzVypIG6LhrJStwG1KBe) | 4:05 | 2023-09-22 | 2025-02-08 |
 | [Merry Go Round](https://open.spotify.com/track/1iyu4sqRAln0vHlPiOfrTs) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 3:31 | 2022-11-11 | 2023-02-18 |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-03-25 | 2022-07-29 |
 | [Merry Go Round](https://open.spotify.com/track/5wOqZLk70L0gr0KyPBOk4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/5QVpM1n4eqLmdQYtwWh96Q) | 3:31 | 2022-07-22 | 2022-11-19 |

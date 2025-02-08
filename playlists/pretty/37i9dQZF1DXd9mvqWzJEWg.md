@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> Get ready for After 5 with this <a href="https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr?si=ORpbDLmbQfKi44Yf2GKaoQ">Surreal Sessions</a> take over.
+> Get ready for After 5 with this <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=XwrW3IilSpi1gtISAgvPaA">Surreal Sessions</a> take over.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,831 likes - 47 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,875 likes - 47 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 46 | [NUZ Take Over](https://open.spotify.com/track/5LEa96B3PiTSm71Swa0bom) | [TheGqomBoss](https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh), [M&W](https://open.spotify.com/artist/2WZyVaje3YupWEsmfLx8P3), [Naked Souls](https://open.spotify.com/artist/4PUxTOaOojpbLxZIsCmJCQ) | [Lost Projects 2.0 \(2024 Tracks\)](https://open.spotify.com/album/61jbFRZllsp8pxtkrZS1pu) | 5:09 |
 | 47 | [Poison](https://open.spotify.com/track/4l8odlgftXYtqsIFtlyyy1) | [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv), [Emotic](https://open.spotify.com/artist/1nPtfW23Nm5eGdv9xpOf7P), [STATE OFFF](https://open.spotify.com/artist/3Mx399qUEgWmUscD8KKYZ7) | [Poison](https://open.spotify.com/album/3xj5tiCaXrg5A3Y2AGQqRJ) | 6:04 |
 
-Snapshot ID: `Z6U/IQAAAAAqsvcYBGe0tZExEvAE/XSA`
+Snapshot ID: `Z6XdogAAAABDivHW28/Fot9g0y/LjCO8`

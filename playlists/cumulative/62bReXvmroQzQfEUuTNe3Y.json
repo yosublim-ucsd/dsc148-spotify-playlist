@@ -1593,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Deep of You",
+        "url": "https://open.spotify.com/album/4NHJ2mh1eCDCU83wFQAEJT"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156804,
+      "name": "Deep of You",
+      "url": "https://open.spotify.com/track/5lRzNBSLgUQFZhJrEYGqPN"
+    },
+    {
+      "album": {
         "name": "Delta / Bartok EP",
         "url": "https://open.spotify.com/album/1xGvbgezgfzeFTndnwfY2U"
       },
@@ -2216,7 +2238,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 223396,
       "name": "Fade",
       "url": "https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN"
@@ -5671,6 +5693,28 @@
     },
     {
       "album": {
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        },
+        {
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -7154,7 +7198,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 223336,
       "name": "Satisfied - Edit",
       "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"

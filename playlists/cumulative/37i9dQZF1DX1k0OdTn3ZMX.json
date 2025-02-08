@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Linkin Park.",
+  "description": "n\u00fc-metal revival is happening here and now with Amira Elfeky.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -810,6 +810,24 @@
       "duration_ms": 170859,
       "name": "DEADZONE",
       "url": "https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw"
+    },
+    {
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191614,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI"
     },
     {
       "album": {
@@ -2099,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Losing Faith",
+        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185569,
+      "name": "Losing Faith",
+      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
+    },
+    {
+      "album": {
         "name": "Meteora 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
@@ -3124,7 +3160,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 194673,
       "name": "Se Van A Topar",
       "url": "https://open.spotify.com/track/6kHJesJlHqZVwSLhOtuiQv"
@@ -3478,7 +3514,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 174934,
       "name": "SYM",
       "url": "https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X"
@@ -3536,7 +3572,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 184000,
       "name": "Tabula Rasa",
       "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
@@ -3608,7 +3644,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 151426,
       "name": "Tell Us How It Ends",
       "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
@@ -4132,6 +4168,50 @@
       "duration_ms": 227330,
       "name": "VIOLENT PRINCIPLES",
       "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"
+    },
+    {
+      "album": {
+        "name": "Volatile",
+        "url": "https://open.spotify.com/album/7DjBYoLrsUibyqCDKC2CEs"
+      },
+      "artists": [
+        {
+          "name": "Deadly Apples",
+          "url": "https://open.spotify.com/artist/78l6ObjQIOw8H56CFAHbQn"
+        },
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        },
+        {
+          "name": "Danny Lohner",
+          "url": "https://open.spotify.com/artist/1rXhjibRAqFFGSUCYeQCSW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176791,
+      "name": "Volatile",
+      "url": "https://open.spotify.com/track/3IW7iLL6LHVQayWxTnl24R"
+    },
+    {
+      "album": {
+        "name": "W.T.F",
+        "url": "https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207797,
+      "name": "W.T.F",
+      "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
     },
     {
       "album": {

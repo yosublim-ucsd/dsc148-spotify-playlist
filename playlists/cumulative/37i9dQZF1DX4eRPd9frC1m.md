@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-392 songs - 21 hr 20 min
+393 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Crazy in the Head](https://open.spotify.com/track/4qfkszBr0DlyeXYL0yyvdY) | [FOCUSS](https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX) | [Crazy in the Head EP](https://open.spotify.com/album/6jKmTWnMw3VYIS9R52wion) | 3:00 | 2023-08-18 | 2023-09-10 |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-07-14 |  |
 | [Crossfire](https://open.spotify.com/track/1cScOu41mPgWKFzBXbBaSS) | [Alpha AF](https://open.spotify.com/artist/1avz8uLnB3bKQvDnHQko5o) | [Crossfire](https://open.spotify.com/album/3DOZibhKgdUYQ9qBzQcO5w) | 3:28 | 2021-11-19 | 2022-01-08 |
+| [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-07 |  |
 | [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 | 2023-02-24 | 2024-04-19 |
 | [DAMN \- Bonus Track](https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:40 | 2021-11-19 | 2023-02-25 |
 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 | 2021-11-19 | 2024-08-03 |
@@ -191,7 +192,7 @@
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-01-05 |  |
 | [Legendary](https://open.spotify.com/track/3yFb3JWYOaKdgwViCGPnM2) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK), [Vkay](https://open.spotify.com/artist/26Na9AsGDehQcRBgPMewIy), [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Legendary](https://open.spotify.com/album/2xWaI7sAZVyz6axpQUizZ5) | 4:57 | 2021-11-19 | 2023-09-24 |
 | [Level](https://open.spotify.com/track/2EaQrkCOe5Esv3NWSnk4sX) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Level](https://open.spotify.com/album/60Td5Qx0Cs0ua9sAqePcPX) | 2:40 | 2022-04-15 | 2022-06-20 |
-| [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-04-28 |  |
+| [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-04-28 | 2025-02-08 |
 | [Lights On](https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [The R♾️ts](https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7) | 2:49 | 2024-11-22 |  |
 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 | 2024-08-31 |  |
 | [LOADED](https://open.spotify.com/track/7w53Q075Nr0s8UbAL1Una0) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [It’s Riddim Time](https://open.spotify.com/album/52MZ9cM7DPDCrJZktsHKF0) | 2:55 | 2024-05-24 | 2024-07-13 |

@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-123 songs - 5 hr 26 min
+124 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Askin](https://open.spotify.com/track/2wMLQNBfIvAxx2EiI7GFrv) | [Smith The Mister](https://open.spotify.com/artist/3lklKePqvwfT8azoQpiKnH) | [Askin](https://open.spotify.com/album/36m2j8o4xSn5s6004afjev) | 1:54 | 2023-03-27 | 2024-02-23 |
 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 | 2024-03-26 |  |
 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 | 2023-03-27 |  |
+| [Bad Luck](https://open.spotify.com/track/1nYmCw9Ca5IYdL5bgesRPZ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Bad luck](https://open.spotify.com/album/5g9YqwL7hTyUN8IrzbWzDM) | 3:23 | 2025-02-07 |  |
 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 | 2023-03-27 |  |
 | [Banished](https://open.spotify.com/track/311GcJHZOdJVGDl1r9LOaO) | [Geppilef](https://open.spotify.com/artist/3YGNGXTZlAgFX71OG2UyZp) | [Banished](https://open.spotify.com/album/1FNudNBnGVzvgcpIS8Fqli) | 2:36 | 2024-02-22 |  |
 | [Barcelona Moon](https://open.spotify.com/track/7Ls3aMAwJgEsNrtqiR57KK) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Barcelona Moon](https://open.spotify.com/album/4igBsTf38ARCOZ4nW6HFCz) | 2:21 | 2024-11-15 |  |
@@ -74,7 +75,7 @@
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2023-03-27 |  |
 | [Lucci](https://open.spotify.com/track/7esJ983DwtGoC6xjtkLWfH) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Lucci](https://open.spotify.com/album/3xQ3MENF2hsGuzoGducqGs) | 1:54 | 2023-03-27 | 2024-02-23 |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2023-03-27 |  |
-| [Malaku](https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Malaku](https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx) | 2:36 | 2024-01-23 |  |
+| [Malaku](https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Malaku](https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx) | 2:36 | 2024-01-23 | 2025-02-08 |
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2023-03-27 |  |
 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 | 2023-03-27 |  |
 | [Midnight Smoke](https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG) | [Spectacular Diagnostics](https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a), [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Midnight Smoke](https://open.spotify.com/album/5yixnT7FFdNdwvI4B4Qxed) | 1:45 | 2023-03-27 | 2024-02-23 |

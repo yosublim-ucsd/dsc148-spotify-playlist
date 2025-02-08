@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi?si=d\_vew40\_TqSrIpLSZkf7Ww">TRESOR</a>
 
-1,140 songs - 4 day 6 hr 6 min
+1,141 songs - 4 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [011 to Paris](https://open.spotify.com/track/1ivk12zHrrW7gQZwQwij79) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt), [Tyreik](https://open.spotify.com/artist/23EgkmAWDGB5uL6L0SEX1q) | [011 to Paris](https://open.spotify.com/album/0z2Y1xBkBx2NvdZD9BRpRY) | 3:24 | 2022-09-29 | 2022-11-12 |
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-12 | 2024-07-19 |
 | [1000 Seconds \- Atmos Blaq Remix](https://open.spotify.com/track/10TbShpB6filtUg2GJqLtA) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [1000 Seconds \(Atmos Blaq Remix\)](https://open.spotify.com/album/3IlTSiZPFDmiOQdBbqtVUC) | 7:07 | 2024-11-28 |  |
+| [1000 Seconds \- Jullian Gomes Perspective](https://open.spotify.com/track/25FQ5dflxTi5wpCi2KKehb) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi), [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [1000 Seconds \(Jullian Gomes Perspective\)](https://open.spotify.com/album/1fSxsBZDpEjQe7u9mLtSBZ) | 7:18 | 2025-02-07 |  |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-01-19 | 2023-03-18 |
 | [20 to 6](https://open.spotify.com/track/6NJcEHiQNXsNtos0fj2nFx) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Finally Famous](https://open.spotify.com/album/1I6Kl9idNvQCeEkkN50Wc5) | 7:09 | 2022-12-31 | 2023-01-20 |
 | [24Seven \- Enoo Napa Remix](https://open.spotify.com/track/2eDSiPA2s9WPQwO7KvwXWe) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Fortune Shumba](https://open.spotify.com/artist/1rSf3cW8isRbjDrqPASrk3) | [24Seven Remixes](https://open.spotify.com/album/4XppKFrcjhme8obIrdPImQ) | 5:45 | 2021-12-02 | 2022-04-08 |
@@ -100,7 +101,7 @@
 | [Angisafuni](https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW) | [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Small Keys](https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2) | [EVERGREEN](https://open.spotify.com/album/1acxyJRAsjYqYK8cF6dOfM) | 5:59 | 2024-04-12 | 2024-08-10 |
 | [Another Way](https://open.spotify.com/track/7wEe0MtGvCZdnzcr8AHp6E) | [Q Narongwate](https://open.spotify.com/artist/09QkDzAPufKL4un4SLIjNj) | [Another Way](https://open.spotify.com/album/5RzOk5vALVcjWFZxkfKGuc) | 5:22 | 2022-04-07 | 2022-04-15 |
 | [Answers \- Radio Edit](https://open.spotify.com/track/0Gj9sN8Zd6tdUf549M6Rva) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Answers](https://open.spotify.com/album/1eFxfRltMiE06BejGYmHQv) | 3:59 | 2021-11-04 | 2022-01-07 |
-| [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-05 |  |
+| [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-05 | 2025-02-08 |
 | [Are You Down](https://open.spotify.com/track/3w7BZ8Pj1IdoQYPzL8JcdF) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Are You Down](https://open.spotify.com/album/2Z5F672Ot12FttD9cA2QVO) | 5:00 | 2022-04-28 | 2022-06-18 |
 | [Army Of Angels](https://open.spotify.com/track/2dnIq7FQEMEZc5KooZVFOy) | [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN) | [Against All Odds](https://open.spotify.com/album/6DicXAqLVARWKDcwa2xJJD) | 6:00 | 2023-05-11 | 2023-09-08 |
 | [Around Here](https://open.spotify.com/track/78yX0DM4KLeRu0MzUwBD6X) | [Young DLC](https://open.spotify.com/artist/5vqYJ7hYVSMY2cZ7YADsAn) | [Around Here](https://open.spotify.com/album/2FpQ8wc5LlwAmSW7RyTu64) | 3:48 | 2024-06-13 | 2024-09-07 |

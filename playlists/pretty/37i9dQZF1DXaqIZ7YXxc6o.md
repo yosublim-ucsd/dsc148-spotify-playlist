@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Interupt
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,408 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,448 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 81 | [Number One](https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Number One](https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq) | 2:54 |
 | 82 | [Forever Young \(feat\. Alphaville & Ava Max\) \- CYRIL Remix](https://open.spotify.com/track/7MivXlOJSElWcNPSRWMpkc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young \(feat\. Alphaville & Ava Max\) \[CYRIL Remix\]](https://open.spotify.com/album/1CKpz0mOYS9dmIk05djEGw) | 2:13 |
 | 83 | [Closer 2 U](https://open.spotify.com/track/3xp2L2gLP6PVUzCXYr2e1M) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I) | [Closer 2 U](https://open.spotify.com/album/730M409X13uOR3uGtX2vZY) | 3:26 |
-| 84 | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Electric Feel \(feat\. Orem\)](https://open.spotify.com/album/5kPC3aznnrOgUAMAtY26of) | 2:58 |
+| 84 | [Electric Feel \(feat\. Orem\) \- Levi Version](https://open.spotify.com/track/3RBuBtVnzmfM0NyeaTtgBj) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Electric Feel \(feat\. Orem\) \[Levi Version\]](https://open.spotify.com/album/5kPC3aznnrOgUAMAtY26of) | 2:58 |
 | 85 | [Next To Me](https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Next To Me](https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM) | 3:05 |
 | 86 | [sicklysweet \- Tobiahs Remix](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [sicklysweet \(Tobiahs Remix\)](https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh) | 2:17 |
 | 87 | [Different Time](https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Different Time](https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes) | 3:18 |

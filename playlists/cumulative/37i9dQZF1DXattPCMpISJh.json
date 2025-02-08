@@ -141,6 +141,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/40ASIywv9G1hvVm672UNsd"
+      },
+      "artists": [
+        {
+          "name": "Jules Grant",
+          "url": "https://open.spotify.com/artist/5KLQxnoQmOOHaSobJveoD8"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4ksPvkPCRgMufnlTkgLtuG"
+    },
+    {
+      "album": {
         "name": "All Eyes On You (Edit)",
         "url": "https://open.spotify.com/album/1iFA2vTlQEj9yCmp0z035C"
       },
@@ -3645,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Messie",
+        "url": "https://open.spotify.com/album/56tFnMDVp2wNef1zSmME0H"
+      },
+      "artists": [
+        {
+          "name": "Mathien",
+          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Messie",
+      "url": "https://open.spotify.com/track/36IHDOzNRDPltiZTYCbuwa"
+    },
+    {
+      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -3814,7 +3854,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 253097,
       "name": "Mystery of Love - Le Flex \"Summer Mystery\" Remix",
       "url": "https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f"
@@ -3836,6 +3876,28 @@
       "duration_ms": 168762,
       "name": "Naked",
       "url": "https://open.spotify.com/track/6YvMJ2nfngT6namuCNpRL2"
+    },
+    {
+      "album": {
+        "name": "Need You Again",
+        "url": "https://open.spotify.com/album/0zRgJvZ5gL9yP2esofyni5"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        },
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268160,
+      "name": "Need You Again",
+      "url": "https://open.spotify.com/track/0h6MTPMCoYwh3GGsqSuszz"
     },
     {
       "album": {
@@ -3994,7 +4056,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161076,
-      "name": "On the Move (feat. Cannons)",
+      "name": "On the Move - feat. Cannons",
       "url": "https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY"
     },
     {
@@ -4770,7 +4832,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H"
@@ -4810,7 +4872,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 252596,
       "name": "So Good To Me (feat. Karen Harding)",
       "url": "https://open.spotify.com/track/3WfuS8tulwcGr7XZX7Qkpw"

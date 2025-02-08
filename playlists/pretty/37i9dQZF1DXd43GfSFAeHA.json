@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: ElGrandeToto",
-  "num_followers": 134424,
+  "num_followers": 134453,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-01-30 07:50:48",
       "album": {
+        "name": "SAV!OR",
+        "url": "https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "duration_ms": 171803,
+      "name": "BETTER FOR US",
+      "url": "https://open.spotify.com/track/5c3WOzGExvNb6JZ5dWpMxg"
+    },
+    {
+      "added_at": "2025-01-30 07:50:48",
+      "album": {
         "name": "CHIRON",
         "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 169846,
       "name": "Mandela",
       "url": "https://open.spotify.com/track/6UcJ3RJipzAiI4tt0W9u71"
-    },
-    {
-      "added_at": "2025-01-30 07:50:48",
-      "album": {
-        "name": "SAV!OR",
-        "url": "https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        }
-      ],
-      "duration_ms": 171803,
-      "name": "BETTER FOR US",
-      "url": "https://open.spotify.com/track/5c3WOzGExvNb6JZ5dWpMxg"
     },
     {
       "added_at": "2025-01-30 07:50:48",

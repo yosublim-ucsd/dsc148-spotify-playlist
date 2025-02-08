@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 118729,
+  "num_followers": 118749,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAARGOzPfzHIQa+TI4ewP4my",
+  "snapshot_id": "Z6P7gAAAAABrmE8SqTWG1EQfkA+d5fAn",
   "tracks": [
     {
       "added_at": null,
@@ -791,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodeo Rock And Roll Collection",
-        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
       "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Copenhagen",
-      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
+      "duration_ms": 233106,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
     },
     {
       "added_at": null,
@@ -827,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+        "name": "Rodeo Rock And Roll Collection",
+        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
       "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 233106,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+      "duration_ms": 163666,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
     },
     {
       "added_at": null,

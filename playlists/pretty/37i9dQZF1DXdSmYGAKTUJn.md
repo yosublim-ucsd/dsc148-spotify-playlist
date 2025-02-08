@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 
 > John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,137 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,172 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 | 11 | [Catch](https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 2:45 |
 | 12 | [Born Under Punches \(The Heat Goes On\) \- 2005 Remaster](https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 5:49 |
 | 13 | [Say Man](https://open.spotify.com/track/44hxtFfVOY3afOWb5wmgz4) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 3:10 |
-| 14 | [Köln, January 24, 1975, Pt\. II A \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
+| 14 | [Köln, January 24, 1975, Part II a \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
 | 15 | [Doctor Wu](https://open.spotify.com/track/5aRj6TIRELABhgVasaff5g) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:54 |
 | 16 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 |
 | 17 | [Does Your Mama Know About Me](https://open.spotify.com/track/5UB1hRBcUDi43KDEahFrEC) | [Bobby Taylor & The Vancouvers](https://open.spotify.com/artist/2yu275LOWOLmpD885w1MMy) | [Bobby Taylor & The Vancouvers](https://open.spotify.com/album/2ncW7P7vWGOpjRD3W0mtGg) | 2:55 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 | 32 | [Funeral At The Movies](https://open.spotify.com/track/7baM7B9X2usD7IGtLu0TLl) | [Shudder To Think](https://open.spotify.com/artist/3PP5Hnii2zI9Ufm7jFkers) | [Funeral At The Movies](https://open.spotify.com/album/57mB5QiLeB1owgZ4fkZRf2) | 3:14 |
 | 33 | [Hang On Bill](https://open.spotify.com/track/4tlw5np6HbB0UKO2roDYOy) | [Little Lisa](https://open.spotify.com/artist/2xaOOtLaV8BOds7mm41qnp) | [The Complete Motown Singles, Vol\. 5: 1965](https://open.spotify.com/album/6pPH5BskG0nTxEGdkIl58Y) | 2:50 |
 | 34 | [Sway \- 2009 Mix](https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:52 |
-| 35 | [Different Trains: America, Before the War](https://open.spotify.com/track/1YiBEdXvyWL9rupB3Cg4IQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Different Trains / Electric Counterpoint](https://open.spotify.com/album/3i8ojYITZwfiZilo8ShpxQ) | 8:58 |
+| 35 | [Different Trains: America—Before the war](https://open.spotify.com/track/1YiBEdXvyWL9rupB3Cg4IQ) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Different Trains / Electric Counterpoint](https://open.spotify.com/album/3i8ojYITZwfiZilo8ShpxQ) | 8:58 |
 | 36 | [Fingers in the Wind](https://open.spotify.com/track/3yYSloOdPt9f2yJ7jnGiPo) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [The Inflated Tear](https://open.spotify.com/album/5xduKf7XKIvw4JV3fHcItg) | 4:18 |
 | 37 | [Part 1](https://open.spotify.com/track/0zTjbVtn3RUOzuyA4n0mtR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp) | [Philip Glass: Music In 12 Parts](https://open.spotify.com/album/6bhlTPe9Od4aZXw2Xy0jnX) | 18:15 |
 | 38 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |

@@ -5720,7 +5720,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 135483,
       "name": "Fire In You",
       "url": "https://open.spotify.com/track/6GpncNJ5M1OgSEKjbo02gY"
@@ -6324,6 +6324,32 @@
       "duration_ms": 144000,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/19itbobOJr7meDdkebuv5k"
+    },
+    {
+      "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/7iRqIkM2JspUVoxpJ94D6Y"
+      },
+      "artists": [
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "John Von Dusk",
+          "url": "https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz"
+        },
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151922,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/0Up5rMt49ybOMOCqzs4JhJ"
     },
     {
       "album": {
@@ -14294,7 +14320,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
@@ -16445,6 +16471,28 @@
     },
     {
       "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/1h8mAy8Ijb7LCp9Qc6UUhO"
+      },
+      "artists": [
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "Natasha Ghosh",
+          "url": "https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/735qS1B80P22Z8f6SkZrbA"
+    },
+    {
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/1AKtyRhq0Fa8lgaoJyPRpF"
       },
@@ -18060,7 +18108,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 141052,
       "name": "We Belong Together (feat. Michael Hausted)",
       "url": "https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N"

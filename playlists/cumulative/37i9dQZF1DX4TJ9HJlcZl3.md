@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-119 songs - 7 hr 28 min
+120 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 | 2023-09-08 |  |
 | [Better Than Ever](https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:56 | 2023-09-08 | 2024-04-19 |
 | [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 | 2023-01-14 |
+| [Big Dipper](https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Big Dipper](https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ) | 3:08 | 2025-02-07 |  |
 | [Cheeky](https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Cheeky](https://open.spotify.com/album/25CyID8DgntGUEhcfK4kUk) | 2:39 | 2024-01-19 |  |
 | [CHIVALRY IS DEAD](https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [CHIVALRY IS DEAD](https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W) | 3:03 | 2023-10-13 |  |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2022-10-21 | 2024-06-29 |
@@ -43,7 +44,7 @@
 | [I Could Use A Miracle](https://open.spotify.com/track/1GQjRQXL6YcxLhlNAuOkiJ) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4Fj3lyL3PAxuYfCg7KQRS8) | 4:08 | 2022-10-21 | 2023-05-01 |
 | [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 | 2022-10-21 | 2023-08-19 |
 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 | 2022-10-21 | 2024-04-19 |
-| [I Don't Think We Should Wait](https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve) | 5:00 | 2022-10-21 |  |
+| [I Don't Think We Should Wait](https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve) | 5:00 | 2022-10-21 | 2025-02-08 |
 | [I Got It Bad For You](https://open.spotify.com/track/2zM2kPzcAxXBDPFoQeyOtS) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Songs From The Richest Man In The World](https://open.spotify.com/album/2ObQb0hsIrSExfoumkPHBP) | 3:16 | 2025-01-10 |  |
 | [I Want You Back](https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy) | [Bradley McCaw](https://open.spotify.com/artist/6WBjKhWSZmfAdHoeUIzaVR), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Louie Shelton](https://open.spotify.com/artist/2vJfIJtB4PLlIHICVf4V0N) | [I Want You Back](https://open.spotify.com/album/0CIe4u7zQdSYlZJjdRuf1q) | 4:03 | 2023-04-14 |  |
 | [I Wonder](https://open.spotify.com/track/2evv8aHR5IeiDTyGlmOOM3) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/4ju3ITVDX4cauQCRUcl8FK) | 4:11 | 2022-10-21 | 2023-06-24 |

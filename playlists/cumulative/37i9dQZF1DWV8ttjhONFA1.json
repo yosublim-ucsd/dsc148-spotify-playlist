@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Koino Yokan",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: \u00bfJuan Julian?",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -2619,6 +2619,28 @@
     },
     {
       "album": {
+        "name": "Fabricante de Alegr\u00edas",
+        "url": "https://open.spotify.com/album/1U2Tq2a9v2K44tmpri4H9a"
+      },
+      "artists": [
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Marcelo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/62vmUN3tpO93O4782Ac9um"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136278,
+      "name": "Fabricante de Alegr\u00edas",
+      "url": "https://open.spotify.com/track/16zlAwSS8hni66uHAEE8WN"
+    },
+    {
+      "album": {
         "name": "Festejemos",
         "url": "https://open.spotify.com/album/2BxTTdZC2ir2o3Nrg0tnSr"
       },
@@ -3332,7 +3354,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 210911,
       "name": "Las Voces",
       "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"

@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: Rooskin
 
-288 songs - 18 hr 49 min
+289 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dragonfly](https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 5:57 | 2023-10-05 |  |
 | [DREAMS!](https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [MOONSHOTS](https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53) | 3:11 | 2023-08-10 | 2023-08-18 |
 | [Drream](https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Drream](https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy) | 3:10 | 2023-08-24 | 2023-11-10 |
+| [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-07 |  |
 | [Dust](https://open.spotify.com/track/6OPH8mhQbsrWXLPOuL5Jhq) | [Peder](https://open.spotify.com/artist/222TzH91go6DByqjFQCOGl) | [The Coldest Man Alive](https://open.spotify.com/album/7G4eD5Q54hL87i2z9ismKj) | 3:02 | 2024-10-25 |  |
 | [Earth](https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Earth](https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S) | 3:23 | 2023-11-16 | 2024-12-21 |
 | [Earthly Times \- billy woods rework](https://open.spotify.com/track/13xE4sseIp2FSqcHWdQOBK) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Earthly Times \(billy woods rework\)](https://open.spotify.com/album/5HsBVXVIgCoQ2AnliVyUPE) | 3:11 | 2023-08-10 | 2023-08-25 |

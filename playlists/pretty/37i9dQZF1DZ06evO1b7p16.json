@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 38929,
+  "num_followers": 38937,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAADf+sZD4QHScnul0aufoCQH",
+  "snapshot_id": "Z6P7gAAAAAD5fG/c4/N3hyTpuEPgMVxL",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Summer, Man",
-      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tony Hawk's American Wasteland Soundtrack",
         "url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 191583,
       "name": "Beat Up Car",
       "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Us Two",
+        "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 228638,
+      "name": "Just Us Two",
+      "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
     },
     {
       "added_at": null,
@@ -787,26 +807,6 @@
       "duration_ms": 284360,
       "name": "Everything Must Go",
       "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Us Two",
-        "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 228638,
-      "name": "Just Us Two",
-      "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Anja Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,120 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,333 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 54 | [The Glow \- Klanglos Remix](https://open.spotify.com/track/47a42koNrTVJ8U0vM64nTq) | [Can Aydin](https://open.spotify.com/artist/1cHZ6ItejgYOQwmHHcKBQl), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [The Glow \(Klanglos Remix\)](https://open.spotify.com/album/2CXmocxTYgm9BSEmom01mN) | 5:56 |
 | 55 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
 | 56 | [Nocturno](https://open.spotify.com/track/42xu6utd30O1kAy3Q37YKd) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg), [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Nocturno](https://open.spotify.com/album/47BbVwDY6FHwNtSR9AIRRK) | 6:22 |
-| 57 | [Believe in Yourself \- Radio Edit](https://open.spotify.com/track/74JdHc6ANS6fayeTcdH07Q) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz) | [Excursions Pt\. 1](https://open.spotify.com/album/5ZPDrkwFzJ5rKoi6x5OzEY) | 3:27 |
+| 57 | [Believe in Yourself](https://open.spotify.com/track/74JdHc6ANS6fayeTcdH07Q) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz) | [Excursions Pt\. 1](https://open.spotify.com/album/5ZPDrkwFzJ5rKoi6x5OzEY) | 3:27 |
 | 58 | [Let Em' Know](https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Don't Stop EP](https://open.spotify.com/album/75CLnzlKbUiiiNdkiX8F0Z) | 3:21 |
 | 59 | [Make You Mine](https://open.spotify.com/track/5ic1Yl3EO1eqPVKTROEuCQ) | [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Make You Mine](https://open.spotify.com/album/0roaGlqZ79eVMHP7tN2GkS) | 2:40 |
 | 60 | [Only One](https://open.spotify.com/track/2OpzoqnnXQ6EyGERxGw46Z) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Only One](https://open.spotify.com/album/6nfCYAD5QYwUgwrBUqolyb) | 2:27 |

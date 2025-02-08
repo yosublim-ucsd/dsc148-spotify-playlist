@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
@@ -1076,6 +1076,24 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+    },
+    {
+      "album": {
+        "name": "Arm fell asleep",
+        "url": "https://open.spotify.com/album/6BDf31jpGIBShiFXzUdJC3"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288328,
+      "name": "Arm fell asleep",
+      "url": "https://open.spotify.com/track/1k8EbQ64geRSgIghSRfR9R"
     },
     {
       "album": {
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 163133,
       "name": "I Call To You",
       "url": "https://open.spotify.com/track/0xGcFW7E9ZKRXmP7MH2cmM"
@@ -6027,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208274,
+      "name": "ict",
+      "url": "https://open.spotify.com/track/6aUr8iLB8hfp9z2xMv1X5X"
+    },
+    {
+      "album": {
         "name": "Essential Mixtape",
         "url": "https://open.spotify.com/album/1RPWcvh3EzFv0VRqAMVwV7"
       },
@@ -6248,7 +6284,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 235000,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/3KG0YB2FmSuuCSWxlfky7s"
@@ -10082,7 +10118,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 195546,
       "name": "snowpool",
       "url": "https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu"
@@ -10498,6 +10534,24 @@
       "duration_ms": 233416,
       "name": "Spring Is Coming With A Strawberry In The Mouth",
       "url": "https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr"
+    },
+    {
+      "album": {
+        "name": "St Magdalene\u2019s Wood",
+        "url": "https://open.spotify.com/album/4DYHuEziVKkhFUlgaFDIt5"
+      },
+      "artists": [
+        {
+          "name": "Kelora",
+          "url": "https://open.spotify.com/artist/1KtfXUgc4Xkt0s7trUsmjP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245053,
+      "name": "St Magdalene\u2019s Wood",
+      "url": "https://open.spotify.com/track/1wji5ECCOnmIvCfAnGlzJF"
     },
     {
       "album": {
@@ -12148,7 +12202,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 129554,
       "name": "Video Music",
       "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
@@ -12448,7 +12502,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 378332,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/17R2aajQzh7XyR4b9pnggt"
@@ -12712,7 +12766,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"

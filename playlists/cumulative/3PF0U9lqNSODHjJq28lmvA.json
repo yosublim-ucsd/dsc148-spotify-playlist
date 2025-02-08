@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/54e82Pge93CBfN7txY4o0v"
+      },
+      "artists": [
+        {
+          "name": "TiTi",
+          "url": "https://open.spotify.com/artist/47fG6LJKwGHXDw3Q2LU3cK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483840,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/4UonYOSQgecCsM5qvSsXnu"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/0jSeQX0GlxRj204kdR7gTk"
       },
@@ -1266,6 +1284,24 @@
       "duration_ms": 147692,
       "name": "Ajatuksii",
       "url": "https://open.spotify.com/track/4rOlQ47VksSjFdV4mmqtDt"
+    },
+    {
+      "album": {
+        "name": "Ajatuskatkolla",
+        "url": "https://open.spotify.com/album/16Yhrn28F63KZfcwaUm4BF"
+      },
+      "artists": [
+        {
+          "name": "Huge L",
+          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Ajatuskatkolla",
+      "url": "https://open.spotify.com/track/1XfxDeezisDeOOII7xKns0"
     },
     {
       "album": {
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 138000,
       "name": "ALOHA HAWAII",
       "url": "https://open.spotify.com/track/0smBlg56vgwAM3NF8EndJ4"
@@ -4228,7 +4264,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 253507,
       "name": "Birds",
       "url": "https://open.spotify.com/track/3Xkcq0HeNxiTBC6jx5F9js"
@@ -12326,7 +12362,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 204853,
       "name": "En andra sista chans",
       "url": "https://open.spotify.com/track/5qpIM4nlfJA40knfPhu3ou"
@@ -17118,7 +17154,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 418838,
       "name": "Goodbye Ziggy Stardust",
       "url": "https://open.spotify.com/track/0hdekznWjIcj7TvSF7umoI"
@@ -19970,7 +20006,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179121,
       "name": "I am alone again",
       "url": "https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap"
@@ -22356,7 +22392,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 185142,
       "name": "Jelly's Chicken Fried Chicken Dance",
       "url": "https://open.spotify.com/track/7GFIlcV2RTfj1ceKmA3VZS"
@@ -28839,6 +28875,24 @@
     },
     {
       "album": {
+        "name": "Moves",
+        "url": "https://open.spotify.com/album/55epvMKzrq4wzmkc7iakC4"
+      },
+      "artists": [
+        {
+          "name": "The Garden Leave",
+          "url": "https://open.spotify.com/artist/2a19Styur29GsN6aH2KhLt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257880,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/1uvsEbjfEgKRPOqGHiJYli"
+    },
+    {
+      "album": {
         "name": "Thank You For The Invitation",
         "url": "https://open.spotify.com/album/07YNZsOFhu9XkBJUN0NOb4"
       },
@@ -28894,6 +28948,24 @@
       "duration_ms": 130759,
       "name": "Mum, I Wanna Be a Greaser",
       "url": "https://open.spotify.com/track/2FGkj68su7xwzhusVINUpV"
+    },
+    {
+      "album": {
+        "name": "mumbl",
+        "url": "https://open.spotify.com/album/6lKuG70DfEBHmiwZn9N4ep"
+      },
+      "artists": [
+        {
+          "name": "ailias",
+          "url": "https://open.spotify.com/artist/6x5wrokIsPXFHJN45EiAsp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118352,
+      "name": "mumbl",
+      "url": "https://open.spotify.com/track/3ZDOP0kkG4yNEd3jbK3cvy"
     },
     {
       "album": {
@@ -31942,6 +32014,24 @@
       "duration_ms": 197819,
       "name": "One Star",
       "url": "https://open.spotify.com/track/5VWqxo9Qm50oWVsp7aIXcD"
+    },
+    {
+      "album": {
+        "name": "NIGHT KLUB",
+        "url": "https://open.spotify.com/album/4RIan65wPiRQeGjyYxw46c"
+      },
+      "artists": [
+        {
+          "name": "KYMA",
+          "url": "https://open.spotify.com/artist/34WwUS1xwAUOaud53F2zQr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198041,
+      "name": "Oniro (K)",
+      "url": "https://open.spotify.com/track/4zG1QOECjRHrLxLUC3YYH6"
     },
     {
       "album": {
@@ -36157,6 +36247,24 @@
     },
     {
       "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/2O6K8QlH45SrwaSzVn7xX0"
+      },
+      "artists": [
+        {
+          "name": "Moranis",
+          "url": "https://open.spotify.com/artist/4yyVqVbxxTtnIjY6wABvKc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392321,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/7jiRUEhHuQwWzbnRQpagsP"
+    },
+    {
+      "album": {
         "name": "Roundabout Ruse",
         "url": "https://open.spotify.com/album/28e7bGbU73vpku03EZiNtQ"
       },
@@ -37216,7 +37324,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 218453,
       "name": "Selfish Heart",
       "url": "https://open.spotify.com/track/30sowAkTk06nb2rk5Ywioc"
@@ -39554,7 +39662,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 166168,
       "name": "Sometimes always",
       "url": "https://open.spotify.com/track/3ugA3NsCvyuP7ewHDgFOGu"
@@ -42120,7 +42228,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 328999,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/67iEaKTb96xJiZuCPqRDuI"
@@ -42250,6 +42358,24 @@
       "duration_ms": 489603,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6nQMv92fHCInqqWLFI75jM"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Mirrors",
+          "url": "https://open.spotify.com/artist/3KZD02FB9WTcEcUNOxJJrW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235420,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO"
     },
     {
       "album": {
@@ -44069,6 +44195,24 @@
     },
     {
       "album": {
+        "name": "there goes my heart",
+        "url": "https://open.spotify.com/album/3x8btzvYXhpSXKI5MsxU2C"
+      },
+      "artists": [
+        {
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226729,
+      "name": "there goes my heart",
+      "url": "https://open.spotify.com/track/5FsIVsQvAgqTywYQs4p14q"
+    },
+    {
+      "album": {
         "name": "There Will Be Oceans",
         "url": "https://open.spotify.com/album/4hGhAc31KMPfBJOHe9v8vz"
       },
@@ -44464,6 +44608,24 @@
       "duration_ms": 168774,
       "name": "Ti hi hii",
       "url": "https://open.spotify.com/track/74yZnpDEassHmaUqXoKL64"
+    },
+    {
+      "album": {
+        "name": "B-SIDOR",
+        "url": "https://open.spotify.com/album/3xH6lxKQryhEHuuiOutx7C"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Ehlin",
+          "url": "https://open.spotify.com/artist/6DRJCiYgeObRhHZE2dZ54W"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174962,
+      "name": "Tid och Rum",
+      "url": "https://open.spotify.com/track/0shJgeOiPYVwPO0so1E84H"
     },
     {
       "album": {
@@ -48084,7 +48246,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 167372,
       "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
       "url": "https://open.spotify.com/track/7jytzRRUPLeDP0FrBEDIau"
@@ -48414,6 +48576,24 @@
       "duration_ms": 163902,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/7wySsTNOmbNSHTTTo4pLA3"
+    },
+    {
+      "album": {
+        "name": "When I Know Her",
+        "url": "https://open.spotify.com/album/5a4buMrAv3p4EyBod946ae"
+      },
+      "artists": [
+        {
+          "name": "moonweather",
+          "url": "https://open.spotify.com/artist/2jTReqlg8DnjfZtCq3RzgV"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134066,
+      "name": "When I Know Her",
+      "url": "https://open.spotify.com/track/5JoX311i1XC6LXGhueZb2O"
     },
     {
       "album": {
@@ -49062,6 +49242,24 @@
       "duration_ms": 190796,
       "name": "Wind and Earth (Unfold)",
       "url": "https://open.spotify.com/track/1t3NRrAtG7U91FHxwclK1i"
+    },
+    {
+      "album": {
+        "name": "Winter Flowers",
+        "url": "https://open.spotify.com/album/38gdunrUuxg4jMiI5ZluIh"
+      },
+      "artists": [
+        {
+          "name": "The Night Parrots",
+          "url": "https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263076,
+      "name": "Winter Flowers",
+      "url": "https://open.spotify.com/track/5eFPFnkG2R1KaOOaO10HVl"
     },
     {
       "album": {

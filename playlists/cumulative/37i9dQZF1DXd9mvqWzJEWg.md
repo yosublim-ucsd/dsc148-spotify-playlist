@@ -2,7 +2,7 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> Get ready for After 5 with this <a href="https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr?si=ORpbDLmbQfKi44Yf2GKaoQ">Surreal Sessions</a> take over.
+> Get ready for After 5 with this <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=XwrW3IilSpi1gtISAgvPaA">Surreal Sessions</a> take over.
 
 297 songs - 1 day 2 hr 26 min
 

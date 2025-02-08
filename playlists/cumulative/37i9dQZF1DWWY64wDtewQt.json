@@ -1927,6 +1927,28 @@
     },
     {
       "album": {
+        "name": "Beeper Funk (Slowed)",
+        "url": "https://open.spotify.com/album/5eEfzNcFaXPsBXJzkPiD3S"
+      },
+      "artists": [
+        {
+          "name": "DJ Paulinho Mondi Da Baixa Baviera",
+          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
+        },
+        {
+          "name": "Mc Vitorioso",
+          "url": "https://open.spotify.com/artist/0sjGfRBmq6lKmUNgt8Ptic"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103375,
+      "name": "Beeper Funk - Slowed",
+      "url": "https://open.spotify.com/track/02WKo37gebkkQKor2TCuTk"
+    },
+    {
+      "album": {
         "name": "BIBI FODE DAN\u00c7A",
         "url": "https://open.spotify.com/album/47AO9AnERHiEwocwd55kNp"
       },
@@ -10654,7 +10676,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 114624,
       "name": "Override",
       "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
@@ -12326,7 +12348,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 153529,
       "name": "robot rock (funk)",
       "url": "https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl"
@@ -13150,6 +13172,36 @@
       "duration_ms": 151135,
       "name": "SLAUGHTER HOUSE",
       "url": "https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy"
+    },
+    {
+      "album": {
+        "name": "EVOLUTION FUNK VOL. II",
+        "url": "https://open.spotify.com/album/25S0wOuNrX6LWULW6UKT6H"
+      },
+      "artists": [
+        {
+          "name": "MVSTERIOUS",
+          "url": "https://open.spotify.com/artist/5mU6enX6pYYKEs0zfRkm1R"
+        },
+        {
+          "name": "Hxmr",
+          "url": "https://open.spotify.com/artist/6VzAVLJ85EjjG002V4j7ka"
+        },
+        {
+          "name": "yngastrobeatz.",
+          "url": "https://open.spotify.com/artist/5sZrMlmLdssEPC5EsdPMhm"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113161,
+      "name": "SLAVA FUNK!",
+      "url": "https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme"
     },
     {
       "album": {

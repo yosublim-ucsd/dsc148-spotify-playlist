@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,723 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,753 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Palisade](https://open.spotify.com/track/41NMIeXVq8UTFx9S8FZdSN) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Palisade](https://open.spotify.com/album/7FWb13yiqDAf96ueX5Tlzy) | 4:38 |
+| 1 | [Medallion](https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Medallion](https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C) | 4:29 |
 | 2 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 |
 | 3 | [Martyr](https://open.spotify.com/track/3CFTaiMhS6Xytvj8QalZd2) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End III](https://open.spotify.com/album/4xHzD9gbKPqnFNR0j8vHRL) | 4:16 |
 | 4 | [Cool 7](https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e), [Jared Yee](https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0) | [Cool 7](https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `Z4CpWAAAAAAYvmZ0HHJ598Y4kDzT1y4e`
+Snapshot ID: `Z6WTZAAAAAAcMo6FeaHXoGGpR9mIr/Oz`

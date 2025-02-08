@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 152218,
+  "num_followers": 152252,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
-      },
-      "artists": [
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 273994,
-      "name": "N\u00e3o Te Abandono",
-      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Confiss\u00f5es",
         "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 248398,
       "name": "Reina",
       "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+      },
+      "artists": [
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 273994,
+      "name": "N\u00e3o Te Abandono",
+      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "N\u00e3o Sou T\u00e3o Forte",
+        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 235309,
+      "name": "Botas Velhas",
+      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Claro e Certo",
         "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 241840,
       "name": "Claro e Certo",
       "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "N\u00e3o Sou T\u00e3o Forte",
-        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 235309,
-      "name": "Botas Velhas",
-      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Eu Quero Voltar",
+        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
+      },
+      "artists": [
+        {
+          "name": "Lancellote",
+          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
+        }
+      ],
+      "duration_ms": 213762,
+      "name": "Eu Quero Voltar",
+      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 282932,
       "name": "Asas",
       "url": "https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Eu Quero Voltar",
-        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
-      },
-      "artists": [
-        {
-          "name": "Lancellote",
-          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
-        }
-      ],
-      "duration_ms": 213762,
-      "name": "Eu Quero Voltar",
-      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2024-08-30 03:01:00",

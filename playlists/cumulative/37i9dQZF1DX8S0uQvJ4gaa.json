@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Cameron Whitcomb",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Old Dominion",
   "name": "New Boots",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 203828,
       "name": "5 to 9",
       "url": "https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
@@ -1770,6 +1770,24 @@
       "duration_ms": 172213,
       "name": "Always Gonna Be",
       "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
+    },
+    {
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Always Gonna Be",
+      "url": "https://open.spotify.com/track/6BCcv9rV4nLMfV2jChwAV8"
     },
     {
       "album": {
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 176000,
       "name": "Best of My 20's (feat. Trousdale)",
       "url": "https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB"
@@ -14910,7 +14928,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197071,
       "name": "Happy Ever After You",
       "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
@@ -14986,6 +15004,28 @@
       "duration_ms": 178419,
       "name": "Hard Days",
       "url": "https://open.spotify.com/track/2AqbOAAgaNRygNIJYcM69I"
+    },
+    {
+      "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
       "album": {
@@ -17220,7 +17260,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208626,
       "name": "Honkytonk Hollywood",
       "url": "https://open.spotify.com/track/4es3mFowZGwyLc7x5Qq0ej"
@@ -19109,6 +19149,28 @@
     },
     {
       "album": {
+        "name": "I Wish You Would (ft. Midland)",
+        "url": "https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173499,
+      "name": "I Wish You Would (ft. Midland)",
+      "url": "https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
       },
@@ -19925,6 +19987,24 @@
     },
     {
       "album": {
+        "name": "In Case You Missed It",
+        "url": "https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165611,
+      "name": "In Case You Missed It",
+      "url": "https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ"
+    },
+    {
+      "album": {
         "name": "In God and Trucks We Trust",
         "url": "https://open.spotify.com/album/72rJe02s12lI0RJzXBJpqv"
       },
@@ -20240,6 +20320,24 @@
       "duration_ms": 183239,
       "name": "It's Your Loss",
       "url": "https://open.spotify.com/track/33MjadpoADMBIZbPOQ2d7y"
+    },
+    {
+      "album": {
+        "name": "It's The Little Things",
+        "url": "https://open.spotify.com/album/12ZwQQvd4FX3DgZODo3lSN"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230644,
+      "name": "It\u2019s The Little Things",
+      "url": "https://open.spotify.com/track/3MGkaaSUgm40GOZT4fuVFb"
     },
     {
       "album": {
@@ -21174,7 +21272,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169838,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/22iwbZQN8Mg7NkDr3OephE"
@@ -22596,7 +22694,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 209038,
       "name": "Losers (Feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
@@ -23450,6 +23548,24 @@
       "duration_ms": 186457,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/0MFu8pac3GHjZiZNyOPSrJ"
+    },
+    {
+      "album": {
+        "name": "Making Good Time",
+        "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Making Good Time",
+      "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
     },
     {
       "album": {
@@ -24515,6 +24631,24 @@
     },
     {
       "album": {
+        "name": "Mine Tomorrow",
+        "url": "https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200757,
+      "name": "Mine Tomorrow",
+      "url": "https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV"
+    },
+    {
+      "album": {
         "name": "Minimum Wage",
         "url": "https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX"
       },
@@ -24620,7 +24754,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 198158,
       "name": "Miss You So (Letters To You)",
       "url": "https://open.spotify.com/track/5jKoCHR5URBRhPjlxTAyCG"
@@ -25586,6 +25720,24 @@
       "duration_ms": 158178,
       "name": "Need This",
       "url": "https://open.spotify.com/track/6xuKOMw53c8FlU7lDvCfJN"
+    },
+    {
+      "album": {
+        "name": "Need To",
+        "url": "https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Need To",
+      "url": "https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN"
     },
     {
       "album": {
@@ -27218,7 +27370,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 244286,
       "name": "Oh Susannah",
       "url": "https://open.spotify.com/track/21olHYu651XrLmMql9mxPW"
@@ -32332,7 +32484,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 165988,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/56EhacvQF6dOcyjenle4tq"
@@ -33358,6 +33510,24 @@
       "duration_ms": 152807,
       "name": "Something To Dance To",
       "url": "https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu"
+    },
+    {
+      "album": {
+        "name": "Something to You",
+        "url": "https://open.spotify.com/album/3VOErOnbkiq9ZadCRxX5vm"
+      },
+      "artists": [
+        {
+          "name": "McCoy Moore",
+          "url": "https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Something to You",
+      "url": "https://open.spotify.com/track/21eiOnxVlk996lavh1nrW5"
     },
     {
       "album": {
@@ -43098,6 +43268,24 @@
       "duration_ms": 225813,
       "name": "You Didn\u2019t",
       "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "album": {
+        "name": "You Didn\u2019t Hear It From Me",
+        "url": "https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i"
     },
     {
       "album": {

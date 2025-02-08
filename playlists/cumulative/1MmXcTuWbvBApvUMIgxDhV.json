@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/0MePgZiFUPuBQVraBKqfI1"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202081,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/18vBWHc5Xfap9KBvRmjyGr"
+    },
+    {
+      "album": {
         "name": "take me on",
         "url": "https://open.spotify.com/album/0bFDNLvbE7GTHfUasrLy7p"
       },

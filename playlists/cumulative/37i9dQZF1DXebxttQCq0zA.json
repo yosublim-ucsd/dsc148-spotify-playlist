@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Along the Way",
+        "url": "https://open.spotify.com/album/0xauq0fJIvU1zLt4V9c4bD"
+      },
+      "artists": [
+        {
+          "name": "Koma",
+          "url": "https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167605,
+      "name": "Along the Way",
+      "url": "https://open.spotify.com/track/6vNFvvF0dg4LVW6LeUmcbN"
+    },
+    {
+      "album": {
         "name": "Already Missing Summer",
         "url": "https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208000,
       "name": "Anirual",
       "url": "https://open.spotify.com/track/5X3UiiOUn1REPps2Gq4Cv2"
@@ -3275,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Heart Strings",
+        "url": "https://open.spotify.com/album/4paf6UcoyN5XVjQcr7KUTE"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Heart Strings",
+      "url": "https://open.spotify.com/track/4Qd3aMPKRUuTo2ZyD21hGr"
+    },
+    {
+      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh"
       },
@@ -3682,7 +3718,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 147500,
       "name": "Inner River",
       "url": "https://open.spotify.com/track/2ZHtE6Gdq09hEV4YdKurd5"
@@ -3905,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0S4T1LqClq25gIgArxCsAl"
+      },
+      "artists": [
+        {
+          "name": "Calma Interiore",
+          "url": "https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1urCMjG4bg6VAQD8vzJHv8"
+    },
+    {
+      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
       },
@@ -3952,7 +4006,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169754,
       "name": "Light Rest",
       "url": "https://open.spotify.com/track/58QLCa2HJxU4U2MnpNopLj"
@@ -4067,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "Low Sugar Rest",
+        "url": "https://open.spotify.com/album/1aZzJynkMDolOm3KJS1r9k"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152438,
+      "name": "Low Sugar Rest",
+      "url": "https://open.spotify.com/track/3aMWliXgEzcHmrbNB4HnZl"
+    },
+    {
+      "album": {
         "name": "Lugnet",
         "url": "https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ"
       },
@@ -4082,6 +4154,24 @@
       "duration_ms": 159500,
       "name": "Lugnet",
       "url": "https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg"
+    },
+    {
+      "album": {
+        "name": "Lull",
+        "url": "https://open.spotify.com/album/5BcI4DwruUvUp9X8qdIeOZ"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Lull",
+      "url": "https://open.spotify.com/track/1Dfabl6cD5EzLzpKGwDXYp"
     },
     {
       "album": {
@@ -4787,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "New Growth",
+        "url": "https://open.spotify.com/album/40J8nv4727cjyEZdqtlX4C"
+      },
+      "artists": [
+        {
+          "name": "Broadleaf Radio",
+          "url": "https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "New Growth",
+      "url": "https://open.spotify.com/track/6ofre1KWK7X47BXl8vvMCl"
+    },
+    {
+      "album": {
         "name": "Newborn Soul",
         "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
       },
@@ -4820,6 +4928,24 @@
       "duration_ms": 166678,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
+    },
+    {
+      "album": {
+        "name": "Night Signs",
+        "url": "https://open.spotify.com/album/2MsGZapHmp1infQN7XTFDZ"
+      },
+      "artists": [
+        {
+          "name": "Bon Vie",
+          "url": "https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171698,
+      "name": "Night Signs",
+      "url": "https://open.spotify.com/track/5yr8TDS6A3FMrM36xkEYHr"
     },
     {
       "album": {
@@ -4910,6 +5036,24 @@
       "duration_ms": 146157,
       "name": "Norrsken",
       "url": "https://open.spotify.com/track/7CKEwdroqVwANCOaxNxMJJ"
+    },
+    {
+      "album": {
+        "name": "northern lights",
+        "url": "https://open.spotify.com/album/3qQR5EapUTTrGRupps1xKg"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "northern lights",
+      "url": "https://open.spotify.com/track/0tyzmd5KBrAsZconCuzWzw"
     },
     {
       "album": {
@@ -5360,6 +5504,24 @@
       "duration_ms": 168180,
       "name": "Peaks",
       "url": "https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv"
+    },
+    {
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/0SFlPO4VHbBgRv56ceFtI9"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146216,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/0lxs9clbppskonABJ9do1k"
     },
     {
       "album": {
@@ -6688,7 +6850,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 153000,
       "name": "Soft Daydreams",
       "url": "https://open.spotify.com/track/3WHolzou7eg5DPEMhijvsx"
@@ -6746,6 +6908,24 @@
       "duration_ms": 192000,
       "name": "Somnio Somnium",
       "url": "https://open.spotify.com/track/2wBkAPmTIQtQtg4ZCpy5dC"
+    },
+    {
+      "album": {
+        "name": "Somnolentia",
+        "url": "https://open.spotify.com/album/0KFFGsHmm9BZwQUvti6avT"
+      },
+      "artists": [
+        {
+          "name": "Aether Deem",
+          "url": "https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Somnolentia",
+      "url": "https://open.spotify.com/track/3ZXVX763LxuwJunc7JYrlD"
     },
     {
       "album": {
@@ -6908,6 +7088,24 @@
       "duration_ms": 211000,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/6oVsQtNZKr5LjNRPSOprTr"
+    },
+    {
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/722wIphNqhdb9zKi7pVeCK"
+      },
+      "artists": [
+        {
+          "name": "Lumen Sonitus",
+          "url": "https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173272,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/55fwivxJj2b0shqBsJTSQW"
     },
     {
       "album": {
@@ -7613,6 +7811,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Tides",
+        "url": "https://open.spotify.com/album/6nkZLa37cOB0TTZwMqqjyz"
+      },
+      "artists": [
+        {
+          "name": "Lapeito",
+          "url": "https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Tranquil Tides",
+      "url": "https://open.spotify.com/track/4pNXwWBkwfV64DdNQngvJs"
+    },
+    {
+      "album": {
         "name": "Frangibility",
         "url": "https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX"
       },
@@ -7750,7 +7966,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,078 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,066 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 45 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 |
 | 46 | [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 |
 | 47 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 |
-| 48 | [On the Move \(feat\. Cannons\)](https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Adult Contemporary \(Deluxe\)](https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8) | 2:41 |
+| 48 | [On the Move \- feat\. Cannons](https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Adult Contemporary \(Deluxe\)](https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8) | 2:41 |
 | 49 | [Deadbeat Blues \(feat\. BEL\)](https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Deadbeat Blues](https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk) | 2:34 |
 | 50 | [Better Now](https://open.spotify.com/track/2dpkNnCGyXZEDCekYxr4aJ) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Better Now](https://open.spotify.com/album/6Zc8nyY4mUPofVxMygU1m0) | 2:43 |
 

@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: Wolfacejoeyy, Cash Cobain and Chow Lee
 
-87 songs - 4 hr 3 min
+88 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-25 |  |
 | [Come Outside \(So Sick\)](https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 2:40 | 2024-11-08 |  |
 | [Confession](https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Confession](https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss) | 2:52 | 2024-10-25 |  |
-| [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 | 2024-10-25 |  |
+| [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 | 2024-10-25 | 2025-02-08 |
 | [Dallas](https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Dallas](https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4) | 2:56 | 2024-11-06 |  |
 | [Daylight](https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Daylight](https://open.spotify.com/album/1luRfnNDvf6dpIRDlWjk7O) | 3:49 | 2024-10-25 |  |
 | [Dip](https://open.spotify.com/track/7eSsYyu7NEbqsDhP27H5pd) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dip](https://open.spotify.com/album/6b2nQgSkNV7bdeQ2xVoPHm) | 1:39 | 2024-12-20 |  |
@@ -85,6 +85,7 @@
 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 | 2024-10-25 |  |
 | [The Best](https://open.spotify.com/track/54mrCPoOQmXARvk5aOsAS9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:35 | 2024-10-25 |  |
 | [THE CREATORS](https://open.spotify.com/track/0rWZT7VZuMDSjFKgEpjSd2) | [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [SEXIEST PLACE ON EARTH](https://open.spotify.com/album/7aMhL4nTy7Bg52Moi6P2ba) | 3:04 | 2024-10-25 |  |
+| [The Method](https://open.spotify.com/track/34d0q4ltS3Lx6JAEHHKPRn) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [The Method](https://open.spotify.com/album/6mVBWkURIWDKP1wUEjzsM3) | 2:29 | 2025-02-07 |  |
 | [This Sh!T Still in Harlem](https://open.spotify.com/track/7BuxLux3Mn2z0Fl58RxCKU) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Suzi](https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv) | [This Sh!T Still in Harlem](https://open.spotify.com/album/372Hn8bkMUBWvO2ydf26C4) | 2:02 | 2024-12-20 |  |
 | [TOP OF THE MORNING](https://open.spotify.com/track/1XS4KQ4LNFP5GQh9vGkDWz) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [TOP OF THE MORNING](https://open.spotify.com/album/1jDSqOQGp7irKjkIebKTFB) | 3:25 | 2025-01-10 |  |
 | [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 | 2025-01-24 |  |

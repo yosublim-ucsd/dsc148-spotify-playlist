@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Koino Yokan
+> El nuevo sonido argentino lo encontrás acá\. Foto: ¿Juan Julian?
 
-335 songs - 18 hr 22 min
+336 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [esta noche](https://open.spotify.com/track/5CpIZowavsFFsGf7GeQAuh) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [esta noche](https://open.spotify.com/album/06ytKZCrkhW4xcc73EyqXX) | 2:59 | 2024-03-01 | 2024-04-06 |
 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 | 2024-04-05 | 2024-10-05 |
 | [Extrañándote](https://open.spotify.com/track/3o4B9p50LP4eocV2DN9cRw) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [La Cura](https://open.spotify.com/album/5izhiFfPTXm6J1TwJAXT30) | 3:13 | 2024-07-12 | 2024-10-19 |
+| [Fabricante de Alegrías](https://open.spotify.com/track/16zlAwSS8hni66uHAEE8WN) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Marcelo López](https://open.spotify.com/artist/62vmUN3tpO93O4782Ac9um) | [Fabricante de Alegrías](https://open.spotify.com/album/1U2Tq2a9v2K44tmpri4H9a) | 2:16 | 2025-02-07 |  |
 | [Festejemos](https://open.spotify.com/track/4toTjDlXShrN3iMrntu0QZ) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Festejemos](https://open.spotify.com/album/2BxTTdZC2ir2o3Nrg0tnSr) | 3:07 | 2024-08-02 | 2024-09-14 |
 | [Fin del día](https://open.spotify.com/track/1mhd6f0hYGv9hBaLcn3Iht) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Fin del día](https://open.spotify.com/album/30jaBEl7Srt9oatIiZ890j) | 4:37 | 2024-08-30 |  |
 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 | 2024-03-08 | 2024-05-25 |
@@ -180,7 +181,7 @@
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 | 2024-08-03 |
 | [Lara](https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Lara](https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6) | 3:18 | 2024-10-04 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-12-15 | 2024-03-02 |
-| [Las Voces](https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP) | 3:30 | 2024-04-05 |  |
+| [Las Voces](https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP) | 3:30 | 2024-04-05 | 2025-02-08 |
 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 | 2024-05-03 |
 | [Leopardos](https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Leopardos](https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg) | 3:18 | 2024-01-12 |  |
 | [Libros y Gente](https://open.spotify.com/track/0NVvNt05tdDca2BO80gHMy) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Libros y Gente](https://open.spotify.com/album/2KGr8C1Z3DiMAZdiiKPfSh) | 3:35 | 2024-10-11 |  |

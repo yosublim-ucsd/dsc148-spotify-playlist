@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 
 > 
 
-[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 7,195 likes - 86 songs - 5 hr 0 min
+[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 7,200 likes - 87 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,6 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 | 84 | [Dreaming in Electric Blue](https://open.spotify.com/track/2aX7dnPxhMp5kyV6bRD78t) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [La Felix](https://open.spotify.com/artist/0DUnNI76VRzVoht3t9FrIV) | [Dreaming in Electric Blue](https://open.spotify.com/album/1h7FuiTWs5IP88uQNLDfrr) | 3:12 |
 | 85 | [June](https://open.spotify.com/track/0o9YSdVpcQTPppyDwDeWY9) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:21 |
 | 86 | [Workin' on Lovin'](https://open.spotify.com/track/31FE5PNTIS51l1OR8Jb2cy) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Workin' on Lovin'](https://open.spotify.com/album/4GSCxebidDdcCIMgljn7gq) | 3:54 |
+| 87 | [Symphony](https://open.spotify.com/track/18vBWHc5Xfap9KBvRmjyGr) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Symphony](https://open.spotify.com/album/0MePgZiFUPuBQVraBKqfI1) | 3:22 |
 
-Snapshot ID: `AAABIow1KZV2GV+p4vq9LXgQfDQp1uje`
+Snapshot ID: `AAABIzk3lUTildkSsXsB/A9qrPLXnOtJ`

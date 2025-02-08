@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af  Lady Gaga, Doechii, \u306a\u3068\u308a, Perfume, Elton John and more! cover: Lady Gaga",
-  "num_followers": 117136,
+  "num_followers": 117310,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,82 @@
     {
       "added_at": "2025-02-06 15:00:21",
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Popstar Shawty",
+      "url": "https://open.spotify.com/track/0G9hUJHlIUY975GtXQ9uxk"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "Keep It",
+        "url": "https://open.spotify.com/album/7HV9vePbQOjxInYeHILjbG"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 173117,
+      "name": "Keep It",
+      "url": "https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "CAN WE LIVE?",
+        "url": "https://open.spotify.com/album/01MoHXRkIxIiJiRmqjlxov"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "B.O.A Mook",
+          "url": "https://open.spotify.com/artist/2LScPi7kKtHiWfhFCrzSww"
+        }
+      ],
+      "duration_ms": 212850,
+      "name": "CAN WE LIVE?",
+      "url": "https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
+        "name": "Toot It Up",
+        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Toot It Up",
+      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
+    },
+    {
+      "added_at": "2025-02-06 15:00:21",
+      "album": {
         "name": "TWENTIES",
         "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
       },
@@ -561,7 +637,7 @@
         },
         {
           "name": "Leno",
-          "url": "https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G"
+          "url": "https://open.spotify.com/artist/3LtJ6guaKmBs18xm99BzUC"
         }
       ],
       "duration_ms": 213928,

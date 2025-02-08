@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Lino Krizz
 
-103 songs - 6 hr 10 min
+104 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Atenção!](https://open.spotify.com/track/4b6MEmZBgjEqevMEiIO0BI) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), [Davi Horta](https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD), [Daniel Souza](https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [LUAR](https://open.spotify.com/artist/1Xx7ZBh8sm7gy8db7xUGy3) | [Atenção!](https://open.spotify.com/album/5336HasldqLfPAwj2Pp8Et) | 3:35 | 2024-10-11 |  |
 | [Bala Doce](https://open.spotify.com/track/6740tFiff0CZAL5TZNZFT0) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/5n1z0veQcZg6s7dTxQ7hKo) | 2:53 | 2023-12-08 | 2024-04-19 |
 | [Bala Doce](https://open.spotify.com/track/6lpUGFfa0XzqsnqbKNa4rC) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/7eNtMTiMyJOc0tRoYXyBwE) | 2:53 | 2024-03-29 |  |
+| [Banho de Folhas \- Ao vivo](https://open.spotify.com/track/69E6OySGJuNR0TuWKIHY3S) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'água \(Ao vivo\)](https://open.spotify.com/album/6kzIGJqI6cwDiWcegkFpDo) | 5:53 | 2025-02-07 |  |
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-15 |  |
 | [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 | 2023-12-08 | 2024-12-07 |
 | [BRASIL TÁ EM FESTA!](https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DISCO VOADOR](https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd) | 2:23 | 2023-12-08 |  |
@@ -38,7 +39,7 @@
 | [Derrete](https://open.spotify.com/track/7CRkPyNdM9KvvliymmrgV1) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8), [Allure Dayo](https://open.spotify.com/artist/5QXS66BHpTWa3WXKgVbsNx) | [Derrete](https://open.spotify.com/album/5s1HAwaUOQoO10Yf0hik0Z) | 5:03 | 2023-12-08 |  |
 | [Dia Bom](https://open.spotify.com/track/7zzd7q2VoU8Dkgori4rgCc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:43 | 2023-12-08 |  |
 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2023-12-08 |  |
-| [Escolhi Ser Feliz](https://open.spotify.com/track/46Mbf2x3j3qJidTWfmt23u) | [Josimar Prince](https://open.spotify.com/artist/2pQWEVffdxDEZEsWdRTUPz) | [Escolhi Ser Feliz](https://open.spotify.com/album/5lbtSIdSEelRqUM4eBOTqj) | 4:16 | 2024-01-19 |  |
+| [Escolhi Ser Feliz](https://open.spotify.com/track/46Mbf2x3j3qJidTWfmt23u) | [Josimar Prince](https://open.spotify.com/artist/2pQWEVffdxDEZEsWdRTUPz) | [Escolhi Ser Feliz](https://open.spotify.com/album/5lbtSIdSEelRqUM4eBOTqj) | 4:16 | 2024-01-19 | 2025-02-08 |
 | [Estou Voltando](https://open.spotify.com/track/3uI7Koma7Wih7h1QawYXDl) | [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m), [Supergroove](https://open.spotify.com/artist/3fZ6M7e4ebc0mlYcPzr3gx) | [Estou Voltando](https://open.spotify.com/album/2hf3H1KEoYeMsadLkmGKL2) | 4:20 | 2023-12-08 |  |
 | [Estágio no Perigo \- Ao Vivo](https://open.spotify.com/track/2ri27ws9R91ziLyxJCUDME) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Estágio no Perigo \(Ao Vivo\)](https://open.spotify.com/album/6FZ5K4joOlKrVBmUz1ByCi) | 4:37 | 2023-12-08 | 2024-05-11 |
 | [Eu Amo Você](https://open.spotify.com/track/4ayrJ6rLRC7nada2lltu9y) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cedo Ou Tarde](https://open.spotify.com/album/2dWQkB5HYchP8PqLBq8PgD) | 4:10 | 2023-12-08 |  |

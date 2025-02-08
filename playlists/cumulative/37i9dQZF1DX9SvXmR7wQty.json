@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Yoa",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rymz, Souldia",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179555,
       "name": "Absent",
       "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
@@ -3452,6 +3452,24 @@
       "duration_ms": 155389,
       "name": "AQUA",
       "url": "https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu"
+    },
+    {
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/1A6AW9xZSiuBE2eXX9x2vs"
+      },
+      "artists": [
+        {
+          "name": "Marc D\u00e9ry",
+          "url": "https://open.spotify.com/artist/0IX0nppAnGjDz53emI5YAW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259376,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/5KoyLc7UFXeRTOpUylp8sf"
     },
     {
       "album": {
@@ -5360,7 +5378,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164533,
       "name": "Belle madame",
       "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
@@ -5640,7 +5658,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208800,
       "name": "Bienvenue dans High & Fines Herbes",
       "url": "https://open.spotify.com/track/3wV0qYUvnJWfL9a2CQJqD1"
@@ -7436,10 +7454,32 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 149306,
       "name": "C'est l'heure",
       "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
+    },
+    {
+      "album": {
+        "name": "C'est la bass qui m'pompe",
+        "url": "https://open.spotify.com/album/05yentbqkksdMm0Wrgymc8"
+      },
+      "artists": [
+        {
+          "name": "Lanuit",
+          "url": "https://open.spotify.com/artist/0Cwq8OSwWcEHfMlMTW0EJG"
+        },
+        {
+          "name": "Radio Radio",
+          "url": "https://open.spotify.com/artist/7p25ud4KGyJNzpFO8i78kp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170049,
+      "name": "C'est la bass qui m'pompe",
+      "url": "https://open.spotify.com/track/5c2ZOpNaB1VaUPjRwCMJZV"
     },
     {
       "album": {
@@ -8274,6 +8314,24 @@
       "duration_ms": 195459,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv"
+    },
+    {
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/1OV6TDTQOfIqR0rfFx9s4p"
+      },
+      "artists": [
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162100,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4j12U6gGJEFTubkBPGU95l"
     },
     {
       "album": {
@@ -10207,6 +10265,32 @@
     },
     {
       "album": {
+        "name": "COEUR DE ICE",
+        "url": "https://open.spotify.com/album/0ICoRQkQ4ODgPEVSy0jTSg"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        },
+        {
+          "name": "Kenzo",
+          "url": "https://open.spotify.com/artist/5rIiFpbheS1kxGiDdB42zw"
+        },
+        {
+          "name": "SAULE",
+          "url": "https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "COEUR DE ICE",
+      "url": "https://open.spotify.com/track/2ojtjjvYQrser55Insfs84"
+    },
+    {
+      "album": {
         "name": "DIAMANT DU BLED",
         "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
       },
@@ -10408,6 +10492,24 @@
       "duration_ms": 163978,
       "name": "Combien \u00e7a co\u00fbte",
       "url": "https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP"
+    },
+    {
+      "album": {
+        "name": "Combien?",
+        "url": "https://open.spotify.com/album/0zHL5OORX5cW3Ta0J9I8g6"
+      },
+      "artists": [
+        {
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103911,
+      "name": "Combien?",
+      "url": "https://open.spotify.com/track/3P9qr5F0ARCjq6TjRFAxoZ"
     },
     {
       "album": {
@@ -15416,7 +15518,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164199,
       "name": "D\u00e9sol\u00e9e",
       "url": "https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen"
@@ -17721,6 +17823,24 @@
     },
     {
       "album": {
+        "name": "Fallait trouver les mots",
+        "url": "https://open.spotify.com/album/0Q5qZVdVhvtkWzIupIFAH7"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187584,
+      "name": "Fallait trouver les mots",
+      "url": "https://open.spotify.com/track/7eLObYpOZ3vWcAwC7OyosE"
+    },
+    {
+      "album": {
         "name": "FAM",
         "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
       },
@@ -18428,7 +18548,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 160706,
       "name": "Fille lacrymale",
       "url": "https://open.spotify.com/track/2322KewAGzg6Zj5Oxw21vO"
@@ -18812,7 +18932,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 224490,
       "name": "Fleuron",
       "url": "https://open.spotify.com/track/1Uoi7ozqHcSMIufOZgYwaL"
@@ -19236,6 +19356,24 @@
       "duration_ms": 168045,
       "name": "FREE FOR ALL",
       "url": "https://open.spotify.com/track/3kAibz4DTPCrdXKhjjuxiE"
+    },
+    {
+      "album": {
+        "name": "Porter le coup, oublier. Porter la marque, se souvenir",
+        "url": "https://open.spotify.com/album/47wpyURruMQckYemmj2fb5"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Free un tel",
+      "url": "https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk"
     },
     {
       "album": {
@@ -23245,6 +23383,24 @@
     },
     {
       "album": {
+        "name": "J'ai mille vies",
+        "url": "https://open.spotify.com/album/3lyv3ziVP8LCqXCDL1njQ2"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "J'ai mille vies",
+      "url": "https://open.spotify.com/track/0YARhPY0VYqOCZGXo9VTYl"
+    },
+    {
+      "album": {
         "name": "J'ai mon blick",
         "url": "https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150"
       },
@@ -23868,7 +24024,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 207540,
       "name": "J'veux pas dormir",
       "url": "https://open.spotify.com/track/6XU42K9XBwGYLgXIsSegTp"
@@ -24788,6 +24944,24 @@
       "duration_ms": 181066,
       "name": "Je serai toujours l\u00e0",
       "url": "https://open.spotify.com/track/1uhnM9omqtr37wtq5mPxCg"
+    },
+    {
+      "album": {
+        "name": "Je suis content mes amis",
+        "url": "https://open.spotify.com/album/7b42BagQ7BQfTJrmkZQwgB"
+      },
+      "artists": [
+        {
+          "name": "Foisy",
+          "url": "https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168613,
+      "name": "Je suis content mes amis",
+      "url": "https://open.spotify.com/track/6xMiC43lOxpfc5mVS21G65"
     },
     {
       "album": {
@@ -25976,7 +26150,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164571,
       "name": "Ketchup",
       "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
@@ -26360,6 +26534,28 @@
       "duration_ms": 157281,
       "name": "Kulule",
       "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+    },
+    {
+      "album": {
+        "name": "KX",
+        "url": "https://open.spotify.com/album/0DRBSlecaDkg2LgFeYooIp"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194597,
+      "name": "KX",
+      "url": "https://open.spotify.com/track/3aChirEW4T3P7AWpywqCbW"
     },
     {
       "album": {
@@ -27980,6 +28176,24 @@
       "duration_ms": 165963,
       "name": "La Meilleure",
       "url": "https://open.spotify.com/track/5fEC4YAZALInwKuqwHytir"
+    },
+    {
+      "album": {
+        "name": "Fantaisie",
+        "url": "https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG"
+      },
+      "artists": [
+        {
+          "name": "Orlanda",
+          "url": "https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "La mer rose",
+      "url": "https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv"
     },
     {
       "album": {
@@ -33025,6 +33239,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9a // Tableaux de craie",
+        "url": "https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb"
+      },
+      "artists": [
+        {
+          "name": "pol",
+          "url": "https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198059,
+      "name": "L\u00e9a",
+      "url": "https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV"
+    },
+    {
+      "album": {
         "name": "L\u00e9gendes",
         "url": "https://open.spotify.com/album/3N1tRdcA3RsP480DPfLcqE"
       },
@@ -33116,6 +33348,24 @@
       "duration_ms": 161142,
       "name": "L\u2019envers du d\u00e9cor",
       "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
+    },
+    {
+      "album": {
+        "name": "Saint-Ours",
+        "url": "https://open.spotify.com/album/3kfInPI0UDOOf0T3OqHTM6"
+      },
+      "artists": [
+        {
+          "name": "Matt Moln",
+          "url": "https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278422,
+      "name": "L\u2019ours",
+      "url": "https://open.spotify.com/track/0npDS7c5pl4msQxC72JZu7"
     },
     {
       "album": {
@@ -33982,7 +34232,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 194720,
       "name": "Mal lun\u00e9e",
       "url": "https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1"
@@ -35612,7 +35862,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 170636,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1"
@@ -41881,6 +42131,24 @@
     },
     {
       "album": {
+        "name": "peu importe o\u00f9",
+        "url": "https://open.spotify.com/album/717GMs9eh2PgRiwweeBLte"
+      },
+      "artists": [
+        {
+          "name": "benjamiin",
+          "url": "https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "peu importe o\u00f9",
+      "url": "https://open.spotify.com/track/4syZFBhLwFv5Ew9mSfuz19"
+    },
+    {
+      "album": {
         "name": "Dans la lune",
         "url": "https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND"
       },
@@ -42495,6 +42763,24 @@
     },
     {
       "album": {
+        "name": "PLAYSTATION",
+        "url": "https://open.spotify.com/album/229ypZccM7Mpcl12Sc1r0F"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193771,
+      "name": "PLAYSTATION",
+      "url": "https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp"
+    },
+    {
+      "album": {
         "name": "Plein d'adresses",
         "url": "https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3"
       },
@@ -42662,7 +42948,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 204406,
       "name": "Plus grande que moi",
       "url": "https://open.spotify.com/track/2KsTqe2n9M1KEECVhEOrMt"
@@ -43956,7 +44242,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 205411,
       "name": "Princesse chaos",
       "url": "https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ"
@@ -44068,7 +44354,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 203786,
       "name": "Pri\u00e8re quotidienne",
       "url": "https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw"
@@ -44126,7 +44412,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 219584,
       "name": "PROBATION",
       "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
@@ -44529,6 +44815,24 @@
     },
     {
       "album": {
+        "name": "Punch-Out",
+        "url": "https://open.spotify.com/album/7DleuXqo8KvKnrnRFLNj51"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186137,
+      "name": "Punch-Out",
+      "url": "https://open.spotify.com/track/4gVb8jzBgCUnVNp5678xe4"
+    },
+    {
+      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/1q7QjtB2xmOY40BkS4dVj4"
       },
@@ -44830,7 +45134,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 217773,
       "name": "Quand je pleure, je suis content",
       "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
@@ -44892,6 +45196,24 @@
       "duration_ms": 191200,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa"
+    },
+    {
+      "album": {
+        "name": "Quand on aime on a tout",
+        "url": "https://open.spotify.com/album/0cVSZ3P1pGsPCVeyb7boet"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155954,
+      "name": "Quand on aime on a tout",
+      "url": "https://open.spotify.com/track/4rb6bmm62zrozmwJH9Ccaz"
     },
     {
       "album": {
@@ -51609,6 +51931,24 @@
     },
     {
       "album": {
+        "name": "Suzo",
+        "url": "https://open.spotify.com/album/1yF28aeYaYrPwNWrOKwDIp"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248106,
+      "name": "Suzo",
+      "url": "https://open.spotify.com/track/2glj45hn2LLax92N1ZazCm"
+    },
+    {
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/1gNkVddKxLceErP9uTLJPp"
       },
@@ -52306,7 +52646,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 210746,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3ZBot61po1FbgELydUVDF5"
@@ -57544,7 +57884,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 204705,
       "name": "W",
       "url": "https://open.spotify.com/track/6cbiCNGJMkrpfN7Z95L9N1"
@@ -58722,7 +59062,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 173976,
       "name": "Zo\u00e9 sur la montagne",
       "url": "https://open.spotify.com/track/19jBx6s9LIxzRdccmlDUjD"

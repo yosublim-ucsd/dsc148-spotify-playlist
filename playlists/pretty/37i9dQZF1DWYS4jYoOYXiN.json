@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 90105,
+  "num_followers": 90144,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "\u00a1G\u00f3zalo! Vol 1",
+        "url": "https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa"
+      },
+      "artists": [
+        {
+          "name": "Nilo Espinosa y Orquesta",
+          "url": "https://open.spotify.com/artist/6eGqK6UncF1x1pF3VB0CZ7"
+        }
+      ],
+      "duration_ms": 328026,
+      "name": "Baby Boogaloo",
+      "url": "https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Take A Trip Pussycat (feat. Luis Aviles)",
         "url": "https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 214520,
       "name": "I'll Be A Happy Man",
       "url": "https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "\u00a1G\u00f3zalo! Vol 1",
-        "url": "https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa"
-      },
-      "artists": [
-        {
-          "name": "Nilo Espinosa y Orquesta",
-          "url": "https://open.spotify.com/artist/6eGqK6UncF1x1pF3VB0CZ7"
-        }
-      ],
-      "duration_ms": 328026,
-      "name": "Baby Boogaloo",
-      "url": "https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8"
     },
     {
       "added_at": "2024-07-18 20:57:58",

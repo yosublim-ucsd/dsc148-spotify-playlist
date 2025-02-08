@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Skinny Hightower",
-  "num_followers": 371137,
+  "num_followers": 371242,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY/gAAAADb4tVTLatZfd4Zgw5gtQqW",
+  "snapshot_id": "Z6WTYwAAAAD2fmwo2dghWWu+QTGbvLj4",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:24",
@@ -27,6 +27,22 @@
       "duration_ms": 381800,
       "name": "TAXI",
       "url": "https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:19",
+      "album": {
+        "name": "OFF BEAT",
+        "url": "https://open.spotify.com/album/2DYou3lm2fgjgP5mk08nKN"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 124285,
+      "name": "ee",
+      "url": "https://open.spotify.com/track/6mVr0WhXvMdP5C4h1m2aac"
     },
     {
       "added_at": "2025-01-31 05:00:46",
@@ -1295,26 +1311,6 @@
       "duration_ms": 212000,
       "name": "Rake Stepper",
       "url": "https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "THE FUNK WILL PREVAIL",
-        "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
-      },
-      "artists": [
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        },
-        {
-          "name": "Tony Rosenberg",
-          "url": "https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh"
-        }
-      ],
-      "duration_ms": 91733,
-      "name": "CATS GROOVE",
-      "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
     },
     {
       "added_at": "2023-05-12 04:01:00",

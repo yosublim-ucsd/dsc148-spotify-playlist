@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 ### [me right now](https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX)
 
-> Die Playlist, die dich fühlt\. Cover: Anna of the North
+> Die Playlist, die dich fühlt\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,633 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,625 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/1moKZKZydvCRie5SQ8wlis) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [NUR FÜR DICH 2](https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf) | 3:13 |
 | 100 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
 
-Snapshot ID: `Z6U/EQAAAAAbAAx8qe5JLbtYLC8L9gHd`
+Snapshot ID: `Z6XiYAAAAAAMmaUAq9YsDheR5ESdLEUx`

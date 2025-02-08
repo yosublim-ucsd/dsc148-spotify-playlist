@@ -1,6 +1,6 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 538650,
+  "num_followers": 538678,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
+        "name": "minimal",
+        "url": "https://open.spotify.com/album/0Y6gjR6DUAx8K2IRbaWT0p"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 163339,
+      "name": "minimal",
+      "url": "https://open.spotify.com/track/28sNP4vXS6EtFr2VKPhCTQ"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
         "name": "CTV3: Cool Tape Vol. 3",
         "url": "https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 222717,
       "name": "Falling For You with Justin Bieber",
       "url": "https://open.spotify.com/track/24MWSatP5sTylISvJONhnB"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "minimal",
-        "url": "https://open.spotify.com/album/0Y6gjR6DUAx8K2IRbaWT0p"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 163339,
-      "name": "minimal",
-      "url": "https://open.spotify.com/track/28sNP4vXS6EtFr2VKPhCTQ"
     },
     {
       "added_at": "2023-09-29 20:24:12",

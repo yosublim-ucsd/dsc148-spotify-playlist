@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 206908,
+  "num_followers": 207018,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cantos revolucionarios de america latina",
-        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
-      },
-      "artists": [
-        {
-          "name": "Soledad Bravo",
-          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
-        }
-      ],
-      "duration_ms": 270160,
-      "name": "Hasta siempre",
-      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Cantos revolucionarios de america latina",
+        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
+      },
+      "artists": [
+        {
+          "name": "Soledad Bravo",
+          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
+        }
+      ],
+      "duration_ms": 270160,
+      "name": "Hasta siempre",
+      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Un Le\u00f3n D-Mente",
-        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+        "name": "Le\u00f3n Gieco",
+        "url": "https://open.spotify.com/album/51wgsldnwV1Xq9BW1GoV0w"
       },
       "artists": [
         {
           "name": "Le\u00f3n Gieco",
           "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "D-Mente",
-          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
         }
       ],
-      "duration_ms": 346946,
-      "name": "La Memoria",
-      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+      "duration_ms": 248106,
+      "name": "S\u00f3lo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1215,38 +1211,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Le\u00f3n Gieco",
-        "url": "https://open.spotify.com/album/51wgsldnwV1Xq9BW1GoV0w"
+        "name": "Un Le\u00f3n D-Mente",
+        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
       "artists": [
         {
           "name": "Le\u00f3n Gieco",
           "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "S\u00f3lo Le Pido A Dios",
-      "url": "https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
         },
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "D-Mente",
+          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
         }
       ],
-      "duration_ms": 241023,
-      "name": "Cumbia Valiente",
-      "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
+      "duration_ms": 346946,
+      "name": "La Memoria",
+      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1267,6 +1247,26 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "Cumbia Valiente",
+      "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "El Largo Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
-      },
-      "artists": [
-        {
-          "name": "Claudio Narea",
-          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rico el Pa\u00eds",
-      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Fuego (Canciones de Emergencia)",
         "url": "https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 298049,
       "name": "La Canci\u00f3n Es Protesta",
       "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "El Largo Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
+      },
+      "artists": [
+        {
+          "name": "Claudio Narea",
+          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Rico el Pa\u00eds",
+      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
     },
     {
       "added_at": "2024-05-10 03:00:00",

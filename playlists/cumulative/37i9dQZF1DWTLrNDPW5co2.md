@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: deBasement
 
-326 songs - 20 hr 58 min
+327 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2024-10-11 |  |
 | [5 Mins Of Acid](https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j) | 5:00 | 2024-06-14 | 2024-07-02 |
 | [90210](https://open.spotify.com/track/3vrqIdzS88pCWGe51tXpOP) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [SUBSTATE](https://open.spotify.com/album/4piB5tOFZA5RhUTMMpAm2o) | 3:09 | 2024-05-24 | 2024-07-27 |
+| [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 |  |
 | [After Afters](https://open.spotify.com/track/4sRMCWKdHIUgmaMfcJwEbB) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [After Afters](https://open.spotify.com/album/6kEjq6GW5F5lmfDC2M8HRA) | 5:57 | 2024-06-28 | 2024-11-16 |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 |  |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-14 | 2024-03-02 |
@@ -146,7 +147,7 @@
 | [HOLD UP UR BODY](https://open.spotify.com/track/4cVNwfCAOKt1Fxp69ziDgp) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [HOLD UP UR BODY](https://open.spotify.com/album/72w1Bh4du192VG9wtjMwbn) | 3:09 | 2024-09-13 |  |
 | [Honey \(C\*NTY\)](https://open.spotify.com/track/5nG9YD8aVlawDvH8JaG0DW) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Honey \(C\*NTY\)](https://open.spotify.com/album/5MxrOuDlVfDYmAdLd61pUx) | 3:52 | 2024-11-15 |  |
 | [HOT](https://open.spotify.com/track/0s0qFlvmJB2jsCyA2N5byF) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr), [River Moon](https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2) | [HOT](https://open.spotify.com/album/37cCQaRfEMfRC25jVx5kbQ) | 3:31 | 2023-06-20 | 2023-06-24 |
-| [Hot Dog & Hot Bitch](https://open.spotify.com/track/6c30iAw5Zm2eEK1RwmPKua) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Hot Dog & Hot Bitch](https://open.spotify.com/album/7I1N0DwZHBrCmm8xSDLYma) | 2:25 | 2024-06-07 |  |
+| [Hot Dog & Hot Bitch](https://open.spotify.com/track/6c30iAw5Zm2eEK1RwmPKua) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Hot Dog & Hot Bitch](https://open.spotify.com/album/7I1N0DwZHBrCmm8xSDLYma) | 2:25 | 2024-06-07 | 2025-02-08 |
 | [Human Sound](https://open.spotify.com/track/1BpcVnAhL6LuS8q3l03ONd) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg) | 5:26 | 2022-07-14 | 2022-11-13 |
 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 | 2024-04-19 |
 | [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 | 2024-06-08 |

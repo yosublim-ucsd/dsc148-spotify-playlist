@@ -41077,6 +41077,24 @@
     },
     {
       "album": {
+        "name": "Something to You",
+        "url": "https://open.spotify.com/album/3VOErOnbkiq9ZadCRxX5vm"
+      },
+      "artists": [
+        {
+          "name": "McCoy Moore",
+          "url": "https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Something to You",
+      "url": "https://open.spotify.com/track/21eiOnxVlk996lavh1nrW5"
+    },
+    {
+      "album": {
         "name": "Something's Better Than Nothing",
         "url": "https://open.spotify.com/album/2zqDTszF75ieoctWNdaSg5"
       },
@@ -51276,6 +51294,24 @@
       "duration_ms": 171533,
       "name": "XANAX & CHAMPAGNE",
       "url": "https://open.spotify.com/track/2PwO2Le2ExxYWbwMScVBti"
+    },
+    {
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/3fM0ElNIjg1iRrfVPTTUZn"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7HG4FFHOWUVqW4s6Z6VquZ"
     },
     {
       "album": {

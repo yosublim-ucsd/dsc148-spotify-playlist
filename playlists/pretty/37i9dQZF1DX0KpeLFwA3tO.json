@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Death By Unga Bunga",
-  "num_followers": 320111,
+  "num_followers": 320362,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNGQAAAABd72g/p37QOoje4QWKPaHP",
+  "snapshot_id": "Z6XtWgAAAACvIygqNSvr8yxafJ8S0qRI",
   "tracks": [
     {
       "added_at": "2025-02-07 00:00:25",
@@ -51,6 +51,22 @@
       "duration_ms": 193912,
       "name": "Forgive (feat. Joe Taylor)",
       "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
+    },
+    {
+      "added_at": "2025-02-07 11:24:10",
+      "album": {
+        "name": "Sickle Walk",
+        "url": "https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7"
+      },
+      "artists": [
+        {
+          "name": "YHWH Nailgun",
+          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
+        }
+      ],
+      "duration_ms": 86242,
+      "name": "Sickle Walk",
+      "url": "https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy"
     },
     {
       "added_at": "2025-02-07 00:00:25",

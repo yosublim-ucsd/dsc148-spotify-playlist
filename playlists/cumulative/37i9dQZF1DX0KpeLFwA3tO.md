@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Death By Unga Bunga
 
-2,259 songs - 4 day 16 hr 48 min
+2,260 songs - 4 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1731,6 +1731,7 @@
 | [Sick As Your Secrets](https://open.spotify.com/track/3oyIFkrVp54TqQzTs2k9kp) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Sick As Your Secrets](https://open.spotify.com/album/6Kp9DjAQrRKUF1bJvLTifQ) | 2:39 | 2022-06-23 | 2022-07-15 |
 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-10 | 2023-04-21 |
 | [SICK OF BEING NICE](https://open.spotify.com/track/2uWEmAa7QttqIaWzk3oQEe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET \(DELUXE\)](https://open.spotify.com/album/51Ki3I3yCBQQFfWIMf3YSs) | 2:33 | 2024-11-01 | 2025-01-24 |
+| [Sickle Walk](https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Sickle Walk](https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7) | 1:26 | 2025-02-07 |  |
 | [Sickner](https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK) | [Big Romance](https://open.spotify.com/artist/2nZSy1iWmRO6MB74FVBo0D) | [Sickner](https://open.spotify.com/album/5rCLlOHAnmyCqG6BvhrRdL) | 3:14 | 2024-02-16 | 2024-03-22 |
 | [Side Of The Road](https://open.spotify.com/track/1tOsGSiTzArHpfHa7D1qUU) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Side Of The Road/Chewing On Broken Glass](https://open.spotify.com/album/7tWtd09dvvRx4nRyqcXOUm) | 3:17 | 2024-04-12 | 2024-06-14 |
 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 | 2021-12-17 | 2022-03-11 |

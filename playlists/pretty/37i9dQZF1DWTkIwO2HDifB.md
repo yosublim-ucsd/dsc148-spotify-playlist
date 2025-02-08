@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Vou Raspar Seu Bigodin e os funks mais 🔑 do Brasil\. Foto: MC Dricka
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,485,001 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,485,719 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

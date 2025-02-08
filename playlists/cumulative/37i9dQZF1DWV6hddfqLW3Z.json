@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 202869,
       "name": "12 Horas (feat. Mar\u00edlia Mendon\u00e7a) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 276906,
       "name": "A Day in the Life",
       "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 223773,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 231650,
       "name": "Alian\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3pqTSmMvvsf0vBgZP6LXdr"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 106452,
       "name": "Carinhoso",
       "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 193905,
       "name": "Como Posso Amar Assim?",
       "url": "https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 187573,
       "name": "Logo agora",
       "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
@@ -1779,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Mentiras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178892,
+      "name": "Mentiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
+    },
+    {
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
@@ -2677,6 +2699,32 @@
     },
     {
       "album": {
+        "name": "Refloresta",
+        "url": "https://open.spotify.com/album/3SRmOxbfpPww7f8xqzooFi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Bem Gil",
+          "url": "https://open.spotify.com/artist/74PRTFBL3UJS9uiZXGzWrc"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197818,
+      "name": "Refloresta",
+      "url": "https://open.spotify.com/track/2PRZmq8lVyBQFa4wB11cpt"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -2842,7 +2890,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 221244,
       "name": "Se Perguntarem Pra Mim",
       "url": "https://open.spotify.com/track/0DN6JbGeM12LVEry6VFtUM"
@@ -3049,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "album": {
         "name": "Tarde Em Itapu\u00e3",
         "url": "https://open.spotify.com/album/0DTsY0NbXVLf9mZtGXZyri"
       },
@@ -3200,7 +3266,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 251811,
       "name": "Torto Arado",
       "url": "https://open.spotify.com/track/5pembobNk0jvwt6xa2MnlP"
@@ -3440,7 +3506,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 273727,
       "name": "Vilarejo - Ao Vivo",
       "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
@@ -3480,7 +3546,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 236618,
       "name": "Voando (Nel Blu Dipinto Di Blu)",
       "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
@@ -3632,7 +3698,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 217525,
       "name": "\u00c9 Hora",
       "url": "https://open.spotify.com/track/5AmkIw8rvELi7RL3QVafnv"

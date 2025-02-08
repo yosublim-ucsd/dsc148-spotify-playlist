@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 192027,
       "name": "Erykah's Interlude",
       "url": "https://open.spotify.com/track/5gWuzCgyAjUtmUPhVgcPPJ"
@@ -6317,6 +6317,28 @@
     },
     {
       "album": {
+        "name": "Kingfisher",
+        "url": "https://open.spotify.com/album/3DWINcvt3sVbjqiQI1nktw"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Asheber",
+          "url": "https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362146,
+      "name": "Kingfisher - feat. Asheber",
+      "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
+    },
+    {
+      "album": {
         "name": "Knocked Down",
         "url": "https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC"
       },
@@ -6772,7 +6794,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 133113,
       "name": "LIGHTER FLUID",
       "url": "https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR"
@@ -7476,6 +7498,24 @@
       "duration_ms": 252463,
       "name": "Miss Chance",
       "url": "https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3"
+    },
+    {
+      "album": {
+        "name": "MIXED FEELINGS",
+        "url": "https://open.spotify.com/album/16b8hWHVV6Hq9lZO21ofkx"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "MIXED FEELINGS",
+      "url": "https://open.spotify.com/track/75NpMdx6taRw8GvkcWhZvf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-465 songs - 1 day 1 hr 54 min
+466 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 | 2022-08-26 |  |
 | [Mama Please Don't Worry](https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Matisyahu](https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5) | 4:03 | 2022-03-25 | 2023-11-18 |
 | [Mantra](https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Disco Submarine](https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5) | 2:46 | 2022-09-09 | 2022-10-01 |
+| [Matter of Time](https://open.spotify.com/track/1mjPHZ7D5oyvZ4Yxk7FDYD) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Matter of Time](https://open.spotify.com/album/3BK0VtyunR767TbHJAROOe) | 4:02 | 2025-02-07 |  |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2020-11-13 | 2022-02-16 |
 | [Monica](https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Dreamboat](https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29) | 3:07 | 2022-07-29 | 2024-01-13 |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-23 | 2023-07-08 |
@@ -452,7 +453,7 @@
 | [White Knuckles](https://open.spotify.com/track/4Oq4ZOVKOHkQdqQnR3WuH3) | [Yes Please](https://open.spotify.com/artist/5CCzvTURuUq1HQ6bazBVTc) | [White Knuckles](https://open.spotify.com/album/0KiiuXruo2JhUHxpDP4Add) | 4:02 | 2021-09-21 | 2022-04-21 |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 | 2024-01-27 |
 | [Why Do I?](https://open.spotify.com/track/1idb0UwGFUvrLRxGndnQhr) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/384hEnsXsFYB37WvBwuXBI) | 3:57 | 2021-02-22 | 2022-07-18 |
-| [Wild](https://open.spotify.com/track/6NL3hDAjEwwGzWJLaJUqpE) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Wild](https://open.spotify.com/album/0EI2qlr3ZYkERbLzVa78B1) | 2:49 | 2022-03-18 |  |
+| [Wild](https://open.spotify.com/track/6NL3hDAjEwwGzWJLaJUqpE) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Wild](https://open.spotify.com/album/0EI2qlr3ZYkERbLzVa78B1) | 2:49 | 2022-03-18 | 2025-02-08 |
 | [Wild \(Golden Child\) \- Japan Bonus Track](https://open.spotify.com/track/23XhwutrIEirC0lz1sAERf) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI) | [Human Nature](https://open.spotify.com/album/0dyMYUDG6M9pLNYo3Oh0pB) | 3:32 | 2020-11-13 | 2022-03-17 |
 | [Wildcard](https://open.spotify.com/track/7KyVAn4ID0fa8DMfujrMGY) | [Jason Dering](https://open.spotify.com/artist/7z9m1sy0FnEgIuwOhrtn7C) | [Wildcard](https://open.spotify.com/album/3zqRqA6eJrvjxj98oacRjl) | 3:18 | 2021-09-21 | 2022-07-27 |
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 | 2021-09-21 | 2023-02-18 |

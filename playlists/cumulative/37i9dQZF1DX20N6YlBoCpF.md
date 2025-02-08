@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=iHvUs2rtQNeis96HI9tHEw">Rooksein</a> en <a href="https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb?si=bh\-kNxW1QrCA53vsuDkC9A">ONS</a>
 
-1,489 songs - 3 day 10 hr 59 min
+1,490 songs - 3 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1450,6 +1450,7 @@
 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 | 2024-05-02 | 2024-05-24 |
 | [Wees Net Beter](https://open.spotify.com/track/5AXAgPFHnFzv8pz9ZOffct) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT), [Hiram Koopman](https://open.spotify.com/artist/4UBl5Ny7y89gOnqp8AM0EH) | [Die Onbekende](https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc) | 3:26 | 2022-11-10 | 2022-12-09 |
 | [Wees Net Lekker](https://open.spotify.com/track/3THyzPvTaF403AnmMwxqIt) | [Leon Gropp](https://open.spotify.com/artist/6IuWDLRpLJQk3xUQoTMuYU) | [Wees Net Lekker](https://open.spotify.com/album/0zLyYG00Wh0xYvSAdvzvQa) | 3:05 | 2024-09-12 | 2024-09-27 |
+| [Weet Jy](https://open.spotify.com/track/0hClSz5kQYa9qi1HWEottD) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Weet Jy](https://open.spotify.com/album/1SFYnxrZvDZFbH7oyrdmvu) | 3:21 | 2025-02-06 |  |
 | [Weet Jy](https://open.spotify.com/track/6XvJrj4flDveKeKgtlP5Qe) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Weet Jy](https://open.spotify.com/album/2Bk9aiTtgW5uq3BWtHpbn6) | 3:27 | 2023-11-09 | 2023-12-01 |
 | [Weet Jy Dan Nie](https://open.spotify.com/track/3RX8pOQ9imsEJh8JfH44Y7) | [David de Wet](https://open.spotify.com/artist/28alm6fm3FyiDiH1CTR9nQ) | [Weet Jy Dan Nie](https://open.spotify.com/album/4I4XpsdsqhtGnW2O3iJwDI) | 3:17 | 2024-08-22 | 2024-08-30 |
 | [Weet Jy Raak Moeg Vir My](https://open.spotify.com/track/26o3ww91w5jyTvULK0vUsl) | [Matthew John Duncan](https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Weet Jy Raak Moeg Vir My](https://open.spotify.com/album/7xESfDjpcHdRk9czXZbBd7) | 3:22 | 2023-09-28 | 2023-11-17 |

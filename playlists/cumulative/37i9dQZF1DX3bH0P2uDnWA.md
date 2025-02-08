@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-402 songs - 22 hr 39 min
+403 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [Back and Forth](https://open.spotify.com/track/0iunkswh8QG4nlCg9eDzMS) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [Back and Forth](https://open.spotify.com/album/1lFHdixVhpVvZQdc6foN1c) | 2:16 | 2024-06-28 |  |
 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 | 2024-06-15 |
 | [Back In Town \(again\)](https://open.spotify.com/track/1bY8DaFmvQeP9ulGrAA6J1) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Back In Town \(again\)](https://open.spotify.com/album/6SYYXVPvTi1wKBOLocdSZQ) | 2:33 | 2025-01-10 |  |
-| [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 | 2023-05-19 |  |
+| [Bad Boy Good Man \- Rmx 2023](https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Bad Boy Good Man \(Rmx 2023\)](https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju) | 3:29 | 2023-05-19 | 2025-02-08 |
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2023-04-01 |
 | [BAM! \- Chill Remix](https://open.spotify.com/track/4qlZFwn0pvaZalY5lJUGzX) | [KELSON](https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [BAM! \(Remixes\)](https://open.spotify.com/album/1IOx2nHbWzjDa3EM6ly6Y1) | 2:40 | 2023-08-18 |  |
+| [Bandit Town](https://open.spotify.com/track/48yF8BvtqIw2x9zlQZUnxZ) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Fizzy Far Niente](https://open.spotify.com/album/3QoZjyXmzeA9cV7n3PC2hE) | 2:55 | 2025-02-07 |  |
 | [Bang Bang \- Future Swing Mix](https://open.spotify.com/track/2hal3K1iZA1G0ttAwfMoPV) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Bang Bang \(Future Swing Mix\)](https://open.spotify.com/album/2AyWBB2grQkYia6WDEbWTt) | 2:03 | 2024-04-19 |  |
 | [Barbie Girl \- Electro Swing Remix](https://open.spotify.com/track/6aXMkpLI4aYeYCK2j3knI4) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Barbie Girl \(Electro Swing Remix\)](https://open.spotify.com/album/5LUTrIZZJ6ORJhc73mwTo2) | 2:39 | 2024-03-01 | 2024-07-13 |
 | [Bei mir bist du schön](https://open.spotify.com/track/3yKKZTpzR2fnxw50gar1Mc) | [Duo Stiehler/Lucaciu](https://open.spotify.com/artist/7nSGBz4UKbB91w3Qm6Mjcm) | [Bei mir bist du schön](https://open.spotify.com/album/7rrwhLZNJFe9vN8SagXtgO) | 3:05 | 2023-05-19 |  |

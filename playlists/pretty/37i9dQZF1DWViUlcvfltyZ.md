@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Gazebo Penguins in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,101 likes - 106 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,121 likes - 106 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

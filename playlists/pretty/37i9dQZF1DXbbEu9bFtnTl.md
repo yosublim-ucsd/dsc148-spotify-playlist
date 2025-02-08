@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Malcriada en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,637 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,656 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Misión S\*\*\*\*\*\*](https://open.spotify.com/track/6XR4OCEF7S6UyI6XkDcLnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Misión S\*\*\*\*\*\*](https://open.spotify.com/album/78s2fiZPOZXqHMeXbHbJiR) | 1:47 |
-| 2 | [XXL](https://open.spotify.com/track/2I4Ahv4wzisiw3G7ZJshBD) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [XXL](https://open.spotify.com/album/1zbbc3CrJ3yRbUCfEwbD1Q) | 2:13 |
-| 3 | [tiempo](https://open.spotify.com/track/0bXipaqOnIvPYaQSJUZLJM) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [tiempo](https://open.spotify.com/album/56H5cqTT7JUcPDoCTgZs7P) | 1:21 |
-| 4 | [a new kind of love!\~](https://open.spotify.com/track/1l0jYHiU3lf3akZPMGzp5O) | [九GANG](https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [a new kind of love!\~](https://open.spotify.com/album/5UBzcIynRDzaal0lWdE7ge) | 1:51 |
+| 2 | [RUTA TECHNOMAMI](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [RUTA TECHNOMAMI](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 |
+| 3 | [XXL](https://open.spotify.com/track/2I4Ahv4wzisiw3G7ZJshBD) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [XXL](https://open.spotify.com/album/1zbbc3CrJ3yRbUCfEwbD1Q) | 2:13 |
+| 4 | [tiempo](https://open.spotify.com/track/0bXipaqOnIvPYaQSJUZLJM) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [tiempo](https://open.spotify.com/album/56H5cqTT7JUcPDoCTgZs7P) | 1:21 |
 | 5 | [sin mirar](https://open.spotify.com/track/4FzA5DKCpBhPD5z3JlX0NO) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [sin mirar](https://open.spotify.com/album/256sP7HP2JdilDPCAmAs4t) | 1:42 |
 | 6 | [Tu eres tan Aiko y yo soi tan PunPun](https://open.spotify.com/track/1KlOTQvIfV9m26WOCZ6fDI) | [Kusuomario](https://open.spotify.com/artist/2tt8YLhRQoHy89FMDwqg1o), [Yuungvamp](https://open.spotify.com/artist/7kPxthr904Ykx6PnOR2Fr3) | [Tu eres tan Aiko y yo soi tan PunPun](https://open.spotify.com/album/6ZjAeQiwTwhQpBPpEIfoN9) | 2:16 |
 | 7 | [yakuza](https://open.spotify.com/track/1UmYl6GOPbthKTOUMCb8sA) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [yakuza](https://open.spotify.com/album/2y6I4UnL7nwaNzixqRqhDz) | 1:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 99 | [Muero de Fiesta Este Finde](https://open.spotify.com/track/7vUZ4l9XWZLlYdkaRw5kXh) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:13 |
 | 100 | [Más Feliz](https://open.spotify.com/track/4WzZeR4d8mhRsaiNQVXHnt) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 2:59 |
 
-Snapshot ID: `Z50krAAAAAB8Rk3Iq+mTSpUHMkyNNGTt`
+Snapshot ID: `Z6WhcAAAAABE1t719JEFYc0ko+XSlaI0`

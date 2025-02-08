@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 153614,
+  "num_followers": 153663,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY/gAAAACub7dEN4ve/ojdU9UKNu85",
+  "snapshot_id": "Z6WTZQAAAABQk7pec2/SwDzBycjnkFXp",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:24",
@@ -23,6 +23,26 @@
       "duration_ms": 208085,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/59Y0HlcCevMDvNN04V5kSQ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:21",
+      "album": {
+        "name": "Meet Me in Paris",
+        "url": "https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        },
+        {
+          "name": "Scott Mulvahill",
+          "url": "https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn"
+        }
+      ],
+      "duration_ms": 224802,
+      "name": "Meet Me in Paris",
+      "url": "https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK"
     },
     {
       "added_at": "2025-01-31 05:00:46",
@@ -707,22 +727,6 @@
       "duration_ms": 340906,
       "name": "Fly Baby",
       "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Break in the Clouds",
-        "url": "https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 205651,
-      "name": "Break in the Clouds",
-      "url": "https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 547277,
+  "num_followers": 547634,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAABkwdqdODAcB50ngoLEwBF/",
+  "snapshot_id": "Z6P7gAAAAADfPGHk8whCtpDLu3XU+mNA",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Basement Tapes",
-        "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
+        "name": "Side Tracks",
+        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
       },
       "artists": [
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 162880,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
+      "duration_ms": 307800,
+      "name": "Things Have Changed - Single Version",
+      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Side Tracks",
-        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
+        "name": "The Basement Tapes",
+        "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
       },
       "artists": [
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 307800,
-      "name": "Things Have Changed - Single Version",
-      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
+      "duration_ms": 162880,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
     },
     {
       "added_at": null,

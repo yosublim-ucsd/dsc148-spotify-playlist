@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: Dio
 
-175 songs - 9 hr 23 min
+176 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [No Control](https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2) | [Lilian Hak](https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH) | [No Control](https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz) | 2:54 | 2024-05-09 | 2024-11-15 |
 | [Nog Steeds Dezelfde](https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Nog Steeds Dezelfde](https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ) | 3:39 | 2023-09-22 | 2024-06-26 |
 | [okaaay!](https://open.spotify.com/track/62QAdptvaXqFx4o1SfjRLJ) | [Viccens](https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7) | [okaaay!](https://open.spotify.com/album/2LM60WZ3dGz86bf0Lo3Q9A) | 3:29 | 2024-11-14 |  |
+| [Oké \(Veilig\)](https://open.spotify.com/track/3aTsc2eBb3JGudmcYKkiPF) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD), [Birdguy](https://open.spotify.com/artist/0TOoj5cCgyeM1nE3YUaM0T) | [Vlammenzee](https://open.spotify.com/album/1JMB8GCoH1AiEAsgLMzva8) | 3:08 | 2025-02-07 |  |
 | [Onbegrepen](https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Onbegrepen](https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL) | 2:29 | 2023-02-23 | 2023-06-09 |
 | [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 | 2023-04-01 |
 | [OUDE DETAILS](https://open.spotify.com/track/4GdGRygo9vCACh7OsVRGCq) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5), [dOOp](https://open.spotify.com/artist/6b9M1MUOtBpiFmrCVOb7mJ), [SKAV](https://open.spotify.com/artist/41rydLwcUIxdc1HQ0Y4Fce), [RED](https://open.spotify.com/artist/5wMB1gqHqfzbd1BT2vZHdy) | [RAFTING GOODS VOLUME 3: B](https://open.spotify.com/album/1qiWLvHbZIYft7i0fnLRYj) | 2:49 | 2024-10-03 |  |

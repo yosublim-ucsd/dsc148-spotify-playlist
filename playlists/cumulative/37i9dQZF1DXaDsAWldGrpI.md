@@ -2,9 +2,9 @@
 
 ### [Country Live](https://open.spotify.com/playlist/37i9dQZF1DXaDsAWldGrpI)
 
-> Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
+> Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-197 songs - 13 hr 33 min
+198 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [For What It’s Worth \- Live](https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Live\)](https://open.spotify.com/album/3vn1HJdEPP6aGL4veUz5k6) | 3:01 | 2023-02-10 | 2024-05-05 |
 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 | 2024-05-04 |  |
 | [Galveston \- Live From The Troubadour / 2008](https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live From The Troubadour](https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O) | 4:26 | 2024-05-04 | 2024-11-16 |
+| [God’s Country \- Live from Red Rocks](https://open.spotify.com/track/5kMyufGmzElsXKTfaCOmgc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HARDY \(Live from Red Rocks\)](https://open.spotify.com/album/7IyJPZEJJ9csqDhRz4EOrE) | 3:27 | 2025-02-07 |  |
 | [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-19 | 2025-01-06 |
-| [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 |  |
+| [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 | 2025-02-08 |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Live From Europe EP](https://open.spotify.com/album/16Ev85nNlG1LWDCiAsx75M) | 4:03 | 2022-07-22 | 2024-04-19 |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/7d0qq889i0z5coOE9cA0Np) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Live From Europe\)](https://open.spotify.com/album/5vs9YwpFEVlLfxf47rFX7Z) | 4:03 | 2021-07-22 | 2024-05-05 |
 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 | 2024-05-04 |  |

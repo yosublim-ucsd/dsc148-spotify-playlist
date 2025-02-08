@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "3AM in ToKEYo",
+        "url": "https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146546,
+      "name": "3AM in ToKEYo",
+      "url": "https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT"
+    },
+    {
+      "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/24R8yEtVrZoThYWEyH7r5Y"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 121518,
       "name": "46th Street",
       "url": "https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 107019,
       "name": "Back In That Mode",
       "url": "https://open.spotify.com/track/7CTGdJ9nIEICnuAviVesNr"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 232000,
       "name": "Battling (feat. Lil Poppa)",
       "url": "https://open.spotify.com/track/2zFDNjOMhLd2LK7v8GQz99"
@@ -5417,6 +5435,28 @@
     },
     {
       "album": {
+        "name": "CAN WE LIVE?",
+        "url": "https://open.spotify.com/album/01MoHXRkIxIiJiRmqjlxov"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "B.O.A Mook",
+          "url": "https://open.spotify.com/artist/2LScPi7kKtHiWfhFCrzSww"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212850,
+      "name": "CAN WE LIVE?",
+      "url": "https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw"
+    },
+    {
+      "album": {
         "name": "Before The Album",
         "url": "https://open.spotify.com/album/2Dqfl275jjJXXI0agJQZDP"
       },
@@ -6046,7 +6086,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 125610,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/24l2RK2FJolUEnEb1dXDOY"
@@ -6068,6 +6108,28 @@
       "duration_ms": 108000,
       "name": "Chicken Phone",
       "url": "https://open.spotify.com/track/6bKbrUz6ngAo6g1P6bPkCw"
+    },
+    {
+      "album": {
+        "name": "Chicken Remix (feat. Real Boston Richey)",
+        "url": "https://open.spotify.com/album/4A9s0anh6hY2kub7FNoGVn"
+      },
+      "artists": [
+        {
+          "name": "El Snappo",
+          "url": "https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS"
+        },
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Chicken Remix (feat. Real Boston Richey)",
+      "url": "https://open.spotify.com/track/61EQ0QPdM5w8Bro3BJ2uDt"
     },
     {
       "album": {
@@ -6442,6 +6504,24 @@
       "duration_ms": 168932,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+    },
+    {
+      "album": {
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/1qgAK2HFyyL1vbhBCycP02"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Cocky",
+      "url": "https://open.spotify.com/track/7L0alUdbfRUBUXpBXlg41j"
     },
     {
       "album": {
@@ -11574,7 +11654,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
@@ -11710,6 +11790,32 @@
       "duration_ms": 157613,
       "name": "GEEKED UP (FEAT. YEAT)",
       "url": "https://open.spotify.com/track/16vvJmnrondzmZjEBThA0T"
+    },
+    {
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256105,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/3Piw8TimucHAUY1zwVQrEo"
     },
     {
       "album": {
@@ -11932,7 +12038,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 237656,
       "name": "Ghetto - feat. Young Thug & Lil Durk",
       "url": "https://open.spotify.com/track/0lekHt9d2xmXxFASI5ivEv"
@@ -12576,7 +12682,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
@@ -14833,6 +14939,28 @@
     },
     {
       "album": {
+        "name": "Hold Off",
+        "url": "https://open.spotify.com/album/2WE7FKWBKFDzVWOIvJq1r9"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186577,
+      "name": "I Don't Fuck With This Beat (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/5G3e5U4Dw0pZq4Y9y7mRSN"
+    },
+    {
+      "album": {
         "name": "Ma\u2019 I Got A Family (A Gangsta Grillz Special Edition Hosted by DJ Drama)",
         "url": "https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh"
       },
@@ -15244,7 +15372,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 128173,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/6zLCCx1nhPUcLZCQJuk7fU"
@@ -17100,7 +17228,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 90005,
       "name": "Laced max",
       "url": "https://open.spotify.com/track/2zZYe0VgBUAamZ9zTxzE4l"
@@ -18573,6 +18701,28 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/7jOdm1ELfCMQuo9wxTFigU"
+      },
+      "artists": [
+        {
+          "name": "Ralo",
+          "url": "https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125853,
+      "name": "Love Yours",
+      "url": "https://open.spotify.com/track/5ZbAEes0SIdqsbeUP24KV1"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -19192,7 +19342,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 101982,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt"
@@ -19586,7 +19736,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 128000,
       "name": "MILITANT",
       "url": "https://open.spotify.com/track/2uUTuPVCQq8jmpPCmFGkGJ"
@@ -19854,6 +20004,28 @@
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180063,
+      "name": "Mo Chicken (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
     },
     {
       "album": {
@@ -21937,6 +22109,24 @@
     },
     {
       "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
@@ -22732,6 +22922,28 @@
       "duration_ms": 153043,
       "name": "ON DET (feat. YTB Fatt)",
       "url": "https://open.spotify.com/track/7bXrqOYGbuY4HIku5450fF"
+    },
+    {
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/6rIE6P3dKtoyGxEskQYbot"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/7g05iI6vyU8KCUWZGlKbZL"
     },
     {
       "album": {
@@ -23772,7 +23984,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 153020,
       "name": "Party Girl Anthem",
       "url": "https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0"
@@ -25390,7 +25602,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 224994,
       "name": "Put It On",
       "url": "https://open.spotify.com/track/1VJKs8kyQ0yWkH94XEKKM7"
@@ -26042,7 +26254,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 132000,
       "name": "Redbone (with GloRilla)",
       "url": "https://open.spotify.com/track/0bEj1zEz8Yr7pHn5lFdfEk"
@@ -27036,6 +27248,28 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "album": {
+        "name": "Say That Shit (feat. K Carbon)",
+        "url": "https://open.spotify.com/album/7fJSijsul2qXgubuB7wO6N"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167327,
+      "name": "Say That Shit (feat. K Carbon)",
+      "url": "https://open.spotify.com/track/5bLNH3NzMXP5lVy9qmZZK8"
     },
     {
       "album": {
@@ -33918,6 +34152,24 @@
       "duration_ms": 133000,
       "name": "Wassam Baby (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5ezBNotZ831KDvrtVtn1nI"
+    },
+    {
+      "album": {
+        "name": "Watch It Fall",
+        "url": "https://open.spotify.com/album/3JT0gu0xtLWlhrFP75Giu5"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147719,
+      "name": "Watch It Fall",
+      "url": "https://open.spotify.com/track/5bOpde1BZem7eZB1xJwdPe"
     },
     {
       "album": {

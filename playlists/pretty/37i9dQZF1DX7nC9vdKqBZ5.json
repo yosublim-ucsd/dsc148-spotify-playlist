@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1514940,
+  "num_followers": 1514966,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "VI",
         "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 241400,
       "name": "Por Onde Voc\u00ea Anda?",
       "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 237696,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Perdoa",
-        "url": "https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Perdoa",
+        "url": "https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -523,22 +523,6 @@
       "duration_ms": 257282,
       "name": "Outra Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -591,6 +575,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Amei Te Ver",
         "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 254096,
       "name": "Amei Te Ver - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Terra do Nunca (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Mande um Sinal (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 238374,
-      "name": "Mande um Sinal - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Mande um Sinal (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 238374,
+      "name": "Mande um Sinal - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
-      },
-      "artists": [
-        {
-          "name": "duogram",
-          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
-        }
-      ],
-      "duration_ms": 136716,
-      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Cartas e Versos",
         "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 199814,
       "name": "Cartas e Versos",
       "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
+      },
+      "artists": [
+        {
+          "name": "duogram",
+          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+        }
+      ],
+      "duration_ms": 136716,
+      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 195138,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 195138,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 138750,
       "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "added_at": "2024-08-02 18:37:00",

@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 193200,
       "name": "En El Alcohol",
       "url": "https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe"
@@ -7601,6 +7601,32 @@
     },
     {
       "album": {
+        "name": "M\u00edrala",
+        "url": "https://open.spotify.com/album/1KPJo9bwPB1hUXdiC0b7Sm"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Tavo Rayo",
+          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211818,
+      "name": "M\u00edrala",
+      "url": "https://open.spotify.com/track/6WymU71WlslVsbdQ46FLBx"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Mexa",
         "url": "https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx"
       },
@@ -9865,6 +9891,28 @@
     },
     {
       "album": {
+        "name": "Si ma\u00f1ana yo me muero",
+        "url": "https://open.spotify.com/album/5cTJY8fCJuuS6j5pD7lA3B"
+      },
+      "artists": [
+        {
+          "name": "Royer De Tepito",
+          "url": "https://open.spotify.com/artist/6GaXlfeWz9gMe7UjWA5gLz"
+        },
+        {
+          "name": "Adrian Cangri",
+          "url": "https://open.spotify.com/artist/1bNzon1RPHJVbtQxxzkfmv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Si ma\u00f1ana yo me muero",
+      "url": "https://open.spotify.com/track/7FAHBVFSy35dnPy36tLM2D"
+    },
+    {
+      "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
@@ -10974,7 +11022,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 114139,
       "name": "TUPAC",
       "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"

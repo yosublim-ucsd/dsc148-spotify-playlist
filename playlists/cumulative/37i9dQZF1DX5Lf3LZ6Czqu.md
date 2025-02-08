@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-150 songs - 11 hr 25 min
+151 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Man On The Silver Mountain](https://open.spotify.com/track/6QRr9OKjvnCGKub5ZFjvB7) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [The Dio Album](https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC) | 4:19 | 2024-02-07 |  |
 | [Martyr](https://open.spotify.com/track/3CFTaiMhS6Xytvj8QalZd2) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End III](https://open.spotify.com/album/4xHzD9gbKPqnFNR0j8vHRL) | 4:16 | 2025-01-10 |  |
 | [Massive](https://open.spotify.com/track/0WtuYPDKBMnvwumPKWkorN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 3:54 | 2021-05-04 | 2023-04-09 |
+| [Medallion](https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Medallion](https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C) | 4:29 | 2025-02-07 |  |
 | [Meteor Shower](https://open.spotify.com/track/7pC3d4gm2YoRqYgG0brbTT) | [The Fusion Syndicate](https://open.spotify.com/artist/3w0iUnjFFyPgi2QW8sXxm1), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Meteor Shower](https://open.spotify.com/album/3909cpay4YHvWDe5NCymLk) | 3:36 | 2024-02-07 |  |
 | [Midnight Rain](https://open.spotify.com/track/451BVL5WAcGirIBdOzfRrX) | [Jack Thammarat](https://open.spotify.com/artist/3C8YVJZQ0bIDW3oqZJIq6W) | [Midnight Rain](https://open.spotify.com/album/1bBdAdFpMwYGy3rJcPugpp) | 1:33 | 2021-05-04 |  |
 | [Midnight Sunset](https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf) | [Massimo Varini](https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz) | [Midnight Sunset](https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX) | 3:33 | 2022-07-01 |  |
@@ -96,7 +97,7 @@
 | [Nu Som](https://open.spotify.com/track/2monwhL9bsFNaobXHhrLDa) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Eleven](https://open.spotify.com/album/36d8L5jU3W6tbkCh59eS82) | 5:28 | 2021-05-04 | 2024-04-19 |
 | [Our Requiem \- Single Version](https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Our Requiem](https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ) | 2:32 | 2024-02-07 | 2024-09-07 |
 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 | 2024-05-17 |  |
-| [Palisade](https://open.spotify.com/track/41NMIeXVq8UTFx9S8FZdSN) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Palisade](https://open.spotify.com/album/7FWb13yiqDAf96ueX5Tlzy) | 4:38 | 2024-12-13 |  |
+| [Palisade](https://open.spotify.com/track/41NMIeXVq8UTFx9S8FZdSN) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Palisade](https://open.spotify.com/album/7FWb13yiqDAf96ueX5Tlzy) | 4:38 | 2024-12-13 | 2025-02-08 |
 | [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 | 2024-07-26 |  |
 | [Planetary Lockdown](https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv) | [Bumblefoot](https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj) | [Planetary Lockdown](https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8) | 5:16 | 2022-10-11 |  |
 | [Playing God](https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Playing God](https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4) | 3:25 | 2022-07-29 |  |

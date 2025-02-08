@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Billy F Gibbons
 
-437 songs - 1 day 5 hr 21 min
+438 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Condition Blue](https://open.spotify.com/track/7HQshuPqE8A8OA0bdH9xYb) | [Dennis Jones](https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy) | [About Time](https://open.spotify.com/album/4klGlW97CAHiSCW6OagWmC) | 4:06 | 2024-06-28 |  |
 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 | 2022-04-22 | 2024-05-25 |
 | [Count Your Chickens](https://open.spotify.com/track/7JwSmQPWQCm6MlPZndoQNz) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Weight of the World](https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv) | 3:50 | 2023-02-17 |  |
-| [Cryin' & Pleadin'](https://open.spotify.com/track/4XdLj4w80n8FhI7Sdesayd) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Cryin' & Pleadin'](https://open.spotify.com/album/1ilAJTN0Pv3DIOi4JWMnWu) | 2:55 | 2024-12-13 |  |
+| [Cryin' & Pleadin'](https://open.spotify.com/track/4XdLj4w80n8FhI7Sdesayd) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Cryin' & Pleadin'](https://open.spotify.com/album/1ilAJTN0Pv3DIOi4JWMnWu) | 2:55 | 2024-12-13 | 2025-02-08 |
 | [Cryin' Won´t Help You](https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Cryin’ Won’t Help You](https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO) | 4:29 | 2022-10-28 | 2024-09-14 |
 | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA) | [Glenn Schwartz](https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI) | 4:36 | 2023-06-16 |  |
 | [Day Of Reckoning](https://open.spotify.com/track/3jORWVR5pvIwGYngJeByeu) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Day Of Reckoning](https://open.spotify.com/album/72JDzIsYdbstVnIMYAAtaU) | 4:26 | 2024-09-20 |  |
@@ -180,6 +180,7 @@
 | [I Let You Think That You Do](https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Resurrection](https://open.spotify.com/album/3a9xrY1A9DkKauXZW17KQ8) | 3:30 | 2024-08-02 |  |
 | [I Like Games \- Single Version](https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [I Like Games](https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu) | 4:21 | 2022-06-10 | 2024-08-17 |
 | [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 | 2022-06-17 | 2024-08-24 |
+| [I Love You, I Need You](https://open.spotify.com/track/53m5ENjvMhRoxzoIesvRyu) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [I Love You, I Need You](https://open.spotify.com/album/1mtVf4jbcps8v9Ii380OEE) | 2:04 | 2025-02-07 |  |
 | [I Shall Not Be Moved](https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [I Shall Not Be Moved](https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6) | 4:19 | 2022-02-25 | 2022-04-23 |
 | [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2022-06-11 |
 | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT) | 4:19 | 2021-10-22 | 2022-04-23 |

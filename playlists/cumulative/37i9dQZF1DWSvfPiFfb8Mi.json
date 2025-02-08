@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 162000,
       "name": "Disc Me Bro",
       "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
@@ -4979,6 +4979,28 @@
     },
     {
       "album": {
+        "name": "Pleasure, Joy & Happiness (musclecars remix)",
+        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        },
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561502,
+      "name": "Pleasure, Joy & Happiness (musclecars remix)",
+      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
+    },
+    {
+      "album": {
         "name": "Point One",
         "url": "https://open.spotify.com/album/0E0WPv8eP2oV1DNg9bbMxU"
       },
@@ -5666,7 +5688,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168188,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
@@ -5904,7 +5926,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 606862,
       "name": "Street Player - Dimitri From Paris Super Disco Blend, Pt. I & II",
       "url": "https://open.spotify.com/track/1wI96BJ059iyAajxqWPTa4"

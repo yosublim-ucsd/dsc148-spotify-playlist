@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Duquesa e mais mulheres incríveis no volume máximo! co\-curada por Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,883 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,880 likes - 47 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 41 | [Trajada de oh](https://open.spotify.com/track/0F4diOe69eweREkyvh8iZY) | [Cronista do Morro](https://open.spotify.com/artist/1JzzPEOH3NeaXCabX3GrSN) | [UMA POSSÍVEL VINGANÇA](https://open.spotify.com/album/3FTJ9TSQ9Dk4N99GzM18Wz) | 1:58 |
 | 42 | [Língua de Gravata](https://open.spotify.com/track/1ltCk3U0gtDFTxrWKEDtT6) | [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [Vista Grossa](https://open.spotify.com/album/5ZFly5MIYsXjeqOMdeafGb) | 4:08 |
 | 43 | [Pra Viajar](https://open.spotify.com/track/3qvTsLGTsvA1islayA5Doo) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 4:09 |
-| 44 | [Turnê](https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c) | [It Girl Pt\. 2](https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK) | 2:24 |
-| 45 | [Dilemma](https://open.spotify.com/track/0CE2Rv7ijClCvoH5FLXJWb) | [K Goddess](https://open.spotify.com/artist/1yZIVyPpY1UeEsbqD3MDB5) | [Dilemma](https://open.spotify.com/album/4vJ5avSU5MZpCuvviKvqBf) | 2:17 |
+| 44 | [Dilemma](https://open.spotify.com/track/0CE2Rv7ijClCvoH5FLXJWb) | [K Goddess](https://open.spotify.com/artist/1yZIVyPpY1UeEsbqD3MDB5) | [Dilemma](https://open.spotify.com/album/4vJ5avSU5MZpCuvviKvqBf) | 2:17 |
+| 45 | [Turnê](https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c) | [It Girl Pt\. 2](https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK) | 2:24 |
 | 46 | [Faturo Bastante \- 1](https://open.spotify.com/track/67wAlplk4JhnILf1taFTG6) | [MaBapp](https://open.spotify.com/artist/7GNt5XtPdChjW3R9pKSa2U) | [FATURO BASTANTE \(1\)](https://open.spotify.com/album/68HaXVLqHxwa3Nim7ysjY2) | 2:11 |
 | 47 | [God Bless All The Rappers](https://open.spotify.com/track/7ffTSxVn6P4JzEtIvf6IuC) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/03kL0aKvs4eVpuJOTOXKWH) | 3:17 |
 

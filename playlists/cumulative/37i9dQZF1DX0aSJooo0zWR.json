@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Medallion",
+        "url": "https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269155,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
+    },
+    {
+      "album": {
         "name": "Romantic Warrior",
         "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
       },

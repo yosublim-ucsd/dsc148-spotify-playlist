@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative en rock songs. Cover: Viagra Boys",
+  "description": "Nieuwe alternative en rock songs. Cover: Sharon Van Etten and the Attachment Theory",
   "name": "New Alternative",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 162093,
       "name": "Baby, if it\u2019s toxic",
       "url": "https://open.spotify.com/track/51lu9OVGbmv4ptXQjzDZ55"
@@ -622,6 +622,24 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
+    },
+    {
+      "album": {
+        "name": "Billy (Yeah Yeah Yeah)",
+        "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245251,
+      "name": "Billy (Yeah Yeah Yeah)",
+      "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
     },
     {
       "album": {
@@ -918,6 +936,24 @@
       "duration_ms": 212968,
       "name": "Comic Trip",
       "url": "https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g"
+    },
+    {
+      "album": {
+        "name": "Cro-Magnon Man",
+        "url": "https://open.spotify.com/album/5VL1958b50wIWuafmVofL6"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247971,
+      "name": "Cro-Magnon Man",
+      "url": "https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1"
     },
     {
       "album": {
@@ -1443,6 +1479,46 @@
     },
     {
       "album": {
+        "name": "Flip A Coin",
+        "url": "https://open.spotify.com/album/0yLk24bms9TMP1A7mZctBR"
+      },
+      "artists": [
+        {
+          "name": "Indian Askin",
+          "url": "https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6"
+        },
+        {
+          "name": "Jasper Erkens",
+          "url": "https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205815,
+      "name": "Flip A Coin",
+      "url": "https://open.spotify.com/track/4ycdVC4QVtzrorv2OnG2fy"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/270LzoECctNSu4keZKTAsV"
+      },
+      "artists": [
+        {
+          "name": "HEISA",
+          "url": "https://open.spotify.com/artist/1ne77QgZD7j4WAkkhamZ3r"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205240,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5Rpq0l4j2eTDvaj9tPqrbB"
+    },
+    {
+      "album": {
         "name": "Flying Solo",
         "url": "https://open.spotify.com/album/6lwzndNI1LFNCRZMnHNajS"
       },
@@ -1566,6 +1642,24 @@
       "duration_ms": 151141,
       "name": "Fun Fact",
       "url": "https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg"
+    },
+    {
+      "album": {
+        "name": "Gaslighter",
+        "url": "https://open.spotify.com/album/0m5MCECFJCNqZivpUX4ELL"
+      },
+      "artists": [
+        {
+          "name": "Lov3less",
+          "url": "https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215287,
+      "name": "Gaslighter",
+      "url": "https://open.spotify.com/track/7bagOww2Hsw3emh4DIWrsf"
     },
     {
       "album": {
@@ -1803,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "hug me",
+        "url": "https://open.spotify.com/album/2QmLw1jFMCxTFrF2ATEFvu"
+      },
+      "artists": [
+        {
+          "name": "snake eyes",
+          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
+        },
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120558,
+      "name": "hug me",
+      "url": "https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1"
+    },
+    {
+      "album": {
         "name": "Still Willing",
         "url": "https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o"
       },
@@ -1904,7 +2020,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 177018,
       "name": "I'm Fine (Alone Again)",
       "url": "https://open.spotify.com/track/7Hgkp4XTOOssEuSTgQzJwL"
@@ -1922,10 +2038,28 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 240826,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250409,
+      "name": "Idiot Box",
+      "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
     },
     {
       "album": {
@@ -2613,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Mr. Tap n' Go",
+        "url": "https://open.spotify.com/album/1rMlo9OJTEhH13mJjMf4cm"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "Mr. Tap n' Go",
+      "url": "https://open.spotify.com/track/78bbsnvyylLQGwz53vXtRg"
+    },
+    {
+      "album": {
         "name": "My Head Is Not My Friend",
         "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
       },
@@ -2988,7 +3140,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 272022,
       "name": "Out of Depth",
       "url": "https://open.spotify.com/track/5amMdfV0sDSPH94QjmNZIk"
@@ -3060,7 +3212,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 187075,
       "name": "Pause at You",
       "url": "https://open.spotify.com/track/7sxP7XJT2ST0bEubmCunFA"
@@ -3212,7 +3364,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164643,
       "name": "Ready? No",
       "url": "https://open.spotify.com/track/6kjNqqRXgsKpFs1iBfqopk"
@@ -3507,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Before It Might Be Gone",
+        "url": "https://open.spotify.com/album/6FaSba3ItIHnC6B0gyOuWz"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Shaking Shoulder",
+      "url": "https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ"
+    },
+    {
+      "album": {
         "name": "She Likes Me",
         "url": "https://open.spotify.com/album/2YnT8eUlDz0lAYxmuoxu3h"
       },
@@ -3608,7 +3778,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164986,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4i24juuTMLWjpJxx3MOMJZ"
@@ -3662,7 +3832,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208654,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
@@ -3770,7 +3940,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 194305,
       "name": "Stain",
       "url": "https://open.spotify.com/track/6iaO8JRf5gH2KwEVX8zXne"
@@ -3842,7 +4012,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 174306,
       "name": "Stories",
       "url": "https://open.spotify.com/track/5Uxc3tbK5nRh5qCmgaTFaH"
@@ -3918,6 +4088,24 @@
       "duration_ms": 157806,
       "name": "Stupid Game, Stupid Prize",
       "url": "https://open.spotify.com/track/2uIrXW4Pupp4pP98Rgtoff"
+    },
+    {
+      "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
     },
     {
       "album": {
@@ -4112,7 +4300,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 218934,
       "name": "The Coolidge Hotel",
       "url": "https://open.spotify.com/track/4OOabuYuC5FzESS25ZEtlC"
@@ -4206,6 +4394,24 @@
       "duration_ms": 226184,
       "name": "The Next Moment",
       "url": "https://open.spotify.com/track/2Q7b9g1siXYw5C3iAHQDDW"
+    },
+    {
+      "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "album": {
@@ -4732,7 +4938,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 251253,
       "name": "WOLFMAN",
       "url": "https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb"

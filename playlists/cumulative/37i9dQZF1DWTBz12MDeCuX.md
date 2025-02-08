@@ -2,7 +2,7 @@
 
 ### [me right now](https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX)
 
-> Die Playlist, die dich fühlt\. Cover: Anna of the North
+> Die Playlist, die dich fühlt\. Cover: Wale
 
 2,480 songs - 4 day 20 hr 33 min
 

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125489,
+  "num_followers": 125480,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATosWnZaAg5HTxpnXRFkmd8jELq5WU",
+  "snapshot_id": "AAATozBB0WcfRhE4cyBYXM13eay37MAK",
   "tracks": [
+    {
+      "added_at": "2025-02-07 15:31:54",
+      "album": {
+        "name": "Feel Ur Luv",
+        "url": "https://open.spotify.com/album/6IM2n8xlbXMefM1fXRxI40"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Feel Ur Luv",
+      "url": "https://open.spotify.com/track/1pmn3XAFp1H1rJdyBB9dpN"
+    },
     {
       "added_at": "2025-02-06 14:49:57",
       "album": {

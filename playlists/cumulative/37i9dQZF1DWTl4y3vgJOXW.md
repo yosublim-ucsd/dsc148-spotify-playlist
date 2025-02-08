@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Jimmy Butler
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Hurts and Patrick Mahomes
 
-778 songs - 1 day 16 hr 8 min
+780 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2022-08-19 | 2023-06-10 |
 | [2022 Freestyle](https://open.spotify.com/track/3HWcK5EIfIdOQD1Rsj4yek) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [2022 Freestyle](https://open.spotify.com/album/1WRiN6skJPCcnoP99a0oIQ) | 2:56 | 2023-02-17 | 2023-02-22 |
 | [21](https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blank Blank](https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT) | 2:50 | 2021-09-02 | 2022-09-17 |
+| [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 |  |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2023-02-17 | 2023-02-22 |
 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:36 | 2022-06-24 | 2023-06-10 |
 | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/track/4wmZtoif8SGm7PDqgKrEXr) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/album/7DaO2NczGej6crL0eTAXcS) | 1:44 | 2021-09-02 | 2022-06-25 |
@@ -316,7 +317,7 @@
 | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/track/3tHm0NnzLiQsaMUkJNcAij) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/album/18JkYWC5jB0R8GuaROnv0R) | 2:58 | 2021-09-02 | 2022-06-25 |
 | [Hold On](https://open.spotify.com/track/03i4lR6ZZo0214WhmrE8t9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Hold On](https://open.spotify.com/album/6oFeA7Pda0jOC7jVNIAp9k) | 3:09 | 2021-09-02 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/5qDsijQM75KTdv3RtSPx91) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:09 | 2022-06-24 | 2023-03-03 |
-| [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 |  |
+| [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 | 2025-02-08 |
 | [Holy 1](https://open.spotify.com/track/64DMD3OKUognShFuYJ5xMY) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 3:21 | 2023-02-17 | 2023-02-22 |
 | [HOME](https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:54 | 2022-06-24 | 2022-10-24 |
 | [HOME](https://open.spotify.com/track/0IBAn7LlsfYRQRTVwZU8Er) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/2YCpKyzAfLFuH3d076e6mN) | 2:54 | 2022-09-02 | 2022-11-13 |
@@ -720,7 +721,8 @@
 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 | 2021-09-02 | 2024-07-13 |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 | 2023-07-20 | 2023-09-02 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-23 |  |
-| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-08 |  |
+| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-08 | 2025-02-08 |
+| [Tweaker \(feat\. Lil Wayne\) \- Remix](https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tweaker \(Remix\)](https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX) | 3:38 | 2025-02-07 |  |
 | [Tweakin \(feat\. Future\)](https://open.spotify.com/track/15kQL3Jyd1yeFzVUnAaT8P) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Tweakin \(feat\. Future\)](https://open.spotify.com/album/4o0RQNBivFc7JuxzLT9Kqs) | 3:03 | 2021-09-02 | 2023-03-15 |
 | [Tweaking \(feat\. Vory\)](https://open.spotify.com/track/0OOQ6JTTFaWIoUWc6r33w4) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:17 | 2024-10-25 | 2024-11-02 |
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2021-09-02 | 2022-06-11 |

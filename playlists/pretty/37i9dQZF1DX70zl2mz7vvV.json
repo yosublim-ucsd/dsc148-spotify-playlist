@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 59422,
+  "num_followers": 59447,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Reign Of Fire",
-        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "That Day Will Come",
-      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Inna Heights",
         "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 273040,
       "name": "Hills And Valleys",
       "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
-      },
-      "artists": [
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Heart Of The Congos",
         "url": "https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 328240,
       "name": "Fisherman",
       "url": "https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Down In Jamaica: 40 Years of VP Records",
-        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
-      },
-      "artists": [
-        {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        }
-      ],
-      "duration_ms": 250190,
-      "name": "She's Royal",
-      "url": "https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reggae Gold 2012",
         "url": "https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "duration_ms": 250190,
+      "name": "She's Royal",
+      "url": "https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J"
     },
     {
       "added_at": "2020-10-19 09:02:25",

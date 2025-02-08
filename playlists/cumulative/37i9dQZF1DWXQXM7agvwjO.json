@@ -13485,6 +13485,28 @@
     },
     {
       "album": {
+        "name": "it's you",
+        "url": "https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5"
+      },
+      "artists": [
+        {
+          "name": "Lemon City",
+          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
+        },
+        {
+          "name": "colin",
+          "url": "https://open.spotify.com/artist/3pW3RSgLBxQmVXDUgyyHPP"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "it's you",
+      "url": "https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz"
+    },
+    {
+      "album": {
         "name": "J-O-B",
         "url": "https://open.spotify.com/album/2QsCvTev6EAZVuxYA5nfi5"
       },

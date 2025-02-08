@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,109 likes - 85 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,120 likes - 85 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 8 | [Illusion \- Logic1000 Remix](https://open.spotify.com/track/77kkDugNfkAar6gx2UkuHi) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Illusion \(Logic1000 Remix\)](https://open.spotify.com/album/1uWLzkJnbcLwKrfaoAa11p) | 3:19 |
 | 9 | [Neighborhood Drama \- Original Mix](https://open.spotify.com/track/0AfjqnkVz9dZbXLWmptG6L) | [Robin Porter](https://open.spotify.com/artist/0aW2YtrhnhsBlC2EbbzyMe), [Lucas Rodenbush](https://open.spotify.com/artist/7k4XiW0Rkl2gT1RKJsFzoB) | [Dreams Of Santa Ana](https://open.spotify.com/album/5JnxNkwKn8vEHtBL2KgvA8) | 5:13 |
 | 10 | [Highlights \- Mixed](https://open.spotify.com/track/5g8y3No4zR8JckYVDyEA2S) | [DJ Buck](https://open.spotify.com/artist/55SVN0FQCBPhNMPuKPUyRd) | [fabric 10: Doc Martin \(DJ Mix\)](https://open.spotify.com/album/1bDtqoU9BBF9YkGuOE5ZD0) | 4:05 |
-| 11 | [Boriqua Posse \(The Kiss Connection Mix\)](https://open.spotify.com/track/4X1U5z2I3ZMCN3fl0fKWei) | [Rare Arts](https://open.spotify.com/artist/3U1actp6fBCEOKbUrtI4Mv) | [Boriqua Posse \(Mixes\)](https://open.spotify.com/album/3ZLnUL8i3TDfb42WftG4pP) | 5:03 |
+| 11 | [Boriqua Posse \- The Kiss Connection Mix](https://open.spotify.com/track/4X1U5z2I3ZMCN3fl0fKWei) | [Rare Arts](https://open.spotify.com/artist/3U1actp6fBCEOKbUrtI4Mv) | [Boriqua Posse \(Mixes\)](https://open.spotify.com/album/3ZLnUL8i3TDfb42WftG4pP) | 5:03 |
 | 12 | [Bugg'n](https://open.spotify.com/track/57eOI4ftuKaQ9SbCKLG8df) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:25 |
 | 13 | [IDFKA](https://open.spotify.com/track/3BfXyeEsyf6dJEf5ZvaCKV) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [IDFKA](https://open.spotify.com/album/5cm1XhAt6PK1M8kqbfxHaQ) | 2:56 |
 | 14 | [New Day \- Club Vocal Mix](https://open.spotify.com/track/4sTilZKdZ50w5aSNpQoh54) | [Round Two](https://open.spotify.com/artist/4he15ixNlw68u4LmeKTKEY), [Andy Caine](https://open.spotify.com/artist/0ch3WsezSB3uS12VZDQvJu) | [1993\-99 Main Street Records](https://open.spotify.com/album/5xRtyFjbbzTVAMiIWxUH8A) | 6:52 |

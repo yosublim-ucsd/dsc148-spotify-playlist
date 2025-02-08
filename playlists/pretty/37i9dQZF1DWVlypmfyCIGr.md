@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: じん
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,470 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,488 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 68 | [バイバイハッピィパンク](https://open.spotify.com/track/5LiQANlZvzbbjHVduG66NV) | [ニィキュッパ](https://open.spotify.com/artist/2xO9IhKnLiL2kuOmuaRgaI) | [ハッピィエンド](https://open.spotify.com/album/2l0tJvkLuo7tAL92WYvwOn) | 0:23 |
 | 69 | [シュナイダーMk2](https://open.spotify.com/track/3ZldfIvFNUdG0WVB65nrlQ) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [シュナイダーMk2](https://open.spotify.com/album/1LmGlgC0NLVQWcBk0TzSt5) | 3:52 |
 | 70 | [Sea U Again](https://open.spotify.com/track/5QDGNtdULpiFcMuMXhiJF4) | [FUKI](https://open.spotify.com/artist/3cKOFDKcBvoPvxfkzErvdc) | [Sea U Again](https://open.spotify.com/album/1pkd1NFnoLPWrLbBjLRcHR) | 3:29 |
-| 71 | [capital, sweat](https://open.spotify.com/track/3TPnXcGNj5ZLC7tAlZUgGz) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Insomniac Reveries](https://open.spotify.com/album/3KmJraekZB97bNHKm3V83u) | 2:39 |
+| 71 | [Capital, sweat](https://open.spotify.com/track/3TPnXcGNj5ZLC7tAlZUgGz) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Insomniac Reveries](https://open.spotify.com/album/3KmJraekZB97bNHKm3V83u) | 2:39 |
 | 72 | [My Life](https://open.spotify.com/track/5yNVbUy0Wb9sI16sPqq8Sm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [My Life](https://open.spotify.com/album/3obgXX4aSK1cckluCjtmNH) | 4:26 |
 | 73 | [With My Heart \- Sakepnk Remix](https://open.spotify.com/track/4lQ2KUpK6SNeQBGjJQo3XX) | [01sail](https://open.spotify.com/artist/4x3WVAIQvl8zMeg6WCvGAC), [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Ámina](https://open.spotify.com/artist/3VALVC9YYh3KJ6rHlaXBK2) | [With My Heart \(Remix\)](https://open.spotify.com/album/0G2WZO6GLjl1njxJexhq59) | 2:36 |
 | 74 | [jasmine](https://open.spotify.com/track/7uj86w8rySYIismceKwvUw) | [zuni](https://open.spotify.com/artist/6im7758Y3E6Kf4mJMSNGgG), [pasadena](https://open.spotify.com/artist/6c5ZiqGIg6OW4mgmKOLOx0) | [jasmine](https://open.spotify.com/album/3LmA6N2i9Y0TEpbIBgBcNs) | 2:40 |

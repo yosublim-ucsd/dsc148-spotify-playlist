@@ -1266,24 +1266,6 @@
     {
       "album": {
         "name": "Taken by Force",
-        "url": "https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 311866,
-      "name": "The Sails of Charon (2015 - Remaster)",
-      "url": "https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF"
-    },
-    {
-      "album": {
-        "name": "Taken by Force",
         "url": "https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK"
       },
       "artists": [
@@ -1298,6 +1280,24 @@
       "duration_ms": 311866,
       "name": "The Sails of Charon - 2015 - Remaster",
       "url": "https://open.spotify.com/track/0KmJAc7tRRI3hWM7A0Ejtk"
+    },
+    {
+      "album": {
+        "name": "Taken by Force",
+        "url": "https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311866,
+      "name": "The Sails of Charon - 2015 - Remaster",
+      "url": "https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF"
     },
     {
       "album": {

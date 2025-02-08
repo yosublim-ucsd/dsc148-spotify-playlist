@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Half Moon Run",
+  "description": "A laid-back trip in the folk scene. Cover: DYAN",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 261165,
       "name": "A Running Start",
       "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "album": {
+        "name": "Midwest",
+        "url": "https://open.spotify.com/album/2VBZSu0oiE6ggq0IoBRFbf"
+      },
+      "artists": [
+        {
+          "name": "DYAN",
+          "url": "https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262221,
+      "name": "Acoustic Midwest",
+      "url": "https://open.spotify.com/track/1cCedPXsGjIpxNlktIs9Zp"
     },
     {
       "album": {
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 148484,
       "name": "Careful",
       "url": "https://open.spotify.com/track/5LSjtkkZfkaqA5PyreYhtO"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 176454,
       "name": "Codroy",
       "url": "https://open.spotify.com/track/4Ico5UBpM7AnBpoq2XG9Bf"
@@ -7039,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
@@ -7720,6 +7756,24 @@
       "duration_ms": 229333,
       "name": "Human",
       "url": "https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk"
+    },
+    {
+      "album": {
+        "name": "The Light Behind the Sun",
+        "url": "https://open.spotify.com/album/3pImHGxFdloN4LJAji9t11"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220930,
+      "name": "Human Kind",
+      "url": "https://open.spotify.com/track/0y3eDdEgiTjzBloXyDhaZD"
     },
     {
       "album": {
@@ -10443,6 +10497,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE"
       },
@@ -10862,7 +10934,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 384680,
       "name": "Midwest",
       "url": "https://open.spotify.com/track/2GJl0uGaXmSTz8stxYRPWG"
@@ -16159,6 +16231,24 @@
     },
     {
       "album": {
+        "name": "Sweetest Heart",
+        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196436,
+      "name": "Sweetest Heart",
+      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
+    },
+    {
+      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -18216,7 +18306,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 162143,
       "name": "Vows",
       "url": "https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK"
@@ -18996,7 +19086,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 229094,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG"

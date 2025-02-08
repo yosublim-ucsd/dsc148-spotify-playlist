@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Lady Gaga",
-  "num_followers": 63495,
+  "num_followers": 63597,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6TcmgAAAADc4SUV8lnvpTLCSauQovSO",
+  "snapshot_id": "Z6WgvgAAAACXCPlQeWIE3JyZIdIzkTl8",
   "tracks": [
     {
       "added_at": "2025-02-06 16:00:26",
@@ -655,6 +655,46 @@
     {
       "added_at": "2025-02-06 16:00:26",
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 134579,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
+    },
+    {
+      "added_at": "2025-02-07 05:57:18",
+      "album": {
+        "name": "ACTIN UP",
+        "url": "https://open.spotify.com/album/5qzqgeNDDbRmfiw1umMIM3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 133768,
+      "name": "ACTIN UP",
+      "url": "https://open.spotify.com/track/1Nk1kQx3HmUaobcAu9S26f"
+    },
+    {
+      "added_at": "2025-02-06 16:00:26",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -675,7 +715,7 @@
     {
       "added_at": "2025-02-06 16:00:26",
       "album": {
-        "name": "'Caligo Pt.1'",
+        "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
       },
       "artists": [

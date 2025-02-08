@@ -4,7 +4,7 @@
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Malcriada en portada
 
-175 songs - 7 hr 10 min
+176 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10percs](https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [10percs](https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE) | 2:06 | 2024-06-14 |  |
 | [2 Love Samurai](https://open.spotify.com/track/1z2fgaDhNZsLjPAtegWyk8) | [bbonsai!!!](https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj), [Rxven](https://open.spotify.com/artist/6Trdbxtu1FvtzRXgs6rqed), [Carzé](https://open.spotify.com/artist/7aW32KH3dAEo6QW6IrcdPP) | [2 Love Samurai](https://open.spotify.com/album/5r5wR34gyvCCANQJVon3hl) | 2:58 | 2024-06-14 |  |
 | [A La Verga Jajajajj](https://open.spotify.com/track/2FmwONf4l0wngRrEirgYCb) | [Tenshi](https://open.spotify.com/artist/2uQeXX2ga2kvnHeP81aI2Y) | [A La Verga Jajajajj](https://open.spotify.com/album/1AKX5E6tnjw1GZ7LFGlm7K) | 1:48 | 2024-06-14 |  |
-| [a new kind of love!\~](https://open.spotify.com/track/1l0jYHiU3lf3akZPMGzp5O) | [九GANG](https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [a new kind of love!\~](https://open.spotify.com/album/5UBzcIynRDzaal0lWdE7ge) | 1:51 | 2025-01-31 |  |
+| [a new kind of love!\~](https://open.spotify.com/track/1l0jYHiU3lf3akZPMGzp5O) | [九GANG](https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [a new kind of love!\~](https://open.spotify.com/album/5UBzcIynRDzaal0lWdE7ge) | 1:51 | 2025-01-31 | 2025-02-08 |
 | [All The Things She Said](https://open.spotify.com/track/4pABnbjMHWimPf00jSX4Y6) | [dnvn](https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY), [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [All The Things She Said](https://open.spotify.com/album/3pjn1Sit19o4DLIirtZVy9) | 2:32 | 2024-06-14 | 2024-10-26 |
 | [Anestesiao](https://open.spotify.com/track/1LHDXAgjYAFTGb0oU0jqZq) | [Lil Faso](https://open.spotify.com/artist/08Y9HpfzsVS3aw35bNr6rG), [prod\. rouge](https://open.spotify.com/artist/2iMks3kFvLuZ880uMpXyGJ) | [Anestesiao](https://open.spotify.com/album/1SabieQwqrnYVWscPFdePl) | 2:03 | 2024-06-14 | 2024-10-26 |
 | [Antipanico](https://open.spotify.com/track/70zOMyUetEcZus2MknoWMI) | [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa), [3RIP](https://open.spotify.com/artist/7sQ4zZZvkVfG6Ecpx1se6v) | [Antipanico](https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W) | 3:06 | 2024-06-14 | 2025-02-01 |
@@ -137,6 +137,7 @@
 | [red eyes](https://open.spotify.com/track/1rZwZFYJ368YbP56r0jTWV) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [red eyes](https://open.spotify.com/album/4HAR5r080n6dJzQ7kLtVSw) | 1:58 | 2024-12-20 |  |
 | [REPL4CE!](https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [REPL4CE!](https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr) | 2:19 | 2024-06-14 | 2024-10-05 |
 | [RUNNING](https://open.spotify.com/track/0M07eJ3dp9d6RtOhwGO8Nj) | [Rollie X](https://open.spotify.com/artist/1SU8GiqYbkNunacmuY7GDJ), [ANGELSWING](https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI), [Carzé](https://open.spotify.com/artist/4vmwjSwJNFzywMixqnDZ2e) | [RUNNING](https://open.spotify.com/album/0agfEGjfgvWoj7sMSNN6HR) | 3:06 | 2024-11-08 |  |
+| [RUTA TECHNOMAMI](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [RUTA TECHNOMAMI](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 | 2025-02-07 |  |
 | [SAD BITCH](https://open.spotify.com/track/4yk0jTru8aoyq9rwuEiY5X) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 1:56 | 2024-06-14 | 2025-02-01 |
 | [Sad Dead](https://open.spotify.com/track/4b9frNsk0k9NMgtYSPnZLq) | [Umi Not Human](https://open.spotify.com/artist/60loeQ8CVPWqhsQ9H0M8L2), [Hbrok3n](https://open.spotify.com/artist/1QGX5YJ9VvTBlFPXuhJSVp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sad Dead](https://open.spotify.com/album/4vQOgbpzxmZOfYJnk0l6MF) | 3:26 | 2025-01-03 |  |
 | [Satanás](https://open.spotify.com/track/2cGbSqtP4KISkGkdudt1Zi) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Satanás](https://open.spotify.com/album/17r0HwxKSl2vjfaaKIrikw) | 2:49 | 2024-12-20 |  |

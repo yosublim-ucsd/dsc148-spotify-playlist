@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: Luby Sparks \)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: AprilBlue\)
 
-180 songs - 12 hr 26 min
+182 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 | 2024-06-27 |  |
 | [Florida](https://open.spotify.com/track/668zlxXdGYpzw8ALsaRkhH) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Florida](https://open.spotify.com/album/61ChRb4sarnZsE0G4QC8gL) | 3:36 | 2024-06-27 | 2024-12-05 |
 | [Flow](https://open.spotify.com/track/6gwNlcFoSNnDBNOyE8qcSk) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Flow](https://open.spotify.com/album/3Ypi6FylEdAkvOUOfwpmIs) | 4:25 | 2024-06-27 |  |
+| [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-07 |  |
 | [Fuzzy Mt\. / 絨毛山線](https://open.spotify.com/track/6YbBjAINBcFbeVlekMV53c) | [DoZzz](https://open.spotify.com/artist/7hnCXuiDbLZYAxgVyMbjgB) | [Passage](https://open.spotify.com/album/1dFa01UouZKtNsOKp3m6Rm) | 7:03 | 2024-06-27 | 2024-12-05 |
 | [Glimmer Lights Inside the Cuckoo's Head](https://open.spotify.com/track/0Zwv61h0zhJyZgWH720vim) | [Beetleflux](https://open.spotify.com/artist/1OhmcZ5wH46kBUp7dzFJkD), [Dara Delila](https://open.spotify.com/artist/6Lt6MjENytYNpYmISOCPZ2) | [Glimmer Lights Inside the Cuckoo's Head](https://open.spotify.com/album/7M2eZysNdk5Qz2Sim2sgaD) | 2:40 | 2024-12-04 |  |
 | [Gravits](https://open.spotify.com/track/4iVJZk5t7t3E8wYRKW9xhT) | [Crayon Case](https://open.spotify.com/artist/5vjmcREJLxyDVkcb0KjNz9) | [Catch Twenty\-three!!](https://open.spotify.com/album/25SKpGKrZE2E4gAEsLORED) | 4:39 | 2024-06-27 |  |
@@ -77,7 +78,7 @@
 | [It's Got Me Again](https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P) | [Minaxi](https://open.spotify.com/artist/3gvZuaA1lMGmQoQNl9UmaC) | [It's Got Me Again](https://open.spotify.com/album/4AsrQZ2yw0bEElkyB6jJWB) | 4:46 | 2024-06-27 | 2024-11-08 |
 | [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 | 2024-07-04 | 2024-10-11 |
 | [Jam Besuk](https://open.spotify.com/track/5Ii4yocie87LCUFIP5HOIK) | [Mafia Pemantik Qolbu](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom) | [Jam Besuk](https://open.spotify.com/album/0sENhyCzYjVc5FVAQzRpmX) | 3:53 | 2024-10-10 | 2024-12-05 |
-| [Jason](https://open.spotify.com/track/0muSzxcpLf9pLLydlTPwyV) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 2:00 | 2024-12-04 |  |
+| [Jason](https://open.spotify.com/track/0muSzxcpLf9pLLydlTPwyV) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 2:00 | 2024-12-04 | 2025-02-08 |
 | [Jester crimes](https://open.spotify.com/track/1ymHrpaFt99ukvYzl3jpn2) | [Lyre Still](https://open.spotify.com/artist/3Qte7FNZfil50xdgCs0ajZ) | [Grace](https://open.spotify.com/album/2QGyIkvXy85oWcgQm7X4xU) | 3:27 | 2024-06-27 |  |
 | [jitensha](https://open.spotify.com/track/6v4169idGWlzblAiw2dB67) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [jitensha](https://open.spotify.com/album/6pFZUsvreZ5qcY8ksvOlHH) | 6:26 | 2024-06-27 | 2024-12-05 |
 | [Just.](https://open.spotify.com/track/3Yaajfj3UQmyjzqwKm8uge) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [18PERSONAL](https://open.spotify.com/album/6oICItoCzy52AKxGR0Kw9i) | 1:05 | 2024-10-10 | 2024-11-08 |
@@ -88,7 +89,7 @@
 | [Lambda \(λ\)](https://open.spotify.com/track/1kUVmT99zwgXFAtnoLSbk9) | [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [Commit Death](https://open.spotify.com/album/1WcDZaLkfS0dJGN5r9PRec) | 7:40 | 2024-09-05 | 2024-12-05 |
 | [Leave](https://open.spotify.com/track/6YENNctHxnfa4U2AXD8h8Q) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fade](https://open.spotify.com/album/3tBmyjfGvGRPPZV32BeGF7) | 4:01 | 2024-06-27 |  |
 | [Lily](https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Lily](https://open.spotify.com/album/1elWcJyr9tqhnpt8uZXUFR) | 4:27 | 2024-06-27 | 2024-08-09 |
-| [Long Goodbye](https://open.spotify.com/track/3sSO66ktjkZ8u6cEFsuJ4p) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 5:04 | 2024-12-04 |  |
+| [Long Goodbye](https://open.spotify.com/track/3sSO66ktjkZ8u6cEFsuJ4p) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 5:04 | 2024-12-04 | 2025-02-08 |
 | [Lost](https://open.spotify.com/track/3Op63ZmpzYIpF92J3y5m9u) | [My Violainé Morning](https://open.spotify.com/artist/7fAZaqZKCfkyMnZpNLb2bR) | [Lost](https://open.spotify.com/album/5bQBMuWP3fq8UERgeq3oAB) | 6:25 | 2024-06-27 |  |
 | [Lost](https://open.spotify.com/track/59AUz2usEfAG5a23Q3JIwP) | [Withered Whispers](https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7) | [Lost](https://open.spotify.com/album/5NAiE3XSwBl0NicxOjpnOK) | 4:26 | 2024-10-31 | 2024-12-05 |
 | [Loving You \(Isn't So Hard\)](https://open.spotify.com/track/4p4yq2tUiF5GBGhjxwE80t) | [Betre](https://open.spotify.com/artist/0LFjqFsBRILZ1usRkfwa6l) | [Loving You \(Isn't So Hard\)](https://open.spotify.com/album/2LpBEqfnEMjHRc9Laxems8) | 2:59 | 2024-06-27 |  |
@@ -111,7 +112,7 @@
 | [North](https://open.spotify.com/track/7t0gATi7yocV67rRNEXcDp) | [모즈다이브](https://open.spotify.com/artist/0ntQ7sGnJMIHCjp63GbQ2e) | [THE STASIS OF HUMANITY](https://open.spotify.com/album/1elGHd8JIVzG7r92vCPW1n) | 5:03 | 2024-06-27 |  |
 | [Nostalgia](https://open.spotify.com/track/78ar3KjOd7cJIZJqk67mnw) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 3:52 | 2024-06-27 |  |
 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 | 2024-08-30 | 2024-12-05 |
-| [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 | 2024-06-27 |  |
+| [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 | 2024-06-27 | 2025-02-08 |
 | [Nothing And Everything](https://open.spotify.com/track/0Wg3WsiL8g0mfbmrysUo2w) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/47gPq3W3W8PD0namaGWmtC) | 5:45 | 2024-06-27 | 2024-12-05 |
 | [Nothing And Everything](https://open.spotify.com/track/3mWylfjxLhqVXtgeIP8OWk) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/6r9f8YrvgPf06yW7n6EWMl) | 5:45 | 2024-12-04 |  |
 | [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-06-27 |  |
@@ -146,7 +147,7 @@
 | [shhhhh](https://open.spotify.com/track/7vPVFM00o5a5Fo1YnkHSV2) | [Taffy](https://open.spotify.com/artist/1yVqLRlRVVJhIfS9aVium0) | [shhhhh](https://open.spotify.com/album/0cqh67MklIrX083Aj8l3MR) | 2:43 | 2025-01-23 |  |
 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 | 2024-06-27 |  |
 | [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 |  |
-| [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 |  |
+| [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 | 2025-02-08 |
 | [Sometimes](https://open.spotify.com/track/5cTPib9wffQwW6KEgldFBI) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Sometimes](https://open.spotify.com/album/6z1B90KXtwR4iG1JgjQ3KS) | 3:11 | 2024-06-27 |  |
 | [stay away go!](https://open.spotify.com/track/0v7lzkEqZsFPoaIngSnHw7) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [Internet Teenage Lover](https://open.spotify.com/album/1wF9osW6gyGBiUzdWQIIUK) | 4:34 | 2024-06-27 | 2024-08-31 |
 | [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 | 2024-12-04 |  |
@@ -157,7 +158,7 @@
 | [Summer](https://open.spotify.com/track/6KfBtlxnO1lwrvySAoynQD) | [feelslikeyou](https://open.spotify.com/artist/7lemqCn2A256qHn0D4YX0A) | [Haze / Summer](https://open.spotify.com/album/7bK4irNUSn6AwdmuVsPMkd) | 2:46 | 2024-06-27 | 2024-10-11 |
 | [Summertime Has Come](https://open.spotify.com/track/5mUmvuw7jUcSYwa7NiGcxT) | [Lucys Meet Dopamine](https://open.spotify.com/artist/5MLCXwFSeVrl4A1aE1Z9F5) | [25​\-​35​°​C](https://open.spotify.com/album/1jo7RgR3mTETN56hjaFW9B) | 6:15 | 2024-06-27 | 2024-10-11 |
 | [Tawdry Clip](https://open.spotify.com/track/2JV2ut3HQ7y03WKSZQpqnN) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI) | [Morning Fragment](https://open.spotify.com/album/5kojgQgmj165AIeqoJb1ow) | 3:13 | 2024-06-27 | 2024-08-31 |
-| [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-12-04 |  |
+| [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-12-04 | 2025-02-08 |
 | [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 | 2024-11-22 |
 | [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 | 2024-12-05 |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 | 2024-08-09 |
@@ -176,8 +177,9 @@
 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 | 2024-06-27 |  |
 | [ฉันเสียใจจริงๆ](https://open.spotify.com/track/4dx3VM88XTEsyGrQ3Fd0Ww) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [ฉันเสียใจจริงๆ](https://open.spotify.com/album/3JZz45zKlVzdsXgBnD97Sj) | 3:48 | 2024-06-27 |  |
 | [พบ พา ลา จาก](https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep looking at the window](https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19) | 4:40 | 2024-06-27 | 2024-12-05 |
-| [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 | 2025-01-16 |  |
+| [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 | 2025-01-16 | 2025-02-08 |
 | [さざめく麦わら](https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2) | [Happy Ever After](https://open.spotify.com/artist/1zbiJz0qV0zYZCXvNRECga) | [Total Feedback 2024](https://open.spotify.com/album/2Dgvi6e7y44CSRXwiURRg2) | 2:33 | 2024-06-27 | 2024-10-11 |
+| [ひらいて](https://open.spotify.com/track/3X4U5HF411RAU1MOteMbG8) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [yura](https://open.spotify.com/album/6DCKEaArrhu5mdwr5e8vgY) | 4:09 | 2025-02-07 |  |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-06-27 |  |
 | [傍晚去太子灣嗎](https://open.spotify.com/track/1qG2U4IDgPI37CixBQZ4PQ) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [傍晚去太子灣嗎](https://open.spotify.com/album/5Htgs7LGnn3EzjDIpjMi28) | 4:55 | 2024-06-27 |  |
 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 | 2025-01-23 |  |
@@ -185,8 +187,8 @@
 | [情人！](https://open.spotify.com/track/3FpBnK9vduKWb48YCXc9c8) | [河豚子](https://open.spotify.com/artist/4tZVnilXcr5CaAgaVVW2be) | [天堂不過就是我們的海](https://open.spotify.com/album/5fNNz4UYiGJ1Ge3mFlaE3D) | 3:33 | 2024-06-27 |  |
 | [最初の天使](https://open.spotify.com/track/3p9LwJEPqgy4xO0YPzel4V) | [ミレー](https://open.spotify.com/artist/5ksX7EDcPMxGNLDdoYnIlN) | [ブルー、燃えて](https://open.spotify.com/album/2ZVGLo7bZhWhsNOGO28Tkr) | 4:15 | 2024-08-15 | 2024-10-11 |
 | [花束 \- re\-recording](https://open.spotify.com/track/6cOgk4wMlOG1qr7INlPlVX) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [花束 \(re\-recording\)](https://open.spotify.com/album/1pqXoArCj3TIPDFgDQz9um) | 4:06 | 2025-01-23 |  |
-| [触れて \- re\-recording](https://open.spotify.com/track/0a2u5s21XvkRuDNcQ5h4Yy) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [触れて \(re\-recording\)](https://open.spotify.com/album/0WNfJGd9yZ6Mgmx1BNZcrm) | 3:46 | 2025-01-16 |  |
-| [途中](https://open.spotify.com/track/2frHHHja8jNzy5s4Pdx4hr) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/3hdQSdjcrNG6b7MVCXBDac) | 3:31 | 2024-12-04 |  |
+| [触れて \- re\-recording](https://open.spotify.com/track/0a2u5s21XvkRuDNcQ5h4Yy) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [触れて \(re\-recording\)](https://open.spotify.com/album/0WNfJGd9yZ6Mgmx1BNZcrm) | 3:46 | 2025-01-16 | 2025-02-08 |
+| [途中](https://open.spotify.com/track/2frHHHja8jNzy5s4Pdx4hr) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/3hdQSdjcrNG6b7MVCXBDac) | 3:31 | 2024-12-04 | 2025-02-08 |
 | [這片海沒有夕陽](https://open.spotify.com/track/0M52mIICT8TSkwbvC0lU9o) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [INVISIBLE TUNNELS](https://open.spotify.com/album/6XJ2wPTUeVIo4ufktIBtjV) | 4:17 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

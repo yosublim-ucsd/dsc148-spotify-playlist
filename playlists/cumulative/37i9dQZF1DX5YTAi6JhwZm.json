@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/0kWKrCjfPKEtAxLgq646Mo"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297693,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/0jrJ3Dr0E51xShrrzHO8ZP"
+    },
+    {
+      "album": {
         "name": "The Hard Swing",
         "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
       },
@@ -1040,6 +1058,32 @@
       "duration_ms": 187213,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1Aq4DvP7DWpGSKcQX4WRiC"
+      },
+      "artists": [
+        {
+          "name": "Matt Block",
+          "url": "https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP"
+        },
+        {
+          "name": "Morton Block",
+          "url": "https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ"
+        },
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240718,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/5VnQFEz0Z3xGc4bK5MjAL0"
     },
     {
       "album": {

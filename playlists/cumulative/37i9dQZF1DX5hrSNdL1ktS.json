@@ -2607,6 +2607,32 @@
     },
     {
       "album": {
+        "name": "Chuli",
+        "url": "https://open.spotify.com/album/0fBFELOqNzmXvgVFv2LzeF"
+      },
+      "artists": [
+        {
+          "name": "Gweri B",
+          "url": "https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Chuli (feat. Alu Mix)",
+      "url": "https://open.spotify.com/track/7b4q5LaPVoxVjS8aBD110F"
+    },
+    {
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -3284,7 +3310,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 141650,
       "name": "Cumbiaton Sonidero 4",
       "url": "https://open.spotify.com/track/0xo4ZUq4wZAM34DZq54xrZ"
@@ -4023,6 +4049,32 @@
     },
     {
       "album": {
+        "name": "Discotequero",
+        "url": "https://open.spotify.com/album/6CllckhbuGiBuXeVnxhMSq"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia",
+          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202965,
+      "name": "Discotequero",
+      "url": "https://open.spotify.com/track/5kGRT8y98NrfmGbKEHAvuE"
+    },
+    {
+      "album": {
         "name": "Diva Virtual",
         "url": "https://open.spotify.com/album/2hqyXqnD3YM7oqrRGixHeO"
       },
@@ -4428,6 +4480,28 @@
       "duration_ms": 188862,
       "name": "El Que Resuelve",
       "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
+    },
+    {
+      "album": {
+        "name": "El Que Te Parte",
+        "url": "https://open.spotify.com/album/1MHZuYtrwjlX891FSf8MaF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Vuitton",
+          "url": "https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "El Que Te Parte",
+      "url": "https://open.spotify.com/track/11WHU4zmKVloTsCIa4enLv"
     },
     {
       "album": {
@@ -5046,7 +5120,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120000,
       "name": "Faldita ALO",
       "url": "https://open.spotify.com/track/6PI2ixIOiD6OkAm214UirV"
@@ -5582,7 +5656,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
@@ -6032,6 +6106,24 @@
       "duration_ms": 172018,
       "name": "Hola (mami k te tomas)",
       "url": "https://open.spotify.com/track/2bEY8kgDAQLQJQdHSlpKii"
+    },
+    {
+      "album": {
+        "name": "Hola mami (Directo)",
+        "url": "https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220827,
+      "name": "Hola mami",
+      "url": "https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C"
     },
     {
       "album": {
@@ -6812,7 +6904,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 279130,
       "name": "La Chinita de los Ojos Caf\u00e9s - Remix",
       "url": "https://open.spotify.com/track/51evcf64CFRXKBlTN8bT80"
@@ -7264,6 +7356,32 @@
       "duration_ms": 183225,
       "name": "LA PUERTA",
       "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+    },
+    {
+      "album": {
+        "name": "La Tira",
+        "url": "https://open.spotify.com/album/1KLzIVoQz1Nr4j8a4BNRsV"
+      },
+      "artists": [
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148163,
+      "name": "La Tira",
+      "url": "https://open.spotify.com/track/4azSMEQpmVNqFjxQYvFvWJ"
     },
     {
       "album": {
@@ -7782,7 +7900,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157000,
       "name": "LOLI POP",
       "url": "https://open.spotify.com/track/4fYaslvHqsrDb1TrfgZoWp"
@@ -8064,7 +8182,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 171964,
       "name": "MACHUCO",
       "url": "https://open.spotify.com/track/20AO2WwNDOcOfa0FrQmRKV"
@@ -9394,6 +9512,36 @@
       "duration_ms": 195000,
       "name": "Moschino",
       "url": "https://open.spotify.com/track/60UXgrlNacFlK32eijT6qk"
+    },
+    {
+      "album": {
+        "name": "Motocicleta",
+        "url": "https://open.spotify.com/album/2faKkaM7h0h1cTWt1Wd73S"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Motocicleta",
+      "url": "https://open.spotify.com/track/1Zpw8ENGX8EqtHZ5UCbUYH"
     },
     {
       "album": {
@@ -11312,7 +11460,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 180880,
       "name": "Piripituchy",
       "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
@@ -13016,6 +13164,24 @@
       "duration_ms": 154634,
       "name": "SANDUNGUEA",
       "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
+    },
+    {
+      "album": {
+        "name": "Sandungueo",
+        "url": "https://open.spotify.com/album/7n1YZR3iyA8rcrzwHeZszp"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154017,
+      "name": "Sandungueo",
+      "url": "https://open.spotify.com/track/241N1SlPSolmwtOvFB2Ke1"
     },
     {
       "album": {
@@ -14836,7 +15002,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
@@ -15426,6 +15592,28 @@
       "duration_ms": 232956,
       "name": "Un Putero (feat. Aguila DS & Gogo Mix)",
       "url": "https://open.spotify.com/track/5WRBPUQvsE5BQzBTpONhei"
+    },
+    {
+      "album": {
+        "name": "Una Gata",
+        "url": "https://open.spotify.com/album/6zAY0QP94a1dflSgyki4QY"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143595,
+      "name": "Una Gata",
+      "url": "https://open.spotify.com/track/5W5BtLhse1zGw7tIS1ZIT4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-911 songs - 2 day 3 hr 41 min
+912 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [FASTEST](https://open.spotify.com/track/2SFTvk2vpu26ZTpMuO3cjW) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [FASTEST](https://open.spotify.com/album/6PPdZI6Qg0AzTS10i2qxwl) | 2:30 | 2024-04-17 | 2024-07-06 |
 | [FEEL AGAIN](https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [FEEL AGAIN](https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW) | 2:47 | 2024-05-22 | 2024-08-14 |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
+| [Feel Ur Luv](https://open.spotify.com/track/1pmn3XAFp1H1rJdyBB9dpN) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Feel Ur Luv](https://open.spotify.com/album/6IM2n8xlbXMefM1fXRxI40) | 3:06 | 2025-02-07 |  |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-05 | 2023-12-14 |
 | [Feeling Low](https://open.spotify.com/track/4tVVyEKRJZCyoEWC3rqy8t) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Feeling Low](https://open.spotify.com/album/2j2CO9BIpL1aGgVtKqvqqp) | 2:55 | 2024-06-10 | 2024-09-04 |

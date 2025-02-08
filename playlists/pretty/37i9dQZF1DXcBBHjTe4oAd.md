@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > Mi toro, aquí una playlist perrona para dar el fucking roll por el barril con el Lalito y el Josuesy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,071 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,125 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 44 | [La Ramita De Ciriguaya](https://open.spotify.com/track/0PzepClKfRFI87D1TywZnT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [El Canto De Un Rebelde Para Un](https://open.spotify.com/album/7hcqIWxB110shP4PC8Wu9a) | 2:57 |
 | 45 | [Los Agachados](https://open.spotify.com/track/3M6M3XuktNXWrcluusDtRy) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:13 |
 | 46 | [Pam Pam](https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Historia De El Dúo \(Vol.1\)](https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j) | 3:47 |
-| 47 | [Por un Fume de Hachis](https://open.spotify.com/track/3Cb3X5t8QqXEp6oolGBBN3) | [union fatal](https://open.spotify.com/artist/3oIk1qSjFp5QrM6R44cqbL) | [Por un Fume de Hachis](https://open.spotify.com/album/3Lh6fbzwC00dEZD4I36mKA) | 3:18 |
+| 47 | [Por un Fume de Hachis](https://open.spotify.com/track/3Cb3X5t8QqXEp6oolGBBN3) | [Union Fatal](https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj) | [Por un Fume de Hachis](https://open.spotify.com/album/3Lh6fbzwC00dEZD4I36mKA) | 3:18 |
 | 48 | [El Hijo Desobediente](https://open.spotify.com/track/4EtEnahAm6WGKdHRL19RvK) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 5:14 |
 | 49 | [Si No Le Contesto](https://open.spotify.com/track/6NdKkfo7o6IH1Op0jsBDjN) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:41 |
 | 50 | [Cómo Quisiera Decirte](https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 2:49 |

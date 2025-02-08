@@ -2,9 +2,9 @@
 
 ### [Sad Indie](https://open.spotify.com/playlist/37i9dQZF1DWVV27DiNWxkR)
 
-> The premier alternative melancholia playlist, featuring Dora Jar
+> The premier alternative melancholia playlist, featuring SASAMI
 
-420 songs - 1 day 4 hr 7 min
+422 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-08-22 | 2024-09-14 |
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-02-29 | 2024-09-14 |
 | [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 | 2022-07-16 |
-| [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 | 2025-01-27 |  |
+| [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 | 2025-01-27 | 2025-02-08 |
 | [Demand It](https://open.spotify.com/track/2AuugcWwwlDCjUU5JcbDcD) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wildly Idle \(Humble Before the Void\)](https://open.spotify.com/album/6U8MP9A9MF2fTdFRf0RTr1) | 5:01 | 2020-08-30 | 2020-09-11 |
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2020-10-14 | 2022-04-10 |
 | [Dick Cheney](https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [Skitter On Take\-Off](https://open.spotify.com/album/0mIKLkym8IE6zoJmuk4Y9N) | 3:18 | 2020-08-30 | 2020-09-11 |
@@ -89,7 +89,7 @@
 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-08-26 | 2024-09-14 |
 | [Don't Miss It](https://open.spotify.com/track/5VYCCPct242jtbidE13EKK) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g) | 4:59 | 2020-03-21 | 2024-09-14 |
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2022-09-02 | 2024-04-19 |
-| [Drinking Age](https://open.spotify.com/track/6nUPcVDYjCrnNMaXAJ9eO3) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:30 | 2025-01-17 |  |
+| [Drinking Age](https://open.spotify.com/track/6nUPcVDYjCrnNMaXAJ9eO3) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:30 | 2025-01-17 | 2025-02-08 |
 | [Driving the Dynamite Truck](https://open.spotify.com/track/4mxEulRzxyx6SMkVh6mDPY) | [Seam](https://open.spotify.com/artist/0AOyxXRa4odDG1PisHJtKx) | [Kernel](https://open.spotify.com/album/1PCIUbIXn7yPQhqO2LEeE0) | 6:04 | 2020-08-30 | 2020-09-11 |
 | [Early To The Party](https://open.spotify.com/track/0J3JK0bohyKpn6zaPheYy0) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 4:05 | 2019-09-29\* | 2020-01-17 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
@@ -177,6 +177,7 @@
 | [I'll Suffer](https://open.spotify.com/track/7KbpGYolLrMabebVkYy83Q) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [The Atlantic Collection](https://open.spotify.com/album/0mA1ODJnIQ7E8Il4BdaHZ6) | 3:04 | 2020-08-30 | 2020-09-11 |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2020-05-15 | 2022-08-12 |
 | [I'm on Fire](https://open.spotify.com/track/6EdnX4fu6jAY65VmOHFhOk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [I'm on Fire](https://open.spotify.com/album/1fwLr1J1BuLKl0gh4jsn7p) | 3:07 | 2019-09-29\* | 2022-04-10 |
+| [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-02-07 |  |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2022-08-26 | 2024-09-14 |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2023-08-17 |  |
 | [intro \(i will hear silence again\)](https://open.spotify.com/track/3uZB7nzQWEu4pZu06E4MwL) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [demoitis](https://open.spotify.com/album/0aB8CKycOAEEQoZ0W2SI7E) | 3:19 | 2019-12-27 | 2020-03-21 |
@@ -410,6 +411,7 @@
 | [when the party's over](https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [when the party's over](https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw) | 3:19 | 2019-09-29\* | 2024-09-14 |
 | [when the party's over](https://open.spotify.com/track/381jKA1s90oPENoWLbQ53b) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Toxicity](https://open.spotify.com/album/08XpGFlrqm6oRi71GlH6Nu) | 3:19 | 2022-09-02 | 2022-11-14 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-06-14 |  |
+| [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2025-02-07 |  |
 | [Where's My Love](https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:22 | 2024-07-08 | 2024-09-14 |
 | [Wild As Fire](https://open.spotify.com/track/2V2lU6rKHxhRnU4eANsxEI) | [Liela Moss](https://open.spotify.com/artist/69yCD4Jh0p9vCdm6WbhWx6) | [My Name Is Safe in Your Mouth](https://open.spotify.com/album/0xL7w8UHNKjNwllWpsShFP) | 4:01 | 2019-09-29\* | 2020-03-21 |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 | 2024-01-03 | 2024-07-09 |

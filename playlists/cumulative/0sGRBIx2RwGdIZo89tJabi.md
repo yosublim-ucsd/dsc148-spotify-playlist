@@ -4,7 +4,7 @@
 
 > These are a few of my favorite tracks at the moment :\)
 
-104 songs - 5 hr 53 min
+105 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Between The Lines](https://open.spotify.com/track/2LWlnMQd6vRVTP3mbS637w) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Between The Lines](https://open.spotify.com/album/50wmSyQyDqTJHeVGgFOO5F) | 3:54 | 2023-12-29 | 2024-01-13 |
 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 | 2024-01-12 | 2024-01-27 |
 | [Bust Shots](https://open.spotify.com/track/7bj8km1k32tHLri4PxuxeQ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Bust Shots / Original Don](https://open.spotify.com/album/0dCBzYrmDPOQV5GdGgznte) | 3:13 | 2025-02-06 |  |
-| [Celebrate](https://open.spotify.com/track/71TRHJxxUIWK0otGFSar5Y) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Celebrate](https://open.spotify.com/album/61rwhJ79PDCwzj42Xckbu5) | 3:37 | 2025-02-06 |  |
+| [Celebrate](https://open.spotify.com/track/71TRHJxxUIWK0otGFSar5Y) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Celebrate](https://open.spotify.com/album/61rwhJ79PDCwzj42Xckbu5) | 3:37 | 2025-02-06 | 2025-02-08 |
 | [Chaos \- Taiki Nulight Remix](https://open.spotify.com/track/4wRVHmOvP6ai9lLWuBUpvG) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Chaos \(Taiki Nulight Remix\)](https://open.spotify.com/album/7cgwqWHvQRYFJSYcNtc5oG) | 3:01 | 2025-02-06 |  |
 | [Chill For A Second](https://open.spotify.com/track/5addPTasfPsrVkySSRIKi6) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Gas Leak](https://open.spotify.com/album/6jtm50zWpeQzA4ZEjh0vW8) | 4:06 | 2024-01-12 | 2024-01-27 |
 | [Closer](https://open.spotify.com/track/6yF1dJnlDp0g1oQPFf6Jq4) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp), [Sandra Yvette](https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe) | [Closer](https://open.spotify.com/album/5Hw7Zag3FsvtocT3AAuybi) | 4:07 | 2025-02-06 |  |
@@ -66,6 +66,7 @@
 | [No Guest List](https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [No Guest List](https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs) | 2:38 | 2024-01-26 | 2025-02-07 |
 | [Not So Subtle](https://open.spotify.com/track/03Oc00PIIeEqMAA90Hwz5s) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Floating EP](https://open.spotify.com/album/1wUnqkpdzARSyeZI4How2C) | 2:37 | 2023-12-29 | 2025-02-07 |
 | [Off My Mind](https://open.spotify.com/track/4hEmpzNWp54kvHjB00sUvd) | [Casmalia](https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT) | [Off My Mind](https://open.spotify.com/album/5lVFzx7cVQRxT8mapCE99s) | 5:26 | 2024-01-12 | 2025-02-07 |
+| [One Day](https://open.spotify.com/track/1rTBrCvyZr7h20TyfFDikd) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Stephen Geisler](https://open.spotify.com/artist/3THrINnL7RIKOZY5t38GSk) | [One Night / One Day EP](https://open.spotify.com/album/3RBWXnZTawWxnI7X1QuJjD) | 3:11 | 2025-02-07 |  |
 | [One Night](https://open.spotify.com/track/2YP7rWtC5CLtdErKHSLmTL) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [One Night](https://open.spotify.com/album/0cqj7bGAnRvkMWGw1C9MkO) | 3:06 | 2025-02-06 |  |
 | [Orange Soda](https://open.spotify.com/track/7KVcbULu13Gsweu8vVW44F) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Orange Soda](https://open.spotify.com/album/4Xs1ZoQaUlvpbcQ0r5aw60) | 3:46 | 2024-01-12 | 2025-02-07 |
 | [Parachute](https://open.spotify.com/track/4oNArAVloRFW1twlALKToz) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Vania](https://open.spotify.com/artist/6h3MHimQgTrJFz3UIrXgcC) | [Parachute](https://open.spotify.com/album/5LKuhr5uMWBHLaAe1HLZsM) | 3:44 | 2023-12-29 | 2025-02-07 |

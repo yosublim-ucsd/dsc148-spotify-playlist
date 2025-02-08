@@ -1,12 +1,12 @@
 {
   "description": "next up: IBZ opening",
-  "num_followers": 355273,
+  "num_followers": 355396,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6U/HQAAAABfwDFDSHWTnVl9wqJ2AWHV",
+  "snapshot_id": "Z6YxhgAAAACzKg4DdWzbxjbZ2o1ZQYrU",
   "tracks": [
     {
       "added_at": "2025-02-06 23:00:45",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
+      "added_at": "2025-02-07 16:15:02",
+      "album": {
+        "name": "Never Meant To Be",
+        "url": "https://open.spotify.com/album/4pTtO6WrMBImYEqAkQVpFo"
+      },
+      "artists": [
+        {
+          "name": "Mambo Brothers",
+          "url": "https://open.spotify.com/artist/3mbfCtXiLCLZb1J2Bn6pKr"
+        }
+      ],
+      "duration_ms": 244125,
+      "name": "Never Meant To Be",
+      "url": "https://open.spotify.com/track/7u4TEAlRQD3TdHblh6oOso"
+    },
+    {
       "added_at": "2025-02-06 23:00:45",
       "album": {
         "name": "SXY",
@@ -162,10 +178,14 @@
         {
           "name": "Von Boch",
           "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Biishop",
+          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
         }
       ],
       "duration_ms": 352000,
-      "name": "Cowboy Angel",
+      "name": "Cowboy Angel (feat. Biishop)",
       "url": "https://open.spotify.com/track/4emIuIKOjlFSXLCgTiSALC"
     },
     {

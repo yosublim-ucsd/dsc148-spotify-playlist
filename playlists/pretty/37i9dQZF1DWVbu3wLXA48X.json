@@ -1,6 +1,6 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: Panda Bear",
-  "num_followers": 110982,
+  "num_followers": 111020,
   "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
       "duration_ms": 190592,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL"
+    },
+    {
+      "added_at": "2025-02-06 18:31:36",
+      "album": {
+        "name": "everything's a mess",
+        "url": "https://open.spotify.com/album/2h4Rs4RhbEOVoM1zoEg4RI"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 212090,
+      "name": "everything's a mess",
+      "url": "https://open.spotify.com/track/1cuDV519RGh8kMgxkG5W9v"
     },
     {
       "added_at": "2025-02-06 18:31:36",

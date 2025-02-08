@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "+225",
+        "url": "https://open.spotify.com/album/0o2Dqfo0AOgQe7Ezl0MiAa"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        },
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "+225",
+      "url": "https://open.spotify.com/track/0V1yOMwZam40maah2kfTat"
+    },
+    {
+      "album": {
         "name": "32",
         "url": "https://open.spotify.com/album/2QKK20FwpTJen0GJMUFwG5"
       },
@@ -3855,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Different Kettle",
+        "url": "https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103521,
+      "name": "Different Kettle",
+      "url": "https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt"
+    },
+    {
+      "album": {
         "name": "Dilemma (Feat. Sidhu Moose Wala)",
         "url": "https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg"
       },
@@ -3892,7 +3932,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 196697,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
@@ -4100,7 +4140,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186046,
       "name": "Double The Fun",
       "url": "https://open.spotify.com/track/3qTvr3GcWm7iVIojVEbFBo"
@@ -5738,7 +5778,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 180880,
       "name": "Gang Ties (feat. Headie One)",
       "url": "https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6"
@@ -6198,7 +6238,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 158208,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
@@ -7137,6 +7177,24 @@
     },
     {
       "album": {
+        "name": "LEGION",
+        "url": "https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "japanese",
+      "url": "https://open.spotify.com/track/3GkTpWHIlz19hXKfyTC2U0"
+    },
+    {
+      "album": {
         "name": "Jesus Christ 2",
         "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
       },
@@ -8058,7 +8116,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 160752,
       "name": "London",
       "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
@@ -8222,6 +8280,24 @@
       "duration_ms": 110571,
       "name": "luvu222",
       "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
+    },
+    {
+      "album": {
+        "name": "LV / C ME NOW",
+        "url": "https://open.spotify.com/album/5uTbmXAlq0U4ccP9vesebZ"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140583,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/1d4VELKuRjmSWWXSssqLjL"
     },
     {
       "album": {
@@ -9808,7 +9884,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 273290,
       "name": "NEURON (with Gaeko & YOON MIRAE)",
       "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
@@ -10144,7 +10220,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 137538,
       "name": "Obl\u00f2",
       "url": "https://open.spotify.com/track/7zLDRlMwAG0twTs3d3I73s"
@@ -10284,6 +10360,24 @@
       "duration_ms": 149537,
       "name": "Oil in my Head",
       "url": "https://open.spotify.com/track/5zNWfIlGEVQ72uzVOGgAiZ"
+    },
+    {
+      "album": {
+        "name": "Okra & Fiji",
+        "url": "https://open.spotify.com/album/0dvLKkSZgI8I70XmM0fLJK"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174166,
+      "name": "Okra & Fiji",
+      "url": "https://open.spotify.com/track/0W03WRauxElLod4I1Ow7uy"
     },
     {
       "album": {
@@ -11080,7 +11174,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
@@ -11966,6 +12060,24 @@
       "duration_ms": 181774,
       "name": "ROKUDENASHI",
       "url": "https://open.spotify.com/track/3yQruCLOH32RXx0fsHVuSx"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6"
     },
     {
       "album": {

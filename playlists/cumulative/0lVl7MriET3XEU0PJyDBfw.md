@@ -4,11 +4,12 @@
 
 > Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
 
-529 songs - 1 day 3 hr 42 min
+530 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1995](https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Bishop Snow](https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF) | [CHICAGO ON TOP](https://open.spotify.com/album/0LQdMCHd0k90pNhrwtDW0C) | 2:19 | 2025-01-19 |  |
+| [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 | 2025-02-07 |  |
 | [2 Sexi](https://open.spotify.com/track/1I1nrRS6ynrg4XS4IK2vsM) | [Needs No Sleep](https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [2 Sexi](https://open.spotify.com/album/0OMfEuu9FY2h9HIDBwUBnJ) | 3:28 | 2024-12-15 |  |
 | [212](https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [212](https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB) | 2:18 | 2024-09-02 | 2024-10-28 |
 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 | 2023-12-31 | 2024-01-09 |

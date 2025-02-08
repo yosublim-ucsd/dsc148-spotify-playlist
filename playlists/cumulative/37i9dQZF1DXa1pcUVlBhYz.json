@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 483574,
       "name": "Caged Bird - Full Vocal Mix",
       "url": "https://open.spotify.com/track/2RdvcDItpcEQ4RjG71c3ii"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 187956,
       "name": "Do Dat Baby",
       "url": "https://open.spotify.com/track/0bc4eMlnbXmvr04HMlYTmm"
@@ -2074,6 +2074,24 @@
       "duration_ms": 215040,
       "name": "Doughnuts",
       "url": "https://open.spotify.com/track/3znMb11GAxuEuB4OXZTIBs"
+    },
+    {
+      "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/62rtRsFWFtdugJOsTSzMfC"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396229,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4XXqNYESlfqGKIddnyDYAw"
     },
     {
       "album": {
@@ -2238,6 +2256,32 @@
       "duration_ms": 195520,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5TxwSZehxrjoWLWeqvKpO3"
+    },
+    {
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/4jbL2Wjy1SzA69OgGSLx6O"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226287,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/2PDL2Spw1sTNICL9I5kM8W"
     },
     {
       "album": {
@@ -6155,6 +6199,28 @@
     },
     {
       "album": {
+        "name": "Pleasure, Joy & Happiness (musclecars remix)",
+        "url": "https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        },
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561502,
+      "name": "Pleasure, Joy & Happiness (musclecars remix)",
+      "url": "https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj"
       },
@@ -6456,7 +6522,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168199,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
@@ -7472,6 +7538,28 @@
       "duration_ms": 182265,
       "name": "Stuntin",
       "url": "https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It"
+    },
+    {
+      "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171990,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
     },
     {
       "album": {
@@ -9234,7 +9322,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 280705,
       "name": "Wild Animal",
       "url": "https://open.spotify.com/track/3tt1Tsro73c0EBkj5ZAJtc"

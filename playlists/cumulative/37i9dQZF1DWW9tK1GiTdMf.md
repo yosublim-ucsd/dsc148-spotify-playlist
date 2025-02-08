@@ -4,7 +4,7 @@
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ 5070 in cover
 
-1,220 songs - 2 day 7 hr 57 min
+1,221 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Fottuta Metà](https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Punk Rock Boy](https://open.spotify.com/album/2ZOFYmi9h3R7T0tupX4iKh) | 3:02 | 2022-12-15 | 2023-04-21 |
 | [Fragile](https://open.spotify.com/track/77ODwBkRpdrEwqQZliJIaV) | [CIENNE](https://open.spotify.com/artist/4R9ObCF70wUhQ6GM8mAV0b) | [Fragile](https://open.spotify.com/album/7o3Mavzg1qCKs2LMyWiUhV) | 3:00 | 2025-01-09 |  |
 | [Fragile](https://open.spotify.com/track/0xEyFahNuXpr6uqUbk7J9i) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Fragile](https://open.spotify.com/album/4uRqCATiaIVVRvqOFeUede) | 2:34 | 2023-10-26 | 2024-02-07 |
-| [Fragolamilano](https://open.spotify.com/track/1lhOVOQ1GxLXULLIQxnp37) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Fragolamilano](https://open.spotify.com/album/5GxznTZmYweRzvLUNSmch1) | 2:39 | 2024-11-14 |  |
+| [Fragolamilano](https://open.spotify.com/track/1lhOVOQ1GxLXULLIQxnp37) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Fragolamilano](https://open.spotify.com/album/5GxznTZmYweRzvLUNSmch1) | 2:39 | 2024-11-14 | 2025-02-08 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-05-06 | 2023-01-20 |
 | [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 | 2023-10-05 | 2023-10-27 |
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-05-02 | 2024-06-14 |
@@ -985,6 +985,7 @@
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-05-06 | 2022-06-03 |
 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 | 2023-02-02 | 2023-04-21 |
 | [SIAMO DROGA \- Remix](https://open.spotify.com/track/5WslM26ntpzasnzDtO0WuT) | [NEW OCEAN](https://open.spotify.com/artist/7q1cmwcWRyoXFRqgiYiAYi), [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Siamo Droga](https://open.spotify.com/album/3mQjLB6dDPms4MuYqF6ZWP) | 2:19 | 2023-02-23 | 2023-04-07 |
+| [SIBERIA](https://open.spotify.com/track/3UGQkfXRscpBu6wzdHWcBn) | [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [CIRCO GRAN SIBERIA](https://open.spotify.com/album/5JA9dUjaDOiuN7AGfLCfep) | 3:39 | 2025-02-07 |  |
 | [side effect](https://open.spotify.com/track/4S22GrfRfAPyespmAeEfFC) | [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [side effect](https://open.spotify.com/album/4AqQFoGlZJkxUsecnbcNau) | 3:06 | 2024-04-25 | 2024-09-20 |
 | [Silvia \(Sally\)](https://open.spotify.com/track/6sPqXjGIOkWvHG7rnkMHvh) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Silvia \(Sally\)](https://open.spotify.com/album/69HThb2uUU7lraTA78Ksug) | 2:47 | 2022-12-08 | 2023-02-24 |
 | [Simpatico](https://open.spotify.com/track/2PmjEdqOMqcHmqHx7pGZbe) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Simpatico](https://open.spotify.com/album/4JjEOAWLEYEY0Ct1uxIsDU) | 2:52 | 2024-05-23 | 2024-06-28 |

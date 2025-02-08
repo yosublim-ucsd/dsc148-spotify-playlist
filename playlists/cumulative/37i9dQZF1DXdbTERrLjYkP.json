@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Bebe Stockwell",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Lilly Bedard ",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 211161,
       "name": "A Hollywood Sign",
       "url": "https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 224039,
       "name": "Apple Cider Vinaigrette",
       "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 190680,
       "name": "girl talk",
       "url": "https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt"
@@ -7325,6 +7325,24 @@
     },
     {
       "album": {
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
+    },
+    {
+      "album": {
         "name": "How The Story Ends",
         "url": "https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000"
       },
@@ -9281,6 +9299,24 @@
     },
     {
       "album": {
+        "name": "Northstar",
+        "url": "https://open.spotify.com/album/0xIrvfaiqBfNA8cSbrHYhr"
+      },
+      "artists": [
+        {
+          "name": "Nami",
+          "url": "https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133332,
+      "name": "Northstar",
+      "url": "https://open.spotify.com/track/7FZF2PoHMYFlbIdpQzUUR5"
+    },
+    {
+      "album": {
         "name": "NOT AGAIN",
         "url": "https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ"
       },
@@ -9296,6 +9332,24 @@
       "duration_ms": 216661,
       "name": "NOT AGAIN",
       "url": "https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2"
+    },
+    {
+      "album": {
+        "name": "Not Everything Ends",
+        "url": "https://open.spotify.com/album/3RUxz2erYYect3c0ogPRxC"
+      },
+      "artists": [
+        {
+          "name": "Lilly Bedard",
+          "url": "https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Not Everything Ends",
+      "url": "https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R"
     },
     {
       "album": {

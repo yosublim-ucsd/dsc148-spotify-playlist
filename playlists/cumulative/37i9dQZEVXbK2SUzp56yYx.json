@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Blackhole",
+        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
+    },
+    {
+      "album": {
         "name": "Blame The Moon",
         "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
       },
@@ -2138,6 +2156,24 @@
     {
       "album": {
         "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "chess",
+      "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
+    },
+    {
+      "album": {
+        "name": "chess",
         "url": "https://open.spotify.com/album/0pEt88A6qoRyUZPMeCxLnq"
       },
       "artists": [
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 116417,
       "name": "chess",
       "url": "https://open.spotify.com/track/3GPCXHGwf7UoTcMyVY0KoA"
@@ -2166,10 +2202,28 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 143660,
       "name": "chess (slowed)",
       "url": "https://open.spotify.com/track/1neintdjlABjVTPGUIN6Gl"
+    },
+    {
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "chess - slowed",
+      "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
     },
     {
       "album": {
@@ -2368,7 +2422,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 199166,
       "name": "Christ",
       "url": "https://open.spotify.com/track/1bsl1bsMi8bqQC4sJfS1pt"
@@ -4496,7 +4550,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
@@ -7848,7 +7902,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 247384,
       "name": "Make It Lower",
       "url": "https://open.spotify.com/track/0OrKI0CBTIMsOBE7iAgM9C"
@@ -7866,7 +7920,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 247384,
       "name": "Make It Lower",
       "url": "https://open.spotify.com/track/7fPSC9JGH8DjQEtKSvBEkh"
@@ -8030,6 +8084,32 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "album": {
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/6hyXqQ8F1sSTAYm15uVzYP"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/7mNv9DRLH2f5OIuj2929sZ"
     },
     {
       "album": {
@@ -8504,7 +8584,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 91906,
       "name": "MONTAGEM BRAVO - Slowed",
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
@@ -10498,7 +10578,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169496,
       "name": "PROTECT THE CROSS",
       "url": "https://open.spotify.com/track/14bslKpx9hB3ddBQgbx12j"
@@ -11532,7 +11612,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
@@ -11554,7 +11634,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
@@ -11648,7 +11728,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 144525,
       "name": "shock",
       "url": "https://open.spotify.com/track/1NTtKSuwMuoObgfxmegugd"
@@ -19743,6 +19823,24 @@
     },
     {
       "album": {
+        "name": "\u043d\u0435 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u0439\u0441\u044f",
+        "url": "https://open.spotify.com/album/5uZVxGRKIH7RZ3fXtHZfnR"
+      },
+      "artists": [
+        {
+          "name": "Skryptonite",
+          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164309,
+      "name": "\u043d\u0435 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u0439\u0441\u044f",
+      "url": "https://open.spotify.com/track/6KBc9W1riUD5zXv29eIVop"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435 \u0441\u0435\u0439 \u043b\u044e\u0431\u043e\u0432\u044c",
         "url": "https://open.spotify.com/album/4F56atiepF2t5YV1iGKKgO"
       },
@@ -21964,7 +22062,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 135085,
       "name": "\u0420\u044f\u0434\u043e\u043c \u0421 \u0422\u043e\u0431\u043e\u0439",
       "url": "https://open.spotify.com/track/73yOxwFDtoQ9VHlvjAx0dZ"
@@ -23492,7 +23590,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 132480,
       "name": "\u0424\u0443\u0431\u043b\u044f",
       "url": "https://open.spotify.com/track/3wY7F7TJ4hrLhrrMhMbR7o"

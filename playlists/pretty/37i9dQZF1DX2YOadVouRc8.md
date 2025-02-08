@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,402 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 72 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 |
 | 73 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 |
 | 74 | [Inside](https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Finding Nimo Series: The Capsule](https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg) | 2:36 |
-| 75 | [Before](https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Before](https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8) | 2:38 |
-| 76 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 |
-| 77 | [In You](https://open.spotify.com/track/6eXJJ8cGBTTIJFXC3Wn9Sq) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [With The Most & Friends \(Vol 1\)](https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8) | 2:33 |
+| 75 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 |
+| 76 | [In You](https://open.spotify.com/track/6eXJJ8cGBTTIJFXC3Wn9Sq) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [With The Most & Friends \(Vol 1\)](https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8) | 2:33 |
+| 77 | [Before](https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Before](https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8) | 2:38 |
 | 78 | [Pinacolada](https://open.spotify.com/track/1nMllnqoALyaXY0uac9K64) | [DCMTRS](https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Buds and Bees](https://open.spotify.com/album/3phsXOLoS9sU3UJzRQqVyx) | 3:50 |
 | 79 | [Belle](https://open.spotify.com/track/2gdO9XcEWeXOL79XksUjzj) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Belle](https://open.spotify.com/album/1zHSD43t39HAZcLGlDvr7H) | 2:40 |
 | 80 | [CRAZY](https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [EAST KISS](https://open.spotify.com/artist/2cPSokmCvfZskC180zAoZr) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:50 |

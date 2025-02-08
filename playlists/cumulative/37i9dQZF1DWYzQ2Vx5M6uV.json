@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Bajo La Misma Luna",
+        "url": "https://open.spotify.com/album/28C8PZk9TPWhGnvTc0M6aO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Roy",
+          "url": "https://open.spotify.com/artist/1AOGBBCrfDl7hJ9HUVKXwq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129235,
+      "name": "Bajo La Misma Luna",
+      "url": "https://open.spotify.com/track/2cnDrPPhnNa945NxsdviVj"
+    },
+    {
+      "album": {
         "name": "Bamb\u00fa",
         "url": "https://open.spotify.com/album/1ppBrlwkXLsHv6hLAVfsx0"
       },
@@ -976,6 +994,32 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "album": {
+        "name": "ASTROPICAL",
+        "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "ASTROPICAL",
+          "url": "https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Coraz\u00f3n Adentro (Escorpio)",
+      "url": "https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6"
     },
     {
       "album": {
@@ -2068,7 +2112,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 140531,
       "name": "LA BUENA VIDA",
       "url": "https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E"
@@ -3650,7 +3694,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 167000,
       "name": "RIO",
       "url": "https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0"

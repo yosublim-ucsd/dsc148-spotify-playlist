@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,787 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,762 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loser \(with LEE DO of ONEUS\)](https://open.spotify.com/track/1bBuZZJacnkfvPQoQznjZk) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE DO of ONEUS](https://open.spotify.com/artist/39r6KaYmPsgtidLS2YItV1) | [Loser, Game Over, You're the Champion](https://open.spotify.com/album/4G7tZZIl0gis3TVcYSips2) | 3:27 |
-| 2 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | ['Caligo Pt.1'](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
+| 2 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 |
 | 3 | [Rebellion](https://open.spotify.com/track/6bpn1BPAXOTBv14AG5EwG3) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5), [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Rebellion](https://open.spotify.com/album/6gCLXpitNrlglz2pg7WrAN) | 3:44 |
 | 4 | [Monoamory](https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Saya](https://open.spotify.com/album/7MRJH6oHeOvJqEH4WKWDkU) | 3:41 |
 | 5 | [It Rains](https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9) | [Seoul Electric Band](https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1) | [It Rains](https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn) | 5:22 |

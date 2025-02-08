@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Good Neighbours
+> New and approved indie pop\. Cover: Biig Piig
 
-2,034 songs - 4 day 11 hr 37 min
+2,036 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [80's](https://open.spotify.com/track/07T2VrTXubkH8zf9gefxEQ) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [80's](https://open.spotify.com/album/4GTeuq4zccREXg17z8YMJG) | 3:07 | 2020-10-16 | 2020-10-23 |
 | [80's Movie](https://open.spotify.com/track/0ReotC6rCrcb9N7RzA9GmO) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [80's Movie](https://open.spotify.com/album/0XZDttTTOOuetRe3T76gBY) | 3:13 | 2021-02-22 | 2021-03-22 |
 | [9 to 5](https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [9 to 5](https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD) | 3:16 | 2021-09-10 | 2022-07-23 |
+| [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-02-07 |  |
 | [9teen](https://open.spotify.com/track/7fzDvKpwihEVm18rRgdmYi) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [9teen](https://open.spotify.com/album/62PVXROIVspBU0cScSq2hN) | 2:40 | 2020-10-13\* | 2021-05-23 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 |  |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-07 | 2022-04-19 |
@@ -190,7 +191,7 @@
 | [Beluga Baby](https://open.spotify.com/track/051j6UH25Tkif0uPdsBybg) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Beluga Baby](https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ) | 2:40 | 2021-02-23 | 2021-03-15 |
 | [Best](https://open.spotify.com/track/3B4eW2VXGdOdsbTyfF5oDE) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 3:53 | 2023-02-28 | 2023-04-29 |
 | [Best](https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:53 | 2023-03-24 | 2024-04-19 |
-| [Best Friends](https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Best Friends](https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7) | 4:01 | 2024-11-22 |  |
+| [Best Friends](https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Best Friends](https://open.spotify.com/album/1CvQ6ffxe39iuZeaNHbxx7) | 4:01 | 2024-11-22 | 2025-02-08 |
 | [best friends \(bonus track\)](https://open.spotify.com/track/2i6Rv1qXMPq0zPsIWFH5bZ) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [best friends \(bonus track\)](https://open.spotify.com/album/4g2QQPHJ7R08QjgAJ2W8U8) | 3:31 | 2020-10-13\* | 2021-01-15 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-05-03 | 2022-04-20 |
 | [best u ever had <3](https://open.spotify.com/track/4hRZhP4YuDU44uv6SLodJ6) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [best u ever had <3](https://open.spotify.com/album/54OU5EKjpz9XjbnnzqJOg5) | 2:57 | 2021-07-19 | 2022-04-15 |
@@ -221,6 +222,7 @@
 | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2021-08-04 | 2022-04-15 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-10-18 |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 | 2024-10-17 |
+| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-07 |  |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-09-30 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-30 | 2024-06-11 |
 | [Blame Game](https://open.spotify.com/track/23YKtFHHfoCCgPN3jE7Ye0) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Blame Game](https://open.spotify.com/album/2ROajNedjFylk0fhSUeE2E) | 3:34 | 2021-01-15 | 2021-02-02 |
@@ -1882,7 +1884,7 @@
 | [try](https://open.spotify.com/track/4qjJYOn5fDUWtC0PpKXV2O) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [CUTiE](https://open.spotify.com/album/5bH4FxZ9Ujp27RWl44hISH) | 2:39 | 2022-06-14 | 2022-08-06 |
 | [try again](https://open.spotify.com/track/3PoaLfprGA1ycel5cAOAyk) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [cloudy](https://open.spotify.com/album/4xmArlrEsjY8Qted7Rkf06) | 2:51 | 2020-10-13\* | 2020-11-03 |
 | [Trying To Find Us](https://open.spotify.com/track/1K2tarXuo0RtA1VeeRkiuT) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Trying To Find Us](https://open.spotify.com/album/1J9ubeevJRYrJgNDwkTpjA) | 2:32 | 2022-08-05 | 2022-08-20 |
-| [TTYLSOS](https://open.spotify.com/track/053nl0VGivTrEP6QiUSgWg) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Cameraman](https://open.spotify.com/album/4YLUb402u5DPZpD4GzRFrK) | 2:27 | 2025-01-24 |  |
+| [TTYLSOS](https://open.spotify.com/track/053nl0VGivTrEP6QiUSgWg) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Cameraman](https://open.spotify.com/album/4YLUb402u5DPZpD4GzRFrK) | 2:27 | 2025-01-24 | 2025-02-08 |
 | [Tunnel Vision](https://open.spotify.com/track/1yirsM6U52qH1yLOSF2MmQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Tunnel Vision](https://open.spotify.com/album/3eKAjVRIp7iXWVEIvAkg10) | 5:05 | 2024-08-09 | 2024-08-24 |
 | [TV \(feat\. Pom Pom Squad\)](https://open.spotify.com/track/2dy5gd8IRckEx4iweoU6UR) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [TV \(feat\. Pom Pom Squad\)](https://open.spotify.com/album/52NRgpwnqxUH7IPZ2Qebuu) | 4:06 | 2020-10-13\* | 2021-05-20 |
 | [tv kween](https://open.spotify.com/track/3Hb1ruUFpy5n5h8Tzh7niL) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [tv kween](https://open.spotify.com/album/04gJiOpEYDhcjqaDFQmOvZ) | 3:39 | 2021-02-22 | 2021-06-03 |

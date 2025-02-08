@@ -5914,7 +5914,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 137837,
       "name": "Hannibal",
       "url": "https://open.spotify.com/track/7uklXzt9Rea9jF2WrlvLCB"
@@ -12728,6 +12728,36 @@
       "duration_ms": 208640,
       "name": "SOY JEFE",
       "url": "https://open.spotify.com/track/0R6kmc1bAJjj5uKFhXasix"
+    },
+    {
+      "album": {
+        "name": "Em Nome das Ruas",
+        "url": "https://open.spotify.com/album/1oU1ThRWobv3TG27DL5O7Y"
+      },
+      "artists": [
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        },
+        {
+          "name": "BigNateAllStar",
+          "url": "https://open.spotify.com/artist/3BPqLVkgAyFp9O7rXGHutE"
+        },
+        {
+          "name": "Xuvisco na Batida",
+          "url": "https://open.spotify.com/artist/6VrxgJBSxnIguMCptNFYXa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289891,
+      "name": "Staten Brasil Island",
+      "url": "https://open.spotify.com/track/0fC5D1lV62ceTvaES5fhMD"
     },
     {
       "album": {

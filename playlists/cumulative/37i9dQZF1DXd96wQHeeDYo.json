@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "BUNDA",
+        "url": "https://open.spotify.com/album/0PJB52AlpbcsmAg1ox2wYu"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Bodine",
+          "url": "https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "BUNDA",
+      "url": "https://open.spotify.com/track/1Fu6SL9zwV9fUmBTJeqmQp"
+    },
+    {
+      "album": {
         "name": "Cacao",
         "url": "https://open.spotify.com/album/710wtCXmXkvEZ0AGvdiURa"
       },
@@ -1127,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Esquivar",
+        "url": "https://open.spotify.com/album/021V4pZ5Q8BUPHr3qNhGXA"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121916,
+      "name": "Esquivar",
+      "url": "https://open.spotify.com/track/1pkHgduFZmRhHBbROcyrpb"
+    },
+    {
+      "album": {
         "name": "Esto si, esto no",
         "url": "https://open.spotify.com/album/7fWcLdGw41wIQ4Pmc75LM0"
       },
@@ -1452,6 +1496,28 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx"
+    },
+    {
+      "album": {
+        "name": "funk_master4.wav",
+        "url": "https://open.spotify.com/album/0LXfIQLAfqChPpp5BuXROb"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+        },
+        {
+          "name": "Cutemobb",
+          "url": "https://open.spotify.com/artist/52oEhGNxNcLuACNqFo11Bw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "funk_master4.wav",
+      "url": "https://open.spotify.com/track/08fZJnotQVgOvGAXB9a0BP"
     },
     {
       "album": {
@@ -2136,7 +2202,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 154285,
       "name": "Lua de Santana - Fugitivo Vol. 25",
       "url": "https://open.spotify.com/track/2OzaUBeFMSteGxd3sHk8dl"
@@ -2433,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "MUITO FOGO",
+        "url": "https://open.spotify.com/album/4fvCcMu561zIHgThRqOQQx"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152629,
+      "name": "MUITO FOGO",
+      "url": "https://open.spotify.com/track/7hzctgZPIy1EGldzRaVLyf"
+    },
+    {
+      "album": {
         "name": "Museo",
         "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
       },
@@ -2672,7 +2760,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 160142,
       "name": "Paqueta",
       "url": "https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ"
@@ -3342,7 +3430,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 130909,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/7DnMM03KPW8LQhkrjyG5ED"
@@ -3514,7 +3602,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 133538,
       "name": "TIC TAC",
       "url": "https://open.spotify.com/track/1a6kcPpMuc8XMswtiMrLik"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,429 likes - 101 songs - 13 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,475 likes - 101 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 25 | [Freedom chant \- Live](https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [Freedom chant \(Live\)](https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm) | 6:37 |
 | 26 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 |
 | 27 | [Volume Of The Book \- Live](https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Volume Of The Book \(Live\)](https://open.spotify.com/album/3Ka0L9HFEuH85d2X3CBQba) | 15:15 |
-| 28 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 |
+| 28 | [Messiah \(Live\)](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 |
 | 29 | [Mama](https://open.spotify.com/track/4P5IbGcw0P3Xsdeg4tiIAD) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E) | [Mama](https://open.spotify.com/album/2HQr7391j3Ejce2D981CJ2) | 3:46 |
 | 30 | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/track/4bszyWt6cCzflRHKsgBEir) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/album/3CkcM31serWHyxPxFkUFz7) | 7:00 |
 | 31 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |

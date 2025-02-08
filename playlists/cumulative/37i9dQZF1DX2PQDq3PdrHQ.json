@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "a bygone age",
+        "url": "https://open.spotify.com/album/7CA6ptCTcZhvTRZWjmYNNA"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166881,
+      "name": "a bygone age",
+      "url": "https://open.spotify.com/track/5lWIm1T4TY7Q0IDAtevowB"
+    },
+    {
+      "album": {
         "name": "a leap of sleep",
         "url": "https://open.spotify.com/album/7oshgmjoN3pBkAxacakGzQ"
       },
@@ -560,6 +578,24 @@
       "duration_ms": 153600,
       "name": "All My Dreams (Quist Remix)",
       "url": "https://open.spotify.com/track/4gE1TfIXjSB2LtMo0w78fU"
+    },
+    {
+      "album": {
+        "name": "all that",
+        "url": "https://open.spotify.com/album/2JX7gZpyNTarLSf0iHhtgl"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "all that",
+      "url": "https://open.spotify.com/track/4R4CUFdrnVOjXYTDSnHB9s"
     },
     {
       "album": {
@@ -1052,7 +1088,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 121529,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/5VCLOtscJZjl1lXqLI7KUH"
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 131789,
       "name": "Cloudy Nights",
       "url": "https://open.spotify.com/track/4AlvhJMmJYi8ppDW7bGDqy"
@@ -2242,7 +2278,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 118400,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/0mrMtZYcXTmQZJomdf3zRz"
@@ -2732,7 +2768,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 158918,
       "name": "Dance With The Moon",
       "url": "https://open.spotify.com/track/32tcOarl902xsb3Rii178h"
@@ -4062,7 +4098,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 108094,
       "name": "ephemeral",
       "url": "https://open.spotify.com/track/0iJP9dwH6NGxoKArAHKRMR"
@@ -7429,6 +7465,24 @@
     },
     {
       "album": {
+        "name": "look at the sky",
+        "url": "https://open.spotify.com/album/3lWkTmDIimavRBS8zcnrqE"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "look at the sky",
+      "url": "https://open.spotify.com/track/1vUKNkmj7bEmqde4aJqPrF"
+    },
+    {
+      "album": {
         "name": "look both ways",
         "url": "https://open.spotify.com/album/6ghoGRwXe9jJOFvCJUMzWV"
       },
@@ -8096,7 +8150,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 144520,
       "name": "melatones",
       "url": "https://open.spotify.com/track/4uwvtcINcCtyQTDvBIUDzk"
@@ -9130,7 +9184,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 176346,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/61rpSyti85miQNzJnkgMCT"
@@ -9728,7 +9782,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 141666,
       "name": "on frozen tides",
       "url": "https://open.spotify.com/track/49nS1r4IS4uqVmQNepVzQ9"
@@ -10290,7 +10344,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 128181,
       "name": "Pitter-Patter",
       "url": "https://open.spotify.com/track/7MR9zbinnWLf7I6CkICrxm"
@@ -10508,7 +10562,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 146890,
       "name": "Purple Lights",
       "url": "https://open.spotify.com/track/7Jtj3NNMjeMXCiP6wmNrmQ"
@@ -10786,7 +10840,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 125290,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/3CZJ4uF6IyWt6KTQJeSEdZ"
@@ -11790,7 +11844,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 152041,
       "name": "sleeper time",
       "url": "https://open.spotify.com/track/24ejtg5xUq2ReP5Dnc9JG9"
@@ -12655,6 +12709,46 @@
     },
     {
       "album": {
+        "name": "Stay A While",
+        "url": "https://open.spotify.com/album/0bMKZQgAhwgzM8Q5iAmLBa"
+      },
+      "artists": [
+        {
+          "name": "so.tired",
+          "url": "https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Stay A While",
+      "url": "https://open.spotify.com/track/3izTMboO8D2S3XoLpPHM4U"
+    },
+    {
+      "album": {
+        "name": "Still Us",
+        "url": "https://open.spotify.com/album/2DCldT9bEeyom6dqOQq1Sw"
+      },
+      "artists": [
+        {
+          "name": "Simber",
+          "url": "https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119812,
+      "name": "Still Us",
+      "url": "https://open.spotify.com/track/2MxHG7vg7Vyee8tazvBuuz"
+    },
+    {
+      "album": {
         "name": "stillness",
         "url": "https://open.spotify.com/album/1Fu5fXIXJOoa1GI9lSAONp"
       },
@@ -12738,7 +12832,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 138826,
       "name": "Suave Atardecer",
       "url": "https://open.spotify.com/track/2zKvPJR0yAqGzU5RLFyGdx"
@@ -13854,6 +13948,24 @@
     {
       "album": {
         "name": "Tranquil",
+        "url": "https://open.spotify.com/album/23LDgMFt3UFpIhn7p3fTZy"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Tranquil",
+      "url": "https://open.spotify.com/track/1yZDGH6ufJ0t9cf65di8Ri"
+    },
+    {
+      "album": {
+        "name": "Tranquil",
         "url": "https://open.spotify.com/album/6pzVCUNAgG9dahUd5AqRZ5"
       },
       "artists": [
@@ -13886,7 +13998,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 108387,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/4mMekXSn4fAMcvr6dMiK6c"
@@ -14060,7 +14172,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 125646,
       "name": "turning tide",
       "url": "https://open.spotify.com/track/2yCJNtRLPfuPnp3YPBBIhx"
@@ -14186,7 +14298,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 167142,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/1OWbLmxzyL8HLPlxKehklr"
@@ -14726,7 +14838,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 154772,
       "name": "Will-O-Wisp",
       "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
@@ -14904,6 +15016,28 @@
       "duration_ms": 164342,
       "name": "Yesterday Morning",
       "url": "https://open.spotify.com/track/5C7PUTjvYyO2W7ch2WYd7M"
+    },
+    {
+      "album": {
+        "name": "yesterday's dream",
+        "url": "https://open.spotify.com/album/00bb3ZgogV7rRzY2K1cBNE"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "yesterday's dream",
+      "url": "https://open.spotify.com/track/4kzBJGW4JBRf81gzi7Hd4x"
     },
     {
       "album": {

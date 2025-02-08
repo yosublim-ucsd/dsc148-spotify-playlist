@@ -4,13 +4,14 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-82 songs - 4 hr 12 min
+86 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \- Instrumental](https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1999 / Like They Used To Say \(Remixes\)](https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf) | 4:16 | 2024-06-24 |  |
 | [Aiiiight](https://open.spotify.com/track/2Kkl0EsJVwofWofMJMYmlO) | [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Shurikens](https://open.spotify.com/album/4aQbHdptXmNmMQEH0e2aAm) | 2:29 | 2024-06-24 |  |
 | [All Gravy](https://open.spotify.com/track/3WhcV5uXlgRDcloiQYBO6t) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [All Gravy](https://open.spotify.com/album/0ePasntyblT6jkgAz8HcAP) | 2:28 | 2024-06-24 |  |
+| [all love.](https://open.spotify.com/track/5MuK3IJqHnDPNUTqNnsjMo) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [all love.](https://open.spotify.com/album/7fdzbUdKADmbLh9fYPMPGp) | 2:17 | 2025-02-07 |  |
 | [Alley Cats](https://open.spotify.com/track/1IZ9MPYWU7MhZvo6NOq79Q) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Straight From the Source](https://open.spotify.com/album/2XkAsmlShB6JNy7JmdXMHI) | 3:22 | 2025-01-24 |  |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2024-06-24 |  |
 | [Aspas](https://open.spotify.com/track/5b2isDzu4jC6Yk1EJxcRGm) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Aspas](https://open.spotify.com/album/1co5kKp9zITSEMIr4sdYHC) | 1:32 | 2024-11-13 |  |
@@ -46,8 +47,10 @@
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2024-06-24 |  |
 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 | 2024-06-24 |  |
 | [Hip 2 Da Game \- Instrumental](https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening \[25th Anniversary \(Remaster\)\]](https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q) | 4:03 | 2024-06-24 |  |
+| [How High \- Instrumental](https://open.spotify.com/track/4HGXJaw3H9ED4ACfYd6ZhV) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [How High](https://open.spotify.com/album/4qlXsDXdQMHdWWZzqf6Hzm) | 3:49 | 2025-02-07 |  |
 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 | 2024-06-24 |  |
 | [It's A Party \(Instrumental\)](https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko) | 4:40 | 2024-06-24 |  |
+| [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 | 2025-02-07 |  |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2024-06-24 |  |
 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 | 2024-06-24 |  |
 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 | 2024-06-24 |  |
@@ -85,6 +88,7 @@
 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 | 2024-06-24 |  |
 | [The World Is Yours](https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV) | [Will Sessions](https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB) | [The Elmatic Instrumentals](https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo) | 4:55 | 2024-06-24 |  |
 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 | 2024-06-24 |  |
+| [Tour Stories \- Instrumental](https://open.spotify.com/track/71UYIUEqgChcl8gBAOrrGI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [Tour Stories](https://open.spotify.com/album/5x2FrDwXcD3rftOgRxCjmW) | 4:45 | 2025-02-07 |  |
 | [Traffic Lights](https://open.spotify.com/track/4OZIK5553fVfj68nP7fiMQ) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Cassette Sound](https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg) | 1:45 | 2024-06-24 |  |
 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 | 2024-06-24 |  |
 | [Where I'm Coming From \- Instrumental](https://open.spotify.com/track/3XXZgmqPvywvV64ZolnAsS) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Cool Classic Jazzstrumentals \(Volume One\)](https://open.spotify.com/album/5QjyX5NN59cQAdkGTJkd4m) | 4:55 | 2024-06-24 |  |

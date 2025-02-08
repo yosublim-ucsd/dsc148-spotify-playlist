@@ -1,33 +1,13 @@
 {
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso & Yeison Jim\u00e9nez",
-  "num_followers": 236468,
+  "num_followers": 236518,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nojgAAAADq66KsjvmTmwLWW0hx1Zmo",
+  "snapshot_id": "Z6W4tgAAAAAEYxeQZoNUtWWzrwIAyrUG",
   "tracks": [
-    {
-      "added_at": "2025-01-17 05:20:14",
-      "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
-    },
     {
       "added_at": "2024-12-13 05:52:00",
       "album": {
@@ -67,46 +47,6 @@
     {
       "added_at": "2024-12-13 05:52:00",
       "album": {
-        "name": "Mirame (feat. Blessd) [Remix]",
-        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 193605,
-      "name": "Mirame (feat. Blessd) - Remix",
-      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
-    },
-    {
-      "added_at": "2025-01-17 05:20:14",
-      "album": {
-        "name": "CABALLERO",
-        "url": "https://open.spotify.com/album/1TbBPReIMQpt3yquoZrvEN"
-      },
-      "artists": [
-        {
-          "name": "Julian Daza",
-          "url": "https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose"
-        }
-      ],
-      "duration_ms": 160511,
-      "name": "CABALLERO",
-      "url": "https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
         "name": "REGALADA $ALES CARA (Remix)",
         "url": "https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy"
       },
@@ -131,6 +71,106 @@
       "duration_ms": 253414,
       "name": "REGALADA $ALES CARA - Remix",
       "url": "https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN"
+    },
+    {
+      "added_at": "2025-02-07 07:39:34",
+      "album": {
+        "name": "Quiero Hacerte El Amor",
+        "url": "https://open.spotify.com/album/2XhIHLA54mKuKB8kQNutyo"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 228279,
+      "name": "Quiero Hacerte El Amor",
+      "url": "https://open.spotify.com/track/015zQrYmYZxqjipBDbbj5c"
+    },
+    {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+    },
+    {
+      "added_at": "2024-12-13 05:52:00",
+      "album": {
+        "name": "Mirame (feat. Blessd) [Remix]",
+        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 193605,
+      "name": "Mirame (feat. Blessd) - Remix",
+      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
+    },
+    {
+      "added_at": "2025-02-07 07:39:34",
+      "album": {
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+    },
+    {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "CABALLERO",
+        "url": "https://open.spotify.com/album/1TbBPReIMQpt3yquoZrvEN"
+      },
+      "artists": [
+        {
+          "name": "Julian Daza",
+          "url": "https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose"
+        }
+      ],
+      "duration_ms": 160511,
+      "name": "CABALLERO",
+      "url": "https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2"
     },
     {
       "added_at": "2024-12-13 05:52:00",
@@ -241,26 +281,6 @@
       "url": "https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h"
     },
     {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
-        "name": "Enamorao\u2019",
-        "url": "https://open.spotify.com/album/36llizlCtI6z5D0QSYfVFp"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        },
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "Enamorao\u2019",
-      "url": "https://open.spotify.com/track/3VPKklonK4rqpVxjlpHumH"
-    },
-    {
       "added_at": "2025-01-17 05:20:14",
       "album": {
         "name": "Palabra De To's",
@@ -307,30 +327,6 @@
       "duration_ms": 161767,
       "name": "Preg\u00fantele a mi ex",
       "url": "https://open.spotify.com/track/0BvZUuW2QmQ9OgAoNIyyI0"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
-        "name": "Me Llam\u00f3 Mi Ex (Remix)",
-        "url": "https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe"
-      },
-      "artists": [
-        {
-          "name": "Dany Cardona",
-          "url": "https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "Me Llam\u00f3 Mi Ex - Remix",
-      "url": "https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ"
     },
     {
       "added_at": "2024-12-13 05:52:00",

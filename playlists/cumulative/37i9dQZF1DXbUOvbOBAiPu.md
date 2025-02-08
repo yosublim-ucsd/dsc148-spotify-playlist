@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Charlotte de Witte & Amelie Lens
 
-3,470 songs - 7 day 16 hr 2 min
+3,471 songs - 7 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [Dull](https://open.spotify.com/track/2bHiEYY2sn0FnLJW1acm2r) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull](https://open.spotify.com/album/5CbmuaAeWbQRpCAtkoQo1E) | 3:15 | 2024-08-08 | 2024-08-17 |
 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 | 2025-01-10 |
 | [Dumb](https://open.spotify.com/track/4P2zJK8QUbY1rc8kjHgXwh) | [Daan](https://open.spotify.com/artist/5rytKg8dlNhhb2nZ47y9IW) | [Dumb](https://open.spotify.com/album/4WFFBZlAN7jkXKsK5S0fRx) | 3:39 | 2024-06-06 | 2024-06-14 |
+| [Dumb](https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:14 | 2025-02-06 |  |
 | [Dunne Lijn \(Live uit Doornroosje\)](https://open.spotify.com/track/6ZKh3nF1PdaYnRCY3tDJYU) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Per Ongeluk Live](https://open.spotify.com/album/0aqnTgARhS47vBvEctrNwQ) | 3:35 | 2024-06-20 | 2024-06-28 |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-10-31 | 2024-11-08 |
 | [Dust](https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Dust](https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S) | 2:49 | 2024-04-26 | 2024-05-03 |
@@ -3441,7 +3442,7 @@
 | [Your Shine](https://open.spotify.com/track/5O16SnZui65Ivhj7MWDHRv) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Fly Disco Butter](https://open.spotify.com/artist/1CYDSa8NN8XE6UwbYo65Xm) | [Your Shine](https://open.spotify.com/album/5mFTcBEtz15sD6W48EajgH) | 2:43 | 2024-06-27 | 2024-07-05 |
 | [Your World \(Buscemi Remix\) \- Radio Edit](https://open.spotify.com/track/6dK0MeYvoRXMAdMthYVtlI) | [Velvet Road Collective](https://open.spotify.com/artist/1OcnzOmu8eBcv1RGejutoG), [Buscemi](https://open.spotify.com/artist/7kgD97FmexIhZQETIJgGVn) | [Your World \(Buscemi Remix\)](https://open.spotify.com/album/5vSj7X5ztGDBudG1XN0sVi) | 3:33 | 2024-07-19 | 2024-07-27 |
 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-26 | 2024-10-04 |
-| [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 | 2025-02-06 |  |
+| [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 | 2025-02-06 |  |
 | [Zandman](https://open.spotify.com/track/4i0TuFSXE5Pf58XeQaLf2V) | [Jokke](https://open.spotify.com/artist/4ummdBaZOvtjtGQHLLa7se) | [Zandman](https://open.spotify.com/album/0Di1uza3OKfJ17wNcSojyH) | 2:55 | 2024-10-10 | 2024-10-18 |
 | [Zaterdagavond](https://open.spotify.com/track/5Kzk1E3mJqWLXjbjY6x3Kg) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Dit Ben Ik](https://open.spotify.com/album/2d16qMDE8FK0J0Z8YaCwTx) | 2:58 | 2024-11-15 | 2024-11-22 |
 | [Zebra](https://open.spotify.com/track/39gPTIgS81cXx3X2q8QRP5) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN) | [Zebra](https://open.spotify.com/album/25hxWMp5QuLV8CJv8IG3xm) | 1:44 | 2024-07-26 | 2024-08-02 |

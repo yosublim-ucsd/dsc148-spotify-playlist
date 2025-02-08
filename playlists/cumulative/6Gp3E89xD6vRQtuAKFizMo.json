@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Final Call",
+        "url": "https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Final Call",
+      "url": "https://open.spotify.com/track/79OlaXxTge9eY0eizS7iyj"
+    },
+    {
+      "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB"
       },
@@ -4632,6 +4650,24 @@
       "duration_ms": 206068,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/0T1avwj6YeeUZAAw2s26tQ"
+    },
+    {
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/1oYfAY7ppfDpOVUK2cgodg"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/3mtzh5163ltjqu4J5gLwSV"
     },
     {
       "album": {
@@ -8104,6 +8140,24 @@
       "duration_ms": 222962,
       "name": "Waiting For The Day (feat. Kyle Reynolds)",
       "url": "https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k"
+    },
+    {
+      "album": {
+        "name": "Final Call",
+        "url": "https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Want It",
+      "url": "https://open.spotify.com/track/4enwReslov5NVsfyExJkTN"
     },
     {
       "album": {

@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Anormales",
+        "url": "https://open.spotify.com/album/6udTLuj1WuRd4QaDjpttwL"
+      },
+      "artists": [
+        {
+          "name": "DJ Maff",
+          "url": "https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Anormales",
+      "url": "https://open.spotify.com/track/7LCDh7VvM08V5jn0tk6LhC"
+    },
+    {
+      "album": {
         "name": "Before Famous",
         "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
       },
@@ -1013,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "El Mundo Est\u00e1 Roto",
+        "url": "https://open.spotify.com/album/4SVyOxP7VzNI5IOZE2Ag7y"
+      },
+      "artists": [
+        {
+          "name": "Cocco Lexa",
+          "url": "https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "El Mundo Est\u00e1 Roto",
+      "url": "https://open.spotify.com/track/2vvFvnhrjuJyPjpNIvTKQf"
+    },
+    {
+      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168872,
       "name": "Hustlers",
       "url": "https://open.spotify.com/track/13YSzHTwd2mc2sWMxmdc27"
@@ -1724,7 +1764,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 391986,
       "name": "Kobe En LA 2.0",
       "url": "https://open.spotify.com/track/7pWBRneiso1n8vdpn6mp8V"
@@ -2012,6 +2052,100 @@
       "duration_ms": 195400,
       "name": "Los Que Son",
       "url": "https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6"
+    },
+    {
+      "album": {
+        "name": "Los Shishi (feat. Julianno Sosa, Marcianeke, Harry Nach, Bryartz, Lleflight, Aqua VS, Drago200, Simon la Letra, Shisosaloud, Zewa, Keylon, Barbero Ex\u00f3tico, Andre Alpuritano, J Cap, Bastian La Amenaza, Jay Ferragamo & EL VALLE DE LOS REYES)",
+        "url": "https://open.spotify.com/album/2mVAAVOoe25a3NWdzCBSmX"
+      },
+      "artists": [
+        {
+          "name": "Ben Bulgari",
+          "url": "https://open.spotify.com/artist/2OKp4B9CctxvyhsBX01bqG"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Shisosaloud",
+          "url": "https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD"
+        },
+        {
+          "name": "Keylon",
+          "url": "https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5"
+        },
+        {
+          "name": "Barbero Ex\u00f3tico",
+          "url": "https://open.spotify.com/artist/6gZdHi1lsLWRkZ0wCA4RL6"
+        },
+        {
+          "name": "J Cap",
+          "url": "https://open.spotify.com/artist/6ykgrBbCfMm7YRvpYqmmkd"
+        },
+        {
+          "name": "Zewa",
+          "url": "https://open.spotify.com/artist/0b3v0MjhWKcPxVOhZhofdL"
+        },
+        {
+          "name": "Bastian La Amenaza",
+          "url": "https://open.spotify.com/artist/3YaG7MjMlngb9KewzRI14H"
+        },
+        {
+          "name": "Jay Ferragamo",
+          "url": "https://open.spotify.com/artist/56PIuOhNTWtetm2Vis0lG7"
+        },
+        {
+          "name": "Andre Alpuritano",
+          "url": "https://open.spotify.com/artist/59odqmrpQ27RvI5HBlPxvV"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "EL VALLE DE LOS REYES",
+          "url": "https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398500,
+      "name": "Los Shishi (feat. Julianno Sosa, Marcianeke, Harry Nach, Bryartz, Lleflight, Aqua VS, Drago200, Simon la Letra, Shisosaloud, Zewa, Keylon, Barbero Ex\u00f3tico, Andre Alpuritano, J Cap, Bastian La Amenaza, Jay Ferragamo & EL VALLE DE LOS REYES)",
+      "url": "https://open.spotify.com/track/6olagVojvkvpDBizJ7Y7Cu"
     },
     {
       "album": {
@@ -3492,7 +3626,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 241846,
       "name": "TOUCHDOWN",
       "url": "https://open.spotify.com/track/17ilE3vG73RLtqg2vCSVNX"
@@ -3622,6 +3756,28 @@
       "duration_ms": 264000,
       "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
+    },
+    {
+      "album": {
+        "name": "Urban Outfitters",
+        "url": "https://open.spotify.com/album/0OF9KepR7hQFfnTyChVK2I"
+      },
+      "artists": [
+        {
+          "name": "Reyan Quality",
+          "url": "https://open.spotify.com/artist/3OaJ0qNHJYCk2NQNpr2jsA"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "Urban Outfitters",
+      "url": "https://open.spotify.com/track/341VvUJYRuKStiG0WEUgFQ"
     },
     {
       "album": {
@@ -3878,7 +4034,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 185739,
       "name": "\u00bfQui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/2ydaaI4ICSmCUkT9rk5dao"

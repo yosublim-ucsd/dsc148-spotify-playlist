@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 323959,
+  "num_followers": 324070,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
@@ -351,6 +331,46 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "Eu e o Rei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 337525,
+      "name": "Eu e o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Se N\u00e3o Fosse Ele",
+        "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
+      },
+      "artists": [
+        {
+          "name": "Felipe Costa",
+          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 289638,
+      "name": "Se N\u00e3o Fosse Ele",
+      "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Seu Amor: YOUnique (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
       },
@@ -363,22 +383,6 @@
       "duration_ms": 444976,
       "name": "Seu Amor: YOUnique - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -415,22 +419,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Se N\u00e3o Fosse Ele",
-        "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Felipe Costa",
-          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 289638,
-      "name": "Se N\u00e3o Fosse Ele",
-      "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -467,42 +467,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Quem Te Guarda \u00c9 Deus",
-        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quem Te Guarda \u00c9 Deus",
-      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 242963,
-      "name": "T\u00e1 Tudo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Teu Amor Por Mim",
         "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
       },
@@ -515,6 +479,22 @@
       "duration_ms": 185969,
       "name": "Teu Amor Por Mim",
       "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -535,6 +515,26 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Pode Morar Aqui (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 304477,
       "name": "Pode Morar Aqui - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "Nova Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Valente",
+          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Nova Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Nova Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Valente",
-          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Nova Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 280161,
       "name": "Eu Te Vejo Em Tudo - Acoustic Session",
       "url": "https://open.spotify.com/track/3nYwEDwMaz47c1lJ5hcUgJ"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2025-01-17 03:01:12",

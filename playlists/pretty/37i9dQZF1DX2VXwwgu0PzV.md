@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=nKCwqx0zSZOzKiPbojtkYA>Limoblaze</a>
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=Dg50okc9RjqJOjFD3c2ADQ>Festizie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,326 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,339 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [BLSNS](https://open.spotify.com/track/2DH2IPLJUcfu0NZaAY1YyZ) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [BLSNS](https://open.spotify.com/album/1LYEgwhTX6Awym2ykMnyjt) | 2:56 |
 | 100 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 |
 
-Snapshot ID: `Z6VNPwAAAAAW2itenAY7rJKLKj3tku4N`
+Snapshot ID: `Z6WTgAAAAAARII2Syre47YU4QXwVUU0w`

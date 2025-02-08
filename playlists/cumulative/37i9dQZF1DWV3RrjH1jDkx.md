@@ -4,7 +4,7 @@
 
 > Ny musikk 🎵
 
-4,232 songs - 9 day 3 hr 26 min
+4,234 songs - 9 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Calm](https://open.spotify.com/track/2HNJK44G7Rpt7kl2pf26Hw) | [MELLA](https://open.spotify.com/artist/4y7r8NNpPFEKar9dD6zSoL) | [Calm](https://open.spotify.com/album/1ItlLWcCQI9NQgvoV9pZnK) | 3:35 | 2024-09-19 | 2024-09-27 |
 | [CALMA](https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [CALMA](https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk) | 2:00 | 2024-05-16 | 2024-05-24 |
 | [Can I Go Back In Time?](https://open.spotify.com/track/013V9cQ2zRqM3Sy1Tvzfh2) | [Gonçalo](https://open.spotify.com/artist/2ZGAXUydLLiHcpg7mdpiTT) | [Can I Go Back In Time?](https://open.spotify.com/album/0joInyiG4blQpQ4DqyQJTI) | 3:19 | 2024-09-05 | 2024-09-13 |
+| [CAN WE LIVE?](https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [B.O.A Mook](https://open.spotify.com/artist/2LScPi7kKtHiWfhFCrzSww) | [CAN WE LIVE?](https://open.spotify.com/album/01MoHXRkIxIiJiRmqjlxov) | 3:32 | 2025-02-07 |  |
 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 | 2024-10-03 | 2024-10-11 |
 | [Can't Forget You](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Can't Forget You](https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC) | 2:36 | 2024-06-20 | 2024-06-28 |
 | [Can't Get Enough \(Dr\. Feelgood\)](https://open.spotify.com/track/5pyb54EALKWa9bk68rGhdr) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Can't Get Enough \(Dr\. Feelgood\)](https://open.spotify.com/album/7gxFUz69kXnjBf8ZUC2xWS) | 2:15 | 2024-12-19 | 2025-01-03 |
@@ -705,6 +706,7 @@
 | [Colder](https://open.spotify.com/track/3VrTveHXhlLGHtnSK1riuT) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Colder](https://open.spotify.com/album/18gH3dJGcBPiPnwmtRHNLV) | 2:56 | 2025-01-16 | 2025-01-24 |
 | [Coldhearted Boy](https://open.spotify.com/track/4gWiqBmqCQQqK6efqA88TC) | [SINA](https://open.spotify.com/artist/2A8Gi3YlSBHUwmEO3oqHLv) | [Coldhearted Boy](https://open.spotify.com/album/1ziRXYBFeIo7uFjE9oQHak) | 3:12 | 2024-08-29 | 2024-09-06 |
 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-03 | 2024-10-11 |
+| [COLORLINE](https://open.spotify.com/track/1PGY0xvsNZifemYNHkV8GJ) | [Moe3](https://open.spotify.com/artist/0ddC4lQFkfT0qwbq6FQcSq) | [COLORLINE](https://open.spotify.com/album/2FaZB4uu76VDOsnlBWcmxx) | 2:20 | 2025-02-07 |  |
 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 | 2024-04-26 | 2024-05-03 |
 | [Come As You](https://open.spotify.com/track/4llmA8QnpYEj3TXoVNRZfT) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Come As You](https://open.spotify.com/album/4eEVQPtN38OMzBFMVRhYKU) | 4:23 | 2024-07-04 | 2024-07-12 |
 | [Come closer](https://open.spotify.com/track/5dAbSLmcvpMCvqE0OtfjoL) | [NÆLDE](https://open.spotify.com/artist/1BQZAyFQvZtfad0WLu8iwr) | [Come closer](https://open.spotify.com/album/0BONUA4atdqJd0uYpKVV4T) | 3:03 | 2024-10-17 | 2024-10-25 |

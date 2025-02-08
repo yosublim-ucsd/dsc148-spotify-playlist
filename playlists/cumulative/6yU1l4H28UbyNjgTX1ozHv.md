@@ -4,12 +4,12 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-266 songs - 13 hr 41 min
+268 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 | 2024-06-25 | 2024-08-10 |
-| [...Baby One More Time \- Acoustic](https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [...Baby One More Time \(Acoustic\)](https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2) | 2:46 | 2024-09-21 |  |
+| [...Baby One More Time \- Acoustic](https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [...Baby One More Time \(Acoustic\)](https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2) | 2:46 | 2024-09-21 | 2025-02-08 |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
 | [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
@@ -94,6 +94,7 @@
 | [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 | 2019-10-13 |  |
 | [Hey, Soul Sister \- Acoustic](https://open.spotify.com/track/0kIqUDiAD6k4Zu1RdMPFmw) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hey, Soul Sister \(Acoustic\)](https://open.spotify.com/album/32lSvUMKuLxKeQKRU1stmB) | 3:18 | 2020-11-14 | 2024-03-04 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2019-10-13 |  |
+| [Ho Hey \- Acoustic](https://open.spotify.com/track/4KDEiIgwb6TZHDj3sygAXd) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Ho Hey \(Acoustic\)](https://open.spotify.com/album/2yGZezSK0hywQ2j1SWobcQ) | 2:23 | 2025-02-07 |  |
 | [How Will I Know](https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:52 | 2019-10-13 |  |
 | [How Will I Know \- Acoustic](https://open.spotify.com/track/3VwiktbNsP7nksJj2Kegpn) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [How Will I Know \(Acoustic\)](https://open.spotify.com/album/0snjZU2AY3rlxHjPMBNk8N) | 3:13 | 2024-05-05 |  |
 | [Human \- Acoustic](https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:49 | 2019-10-13 |  |
@@ -235,6 +236,7 @@
 | [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 | 2023-04-10 | 2024-03-04 |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3LfAycjUKSLw3mCzMXCpO1) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/4dZF6uoT6U3OPIB23hh79S) | 3:55 | 2024-02-09 |  |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 | 2023-05-10 |
+| [Unwritten \- Acoustic](https://open.spotify.com/track/3BYsIZrlLUwkKBrPMpfTwx) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [Unwritten \(Acoustic\)](https://open.spotify.com/album/6PIc4JQuEv9c3h9ImJewGy) | 2:16 | 2025-02-07 |  |
 | [Up Where We Belong \- Acoustic](https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Up Where We Belong \(Acoustic\)](https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m) | 3:26 | 2023-10-27 |  |
 | [Upside Down \- Acoustic](https://open.spotify.com/track/1Bj7uQHtE5RfCzVMKhgskl) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Upside Down \(Acoustic\)](https://open.spotify.com/album/78fjGqALsUEsAi5nuKI19m) | 2:22 | 2023-03-24 | 2023-05-30 |
 | [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 | 2022-09-15 | 2022-09-25 |

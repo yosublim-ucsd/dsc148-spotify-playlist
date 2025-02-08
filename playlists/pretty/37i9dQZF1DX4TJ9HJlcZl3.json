@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 17600,
+  "num_followers": 17611,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpXQAAAAB3PsbaCNUL6gr41/awqX3K",
+  "snapshot_id": "Z6WTaAAAAACjOX3RSYNI1iWrZj79oWMO",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:24",
+      "album": {
+        "name": "Big Dipper",
+        "url": "https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Big Dipper",
+      "url": "https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr"
+    },
     {
       "added_at": "2025-01-10 05:00:13",
       "album": {
@@ -771,22 +787,6 @@
       "duration_ms": 207226,
       "name": "Back On The Music!",
       "url": "https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Let The Morning Come",
-        "url": "https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve"
-      },
-      "artists": [
-        {
-          "name": "sir Was",
-          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "I Don't Think We Should Wait",
-      "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
     },
     {
       "added_at": "2023-09-01 04:00:00",

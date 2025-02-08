@@ -627,6 +627,28 @@
     },
     {
       "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/4vbKDOZ7m1GgVwpWq6RLuB"
+      },
+      "artists": [
+        {
+          "name": "ABHIR",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/0FrI3fYFs4eKzPeosbFTzl"
+    },
+    {
+      "album": {
         "name": "Carrusel",
         "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
       },

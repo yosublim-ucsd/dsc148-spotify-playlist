@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: 4EVE",
-  "num_followers": 1057763,
+  "num_followers": 1058272,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
+        "name": "Nye Tider",
+        "url": "https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 194660,
+      "name": "Hun",
+      "url": "https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
         "name": "take your vibes and go",
         "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
-        "name": "Nye Tider",
-        "url": "https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 194660,
-      "name": "Hun",
-      "url": "https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "Party People",
-        "url": "https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 194475,
-      "name": "Party People",
-      "url": "https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Hartita de Llorar",
         "url": "https://open.spotify.com/album/4Ri9HhBxUW8gPwfPq8qOUB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 158045,
       "name": "Hartita de Llorar",
       "url": "https://open.spotify.com/track/0Mw0eiKbelPtJvN3WkLakf"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -687,6 +687,26 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
+        "name": "Alitheia?!",
+        "url": "https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Alitheia?!",
+      "url": "https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
         "name": "Obsesion",
         "url": "https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 135000,
       "name": "Akanchawa",
       "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
-        "name": "Alitheia?!",
-        "url": "https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        },
-        {
-          "name": "Marseaux",
-          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Alitheia?!",
-      "url": "https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
+        "name": "You're Still Mine",
+        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 147801,
+      "name": "You're Still Mine",
+      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
         "name": "Channa",
         "url": "https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx"
       },
@@ -899,6 +915,22 @@
       "duration_ms": 206025,
       "name": "Channa",
       "url": "https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/7188JsHTl3rladofF7CVvW"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "I Know You Know",
+      "url": "https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -919,38 +951,6 @@
       "duration_ms": 149786,
       "name": "Snowfall (Feat. Coogie)",
       "url": "https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
-        "name": "You're Still Mine",
-        "url": "https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 147801,
-      "name": "You're Still Mine",
-      "url": "https://open.spotify.com/track/1kui58chXIAstZljlvgUVL"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/7188JsHTl3rladofF7CVvW"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "I Know You Know",
-      "url": "https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "GASSA D'AMANTE",
-        "url": "https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 247413,
-      "name": "Buttalo via",
-      "url": "https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
         "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+        "name": "GASSA D'AMANTE",
+        "url": "https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw"
       },
       "artists": [
         {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 178560,
-      "name": "New Energy",
-      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+      "duration_ms": 247413,
+      "name": "Buttalo via",
+      "url": "https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
         "name": "\u904e\u671f",
         "url": "https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 123478,
       "name": "\u904e\u671f",
       "url": "https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "What The Hell Do We Do Now?",
+        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 193557,
+      "name": "What The Hell Do We Do Now?",
+      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "What The Hell Do We Do Now?",
-        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
+        "name": "Plain Girl",
+        "url": "https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP"
       },
       "artists": [
         {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
         }
       ],
-      "duration_ms": 193557,
-      "name": "What The Hell Do We Do Now?",
-      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
+      "duration_ms": 184000,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -1191,22 +1207,6 @@
       "duration_ms": 176803,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
-        "name": "Plain Girl",
-        "url": "https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW"
     },
     {
       "added_at": "2025-02-05 05:00:14",

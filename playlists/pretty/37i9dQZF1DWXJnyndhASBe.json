@@ -1,12 +1,12 @@
 {
   "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Oki, Sobel",
-  "num_followers": 556773,
+  "num_followers": 556875,
   "original_name": "RAP GENERACJA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6U/FwAAAAB73vXh2sy3GElu8yl6WQGz",
+  "snapshot_id": "Z6WsmgAAAABFU4DuFRXnM18T9nhVSIFG",
   "tracks": [
     {
       "added_at": "2025-02-06 23:00:39",
@@ -1047,6 +1047,30 @@
       "duration_ms": 132000,
       "name": "SOBOTA WIECZ\u00d3R",
       "url": "https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB"
+    },
+    {
+      "added_at": "2025-02-07 06:47:54",
+      "album": {
+        "name": "Materac",
+        "url": "https://open.spotify.com/album/65MgbHF5nlda57Ia8yyr9P"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Opiat",
+          "url": "https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo"
+        },
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Materac",
+      "url": "https://open.spotify.com/track/4Vjo8A00Nh5PZu0V3ip1cz"
     },
     {
       "added_at": "2025-02-06 23:00:39",

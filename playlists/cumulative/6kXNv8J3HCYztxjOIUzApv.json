@@ -5227,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "WE\u2019RE ALL GONNA DIE",
+        "url": "https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184723,
+      "name": "WE\u2019RE ALL GONNA DIE",
+      "url": "https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B"
+    },
+    {
+      "album": {
         "name": "What Do You Gotta Lose?",
         "url": "https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra"
       },

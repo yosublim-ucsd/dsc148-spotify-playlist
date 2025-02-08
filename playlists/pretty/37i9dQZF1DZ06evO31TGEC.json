@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48913,
+  "num_followers": 48923,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAADc2L8wnWwU9NSY0kwOTpR+",
+  "snapshot_id": "Z6P7gAAAAAAWco6BvCe/+Fcn3yk14n0h",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Rancheras Consentidas",
-        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "El Paletero",
-      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 171786,
       "name": "Tengo Celos",
       "url": "https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Rancheras Consentidas",
+        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "El Paletero",
+      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -595,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
       "artists": [
         {
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Cuando Era Ni\u00f1o",
-      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": null,
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hola Mi Amor (Version Banda)",
-        "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 181816,
-      "name": "Hola Mi Amor (Version Banda)",
-      "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
+      "duration_ms": 203000,
+      "name": "Cuando Era Ni\u00f1o",
+      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 198146,
       "name": "Sea Lo Que Sea",
       "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hola Mi Amor (Version Banda)",
+        "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 181816,
+      "name": "Hola Mi Amor (Version Banda)",
+      "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 186746,
       "name": "Contigo Me Gusta",
       "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Natalia Latorre",
-          "url": "https://open.spotify.com/artist/16NqfVntliZLwWTE4QvIr2"
-        }
-      ],
-      "duration_ms": 194461,
-      "name": "Mas Fuerte Que el Viento",
-      "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 189426,
       "name": "El Dolido",
       "url": "https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Natalia Latorre",
+          "url": "https://open.spotify.com/artist/16NqfVntliZLwWTE4QvIr2"
+        }
+      ],
+      "duration_ms": 194461,
+      "name": "Mas Fuerte Que el Viento",
+      "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
     },
     {
       "added_at": null,

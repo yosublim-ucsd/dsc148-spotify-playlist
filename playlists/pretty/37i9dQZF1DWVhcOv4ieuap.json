@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1030029,
+  "num_followers": 1030119,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2025-01-28 22:39:27",
       "album": {
-        "name": "En Las Nubes - Con Mis Panas",
-        "url": "https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Atl\u00e1ntico",
-      "url": "https://open.spotify.com/track/7z0j4g4by1iLuvia6VcgrH"
-    },
-    {
-      "added_at": "2025-01-28 22:39:27",
-      "album": {
         "name": "BOOM BOOM",
         "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 142962,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
+    },
+    {
+      "added_at": "2025-01-28 22:39:27",
+      "album": {
+        "name": "En Las Nubes - Con Mis Panas",
+        "url": "https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/7z0j4g4by1iLuvia6VcgrH"
     },
     {
       "added_at": "2025-01-28 22:39:27",

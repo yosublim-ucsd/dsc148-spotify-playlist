@@ -418,6 +418,24 @@
     {
       "album": {
         "name": "El Beso",
+        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
+    },
+    {
+      "album": {
+        "name": "El Beso",
         "url": "https://open.spotify.com/album/3XxHWOtpyZaT0wdMJJgW7D"
       },
       "artists": [
@@ -428,7 +446,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 155645,
       "name": "El Beso",
       "url": "https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 212506,
       "name": "Nunca Me Dijiste",
       "url": "https://open.spotify.com/track/10Uqv6suxcD1eLxaFwS8Mi"

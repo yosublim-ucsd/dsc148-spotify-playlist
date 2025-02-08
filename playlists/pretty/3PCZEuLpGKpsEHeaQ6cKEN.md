@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain](/playlists/plain/3PCZEuLpGKpsEHeaQ6cKEN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3PCZEuLpGKpsEHeaQ6cKEN)
 
-### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
+### [PRELOAD Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Claptone, Chicane
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Loud Luxury
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,806 likes - 165 songs - 8 hr 30 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,797 likes - 165 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 164 | [Ethnica \(Pasilda\)](https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Ethnica \(Pasilda\)](https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q) | 2:50 |
 | 165 | [Brothers & Sisters](https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Brothers & Sisters](https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm) | 3:05 |
 
-Snapshot ID: `AADTYum9PSk420eLJs1sw45pTTSxEVR/`
+Snapshot ID: `AADTb1ku8wBAUK3dy1axXjeD6wzxitJV`

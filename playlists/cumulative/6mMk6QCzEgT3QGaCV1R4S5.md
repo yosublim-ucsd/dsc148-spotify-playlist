@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Steve Aoki, Sam Feldt, Xandra, Zak Abel &amp; Nile Rodgers
 
-187 songs - 9 hr 57 min
+188 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 | 2023-12-08 | 2024-09-21 |
 | [ALL WE GOT](https://open.spotify.com/track/5LWmVBXWFwspwJ77mecPVN) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [ALL WE GOT](https://open.spotify.com/album/44hrwklx8fo4sus11mpV30) | 2:16 | 2024-01-19 | 2024-07-03 |
 | [BAD \(feat\. Discrete & Alex Hosking\)](https://open.spotify.com/track/57jyHZNcnXvrl6UmQpEWgq) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [BAD \(feat\. Discrete & Alex Hosking\)](https://open.spotify.com/album/7nFNFPoVFpbuFFZRIwOimj) | 2:31 | 2023-12-08 | 2024-01-13 |
-| [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 |  |
+| [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2025-02-08 |
 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 | 2024-01-26 | 2024-11-09 |
 | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG) | 3:09 | 2024-05-03 | 2024-11-30 |
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-12-08 | 2024-06-01 |
@@ -47,6 +47,7 @@
 | [dog](https://open.spotify.com/track/30nKYpQBn3HzWfSTZEaGgf) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [dog](https://open.spotify.com/album/04AOpkPAn23MKf89Zi81EG) | 3:15 | 2024-10-18 | 2024-10-26 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-06 |  |
 | [Don't Wait Too Long](https://open.spotify.com/track/3cJK9Vl9NWgY0OK3JJ3cWF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Don't Wait Too Long](https://open.spotify.com/album/25a3pmTDo1rqlImoCrXNk9) | 3:27 | 2024-11-15 |  |
+| [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 | 2025-02-07 |  |
 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 | 2023-12-08 | 2024-02-17 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-12-08 | 2024-04-20 |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-24 |  |

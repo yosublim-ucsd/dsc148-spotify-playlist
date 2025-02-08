@@ -2,7 +2,7 @@
 
 ### [Blessed](https://open.spotify.com/playlist/37i9dQZF1DXc3aZEVlcxfv)
 
-> I am blessed!
+> I am blessed! Cover: Festizie
 
 193 songs - 13 hr 26 min
 

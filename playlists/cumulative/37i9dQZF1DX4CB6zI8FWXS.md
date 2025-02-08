@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Giveon
 
-726 songs - 1 day 14 hr 59 min
+727 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Madness](https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Madness](https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E) | 3:30 | 2023-12-07 | 2024-03-08 |
 | [Magic Hour](https://open.spotify.com/track/5nePUc9XXUmpwMqkt8oKyK) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [X\-FACTOR 3](https://open.spotify.com/album/5KnOyCLJHa2Tag5kZYUk1v) | 3:16 | 2025-02-06 |  |
 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 | 2023-04-21 |
+| [Magnetic](https://open.spotify.com/track/7gV9RjqCQFRHZcGwkzMoby) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:42 | 2025-02-06 |  |
 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 | 2023-07-20 | 2024-05-10 |
 | [Make It Up To You](https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Make It Up To You](https://open.spotify.com/album/3enz29y0ybkTEdS322Jejt) | 3:22 | 2023-04-06 | 2023-06-23 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/10FtxzZh2p5sYwI3Lik5XM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/5Vy5Zym9vIpikh6uGhtp9P) | 2:31 | 2024-12-19 |  |

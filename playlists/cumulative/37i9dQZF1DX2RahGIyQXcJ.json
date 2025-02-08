@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 154666,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168510,
       "name": "Dear Who",
       "url": "https://open.spotify.com/track/6XnJomcOLlmWbjY07dQ6FB"
@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ"
+      },
+      "artists": [
+        {
+          "name": "Sorrow Sky",
+          "url": "https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Floating - Original Mix",
+      "url": "https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB"
+    },
+    {
+      "album": {
         "name": "Not by Chance",
         "url": "https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 206937,
       "name": "Hisaab",
       "url": "https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU"
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 211000,
       "name": "KALESHI CHORI",
       "url": "https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e"
@@ -3938,6 +3956,28 @@
       "duration_ms": 193882,
       "name": "Khatam Hue Waande",
       "url": "https://open.spotify.com/track/3LlEnO0INKAExVe4JMi7p7"
+    },
+    {
+      "album": {
+        "name": "KHATLA PAR",
+        "url": "https://open.spotify.com/album/09KrKwZyIBM4ut9pJAplfV"
+      },
+      "artists": [
+        {
+          "name": "Dhanji",
+          "url": "https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV"
+        },
+        {
+          "name": "RASLA",
+          "url": "https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161752,
+      "name": "KHATLA PAR",
+      "url": "https://open.spotify.com/track/2UHcFXheG5i2gHGMeTCLOu"
     },
     {
       "album": {
@@ -4470,6 +4510,28 @@
       "duration_ms": 181682,
       "name": "Living In The City",
       "url": "https://open.spotify.com/track/6f9Fi68sUYdZyG47tYzBVV"
+    },
+    {
+      "album": {
+        "name": "Lock",
+        "url": "https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Lock",
+      "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
     },
     {
       "album": {
@@ -6844,7 +6906,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179690,
       "name": "Sitara",
       "url": "https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c"
@@ -7050,7 +7112,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 209142,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/5DVnSQ90r2M3gm6XbgTCLp"

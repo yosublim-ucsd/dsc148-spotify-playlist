@@ -1,176 +1,188 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2461,
+  "num_followers": 2464,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEBszNAaOOPFIGcldhFWq8VFAmyXfC",
+  "snapshot_id": "AAAECC5iFtf6b2yLSU+72HqMLn02FR+/",
   "tracks": [
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "ALOHA HAWAII",
-        "url": "https://open.spotify.com/album/2H9FRSHBDxeJh8yGe7Uey4"
+        "name": "Ajatuskatkolla",
+        "url": "https://open.spotify.com/album/16Yhrn28F63KZfcwaUm4BF"
       },
       "artists": [
         {
-          "name": "Subway Surfers",
-          "url": "https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ"
+          "name": "Huge L",
+          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
         }
       ],
-      "duration_ms": 138000,
-      "name": "ALOHA HAWAII",
-      "url": "https://open.spotify.com/track/0smBlg56vgwAM3NF8EndJ4"
+      "duration_ms": 201379,
+      "name": "Ajatuskatkolla",
+      "url": "https://open.spotify.com/track/1XfxDeezisDeOOII7xKns0"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "En andra sista chans",
-        "url": "https://open.spotify.com/album/2AtRQgMrBvLih6xrEGirB0"
+        "name": "there goes my heart",
+        "url": "https://open.spotify.com/album/3x8btzvYXhpSXKI5MsxU2C"
       },
       "artists": [
         {
-          "name": "Anders Barsk",
-          "url": "https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO"
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
         }
       ],
-      "duration_ms": 204853,
-      "name": "En andra sista chans",
-      "url": "https://open.spotify.com/track/5qpIM4nlfJA40knfPhu3ou"
+      "duration_ms": 226729,
+      "name": "there goes my heart",
+      "url": "https://open.spotify.com/track/5FsIVsQvAgqTywYQs4p14q"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "Sometimes always",
-        "url": "https://open.spotify.com/album/5RbKgiRbllmub5oh48WA7R"
+        "name": "When I Know Her",
+        "url": "https://open.spotify.com/album/5a4buMrAv3p4EyBod946ae"
       },
       "artists": [
         {
-          "name": "Overhead Compartments",
-          "url": "https://open.spotify.com/artist/1l1Ybjg552x1F7EcgmEzYH"
+          "name": "moonweather",
+          "url": "https://open.spotify.com/artist/2jTReqlg8DnjfZtCq3RzgV"
         }
       ],
-      "duration_ms": 166168,
-      "name": "Sometimes always",
-      "url": "https://open.spotify.com/track/3ugA3NsCvyuP7ewHDgFOGu"
+      "duration_ms": 134066,
+      "name": "When I Know Her",
+      "url": "https://open.spotify.com/track/5JoX311i1XC6LXGhueZb2O"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "C\u00fdra",
-        "url": "https://open.spotify.com/album/6q3euzIBwKajowyadeg5P5"
+        "name": "mumbl",
+        "url": "https://open.spotify.com/album/6lKuG70DfEBHmiwZn9N4ep"
       },
       "artists": [
         {
-          "name": "Yara Liz",
-          "url": "https://open.spotify.com/artist/2bK30CUQYUBhG7HbOYVPoO"
+          "name": "ailias",
+          "url": "https://open.spotify.com/artist/6x5wrokIsPXFHJN45EiAsp"
         }
       ],
-      "duration_ms": 218453,
-      "name": "Selfish Heart",
-      "url": "https://open.spotify.com/track/30sowAkTk06nb2rk5Ywioc"
+      "duration_ms": 118352,
+      "name": "mumbl",
+      "url": "https://open.spotify.com/track/3ZDOP0kkG4yNEd3jbK3cvy"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "Jelly's Sing-Along, Vol. 2",
-        "url": "https://open.spotify.com/album/0mwLJStTYmyKaPq7vMoQbg"
+        "name": "Winter Flowers",
+        "url": "https://open.spotify.com/album/38gdunrUuxg4jMiI5ZluIh"
       },
       "artists": [
         {
-          "name": "Jelly and Friends",
-          "url": "https://open.spotify.com/artist/0BpQTnNiRjqYgZIcWtq6x1"
+          "name": "The Night Parrots",
+          "url": "https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Jelly's Chicken Fried Chicken Dance",
-      "url": "https://open.spotify.com/track/7GFIlcV2RTfj1ceKmA3VZS"
+      "duration_ms": 263076,
+      "name": "Winter Flowers",
+      "url": "https://open.spotify.com/track/5eFPFnkG2R1KaOOaO10HVl"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "Birds",
-        "url": "https://open.spotify.com/album/2KtbHxbkodZugpQJfOjdfl"
+        "name": "NIGHT KLUB",
+        "url": "https://open.spotify.com/album/4RIan65wPiRQeGjyYxw46c"
       },
       "artists": [
         {
-          "name": "Kimpatrik",
-          "url": "https://open.spotify.com/artist/610rpF7Ul6xZ5jXlBl4PM5"
+          "name": "KYMA",
+          "url": "https://open.spotify.com/artist/34WwUS1xwAUOaud53F2zQr"
         }
       ],
-      "duration_ms": 253507,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/3Xkcq0HeNxiTBC6jx5F9js"
+      "duration_ms": 198041,
+      "name": "Oniro (K)",
+      "url": "https://open.spotify.com/track/4zG1QOECjRHrLxLUC3YYH6"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/5ejCbOJSdw27nRFvgg7Pb4"
+        "name": "B-SIDOR",
+        "url": "https://open.spotify.com/album/3xH6lxKQryhEHuuiOutx7C"
       },
       "artists": [
         {
-          "name": "Isabella Delgado",
-          "url": "https://open.spotify.com/artist/5zRi6BSdHxKKEdS2sI0dsF"
+          "name": "Emanuel Ehlin",
+          "url": "https://open.spotify.com/artist/6DRJCiYgeObRhHZE2dZ54W"
         }
       ],
-      "duration_ms": 328999,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/67iEaKTb96xJiZuCPqRDuI"
+      "duration_ms": 174962,
+      "name": "Tid och Rum",
+      "url": "https://open.spotify.com/track/0shJgeOiPYVwPO0so1E84H"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "I am alone again",
-        "url": "https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn"
+        "name": "Moves",
+        "url": "https://open.spotify.com/album/55epvMKzrq4wzmkc7iakC4"
       },
       "artists": [
         {
-          "name": "VaterSon",
-          "url": "https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl"
+          "name": "The Garden Leave",
+          "url": "https://open.spotify.com/artist/2a19Styur29GsN6aH2KhLt"
         }
       ],
-      "duration_ms": 179121,
-      "name": "I am alone again",
-      "url": "https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap"
+      "duration_ms": 257880,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/1uvsEbjfEgKRPOqGHiJYli"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
-        "url": "https://open.spotify.com/album/5FFV4XvRiXn8SEnMivY4mN"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy"
       },
       "artists": [
         {
-          "name": "LuK",
-          "url": "https://open.spotify.com/artist/0VXYph9Pw0atj5otoeNgyX"
-        },
-        {
-          "name": "die tanzmanufaktur",
-          "url": "https://open.spotify.com/artist/0954fvorbWCgIhFtkq6nVS"
+          "name": "The Dirty Mirrors",
+          "url": "https://open.spotify.com/artist/3KZD02FB9WTcEcUNOxJJrW"
         }
       ],
-      "duration_ms": 167372,
-      "name": "We're All Friends - OFFICIAL RLP TAG 2025 SONG",
-      "url": "https://open.spotify.com/track/7jytzRRUPLeDP0FrBEDIau"
+      "duration_ms": 235420,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO"
     },
     {
-      "added_at": "2025-01-31 13:31:37",
+      "added_at": "2025-02-07 13:20:45",
       "album": {
-        "name": "Goodbye Ziggy Stardust",
-        "url": "https://open.spotify.com/album/5WWz7EROxRPqfIq5QKXoDJ"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/2O6K8QlH45SrwaSzVn7xX0"
       },
       "artists": [
         {
-          "name": "Trevor Tanner",
-          "url": "https://open.spotify.com/artist/6qYPZN3ZMEwFlPwHUEiYKI"
+          "name": "Moranis",
+          "url": "https://open.spotify.com/artist/4yyVqVbxxTtnIjY6wABvKc"
         }
       ],
-      "duration_ms": 418838,
-      "name": "Goodbye Ziggy Stardust",
-      "url": "https://open.spotify.com/track/0hdekznWjIcj7TvSF7umoI"
+      "duration_ms": 392321,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/7jiRUEhHuQwWzbnRQpagsP"
+    },
+    {
+      "added_at": "2025-02-07 13:20:45",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/54e82Pge93CBfN7txY4o0v"
+      },
+      "artists": [
+        {
+          "name": "TiTi",
+          "url": "https://open.spotify.com/artist/47fG6LJKwGHXDw3Q2LU3cK"
+        }
+      ],
+      "duration_ms": 483840,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/4UonYOSQgecCsM5qvSsXnu"
     }
   ],
   "unique_name": "Independent Music Friday",

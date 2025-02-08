@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,120 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,234 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 80 | [Lush Life \- Alex Adair Remix](https://open.spotify.com/track/5qmj6TGCq1HbqQJHIQK2hm) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [The Remixes](https://open.spotify.com/album/2ufZw43MNlgy6u3cPpdwaO) | 3:34 |
 | 81 | [Chemicals](https://open.spotify.com/track/1TDwnS2MBA4jENbaqdgJWf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Thomas Troelsen](https://open.spotify.com/artist/66dO8EHFd4ZfjxdQC4VdAS) | [Chemicals](https://open.spotify.com/album/5IZJCvlFvYFVFZECsa5Wew) | 3:42 |
 | 82 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
-| 83 | [Be Right There](https://open.spotify.com/track/3I9EczoLGHQpertnkoWmZG) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Cameron Thomas Tatham](https://open.spotify.com/artist/5FcWHlPI7RYwbEtX5RhRts) | [Be Right There](https://open.spotify.com/album/0g3JsFcAMMrtu3kvgXEmnQ) | 3:57 |
-| 84 | [You Were Right](https://open.spotify.com/track/5yBTaAR2GZWCrDdUqkIuUh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [You Were Right](https://open.spotify.com/album/4sH5zgJ8ILdhAHo1lUaLdP) | 3:58 |
+| 83 | [You Were Right](https://open.spotify.com/track/5yBTaAR2GZWCrDdUqkIuUh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [You Were Right](https://open.spotify.com/album/4sH5zgJ8ILdhAHo1lUaLdP) | 3:58 |
+| 84 | [Be Right There](https://open.spotify.com/track/3I9EczoLGHQpertnkoWmZG) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Cameron Thomas Tatham](https://open.spotify.com/artist/5FcWHlPI7RYwbEtX5RhRts) | [Be Right There](https://open.spotify.com/album/0g3JsFcAMMrtu3kvgXEmnQ) | 3:57 |
 | 85 | [Ganjaman](https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Ganjaman](https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm) | 2:58 |
 | 86 | [Something New](https://open.spotify.com/track/3P7qStX3ECFOLfjrXuLzbc) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Something New](https://open.spotify.com/album/3lhqigNRLd5xdnFDF6gJg3) | 4:07 |
 | 87 | [Louder \- Radio Edit](https://open.spotify.com/track/0zaaWhjBOtcxaTFvhL6znM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Louder](https://open.spotify.com/album/7hbyJgg40Flm7Lv4i3Uei0) | 2:33 |

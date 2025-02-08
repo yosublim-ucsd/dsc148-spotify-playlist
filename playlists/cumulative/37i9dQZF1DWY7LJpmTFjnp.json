@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/5yaVhs2WE3wny6eGCfiDvY"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207795,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/2iu30VOiuJk3T40v6k9WVO"
+    },
+    {
+      "album": {
         "name": "Hijos del pueblo",
         "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 170750,
       "name": "Bertha Lou",
       "url": "https://open.spotify.com/track/7pLfSyJ56nvAyq7eQRZ68r"
@@ -460,6 +478,28 @@
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
+    },
+    {
+      "album": {
+        "name": "B\u00f3tox en el Cora",
+        "url": "https://open.spotify.com/album/6A6XBK27MThOTYAdosKCoR"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196416,
+      "name": "B\u00f3tox en el Cora",
+      "url": "https://open.spotify.com/track/3K1lcQK8aifX0aBGj40nA1"
     },
     {
       "album": {
@@ -745,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Cuando el Circo Llega al Pueblo",
+        "url": "https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197138,
+      "name": "Cuando el Circo Llega al Pueblo",
+      "url": "https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V"
+    },
+    {
+      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -858,7 +916,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 148696,
       "name": "Deja Que Ladren los Perros",
       "url": "https://open.spotify.com/track/4PA3zYjY17Q4AiZa734hRd"
@@ -948,7 +1006,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 215440,
       "name": "El color de tus ojos",
       "url": "https://open.spotify.com/track/7wjFEqG6ufpVqHbQGxNPAu"
@@ -1942,7 +2000,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 216250,
       "name": "Instantes",
       "url": "https://open.spotify.com/track/2R3VobstCwCIXhvjHxFVCd"
@@ -3405,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "Para llegar hasta aqu\u00ed",
+        "url": "https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233807,
+      "name": "Para llegar hasta aqu\u00ed",
+      "url": "https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4"
+    },
+    {
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
@@ -3628,6 +3704,24 @@
       "duration_ms": 169786,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
+    },
+    {
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0MamCSh5CYI0mJUsPXvWjn"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327120,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz"
     },
     {
       "album": {
@@ -4120,7 +4214,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 205466,
       "name": "Ser\u00eda Feliz",
       "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"

@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mae Martin
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Georgia Harmer
 
-232 songs - 14 hr 0 min
+233 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2023-11-03 | 2024-07-20 |
 | [Call Me Up High](https://open.spotify.com/track/3HmgyyyokSYo7iKwKObO1o) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Call Me Up High](https://open.spotify.com/album/2urklLZj9dfzEnItNkRJ4Y) | 2:43 | 2024-08-02 | 2024-10-12 |
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-11-03 | 2023-12-09 |
+| [Can We Be Still](https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Can We Be Still](https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue) | 3:54 | 2025-02-07 |  |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 | 2024-11-25 |
 | [carSick \(feat\. Seago\)](https://open.spotify.com/track/684n2I12xPPSTv47wOqD1t) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [carSick \(feat\. Seago\)](https://open.spotify.com/album/3YVmLYyeNaBz0OlO6NrYzf) | 1:59 | 2023-11-03 | 2023-12-09 |
 | [Change A Tire](https://open.spotify.com/track/4a1GNxjxI7OKqlp4xm6I9e) | [Menno Versteeg](https://open.spotify.com/artist/4krUuWnPOX99EcqPB8tRcl) | [Why We Run](https://open.spotify.com/album/1lYroR8JZqe373WwkIvNJi) | 2:39 | 2024-12-15 |  |

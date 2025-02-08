@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a unique mix of rock, punk, alt & indie. Cover: Black Country, New Road",
+  "description": "a unique mix of rock, punk, alt & indie. Cover: Squid",
   "name": "Noisy",
   "tracks": [
     {
@@ -1548,10 +1548,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 231677,
       "name": "Building 650",
       "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
+    },
+    {
+      "album": {
+        "name": "Cowards",
+        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
     },
     {
       "album": {
@@ -4040,7 +4058,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 144378,
       "name": "Fear",
       "url": "https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt"
@@ -5975,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186792,
+      "name": "I Can\u2019t Imagine (Why You Feel This Way)",
+      "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
+    },
+    {
+      "album": {
         "name": "I Don't Belong",
         "url": "https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW"
       },
@@ -7748,6 +7784,24 @@
       "duration_ms": 134634,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
+    },
+    {
+      "album": {
+        "name": "March on for Pax Ramona",
+        "url": "https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273230,
+      "name": "March on for Pax Ramona",
+      "url": "https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih"
     },
     {
       "album": {
@@ -11410,7 +11464,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 287701,
       "name": "Squid",
       "url": "https://open.spotify.com/track/61k4hy4UTqLzx7U5c4jxJC"

@@ -491,6 +491,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "\u00caxito",
         "url": "https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 204693,
       "name": "Nipsey do Azul",
       "url": "https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 274482,
-      "name": "Muleque De Vila",
-      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
     },
     {
       "added_at": "2024-08-16 20:28:24",

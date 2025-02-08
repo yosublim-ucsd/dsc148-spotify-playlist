@@ -1,13 +1,45 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 356496,
+  "num_followers": 356552,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY5QAAAACLh7wlDPlRfHcViX7spZ2q",
+  "snapshot_id": "Z6WTZgAAAAC1J5DG6Kl+ffmDBiFTuw2T",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:22",
+      "album": {
+        "name": "Fool For You",
+        "url": "https://open.spotify.com/album/6xo8NaZwvWDEpV7jaaykGd"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "duration_ms": 257539,
+      "name": "Somnolent Love",
+      "url": "https://open.spotify.com/track/7o5bO798ISksP3UGx7y9Y2"
+    },
+    {
+      "added_at": "2025-02-07 05:00:22",
+      "album": {
+        "name": "Don't Like You Anymore",
+        "url": "https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt"
+      },
+      "artists": [
+        {
+          "name": "Tanika Charles",
+          "url": "https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I"
+        }
+      ],
+      "duration_ms": 185302,
+      "name": "Don't Like You Anymore",
+      "url": "https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0"
+    },
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB"
     },
     {
-      "added_at": "2025-01-24 05:00:28",
+      "added_at": "2025-02-07 05:00:22",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp"
+        "name": "Magic Bus Sessions",
+        "url": "https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK"
       },
       "artists": [
         {
-          "name": "James Tutson",
-          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         }
       ],
-      "duration_ms": 275195,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO"
+      "duration_ms": 223826,
+      "name": "Carry My Name - Magic Bus Sessions",
+      "url": "https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ"
     },
     {
       "added_at": "2025-01-31 05:00:21",
@@ -71,6 +103,22 @@
       "duration_ms": 234146,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:22",
+      "album": {
+        "name": "Slick McGhee",
+        "url": "https://open.spotify.com/album/6C5jgRNY53TDMfKw6l2dMY"
+      },
+      "artists": [
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "duration_ms": 205724,
+      "name": "Slick McGhee",
+      "url": "https://open.spotify.com/track/0h55M2WSxj9nKOKnSdRT89"
     },
     {
       "added_at": "2025-01-24 05:00:28",
@@ -107,6 +155,22 @@
       "duration_ms": 247400,
       "name": "Heal Me Good",
       "url": "https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U"
+    },
+    {
+      "added_at": "2025-02-07 05:00:22",
+      "album": {
+        "name": "Got You Right",
+        "url": "https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 205025,
+      "name": "Got You Right",
+      "url": "https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2"
     },
     {
       "added_at": "2025-01-24 05:00:28",
@@ -619,22 +683,6 @@
       "duration_ms": 253404,
       "name": "Wild as a Rainstorm",
       "url": "https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Way You Shine",
-        "url": "https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Way You Shine",
-      "url": "https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1515,22 +1563,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Only Want You",
-        "url": "https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va"
-      },
-      "artists": [
-        {
-          "name": "Eric Zayne",
-          "url": "https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Only Want You",
-      "url": "https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1543,46 +1575,6 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "first, last and always",
-        "url": "https://open.spotify.com/album/3Ez9IEN1H4hxwomUthlwaj"
-      },
-      "artists": [
-        {
-          "name": "Alex Cherney",
-          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
-        },
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 206937,
-      "name": "first, last and always",
-      "url": "https://open.spotify.com/track/4yR51vo6LmS17yGoN6Xyre"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
-      },
-      "artists": [
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Patrick Hizon",
-          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
-        }
-      ],
-      "duration_ms": 162020,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
     },
     {
       "added_at": "2023-09-01 04:00:00",

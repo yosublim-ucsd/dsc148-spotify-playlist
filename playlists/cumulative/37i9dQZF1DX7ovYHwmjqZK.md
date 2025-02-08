@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-158 songs - 9 hr 25 min
+159 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 | 2021-11-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2021-11-26 |  |
 | [Estrela](https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Estrela](https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI) | 4:06 | 2024-09-27 |  |
+| [Eu Canto pro Dia Nascer](https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx) | [Delia Fischer](https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Eu Canto pro Dia Nascer](https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN) | 3:17 | 2025-02-07 |  |
 | [Eu Preciso de Você](https://open.spotify.com/track/4sn6sAoO20QWPdscEr1NPi) | [Didi Gomes](https://open.spotify.com/artist/2fTHMyHkY0Nc9lAeac5VQn), [Ayrton do Violão](https://open.spotify.com/artist/37BuIUO9zQiqB8QxPpBYHj) | [Eu Preciso de Você](https://open.spotify.com/album/1t8n7PLn8yMyuHJzkq7UcT) | 2:48 | 2021-11-26 |  |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/3AqxAq1Z6lZ4BkdvFtEGDH) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 4:08 | 2022-10-14 | 2023-04-01 |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2021-11-26 |  |
@@ -141,7 +142,7 @@
 | [Ternura Do Saber](https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura Do Saber](https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t) | 4:25 | 2021-11-26 | 2024-04-19 |
 | [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 | 2021-11-26 |  |
 | [Terra do Nunca](https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO), [Romero Lubambo](https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV), [Mauro Senise](https://open.spotify.com/artist/6ZhhPmNwS3jI2DTAnlPegi) | [Quase Memória](https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6) | 3:46 | 2021-11-26 |  |
-| [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2021-11-26 |  |
+| [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2021-11-26 | 2025-02-08 |
 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Tin Tin Por Tin Tin](https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK) | 2:20 | 2021-11-26 |  |
 | [Um Caso Perdido](https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo Zé Renato canta Paulinho da Viola](https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e) | 2:52 | 2021-11-26 | 2024-04-19 |
 | [Um Caso Perdido](https://open.spotify.com/track/5IAoNNSqOtbApvFarcAXSq) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo \- Zé Renato Canta Paulinho da Viola](https://open.spotify.com/album/0jdtilr4ow2LiQXW0A6ecm) | 2:52 | 2021-11-26 |  |

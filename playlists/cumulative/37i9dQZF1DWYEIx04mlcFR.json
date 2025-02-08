@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "123 HYPE!!!",
+        "url": "https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r"
+      },
+      "artists": [
+        {
+          "name": "Eliangel",
+          "url": "https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA"
+        },
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148275,
+      "name": "123 corre!!",
+      "url": "https://open.spotify.com/track/0b6GR6IPooQ1qZ2R9p6hki"
+    },
+    {
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -328,7 +350,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 159529,
       "name": "ACELERA2!",
       "url": "https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x"
@@ -1894,7 +1916,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157760,
       "name": "casifebrero",
       "url": "https://open.spotify.com/track/0S7NfMrU4SWZXU4pcGYhZh"
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 152560,
       "name": "Dame Chance (Rayuela)",
       "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
@@ -3048,7 +3070,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179640,
       "name": "Dif\u00edcil de Amar",
       "url": "https://open.spotify.com/track/1rtlzXsJRx6nMbamzgAUtR"
@@ -4393,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "hits!",
+        "url": "https://open.spotify.com/album/02BsHFBqyCGfpsNo2vrh61"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "hits!",
+      "url": "https://open.spotify.com/track/606EEZmvEaPcSl9wPq1wWb"
+    },
+    {
+      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc"
       },
@@ -5402,6 +5442,24 @@
       "duration_ms": 139489,
       "name": "Los d\u00edas grises",
       "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
+    },
+    {
+      "album": {
+        "name": "LOS PERRITOS",
+        "url": "https://open.spotify.com/album/7dAmX5wmhcK0BpXAaHZb0S"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Ivengo",
+          "url": "https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "los perritos (atardecer)",
+      "url": "https://open.spotify.com/track/2V6o0Px2aVZVFm7XLJkrIm"
     },
     {
       "album": {
@@ -9534,7 +9592,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157440,
       "name": "sobrenatural",
       "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
@@ -9940,7 +9998,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
@@ -10230,6 +10288,24 @@
       "duration_ms": 190320,
       "name": "tiempo",
       "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
+    },
+    {
+      "album": {
+        "name": "Tiempo a Solas",
+        "url": "https://open.spotify.com/album/6Flh9g2hp6wO6Wjg9FhAd8"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151888,
+      "name": "Tiempo a Solas",
+      "url": "https://open.spotify.com/track/615NGUeMoA8TqPtmoMnlqj"
     },
     {
       "album": {
@@ -10577,6 +10653,24 @@
     },
     {
       "album": {
+        "name": "Tropezar",
+        "url": "https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164942,
+      "name": "Tropezar",
+      "url": "https://open.spotify.com/track/1rUv7qNQOT6Ak0eCWPITNg"
+    },
+    {
+      "album": {
         "name": "Tu Forma De Quererme",
         "url": "https://open.spotify.com/album/6UyztmS4ZnqN8bEAQtW1yz"
       },
@@ -10686,6 +10780,24 @@
       "duration_ms": 175160,
       "name": "Uhh",
       "url": "https://open.spotify.com/track/2GHHK3hWifjsUeclBJQztl"
+    },
+    {
+      "album": {
+        "name": "Ultramodos Sexuales",
+        "url": "https://open.spotify.com/album/3OT46emPuGQ0oOYh8Tvi4Y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118032,
+      "name": "Ultramodos Sexuales",
+      "url": "https://open.spotify.com/track/7qdUdWScBYaZBmmzk4ccxQ"
     },
     {
       "album": {

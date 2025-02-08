@@ -6788,7 +6788,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 95291,
       "name": "It's a Small World",
       "url": "https://open.spotify.com/track/5r33lzWTF5mUOaL0ydVdVG"
@@ -10460,7 +10460,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 62836,
       "name": "Opsis Kalopsis",
       "url": "https://open.spotify.com/track/6mAUs61UZZd5Y2IK5avEUK"
@@ -12905,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "Softly Swaying",
+        "url": "https://open.spotify.com/album/4N4uobEwsoF6eu8cKBy3wr"
+      },
+      "artists": [
+        {
+          "name": "Chester Goodwin",
+          "url": "https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106558,
+      "name": "Softly Swaying",
+      "url": "https://open.spotify.com/track/08bfEu8pNyqukX5hq8AmBR"
+    },
+    {
+      "album": {
         "name": "Softly to Sleep",
         "url": "https://open.spotify.com/album/64afAC2HzH6abbHqPeKdH1"
       },
@@ -14702,6 +14720,24 @@
       "duration_ms": 117250,
       "name": "The Sweetest Dream",
       "url": "https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy"
+    },
+    {
+      "album": {
+        "name": "The Teddy Bear Lullaby",
+        "url": "https://open.spotify.com/album/5IObjk6KRTYHXqCpMIui8U"
+      },
+      "artists": [
+        {
+          "name": "Blue Bonnie",
+          "url": "https://open.spotify.com/artist/0LXltNT59TO1olyZabSJo9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122315,
+      "name": "The Teddy Bear Lullaby",
+      "url": "https://open.spotify.com/track/4m4fy3omAQyRDr26FXxOIS"
     },
     {
       "album": {

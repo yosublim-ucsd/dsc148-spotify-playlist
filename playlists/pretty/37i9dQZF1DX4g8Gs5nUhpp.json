@@ -1,32 +1,28 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: BigDaddy",
-  "num_followers": 177552,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: WEAN",
+  "num_followers": 177553,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6TqsQAAAADTkXMSI7wnCdRZfPYNP6+C",
+  "snapshot_id": "Z6Y8FAAAAAB2vuPJO/0l9tPOy1atC+sa",
   "tracks": [
     {
       "added_at": "2025-02-06 17:00:33",
       "album": {
-        "name": "M\u01b0a Th\u00e2m L\u1eb7ng Gi\u1eddi",
-        "url": "https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5"
+        "name": "BADBYE",
+        "url": "https://open.spotify.com/album/32QMQlxOQ5tzhUflb30ATX"
       },
       "artists": [
         {
-          "name": "BigDaddy",
-          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
-        },
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
         }
       ],
-      "duration_ms": 228521,
-      "name": "M\u01b0a Th\u00e2m L\u1eb7ng Gi\u1eddi",
-      "url": "https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV"
+      "duration_ms": 202966,
+      "name": "BADBYE",
+      "url": "https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM"
     },
     {
       "added_at": "2025-02-06 17:00:33",
@@ -36,13 +32,45 @@
       },
       "artists": [
         {
-          "name": "BigDaddy",
-          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
         }
       ],
-      "duration_ms": 24404,
-      "name": "BigDaddy ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2A1L1oh6wt2WWFdqjkiwqI"
+      "duration_ms": 24917,
+      "name": "WEAN ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/0xm9MGuMFs8CwftNrZgTCS"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "T\u1ebft \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "T\u1ebft \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 29718,
+      "name": "RHYDER ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
     },
     {
       "added_at": "2025-02-06 17:00:33",
@@ -143,38 +171,6 @@
       "duration_ms": 27097,
       "name": "D\u01b0\u01a1ng Domic ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/1iRwmL5MnetP5vqN0mEciQ"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "T\u1ebft \u0110\u1ebfn",
-        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "T\u1ebft \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 29718,
-      "name": "RHYDER ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
     },
     {
       "added_at": "2025-02-06 17:00:33",
@@ -315,6 +311,42 @@
     {
       "added_at": "2025-02-06 17:00:33",
       "album": {
+        "name": "M\u01b0a Th\u00e2m L\u1eb7ng Gi\u1eddi",
+        "url": "https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5"
+      },
+      "artists": [
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "duration_ms": 228521,
+      "name": "M\u01b0a Th\u00e2m L\u1eb7ng Gi\u1eddi",
+      "url": "https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        }
+      ],
+      "duration_ms": 24404,
+      "name": "BigDaddy ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2A1L1oh6wt2WWFdqjkiwqI"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
         "name": "NH\u00c2N TR\u1ea6N",
         "url": "https://open.spotify.com/album/2GBGr5d7QmSFkETVAsgWvx"
       },
@@ -383,38 +415,6 @@
       "duration_ms": 17749,
       "name": "tlinh ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/0LvPNjHDvOx0zpp6ZRTBC0"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "BADBYE",
-        "url": "https://open.spotify.com/album/32QMQlxOQ5tzhUflb30ATX"
-      },
-      "artists": [
-        {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
-        }
-      ],
-      "duration_ms": 202966,
-      "name": "BADBYE",
-      "url": "https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
-        }
-      ],
-      "duration_ms": 24917,
-      "name": "WEAN ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/0xm9MGuMFs8CwftNrZgTCS"
     },
     {
       "added_at": "2025-02-06 17:00:33",

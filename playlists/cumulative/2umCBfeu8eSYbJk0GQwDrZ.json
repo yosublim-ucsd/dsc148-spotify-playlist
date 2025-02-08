@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "9-5",
+      "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
+    },
+    {
+      "album": {
         "name": "A Little Piece",
         "url": "https://open.spotify.com/album/1MUDawENcid1z4faybqDJe"
       },
@@ -404,7 +422,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 187750,
       "name": "Anhedonia",
       "url": "https://open.spotify.com/track/6PNUQmIG59A06dKLBczqAG"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 216423,
       "name": "Back In Town",
       "url": "https://open.spotify.com/track/3drEpVgZySIM7pl0JXw8Xe"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169960,
       "name": "Back To Then",
       "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 165000,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp"
@@ -1454,6 +1472,24 @@
       "duration_ms": 173333,
       "name": "burn for you",
       "url": "https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD"
+    },
+    {
+      "album": {
+        "name": "Burn the Boats",
+        "url": "https://open.spotify.com/album/2ZJQyMZbk97t9NXlahZR9c"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Leithauser",
+          "url": "https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208429,
+      "name": "Burn the Boats",
+      "url": "https://open.spotify.com/track/04UTmf8Ib1SiAiXyRCqAxK"
     },
     {
       "album": {
@@ -1876,7 +1912,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 187807,
       "name": "Chewing Plastic",
       "url": "https://open.spotify.com/track/61RqgvgUq6rE96E67ByBf2"
@@ -2551,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "Did You Love Somebody (feat. Sir Chloe)",
+        "url": "https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        },
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248722,
+      "name": "Did You Love Somebody (feat. Sir Chloe)",
+      "url": "https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz"
+    },
+    {
+      "album": {
         "name": "Nightshifts EP",
         "url": "https://open.spotify.com/album/5uR1YpVjWQMHPkRKzIZx8J"
       },
@@ -3092,6 +3150,24 @@
       "duration_ms": 158617,
       "name": "End of Beginning - triple j Like A Version",
       "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231011,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
     },
     {
       "album": {
@@ -5159,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "I Think We're Worth Saving",
+        "url": "https://open.spotify.com/album/4QEc8thwbHD3PwRfyWlks5"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "I Think We're Worth Saving",
+      "url": "https://open.spotify.com/track/0QaG4Q8a6OZZg04HMTk8bT"
+    },
+    {
+      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS"
       },
@@ -5452,7 +5546,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 180468,
       "name": "Indifferent",
       "url": "https://open.spotify.com/track/3q87UDUZ3aq3mk1TGleO2s"
@@ -5864,7 +5958,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 159000,
       "name": "Kill Box",
       "url": "https://open.spotify.com/track/4PnC5Xl61850mV54pTG2hH"
@@ -6102,7 +6196,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 214466,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/5SK5l7djtZDe9MewdLIMXr"
@@ -6629,6 +6723,28 @@
     },
     {
       "album": {
+        "name": "Mathematics (feat. Kano)",
+        "url": "https://open.spotify.com/album/5JtKI0Ys4swduOVAnxVgVN"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198751,
+      "name": "Mathematics (feat. Kano)",
+      "url": "https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj"
+    },
+    {
+      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm"
       },
@@ -6701,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
+    },
+    {
+      "album": {
         "name": "Milk Town / Mr. Carter",
         "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
       },
@@ -6770,6 +6904,24 @@
       "duration_ms": 177080,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+    },
+    {
+      "album": {
+        "name": "More Than I Got",
+        "url": "https://open.spotify.com/album/3KGn6UkcbzdH3gUqb4joN2"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "More Than I Got",
+      "url": "https://open.spotify.com/track/79nF7RbsPyKzCFRikYlfe3"
     },
     {
       "album": {
@@ -7358,7 +7510,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179810,
       "name": "Oak Tree (Daydream)",
       "url": "https://open.spotify.com/track/2jbkgzQvLdMvyMd0RnyB2i"
@@ -8708,7 +8860,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 146206,
       "name": "r\u00e9my",
       "url": "https://open.spotify.com/track/6vhulvd1JsmEpDm3ryzaVi"
@@ -8798,7 +8950,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 207000,
       "name": "Scared",
       "url": "https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup"
@@ -9638,7 +9790,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 220373,
       "name": "Stop Me If I've Told You This Story",
       "url": "https://open.spotify.com/track/4lgKpZ1SXXBrfz9QuWHczt"
@@ -10259,6 +10411,24 @@
     },
     {
       "album": {
+        "name": "the cage",
+        "url": "https://open.spotify.com/album/6FdekjQidS05yr24dL5qmX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165071,
+      "name": "the cage",
+      "url": "https://open.spotify.com/track/2vHULk2GDOJwsJ3dU5b555"
+    },
+    {
+      "album": {
         "name": "The Conflict of the Mind",
         "url": "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE"
       },
@@ -10465,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+    },
+    {
+      "album": {
         "name": "Dead Club City (Deluxe)",
         "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
       },
@@ -10555,6 +10743,28 @@
     },
     {
       "album": {
+        "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+        "url": "https://open.spotify.com/album/19pEsriNgkcdwceVA3hsTt"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "BigBoi0101",
+          "url": "https://open.spotify.com/artist/1IqgbdJ2IqjyKqpA2DqbZv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180499,
+      "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+      "url": "https://open.spotify.com/track/2zwFbXK3HDpHd6HRaDGE7K"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -10627,6 +10837,28 @@
     },
     {
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/6xLB5ZHcnE439cvrXfYSY3"
+      },
+      "artists": [
+        {
+          "name": "Venamoris",
+          "url": "https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/1yAoDWEJJsdDAw81fzhIDm"
+    },
+    {
+      "album": {
         "name": "TRUTH OR TRUST",
         "url": "https://open.spotify.com/album/0fBwGXJK6nrQ0lJaGOzUXY"
       },
@@ -10668,6 +10900,24 @@
       "duration_ms": 207370,
       "name": "Tulips & Begonias",
       "url": "https://open.spotify.com/track/14qcyKnHIfxx6c3EF8l4hl"
+    },
+    {
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm"
     },
     {
       "album": {
@@ -11168,7 +11418,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 166755,
       "name": "What Do Girls Do?",
       "url": "https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x"

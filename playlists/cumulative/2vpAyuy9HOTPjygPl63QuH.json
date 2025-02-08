@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 176250,
       "name": "(This Is A) Warning",
       "url": "https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 139047,
       "name": "1995",
       "url": "https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE"
@@ -5366,7 +5366,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 182325,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC"
@@ -12709,6 +12709,28 @@
     },
     {
       "album": {
+        "name": "Freak [GREG (BR) Remix]",
+        "url": "https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165942,
+      "name": "Freak - GREG (BR) Remix",
+      "url": "https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo"
+    },
+    {
+      "album": {
         "name": "Freak In The Weekend",
         "url": "https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo"
       },
@@ -14467,6 +14489,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/5RVZM8Lu8KjuZIIKiiYNRT"
+      },
+      "artists": [
+        {
+          "name": "Luxo",
+          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/72nynGcuT8Ax5Gk3eAAFhc"
+    },
+    {
+      "album": {
         "name": "Go Back (Jack)",
         "url": "https://open.spotify.com/album/5i0vRDnfa7uxK7mAhXLQek"
       },
@@ -15028,6 +15068,28 @@
       "duration_ms": 217058,
       "name": "Group Therapy - SOFI TUKKER Remix",
       "url": "https://open.spotify.com/track/5vUH3fRAflue21ZsGHi86a"
+    },
+    {
+      "album": {
+        "name": "Gucci Belter",
+        "url": "https://open.spotify.com/album/5Lnx2hB1wf0u5KirkD9yFZ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Raumakustik",
+          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182612,
+      "name": "Gucci Belter",
+      "url": "https://open.spotify.com/track/79ZdfvmdvHCuURJwWy7aGj"
     },
     {
       "album": {
@@ -15637,6 +15699,24 @@
     },
     {
       "album": {
+        "name": "Hey Ya",
+        "url": "https://open.spotify.com/album/7ElhInsgPM6sXruLrvYS8d"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189393,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/1Zg4Xo5jYzS3ZarGYt0S8o"
+    },
+    {
+      "album": {
         "name": "Hidden Groove",
         "url": "https://open.spotify.com/album/43lxUXsQPYLdJJq0R2tO90"
       },
@@ -16180,6 +16260,28 @@
       "duration_ms": 188500,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0Yh8sreGZzPkzshRpWrGTS"
+    },
+    {
+      "album": {
+        "name": "Hoochie Mama",
+        "url": "https://open.spotify.com/album/6JhOhkBoIWGhEQFfBjkmmt"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "Hoochie Mama",
+      "url": "https://open.spotify.com/track/44AB7BArqjcgQL1I7CtR7H"
     },
     {
       "album": {
@@ -19476,7 +19578,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 299076,
       "name": "KMS",
       "url": "https://open.spotify.com/track/7k08iOwFlXhQUmq9e4yDII"
@@ -24801,6 +24903,28 @@
     },
     {
       "album": {
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/6yKE1KJ6kHx5LO6JhNBg5K"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/5KRWE8f2yC0SIn1aMmaYff"
+    },
+    {
+      "album": {
         "name": "Need To Know",
         "url": "https://open.spotify.com/album/5v72zB4P7defUzWE8W0Vp4"
       },
@@ -25662,6 +25786,24 @@
       "duration_ms": 164307,
       "name": "Nobody Move",
       "url": "https://open.spotify.com/track/5iN3ZyneKZUk8uULrJ4KpX"
+    },
+    {
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/4p1ELNciXIW8lKeeWQBsVn"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161976,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0dIK6A97udcCJ3oq55sl2f"
     },
     {
       "album": {
@@ -27082,7 +27224,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 185862,
       "name": "Paket",
       "url": "https://open.spotify.com/track/1GzyP0UQOoZthsDHvkS9KB"
@@ -29402,7 +29544,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 376711,
       "name": "Rave Tool",
       "url": "https://open.spotify.com/track/5oDmqvUqVVTz8eq13shidU"
@@ -32130,7 +32272,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 151962,
       "name": "Shoot Your Shot",
       "url": "https://open.spotify.com/track/58YpWzPSkQNQCKazcNmhjx"
@@ -33736,6 +33878,36 @@
       "duration_ms": 164979,
       "name": "Step Into It (Golden Ticket)",
       "url": "https://open.spotify.com/track/6NmcxJuphyJDjZOw43qyk7"
+    },
+    {
+      "album": {
+        "name": "Stephanie (HNTR Remix)",
+        "url": "https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145467,
+      "name": "Stephanie - HNTR Remix",
+      "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
     },
     {
       "album": {
@@ -38166,7 +38338,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 357209,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/7qcBWoReOG59Pan9UFXW7v"
@@ -38934,6 +39106,28 @@
       "duration_ms": 227000,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/3I7AY6lL2Z3ESLgHNqSdE7"
+    },
+    {
+      "album": {
+        "name": "Up N Down",
+        "url": "https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX"
+      },
+      "artists": [
+        {
+          "name": "Kamino",
+          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167175,
+      "name": "Up N Down",
+      "url": "https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF"
     },
     {
       "album": {
@@ -39962,7 +40156,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 142000,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C"
@@ -41022,7 +41216,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 155076,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"
@@ -41128,7 +41322,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 216183,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI"

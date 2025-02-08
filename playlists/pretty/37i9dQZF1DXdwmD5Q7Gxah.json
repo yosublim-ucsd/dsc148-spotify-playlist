@@ -1,13 +1,85 @@
 {
-  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Newsletter coming soon...</a> Cover: Chappell Roan",
-  "num_followers": 1176701,
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Newsletter coming soon...</a> Cover: Dora Jar",
+  "num_followers": 1176849,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6UjAwAAAADMQ83AyD7ElwoEufWHS2Db",
+  "snapshot_id": "Z6WTfgAAAACTWvsQMH/kQhGMKkWiJxhB",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "added_at": "2025-02-04 21:36:16",
+      "album": {
+        "name": "Dumb Feeling",
+        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Dumb Feeling",
+      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+    },
+    {
+      "added_at": "2025-01-30 19:31:08",
+      "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "Eso Que T\u00fa Llamas Amor",
+        "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 175336,
+      "name": "Eso Que T\u00fa Llamas Amor",
+      "url": "https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi"
+    },
     {
       "added_at": "2025-02-05 18:42:09",
       "album": {
@@ -23,6 +95,22 @@
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 220384,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
     },
     {
       "added_at": "2025-01-23 02:13:43",
@@ -41,20 +129,88 @@
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
-      "added_at": "2025-02-04 21:36:16",
+      "added_at": "2025-02-05 19:28:45",
       "album": {
-        "name": "Dumb Feeling",
-        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+        "name": "Flesh Balloon",
+        "url": "https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx"
       },
       "artists": [
         {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
         }
       ],
-      "duration_ms": 190264,
-      "name": "Dumb Feeling",
-      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+      "duration_ms": 244240,
+      "name": "Kinky Love",
+      "url": "https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM"
+    },
+    {
+      "added_at": "2025-02-06 21:00:51",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 180289,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "pitpony",
+        "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "pitpony",
+      "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
+    },
+    {
+      "added_at": "2025-02-03 20:26:03",
+      "album": {
+        "name": "Cervezas y Tabacos",
+        "url": "https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq"
+      },
+      "artists": [
+        {
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        }
+      ],
+      "duration_ms": 199673,
+      "name": "oye Rodri :(",
+      "url": "https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln"
+    },
+    {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+        "url": "https://open.spotify.com/album/19pEsriNgkcdwceVA3hsTt"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "BigBoi0101",
+          "url": "https://open.spotify.com/artist/1IqgbdJ2IqjyKqpA2DqbZv"
+        }
+      ],
+      "duration_ms": 180499,
+      "name": "Too High, Pt. 2 (feat. BigBoi0101)",
+      "url": "https://open.spotify.com/track/2zwFbXK3HDpHd6HRaDGE7K"
     },
     {
       "added_at": "2025-01-24 05:28:49",
@@ -93,6 +249,38 @@
       "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
     },
     {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "added_at": "2025-02-05 19:12:54",
+      "album": {
+        "name": "Debunker",
+        "url": "https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV"
+      },
+      "artists": [
+        {
+          "name": "Eterna",
+          "url": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
+        }
+      ],
+      "duration_ms": 221121,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490"
+    },
+    {
       "added_at": "2025-01-21 20:48:26",
       "album": {
         "name": "Speak for Yourself (Deluxe Version)",
@@ -109,36 +297,76 @@
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
     },
     {
-      "added_at": "2025-02-05 19:28:45",
+      "added_at": "2025-02-07 05:00:46",
       "album": {
-        "name": "Flesh Balloon",
-        "url": "https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx"
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
       },
       "artists": [
         {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
         }
       ],
-      "duration_ms": 244240,
-      "name": "Kinky Love",
-      "url": "https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM"
+      "duration_ms": 145625,
+      "name": "Forever salty",
+      "url": "https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG"
     },
     {
-      "added_at": "2025-02-06 21:00:51",
+      "added_at": "2025-02-07 05:00:46",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "ADORE",
+        "url": "https://open.spotify.com/album/0AxAaCFZ4KbDgv3vj38UDz"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "child star",
+          "url": "https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1"
+        },
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        },
+        {
+          "name": "Sean Henry",
+          "url": "https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk"
         }
       ],
-      "duration_ms": 180289,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6"
+      "duration_ms": 146448,
+      "name": "ADORE",
+      "url": "https://open.spotify.com/track/3BorXY9G9eZoOlUQZA0YoO"
+    },
+    {
+      "added_at": "2024-11-15 00:36:59",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
+    },
+    {
+      "added_at": "2025-01-30 19:31:08",
+      "album": {
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
     },
     {
       "added_at": "2025-01-23 19:44:34",
@@ -157,36 +385,52 @@
       "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     },
     {
-      "added_at": "2025-02-03 20:26:03",
+      "added_at": "2025-02-07 05:00:46",
       "album": {
-        "name": "Cervezas y Tabacos",
-        "url": "https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq"
+        "name": "Jinx!",
+        "url": "https://open.spotify.com/album/0C4Dk75gkYgJo6MGrVsdSb"
       },
       "artists": [
         {
-          "name": "FE7O",
-          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+          "name": "Joon Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
         }
       ],
-      "duration_ms": 199673,
-      "name": "oye Rodri :(",
-      "url": "https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln"
+      "duration_ms": 246000,
+      "name": "Jinx!",
+      "url": "https://open.spotify.com/track/43sg2nW6LjsgaXxakTuhHF"
     },
     {
-      "added_at": "2025-01-30 19:31:08",
+      "added_at": "2025-01-23 19:44:34",
       "album": {
-        "name": "Killed For Sport",
-        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 254954,
-      "name": "Killed For Sport",
-      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2025-02-07 05:00:46",
+      "album": {
+        "name": "Say It For Yourself",
+        "url": "https://open.spotify.com/album/5AsPA4EGv5o5fhMd9zpUXP"
+      },
+      "artists": [
+        {
+          "name": "Casino Hearts",
+          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "Say It For Yourself",
+      "url": "https://open.spotify.com/track/5V0AdWrAzR06pZPpxAxt5Y"
     },
     {
       "added_at": "2025-01-30 19:31:08",
@@ -209,38 +453,6 @@
       "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
     },
     {
-      "added_at": "2025-02-05 19:12:54",
-      "album": {
-        "name": "Debunker",
-        "url": "https://open.spotify.com/album/7CV16uMpp4OJrur72BruwV"
-      },
-      "artists": [
-        {
-          "name": "Eterna",
-          "url": "https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP"
-        }
-      ],
-      "duration_ms": 221121,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490"
-    },
-    {
-      "added_at": "2025-02-03 20:16:07",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
       "added_at": "2025-01-31 02:14:07",
       "album": {
         "name": "When I Get Home",
@@ -257,20 +469,20 @@
       "url": "https://open.spotify.com/track/7yvdp8dqmxExSJwT2fn6Xq"
     },
     {
-      "added_at": "2025-01-23 19:44:34",
+      "added_at": "2025-01-17 05:00:48",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
         }
       ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -291,22 +503,6 @@
       "duration_ms": 171570,
       "name": "take me by the hand",
       "url": "https://open.spotify.com/track/2RsaHAL0eJAwdyrZloFXI7"
-    },
-    {
-      "added_at": "2025-01-30 19:31:08",
-      "album": {
-        "name": "Besties",
-        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 216757,
-      "name": "Besties",
-      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
     },
     {
       "added_at": "2025-01-31 02:14:07",
@@ -405,22 +601,6 @@
       "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
-      "added_at": "2025-01-17 05:00:48",
-      "album": {
-        "name": "you were mine",
-        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 221584,
-      "name": "you were mine",
-      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
-    },
-    {
       "added_at": "2025-01-15 16:08:53",
       "album": {
         "name": "shoreline",
@@ -435,22 +615,6 @@
       "duration_ms": 244473,
       "name": "shoreline",
       "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
-    },
-    {
-      "added_at": "2024-11-15 00:36:59",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
       "added_at": "2025-01-24 05:28:49",

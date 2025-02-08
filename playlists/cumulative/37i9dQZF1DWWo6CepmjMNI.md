@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: loserpop
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Romancerr
 
-151 songs - 10 hr 49 min
+152 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
 | [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 | 2024-08-31 |
-| [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [Chaoding](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 | 2024-09-13 |  |
+| [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [Chaoding](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 | 2024-09-13 | 2025-02-08 |
 | [ขอบคุณ](https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ขอบคุณ](https://open.spotify.com/album/03zPBAx38bbnMbqdEfA24p) | 4:06 | 2024-06-28 | 2024-11-23 |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-02 |
 | [ข่าวดี](https://open.spotify.com/track/7yodPVecn5X9EnjpzcKTGH) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [ข่าวดี](https://open.spotify.com/album/2HOrz74TqxqiIj8atwFKNS) | 4:16 | 2024-07-19 | 2024-09-14 |
@@ -109,6 +109,7 @@
 | [หยาดน้ำค้างเเห่งความสุข \(Flawless\)](https://open.spotify.com/track/7fkWN5hPQJKOiEyFCcVTRd) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [หยาดน้ำค้างเเห่งความสุข \(Flawless\)](https://open.spotify.com/album/0ac2aFvnziSohPRJhJk44Y) | 6:34 | 2025-01-31 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-21 |  |
 | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/track/0u2ICY64eKa8rsFnqg3OUy) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [หวงเธอได้มั้ย \(jelly\)](https://open.spotify.com/album/4lZuaKMNN0OMyzGbbbVcnA) | 3:08 | 2024-11-22 | 2024-11-29 |
+| [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/track/0jivjpX81Baork8Sc1qXMr) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/album/2MovYY8AFgs6aeBk4pR9ym) | 5:01 | 2025-02-07 |  |
 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 | 2024-06-21 |  |
 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 | 2024-08-16 |  |
 | [หาย \(Disconnect\)](https://open.spotify.com/track/0Gd5NAjYf85OU9FfSfFbhK) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [หาย \(Disconnect\)](https://open.spotify.com/album/0Cf6AY1Bjz8DlfdHNs90Uk) | 3:05 | 2024-10-25 | 2024-11-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7242,
+  "num_followers": 7249,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Same Again (For Love)",
-        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 199969,
-      "name": "Same Again (For Love)",
-      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175000,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Same Again (For Love)",
+        "url": "https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 199969,
+      "name": "Same Again (For Love)",
+      "url": "https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -959,8 +959,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+        "name": "WEIGHTLESS",
+        "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
       },
       "artists": [
         {
@@ -968,25 +968,9 @@
           "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
         }
       ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 144051,
-      "name": "Wishing well",
-      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+      "duration_ms": 173097,
+      "name": "WEIGHTLESS",
+      "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 259097,
       "name": "Bloody Mind",
       "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 144051,
+      "name": "Wishing well",
+      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "WEIGHTLESS",
-        "url": "https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9"
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
         }
       ],
-      "duration_ms": 173097,
-      "name": "WEIGHTLESS",
-      "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Magic Stone",
         "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 213106,
       "name": "Magic Stone",
       "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
     },
     {
       "added_at": "2024-02-08 23:00:00",

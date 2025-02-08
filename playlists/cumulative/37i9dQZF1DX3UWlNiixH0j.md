@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: brkfstblend
 
-2,143 songs - 5 day 13 hr 52 min
+2,144 songs - 5 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1373,6 +1373,7 @@
 | [あこがれ](https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [あこがれ](https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB) | 3:59 | 2023-12-12 | 2023-12-15 |
 | [あたしぐらいは願うたび](https://open.spotify.com/track/5iRQF5xQElpi1Lh2vuqiZT) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [あたしぐらいは願うたび](https://open.spotify.com/album/5maSrfcqMRsXIlwoQo6YzQ) | 4:20 | 2024-01-09 | 2024-01-25 |
 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 | 2023-06-20 | 2024-12-05 |
+| [あたらしい旅](https://open.spotify.com/track/6z64zKHLyMJYysrOTaJ8IH) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あたらしい旅](https://open.spotify.com/album/3m6BQfRoYSVARICKCMyL8X) | 3:27 | 2025-02-05 |  |
 | [あたりまえ](https://open.spotify.com/track/6PdWlcoQN6FHxvCa0H6c2l) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [ザ・ビュッフェ](https://open.spotify.com/album/4wLS4xt5rbHMW9U5j580ZJ) | 4:46 | 2024-06-04 | 2024-07-25 |
 | [あつまれ](https://open.spotify.com/track/6YyQ1e0i3U4c1hvexawniF) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [あつまれ](https://open.spotify.com/album/0C9ZYd3bL9wCq12dyjWOVF) | 4:00 | 2024-05-07 | 2024-05-22 |
 | [あと少しだけ](https://open.spotify.com/track/6mlIEwQoxhSxFbseoZ81xQ) | [NOUGAT](https://open.spotify.com/artist/67WDTAIYSpsPUOjyuYPw0C) | [あと少しだけ](https://open.spotify.com/album/437RqIC0jGlFx9GbFNlNZX) | 5:04 | 2023-07-11 | 2023-07-19 |
@@ -1828,7 +1829,7 @@
 | [夜間飛行 \- HALFBY Night Breaks Re\-Work](https://open.spotify.com/track/5tPSW4rBE7PLT5MS6Tioqw) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [夜間飛行 \(HALFBY Night Breaks Re\-Work\)](https://open.spotify.com/album/2YvRimW8jLp1EtOA6rsKa3) | 3:57 | 2024-06-18 | 2024-07-03 |
 | [夢](https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [夢](https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK) | 3:53 | 2023-06-13 | 2023-07-20 |
 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 | 2024-04-03 |
-| [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 | 2024-11-27 |  |
+| [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 | 2024-11-27 | 2025-02-08 |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2023-03-28 | 2023-04-05 |
 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 | 2024-11-13 |  |
 | [夢占](https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [水中庭園](https://open.spotify.com/album/4FxkA4os4gczMz5KifOc8b) | 2:19 | 2023-04-11 | 2023-05-10 |

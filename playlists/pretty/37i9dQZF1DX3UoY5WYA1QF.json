@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 150322,
+  "num_followers": 150523,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD"
+      },
+      "artists": [
+        {
+          "name": "La Propiedad De Durango",
+          "url": "https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Traficante De Besos",
+      "url": "https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 196013,
       "name": "Desliz",
       "url": "https://open.spotify.com/track/1i9BszSRSFvCSLO03FdZsM"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD"
-      },
-      "artists": [
-        {
-          "name": "La Propiedad De Durango",
-          "url": "https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz"
-        }
-      ],
-      "duration_ms": 155080,
-      "name": "Traficante De Besos",
-      "url": "https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mi Guitarra y Yo Vol. 3",
-        "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 330696,
-      "name": "Manuel Juarez",
-      "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 155742,
       "name": "Soy Como Quiero Ser",
       "url": "https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mi Guitarra y Yo Vol. 3",
+        "url": "https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 330696,
+      "name": "Manuel Juarez",
+      "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "El Consentido",
-        "url": "https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 201884,
-      "name": "El Consentido",
-      "url": "https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 212427,
       "name": "Estuve",
       "url": "https://open.spotify.com/track/7ajsD2zgkQv3XnW05CGXPL"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "El Consentido",
+        "url": "https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 201884,
+      "name": "El Consentido",
+      "url": "https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH"
     },
     {
       "added_at": "2024-07-12 06:00:00",

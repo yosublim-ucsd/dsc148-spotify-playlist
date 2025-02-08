@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/7esZ6OgvsUTkfK9FdqxMJr"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0KFIU9kix5muSmZZ92neg5"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/579lk6zNnmru1n40ftAXm4"
       },
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 202518,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1siF5836wws0IuELlYrkDq"
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 147840,
       "name": "Nice",
       "url": "https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Immortal Technique",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: DJ Premier",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 283600,
       "name": "Answers",
       "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197400,
       "name": "Blue Flowers",
       "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 311480,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236413,
       "name": "Boom",
       "url": "https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel"
@@ -968,10 +968,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250360,
       "name": "Extra, Extra!! - Radio Edit",
       "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+    },
+    {
+      "album": {
+        "name": "Y2k The Album",
+        "url": "https://open.spotify.com/album/2ztkCkIhykYgT6MMQiGaSA"
+      },
+      "artists": [
+        {
+          "name": "Screwball",
+          "url": "https://open.spotify.com/artist/7gWDOIgkiklsoggs6UyZXD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188630,
+      "name": "F.A.Y.B.A.N.",
+      "url": "https://open.spotify.com/track/3AoEnlrURQTCYvNVFqSXQo"
     },
     {
       "album": {
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 276960,
       "name": "Gettin' Closer to God",
       "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 313666,
       "name": "Hater's Anthem",
       "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 238706,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/4TpBPG62p9RefejCGNoxF9"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 242573,
       "name": "Just Don't Give A Fuck",
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
@@ -1662,6 +1680,24 @@
       "duration_ms": 214306,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
+    },
+    {
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Mathematics",
+      "url": "https://open.spotify.com/track/3gRlmtdCyNoKiyozn2pqc9"
     },
     {
       "album": {
@@ -2762,7 +2798,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222440,
       "name": "Thick",
       "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"

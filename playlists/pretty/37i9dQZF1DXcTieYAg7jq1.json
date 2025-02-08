@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Leon Bridges",
-  "num_followers": 418025,
+  "num_followers": 418045,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY5AAAAAAMXUnA/NLlV3YvO3O747J2",
+  "snapshot_id": "Z6WTZwAAAAAynIUnyHkC7IpJKv5M4j50",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:23",
+      "album": {
+        "name": "Big Dipper",
+        "url": "https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Big Dipper",
+      "url": "https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr"
+    },
     {
       "added_at": "2025-01-31 05:00:20",
       "album": {
@@ -1443,22 +1459,6 @@
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "All Summer",
-        "url": "https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "All Summer",
-      "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
     },
     {
       "added_at": "2022-09-09 04:01:00",

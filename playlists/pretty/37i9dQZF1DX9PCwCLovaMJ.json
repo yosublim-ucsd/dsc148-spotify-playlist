@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1316,
+  "num_followers": 1317,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Du fl\u00f6g iv\u00e4g",
-        "url": "https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Du fl\u00f6g iv\u00e4g",
-      "url": "https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
         "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 159773,
       "name": "Fortfarande du",
       "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Du fl\u00f6g iv\u00e4g",
+        "url": "https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Du fl\u00f6g iv\u00e4g",
+      "url": "https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Wa Nibi",
-        "url": "https://open.spotify.com/album/30SFFOEsMJKrTink00To4d"
-      },
-      "artists": [
-        {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
-        }
-      ],
-      "duration_ms": 154084,
-      "name": "Wa Nibi",
-      "url": "https://open.spotify.com/track/7jZESJkAP1efDTqaDTJXBi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Crying Dove",
         "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 158552,
       "name": "Upset",
       "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Wa Nibi",
+        "url": "https://open.spotify.com/album/30SFFOEsMJKrTink00To4d"
+      },
+      "artists": [
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        }
+      ],
+      "duration_ms": 154084,
+      "name": "Wa Nibi",
+      "url": "https://open.spotify.com/track/7jZESJkAP1efDTqaDTJXBi"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Nothing's TMI",
-        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 177776,
-      "name": "MESSY",
-      "url": "https://open.spotify.com/track/7heAzsWByeir4YAtakFiul"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "North Sea Siren (p.78)",
         "url": "https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 135479,
       "name": "North Sea Siren (p.78)",
       "url": "https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Nothing's TMI",
+        "url": "https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 177776,
+      "name": "MESSY",
+      "url": "https://open.spotify.com/track/7heAzsWByeir4YAtakFiul"
     },
     {
       "added_at": "2024-12-04 12:15:00",

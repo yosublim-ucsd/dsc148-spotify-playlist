@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Paper Tiger",
+        "url": "https://open.spotify.com/album/1IC5YSNaOSsHPqNPeoYtLm"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/4jJw1XWe4hq0UIOQkUeGLz"
+    },
+    {
+      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },

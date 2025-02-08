@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Skillet ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Manafest ",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 202025,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 286398,
       "name": "Firm Foundation (He Won't)",
       "url": "https://open.spotify.com/track/1XeVdgCil539quM3POT69i"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 238813,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA"
@@ -1510,6 +1510,24 @@
       "duration_ms": 249534,
       "name": "Fullness",
       "url": "https://open.spotify.com/track/2aDBcIhjP66jyquAtFypKX"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me",
+        "url": "https://open.spotify.com/album/2BEl2MSwngspgXkPDxyV9Y"
+      },
+      "artists": [
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225502,
+      "name": "Get Behind Me",
+      "url": "https://open.spotify.com/track/56FFFla4vPelcCCQjljWHH"
     },
     {
       "album": {
@@ -2905,6 +2923,32 @@
     },
     {
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/5fzhFWMDLOZfogXUGPk8Oe"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185291,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/11uhSa3OZqe9kUhb7DEpRl"
+    },
+    {
+      "album": {
         "name": "Standing in the Storm / Surviving The Game",
         "url": "https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG"
       },
@@ -3318,6 +3362,28 @@
       "duration_ms": 257466,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
+    },
+    {
+      "album": {
+        "name": "They See (Live in Pomona)",
+        "url": "https://open.spotify.com/album/0ZUNh3WGZfdLe4UUgO4c48"
+      },
+      "artists": [
+        {
+          "name": "HolyName",
+          "url": "https://open.spotify.com/artist/70dru8oehK8CwnNzANx6CJ"
+        },
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240054,
+      "name": "They See - Live In Pomona",
+      "url": "https://open.spotify.com/track/76g9TZlz0vfqFjLr2w8pvJ"
     },
     {
       "album": {
@@ -3740,6 +3806,24 @@
       "duration_ms": 182068,
       "name": "Wild Ones",
       "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
+    },
+    {
+      "album": {
+        "name": "TOWARDS THE LIGHT",
+        "url": "https://open.spotify.com/album/74PmqmD3b2Eo3rlHEihPz9"
+      },
+      "artists": [
+        {
+          "name": "Impending Doom",
+          "url": "https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121543,
+      "name": "WILL YOU SEE GOD?",
+      "url": "https://open.spotify.com/track/4il1GBerEw51VHGNjYD84B"
     },
     {
       "album": {

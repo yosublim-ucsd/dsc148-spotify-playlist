@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,184 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,185 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 10 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 |
 | 11 | [萬一你是個好人](https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [萬一你是個好人](https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g) | 3:05 |
 | 12 | [多喝水](https://open.spotify.com/track/1W7uQESfg4yq6dSJg4tvG3) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [多喝水](https://open.spotify.com/album/7vngDxPixBXjzA5cq13iR1) | 4:13 |
-| 13 | [17秒 \(feat\. 林一峰\)](https://open.spotify.com/track/15FhuRei4KphmSmChtovIl) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd), [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [17秒 \(feat\. 林一峰\)](https://open.spotify.com/album/2o52S0vlqilRKlcFsJwLAs) | 3:28 |
+| 13 | [17秒 \(feat\. 林一峰\)](https://open.spotify.com/track/15FhuRei4KphmSmChtovIl) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd), [Yatfung](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [17秒 \(feat\. 林一峰\)](https://open.spotify.com/album/2o52S0vlqilRKlcFsJwLAs) | 3:28 |
 | 14 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 |
 | 15 | [海邊的呀豪](https://open.spotify.com/track/3nKF5Wp0RTdD3tJEia0pgq) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [海邊的呀豪](https://open.spotify.com/album/23Isl77qYMyntBEPCkyAz2) | 3:21 |
 | 16 | [風雨不改 \(電影《阿媽有咗第二個》主題曲\)](https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [風雨不改 \(電影《阿媽有咗第二個》主題曲\)](https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d) | 5:08 |

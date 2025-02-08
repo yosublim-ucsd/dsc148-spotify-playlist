@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Flacko",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: LH CHUCRO",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -1469,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "Agora \u00c9 Onda",
+        "url": "https://open.spotify.com/album/4djDGYyVLO7yepJ0rE65LQ"
+      },
+      "artists": [
+        {
+          "name": "Gabri",
+          "url": "https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB"
+        },
+        {
+          "name": "Dudda D'Cria",
+          "url": "https://open.spotify.com/artist/17ggYU9oz8jfMZMVWHoJ4z"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Agora \u00c9 Onda",
+      "url": "https://open.spotify.com/track/2K3AOPsp47vqnWjic3YJEt"
+    },
+    {
+      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2N1HMtgWI1Q1YpzfRjfwPg"
       },
@@ -2214,7 +2240,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 143716,
       "name": "Apimentar",
       "url": "https://open.spotify.com/track/1zm383Jj9kYgif7Bhoqsy4"
@@ -2694,6 +2720,32 @@
       "duration_ms": 125133,
       "name": "Atlantico",
       "url": "https://open.spotify.com/track/4WIHjPnhFq8pcGSFhGvcxq"
+    },
+    {
+      "album": {
+        "name": "Atras da Meta",
+        "url": "https://open.spotify.com/album/4BhQ5AdxNM4954vbMjvvCP"
+      },
+      "artists": [
+        {
+          "name": "Glaxdow",
+          "url": "https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2"
+        },
+        {
+          "name": "Nemxxo",
+          "url": "https://open.spotify.com/artist/0tCXXhvccSIWQz0sIgTChh"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159433,
+      "name": "Atras da Meta",
+      "url": "https://open.spotify.com/track/6BeBP7yjh35aN5WcwgQ2cA"
     },
     {
       "album": {
@@ -3634,6 +3686,24 @@
       "duration_ms": 175714,
       "name": "Bandido Demais",
       "url": "https://open.spotify.com/track/7sp9cAk7WVL2FnUr34di4V"
+    },
+    {
+      "album": {
+        "name": "Bandido do Texas",
+        "url": "https://open.spotify.com/album/5dyk9o171cUUHE5m1arG5i"
+      },
+      "artists": [
+        {
+          "name": "Suiky",
+          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142987,
+      "name": "Bandido do Texas",
+      "url": "https://open.spotify.com/track/2jpPvuytLLnWmqO9OrlyaV"
     },
     {
       "album": {
@@ -5620,7 +5690,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 172800,
       "name": "CAOS2",
       "url": "https://open.spotify.com/track/5A3uHHvtW4QDpw3FsI73Pd"
@@ -8729,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "DEBOCHE",
+        "url": "https://open.spotify.com/album/0mrt3tpi0c0fMxBAAqANwL"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113169,
+      "name": "DEBOCHE",
+      "url": "https://open.spotify.com/track/1XGCBh2SJYJQMNvXTgD9tI"
+    },
+    {
+      "album": {
         "name": "Deboche GR",
         "url": "https://open.spotify.com/album/0j4gRJQhT5ONxa2sMs5Myz"
       },
@@ -9426,7 +9514,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 102532,
       "name": "DESIGNER AA",
       "url": "https://open.spotify.com/track/3umKwv8CVuC9mjYird2S9l"
@@ -10016,7 +10104,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 150260,
       "name": "Diferente Dela",
       "url": "https://open.spotify.com/track/6YoVmuEOeqSPQLeYKyL3xh"
@@ -11006,7 +11094,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 158644,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/3vzhAsFp7MQ2vPidyUC5i0"
@@ -11102,7 +11190,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 128516,
       "name": "DUAS VERS\u00d5ES",
       "url": "https://open.spotify.com/track/1661UvXeRJJ5YBtERX83xz"
@@ -16932,7 +17020,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 177364,
       "name": "Junya Watanabe & Piet",
       "url": "https://open.spotify.com/track/0hujA6rlZaMDqdLjKmiZyf"
@@ -20098,7 +20186,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 131528,
       "name": "Meta",
       "url": "https://open.spotify.com/track/5PH8jkW1jCknFX3TQ1whl4"
@@ -26995,6 +27083,24 @@
     },
     {
       "album": {
+        "name": "Ranking",
+        "url": "https://open.spotify.com/album/1RKyAMYaxEaXqtNjOODbK9"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Ranking",
+      "url": "https://open.spotify.com/track/7dfKVd7R2ufJkQE7Shttei"
+    },
+    {
+      "album": {
         "name": "Ratos",
         "url": "https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn"
       },
@@ -27231,6 +27337,32 @@
     },
     {
       "album": {
+        "name": "Reflexo #11 - Eu",
+        "url": "https://open.spotify.com/album/50q8cHtrJa2eNRjIqCnNVg"
+      },
+      "artists": [
+        {
+          "name": "VH",
+          "url": "https://open.spotify.com/artist/4vJjgImO8b2MB0m3e0eVRJ"
+        },
+        {
+          "name": "Knouk",
+          "url": "https://open.spotify.com/artist/0lJgcnBlDqQoIA0bZDQEMe"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131508,
+      "name": "Reflexo #11 - Eu",
+      "url": "https://open.spotify.com/track/46AcpA4ewcTHEDd7zWUENU"
+    },
+    {
+      "album": {
         "name": "Reflexo #6 - Vit\u00f3ria",
         "url": "https://open.spotify.com/album/7ItGYCdEraDoV6BSILIeRK"
       },
@@ -27412,6 +27544,32 @@
       "duration_ms": 129836,
       "name": "Relembrar",
       "url": "https://open.spotify.com/track/5TneCFvf6UpI9izLpvagFi"
+    },
+    {
+      "album": {
+        "name": "Rem\u00e9dio Para Talarico",
+        "url": "https://open.spotify.com/album/7gwgeO8HPemL0J31pFNYkY"
+      },
+      "artists": [
+        {
+          "name": "MVK",
+          "url": "https://open.spotify.com/artist/6OUzLsKUVBee7bF1DvO0c7"
+        },
+        {
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Rem\u00e9dio Para Talarico",
+      "url": "https://open.spotify.com/track/1mrlm0OwvARUUZV2E44Spl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 159478,
+  "num_followers": 159500,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAAHkMJTJwIr7hxA5XQYY0nh",
+  "snapshot_id": "Z6P7gAAAAAB3WMxM5sJiyo5wl/p9yrbZ",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aVzxKZtuM9hOV0NR2CWqt"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/30rJOT2ceu7Fz3RnRWAukU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 171600,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aVzxKZtuM9hOV0NR2CWqt"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/30rJOT2ceu7Fz3RnRWAukU"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 149120,
-      "name": "No Comprendo",
-      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201978,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 149120,
+      "name": "No Comprendo",
+      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
     },
     {
       "added_at": null,

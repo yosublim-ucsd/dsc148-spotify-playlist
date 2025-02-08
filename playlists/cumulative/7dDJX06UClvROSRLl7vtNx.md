@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-706 songs - 1 day 6 hr 41 min
+708 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [No Sleep](https://open.spotify.com/track/0qSq3cOECG9x2xGDAXs4n2) | [T'art](https://open.spotify.com/artist/5MiPgWTGNMQXaSx00kV5iW), [Lyubov Kay](https://open.spotify.com/artist/51Tc5HIzPZ3eEsuovFtMFr) | [No Sleep](https://open.spotify.com/album/2dEMmIDTijQeBPWa98HDW8) | 3:34 | 2024-02-16 | 2024-05-13 |
 | [Nobody](https://open.spotify.com/track/47wkD7lkoD8gTJmGUupxwj) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Loé](https://open.spotify.com/artist/7MuRRLYh8g8uTtqU77NW9q) | [Nobody](https://open.spotify.com/album/2FKLLgJXy6CUQAkia8G2hf) | 2:23 | 2024-05-05 | 2024-05-21 |
 | [Not Lonely](https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Finley Brückner](https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0), [Ella X](https://open.spotify.com/artist/4g9KPFeiibtNmCsnuBcK2H) | [Not Lonely](https://open.spotify.com/album/7olVebo6iIcqKo46m7uV6Q) | 3:03 | 2024-10-25 |  |
+| [Not The Only One](https://open.spotify.com/track/0bGq9gcGm1jyHUdYqoQtsY) | [Planetopia](https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb) | [Not The Only One](https://open.spotify.com/album/5MOh0lvL0EuY9xoTqpx6rt) | 2:20 | 2025-02-07 |  |
 | [Nothing Compares](https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Joey Busse](https://open.spotify.com/artist/6ctUI0LDXR8CatDPqGzXYB) | [Nothing Compares](https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m) | 1:59 | 2024-01-07 | 2024-05-13 |
 | [Now I'm Gone](https://open.spotify.com/track/15hgvY0km8TmpJbFLe9X7k) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [Now I'm Gone](https://open.spotify.com/album/1rCZsToVVv9nP1nuHOqpMd) | 2:30 | 2024-06-07 | 2024-07-14 |
 | [Nowhere To Go](https://open.spotify.com/track/4xSQow8DRpIJZCjqyvXKDM) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [Nowhere To Go](https://open.spotify.com/album/64xMBNeyIilz6sU5GGFhwr) | 2:34 | 2024-07-13 | 2024-07-29 |
@@ -655,6 +656,7 @@
 | [Waiting For Tonight](https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Waiting For Tonight](https://open.spotify.com/album/0FIsdHoYo4lGHTJwvz5y67) | 2:33 | 2024-09-29 |  |
 | [Waiting For You](https://open.spotify.com/track/4uLWlY98F6LnKZSGLy1Ohm) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Waiting For You](https://open.spotify.com/album/1qz08a4bbEiVN4P4nykzMq) | 2:30 | 2024-07-30 |  |
 | [Wake Up](https://open.spotify.com/track/3mYKaKUIceyT9hBJ56X5Kf) | [Ideo](https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Wake Up](https://open.spotify.com/album/5raro9uFM1I2ndfzp6mqYX) | 2:26 | 2025-01-10 |  |
+| [Walking Dreams](https://open.spotify.com/track/3OP1tR3ALAIVtgInHifv1C) | [Basp](https://open.spotify.com/artist/2wSmaGM9LIQzFq1AD9jRv7) | [Walking Dreams](https://open.spotify.com/album/171UjbrUl8ubm23BT31bFU) | 2:09 | 2025-02-07 |  |
 | [Walking On A Dream](https://open.spotify.com/track/168j21rfvVnyptl3ctjO5h) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Kilma](https://open.spotify.com/artist/7aICckyYS2BcCmBtOifHoU) | [Walking On A Dream](https://open.spotify.com/album/6iNqxtSPoAg6flvTTb4OKw) | 2:59 | 2024-07-08 | 2024-08-12 |
 | [Walking On A Dream](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Walking On A Dream](https://open.spotify.com/album/1SPJfmyfAGNPSuA7ODwzw5) | 1:59 | 2024-03-29 | 2024-07-05 |
 | [Walking On a Dream](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Walking On a Dream](https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s) | 2:49 | 2023-09-22 | 2024-03-30 |

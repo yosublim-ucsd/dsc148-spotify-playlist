@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Oki, Sobel
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,773 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,875 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 46 | [PRZEKAZ MYŚLI](https://open.spotify.com/track/2cm6RJemeOITG5MualyhAU) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [PRZEKAZ MYŚLI](https://open.spotify.com/album/2xihBYjoahj3QAJg6B6iNR) | 2:32 |
 | 47 | [DOLCE VITA](https://open.spotify.com/track/6TDvQQit8Q6EJhHvtx62cp) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Leśny](https://open.spotify.com/artist/2MRSNbEPY2YKzkgDag5fzg) | [DOLCE VITA](https://open.spotify.com/album/4ltl3kxWgO7qq1TbmnUGqw) | 2:33 |
 | 48 | [SOBOTA WIECZÓR](https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Jacuś](https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq) | [SOBOTA WIECZÓR](https://open.spotify.com/album/3ve9nVA4gEYrA0m1OrL2P6) | 2:12 |
-| 49 | [MAMA POWTARZAŁA](https://open.spotify.com/track/0K6thngxWrsspm5kzKgFCR) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [MAMA POWTARZAŁA](https://open.spotify.com/album/5BxZauvVwPhsl0xyTpkcOK) | 3:22 |
+| 49 | [Materac](https://open.spotify.com/track/4Vjo8A00Nh5PZu0V3ip1cz) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo), [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni) | [Materac](https://open.spotify.com/album/65MgbHF5nlda57Ia8yyr9P) | 2:47 |
+| 50 | [MAMA POWTARZAŁA](https://open.spotify.com/track/0K6thngxWrsspm5kzKgFCR) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [MAMA POWTARZAŁA](https://open.spotify.com/album/5BxZauvVwPhsl0xyTpkcOK) | 3:22 |
 
-Snapshot ID: `Z6U/FwAAAAB73vXh2sy3GElu8yl6WQGz`
+Snapshot ID: `Z6WsmgAAAABFU4DuFRXnM18T9nhVSIFG`

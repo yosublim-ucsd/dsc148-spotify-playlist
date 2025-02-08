@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 119 | [Stand Out](https://open.spotify.com/track/5F9u03cJgRLFLk9RjjJF0f) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Stand Out](https://open.spotify.com/album/2v2s10r7gbys7aMB0uTd6I) | 3:05 |
 | 120 | [Finest Hour](https://open.spotify.com/track/5i6cpztx0qKfT956tyjOYL) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:43 |
 | 121 | [Just Keep Believing](https://open.spotify.com/track/01FzOXaX2WKhUfYsMV1enw) | [Majesty](https://open.spotify.com/artist/7wFryXeiMbqt0vDuoUwetX) | [Just Keep Believing](https://open.spotify.com/album/1BpJ6xwEsb0sfJHCdrUYGx) | 3:38 |
-| 122 | [Deck the Halls](https://open.spotify.com/track/3ksgyvAz3nIgIzGWg4eEDx) | [More The Merrier](https://open.spotify.com/artist/1aQlo2EC95yOrrHTAuiRx3) | [Sorted Noise Records: A Holiday Album, Vol\. 4](https://open.spotify.com/album/1p0ocdphsDirTaXdXmlKdR) | 3:49 |
-| 123 | [Alive](https://open.spotify.com/track/6o5yJOHRffyjiSe8odvVZA) | [Jesse Blaze](https://open.spotify.com/artist/1c8pHcgA2ZjOSfC3gAOfnf) | [Lost & Found](https://open.spotify.com/album/6xVhVxpq8XvEH5JdV4DDQt) | 3:27 |
+| 122 | [Alive](https://open.spotify.com/track/6o5yJOHRffyjiSe8odvVZA) | [Jesse Blaze](https://open.spotify.com/artist/1c8pHcgA2ZjOSfC3gAOfnf) | [Lost & Found](https://open.spotify.com/album/6xVhVxpq8XvEH5JdV4DDQt) | 3:27 |
+| 123 | [Deck the Halls](https://open.spotify.com/track/3ksgyvAz3nIgIzGWg4eEDx) | [More The Merrier](https://open.spotify.com/artist/1aQlo2EC95yOrrHTAuiRx3) | [Sorted Noise Records: A Holiday Album, Vol\. 4](https://open.spotify.com/album/1p0ocdphsDirTaXdXmlKdR) | 3:49 |
 | 124 | [American Hope](https://open.spotify.com/track/47nJ9qTcy66vgrMD2BLcJv) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:19 |
 | 125 | [Stadium Of Light \- Afterhours Remix](https://open.spotify.com/track/45m52Y00dRfQZqNYK0F0Ye) | [Aiden Jude](https://open.spotify.com/artist/7Iadh48vSSB7Z5gRNGeLpn), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Stadium Of Light \(Afterhours Remix\)](https://open.spotify.com/album/6Teg1pzkX0AkAZvsnum8Yw) | 6:05 |
 | 126 | [Swagger Right](https://open.spotify.com/track/2tSPLQSQ4XkFwffpxvrGxm) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Party All the Time](https://open.spotify.com/album/5sAlN16zuw2ruoAbUSkbYw) | 2:59 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 131 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
 | 132 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `Abo5fgAAAADrG4TKLpMjtR1DGA3psWns`
+Snapshot ID: `Abo/HgAAAACGv3j3dNznNPRTE9mKZHbq`

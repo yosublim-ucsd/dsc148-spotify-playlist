@@ -2,9 +2,9 @@
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
-> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Banda AR\-15, Manu Bahtidão
+> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-287 songs - 16 hr 57 min
+289 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Nobre Vagabundo](https://open.spotify.com/track/4tlqGrCS0PdlDPHyWPkgMR) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS) | 3:53 | 2021-10-15 | 2024-10-23 |
 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 | 2021-10-15 | 2024-10-23 |
 | [Nuvens no Jardim](https://open.spotify.com/track/5Q2khrcPlrhXKeGTSQbDsX) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B) | [Nuvens no Jardim](https://open.spotify.com/album/2DtMlfHx1Y8MKNIH6mzkKF) | 3:25 | 2021-10-15 | 2022-07-29 |
+| [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 | 2025-02-07 |  |
 | [Não Fosse Tão Tarde](https://open.spotify.com/track/6FkTHnkkESftfYIMNdkTHX) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Hit 2023](https://open.spotify.com/album/1j6MVT6T1C51L74WJvKL9Z) | 3:04 | 2024-10-22 |  |
 | [Não Precisa Ser Amélia](https://open.spotify.com/track/6FDZdbHaAHY6a1JvOg7Fbo) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Igreja Lesbiteriana, Um Chamado](https://open.spotify.com/album/0ElU2CZRo8BffDKE1bXB8z) | 5:36 | 2021-10-15 | 2024-08-07 |
 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 | 2021-10-15 | 2024-10-23 |
@@ -200,6 +201,7 @@
 | [Para Pensa e Volta \(feat\. Marília Mendonça\) \- Ao Vivo](https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo](https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq) | 2:54 | 2021-10-15 | 2024-10-23 |
 | [Para Ver As Meninas](https://open.spotify.com/track/28EjuwJtnVkjYswHp9QYWl) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Grupo Semente](https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36) | [Fundamental \- Teresa Cristina e Grupo Semente](https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv) | 3:32 | 2021-10-15 | 2022-07-29 |
 | [Parecia Ser](https://open.spotify.com/track/5g8N44Brr7OZZAKk9Ti1Om) | [Deborah Crespo](https://open.spotify.com/artist/2oePGqnENPf3MD86YVtP4x) | [Parecia Ser](https://open.spotify.com/album/0hSzuzOWDKkdy9KFYXbDI7) | 3:57 | 2021-10-15 | 2022-07-25 |
+| [Passe de Mágica \- Ao Vivo](https://open.spotify.com/track/2Cjj80m95OCsZWR8nT3Msj) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Passe de Mágica \(Ao Vivo\)](https://open.spotify.com/album/3jNRjd9XKWYCHSW00aOM8L) | 4:40 | 2025-02-07 |  |
 | [Pele.](https://open.spotify.com/track/0oBAzDUKfOGriWPqUntaAc) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Pele.](https://open.spotify.com/album/4EHgaFwi1VsCZoHCPfEAj6) | 3:25 | 2021-10-15 | 2022-07-20 |
 | [Peter Pan](https://open.spotify.com/track/2izzg0ootMWve10LHVhFcx) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Peter Pan](https://open.spotify.com/album/55KHEIHNfQMBfuJ0JSpd5W) | 2:35 | 2021-10-15 | 2024-10-23 |
 | [Poemas Que Colori](https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:30 | 2021-10-15 | 2024-10-23 |
@@ -211,7 +213,7 @@
 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 | 2024-10-22 |  |
 | [Pra Te Lembrar](https://open.spotify.com/track/3Qa4kqmlMWQystxuGSuCLu) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar](https://open.spotify.com/album/3QUP9uBxq6c5jIbW9LS479) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb) | 3:38 | 2022-10-07 | 2024-04-19 |
-| [Pressentimento](https://open.spotify.com/track/08HgZFtetIts1LUVtB6H9M) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Eu Me Rendo](https://open.spotify.com/album/6wgDvkdgRL62cHZEPsZfZ7) | 3:10 | 2024-10-22 |  |
+| [Pressentimento](https://open.spotify.com/track/08HgZFtetIts1LUVtB6H9M) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Eu Me Rendo](https://open.spotify.com/album/6wgDvkdgRL62cHZEPsZfZ7) | 3:10 | 2024-10-22 | 2025-02-08 |
 | [Preta D+](https://open.spotify.com/track/6B4JJDWsi2ZidPnJdnI34j) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/0XWnY5AJPktemtQExVhoTJ) | 3:14 | 2021-10-15 | 2022-07-29 |
 | [Preta de Quebrada](https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:26 | 2021-10-15 | 2024-10-23 |
 | [Preta Yayá](https://open.spotify.com/track/03qTAMPItMT28HKF3n1Dqa) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/0elgFvQyeueOn9Z3dbkA7b) | 2:59 | 2021-10-15 | 2022-07-27 |
@@ -249,7 +251,7 @@
 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 | 2022-10-07 | 2024-10-23 |
 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 | 2024-10-22 |  |
 | [Sorriso Aberto](https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Sorriso Aberto](https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc) | 4:36 | 2021-10-15 | 2024-10-23 |
-| [Sou do Norte](https://open.spotify.com/track/1gZYEfSQ7XY7GcrlOvqOWZ) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [A Rainha das Aparelhagens, Vol\. 3](https://open.spotify.com/album/3xR49vqFimEPnvt24en3E7) | 3:34 | 2024-10-22 |  |
+| [Sou do Norte](https://open.spotify.com/track/1gZYEfSQ7XY7GcrlOvqOWZ) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [A Rainha das Aparelhagens, Vol\. 3](https://open.spotify.com/album/3xR49vqFimEPnvt24en3E7) | 3:34 | 2024-10-22 | 2025-02-08 |
 | [Sou do Norte](https://open.spotify.com/track/08hHdpaOdOaH8feh4qiRN8) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Sou do Norte](https://open.spotify.com/album/2viFBI4mjhFPScVNybzn6l) | 3:02 | 2024-10-22 |  |
 | [Sou Mais Eu](https://open.spotify.com/track/5jdV5f8umclq16mxmKEvHu) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Sou Mais Eu](https://open.spotify.com/album/1qf6HoB1bTgqACiRfxfops) | 3:11 | 2021-10-15 | 2022-07-29 |
 | [Suave Veneno](https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Os Maiores Sucessos De Novela De Nana Caymmi](https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8) | 2:58 | 2021-10-15 | 2024-10-23 |

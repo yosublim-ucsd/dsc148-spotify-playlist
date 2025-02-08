@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. BUNNY ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,413 likes - 87 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,400 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 83 | [Empty Space](https://open.spotify.com/track/7iAZgolVfFtP5n1EEdL4c1) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Empty Space](https://open.spotify.com/album/0PN6oB3NFC0QzUnKi8b4sj) | 3:31 |
 | 84 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
 | 85 | [BURN IT ALL DOWN](https://open.spotify.com/track/5TUUbvbahnHSIGJvC0MI2a) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Hopeless Romantic](https://open.spotify.com/album/4Z4rhz7JguH07EMCycMtsu) | 2:36 |
-| 86 | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 |
+| 86 | [Ant In The Afterbirth \- feat\. Loathe](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 |
 | 87 | [serenity in torture](https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [serenity in torture](https://open.spotify.com/album/7KHbMAxCrDjK0htuxqNlZZ) | 3:01 |
 
 Snapshot ID: `Z6VNFwAAAAAictZzE8oXII6DtePvSqgE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,590 likes - 83 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,595 likes - 83 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 19 | [Aura](https://open.spotify.com/track/6OwXSaMnwy8TfYt5bXL0X5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0) | [Aura](https://open.spotify.com/album/02gm2V70CFoW4FD9EfYXT0) | 4:03 |
 | 20 | [Relax Your Body \- Extended Version](https://open.spotify.com/track/2YYKceRKqTvbsxtzDQYDyR) | [DFX](https://open.spotify.com/artist/707ObA8cam6YRcrjKBOkNs) | [Relax Your Body](https://open.spotify.com/album/7ENaKDIWqGEql0w6jHIlOm) | 6:38 |
 | 21 | [Manhattan](https://open.spotify.com/track/1uoRuvdSaTTx53DJLN0s7P) | [Bartholomew Kind](https://open.spotify.com/artist/7da7ejb5ArwzmbnYQEsYF9) | [Breaks 'N' Pieces, Vol.2](https://open.spotify.com/album/3SZuXvROLZFSTKThsRdEas) | 3:37 |
-| 22 | [Dreaming a Dream \(Disco\) \(Disco\)](https://open.spotify.com/track/7h38sI79UuSOtIJ65dKyDQ) | [Crown Heights Affair](https://open.spotify.com/artist/3X9xSaKYs3EY8l74Hgy5rz) | [Dreaming a Dream](https://open.spotify.com/album/0qQz0P2SdfFMHWHsnfPbkd) | 3:52 |
+| 22 | [Dreaming a Dream \(Disco\)](https://open.spotify.com/track/7h38sI79UuSOtIJ65dKyDQ) | [Crown Heights Affair](https://open.spotify.com/artist/3X9xSaKYs3EY8l74Hgy5rz) | [Dreaming a Dream](https://open.spotify.com/album/0qQz0P2SdfFMHWHsnfPbkd) | 3:52 |
 | 23 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
 | 24 | [You Might Like It](https://open.spotify.com/track/0EOWHxyPx7mpD6gxxdNa0U) | [Sharif Laffrey](https://open.spotify.com/artist/3QEeHLDl1Pk9xlAOm7413Q) | [More of That Frightful Oompty Boompty Music](https://open.spotify.com/album/6cogKlCA92dtR5dmcR2PNg) | 9:05 |
 | 25 | [And Dance](https://open.spotify.com/track/6pGiB9t4M103Gki32zd72c) | [Sharif Laffrey](https://open.spotify.com/artist/3QEeHLDl1Pk9xlAOm7413Q) | [And Dance](https://open.spotify.com/album/17qQWrN9ARxGQINh6TVrAG) | 14:08 |

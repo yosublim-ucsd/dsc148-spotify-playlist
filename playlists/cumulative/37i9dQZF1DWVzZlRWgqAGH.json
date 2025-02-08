@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Mahalia & Lila Ik\u00e9",
+  "description": "Music for your soul. Cover: Melanie Fiona",
   "name": "BUTTER",
   "tracks": [
     {
@@ -2286,6 +2286,24 @@
       "duration_ms": 234000,
       "name": "babies",
       "url": "https://open.spotify.com/track/0LEnLuN15u2BRJmKx14KgE"
+    },
+    {
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "album": {
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179371,
       "name": "DickAtNight",
       "url": "https://open.spotify.com/track/5WkxfbclYM5PeCtINl3qJV"
@@ -7058,6 +7076,24 @@
       "duration_ms": 196680,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/2tufVWmQEXjEnA3cB3m5T8"
+    },
+    {
+      "album": {
+        "name": "Don't Like You Anymore",
+        "url": "https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt"
+      },
+      "artists": [
+        {
+          "name": "Tanika Charles",
+          "url": "https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185302,
+      "name": "Don't Like You Anymore",
+      "url": "https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0"
     },
     {
       "album": {
@@ -7662,6 +7698,24 @@
       "duration_ms": 237250,
       "name": "Eiderdown",
       "url": "https://open.spotify.com/track/2Qa4HnGfslqN5dGwVj6C05"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda M\u00e1s Triste",
+        "url": "https://open.spotify.com/album/2V7mY5tOEcPiaWXULQDlTp"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204723,
+      "name": "El D\u00eda M\u00e1s Triste",
+      "url": "https://open.spotify.com/track/1WWwgzUIHwxP2R0PmpMUuL"
     },
     {
       "album": {
@@ -8778,7 +8832,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 129748,
       "name": "Feels Like Yesterday",
       "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
@@ -11801,6 +11855,32 @@
     },
     {
       "album": {
+        "name": "Hey Girl(s)",
+        "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Hey Girl(s)",
+      "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
+    },
+    {
+      "album": {
         "name": "High Beams",
         "url": "https://open.spotify.com/album/0Z3dnKulGDg97zHhomkppb"
       },
@@ -13900,7 +13980,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 269622,
       "name": "Judge Judy",
       "url": "https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl"
@@ -16399,6 +16479,28 @@
     },
     {
       "album": {
+        "name": "Mathematics (feat. Kano)",
+        "url": "https://open.spotify.com/album/5JtKI0Ys4swduOVAnxVgVN"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198751,
+      "name": "Mathematics (feat. Kano)",
+      "url": "https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj"
+    },
+    {
+      "album": {
         "name": "IN LOVING MEMORY+",
         "url": "https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy"
       },
@@ -16850,6 +16952,24 @@
       "duration_ms": 196363,
       "name": "mom",
       "url": "https://open.spotify.com/track/4wQgbk2zRqTqXJtUZoPEPD"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa Smile",
+        "url": "https://open.spotify.com/album/1uHymd2eSx7ch8RDKBAzIC"
+      },
+      "artists": [
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215418,
+      "name": "Mona Lisa Smile",
+      "url": "https://open.spotify.com/track/0sjhlV2MhCYGtPlYhuplD6"
     },
     {
       "album": {
@@ -18670,7 +18790,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 267320,
       "name": "Oh God (feat. Mereba)",
       "url": "https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0"
@@ -19820,7 +19940,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 199720,
       "name": "Part of the Plan",
       "url": "https://open.spotify.com/track/2kPFMV84TsbapBvvZD5rIR"
@@ -19864,7 +19984,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 167010,
       "name": "Pass the Salt (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
@@ -26061,6 +26181,24 @@
     },
     {
       "album": {
+        "name": "The Pressure",
+        "url": "https://open.spotify.com/album/6S537c2GkBxgh9Pd0QSpn9"
+      },
+      "artists": [
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/61ZyeQbHcAHyQk7q9CvWGg"
+    },
+    {
+      "album": {
         "name": "The Process",
         "url": "https://open.spotify.com/album/3uhsgJvdqAzEbLBY7IeWw5"
       },
@@ -26582,7 +26720,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 193850,
       "name": "Throw Me In",
       "url": "https://open.spotify.com/track/1ZFVIP12PsUSbVi8wyhFba"

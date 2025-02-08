@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Panda Bear
 
-2,002 songs - 5 day 0 hr 27 min
+2,003 songs - 5 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 | 2024-10-11 | 2025-01-25 |
 | [Everything Unspoken](https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Everything Unspoken](https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w) | 3:49 | 2023-06-01 | 2023-07-07 |
 | [Everything You Do](https://open.spotify.com/track/4vy6Lc1ko2F0CF4Elc2dMj) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR), [Nick temp.](https://open.spotify.com/artist/1NXenNaio8ydGsJz9bHZxB) | [Everything You Do](https://open.spotify.com/album/6LfR1BcfmDBr6KTaSx02qT) | 3:17 | 2021-12-23 | 2022-02-18 |
+| [everything's a mess](https://open.spotify.com/track/1cuDV519RGh8kMgxkG5W9v) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [everything's a mess](https://open.spotify.com/album/2h4Rs4RhbEOVoM1zoEg4RI) | 3:32 | 2025-02-06 |  |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-02-02 | 2024-03-31 |
 | [extra ordinary](https://open.spotify.com/track/3ShBc77Hq3HgH5EK58DsS5) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp), [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [extra ordinary](https://open.spotify.com/album/4zsv8pDsiu804DKBb5DO2f) | 3:36 | 2023-03-10 | 2023-04-01 |
 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 | 2023-07-16 | 2023-08-12 |

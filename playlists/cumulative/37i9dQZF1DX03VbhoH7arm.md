@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: The Weeknd
+> Grandes hits do BR e do 🌎 / Foto: Lady Gaga
 
 363 songs - 17 hr 46 min
 

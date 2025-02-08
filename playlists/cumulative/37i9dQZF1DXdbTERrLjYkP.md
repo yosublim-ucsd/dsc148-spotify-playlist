@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Bebe Stockwell
+> Discover the next wave of talent writing their own songs\. Cover: Lilly Bedard
 
-799 songs - 1 day 18 hr 34 min
+802 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [8 Hours](https://open.spotify.com/track/33LB1jDEoWLlre9K8dTftW) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [8 Hours](https://open.spotify.com/album/3hxsVO5zA1zQOCItEBlV6x) | 3:23 | 2022-09-30 | 2022-12-24 |
 | [99 and counting](https://open.spotify.com/track/1njBCJqiWrgMr8p6iFplVN) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [99 and counting](https://open.spotify.com/album/18CxNkOBD4IfYtoEZ6kPZE) | 2:32 | 2024-10-11 |  |
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-23 | 2023-11-11 |
-| [A Hollywood Sign](https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/5KarE4XDeYR5Yk6A9wFyow) | 3:31 | 2024-07-19 |  |
+| [A Hollywood Sign](https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/5KarE4XDeYR5Yk6A9wFyow) | 3:31 | 2024-07-19 | 2025-02-08 |
 | [a little hope never hurt](https://open.spotify.com/track/1qtgowcQwcwESt4x8Sh7n0) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/2kjJqgKrV3igabvoaNnawt) | 2:30 | 2022-09-09 | 2022-11-12 |
 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 | 2022-10-20 |
 | [A Little Kinder](https://open.spotify.com/track/2FW5ayCDLgY1UiB5KeeiyO) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [A Little Kinder](https://open.spotify.com/album/0PSfzTtE8Z7ax2V2aknKCy) | 2:52 | 2025-01-17 |  |
@@ -60,7 +60,7 @@
 | [Amsterdam](https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Amsterdam](https://open.spotify.com/album/5J8fTRkYJXCNJNxW7sFaOC) | 3:30 | 2023-08-18 | 2023-10-01 |
 | [And Then Some](https://open.spotify.com/track/6s0gFpKKKxd8EDhTCvEbYf) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [And Then Some](https://open.spotify.com/album/7jMXIbtas48z1ULzXLtFRa) | 3:09 | 2023-02-10 | 2023-08-12 |
 | [another guy](https://open.spotify.com/track/7GFVTeKjOqzUHFDleIKSg4) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [another guy](https://open.spotify.com/album/78o1cne21EKhzHTaMKu6q6) | 1:54 | 2022-01-14 | 2022-03-12 |
-| [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-30 |  |
+| [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-30 | 2025-02-08 |
 | [are you still here](https://open.spotify.com/track/2dCbvnhcqye0gZtB5rSwM1) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [are you still here](https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8) | 2:49 | 2023-07-07 | 2023-12-14 |
 | [as good a reason](https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [as good a reason](https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9) | 2:49 | 2023-09-01 | 2024-01-27 |
 | [AS IT SEEMS](https://open.spotify.com/track/51by1PCmtPWgKmeznbDkIj) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [I H8 EVERYONE](https://open.spotify.com/album/5xeQy6IHThwOo4yOMdBYz5) | 4:25 | 2023-02-03 | 2023-06-13 |
@@ -267,7 +267,7 @@
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-04-29 | 2022-08-06 |
 | [Ghosts](https://open.spotify.com/track/4UMVMjGUK9mij06jp2gO3Z) | [Mariah Rose Faith](https://open.spotify.com/artist/2Q2Z74Il8tZHMtfFcmz5fh) | [Ghosts](https://open.spotify.com/album/7kAXVka5jf1LjLnbK0GTfm) | 4:13 | 2023-12-29 | 2024-04-06 |
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
-| [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 | 2024-08-09 |  |
+| [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 | 2024-08-09 | 2025-02-08 |
 | [Girl Who Comes Next](https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Girl Who Comes Next](https://open.spotify.com/album/3t2c2JUGJcBFMyTdbSq64a) | 3:25 | 2023-02-10 | 2023-03-11 |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-10-16 |
 | [god has a sense of humor](https://open.spotify.com/track/6HCAaG7XT5DUvrzXHbGnqs) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:50 | 2022-09-09 | 2022-12-24 |
@@ -412,6 +412,7 @@
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-05 | 2023-11-11 |
 | [Justify](https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Justify](https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ) | 3:04 | 2023-06-12 | 2023-12-14 |
 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 | 2023-03-31 | 2023-08-19 |
+| [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-07 |  |
 | [Kinda Like The Heartbreak](https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000) | 2:49 | 2023-03-10 | 2023-08-19 |
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-09 | 2024-12-10 |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-01-26 | 2024-08-17 |
@@ -520,7 +521,9 @@
 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 | 2023-12-15 | 2024-02-03 |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-07-01 | 2024-08-10 |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 | 2023-02-04 |
+| [Northstar](https://open.spotify.com/track/7FZF2PoHMYFlbIdpQzUUR5) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Northstar](https://open.spotify.com/album/0xIrvfaiqBfNA8cSbrHYhr) | 2:13 | 2025-02-07 |  |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
+| [Not Everything Ends](https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Not Everything Ends](https://open.spotify.com/album/3RUxz2erYYect3c0ogPRxC) | 3:39 | 2025-02-07 |  |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 | 2023-11-11 |
 | [October](https://open.spotify.com/track/1S5H1Kb9zorNzLiGlowC78) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [October](https://open.spotify.com/album/7s3OY71tBtARmt0ErG5Gy6) | 3:14 | 2024-10-25 |  |

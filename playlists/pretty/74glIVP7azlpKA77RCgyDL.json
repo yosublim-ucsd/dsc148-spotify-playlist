@@ -1,12 +1,12 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Employed to Serve.",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Spiritbox.",
   "num_followers": 8815,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAANWrGHDgWbErQ3Gr/5NmqjR5lB9oCS",
+  "snapshot_id": "AAANYnGILXXoab0QmZQQIQ+3dgWBrYNq",
   "tracks": [
     {
       "added_at": "2025-01-03 20:24:41",
@@ -5325,6 +5325,22 @@
       "url": "https://open.spotify.com/track/5kt6KuCw6Zve6JhI4xRV4a"
     },
     {
+      "added_at": "2025-02-07 20:39:47",
+      "album": {
+        "name": "BOUND BY AFFLICTION",
+        "url": "https://open.spotify.com/album/1pPM49Pp8c6C9YBkgTeVJ0"
+      },
+      "artists": [
+        {
+          "name": "FINAL RESTING PLACE",
+          "url": "https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "BOUND BY AFFLICTION",
+      "url": "https://open.spotify.com/track/38dFFlYYJHGOJMWKkpSVi5"
+    },
+    {
       "added_at": "2025-01-31 20:35:02",
       "album": {
         "name": "SURVIVAL AIN'T TAUGHT",
@@ -5387,6 +5403,86 @@
       "duration_ms": 254500,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt"
+    },
+    {
+      "added_at": "2025-02-07 20:40:03",
+      "album": {
+        "name": "House of Light",
+        "url": "https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX"
+      },
+      "artists": [
+        {
+          "name": "Rivers of Nihil",
+          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
+        }
+      ],
+      "duration_ms": 349360,
+      "name": "House of Light",
+      "url": "https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3"
+    },
+    {
+      "added_at": "2025-02-07 20:40:17",
+      "album": {
+        "name": "W.T.F",
+        "url": "https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 207797,
+      "name": "W.T.F",
+      "url": "https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp"
+    },
+    {
+      "added_at": "2025-02-07 20:40:29",
+      "album": {
+        "name": "Box",
+        "url": "https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 142957,
+      "name": "Box",
+      "url": "https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ"
+    },
+    {
+      "added_at": "2025-02-07 20:40:42",
+      "album": {
+        "name": "Death Shall Have No Dominion",
+        "url": "https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 288602,
+      "name": "Death Shall Have No Dominion",
+      "url": "https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC"
+    },
+    {
+      "added_at": "2025-02-07 20:40:54",
+      "album": {
+        "name": "No Loss, No Love",
+        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
     }
   ],
   "unique_name": "Best New Songs Right Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 
 > Kung Hei Fat Choi! Hit play and get the authentic Chinese New Year atmosphere right away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,293 likes - 166 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,306 likes - 166 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrhqK4SzCOJ.md) - [plain]
 | 143 | [新年花鼓歌](https://open.spotify.com/track/6BOVsNATSDlkYzQRxZkZAp) | [Nick Chung](https://open.spotify.com/artist/16nw1SG2XbnRNjigfVcyfY), [Stella Chung](https://open.spotify.com/artist/3BrG5EjjAeVzpHt5vT5Wk8), [阿妮](https://open.spotify.com/artist/72TAg24Gy9JQArNK5rym2g) | [新年团圆](https://open.spotify.com/album/2RgJBKc0BPkZCowpGX0wRH) | 2:48 |
 | 144 | [Bling Bling過新年](https://open.spotify.com/track/1HSVws8wAbqom5qCZjIPfH) | [大小姐](https://open.spotify.com/artist/06gqS6IQwFqpQTtBMKLJ3a), [卜學亮](https://open.spotify.com/artist/3Zx3Zm1Bfo37qKIUqfMTwz) | [我是大小姐之虎虎生風賀年版](https://open.spotify.com/album/5fiFkru1VIvr4NAYNwqzxH) | 2:49 |
 | 145 | [新年快乐, 我的爱](https://open.spotify.com/track/7J7gclkiHEn4BwPFTGB5C8) | [Jocie Guo](https://open.spotify.com/artist/6hkP84fpANIA89Nv3T9JSm) | [我的答铃](https://open.spotify.com/album/4Ixs3OIsqVDctmJYXvIFXh) | 3:15 |
-| 146 | [祝你新年快樂](https://open.spotify.com/track/1n4vsAKsuNNINAZ20t14OA) | [SOS \(大S+小S\)](https://open.spotify.com/artist/2iI8wANGKcIoncnO3foziU) | [天天寄出的信](https://open.spotify.com/album/1e9FoMstB5AG60fUti5fhS) | 3:55 |
+| 146 | [祝你新年快樂](https://open.spotify.com/track/1n4vsAKsuNNINAZ20t14OA) | [SOS \(大S+小S\)](https://open.spotify.com/artist/2iI8wANGKcIoncnO3foziU) | [天天寄出的信](https://open.spotify.com/album/1e9FoMstB5AG60fUti5fhS) | 3:52 |
 | 147 | [新的一年](https://open.spotify.com/track/2toxAqgBeF7D22kAWUTnyP) | [Abin Fang](https://open.spotify.com/artist/3sHU5vwszRfnJNhvcYNZdS) | [新的一年](https://open.spotify.com/album/1Ljab2pftGKQDTpOpR5BAd) | 3:54 |
 | 148 | [年年新希望](https://open.spotify.com/track/3HXaQp9CSIIC4vqYspJrE6) | [九十壹 JSY](https://open.spotify.com/artist/6s0bxuz8OoUwNNtuUAubKn) | [年年新希望](https://open.spotify.com/album/315pjLQoNYTVfH2NPnYOzu) | 3:01 |
 | 149 | [恭嘻發彩](https://open.spotify.com/track/5UYlBJmLKn0kz4rmPTDJMC) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [恭嘻發彩](https://open.spotify.com/album/0KhGRI21cApXA5JmDw9ONt) | 1:31 |

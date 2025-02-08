@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Employed to Serve.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Spiritbox.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,815 likes - 323 songs - 19 hr 33 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,815 likes - 329 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,9 +327,15 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 317 | [To Live Deliciously](https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [To Live Deliciously](https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB) | 5:32 |
 | 318 | [Stress Positions](https://open.spotify.com/track/7yBD5X9gABxFVWhFq58t3y) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Stress Positions](https://open.spotify.com/album/7AqOyXDy5EIoBWVoqFcTWb) | 4:07 |
 | 319 | [Depraved Idol](https://open.spotify.com/track/5kt6KuCw6Zve6JhI4xRV4a) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Depraved Idol](https://open.spotify.com/album/6TqWBOgLzqNVZBZ3neOBWK) | 2:32 |
-| 320 | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/track/3xlNhQWwb0WS3w6P3VJpJF) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/album/0B0BWGwmFIg2OUqbYLSUge) | 1:26 |
-| 321 | [The Shit Ov God](https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC) | 5:36 |
-| 322 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 |
-| 323 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 |
+| 320 | [BOUND BY AFFLICTION](https://open.spotify.com/track/38dFFlYYJHGOJMWKkpSVi5) | [FINAL RESTING PLACE](https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI) | [BOUND BY AFFLICTION](https://open.spotify.com/album/1pPM49Pp8c6C9YBkgTeVJ0) | 2:50 |
+| 321 | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/track/3xlNhQWwb0WS3w6P3VJpJF) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [SURVIVAL AIN'T TAUGHT](https://open.spotify.com/album/0B0BWGwmFIg2OUqbYLSUge) | 1:26 |
+| 322 | [The Shit Ov God](https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Shit Ov God](https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC) | 5:36 |
+| 323 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 |
+| 324 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 |
+| 325 | [House of Light](https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [House of Light](https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX) | 5:49 |
+| 326 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 |
+| 327 | [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:22 |
+| 328 | [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 |
+| 329 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 |
 
-Snapshot ID: `AAANWrGHDgWbErQ3Gr/5NmqjR5lB9oCS`
+Snapshot ID: `AAANYnGILXXoab0QmZQQIQ+3dgWBrYNq`

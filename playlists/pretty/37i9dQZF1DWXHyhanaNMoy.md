@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Yxng Le
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,384 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,412 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Star Of The Night](https://open.spotify.com/track/45qjd3VSiol37cpi4uEmAc) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Star Of The Night](https://open.spotify.com/album/2VlMg2lB94K0Pqjb0nYPsE) | 2:49 |
-| 2 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
+| 2 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
 | 3 | [Kleine Schijn](https://open.spotify.com/track/5M9nJEA56xv1mWYVOy7oAh) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [LOTUS](https://open.spotify.com/album/7vhb7XR29OhRR76ig16FHd) | 2:22 |
 | 4 | [Body 2 Body](https://open.spotify.com/track/6iqGygfWnXszZbsM4qzV4a) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Body 2 Body](https://open.spotify.com/album/5s23xxxuvlSxrpAhKqjRkE) | 2:35 |
 | 5 | [Jumanji](https://open.spotify.com/track/0eXooFEiS5060vL0fbNjGi) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv) | [Jumanji](https://open.spotify.com/album/2s2lyCzwBXOiGFkrmzHbmP) | 2:33 |

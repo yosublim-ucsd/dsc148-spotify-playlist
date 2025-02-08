@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "40 (From the Prime Video Original Series, House of David)",
+        "url": "https://open.spotify.com/album/3GXViA0A7o2UVXLpFCnUmp"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209014,
+      "name": "40 - From the Prime Video Original Series, House of David",
+      "url": "https://open.spotify.com/track/4l3fTWUbeRxu7EoYEzn4Gr"
+    },
+    {
+      "album": {
         "name": "[close to me]",
         "url": "https://open.spotify.com/album/4zJOypBETBxz0mt8jOXh1d"
       },

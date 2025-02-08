@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: J.Eskine\n",
-  "num_followers": 627706,
+  "num_followers": 628078,
   "original_name": "PURO SUCO DO VER\u00c3O",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2025-02-06 15:05:32",
       "album": {
-        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
-        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 144923,
-      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
-      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
-    },
-    {
-      "added_at": "2025-02-06 15:05:32",
-      "album": {
         "name": "Do Job",
         "url": "https://open.spotify.com/album/3tshJG1V8z9vR7EzHMw9H1"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 193432,
       "name": "Do Job",
       "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
+    },
+    {
+      "added_at": "2025-02-06 15:05:32",
+      "album": {
+        "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
+        "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
+      "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
     },
     {
       "added_at": "2025-02-06 15:05:32",
@@ -659,8 +659,8 @@
     {
       "added_at": "2025-02-06 15:05:32",
       "album": {
-        "name": "Novinha do TKT",
-        "url": "https://open.spotify.com/album/2t3kBsdC89kMxYhMoD3gPb"
+        "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
+        "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
       },
       "artists": [
         {
@@ -668,13 +668,33 @@
           "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 172727,
-      "name": "Novinha do TKT",
-      "url": "https://open.spotify.com/track/2IUZNW8TPTZCJ4ZHY4OfEX"
+      "duration_ms": 367499,
+      "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
+      "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
     },
     {
       "added_at": "2025-02-06 15:05:32",
@@ -755,8 +775,8 @@
     {
       "added_at": "2025-02-06 15:05:32",
       "album": {
-        "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
-        "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
+        "name": "Novinha do TKT",
+        "url": "https://open.spotify.com/album/2t3kBsdC89kMxYhMoD3gPb"
       },
       "artists": [
         {
@@ -764,33 +784,13 @@
           "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
         }
       ],
-      "duration_ms": 367499,
-      "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
-      "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
+      "duration_ms": 172727,
+      "name": "Novinha do TKT",
+      "url": "https://open.spotify.com/track/2IUZNW8TPTZCJ4ZHY4OfEX"
     },
     {
       "added_at": "2025-02-06 15:05:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-02-06 15:05:32",
       "album": {
-        "name": "Pra Quebrar a Cara",
-        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 163892,
-      "name": "A Gente Se Entrega",
-      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
-    },
-    {
-      "added_at": "2025-02-06 15:05:32",
-      "album": {
         "name": "Estoy Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 159755,
       "name": "Estoy Aqu\u00ed - Remix",
       "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "added_at": "2025-02-06 15:05:32",
+      "album": {
+        "name": "Pra Quebrar a Cara",
+        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 163892,
+      "name": "A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
     },
     {
       "added_at": "2025-02-06 15:05:32",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-02-06 15:05:32",
       "album": {
+        "name": "Explode Tudo",
+        "url": "https://open.spotify.com/album/5QozMmbix9ggtdox58fHyZ"
+      },
+      "artists": [
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        }
+      ],
+      "duration_ms": 109468,
+      "name": "Toma Vai Novinha - Brotei no Baile da Matinha",
+      "url": "https://open.spotify.com/track/4YrVsmvZYDqU5ZPLZlilnI"
+    },
+    {
+      "added_at": "2025-02-06 15:05:32",
+      "album": {
         "name": "Menina do Job X Viciada em Sentar",
         "url": "https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 115055,
       "name": "Menina do Job X Viciada em Sentar",
       "url": "https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ"
-    },
-    {
-      "added_at": "2025-02-06 15:05:32",
-      "album": {
-        "name": "Explode Tudo",
-        "url": "https://open.spotify.com/album/5QozMmbix9ggtdox58fHyZ"
-      },
-      "artists": [
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        }
-      ],
-      "duration_ms": 109468,
-      "name": "Toma Vai Novinha - Brotei no Baile da Matinha",
-      "url": "https://open.spotify.com/track/4YrVsmvZYDqU5ZPLZlilnI"
     },
     {
       "added_at": "2025-02-06 15:05:32",

@@ -4,7 +4,7 @@
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
 
-91 songs - 5 hr 45 min
+92 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-04-10 |  |
 | [In Absence](https://open.spotify.com/track/6Hb0EqgYqfGHBs0MRC47M9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [When the End Began](https://open.spotify.com/album/0quLJsiSZAicHmyyWJefjd) | 3:30 | 2021-04-10 | 2024-11-30 |
 | [Into the Night](https://open.spotify.com/track/0YhY80vK0EXnfKqWQROSHV) | [Ignescent](https://open.spotify.com/artist/6PQENi26ZkXCUo1ksPJ7mm) | [Into the Night](https://open.spotify.com/album/4EeZaYHOvgQUoKTRH0Iueu) | 3:34 | 2021-04-10 | 2024-07-04 |
+| [It Is Finished](https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [It Is Finished](https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W) | 4:10 | 2025-02-07 |  |
 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 | 2021-04-10 | 2024-07-04 |
 | [Lost Light](https://open.spotify.com/track/3EIvig8BraPoKYhQ9lzDNI) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Lost Light](https://open.spotify.com/album/5FL4Jj4XwmZnWtHV8FhXs9) | 3:52 | 2024-11-29 |  |
 | [Misery Game](https://open.spotify.com/track/5ZBrH7WW2KtSg7WxGu794E) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Misery Game](https://open.spotify.com/album/4WEWiaNSX8wxfQfL276fHb) | 3:09 | 2021-04-10 | 2024-07-04 |

@@ -4,7 +4,7 @@
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-55 songs - 2 hr 49 min
+57 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 | 2023-06-23 | 2024-10-25 |
 | [Missouri Waltz](https://open.spotify.com/track/5Lc0vzGdZ8W63D7mOLyz0y) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Fontane's Sing](https://open.spotify.com/album/5eBIHlsQyKeLpgUABGqivS) | 2:28 | 2023-06-23 | 2024-10-25 |
 | [My Drip](https://open.spotify.com/track/4OJYpUVqcmLg6p9dyGjDDb) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Let That Money Talk](https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF) | 2:57 | 2024-10-24 |  |
+| [None](https://open.spotify.com/track/2Sush4VEfYWPPcktzGl3AE) | [FLEX SINATRA](https://open.spotify.com/artist/7uoqKC9LIvAx8UGEOiqqZl) | [None](https://open.spotify.com/album/7MwH7t5XxBwAaCb7KSsM5b) | 2:38 | 2025-02-07 |  |
 | [Old Time's Sake](https://open.spotify.com/track/2uBjAVHNUlUYJUdnpyJ53a) | [Sweet Sable](https://open.spotify.com/artist/6QYdqWktIVMdOnG9mYo5Zm) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:19 | 2023-06-23 | 2024-10-25 |
 | [Parlay](https://open.spotify.com/track/2BStgy3c1EpQZUVejAShm2) | [Ishmusic](https://open.spotify.com/artist/4LrLnA9391jvy62Wlybrm4), [Chugg Jamal](https://open.spotify.com/artist/6c2F5h7B99l6YgzxG46eDz) | [Parlay](https://open.spotify.com/album/6U3Qnk7WQgJ8X3OkGbX7EO) | 2:41 | 2024-10-24 |  |
 | [Piano Concerto No\. 21 in C Major, K\. 467 "Elvira Madigan": II\. Andante](https://open.spotify.com/track/4UoTkpYwG0GfMiZ6VaUtrz) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Mozart: The Complete Piano Concertos](https://open.spotify.com/album/2nQrU9bzH5RyBAjzfpGrAb) | 6:58 | 2023-06-23 | 2024-10-25 |
@@ -52,6 +53,7 @@
 | [Super Soaker](https://open.spotify.com/track/1HUTEPsfVoWw3UbIS7ajD1) | [Helena](https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ) | [Double Dutch](https://open.spotify.com/album/15cCv0AsrPG2SHmltMdMhO) | 2:56 | 2024-10-24 |  |
 | [The Rain](https://open.spotify.com/track/7FesdPPnPPE70f4Xyjv71H) | [Oran Juice Jones](https://open.spotify.com/artist/1xcuvl9Q3S7Q3b2b0dTJca) | [Juice](https://open.spotify.com/album/7a02wvFNIpYpZwKNNresGG) | 5:09 | 2023-06-23 | 2024-10-25 |
 | [There Will Be Blood](https://open.spotify.com/track/0Be0iIN0m7WFQ6z1dwUsW2) | [The Bad Bad Things](https://open.spotify.com/artist/1GWjLloQcnRn7Dz1fejWn6) | [The Warned About](https://open.spotify.com/album/3A5mfMQrgEJpR5QcwrqTSS) | 4:01 | 2024-10-24 |  |
+| [This Ain't Fa Errbody](https://open.spotify.com/track/7JKms9l3hAX2CD0vc5K9Pd) | [YK The Realest](https://open.spotify.com/artist/1Zj0f2osYkhrETeKd3gsfx) | [This Ain't Fa Errbody](https://open.spotify.com/album/05pHIQT7qOkwfcSJksNkkg) | 2:17 | 2025-02-07 |  |
 | [Thou Swell](https://open.spotify.com/track/4zDRKxcJ4jkJAPSY7SzpcY) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 2:04 | 2023-06-23 | 2024-10-25 |
 | [Time \(is\)](https://open.spotify.com/track/6l82XaHZyodfRvNo85Pdqr) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:39 | 2023-06-23 | 2024-10-25 |
 | [Top Back](https://open.spotify.com/track/2Tv7Ef5fRh8TnGp154zisH) | [Naomi August](https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh) | [Top Back](https://open.spotify.com/album/05JJH4NecXBnskIuTyl4Se) | 2:20 | 2024-10-24 |  |

@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Tonton Naza et Leto
 
-529 songs - 1 day 6 hr 37 min
+530 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-06-30 | 2024-07-19 |
 | [C'EST MA VIE](https://open.spotify.com/track/4B2MFDkxTyCV3ek5hBIfZd) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [C'EST MA VIE](https://open.spotify.com/album/3gY9b5ikga7dt1mS5OfhA2) | 3:08 | 2023-08-25 | 2023-10-06 |
 | [CA BIBI](https://open.spotify.com/track/67ywbAuzindWhDYkoBEK37) | [Meydo](https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [CA BIBI](https://open.spotify.com/album/7EUahfqTQLBZ3AdvBwjD7k) | 2:41 | 2024-09-27 | 2024-10-26 |
-| [Cadeau](https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Cadeau](https://open.spotify.com/album/55mAmiJ6Bcfv7ewTwZuGy3) | 2:06 | 2024-12-13 |  |
+| [Cadeau](https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Cadeau](https://open.spotify.com/album/55mAmiJ6Bcfv7ewTwZuGy3) | 2:06 | 2024-12-13 | 2025-02-08 |
 | [Cadeau \(feat\. Tiakola\)](https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:31 | 2023-03-17 | 2024-08-24 |
 | [Caler Son](https://open.spotify.com/track/6O8ZZH9r6QRobAbf8xy3rN) | [GAZ FABILOUSS](https://open.spotify.com/artist/6oM8IaVeHCW8MeUkACNo3z), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Caler Son](https://open.spotify.com/album/0rOrnuEczPPCGMDM6fSToX) | 4:32 | 2023-02-10 | 2023-11-25 |
 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 | 2024-01-12 | 2024-07-27 |
@@ -111,6 +111,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-06-29 |
 | [Coeur moderne](https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 1](https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL) | 4:37 | 2023-02-17 | 2023-03-11 |
 | [Comme je suis \- Bonus](https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G) | 2:46 | 2024-03-01 | 2024-05-18 |
+| [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 | 2025-02-07 |  |
 | [Congo Blinders](https://open.spotify.com/track/69SH3kgTG4ocWctPouAWSP) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Ekoya](https://open.spotify.com/album/5rCvajgZQMkTJoHhiGZxgb) | 2:39 | 2025-01-31 |  |
 | [CORTÈGE \(feat\. Fally Ipupa\)](https://open.spotify.com/track/0VXc8XprBLioRER7VAKo0f) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:54 | 2024-04-12 | 2024-04-19 |
 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 |  |

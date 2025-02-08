@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Linkin Park.
+> nü\-metal revival is happening here and now with Amira Elfeky.
 
-238 songs - 13 hr 31 min
+242 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 | 2023-09-13 | 2024-06-29 |
 | [Dead World](https://open.spotify.com/track/5bvtxksI05MTxu62VRTNCO) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Blood Money Part Zer0](https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt) | 4:01 | 2023-10-27 | 2024-04-19 |
 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 | 2023-09-13 | 2024-04-13 |
+| [Death of Me](https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Death of Me](https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO) | 3:11 | 2025-02-07 |  |
 | [Delusion](https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11) | [DEAR MOTHER](https://open.spotify.com/artist/1i6SXeSvmfhKqHTAxQx5rg) | [Necessary Darkness](https://open.spotify.com/album/3F9I77amZjv9FRrCBoe4zE) | 3:47 | 2024-04-19 | 2024-05-11 |
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-06 | 2024-10-12 |
 | [DETOX](https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/6iLG5mKnCdfkObd5e1onm2) | 3:45 | 2023-09-13 | 2023-10-14 |
@@ -119,6 +120,7 @@
 | [Live It Up](https://open.spotify.com/track/7D1liRVqgIYfj9CXAV9Ygw) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Live It Up](https://open.spotify.com/album/3Lqp6tQk7nVxVqIkLM1SHi) | 3:37 | 2024-03-29 | 2024-04-06 |
 | [Live Not Fantasize](https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Live Not Fantasize](https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd) | 2:59 | 2024-11-22 |  |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-09-13 | 2023-09-23 |
+| [Losing Faith](https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Losing Faith](https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf) | 3:05 | 2025-02-07 |  |
 | [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-09-13 | 2024-02-03 |
 | [LOST!](https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LOST!](https://open.spotify.com/album/1nMZef6fwTtOO1T3SBZDrI) | 2:06 | 2023-11-10 | 2024-01-20 |
 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 | 2024-11-08 |  |
@@ -172,7 +174,7 @@
 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-02 | 2024-08-31 |
 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 | 2025-01-24 |  |
 | [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
-| [Se Van A Topar](https://open.spotify.com/track/6kHJesJlHqZVwSLhOtuiQv) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Se Van A Topar](https://open.spotify.com/album/6D2Xk8t3bvaZngEemyO9H5) | 3:14 | 2024-10-25 |  |
+| [Se Van A Topar](https://open.spotify.com/track/6kHJesJlHqZVwSLhOtuiQv) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Se Van A Topar](https://open.spotify.com/album/6D2Xk8t3bvaZngEemyO9H5) | 3:14 | 2024-10-25 | 2025-02-08 |
 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 | 2024-03-29 | 2024-05-18 |
 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-13 | 2024-09-21 |
 | [Self Sabotage](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 | 2024-11-08 |  |
@@ -191,14 +193,14 @@
 | [Stay Alive](https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:47 | 2023-10-06 | 2023-11-18 |
 | [Step Back](https://open.spotify.com/track/3g6VoOQjAOwRsnSd4N7iC9) | [Stay Lost](https://open.spotify.com/artist/5OIMHiAXjUaBM9V8VpPdup) | [Step Back](https://open.spotify.com/album/746RawvDho6HKng0MymUJl) | 2:46 | 2024-12-06 |  |
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-01-26 | 2024-09-21 |
-| [SYM](https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [SYM](https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS) | 2:54 | 2024-06-28 |  |
+| [SYM](https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [SYM](https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS) | 2:54 | 2024-06-28 | 2025-02-08 |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 | 2024-02-03 |
 | [T.I.T.P.](https://open.spotify.com/track/4UhSYiT6fJtQ55OCGKW7LD) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [T.I.T.P.](https://open.spotify.com/album/7IYFD43sOwlXArJ6PaV65r) | 2:55 | 2024-08-09 | 2024-08-24 |
-| [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-12 |  |
+| [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-12 | 2025-02-08 |
 | [Take](https://open.spotify.com/track/1xUhwqW7W6uEi1oGCCfYv7) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen \(Deluxe\)](https://open.spotify.com/album/3HVtNvI8sdXbQ8yltLVAYo) | 3:11 | 2024-09-06 | 2024-12-07 |
 | [Takers](https://open.spotify.com/track/6ayctlryVPbBV7mwVBHfwU) | [Discrepancies](https://open.spotify.com/artist/4SfKNu30hoXHZRfBFx1W19) | [Takers](https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j) | 3:16 | 2024-06-14 | 2024-06-22 |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
-| [Tell Us How It Ends](https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Tell Us How It Ends](https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz) | 2:31 | 2024-09-13 |  |
+| [Tell Us How It Ends](https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Tell Us How It Ends](https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz) | 2:31 | 2024-09-13 | 2025-02-08 |
 | [Terrorwave](https://open.spotify.com/track/4SuU44gp3mL6ws3zZ82n9i) | [生 Conform 死](https://open.spotify.com/artist/37mOmrBhYDEfRM1aSp91bl) | [Vol II: Music for Living Failures](https://open.spotify.com/album/5BFNFpJ9MiGeEjXTtUdm8A) | 4:20 | 2024-02-02 | 2024-04-13 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2024-11-16 |
 | [The Far Side](https://open.spotify.com/track/2SFT6AM3747gFDvuSlzFk4) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [The Far Side](https://open.spotify.com/album/5zaUnNofkyCxciWctoPush) | 4:58 | 2024-03-22 | 2024-09-21 |
@@ -227,6 +229,8 @@
 | [Veins](https://open.spotify.com/track/1BWQNAch1SIeTWz0RLvc1O) | [Splutter](https://open.spotify.com/artist/7gLhHWy22zWmhRSbmDuPsG) | [Veins](https://open.spotify.com/album/6j3kvraFynifFVVNwiDvs1) | 3:15 | 2024-03-29 | 2024-05-03 |
 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 | 2023-10-27 | 2024-02-03 |
 | [VIOLENT PRINCIPLES](https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [VIOLENT PRINCIPLES](https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT) | 3:47 | 2023-09-13 | 2024-02-10 |
+| [Volatile](https://open.spotify.com/track/3IW7iLL6LHVQayWxTnl24R) | [Deadly Apples](https://open.spotify.com/artist/78l6ObjQIOw8H56CFAHbQn), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C), [Danny Lohner](https://open.spotify.com/artist/1rXhjibRAqFFGSUCYeQCSW) | [Volatile](https://open.spotify.com/album/7DjBYoLrsUibyqCDKC2CEs) | 2:56 | 2025-02-07 |  |
+| [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 |  |
 | [Waiting](https://open.spotify.com/track/2hoNfgPtu1VlcCLwyMJ5yH) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Waiting](https://open.spotify.com/album/4COHGQrXU0drwFzAe108RV) | 3:37 | 2023-11-10 | 2023-12-23 |
 | [War Machine](https://open.spotify.com/track/1C3TukDxObxxR4dhi0u2x7) | [Powerflo](https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3) | [War Machine](https://open.spotify.com/album/6booYwRM3SPcjeGLCTjDhS) | 3:57 | 2024-10-11 | 2024-11-30 |
 | [Wasteland](https://open.spotify.com/track/5L3z9iM22RWKcKKl4yW1cD) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Wasteland](https://open.spotify.com/album/0ISeFNTBmz1NCAhF7qTum9) | 2:48 | 2024-11-22 |  |

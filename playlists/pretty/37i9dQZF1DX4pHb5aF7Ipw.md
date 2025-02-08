@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover: Sultaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,864 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,933 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 6 | [FUCKER WITH THE FLOW](https://open.spotify.com/track/7b7WzNRbqWM7Jb2FNZS1NM) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [WITH ALL DUE DISRESPECT](https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa) | 2:43 |
 | 7 | [Kaali Cullinan](https://open.spotify.com/track/3Wq1tTcKBQvs9TWFIkuRph) | [Yuvan](https://open.spotify.com/artist/2gFzNJG4d7qAEh3z8E5qdt), [Gurbaj](https://open.spotify.com/artist/4xofDh7I2jhxoQBpZpRsgP), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ), [Mb](https://open.spotify.com/artist/0guYBWbXPLtZ8mP4soCVan) | [TRUST THE PROCESS](https://open.spotify.com/album/7KWHTXHfy0gsyYAnn37p1P) | 2:35 |
 | 8 | [Unstoppable](https://open.spotify.com/track/3pAVkXItga7MiwS4PAxldn) | [Harsh Likhari](https://open.spotify.com/artist/2R4dpXgKNBna1nbMHVcYdf), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Unstoppable](https://open.spotify.com/album/66k8oHhekPDjuiemIaScOu) | 2:40 |
-| 9 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 |
+| 9 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 |
 | 10 | [Punjab Side](https://open.spotify.com/track/2iYo0ZV94uTjcTvnILatmf) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Punjab Side](https://open.spotify.com/album/3J3fbc0gObeq2U7UlBblSo) | 3:14 |
 | 11 | [Gut N Luck](https://open.spotify.com/track/3ZQGahl59oWeuwpAVwMBaO) | [Baagi Bhangu](https://open.spotify.com/artist/5tzaapcjlO7OKpqyQWoeXM), [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp), [Balwan Brar](https://open.spotify.com/artist/6pWyg1gsUxMEMoQyEQBY2O) | [Gut N Luck](https://open.spotify.com/album/2RoCeC7BHtwjV3bdq8Wr7A) | 2:54 |
 | 12 | [Dust](https://open.spotify.com/track/4nUxzShEPETd5QX5DNNws2) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [TEST DRIVE](https://open.spotify.com/album/6F7GKw9i5afmAGi1ZSnAqz) | 3:08 |

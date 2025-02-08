@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4kIiPqdL8sxZd1A1QJbRiW"
+      },
+      "artists": [
+        {
+          "name": "AMAG",
+          "url": "https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/1oQoh3CDv3BeHSmDOPBQc4"
+    },
+    {
+      "album": {
         "name": "Diesel Gang",
         "url": "https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb"
       },

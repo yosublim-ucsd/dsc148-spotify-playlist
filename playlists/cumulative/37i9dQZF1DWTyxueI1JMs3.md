@@ -4,7 +4,7 @@
 
 > Music from “A3!”, Japan’s top anime style mobile games.イケメン役者育成ゲーム『A3!』公式プレイリスト！©Liber Entertainment Inc\. All Rights Reserved.
 
-52 songs - 3 hr 31 min
+53 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Circle of Seasons](https://open.spotify.com/track/0INHmCFlkg3oI1vSlonQ0C) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv) | [Circle of Seasons](https://open.spotify.com/album/4wfAkeE04rz5KflrwYW75N) | 3:27 | 2024-07-10 |  |
 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 | 2024-07-10 |  |
 | [Dawn of the Red](https://open.spotify.com/track/6uncdkL9OHRJFkMHZlImOP) | [大地\[七尾太一\(CV:濱 健人\)\]](https://open.spotify.com/artist/2lu0CEcFahsyYEdFL7mQ1n), [千里\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/1hDJMEX7HjYh3cn3zYVtQj) | [A3! INNOCENT AUTUMN EP](https://open.spotify.com/album/3gtNgqIqrLgvrRCmcIzUOq) | 4:25 | 2024-08-27 |  |
-| [Don't cry…](https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz) | [ミカエル\[月岡紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/3WyTjFvzdEmAhFUn8pU0eJ), [ラファエル\[高遠丞\(CV:佐藤拓也\)\]](https://open.spotify.com/artist/0dbQzMn6up4woD5xtWExoW) | [A3! First WINTER EP](https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH) | 5:17 | 2024-07-10 |  |
+| [Don't cry…](https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz) | [ミカエル\[月岡紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/3WyTjFvzdEmAhFUn8pU0eJ), [ラファエル\[高遠丞\(CV:佐藤拓也\)\]](https://open.spotify.com/artist/0dbQzMn6up4woD5xtWExoW) | [A3! First WINTER EP](https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH) | 5:17 | 2024-07-10 | 2025-02-08 |
 | [esの憂鬱](https://open.spotify.com/track/1FELFRU0UWyem6p9xEcfEX) | [鷺島亨\[有栖川誉\(CV:豊永利行\)\]](https://open.spotify.com/artist/6KUXrqZJx2hsBa6T9TWjl9), [東条志岐\[御影密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/04kIVzlU7nSGxFpppMCVEe) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 3:47 | 2024-07-10 |  |
 | [From Season to Season!](https://open.spotify.com/track/5bXMG4pZsJHnV49Q5lm91U) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [KICS](https://open.spotify.com/artist/2mIL6foP0C2WznBB5Mtgyf) | [From Season to Season!](https://open.spotify.com/album/6WK2gUgSo7OnwESNlOBYGP) | 3:50 | 2024-07-10 |  |
 | [Gamer's High](https://open.spotify.com/track/2YObSaepbHWKFT9hYWUTto) | [茅ヶ崎至\(CV:浅沼晋太郎\)](https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE) | [A3! Blooming SPRING EP](https://open.spotify.com/album/4WbMyqWOIQv8SEtTaRmZMb) | 3:43 | 2024-07-10 |  |
@@ -47,6 +47,7 @@
 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 | 2024-07-10 |  |
 | [ナハトムジクと白月](https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 4:31 | 2024-07-10 |  |
 | [ペテン師の憂鬱](https://open.spotify.com/track/7a7EQgcJT9sJkRuKgQXDXf) | [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:07 | 2024-07-10 |  |
+| [モノローグ](https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV) | [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 5:17 | 2024-08-27 |  |
 | [ロードトゥ饅頭マスター!](https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH) | [チャン\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI), [ユン\[泉田莇\(CV:小西成弥\)\]](https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:01 | 2024-07-10 |  |
 | [ワンダーランド・ア・ゴーゴー!!](https://open.spotify.com/track/0hlAFAATSv1icVEjLogJvt) | [アリス\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/2lunpMyiR8JzCHQA4MvYhQ), [帽子屋\[茅ヶ崎至\(CV:浅沼晋太郎\)\]](https://open.spotify.com/artist/5nwJhbtk5quhP9YzgA7i9G) | [A3! Blooming SPRING EP](https://open.spotify.com/album/4WbMyqWOIQv8SEtTaRmZMb) | 3:53 | 2024-07-10 |  |
 | [一夜限りの相棒](https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU) | [ルチアーノ\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo), [ランスキー\[兵頭十座\(CV:武内駿輔\)\]](https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:06 | 2024-07-10 |  |

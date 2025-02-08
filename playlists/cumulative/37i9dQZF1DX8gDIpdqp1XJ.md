@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-988 songs - 2 day 16 hr 25 min
+989 songs - 2 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Anything](https://open.spotify.com/track/4gLJ9owVOhrpVzQUCYoLoX) | [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7), [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Anything](https://open.spotify.com/album/31FXtIiI1wjl5wCJ0JqPyp) | 3:58 | 2021-04-02 | 2022-04-18 |
 | [are you feeling it now](https://open.spotify.com/track/2Uj274jlxyajel5hE0bU9Z) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3mKs4imLrMH2rq2CTrSKlt) | 2:36 | 2023-03-06 | 2023-09-30 |
 | [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 | 2023-02-24 | 2023-06-10 |
+| [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Are You Tired? \(Keep on Singing\)](https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7) | 6:44 | 2025-02-07 |  |
 | [Argentina](https://open.spotify.com/track/26pluqGThCPsirMcHPfuaa) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Saturnia](https://open.spotify.com/album/0hCgQsKDH2Gd3U6njazzHv) | 3:23 | 2023-09-29 | 2024-05-11 |
 | [Around](https://open.spotify.com/track/00EIqQvoztV9Qfh7xEAP6d) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Alright](https://open.spotify.com/album/7nVd4b8dAUrR8LGcaPgz8R) | 2:30 | 2023-04-14 | 2023-08-04 |
 | [Around](https://open.spotify.com/track/1rxlKYkqpoq67Pzw9YHTNE) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Around](https://open.spotify.com/album/6iLsJBQLbWdFRUeiuPnoc0) | 2:30 | 2023-04-14 | 2023-05-11 |

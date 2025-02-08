@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 32283,
+  "num_followers": 32301,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2025-02-03 17:05:37",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2025-02-03 17:05:37",
+      "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
+        "name": "Anglia",
+        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 131977,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
+    },
+    {
+      "added_at": "2025-02-03 17:05:37",
+      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
-    },
-    {
-      "added_at": "2025-02-03 17:05:37",
-      "album": {
-        "name": "Anglia",
-        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 131977,
-      "name": "Anglia",
-      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+    },
+    {
+      "added_at": "2025-02-03 17:05:37",
+      "album": {
         "name": "Cine N-a Gresit Vreodata",
         "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 154960,
       "name": "Merhaba (Stil Turcesc)",
       "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
-    },
-    {
-      "added_at": "2025-02-03 17:05:37",
-      "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -1495,22 +1495,18 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
-        "name": "Born 2 Shine",
-        "url": "https://open.spotify.com/album/2cQjgTS3bz1L8K6ziXUzUY"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
       },
       "artists": [
         {
-          "name": "AlbertNbn",
-          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
-        },
-        {
-          "name": "RUL",
-          "url": "https://open.spotify.com/artist/4L77nZQkqDbx1ESKOyPVVj"
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 158297,
-      "name": "Terorist",
-      "url": "https://open.spotify.com/track/043xuu25Tey8erikkqAoIT"
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -1531,18 +1527,22 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+        "name": "Born 2 Shine",
+        "url": "https://open.spotify.com/album/2cQjgTS3bz1L8K6ziXUzUY"
       },
       "artists": [
         {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        },
+        {
+          "name": "RUL",
+          "url": "https://open.spotify.com/artist/4L77nZQkqDbx1ESKOyPVVj"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+      "duration_ms": 158297,
+      "name": "Terorist",
+      "url": "https://open.spotify.com/track/043xuu25Tey8erikkqAoIT"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
+        "name": "Imuni la bine",
+        "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        }
+      ],
+      "duration_ms": 159699,
+      "name": "Imuni la bine",
+      "url": "https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF"
+    },
+    {
+      "added_at": "2025-02-03 17:05:37",
+      "album": {
         "name": "Sistem Otoman",
         "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
       },
@@ -1663,22 +1683,18 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
-        "name": "Imuni la bine",
-        "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
+        "name": "Ador, Ador",
+        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
       },
       "artists": [
         {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
-        },
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
         }
       ],
-      "duration_ms": 159699,
-      "name": "Imuni la bine",
-      "url": "https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF"
+      "duration_ms": 150965,
+      "name": "Ador, Ador",
+      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2025-02-03 17:05:37",
       "album": {
-        "name": "Ador, Ador",
-        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
-      },
-      "artists": [
-        {
-          "name": "AMI",
-          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
-        }
-      ],
-      "duration_ms": 150965,
-      "name": "Ador, Ador",
-      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
-    },
-    {
-      "added_at": "2025-02-03 17:05:37",
-      "album": {
         "name": "Maria, Maria",
         "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
       },
@@ -1731,26 +1731,6 @@
       "duration_ms": 160800,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
-    },
-    {
-      "added_at": "2025-02-03 17:05:37",
-      "album": {
-        "name": "Scrum",
-        "url": "https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "Dhali",
-          "url": "https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Scrum",
-      "url": "https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B"
     },
     {
       "added_at": "2025-02-03 17:05:37",
@@ -1771,6 +1751,26 @@
       "duration_ms": 149647,
       "name": "Iubire in Rate",
       "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
+    },
+    {
+      "added_at": "2025-02-03 17:05:37",
+      "album": {
+        "name": "Scrum",
+        "url": "https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "Dhali",
+          "url": "https://open.spotify.com/artist/5dJZz1wDTaRM9UBo1AODI2"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Scrum",
+      "url": "https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B"
     },
     {
       "added_at": "2025-02-03 17:05:37",

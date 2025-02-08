@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Bops and LGBTQIA+ artists only. Cover: Jordan Suaste",
+  "description": "Bops and LGBTQIA+ artists only. Cover: Mae Martin",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 173906,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 176757,
       "name": "Collect",
       "url": "https://open.spotify.com/track/252ODAgPlMKwwh9XWo8xgW"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 325695,
       "name": "El Que",
       "url": "https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe"
@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "God Save The Queens",
+        "url": "https://open.spotify.com/album/4OGSbnTYEyXYYQL7j0q10x"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145207,
+      "name": "God Save The Queens",
+      "url": "https://open.spotify.com/track/5gYbg3Tj7FwPGTljJ6oWEb"
+    },
+    {
+      "album": {
         "name": "Jos\u00e9 Louis And The Paradox of Love (Deluxe)",
         "url": "https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD"
       },
@@ -1382,6 +1400,24 @@
       "duration_ms": 195265,
       "name": "Good",
       "url": "https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0"
+    },
+    {
+      "album": {
+        "name": "Good Dream / Stowaway",
+        "url": "https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE"
+      },
+      "artists": [
+        {
+          "name": "Mae Martin",
+          "url": "https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183821,
+      "name": "Good Dream",
+      "url": "https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV"
     },
     {
       "album": {
@@ -1591,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Dreams",
+        "url": "https://open.spotify.com/album/4NxlfS6ZSFv4BPRGPCdF5s"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Hopeless Dreams",
+      "url": "https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ"
+    },
+    {
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI"
       },
@@ -1678,7 +1732,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 295560,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5Gfnj8IW7A0YmmPyUzFoQp"
@@ -1945,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "JEANS (fall on my knees)",
+        "url": "https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178479,
+      "name": "JEANS (fall on my knees)",
+      "url": "https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g"
+    },
+    {
+      "album": {
         "name": "Jenna",
         "url": "https://open.spotify.com/album/20FpfGh5Cftua64aroaT1k"
       },
@@ -2116,6 +2188,24 @@
       "duration_ms": 145809,
       "name": "lied to your therapist",
       "url": "https://open.spotify.com/track/3sWWLt1EDS1II8bnNTPqhg"
+    },
+    {
+      "album": {
+        "name": "Big After I Die",
+        "url": "https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj"
     },
     {
       "album": {
@@ -2536,7 +2626,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -2746,7 +2836,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 107337,
       "name": "Pink Cheetah Print Slip",
       "url": "https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl"
@@ -3410,7 +3500,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 270264,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/0fVQEAJzB0WDLgS28zbECm"
@@ -3529,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "THEY!",
+        "url": "https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "THEY!",
+      "url": "https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA"
+    },
+    {
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -3566,6 +3674,24 @@
       "duration_ms": 180603,
       "name": "things change",
       "url": "https://open.spotify.com/track/6Syl25qHaep867UNxfCuzU"
+    },
+    {
+      "album": {
+        "name": "This Alive",
+        "url": "https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225801,
+      "name": "This Alive",
+      "url": "https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz"
     },
     {
       "album": {

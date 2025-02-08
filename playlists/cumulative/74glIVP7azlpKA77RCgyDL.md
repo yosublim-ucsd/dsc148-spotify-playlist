@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Employed to Serve.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Spiritbox.
 
-903 songs - 2 day 8 hr 44 min
+909 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,8 @@
 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 | 2022-06-17 | 2023-07-15 |
 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-02-03 | 2024-02-03 |
 | [Born of Satan's Flesh](https://open.spotify.com/track/0Rzmvz1zLlmO6lhN8ZMxSK) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Born of Satan's Flesh](https://open.spotify.com/album/0iecjoOhajVnZQyOO8Ccv9) | 4:08 | 2022-07-29 | 2023-07-15 |
+| [BOUND BY AFFLICTION](https://open.spotify.com/track/38dFFlYYJHGOJMWKkpSVi5) | [FINAL RESTING PLACE](https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI) | [BOUND BY AFFLICTION](https://open.spotify.com/album/1pPM49Pp8c6C9YBkgTeVJ0) | 2:50 | 2025-02-07 |  |
+| [Box](https://open.spotify.com/track/3ONsQcXX7XqcUHBhCVktOQ) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Box](https://open.spotify.com/album/6YWUZKB0jwXiqewpUDFK9k) | 2:22 | 2025-02-07 |  |
 | [Broke](https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Broke](https://open.spotify.com/album/56kKSYrrjWuSywqZ2YkrBI) | 2:02 | 2024-02-02 |  |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-08-30 |  |
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-21 | 2023-07-15 |
@@ -183,6 +185,7 @@
 | [Death Is An Illusion](https://open.spotify.com/track/1ggOzSXW1G50jYL2FUuP7W) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [New Eyes](https://open.spotify.com/album/7cDXpqKhlvzKfGj2lpQJs4) | 3:30 | 2024-11-01 |  |
 | [Death Is The Beginning](https://open.spotify.com/track/6Z9I47gF0XIqgZpVZ7fakB) | [Somnuri](https://open.spotify.com/artist/0lTd1p9wnZHsZvZJgrgqvN) | [Death Is The Beginning](https://open.spotify.com/album/3Nv9xXoF8VcDnIEEN0d8Cf) | 5:07 | 2023-06-02 | 2024-02-03 |
 | [Death Ov Circumstance](https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Death Ov Circumstance](https://open.spotify.com/album/6lXJ45JATRhRieaySjLApg) | 4:33 | 2022-12-02 | 2023-07-15 |
+| [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 | 2025-02-07 |  |
 | [Death Trip](https://open.spotify.com/track/4Qru5HnqM2zCChnrUVtFnp) | [AAWKS](https://open.spotify.com/artist/6APXsZmC9JDy6xkLoZtlaS) | [Death Trip](https://open.spotify.com/album/2pXAnDxyItczWtONAaYS8l) | 5:16 | 2024-12-20 |  |
 | [Death Won't Stop Me](https://open.spotify.com/track/6KfuErlMswYM7E1vfgfPfu) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Death Won't Stop Me](https://open.spotify.com/album/4zpaNtcVAhRuRmOOs4G774) | 4:26 | 2023-03-24 | 2024-02-03 |
 | [DEATHWESTERN](https://open.spotify.com/track/70Uqyz7UjUfmCFQSQN9p6w) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/5yH2KEa6tVTfI9zTgwtVF1) | 3:26 | 2022-09-23 | 2023-07-15 |
@@ -356,6 +359,7 @@
 | [Hostage](https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hostage](https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36) | 4:39 | 2024-07-26 |  |
 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 | 2024-08-02 |  |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-07-29 | 2023-07-15 |
+| [House of Light](https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [House of Light](https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX) | 5:49 | 2025-02-07 |  |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-06-21 |  |
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 | 2022-05-06 | 2023-07-15 |
 | [Human Disdain](https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Human Disdain](https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi) | 2:58 | 2024-05-03 |  |
@@ -495,6 +499,7 @@
 | [NMP](https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [NMP](https://open.spotify.com/album/0MOfr3DoxeFA5hSGEVAfR4) | 7:45 | 2023-03-17 | 2024-02-03 |
 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 | 2022-09-09 | 2023-07-15 |
 | [No Good At Goodbyes](https://open.spotify.com/track/6IeBSwVGgwJG0phWB0TfJM) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/6iFrrrFNh7EfI7FyDmAxIk) | 2:14 | 2022-02-25 | 2023-07-15 |
+| [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-07 |  |
 | [No Love Lost](https://open.spotify.com/track/3Q9cNpMUVatuDLlRtmxvJD) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [No Love Lost](https://open.spotify.com/album/5nOj9wbbrVwrNCAwue9PTf) | 3:45 | 2023-10-27 | 2024-02-03 |
 | [No Mercy, No Remorse](https://open.spotify.com/track/7fVuehJJQ7tccou7HcNtCD) | [Heavy//Hitter](https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU) | [No Mercy, No Remorse](https://open.spotify.com/album/4yCPhsLVlRQ1HVA0dH3uXm) | 2:48 | 2024-09-06 |  |
 | [No Place That Doesn't See You](https://open.spotify.com/track/0l8TDZQIVuigiK5iMHLiVt) | [Mil\-Spec](https://open.spotify.com/artist/5iWmisoEhjZGn4QYLRqzuy) | [Marathon](https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4) | 2:22 | 2023-10-06 | 2024-02-03 |
@@ -848,6 +853,7 @@
 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-28 | 2023-07-15 |
 | [Void of Light](https://open.spotify.com/track/5Q4d2drbLswy6d35s9a0Mn) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Void of Light](https://open.spotify.com/album/45lXSwxmeq0AHX5NL9pevv) | 4:44 | 2022-08-19 | 2023-07-15 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 | 2023-07-15 |
+| [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 |  |
 | [Waco Jesus](https://open.spotify.com/track/261sv3XoqTlv3TyrdL74bT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Waco Jesus](https://open.spotify.com/album/2l85mznhWykjvZEu4Lg5MS) | 3:41 | 2023-08-25 | 2024-02-03 |
 | [WAIT.](https://open.spotify.com/track/5krg1N1uqaazYwjluaA0aU) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [WAIT.](https://open.spotify.com/album/3BbpccjrteaAM9cwfbgDl2) | 3:00 | 2022-11-11 | 2023-07-15 |
 | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/64rFzne9SQbMWmsVtSll0H) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/2Vh56LgTE6JXm5lo0GGAHL) | 3:43 | 2022-04-01 | 2023-07-15 |

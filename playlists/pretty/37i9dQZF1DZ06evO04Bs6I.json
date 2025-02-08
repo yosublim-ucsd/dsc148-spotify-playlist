@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 112432,
+  "num_followers": 112452,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAAprh5F/+awEUkGf7FeBixZ",
+  "snapshot_id": "Z6P7gAAAAAA1QMkB4FSnT9WNmeAEJLEd",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00c9s Santo",
-        "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Tu \u00c9s Santo",
-      "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confio em Ti",
         "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 252352,
       "name": "N\u00e3o H\u00e1 o Que Temer",
       "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu \u00c9s Santo",
+        "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Tu \u00c9s Santo",
+      "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 402811,
       "name": "Meu Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": null,

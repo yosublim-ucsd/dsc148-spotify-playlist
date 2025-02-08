@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Sankranthiki Vasthunnam",
-  "num_followers": 280980,
+  "num_followers": 281918,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z49yMQAAAAC8NISy0n4kaUoonshl6k4X",
+  "snapshot_id": "Z6XE/wAAAAC7b8oYXX53CvJcsOXq7rNH",
   "tracks": [
     {
       "added_at": "2025-01-06 08:20:46",
@@ -37,28 +37,52 @@
       "url": "https://open.spotify.com/track/0ibgjKZZ56aoelJ76o7OW9"
     },
     {
-      "added_at": "2025-01-06 12:52:53",
+      "added_at": "2024-11-30 11:14:40",
       "album": {
-        "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
-        "url": "https://open.spotify.com/album/2i9vfuJlSNoVVaSHTu2dnC"
+        "name": "Bujji Thalli (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
       },
       "artists": [
         {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "Kumara Vagdevi",
-          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
         },
         {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
         }
       ],
-      "duration_ms": 241507,
-      "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
-      "url": "https://open.spotify.com/track/67V0RZx812gG2GQjOA4vPD"
+      "duration_ms": 248825,
+      "name": "Bujji Thalli (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
+    },
+    {
+      "added_at": "2024-08-05 12:07:26",
+      "album": {
+        "name": "Chuttamalle (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 222063,
+      "name": "Chuttamalle (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
     },
     {
       "added_at": "2024-11-28 12:52:51",
@@ -89,6 +113,30 @@
       "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
     },
     {
+      "added_at": "2025-01-06 12:52:53",
+      "album": {
+        "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
+        "url": "https://open.spotify.com/album/2i9vfuJlSNoVVaSHTu2dnC"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Kumara Vagdevi",
+          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 241507,
+      "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
+      "url": "https://open.spotify.com/track/67V0RZx812gG2GQjOA4vPD"
+    },
+    {
       "added_at": "2025-01-06 08:20:46",
       "album": {
         "name": "Swathi Reddy (From \"Mad Square\")",
@@ -111,54 +159,6 @@
       "duration_ms": 209369,
       "name": "Swathi Reddy (From \"Mad Square\")",
       "url": "https://open.spotify.com/track/4LitAOz0wo4rmVI6sstajG"
-    },
-    {
-      "added_at": "2025-01-06 08:20:46",
-      "album": {
-        "name": "Dammunte Pattukora (From \"Pushpa 2 The Rule\")",
-        "url": "https://open.spotify.com/album/6gb6tODN0jR5zbRtSChUST"
-      },
-      "artists": [
-        {
-          "name": "Allu Arjun",
-          "url": "https://open.spotify.com/artist/4rGOogZjLpCyotqO0AN0lz"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sukumar",
-          "url": "https://open.spotify.com/artist/4NHool5HnylYzBdCKVveVG"
-        }
-      ],
-      "duration_ms": 93083,
-      "name": "Dammunte Pattukora (From \"Pushpa 2 The Rule\")",
-      "url": "https://open.spotify.com/track/0cBin9IP9kRzFAkpm2XUSa"
-    },
-    {
-      "added_at": "2024-08-05 12:07:26",
-      "album": {
-        "name": "Chuttamalle (From \"Devara Part 1\")",
-        "url": "https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj"
-      },
-      "artists": [
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 222063,
-      "name": "Chuttamalle (From \"Devara Part 1\")",
-      "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
     },
     {
       "added_at": "2024-11-25 10:09:45",
@@ -213,50 +213,6 @@
       "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
     },
     {
-      "added_at": "2024-11-30 11:14:40",
-      "album": {
-        "name": "Bujji Thalli (From \"Thandel\")",
-        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "Shree Mani",
-          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
-        }
-      ],
-      "duration_ms": 248825,
-      "name": "Bujji Thalli (From \"Thandel\")",
-      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
-    },
-    {
-      "added_at": "2025-01-07 09:11:40",
-      "album": {
-        "name": "Hi Laila",
-        "url": "https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m"
-      },
-      "artists": [
-        {
-          "name": "The Fantasia Men",
-          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Hi Laila",
-      "url": "https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu"
-    },
-    {
       "added_at": "2024-04-18 09:25:53",
       "album": {
         "name": "Om Bheem Bush",
@@ -281,32 +237,36 @@
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
-      "added_at": "2024-05-01 12:02:24",
+      "added_at": "2025-02-07 08:31:59",
       "album": {
-        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
-        "url": "https://open.spotify.com/album/18hhin8Y0j4EeOn3G2PYXX"
+        "name": "Munna",
+        "url": "https://open.spotify.com/album/27BTxRdW8WZ9Hv1yFRHTED"
       },
       "artists": [
         {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
         },
         {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
         },
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
         },
         {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Krishh",
+          "url": "https://open.spotify.com/artist/52gcMUmJNB3Q6NG0jPWj0b"
         }
       ],
-      "duration_ms": 256032,
-      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
-      "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
+      "duration_ms": 349653,
+      "name": "Manasa",
+      "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
     },
     {
       "added_at": "2024-10-21 06:33:22",
@@ -357,6 +317,34 @@
       "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
     },
     {
+      "added_at": "2024-05-01 12:02:24",
+      "album": {
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
+        "url": "https://open.spotify.com/album/18hhin8Y0j4EeOn3G2PYXX"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 256032,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
+      "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
+    },
+    {
       "added_at": "2024-02-12 09:26:05",
       "album": {
         "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
@@ -395,6 +383,26 @@
       "duration_ms": 138190,
       "name": "Devara Thandavam (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/6oNYUEGuQdpwwj0xWnzSP5"
+    },
+    {
+      "added_at": "2025-01-07 09:11:40",
+      "album": {
+        "name": "Hi Laila",
+        "url": "https://open.spotify.com/album/6V2ofsfMiFbEUBKFZj4o3m"
+      },
+      "artists": [
+        {
+          "name": "The Fantasia Men",
+          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Hi Laila",
+      "url": "https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu"
     },
     {
       "added_at": "2024-08-09 13:11:08",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment \ud83d\udc09 with The Knocks & Dragonette",
+  "description": "The best indie dance tracks of the moment \ud83c\uddeb\ud83c\uddf7 with L'Imp\u00e9ratrice",
   "name": "metropolis",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 158280,
       "name": "6 Foot",
       "url": "https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr"
@@ -436,6 +436,24 @@
       "duration_ms": 221748,
       "name": "6am",
       "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "9-5",
+      "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
     },
     {
       "album": {
@@ -748,6 +766,24 @@
       "duration_ms": 208000,
       "name": "AFRAID",
       "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/2PSo3TfdQA0OKZFI5313du"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/5Xzkkyf6cI9oPYhS7CHnaU"
     },
     {
       "album": {
@@ -4888,7 +4924,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 207637,
       "name": "Cartagena - Sylvan Esso Edit",
       "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
@@ -5542,7 +5578,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 293800,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/76E3jFhT2wW6OkAEGAyM7H"
@@ -5928,6 +5964,28 @@
       "duration_ms": 286221,
       "name": "Complete Me (feat. Self Esteem)",
       "url": "https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq"
+    },
+    {
+      "album": {
+        "name": "partyboi (glitch gum Remix)",
+        "url": "https://open.spotify.com/album/3MPvxabUHGAIqbQt9uENAr"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "concussion//remix - glitch gum Remix",
+      "url": "https://open.spotify.com/track/7fIVWPJd77vd5jXdaB44cu"
     },
     {
       "album": {
@@ -7401,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "DNA \u221e",
+        "url": "https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203134,
+      "name": "DNA \u221e",
+      "url": "https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH"
+    },
+    {
+      "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
         "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
       },
@@ -8805,6 +8881,24 @@
     },
     {
       "album": {
+        "name": "ENTROPIA",
+        "url": "https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398000,
+      "name": "ENTROPIA",
+      "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
+    },
+    {
+      "album": {
         "name": "eons away",
         "url": "https://open.spotify.com/album/6dVltlMV1WFe0BcU9m8ZnE"
       },
@@ -9118,7 +9212,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 289011,
       "name": "Everything in Between",
       "url": "https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl"
@@ -9487,6 +9581,28 @@
     },
     {
       "album": {
+        "name": "On A Trip",
+        "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Kabusa Oriental Choir",
+          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Falling Feels Like Flying (ft Kabusa Oriental Choir)",
+      "url": "https://open.spotify.com/track/4uwYYpAbDZ1SFRdde2hJUU"
+    },
+    {
+      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh"
       },
@@ -9716,7 +9832,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 227533,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V"
@@ -12610,7 +12726,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 210967,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb"
@@ -14296,7 +14412,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 225531,
       "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
       "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
@@ -17501,6 +17617,24 @@
     },
     {
       "album": {
+        "name": "LIKE A DRUG",
+        "url": "https://open.spotify.com/album/3ag8NqiVrlJNizujdgwGKF"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "LIKE A DRUG",
+      "url": "https://open.spotify.com/track/7gver0FiQXh1Ycv7o5bfVa"
+    },
+    {
+      "album": {
         "name": "Like The Old Days",
         "url": "https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri"
       },
@@ -18837,6 +18971,28 @@
     },
     {
       "album": {
+        "name": "Lucky U",
+        "url": "https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170567,
+      "name": "Lucky U",
+      "url": "https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc"
       },
@@ -19116,6 +19272,28 @@
       "duration_ms": 137260,
       "name": "make believe",
       "url": "https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy"
+    },
+    {
+      "album": {
+        "name": "make it rain",
+        "url": "https://open.spotify.com/album/3qOFnB0kXnusutKcY1Sb2r"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/5fH5ILNzdD3HslAOfpOCOL"
     },
     {
       "album": {
@@ -19692,6 +19870,28 @@
       "duration_ms": 240924,
       "name": "Mine",
       "url": "https://open.spotify.com/track/25VKwAAJ7YLvpTJ02yNV5x"
+    },
+    {
+      "album": {
+        "name": "Mine (Channel Tres Remix)",
+        "url": "https://open.spotify.com/album/6wT3yGTtl1xGuedJrQXs8G"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185166,
+      "name": "Mine (Channel Tres Remix)",
+      "url": "https://open.spotify.com/track/42kFWZayxUQkMyGNTyFsUg"
     },
     {
       "album": {
@@ -20348,6 +20548,24 @@
       "duration_ms": 192845,
       "name": "Mutations - Empress Of Remix",
       "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
+    },
+    {
+      "album": {
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
     },
     {
       "album": {
@@ -21324,7 +21542,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 195890,
       "name": "nothing left 2 say",
       "url": "https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG"
@@ -22300,7 +22518,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 192724,
       "name": "Ooh",
       "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
@@ -23450,7 +23668,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 243000,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
@@ -23628,6 +23846,24 @@
       "duration_ms": 221875,
       "name": "Price Tags (feat. Anderson .Paak) - kryptogram Remix",
       "url": "https://open.spotify.com/track/417n6UbUWOdel5iXcROCd0"
+    },
+    {
+      "album": {
+        "name": "Probably",
+        "url": "https://open.spotify.com/album/1n8lTQb8Z3vfBuNE7OoD69"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Probably",
+      "url": "https://open.spotify.com/track/41wVbCiHzdFJ02oJKsKOUi"
     },
     {
       "album": {
@@ -26778,7 +27014,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 217773,
       "name": "Somethin Bout You (feat. Betsy) - Korn\u00e9l Kov\u00e1cs Remix",
       "url": "https://open.spotify.com/track/4qOa6vs4ov95ePvABgU0PL"
@@ -27628,7 +27864,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 185280,
       "name": "STRONG MAN (feat. veggi)",
       "url": "https://open.spotify.com/track/1ocb6tS4xBe4XMw6tmFQfj"

@@ -1,13 +1,233 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Julien Baker & TORRES",
-  "num_followers": 835786,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Waxahatchee",
+  "num_followers": 836309,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY8wAAAAB1Q40UT/eg+iuPjMvG8s52",
+  "snapshot_id": "Z6ZUDgAAAAC141DcXun1SJVaru0pZV3Z",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Evergreen Lover",
+        "url": "https://open.spotify.com/album/1lqjjT5374C9VxoI6fIiW6"
+      },
+      "artists": [
+        {
+          "name": "barrett",
+          "url": "https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY"
+        },
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Evergreen Lover",
+      "url": "https://open.spotify.com/track/623iB0LL6nNS0pZekU2FOc"
+    },
+    {
+      "added_at": "2025-02-07 18:42:21",
+      "album": {
+        "name": "Baby Bright",
+        "url": "https://open.spotify.com/album/1zmDYIWkJIJfbqXTtUoY0X"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Baby Bright",
+      "url": "https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "the cage",
+        "url": "https://open.spotify.com/album/6FdekjQidS05yr24dL5qmX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 165071,
+      "name": "the cage",
+      "url": "https://open.spotify.com/track/2vHULk2GDOJwsJ3dU5b555"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Berry Herman",
+        "url": "https://open.spotify.com/album/6ibM2qLP7QUMj0yh8io6I5"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 271624,
+      "name": "Berry Herman",
+      "url": "https://open.spotify.com/track/5mxx425smCovOzcG3rySrh"
+    },
+    {
+      "added_at": "2025-02-07 15:35:49",
+      "album": {
+        "name": "Black Monday",
+        "url": "https://open.spotify.com/album/6OuwOOydUWhPmlz1PiL2zz"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Black Monday",
+      "url": "https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5UYvcgTwVCdUAO7sLAr2o7"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 205536,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2NQMFhWHKp00FOxqVLd3LV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Mantras (Deluxe)",
+        "url": "https://open.spotify.com/album/2Qn3HYRLIxoRXUeE3kECb8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 282166,
+      "name": "White Lies, White Jesus And You (with S.G. Goodman)",
+      "url": "https://open.spotify.com/track/4dnL01ysFHmztgy8m5emxy"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "At War With The Dogcatchers",
+        "url": "https://open.spotify.com/album/6D7RdGjINcChNQU2m5571K"
+      },
+      "artists": [
+        {
+          "name": "The Taxpayers",
+          "url": "https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy"
+        }
+      ],
+      "duration_ms": 285750,
+      "name": "At War With the Dogcatchers",
+      "url": "https://open.spotify.com/track/1MpwNeCaXPyhqUlnUyk7Wj"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Sweetest Heart",
+        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 196436,
+      "name": "Sweetest Heart",
+      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
+    },
     {
       "added_at": "2025-01-31 05:00:35",
       "album": {
@@ -2363,194 +2583,6 @@
       "duration_ms": 207551,
       "name": "Aaron",
       "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Bones Sleep",
-        "url": "https://open.spotify.com/album/4pkXTeG6c4QjGaGW3eTzLt"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        },
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 169803,
-      "name": "Bones Sleep",
-      "url": "https://open.spotify.com/track/0iOyNCPEDidYqENgVwIqHQ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "High And Dry",
-        "url": "https://open.spotify.com/album/6Z8KvjbbDyouRBDsnL2PWb"
-      },
-      "artists": [
-        {
-          "name": "Steinza",
-          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/7cyQ0QpACINF7M5Zccnwap"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Same Old You",
-        "url": "https://open.spotify.com/album/3jCe4ffxiQE50TKLBbpxeT"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Same Old You",
-      "url": "https://open.spotify.com/track/0JyzBEeiJNppgBWinakl0f"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        },
-        {
-          "name": "Ahya Simone",
-          "url": "https://open.spotify.com/artist/7yfvkkpKMvNCepOgz00xj8"
-        },
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        }
-      ],
-      "duration_ms": 272853,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/6xVtux8rwUfuFtTSiZyOpw"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "On and On",
-        "url": "https://open.spotify.com/album/3CerbTJmgn05AhVBKoLd9w"
-      },
-      "artists": [
-        {
-          "name": "The National Forest",
-          "url": "https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws"
-        }
-      ],
-      "duration_ms": 212875,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/5xnXsMxmknyeyCrwHU4M4M"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "In the Haze",
-        "url": "https://open.spotify.com/album/2WzfqnmrYUDbwp6xkJyz0d"
-      },
-      "artists": [
-        {
-          "name": "Dead Gowns",
-          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "In the Haze",
-      "url": "https://open.spotify.com/track/129MxO8ztlnNLRtgUALkVu"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "All Means, No End",
-        "url": "https://open.spotify.com/album/0EMbsSxadV2BHa8h5A0OMp"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 269047,
-      "name": "Season of Charade",
-      "url": "https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
-        "url": "https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 233027,
-      "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
-      "url": "https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Only Time (demo)",
-        "url": "https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 274921,
-      "name": "Only Time (demo)",
-      "url": "https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Curse The Man",
-        "url": "https://open.spotify.com/album/2z2aYlaZlPWPUDbc92HG6p"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 214548,
-      "name": "Curse The Man",
-      "url": "https://open.spotify.com/track/0q1I8KyMQ4fM9LcrX8YkS9"
     }
   ],
   "unique_name": "Fresh Folk",

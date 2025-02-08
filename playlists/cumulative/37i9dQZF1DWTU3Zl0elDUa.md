@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-145 songs - 13 hr 15 min
+145 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 | 2021-09-17 |  |
 | [Salsa House \- Edit](https://open.spotify.com/track/0lYftlVimwk7bTZ1LzeBuV) | [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd) | [Dance Anthems Classics](https://open.spotify.com/album/7D7y3vKUI95Zdx3ROo7YBh) | 3:53 | 2021-09-17 | 2022-07-24 |
 | [Samba Magic](https://open.spotify.com/track/64O1UkAVbdTfbqfyxBS74i) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Summer Daze](https://open.spotify.com/album/36IOsN6LAZLn8Mauc3z77g) | 7:59 | 2021-09-17 | 2022-07-28 |
-| [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:15 | 2021-09-17 |  |
+| [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:50 | 2021-09-17 |  |
 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 | 2021-09-17 |  |
 | [Showing Out \(Get Fresh At the Weekend\) \- 7" Version](https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M.](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:34 | 2021-09-17 | 2025-01-02 |
 | [Sindae \(feat\. L.G.\) \- Masters At Work Club Mix](https://open.spotify.com/track/4f7PglDSAmthAX0iq7E8Mt) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1), [L.G.](https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA) | [Sindae \(feat\. L.G.\)](https://open.spotify.com/album/2dfXqrgiXOekles5uIiWeL) | 5:50 | 2021-09-17 | 2022-07-29 |

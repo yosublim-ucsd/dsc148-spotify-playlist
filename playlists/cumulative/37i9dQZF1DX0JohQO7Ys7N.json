@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: V-Be",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Nairobi in Love",
+        "url": "https://open.spotify.com/album/7f1gWklPYCMk7yotmrn21y"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "If You Don't Know",
+      "url": "https://open.spotify.com/track/1KWUfVKdBzUY3NAnfGHbRZ"
+    },
+    {
+      "album": {
         "name": "Rafiki (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r"
       },
@@ -1914,7 +1936,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 202500,
       "name": "Lifetimes",
       "url": "https://open.spotify.com/track/3EeWg0GABnVlg0boa29GTK"
@@ -2012,6 +2034,24 @@
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
+    {
+      "album": {
+        "name": "Love on me",
+        "url": "https://open.spotify.com/album/3WSH8cxyBbSpzjzhTo3ayA"
+      },
+      "artists": [
+        {
+          "name": "Atemi",
+          "url": "https://open.spotify.com/artist/7CQpz9A6AhnRpg3sNkOpjv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Love on me",
+      "url": "https://open.spotify.com/track/6Ry7RTz5becrzrhVL9ol79"
     },
     {
       "album": {
@@ -2268,7 +2308,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 201280,
       "name": "Milele",
       "url": "https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc"
@@ -3132,7 +3172,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 147473,
       "name": "Restore",
       "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
@@ -3256,6 +3296,24 @@
       "duration_ms": 171765,
       "name": "Secret Lover",
       "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
+    },
+    {
+      "album": {
+        "name": "Sema",
+        "url": "https://open.spotify.com/album/7j0fwr3cxUNQH4vz5ISY7F"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kay",
+          "url": "https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "Sema",
+      "url": "https://open.spotify.com/track/4S2LpLITlVGrvOttc4rCtu"
     },
     {
       "album": {

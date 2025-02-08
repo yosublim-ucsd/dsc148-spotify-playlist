@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover - 'Afsos' by Anuv Jain, AP Dhillon",
+  "description": "Latest music from your fav I-Pop artists. Cover - Madhubanti Bagchi",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1778,6 +1778,36 @@
       "duration_ms": 144000,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/3ATQIPBT5i5LfhUVNIdjBz"
+    },
+    {
+      "album": {
+        "name": "Apna Naam Du",
+        "url": "https://open.spotify.com/album/6U85KZgqHL2BvvCOditWJK"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Uddipan Sharma",
+          "url": "https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208587,
+      "name": "Apna Naam Du",
+      "url": "https://open.spotify.com/track/5evaNvSAGQujTel7ErnLzO"
     },
     {
       "album": {
@@ -3757,6 +3787,32 @@
     },
     {
       "album": {
+        "name": "Between Flowers",
+        "url": "https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB"
+      },
+      "artists": [
+        {
+          "name": "OAFF",
+          "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
+        },
+        {
+          "name": "Amira Gill",
+          "url": "https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS"
+        },
+        {
+          "name": "Manreet Khara",
+          "url": "https://open.spotify.com/artist/5IbqlFtFzlcqZW0KlnyVkq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "BETWEEN FLOWERS",
+      "url": "https://open.spotify.com/track/1XjapKb8GMXCoO2WuWlX8x"
+    },
+    {
+      "album": {
         "name": "Bewafa",
         "url": "https://open.spotify.com/album/10I8YtodCoSNCSTaxgfKOv"
       },
@@ -4952,6 +5008,28 @@
       "duration_ms": 182400,
       "name": "Chhan Chhan",
       "url": "https://open.spotify.com/track/3YekdE6R0xcjd5ezanD5zo"
+    },
+    {
+      "album": {
+        "name": "Chhann",
+        "url": "https://open.spotify.com/album/0hpdp0xYDq9ZOFGHFExpfs"
+      },
+      "artists": [
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Mann",
+          "url": "https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Chhann",
+      "url": "https://open.spotify.com/track/2Vsp6qY7Wn6xDouEocHETS"
     },
     {
       "album": {
@@ -9691,6 +9769,32 @@
     },
     {
       "album": {
+        "name": "Harjaana",
+        "url": "https://open.spotify.com/album/3L5QZ3HF1A0Hzh12Ru2eUf"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Karasama Beats",
+          "url": "https://open.spotify.com/artist/3CemHlYsyplVCugkYqW8sp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Harjaana",
+      "url": "https://open.spotify.com/track/4ptjxlxK14ZgvTfFfqI8s5"
+    },
+    {
+      "album": {
         "name": "Harjayi Ve",
         "url": "https://open.spotify.com/album/7iPBC85RzSsFHnKh713yio"
       },
@@ -9706,7 +9810,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 188606,
       "name": "Harjayi Ve",
       "url": "https://open.spotify.com/track/3bWvAtIwh2cI3Yuq4xj5E6"
@@ -9802,6 +9906,32 @@
       "duration_ms": 231724,
       "name": "Haule Haule",
       "url": "https://open.spotify.com/track/73ut9PgPkIFo2aNSdROBQ6"
+    },
+    {
+      "album": {
+        "name": "Hawa Banke",
+        "url": "https://open.spotify.com/album/3UVN7cepGedF54XmIUT1Ms"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Hawa Banke",
+      "url": "https://open.spotify.com/track/3J2v56A4A8sYZk3qhTvB21"
     },
     {
       "album": {
@@ -10276,7 +10406,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 245624,
       "name": "Homa Dol",
       "url": "https://open.spotify.com/track/5zESOpfyevtuiHio0fKQLI"
@@ -10492,7 +10622,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 232500,
       "name": "Hum Jaisa Chahega Kaun",
       "url": "https://open.spotify.com/track/2b3m6K5xV6YWqd11KQyss8"
@@ -11322,7 +11452,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 174400,
       "name": "Ishq Qubool Kar",
       "url": "https://open.spotify.com/track/14U3daRQza0qx1O0CyL5Um"
@@ -12770,7 +12900,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 237750,
       "name": "JI Huzoor",
       "url": "https://open.spotify.com/track/5iGbrt26SrpaOAQZ03FtRJ"
@@ -13118,7 +13248,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 165900,
       "name": "Jutti Kasuri (Roots)",
       "url": "https://open.spotify.com/track/4Rn2WECDkcPcb51XdDdWhu"
@@ -14102,6 +14232,32 @@
     {
       "album": {
         "name": "Keh Do Na",
+        "url": "https://open.spotify.com/album/5YjWFVg6j4rUHj3vBaB0oO"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Jitendra Kumar",
+          "url": "https://open.spotify.com/artist/4CekhuSSP8lNnqDomhbJ7r"
+        },
+        {
+          "name": "Manpreet Kaur",
+          "url": "https://open.spotify.com/artist/3iXL8Y9QFYRXFmvtSc9nyl"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239687,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/7IXNpE2PpfN2TfukYArl1B"
+    },
+    {
+      "album": {
+        "name": "Keh Do Na",
         "url": "https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0"
       },
       "artists": [
@@ -14388,6 +14544,28 @@
       "duration_ms": 176299,
       "name": "Khali Khidki",
       "url": "https://open.spotify.com/track/4sAt1F6FQBHWbTnBvWQaRO"
+    },
+    {
+      "album": {
+        "name": "Khali Peeli Baatein",
+        "url": "https://open.spotify.com/album/0otjLyKlXuwcooy2C1fGwY"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212406,
+      "name": "Khali Peeli Baatein",
+      "url": "https://open.spotify.com/track/2NZk5egfy6KDODjEesUvZL"
     },
     {
       "album": {
@@ -20921,6 +21099,36 @@
     },
     {
       "album": {
+        "name": "Pehla Nasha 2.0",
+        "url": "https://open.spotify.com/album/5E1pfbUzq4MSsq4nRQ00Jh"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247808,
+      "name": "Pehla Nasha 2.0",
+      "url": "https://open.spotify.com/track/2p5ETiuOn33KxupCfJyXLi"
+    },
+    {
+      "album": {
         "name": "Pehla Pyaar",
         "url": "https://open.spotify.com/album/3oDF9tcpxavgCN2DAUoPa6"
       },
@@ -22704,7 +22912,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 174375,
       "name": "Saanvarey",
       "url": "https://open.spotify.com/track/5tchkzaP2SxVgoybzKb5pY"
@@ -24526,7 +24734,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 181263,
       "name": "Sohneya",
       "url": "https://open.spotify.com/track/4ohKvqFXhUxSEAkMmy3WCO"
@@ -26490,6 +26698,28 @@
       "duration_ms": 134910,
       "name": "Teri Muskurahat",
       "url": "https://open.spotify.com/track/3hli7ulgtTTvRLyCk6hC0T"
+    },
+    {
+      "album": {
+        "name": "Teri Parchaiyaan",
+        "url": "https://open.spotify.com/album/0YtIpoq5dqcnZWacroJDDG"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200286,
+      "name": "Teri Parchaiyaan",
+      "url": "https://open.spotify.com/track/109AAqLTd5S43loCceOl1x"
     },
     {
       "album": {
@@ -30258,7 +30488,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 192300,
       "name": "Zindagi Jeene De Na",
       "url": "https://open.spotify.com/track/2Avdnnh9rAHycUYnFIjbsT"

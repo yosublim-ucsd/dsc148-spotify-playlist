@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Terrian",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Maverick City Music",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop Me",
+        "url": "https://open.spotify.com/album/6r7dvXXA7V2s9aSghRX4Zw"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192585,
+      "name": "Can't Stop Me",
+      "url": "https://open.spotify.com/track/6sgDAp47RNTEVrzOMYU0PV"
+    },
+    {
+      "album": {
         "name": "Been a Minute",
         "url": "https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J"
       },
@@ -2860,10 +2878,36 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 292185,
       "name": "Constant (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
+    },
+    {
+      "album": {
+        "name": "Live at Maverick City",
+        "url": "https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295312,
+      "name": "Constant - Live",
+      "url": "https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ"
     },
     {
       "album": {
@@ -4137,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Fighter (I'm Not Afraid)",
+        "url": "https://open.spotify.com/album/126xrPDJI9nncrqLsNEW9e"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Fighter (I'm Not Afraid)",
+      "url": "https://open.spotify.com/track/6SeDavusk2qziITCWmPMgC"
+    },
+    {
+      "album": {
         "name": "Fill My Cup",
         "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
       },
@@ -5014,7 +5076,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 213815,
       "name": "God Did It",
       "url": "https://open.spotify.com/track/4qRjzfGWDeEVwfZ066GI3s"
@@ -5701,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "Goodness of God (Acapella)",
+        "url": "https://open.spotify.com/album/5iKCGvqzdPm9ivOFhTeUs1"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135952,
+      "name": "Goodness of God (Acapella)",
+      "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
+    },
+    {
+      "album": {
         "name": "Gospel Truth",
         "url": "https://open.spotify.com/album/208vHnVcqL3UN9lMT7VldF"
       },
@@ -6130,10 +6210,32 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 316000,
       "name": "Hard Fought Hallelujah",
       "url": "https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx"
+    },
+    {
+      "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
       "album": {
@@ -8592,7 +8694,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
@@ -13888,7 +13990,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 225252,
       "name": "REPENT",
       "url": "https://open.spotify.com/track/77epkfBkOgrCHPlxjoHr5m"
@@ -14860,6 +14962,24 @@
       "duration_ms": 504992,
       "name": "Sing Hallelujah (with Natalie Grant) - Live",
       "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
+    },
+    {
+      "album": {
+        "name": "SURVEY: Part 2, Live at St. John at Hackney",
+        "url": "https://open.spotify.com/album/48yxGLll2Kn9tmpFua5BBD"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351225,
+      "name": "SING OF THIS - Live",
+      "url": "https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW"
     },
     {
       "album": {
@@ -18219,6 +18339,32 @@
     },
     {
       "album": {
+        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "One Church Music",
+          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171822,
+      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
+    },
+    {
+      "album": {
         "name": "We Will Stand",
         "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
       },
@@ -18348,7 +18494,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 168031,
       "name": "What A Time To Be Alive",
       "url": "https://open.spotify.com/track/0vWPIN2Hte6jKQkUONJbxH"
@@ -19298,7 +19444,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169583,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p"

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-293 songs - 16 hr 2 min
+294 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Party Mode](https://open.spotify.com/track/7ivOkXLuP1182ZtzA54Vbw) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz) | 3:31 | 2022-03-18 | 2025-01-22 |
 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 | 2021-06-18 | 2022-06-22 |
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-10 |  |
+| [Plead The Fifth](https://open.spotify.com/track/5OuevpXMOUPQACn9P0FpDR) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Plead The Fifth](https://open.spotify.com/album/0oNFwAK3qMDURT6GDZtpmE) | 3:26 | 2025-02-07 |  |
 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 | 2022-07-22 | 2024-04-19 |
 | [Pontoon](https://open.spotify.com/track/3SO0h35YY0szbbJkqbyYrI) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/1kfanHzBSPlBA2pT0qdiq8) | 3:32 | 2021-06-18 |  |
 | [Pontoon](https://open.spotify.com/track/5cbjoGAQWDWsqTL5Ce9uOh) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Country Beach Vibes](https://open.spotify.com/album/0qsqFNJgHxewnNqV28KMSO) | 3:32 | 2022-09-23 | 2022-11-13 |

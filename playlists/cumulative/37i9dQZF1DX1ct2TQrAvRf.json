@@ -3963,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/5biAJ9BV2DGyUAS0vcPJuB"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140454,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/1gnSWq0TDPN3DHkXDekuPp"
+    },
+    {
+      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs"
       },
@@ -4274,10 +4292,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 243870,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD"
+    },
+    {
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/6Xzqxu8RMm8MJ8aGFVxlrN"
     },
     {
       "album": {
@@ -5172,7 +5208,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 189001,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/6OmQ0LT5nx5qrxoPljf8lv"

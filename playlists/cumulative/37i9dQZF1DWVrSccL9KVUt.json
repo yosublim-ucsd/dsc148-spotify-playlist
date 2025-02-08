@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: TAYA",
+  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: DOE",
   "name": "Women of Faith",
   "tracks": [
     {
@@ -563,6 +563,42 @@
     },
     {
       "album": {
+        "name": "Can't Find the Words",
+        "url": "https://open.spotify.com/album/68Kwk8ZD58HoApaNaQatWu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Can't Find the Words",
+      "url": "https://open.spotify.com/track/6ZvhlLyHXAsebYixAOvRqs"
+    },
+    {
+      "album": {
+        "name": "Can't Love Me Right",
+        "url": "https://open.spotify.com/album/7BsqEe384UIPMWFcP8MdeV"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140444,
+      "name": "Can't Love Me Right",
+      "url": "https://open.spotify.com/track/0jcmDBWr3L8uEQZxAhFuCV"
+    },
+    {
+      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -1041,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Get Behind Me",
+        "url": "https://open.spotify.com/album/2BEl2MSwngspgXkPDxyV9Y"
+      },
+      "artists": [
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225502,
+      "name": "Get Behind Me",
+      "url": "https://open.spotify.com/track/56FFFla4vPelcCCQjljWHH"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/7e3gG58B2ZjVmCUFliCyKG"
       },
@@ -1070,7 +1124,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 187334,
       "name": "God Ain't Finished Yet",
       "url": "https://open.spotify.com/track/1rpfy3Gp4LxP5o1gzcpY5J"
@@ -1110,6 +1164,24 @@
       "duration_ms": 214604,
       "name": "Gonna Be Enough",
       "url": "https://open.spotify.com/track/2GiJyZXM5aLLx62GYixtJ5"
+    },
+    {
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3LaUaXAOBE5fvIBNrWFOB8"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161981,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw"
     },
     {
       "album": {
@@ -1160,7 +1232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 272458,
       "name": "Hands Of The Healer - Live",
       "url": "https://open.spotify.com/track/7M3xzmIhe55g7lFjmV4Zja"
@@ -1272,6 +1344,24 @@
       "duration_ms": 185346,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp"
+    },
+    {
+      "album": {
+        "name": "Heart of a Human",
+        "url": "https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "Holy Hands",
+      "url": "https://open.spotify.com/track/3MnYUOvImXxU0h2bKGtVCN"
     },
     {
       "album": {
@@ -1966,7 +2056,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 192070,
       "name": "Lately",
       "url": "https://open.spotify.com/track/02Jfd7FPeSXfZSeFOJIk8F"
@@ -2408,7 +2498,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 215000,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/5Gfr1cjffOUecAS6NUcZ24"
@@ -2430,6 +2520,24 @@
       "duration_ms": 223626,
       "name": "Overcomer",
       "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
+    },
+    {
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204816,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M"
     },
     {
       "album": {
@@ -2715,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Said & Done",
+        "url": "https://open.spotify.com/album/72OxEannUP1Tw88FizcNc8"
+      },
+      "artists": [
+        {
+          "name": "Jackie Legere",
+          "url": "https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Said & Done",
+      "url": "https://open.spotify.com/track/3rftkfE7FlGjsJkrexzLTu"
+    },
+    {
+      "album": {
         "name": "Saving Grace",
         "url": "https://open.spotify.com/album/7GM5C8ELDmXpTA4DI9QddT"
       },
@@ -2904,6 +3030,24 @@
       "duration_ms": 292855,
       "name": "Speak The Name",
       "url": "https://open.spotify.com/track/0LnkKSCtoWYMziO5MBbKCv"
+    },
+    {
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT"
+      },
+      "artists": [
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz"
     },
     {
       "album": {
@@ -3525,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/2LUbCb3zZIuIfUogEiMamv"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/4gLhQVev1YSv62UnGkJRR0"
+    },
+    {
+      "album": {
         "name": "When I Fall",
         "url": "https://open.spotify.com/album/6YgL1xiXpuBsTUK5y1MYuP"
       },
@@ -3720,10 +3882,28 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179414,
       "name": "You",
       "url": "https://open.spotify.com/track/2YSNfO41UBRtie1PdSzcHI"
+    },
+    {
+      "album": {
+        "name": "You Can (Live)",
+        "url": "https://open.spotify.com/album/1Z6FZyk5n0ZKmkMtlxUprl"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425250,
+      "name": "You Can - Live",
+      "url": "https://open.spotify.com/track/15EwhHEpjlL5HfUdp44LFi"
     },
     {
       "album": {

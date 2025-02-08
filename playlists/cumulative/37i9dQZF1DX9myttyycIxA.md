@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Dutch Interior
+> Underground indie rock gems\. Cover: she's green
 
-1,453 songs - 3 day 11 hr 24 min
+1,459 songs - 3 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Acid](https://open.spotify.com/track/28sZAdHzKwdTudWaOcNp4S) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:45 | 2023-06-15 | 2023-07-22 |
 | [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 | 2023-03-03 | 2024-01-27 |
 | [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 | 2023-04-20 |
+| [ADORE](https://open.spotify.com/track/3BorXY9G9eZoOlUQZA0YoO) | [child star](https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1), [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE), [Sean Henry](https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk) | [ADORE](https://open.spotify.com/album/0AxAaCFZ4KbDgv3vj38UDz) | 2:26 | 2025-02-07 |  |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2022-04-29 | 2022-09-24 |
 | [Affinity](https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Affinity](https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A) | 4:43 | 2024-06-28 | 2025-02-01 |
 | [After Silver Leaves](https://open.spotify.com/track/7lRMtQETB0B5WQBc11paPx) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Unbroken Thought](https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq) | 4:37 | 2022-10-21 | 2022-12-15 |
@@ -302,6 +303,7 @@
 | [Crickets](https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Crickets](https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI) | 3:21 | 2024-11-15 |  |
 | [Crimson to Chrome](https://open.spotify.com/track/4L8vpnqvHQucS2jakCHztD) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome b/w IN\_OUT](https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD) | 3:28 | 2023-08-24 | 2023-09-09 |
 | [Crimson to Chrome](https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr) | 3:28 | 2023-06-15 | 2023-08-25 |
+| [Cro\-Magnon Man](https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cro\-Magnon Man](https://open.spotify.com/album/5VL1958b50wIWuafmVofL6) | 4:07 | 2025-02-07 |  |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-29 | 2022-09-24 |
 | [Crow](https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Crow](https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp) | 3:29 | 2024-09-13 | 2024-09-28 |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-02 | 2022-04-29 |
@@ -478,6 +480,7 @@
 | [floor 20](https://open.spotify.com/track/54vGD9e0VAAZnth6KW6PSx) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/5nRdGKFyU0RAz0HCObmLee) | 2:37 | 2022-10-28 | 2022-12-15 |
 | [floor 20](https://open.spotify.com/track/7LFWmxHI2ftcIS13s6ZsAC) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/3vFvfJN9AISogzUwKuMu3P) | 2:37 | 2022-10-29 | 2022-11-05 |
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2022-12-16 | 2023-03-04 |
+| [Flowers](https://open.spotify.com/track/2zL3Tut6HrIV6tVAGw8Gh7) | [High.](https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi) | [Come Back Down](https://open.spotify.com/album/5ihJcyfSetmfGtCCJoWhzR) | 3:57 | 2025-02-07 |  |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 | 2022-06-19 |
 | [fool for you](https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/2RrAue7Ur84t4Qe6MAJwsP) | 3:19 | 2023-12-08 | 2024-02-24 |
 | [fool for you](https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz) | 3:19 | 2023-09-08 | 2023-12-09 |
@@ -541,6 +544,7 @@
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-03-04 | 2022-04-15 |
 | [Grass Stains](https://open.spotify.com/track/41apFRmVxrzvdQtJErhYFd) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Grass Stains](https://open.spotify.com/album/4uFULh1RHlQH8TfOKhr0GL) | 4:00 | 2021-03-05 | 2022-04-29 |
 | [Graves](https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 3:12 | 2021-09-17 | 2022-04-29 |
+| [Graze](https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Graze](https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64) | 4:24 | 2025-02-07 |  |
 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-30 | 2024-01-05 |
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-09-16 | 2023-06-16 |
 | [green felt](https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [green felt](https://open.spotify.com/album/5EbBAnE0T18sQKoBTLn2jk) | 2:20 | 2021-11-12 | 2022-04-29 |
@@ -822,6 +826,7 @@
 | [Madeline](https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Madeline](https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU) | 3:43 | 2024-06-28 | 2024-09-07 |
 | [Make It Right](https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Make It Right](https://open.spotify.com/album/0v9yjEYZpMSHh7DAtfNwy7) | 2:33 | 2022-03-04 | 2022-04-20 |
 | [making out at the cemetery](https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [making out at the cemetery](https://open.spotify.com/album/4svnzibfqU4IMugrAwPn5s) | 2:30 | 2022-12-02 | 2023-03-04 |
+| [Maladie](https://open.spotify.com/track/3aSKk44Zyuk7sz72MnsTvO) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [Maladie](https://open.spotify.com/album/0MsGhrKqIc8R9tkKUAsGaN) | 3:28 | 2025-02-07 |  |
 | [MANGO](https://open.spotify.com/track/0a5szJBZfMo2ijE68r5oAR) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [MANGO](https://open.spotify.com/album/16xXUwfYa80OKyuLpqD5Pp) | 3:05 | 2021-04-02 | 2022-02-09 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-19 | 2022-03-27 |
 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 | 2024-03-29 | 2024-04-13 |
@@ -1371,6 +1376,7 @@
 | [Walk in the Dark](https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [Meet Me at the Gloaming](https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK) | 4:00 | 2022-10-14 | 2022-12-15 |
 | [Wanna Say](https://open.spotify.com/track/1eGrBNUpkLzFpAJStjlwOo) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Wanna Say](https://open.spotify.com/album/5rKcHgjJmuawXDqH8sMFU2) | 2:58 | 2021-08-27 | 2022-04-20 |
 | [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 | 2024-04-12 | 2024-07-13 |
+| [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-02-07 |  |
 | [Wasted Affairs](https://open.spotify.com/track/3CczWPmaz03mSTr6qnqXnc) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Wasted Affairs](https://open.spotify.com/album/57sbdNZpBOb1g2NrqcJ1CT) | 2:48 | 2022-04-29 | 2022-09-03 |
 | [WASTELAND](https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WASTELAND](https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14) | 3:59 | 2022-09-23 | 2023-02-18 |
 | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 | 2024-08-19 |  |

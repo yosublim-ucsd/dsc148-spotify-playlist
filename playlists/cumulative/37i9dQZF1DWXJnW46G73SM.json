@@ -13591,6 +13591,24 @@
     },
     {
       "album": {
+        "name": "QALBI",
+        "url": "https://open.spotify.com/album/2UbWwXWIlSY90igG0gOq3s"
+      },
+      "artists": [
+        {
+          "name": "Salah Tayr",
+          "url": "https://open.spotify.com/artist/4XSPo8v5n4oGPc7uw1YZS9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Safina",
+      "url": "https://open.spotify.com/track/7GaursQ5AqrRalyP49w9eQ"
+    },
+    {
+      "album": {
         "name": "Saggan",
         "url": "https://open.spotify.com/album/7FqxSipC4DIQ0IA3RgWqxa"
       },

@@ -1453,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Fisher-Price Record Player - Pop",
+        "url": "https://open.spotify.com/album/666IUzXuGmiUtwlq6qqxWo"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88333,
+      "name": "Imagination Animals",
+      "url": "https://open.spotify.com/track/299qNT5sm2V78qPltuXZgr"
+    },
+    {
+      "album": {
         "name": "Away We Go!",
         "url": "https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS"
       },

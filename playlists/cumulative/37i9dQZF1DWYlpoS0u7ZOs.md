@@ -2,9 +2,9 @@
 
 ### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> A new wave of rock music\. Cover: HotWax
+> A new wave of rock music\. Cover: The Pill
 
-473 songs - 1 day 1 hr 55 min
+481 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 | 2024-12-06 |  |
 | [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 | 2024-10-10 |  |
 | [CHUNKS](https://open.spotify.com/track/6uBuSsnkhwnIwBnzGadzkX) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [CHUNKS](https://open.spotify.com/album/2tQEhPnSgXspePYq4eNhQ5) | 2:57 | 2024-12-06 |  |
+| [Circus](https://open.spotify.com/track/5Xinke5CL0UrKNenCaOzHg) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Circus](https://open.spotify.com/album/256A3hMEJMumkN5Z1YwhLa) | 3:39 | 2025-02-07 |  |
 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 | 2024-02-23 | 2024-09-13 |
 | [claws](https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [claws](https://open.spotify.com/album/2ZPsWmEP1LUW9fxuM1bVAV) | 3:24 | 2023-03-17 | 2023-07-22 |
 | [Cold](https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cold](https://open.spotify.com/album/6Xq14tixwMMTX84gTGuyIP) | 4:08 | 2024-06-14 | 2024-08-15 |
@@ -90,6 +91,7 @@
 | [Come On Outside](https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Come On Outside](https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1) | 2:58 | 2024-10-10 |  |
 | [Concrete](https://open.spotify.com/track/3dFZkn6TmBxv1AyuMdKZ3Y) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Better Days](https://open.spotify.com/album/6hfaHD2ncymALJD3g1df2c) | 2:22 | 2024-02-09 | 2024-10-11 |
 | [Cool](https://open.spotify.com/track/61c8JdniIlDW7tJZGoZoMe) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Cool](https://open.spotify.com/album/1iSgUsRxUSl9JTBw6kFS8g) | 3:04 | 2024-06-14 | 2024-12-07 |
+| [Corner Couch](https://open.spotify.com/track/3XV8HbAJko3A4LSg473WGT) | [Kissing on Camera](https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU) | [Corner Couch](https://open.spotify.com/album/7uC7Vqz67I8rVZijsucf7G) | 3:14 | 2025-02-07 |  |
 | [Corruption's Last Victim](https://open.spotify.com/track/1KNRM5ur33sm3wsrZc3GDY) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI) | [Corruption's Last Victim](https://open.spotify.com/album/346o4Y0pk4iBot8NayGjEI) | 2:17 | 2024-01-26 | 2024-04-13 |
 | [Country Life](https://open.spotify.com/track/5Oufn6baCCVbDofy4ScOFL) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Peace of Mind](https://open.spotify.com/album/2Qmk17AdzsXXEcVBP42lW2) | 2:27 | 2023-03-24 | 2024-01-27 |
 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 | 2023-01-13 | 2023-03-25 |
@@ -107,6 +109,7 @@
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-17 | 2024-02-09 |
 | [Dead Poets Society](https://open.spotify.com/track/0tZOLoCGFPHuR2NPbuqHfE) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:43 | 2023-11-18 | 2024-04-26 |
 | [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 | 2023-08-24 | 2023-11-18 |
+| [Dead To Me](https://open.spotify.com/track/3yIl0VnKy4vL2WKvhkSLpF) | [Baby Said](https://open.spotify.com/artist/4Nc9OZQfWhkashN6dDDgXl) | [Dead To me](https://open.spotify.com/album/010x9Ykc4eiSvQZXojdbON) | 2:55 | 2025-02-07 |  |
 | [Dead To Me](https://open.spotify.com/track/3jZ9j6pqDnZKpwuXU2QnKV) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Dead to Me](https://open.spotify.com/album/7ITI3SiDikWH4ivHKBnUkF) | 2:50 | 2024-04-12 | 2024-10-11 |
 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 | 2024-01-26 | 2024-04-13 |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-02-03 | 2023-11-18 |
@@ -131,6 +134,7 @@
 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 | 2023-11-18 |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O) | 3:44 | 2024-02-09 | 2024-04-13 |
 | [Easy](https://open.spotify.com/track/0vTqXQs6CMIMPDKGC7NldB) | [Tung in Cheek](https://open.spotify.com/artist/2vbZVMUMzbJRZHRmYIjith) | [Knockoffs & Dummies](https://open.spotify.com/album/6R58sdlUiciF4uVrCu0Fyy) | 2:42 | 2023-05-18 | 2023-12-21 |
+| [Ecstasy](https://open.spotify.com/track/5TayIUnecRZXMad9O7dCaI) | [Avalanche Party](https://open.spotify.com/artist/2srEewBNMqpGckxpkW8moh) | [Der Traum Uber Alles](https://open.spotify.com/album/4it9DPWAgQDxiV6JClu3ho) | 4:48 | 2025-02-07 |  |
 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 | 2023-04-21 | 2024-02-09 |
 | [escalate](https://open.spotify.com/track/2hBalflQk2epPYW7GwdQb2) | [pieces](https://open.spotify.com/artist/35uZwCzQKuv1zHalrRkikr) | [escalate](https://open.spotify.com/album/3fpsNJU44c7Jp69qvTqpAM) | 3:22 | 2023-05-18 | 2023-10-13 |
 | [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 | 2024-03-15 | 2024-04-13 |
@@ -155,6 +159,7 @@
 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 | 2023-01-13 | 2023-06-09 |
 | [Forever And A Day](https://open.spotify.com/track/3RjpBMgnKiSQO0Hq8yu1FG) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Forever And A Day](https://open.spotify.com/album/780e9vZ082Vpjvf7X0XCDg) | 3:06 | 2023-11-18 | 2024-02-09 |
 | [foreverend](https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ), [Rebekah Kirk](https://open.spotify.com/artist/4sXZl444aSiekh4f2TPCbU), [Sixth Wonder](https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m) | [foreverend](https://open.spotify.com/album/2dkKkirYZB5GXBr52Z08j5) | 3:10 | 2023-05-18 | 2023-10-13 |
+| [Four](https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Four](https://open.spotify.com/album/2rMmBni7bR0pH9wiWVmmBf) | 3:00 | 2025-02-07 |  |
 | [Freakout Handshake](https://open.spotify.com/track/7Iqp6TlGRWErSTngOtKg9y) | [HUSHMONEY](https://open.spotify.com/artist/3uLtOTzzzSEJpuB2oWKExi) | [HUSHMONEY](https://open.spotify.com/album/2K0FWzherK4Z2fU3imeWub) | 3:22 | 2024-06-27 | 2024-12-07 |
 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 | 2023-09-21 | 2023-11-18 |
 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-07-28 | 2023-09-30 |
@@ -183,6 +188,7 @@
 | [Great Grief](https://open.spotify.com/track/56gsIFy0ZHmmD9aP8oyW8Y) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief](https://open.spotify.com/album/06tHEFc4lfNhfJaZLEYHD0) | 4:11 | 2023-01-13 | 2023-01-27 |
 | [Grief In Phantasia](https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Grief In Phantasia](https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu) | 5:07 | 2024-03-15 | 2024-09-13 |
 | [Grinning William](https://open.spotify.com/track/6s55DkhxntRC9G4CXfSzgK) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Grinning William](https://open.spotify.com/album/50XtQHylcHvePeTUYOIlBA) | 2:43 | 2024-12-06 |  |
+| [Guts](https://open.spotify.com/track/2iA98QdD65hF7hL34A91rr) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [Guts](https://open.spotify.com/album/2HBiPJCmBWJo5FdZUvYaIP) | 3:10 | 2025-02-07 |  |
 | [Half Asleep](https://open.spotify.com/track/0Csg9iXImFU0NZWAdtcIPP) | [Phantom Parts](https://open.spotify.com/artist/5tnC2pzQjFB3jvrlgDn8ED) | [Half Asleep](https://open.spotify.com/album/2xg9Y2bh4s0jGsce85Spuk) | 3:27 | 2023-11-18 | 2024-02-09 |
 | [HALLELUJAH KID](https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [HALLELUJAH KID](https://open.spotify.com/album/7dh11jHNxLEQKdvlBZhOR0) | 3:18 | 2023-03-10 | 2023-04-22 |
 | [Happy on Mars](https://open.spotify.com/track/5jgrg6367ewS0BgsP6eIgx) | [Carpark](https://open.spotify.com/artist/6wNKTp1adxnPYP5L3Vja3b) | [Happy on Mars](https://open.spotify.com/album/1y5S6U7FaBA73iGx1EdQQO) | 3:35 | 2024-01-26 | 2024-03-16 |
@@ -289,6 +295,7 @@
 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 | 2023-06-08 | 2023-07-22 |
 | [Modern Heartache](https://open.spotify.com/track/6TLetcb6bwbPLmBI7LPLl5) | [SOAP](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [Modern Heartache](https://open.spotify.com/album/5K9ft5Jgbq3ntOKjBPmnLN) | 3:13 | 2024-04-25 | 2024-05-18 |
 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 | 2023-07-28 | 2024-02-09 |
+| [Money Mullet](https://open.spotify.com/track/386QHAiPVLCFLfukpIECJP) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Money Mullet](https://open.spotify.com/album/3Ab3IkmXiMUF2ESg9GSsI7) | 2:40 | 2025-02-07 |  |
 | [Moral and Consequence](https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Moral and Consequence](https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0) | 8:13 | 2024-09-12 |  |
 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 | 2023-02-17 | 2023-06-09 |
 | [Mother of God](https://open.spotify.com/track/7BgujQxrgPgmEzkpPQI81l) | [Imogen and the Knife](https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY) | [Mother of God](https://open.spotify.com/album/7hRVnMKaiBRMwWkmEjjqaL) | 3:15 | 2024-04-12 | 2024-11-09 |
@@ -414,6 +421,7 @@
 | [The Curb](https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Debris Joice](https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4) | 3:45 | 2024-10-10 |  |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2023-01-13 | 2023-02-03 |
 | [The Fighter](https://open.spotify.com/track/2eD0yvsZSOWtYEUJwRNbD2) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [The Fighter](https://open.spotify.com/album/5f4XgltujdtbwYtr8ei6tr) | 3:13 | 2024-11-08 |  |
+| [The Gun](https://open.spotify.com/track/03KPK2BgVVUXcjP7y4veKO) | [Florentenes](https://open.spotify.com/artist/3ARtFR3uitcSLCVxhnYln0) | [The Gun](https://open.spotify.com/album/1WQKeTzG1Z8KjYWP3K7wQK) | 2:51 | 2025-02-07 |  |
 | [The Hand Lender](https://open.spotify.com/track/50gF43cRPzR5fvwX51cIGC) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [The Hand Lender](https://open.spotify.com/album/7eSgAs7gqOAyN4U8X9lHz1) | 2:49 | 2024-06-14 |  |
 | [The Last Time](https://open.spotify.com/track/756kOtZrHmoLUCPmVE6kCy) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [The Last Time](https://open.spotify.com/album/0u0yVaTbeGJIKM2EGtwnIy) | 3:08 | 2023-01-13 | 2023-02-17 |
 | [The Old School Way](https://open.spotify.com/track/2s03Z86G09dg3K0ogdwcjR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/0cpDwmTqLL5iqiSCofJb1d) | 3:31 | 2023-01-13 | 2023-02-17 |

@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 190833,
       "name": "Anex",
       "url": "https://open.spotify.com/track/5V8SOMlVqsb99wHRVd5IQH"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 251250,
       "name": "BODIES",
       "url": "https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD"
@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 201171,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 218345,
       "name": "Drums",
       "url": "https://open.spotify.com/track/3w4OQNlvVEUUDIEC9DA3jF"
@@ -8845,6 +8845,28 @@
     },
     {
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
+    },
+    {
+      "album": {
         "name": "Out of Step",
         "url": "https://open.spotify.com/album/64LG5maKa3CorgvU9SfLmc"
       },
@@ -11301,6 +11323,24 @@
     },
     {
       "album": {
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/6a3WEKHVT6bRVSWqI1c8jU"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Slayer",
+      "url": "https://open.spotify.com/track/1bjCjA7LLvYfnsF1jhtDfQ"
+    },
+    {
+      "album": {
         "name": "Sleepwalk",
         "url": "https://open.spotify.com/album/2fnNChnTcxYGDOBLM2JnF2"
       },
@@ -11939,6 +11979,32 @@
     },
     {
       "album": {
+        "name": "STOP, GO!",
+        "url": "https://open.spotify.com/album/4PeyXNBMD149gih2mSbXF9"
+      },
+      "artists": [
+        {
+          "name": "SVDKO",
+          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
+        },
+        {
+          "name": "Alowski",
+          "url": "https://open.spotify.com/artist/6wj7QVsLRWPvyD2fGsTKHp"
+        },
+        {
+          "name": "whoisinnocent",
+          "url": "https://open.spotify.com/artist/62lDhUwGW8UrLKmvnUpTHZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "STOP, GO!",
+      "url": "https://open.spotify.com/track/3LwEOBnKHYgx3mDhQSigAP"
+    },
+    {
+      "album": {
         "name": "The Villain's Journey",
         "url": "https://open.spotify.com/album/3Aa3qjAMVEUSlf5h6YwWaF"
       },
@@ -12410,6 +12476,24 @@
       "duration_ms": 176571,
       "name": "TAKEOVER",
       "url": "https://open.spotify.com/track/67WDY2hObxfRUiEv2DnPAd"
+    },
+    {
+      "album": {
+        "name": "Taksim",
+        "url": "https://open.spotify.com/album/2lWq10z2VE1Bw65I6Va59Z"
+      },
+      "artists": [
+        {
+          "name": "GUNS",
+          "url": "https://open.spotify.com/artist/0aPLyRHBlZvPI3X8sEIQWi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Taksim",
+      "url": "https://open.spotify.com/track/3ZO14P3VmBG9gcaQ4iGuMr"
     },
     {
       "album": {

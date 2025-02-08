@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 217500,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/71TRHJxxUIWK0otGFSar5Y"
@@ -1178,6 +1178,28 @@
       "duration_ms": 326000,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/4hEmpzNWp54kvHjB00sUvd"
+    },
+    {
+      "album": {
+        "name": "One Night / One Day EP",
+        "url": "https://open.spotify.com/album/3RBWXnZTawWxnI7X1QuJjD"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        },
+        {
+          "name": "Stephen Geisler",
+          "url": "https://open.spotify.com/artist/3THrINnL7RIKOZY5t38GSk"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1rTBrCvyZr7h20TyfFDikd"
     },
     {
       "album": {

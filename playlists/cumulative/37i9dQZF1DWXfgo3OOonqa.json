@@ -33623,6 +33623,24 @@
     },
     {
       "album": {
+        "name": "VINNARE",
+        "url": "https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "VINNARE",
+      "url": "https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S"
+    },
+    {
+      "album": {
         "name": "FORZA",
         "url": "https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi"
       },

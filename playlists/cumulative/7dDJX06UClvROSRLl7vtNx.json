@@ -9951,6 +9951,24 @@
     },
     {
       "album": {
+        "name": "Not The Only One",
+        "url": "https://open.spotify.com/album/5MOh0lvL0EuY9xoTqpx6rt"
+      },
+      "artists": [
+        {
+          "name": "Planetopia",
+          "url": "https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140937,
+      "name": "Not The Only One",
+      "url": "https://open.spotify.com/track/0bGq9gcGm1jyHUdYqoQtsY"
+    },
+    {
+      "album": {
         "name": "Nothing Compares",
         "url": "https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m"
       },
@@ -14592,6 +14610,24 @@
       "duration_ms": 146400,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/3mYKaKUIceyT9hBJ56X5Kf"
+    },
+    {
+      "album": {
+        "name": "Walking Dreams",
+        "url": "https://open.spotify.com/album/171UjbrUl8ubm23BT31bFU"
+      },
+      "artists": [
+        {
+          "name": "Basp",
+          "url": "https://open.spotify.com/artist/2wSmaGM9LIQzFq1AD9jRv7"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129472,
+      "name": "Walking Dreams",
+      "url": "https://open.spotify.com/track/3OP1tR3ALAIVtgInHifv1C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Ichiko Aoba \(Japan\)
 
-1,736 songs - 4 day 8 hr 59 min
+1,737 songs - 4 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [It Matters Until It Doesn't](https://open.spotify.com/track/6lM6s5WehMZQnUOGA8Jd1a) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/3GvcUP4eprG1QsfvrjoQYs) | 2:35 | 2022-05-19 | 2022-07-08 |
 | [It'll Get Better](https://open.spotify.com/track/6SiRsVQ8ZZoaG5OXmWxOyF) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [Feeling Better?](https://open.spotify.com/album/09WlNwKcj3ABqZZgK41IJX) | 4:20 | 2022-12-02 | 2023-02-24 |
 | [It's you](https://open.spotify.com/track/1eqtn2OHCJoehFkTWxXYJh) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [It's you](https://open.spotify.com/album/20dEr3UIwWLjgcTksjtBJ0) | 5:25 | 2022-06-16 | 2022-08-26 |
+| [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/3pW3RSgLBxQmVXDUgyyHPP) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 | 2025-02-06 |  |
 | [J\-O\-B](https://open.spotify.com/track/4Y04Y4j9y3urznHQOzMuxk) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [J\-O\-B](https://open.spotify.com/album/2QsCvTev6EAZVuxYA5nfi5) | 2:40 | 2023-08-17 | 2023-09-01 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-04-13 | 2023-11-24 |
 | [Jangan Biar](https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN), [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [Jangan Biar](https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz) | 4:18 | 2024-06-27 | 2024-07-12 |

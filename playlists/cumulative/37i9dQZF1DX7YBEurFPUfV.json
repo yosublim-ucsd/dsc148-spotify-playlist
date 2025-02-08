@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 183486,
       "name": "7adhramawt",
       "url": "https://open.spotify.com/track/4LDJlpyPK5NT3DgLGM6TD3"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 175333,
       "name": "Anesto",
       "url": "https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3"
@@ -1048,6 +1048,28 @@
       "duration_ms": 163721,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1TTg8aTqkCxmBuLZrLpRYX"
+    },
+    {
+      "album": {
+        "name": "J\u2019aime Bien Ma Libert\u00e9",
+        "url": "https://open.spotify.com/album/55Y38yJApOU1YiMJsif3xc"
+      },
+      "artists": [
+        {
+          "name": "Tati G13",
+          "url": "https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI"
+        },
+        {
+          "name": "Junior Hassen",
+          "url": "https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "J\u2019aime Bien Ma Libert\u00e9",
+      "url": "https://open.spotify.com/track/0Urri1pxmjOfDEmAbG1EvK"
     },
     {
       "album": {
@@ -2026,6 +2048,24 @@
       "duration_ms": 180072,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/6G5UR76sE94A126vA5cj22"
+      },
+      "artists": [
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186876,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/3QBl9rRztpkwjve94I72NE"
     },
     {
       "album": {

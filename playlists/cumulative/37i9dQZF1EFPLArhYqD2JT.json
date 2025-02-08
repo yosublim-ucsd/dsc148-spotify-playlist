@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/7JFwNkJ6qCfQao5a5DMHKB"
+      },
+      "artists": [
+        {
+          "name": "Guy Lombardo",
+          "url": "https://open.spotify.com/artist/5u5O35ppRJaOpOrU1CeKEW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188706,
+      "name": "I'm Playing With Fire",
+      "url": "https://open.spotify.com/track/71GzQArvzkkMOhMrvJBrlT"
+    },
+    {
+      "album": {
         "name": "The One in the World",
         "url": "https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 213760,
       "name": "I'm Playing With Fire",
       "url": "https://open.spotify.com/track/5qbCyK0TzKPO1jpKfefjDv"

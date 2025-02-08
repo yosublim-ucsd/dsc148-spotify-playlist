@@ -2559,6 +2559,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Asked (with sombr)",
+        "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217578,
+      "name": "All I Ever Asked (with sombr)",
+      "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
+    },
+    {
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
       },
@@ -5914,7 +5936,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
@@ -10570,7 +10592,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 134400,
       "name": "Boy Clothes",
       "url": "https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr"
@@ -26145,6 +26167,24 @@
     },
     {
       "album": {
+        "name": "Fler historier fr\u00e5n m\u00f6rkret",
+        "url": "https://open.spotify.com/album/3GGe3NSTO7FxLJhSXFtexW"
+      },
+      "artists": [
+        {
+          "name": "Friska Viljor",
+          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309609,
+      "name": "Fler historier fr\u00e5n m\u00f6rkret",
+      "url": "https://open.spotify.com/track/3AxQVOhMRsWvVtGPbbEz5I"
+    },
+    {
+      "album": {
         "name": "Flicker of Light",
         "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
       },
@@ -28336,7 +28376,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 178093,
       "name": "Gamlar venjur deyja seint",
       "url": "https://open.spotify.com/track/7Ic40cs2tmv8VlWSRMsFm7"
@@ -47906,6 +47946,24 @@
     {
       "album": {
         "name": "Lucky",
+        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "album": {
+        "name": "Lucky",
         "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
       },
       "artists": [
@@ -48072,7 +48130,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 136013,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/3L3gg3VSHT1iiFQvf8xjp3"
@@ -48942,6 +49000,24 @@
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
     },
     {
       "album": {
@@ -54250,6 +54326,24 @@
       "duration_ms": 202149,
       "name": "No Long Talk",
       "url": "https://open.spotify.com/track/3Q6FkKIJgwwldSIccSe1PW"
+    },
+    {
+      "album": {
+        "name": "No Loss, No Love",
+        "url": "https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd"
     },
     {
       "album": {
@@ -61120,7 +61214,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 247894,
       "name": "Pull Me Up",
       "url": "https://open.spotify.com/track/4g202yCDbwJyVZ3huHJrLY"
@@ -63815,6 +63909,24 @@
     },
     {
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212163,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "album": {
         "name": "A Stranger Desired",
         "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
       },
@@ -64186,6 +64298,24 @@
       "duration_ms": 149976,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1RM6ETOb3uzl59DJUQAQDZ"
+    },
+    {
+      "album": {
+        "name": "Runaways",
+        "url": "https://open.spotify.com/album/5JyFqjJGLHaSElDDuNgd1Q"
+      },
+      "artists": [
+        {
+          "name": "Modern Man",
+          "url": "https://open.spotify.com/artist/7KxRZnHyYLxNPfOxMneKKf"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196016,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/2INWA5gi8dujbWvl2crAVe"
     },
     {
       "album": {
@@ -71568,7 +71698,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 172173,
       "name": "Stj\u00f6rnur sk\u00edna",
       "url": "https://open.spotify.com/track/2qJkSBI6ATRmNpNy1mtXbu"
@@ -79789,6 +79919,24 @@
     },
     {
       "album": {
+        "name": "Hear me, see me",
+        "url": "https://open.spotify.com/album/0ZPM92L33pbfILOp2nEjR2"
+      },
+      "artists": [
+        {
+          "name": "Linnea Awad",
+          "url": "https://open.spotify.com/artist/4ol01UJxFIWX3X1zxExtXU"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "U know",
+      "url": "https://open.spotify.com/track/3kS86aHE3z4zRiNBRybTRC"
+    },
+    {
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -86496,7 +86644,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 290500,
       "name": "You Will Die",
       "url": "https://open.spotify.com/track/3NSbOW3mw16pD5QiRgrfTf"

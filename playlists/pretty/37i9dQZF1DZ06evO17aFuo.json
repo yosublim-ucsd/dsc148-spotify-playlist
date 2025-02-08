@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 296431,
+  "num_followers": 296492,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAAsWSL5so++990Hp+BRLbc3",
+  "snapshot_id": "Z6P7gAAAAABKSDf3P5OUCx6VpiYg4LVf",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Train Of Consequences - Remastered 2004",
-      "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 195826,
       "name": "Skin O' My Teeth - 2004 Remastered",
       "url": "https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Train Of Consequences - Remastered 2004",
+      "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Conquer Or Die",
-      "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 259226,
       "name": "Countdown To Extinction",
       "url": "https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Conquer Or Die",
+      "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-170 songs - 8 hr 20 min
+171 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/track/39uuqD3qzHp5qPRONIrgSe) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB) | 0:49 | 2023-10-03 | 2023-11-23 |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 | 2024-04-07 |
 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 | 2024-11-28 |
-| [Aukhe Saukhe](https://open.spotify.com/track/0JNOGqfKGQ7zbcNhrSfQ6v) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Aukhe Saukhe](https://open.spotify.com/album/3Y6tIiGDHeZTQjGjYzQspr) | 2:19 | 2025-01-06 |  |
+| [Aukhe Saukhe](https://open.spotify.com/track/0JNOGqfKGQ7zbcNhrSfQ6v) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Aukhe Saukhe](https://open.spotify.com/album/3Y6tIiGDHeZTQjGjYzQspr) | 2:19 | 2025-01-06 | 2025-02-08 |
 | [Bad Company](https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [ITS VIBEE](https://open.spotify.com/artist/1UZc3uZyScqHHUTRrzbbVB) | [Bad Company](https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC) | 3:08 | 2024-10-04 | 2024-10-23 |
 | [Badnaam \(From "Badnaam"\)](https://open.spotify.com/track/1tO5Ncd2g5UpFMhjhuV2QC) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Badnaam \(From "Badnaam"\)](https://open.spotify.com/album/7aVYsNPnL4OupDTab0uqek) | 2:43 | 2025-02-05 |  |
 | [Balle Jatta](https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Balle Jatta](https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5) | 3:32 | 2023-07-18 | 2024-07-02 |
@@ -40,6 +40,7 @@
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2023-07-18 | 2025-02-07 |
 | [Brat](https://open.spotify.com/track/5Jugrt4U7Xa0FPw7YvjXWU) | [Heera Kunder](https://open.spotify.com/artist/7ASDFNNpurzlYyrXT9cACh), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs), [Meaow](https://open.spotify.com/artist/7FHbO6Lm0DJbdwPRkp3mqQ) | [Brat](https://open.spotify.com/album/0IxXM1yXTKjECCAlaTxIlY) | 2:58 | 2025-01-22 | 2025-02-04 |
 | [Brats](https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:41 | 2024-11-19 |  |
+| [BTS](https://open.spotify.com/track/38pboK5eem22yXfuh9LMjX) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [had2](https://open.spotify.com/album/4fOZfGC1QIBQz4pAVOXVv7) | 2:43 | 2025-02-07 |  |
 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 | 2024-09-30 | 2024-11-22 |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2023-07-18 | 2024-02-03 |
 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 | 2023-07-18 |  |

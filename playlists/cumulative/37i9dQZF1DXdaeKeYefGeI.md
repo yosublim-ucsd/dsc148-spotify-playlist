@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
-190 songs - 11 hr 40 min
+192 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,13 +45,14 @@
 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2023-02-10 |  |
 | [De Clown](https://open.spotify.com/track/4R0i3XTr6ggZYWG14dVYDX) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [De Singles](https://open.spotify.com/album/4uI1vbFZyvWlw8xCi0QdY1) | 3:48 | 2023-02-10 | 2023-03-18 |
 | [De halve wereld](https://open.spotify.com/track/1FcoAGOdvv956IkeU61508) | [Pieter Derks](https://open.spotify.com/artist/4JwlHUgIACGdCcQ3lPZTJr) | [De halve wereld](https://open.spotify.com/album/3xBYi7bVVeZvFonx2DThMx) | 3:39 | 2023-02-10 | 2023-04-21 |
-| [De Lucht Is Van Iedereen](https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR) | [Judith Agaath](https://open.spotify.com/artist/0ndMUxZdOrcswYg4RbcxWM) | [De Lucht Is Van Iedereen](https://open.spotify.com/album/3VVl5laRKmRBnYmgC33iBP) | 3:40 | 2024-09-12 |  |
+| [De Lucht Is Van Iedereen](https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR) | [Judith Agaath](https://open.spotify.com/artist/0ndMUxZdOrcswYg4RbcxWM) | [De Lucht Is Van Iedereen](https://open.spotify.com/album/3VVl5laRKmRBnYmgC33iBP) | 3:40 | 2024-09-12 | 2025-02-08 |
 | [De Onmogelijke Droom](https://open.spotify.com/track/7AnoFzddDc7yIPVQXHlQDT) | [Huub van der Lubbe](https://open.spotify.com/artist/7qMqhA9SZ3pn72ZBhuQhXv) | [De Onmogelijke Droom](https://open.spotify.com/album/7iIOnP2PMi5EmvblGkPcem) | 2:36 | 2023-12-05 |  |
 | [De Rode Lantaarn](https://open.spotify.com/track/3U0oADxG7q6tz6wL50z8id) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [De Rode Lantaarn](https://open.spotify.com/album/3338PvHA8HekixIqIGbcRD) | 2:55 | 2023-02-10 | 2023-04-21 |
 | [De steen](https://open.spotify.com/track/0C6fXVxj0nPqjkp59RpDjm) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 4:23 | 2023-02-10 |  |
 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 | 2023-05-15 |  |
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-10 |  |
-| [De Wind Draait](https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Beste Zangers 2024 \(Tangarine\)](https://open.spotify.com/album/4yvQHgjHWtaIOwSFRcxb0S) | 3:45 | 2024-10-03 |  |
+| [De Wind Draait](https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Beste Zangers 2024 \(Tangarine\)](https://open.spotify.com/album/4yvQHgjHWtaIOwSFRcxb0S) | 3:45 | 2024-10-03 | 2025-02-08 |
+| [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 | 2025-02-07 |  |
 | [Die ene die](https://open.spotify.com/track/1i7VVvxvIrpdfmwj7nhByz) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Die ene die](https://open.spotify.com/album/5O238Lz2YRykCrTiSol9ki) | 3:28 | 2024-10-10 | 2024-11-08 |
 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 | 2024-04-18 |  |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-10 | 2024-04-19 |
@@ -153,6 +154,7 @@
 | [Samen Zijn](https://open.spotify.com/track/3ZMdjAHgHDihm21VZt5RxB) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Samen Zijn](https://open.spotify.com/album/3y7ncQnFAmLzxu4ukpPPSn) | 4:23 | 2023-02-10 | 2024-04-19 |
 | [Samen Zijn](https://open.spotify.com/track/75Bhe67bl6ndyrlkJ1OpH5) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:24 | 2024-04-18 | 2024-10-11 |
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
+| [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 |  |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
 | [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 | 2024-07-24 |

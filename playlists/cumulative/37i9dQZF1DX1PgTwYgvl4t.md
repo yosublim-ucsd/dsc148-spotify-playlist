@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adonai \(Live\)](https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Adonai \(Live\)](https://open.spotify.com/album/043Bn5dBFA5O0wNTGG7uGm) | 4:41 | 2024-11-15 | 2025-01-10 |
-| [Adun \- Acoustic](https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Adun \(Acoustic\)](https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u) | 5:26 | 2025-02-07 |  |
+| [Adun \- Acoustic](https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Adun \(Acoustic\)](https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u) | 5:26 | 2025-02-07 |  |
 | [Alagbara](https://open.spotify.com/track/1kGcJQPw3Z7rlTYSW3HLLM) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 5:40 | 2024-05-09 |  |
 | [All My Life](https://open.spotify.com/track/2UWV6y2LKiLQdd92zGUDHp) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [All My Life](https://open.spotify.com/album/0ymijpS9vH1roB2dmCVuCQ) | 7:51 | 2024-05-24 |  |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2024-05-09 |  |

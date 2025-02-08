@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25862,
+  "num_followers": 25865,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABh6n0uSb4R3XFMmoeiCw5KHgH4wJ3O",
+  "snapshot_id": "AABh7X1W7ZZd5umgspiDuaJeRd04uMY2",
   "tracks": [
     {
       "added_at": "2025-02-06 14:10:20",
@@ -317,6 +317,118 @@
       "url": "https://open.spotify.com/track/23GtWLxSQItn7kTqC3VzEe"
     },
     {
+      "added_at": "2025-02-07 13:08:34",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2025-02-06 14:10:20",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/54FY3YoLOnoXTnuRZcQ0E5"
+      },
+      "artists": [
+        {
+          "name": "Harmonee",
+          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/2IcJE9s6Si7I1hxkgsYYiu"
+    },
+    {
+      "added_at": "2025-02-07 13:08:34",
+      "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/0Mvf5tRZDtYcdOHHQprS71"
+      },
+      "artists": [
+        {
+          "name": "Vareso",
+          "url": "https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l"
+        }
+      ],
+      "duration_ms": 184454,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/4BwvMzrOHja5ZCEeDqOYij"
+    },
+    {
+      "added_at": "2025-02-07 13:08:34",
+      "album": {
+        "name": "Dancing In The Rain",
+        "url": "https://open.spotify.com/album/5jZDQIJuKbCvMAssjnPhkC"
+      },
+      "artists": [
+        {
+          "name": "Danimal",
+          "url": "https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/6PSdpk4EsC9qF9qmizftiu"
+    },
+    {
+      "added_at": "2025-02-07 13:08:34",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/3o92jowTBXbnwyH7D2RKfz"
+      },
+      "artists": [
+        {
+          "name": "AUSMAX",
+          "url": "https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6ooDoM779eSdVJ2Fr7Dun3"
+    },
+    {
+      "added_at": "2025-02-07 13:08:34",
+      "album": {
+        "name": "Imma Be",
+        "url": "https://open.spotify.com/album/0xxw1BP8ajECnbVHCti0MU"
+      },
+      "artists": [
+        {
+          "name": "The Hoff",
+          "url": "https://open.spotify.com/artist/6UViIxyH0uV38vBaNktzX8"
+        }
+      ],
+      "duration_ms": 155238,
+      "name": "Imma Be",
+      "url": "https://open.spotify.com/track/36qud3uNj961NfkHmt1PGw"
+    },
+    {
+      "added_at": "2025-02-07 13:08:34",
+      "album": {
+        "name": "Time Of Our Lives",
+        "url": "https://open.spotify.com/album/0cy0DUCuHigKlYntWU9kwy"
+      },
+      "artists": [
+        {
+          "name": "Digital Madness",
+          "url": "https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Time Of Our Lives",
+      "url": "https://open.spotify.com/track/57BBNJBNGjTZAO9KUeFHMs"
+    },
+    {
       "added_at": "2025-02-06 14:10:20",
       "album": {
         "name": "Illuminate",
@@ -335,22 +447,6 @@
       "duration_ms": 259510,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/3QH4pPQFOw0OYXq1tVij4c"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/54FY3YoLOnoXTnuRZcQ0E5"
-      },
-      "artists": [
-        {
-          "name": "Harmonee",
-          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/2IcJE9s6Si7I1hxkgsYYiu"
     },
     {
       "added_at": "2025-02-06 14:10:20",
@@ -733,7 +829,7 @@
         }
       ],
       "duration_ms": 168095,
-      "name": "La la",
+      "name": "La La",
       "url": "https://open.spotify.com/track/6P8GfdAgHd3zKQMckbE4ke"
     },
     {

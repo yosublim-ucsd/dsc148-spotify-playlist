@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Damiano David",
-  "num_followers": 9323,
+  "num_followers": 9404,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,22 @@
     {
       "added_at": "2025-02-06 22:00:25",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "added_at": "2025-02-06 22:00:25",
@@ -423,22 +427,18 @@
     {
       "added_at": "2025-02-06 22:00:25",
       "album": {
-        "name": "Fat Juicy & Wet",
-        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 141057,
-      "name": "Fat Juicy & Wet",
-      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2025-02-06 22:00:25",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-02-06 22:00:25",
       "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2025-02-06 22:00:25",
+      "album": {
         "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2025-02-06 22:00:25",
-      "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-02-06 22:00:25",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-02-06 22:00:25",
       "album": {
-        "name": "\u0416\u0438\u0442\u0442\u044f",
-        "url": "https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG"
+        "name": "\u0422\u0438\u0445\u0438\u0439 \u0434\u043e\u0449",
+        "url": "https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci"
       },
       "artists": [
         {
-          "name": "Wellboy",
-          "url": "https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz"
+          "name": "CHEEV",
+          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
         }
       ],
-      "duration_ms": 148200,
-      "name": "\u0416\u0438\u0442\u0442\u044f",
-      "url": "https://open.spotify.com/track/5FM6srcTfyye1n53lGeZil"
+      "duration_ms": 146737,
+      "name": "\u0422\u0438\u0445\u0438\u0439 \u0434\u043e\u0449",
+      "url": "https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ"
     },
     {
       "added_at": "2025-02-06 22:00:25",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-02-06 22:00:25",
       "album": {
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+        "url": "https://open.spotify.com/album/52fvr5WiLVPz9ToXBtC2QV"
+      },
+      "artists": [
+        {
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "url": "https://open.spotify.com/track/0qOzXCWeUPx84YfByQ00xt"
+    },
+    {
+      "added_at": "2025-02-06 22:00:25",
+      "album": {
         "name": "\u041d\u0430\u043a\u043e\u0457\u043b\u0438",
         "url": "https://open.spotify.com/album/24HlefjKeKXhqEDXXlHMdu"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 151541,
       "name": "\u041d\u0430\u043a\u043e\u0457\u043b\u0438",
       "url": "https://open.spotify.com/track/33fH0ZjfdKjqn2htjrxhmM"
-    },
-    {
-      "added_at": "2025-02-06 22:00:25",
-      "album": {
-        "name": "\u0422\u0438\u0445\u0438\u0439 \u0434\u043e\u0449",
-        "url": "https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci"
-      },
-      "artists": [
-        {
-          "name": "CHEEV",
-          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
-        }
-      ],
-      "duration_ms": 146737,
-      "name": "\u0422\u0438\u0445\u0438\u0439 \u0434\u043e\u0449",
-      "url": "https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",

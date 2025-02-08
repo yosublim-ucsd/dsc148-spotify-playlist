@@ -1,13 +1,33 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 33173,
+  "num_followers": 33197,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowpmQAAAAAj97DezwUuZtrh2uGhKTo5",
+  "snapshot_id": "Z6WTbAAAAADw6ezK80JhA9EtmiLJbG8H",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:28",
+      "album": {
+        "name": "Fisher-Price Record Player - Pop",
+        "url": "https://open.spotify.com/album/666IUzXuGmiUtwlq6qqxWo"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 88333,
+      "name": "Imagination Animals",
+      "url": "https://open.spotify.com/track/299qNT5sm2V78qPltuXZgr"
+    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {

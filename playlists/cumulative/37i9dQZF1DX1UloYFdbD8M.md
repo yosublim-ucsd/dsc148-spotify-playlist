@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-268 songs - 17 hr 43 min
+269 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 | 2024-08-28 |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 |  |
 | [Thaaram](https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb) | [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu) | [Thaaram](https://open.spotify.com/album/3Tz4czE10QKNPgyEVBFEl3) | 3:27 | 2024-07-15 |  |
+| [THALATHIRINJO](https://open.spotify.com/track/3sxlzx4XCbCJJZ5NYzzh6A) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [THALATHIRINJO](https://open.spotify.com/album/211XCyr86eRli2gLNRPLhE) | 2:35 | 2025-02-07 |  |
 | [THANIYE](https://open.spotify.com/track/2LiXmrK7gDUSJo5GOzwxMe) | [Jerin C](https://open.spotify.com/artist/2LlWO3c41pLwsWgLid8GNd), [Keysmith](https://open.spotify.com/artist/63cWhrCL1DpDUGZsiavzz0) | [THANIYE](https://open.spotify.com/album/39DrrcfjjYYNeBgujn3cbX) | 3:52 | 2025-01-20 |  |
 | [Thanne](https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Thanne](https://open.spotify.com/album/1mzBxd4WxPHFXRlbsIBIZR) | 2:48 | 2024-08-16 | 2024-09-11 |
 | [The Bacardi Song](https://open.spotify.com/track/6V6Gp9FBvuge8f7IwijFUX) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [The Bacardi Song](https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr) | 3:54 | 2024-02-15 | 2024-05-25 |

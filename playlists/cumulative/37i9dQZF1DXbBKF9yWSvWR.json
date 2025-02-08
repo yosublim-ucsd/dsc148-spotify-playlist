@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All new music with an Indie twist. Cover: Tamino & Mitski",
+  "description": "All new music with an Indie twist. Cover: Mazey Haze",
   "name": "Indie Update",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 181826,
       "name": "7/11",
       "url": "https://open.spotify.com/track/77NPodmclbqJ1uJTZI651s"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "9-5",
+      "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
     },
     {
       "album": {
@@ -543,6 +561,24 @@
     },
     {
       "album": {
+        "name": "blade bird",
+        "url": "https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/74Xm1OCeXU4aTvttarsimr"
       },
@@ -660,7 +696,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 215840,
       "name": "Broken Bottles",
       "url": "https://open.spotify.com/track/2ankNd24u6zEyE0EhN32cS"
@@ -1560,7 +1596,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 259568,
       "name": "Game of Pretend",
       "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
@@ -2322,7 +2358,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -2448,7 +2484,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 319561,
       "name": "Like The End",
       "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
@@ -3179,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/0py4LtIXiSj2JV2RUqGsgM"
+      },
+      "artists": [
+        {
+          "name": "The Feather",
+          "url": "https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/7rxDxv1JMcDCkurMDLW9Ye"
+    },
+    {
+      "album": {
         "name": "One of Us",
         "url": "https://open.spotify.com/album/2whZgGM2nRFzNSaiH9AUle"
       },
@@ -3233,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Our Part of Town",
+        "url": "https://open.spotify.com/album/5cH4Ls7MGVkc1sJrmDEoqX"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187834,
+      "name": "Our Part of Town",
+      "url": "https://open.spotify.com/track/79bfMnQOe8oaqXjZenmcQw"
+    },
+    {
+      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/2ykUyBsX93ruS03b21aZpT"
       },
@@ -3248,6 +3320,32 @@
       "duration_ms": 180919,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/0w041cVb5GvPmrMZG1gJN7"
+    },
+    {
+      "album": {
+        "name": "Pass Through Time",
+        "url": "https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl"
+      },
+      "artists": [
+        {
+          "name": "TJE",
+          "url": "https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb"
+        },
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        },
+        {
+          "name": "The Christian Club",
+          "url": "https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256950,
+      "name": "Pass Through Time",
+      "url": "https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx"
     },
     {
       "album": {
@@ -3396,6 +3494,24 @@
       "duration_ms": 183780,
       "name": "Pinch Me",
       "url": "https://open.spotify.com/track/4zjg3PG8mgaerssPLkP83v"
+    },
+    {
+      "album": {
+        "name": "pitpony",
+        "url": "https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c"
+      },
+      "artists": [
+        {
+          "name": "Second House",
+          "url": "https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156536,
+      "name": "pitpony",
+      "url": "https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc"
     },
     {
       "album": {
@@ -4001,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Stop The Party",
+        "url": "https://open.spotify.com/album/2SdMopCSHVwbtAevQgt90X"
+      },
+      "artists": [
+        {
+          "name": "Zo Lief",
+          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192225,
+      "name": "Stop The Party",
+      "url": "https://open.spotify.com/track/0YGrYTiDlwMtHsZZSq1mYX"
+    },
+    {
+      "album": {
         "name": "Stuff I Don't Need",
         "url": "https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe"
       },
@@ -4298,6 +4432,24 @@
       "duration_ms": 302607,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/35NzTGWNRrfzrCASih3lNt"
+    },
+    {
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "album": {

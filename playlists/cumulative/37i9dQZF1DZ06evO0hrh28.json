@@ -406,6 +406,32 @@
     {
       "album": {
         "name": "El Plan",
+        "url": "https://open.spotify.com/album/0JxHCoRxyFbzLroVHAsAcs"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217951,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/2oEQCtOciINCIQBvCs6yyj"
+    },
+    {
+      "album": {
+        "name": "El Plan",
         "url": "https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql"
       },
       "artists": [

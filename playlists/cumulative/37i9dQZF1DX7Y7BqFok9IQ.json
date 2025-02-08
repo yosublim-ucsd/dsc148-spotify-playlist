@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 172506,
       "name": "Ain't No Stopping Me",
       "url": "https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN"
@@ -92,6 +92,24 @@
       "duration_ms": 192436,
       "name": "Ain't None Watered Down",
       "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
+    },
+    {
+      "album": {
+        "name": "Ain\u2019t Nuthin\u2019s Gonna Be Alright",
+        "url": "https://open.spotify.com/album/2m0rIzXNuuARhhzdRkvnFp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Vivino",
+          "url": "https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "Ain\u2019t Nuthin\u2019s Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2svoL21ZppcmXbeOjqus6z"
     },
     {
       "album": {
@@ -3035,6 +3053,28 @@
     },
     {
       "album": {
+        "name": "Let's Get Together",
+        "url": "https://open.spotify.com/album/79G3AEpniTseURdIS645ww"
+      },
+      "artists": [
+        {
+          "name": "The Fever Dreams",
+          "url": "https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Let's Get Together",
+      "url": "https://open.spotify.com/track/4HETqNVzwib2kYFfukHRys"
+    },
+    {
+      "album": {
         "name": "Lie Lie Lie",
         "url": "https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk"
       },
@@ -3824,7 +3864,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"

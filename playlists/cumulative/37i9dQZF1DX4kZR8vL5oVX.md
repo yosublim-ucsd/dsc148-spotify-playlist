@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Solann \(du titre \#1 au \#15\).
 
-1,434 songs - 3 day 2 hr 53 min
+1,435 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [Ma muse](https://open.spotify.com/track/15289bif39XeHySV6FndDb) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:58 | 2023-11-29 | 2024-08-07 |
 | [Ma sœur](https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Ma sœur](https://open.spotify.com/album/3ZDRqdWiCFIvg7iHIYIIMM) | 3:03 | 2024-01-09 | 2024-02-07 |
 | [Ma sœur](https://open.spotify.com/track/4Jetvfhp8WfXO6t64dgeOM) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 2\)](https://open.spotify.com/album/2C9m59BGKQdNXNy1j59s4H) | 2:58 | 2022-02-01 | 2022-03-08 |
+| [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ma sœur \(Au pays des Merveilles\)](https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k) | 2:51 | 2025-02-07 |  |
 | [Ma Terre](https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Ma Terre](https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN) | 2:54 | 2023-02-28 | 2023-04-05 |
 | [ma vie](https://open.spotify.com/track/2gP0zx2aXlExkcAwMcT6g7) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [ma vie](https://open.spotify.com/album/6VnilxWyGbehZVzPiK2CiQ) | 3:08 | 2022-03-07 | 2022-04-06 |
 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 | 2023-09-05 | 2023-10-04 |
@@ -1374,7 +1375,7 @@
 | [Vanessa](https://open.spotify.com/track/5ERAEk7w7EzY03ETebieBA) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:57 | 2022-07-05 | 2022-08-03 |
 | [Vanité](https://open.spotify.com/track/27R2sErEgaKKKXCsh1cZj1) | [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Vanité](https://open.spotify.com/album/4x5PJs3AoEAFiz0cgAy04Q) | 2:26 | 2023-01-31 | 2023-03-01 |
 | [Varsovie](https://open.spotify.com/track/38iBpIPp9BJMgNcThAhCsV) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [Varsovie](https://open.spotify.com/album/6LS1kGB22Bi1opGNzvA4zr) | 3:00 | 2022-11-08 | 2022-12-01 |
-| [VENDETTA](https://open.spotify.com/track/7AV0BrYMW2e1rtzuyHYe4s) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [VENDETTA](https://open.spotify.com/album/2DMgmdNwczV5ru2A53BjDB) | 3:49 | 2025-02-04 |  |
+| [VENDETTA](https://open.spotify.com/track/7AV0BrYMW2e1rtzuyHYe4s) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [VENDETTA](https://open.spotify.com/album/2DMgmdNwczV5ru2A53BjDB) | 3:49 | 2025-02-04 | 2025-02-08 |
 | [Vendredi](https://open.spotify.com/track/3F5DnCBeQtfpxwgpLsdqvK) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [Vendredi](https://open.spotify.com/album/0uIGI1EYya6OyZUYjzmikH) | 2:34 | 2022-09-06 | 2022-10-05 |
 | [Vent violent](https://open.spotify.com/track/5fCAS2xrElmj3hnSNiGdLS) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/1sYPLYYe3Zzro3qM17o51S) | 2:13 | 2024-01-09 | 2024-02-07 |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-01 | 2024-04-03 |

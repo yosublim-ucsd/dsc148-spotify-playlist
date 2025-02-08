@@ -4,7 +4,7 @@
 
 > Lady Gaga in cover + tutte le migliori uscite della settimana!
 
-3,528 songs - 7 day 10 hr 1 min
+3,530 songs - 7 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,6 +812,7 @@
 | [Demoni \(feat\. 22simba\)](https://open.spotify.com/track/2G9Zx7KBKeZgkpOD9qftq9) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Demoni \(feat\. 22simba\)](https://open.spotify.com/album/5ysro1UFFa2lJKCJ2yDboP) | 2:49 | 2024-07-04 | 2024-07-12 |
 | [DENSO](https://open.spotify.com/track/0njz49mqw1tF0gPLnPSSxY) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [DENSO](https://open.spotify.com/album/1jhoDs2VlvQ03J8lCZRVdn) | 3:39 | 2024-10-24 | 2024-11-01 |
 | [Denti](https://open.spotify.com/track/5F7kCMxBrqnQYjkfD1s0FY) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Denti](https://open.spotify.com/album/2Vvxn4VT3PsU0suocQOOAn) | 2:37 | 2025-02-06 |  |
+| [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 | 2025-02-06 |  |
 | [Deserti](https://open.spotify.com/track/3CBSzPiXRLBexgbiKY9CGE) | [Andreea](https://open.spotify.com/artist/5hoHPh2iO6uIHVqhD4SJzr) | [Deserti](https://open.spotify.com/album/3eQluNfbMRTVakopmmgpwA) | 2:51 | 2024-04-26 | 2024-05-03 |
 | [Desiderare \(feat\. Amalfitano\)](https://open.spotify.com/track/5AtCONazzp70r19WniQG6s) | [Smalto](https://open.spotify.com/artist/1A6hdCftOehH4IiJSuBZE8), [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [Singolare/Plurale](https://open.spotify.com/album/16nqhbsUi94w5zcf5ffyPo) | 3:49 | 2024-11-21 | 2024-11-29 |
 | [DESNUDA](https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [DESNUDA](https://open.spotify.com/album/2lTfLDo6406WLjYUY9nUIM) | 2:54 | 2024-06-20 | 2024-06-28 |
@@ -1568,6 +1569,7 @@
 | [KARMA](https://open.spotify.com/track/3Tk7eEuh7bMDIAdYfSG3tb) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [KARMA](https://open.spotify.com/album/0NciSOteTA2J2Wp8v4jrJl) | 3:21 | 2024-05-02 | 2024-05-10 |
 | [Karnevale di Rio](https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Karnevale di Rio](https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo) | 2:30 | 2024-07-04 | 2024-07-12 |
 | [KASSANDRA](https://open.spotify.com/track/6mP16Mr2X3ZU2bNmWBUqzK) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:03 | 2024-11-21 | 2024-11-29 |
+| [Keep It](https://open.spotify.com/track/2QJ8y7KKrbTlHoLCI69TsQ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Keep It](https://open.spotify.com/album/7HV9vePbQOjxInYeHILjbG) | 2:53 | 2025-02-06 |  |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-11-21 | 2024-11-29 |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2024-12-12 | 2024-12-20 |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-16 | 2025-01-24 |

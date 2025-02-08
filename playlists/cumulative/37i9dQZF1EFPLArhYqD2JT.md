@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-422 songs - 21 hr 28 min
+423 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [I'm Down In Honolulu Looking Them Over](https://open.spotify.com/track/6ovTHiDhNCVvWzrppe5OW1) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Al Jolson & Orchestra](https://open.spotify.com/artist/4kAVYNCuMv0G122gnEnFYR) | [Jolson, Al: Al Jolson, Vol\. 2 \(1916\-1918\)](https://open.spotify.com/album/6iFlGQZv9y6YlAt4MxefnG) | 2:39 | 2024-07-26 |  |
 | [I'm Gonna Pin a Medal on the Girl I Left Behind](https://open.spotify.com/track/6vEtPQUZnpiK1zXOXHEOkH) | [Ryan Muska](https://open.spotify.com/artist/5LeIaDIJrUFG97GnfDDHZ9) | [Chip Deffaa's Say It with Music: The Irving Berlin Saga \(The Cast Album\)](https://open.spotify.com/album/0ZA1yb3FoJSwMNeqXrMjrd) | 2:29 | 2024-07-26 |  |
 | [I'm on My Way Home](https://open.spotify.com/track/49fT4RAozTqDEuM07APKKx) | [Paul Ash and His Orchestra](https://open.spotify.com/artist/4OCTkP2uRFnerjsmI0ldy6) | [Columbia Recordings from 1926](https://open.spotify.com/album/7DPpJ8rAp2u21ika4PrdqW) | 2:58 | 2024-07-26 |  |
-| [I'm Playing With Fire](https://open.spotify.com/track/5qbCyK0TzKPO1jpKfefjDv) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [The One in the World](https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5) | 3:33 | 2024-12-19 |  |
+| [I'm Playing With Fire](https://open.spotify.com/track/71GzQArvzkkMOhMrvJBrlT) | [Guy Lombardo](https://open.spotify.com/artist/5u5O35ppRJaOpOrU1CeKEW) | [16 Most Requested Songs](https://open.spotify.com/album/7JFwNkJ6qCfQao5a5DMHKB) | 3:08 | 2025-02-07 |  |
+| [I'm Playing With Fire](https://open.spotify.com/track/5qbCyK0TzKPO1jpKfefjDv) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [The One in the World](https://open.spotify.com/album/3LGgkqfgSiNQHWgxjYFqq5) | 3:33 | 2024-12-19 | 2025-02-08 |
 | [I'm Playing with Fire](https://open.spotify.com/track/6scyne9fG59Kv31zUe64j2) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [Presenting Rudy Vallee](https://open.spotify.com/album/2BWyfhpVb1mgUR0hZVVPbM) | 3:33 | 2024-07-26 | 2024-12-12 |
 | [I'm Playing With Fire](https://open.spotify.com/track/4dUOJyekEUCsi7zcBin5py) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [The Voice That Had Them Fainting](https://open.spotify.com/album/2lXYaZYaXZxJ03WSpEeFJu) | 3:33 | 2024-12-11 | 2024-12-20 |
 | [I'm Puttin' All My Eggs In One Basket](https://open.spotify.com/track/6wqACd2uBe7E8QDFNGMYpS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:26 | 2024-07-26 | 2024-09-18 |

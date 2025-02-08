@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Adults and children",
+        "url": "https://open.spotify.com/album/7gtknhYftgpWiSLAPCG3KW"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216280,
+      "name": "Adults and children",
+      "url": "https://open.spotify.com/track/79ybYxLTu5TjpIdHcTMr2Y"
+    },
+    {
+      "album": {
         "name": "Retro Night (Live)",
         "url": "https://open.spotify.com/album/50JfuEiHdzI7gliX7Ohru8"
       },
@@ -1358,24 +1376,6 @@
       "duration_ms": 256146,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
-    },
-    {
-      "album": {
-        "name": "\uc5b4\ub978\uc774",
-        "url": "https://open.spotify.com/album/7gtknhYftgpWiSLAPCG3KW"
-      },
-      "artists": [
-        {
-          "name": "BUMJIN",
-          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
-        }
-      ],
-      "date_added": "2024-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216280,
-      "name": "\uc5b4\ub978\uc774",
-      "url": "https://open.spotify.com/track/79ybYxLTu5TjpIdHcTMr2Y"
     },
     {
       "album": {

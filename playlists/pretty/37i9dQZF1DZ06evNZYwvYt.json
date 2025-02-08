@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 18030,
+  "num_followers": 18044,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAADtao4kgibpLRsWgIAx4TJv",
+  "snapshot_id": "Z6P7gAAAAAD170xFv5xfEXwGTUc57gRp",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delicada Violencia",
-        "url": "https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "Yo llorar\u00e9 por ti",
-      "url": "https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 260133,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/4S3Gf4ncQMAas0j90bQtQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delicada Violencia",
+        "url": "https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 230146,
+      "name": "Yo llorar\u00e9 por ti",
+      "url": "https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R"
     },
     {
       "added_at": null,

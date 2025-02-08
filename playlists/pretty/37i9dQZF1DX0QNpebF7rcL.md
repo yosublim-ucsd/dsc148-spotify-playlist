@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Billy F Gibbons
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,696 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,764 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 2 | [Runaway \- Radio Edit](https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Runaway \(Radio Edit\)](https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK) | 3:31 |
 | 3 | [I’m Going Down](https://open.spotify.com/track/0p2gjEwWiiU6N5Xk0HI2xC) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Down](https://open.spotify.com/album/35y6SzyOwEbX19F9TIvf0c) | 5:30 |
 | 4 | [Livin' It Up Down In Texas](https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Livin' It Up Down In Texas](https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE) | 4:45 |
-| 5 | [I've Got Three Problems](https://open.spotify.com/track/61byc1wX7RoVn0m7qwO5PW) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I've Got Three Problems](https://open.spotify.com/album/7gBCnKUHOxEkXxnJJ5c6rt) | 4:16 |
-| 6 | [Trouble Of That Girl](https://open.spotify.com/track/0rQ5Eyy3SsOpYTUVGu7lsH) | [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Trouble Of That Girl](https://open.spotify.com/album/002PpWEcvLyEwuSEgsqYq3) | 3:21 |
-| 7 | [Bad People](https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Bad People](https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1) | 4:20 |
-| 8 | [Grayer Shade Of Blue](https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Grayer Shade Of Blue](https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR) | 5:09 |
-| 9 | [Storm Warning](https://open.spotify.com/track/6NqRsrnO1t4AyaS5LnWgak) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Storm Warning](https://open.spotify.com/album/1Vb8QjQEEzMK7ktoH65ODA) | 4:04 |
-| 10 | [Hittin' On Nothin'](https://open.spotify.com/track/2DrvIeRI23eYzj8CswsTE7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Hittin' On Nothin'](https://open.spotify.com/album/4djsMf1SKWMtRUgipOu5kO) | 2:52 |
-| 11 | [Church Bells \(Little Zion\)](https://open.spotify.com/track/2w9UXeDOvQ82fPs3e6amll) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp), [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church Bells \(Little Zion\)](https://open.spotify.com/album/4jzpt6d7sCcvzoCOSS82be) | 3:58 |
-| 12 | [Cryin' & Pleadin'](https://open.spotify.com/track/4XdLj4w80n8FhI7Sdesayd) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Cryin' & Pleadin'](https://open.spotify.com/album/1ilAJTN0Pv3DIOi4JWMnWu) | 2:55 |
+| 5 | [I Love You, I Need You](https://open.spotify.com/track/53m5ENjvMhRoxzoIesvRyu) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [I Love You, I Need You](https://open.spotify.com/album/1mtVf4jbcps8v9Ii380OEE) | 2:04 |
+| 6 | [I've Got Three Problems](https://open.spotify.com/track/61byc1wX7RoVn0m7qwO5PW) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I've Got Three Problems](https://open.spotify.com/album/7gBCnKUHOxEkXxnJJ5c6rt) | 4:16 |
+| 7 | [Trouble Of That Girl](https://open.spotify.com/track/0rQ5Eyy3SsOpYTUVGu7lsH) | [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Trouble Of That Girl](https://open.spotify.com/album/002PpWEcvLyEwuSEgsqYq3) | 3:21 |
+| 8 | [Bad People](https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Bad People](https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1) | 4:20 |
+| 9 | [Grayer Shade Of Blue](https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Grayer Shade Of Blue](https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR) | 5:09 |
+| 10 | [Storm Warning](https://open.spotify.com/track/6NqRsrnO1t4AyaS5LnWgak) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Storm Warning](https://open.spotify.com/album/1Vb8QjQEEzMK7ktoH65ODA) | 4:04 |
+| 11 | [Hittin' On Nothin'](https://open.spotify.com/track/2DrvIeRI23eYzj8CswsTE7) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Hittin' On Nothin'](https://open.spotify.com/album/4djsMf1SKWMtRUgipOu5kO) | 2:52 |
+| 12 | [Church Bells \(Little Zion\)](https://open.spotify.com/track/2w9UXeDOvQ82fPs3e6amll) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp), [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church Bells \(Little Zion\)](https://open.spotify.com/album/4jzpt6d7sCcvzoCOSS82be) | 3:58 |
 | 13 | [Woke Up And Smelled The Coffee](https://open.spotify.com/track/5PYR64ezPkh2ihfXrKnSlz) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [The Painkillers](https://open.spotify.com/artist/0VLrBA5VA6WfgcoRGQE73V) | [Woke Up And Smelled The Coffee](https://open.spotify.com/album/1ClLyZpNVhJP9G3VOZIQ7G) | 3:05 |
 | 14 | [Who Are These Men](https://open.spotify.com/track/52l5jET3AK3xJnFKYiQVvr) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5), [FunkBuddy Official](https://open.spotify.com/artist/14pptHoet53ND2ZtGRQBcW) | [Who Are These Men](https://open.spotify.com/album/6r1maWifeE8Qa88Ibsqr6l) | 3:28 |
 | 15 | [Son of a Broken Man](https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Son of a Broken Man](https://open.spotify.com/album/5jL3XdYW4DmApDB3EAdm7O) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 |
 | 100 | [Blues All Around](https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Blues All Around](https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq) | 4:08 |
 
-Snapshot ID: `Z5xY/wAAAACcpRADKwp5tlWOZz4AMsFs`
+Snapshot ID: `Z6WTZAAAAADmjc5fyf+8PCARfH27c8gn`

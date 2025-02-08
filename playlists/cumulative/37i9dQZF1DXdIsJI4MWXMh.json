@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 270883,
       "name": "Como Quisiera Poder",
       "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Quisiera",
+        "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
+      },
+      "artists": [
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        },
+        {
+          "name": "Toly Fu",
+          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230542,
+      "name": "C\u00f3mo Quisiera",
+      "url": "https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY"
+    },
+    {
+      "album": {
         "name": "Guarachas Rancheras",
         "url": "https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI"
       },
@@ -608,7 +630,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 752378,
       "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
       "url": "https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV"
@@ -1660,7 +1682,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 254850,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
@@ -2339,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/16xfSSoDDHPQccvkyP3BF1"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303902,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/1bulmqK7DEFoD39t3Oh7Wv"
+    },
+    {
+      "album": {
         "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
       },
@@ -2590,6 +2630,28 @@
       "duration_ms": 258140,
       "name": "Vuelvo a las Cantinas",
       "url": "https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn"
+    },
+    {
+      "album": {
+        "name": "Y SI TE VAS",
+        "url": "https://open.spotify.com/album/7JlQnCT6iFSamTll6m17Pp"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187557,
+      "name": "Y SI TE VAS",
+      "url": "https://open.spotify.com/track/2lns8DjLPHeb8pC5Kz4jB4"
     },
     {
       "album": {

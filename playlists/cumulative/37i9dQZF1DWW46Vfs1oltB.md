@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> OSUN\(오선\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> BLASE, Jay Park, Coogie, oygli\)
 
-1,449 songs - 3 day 6 hr 48 min
+1,450 songs - 3 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 | 2022-02-03 | 2022-07-08 |
 | [Black Rose](https://open.spotify.com/track/2EEp1hfwhP3yvPhZzFCZSw) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [More ROSES](https://open.spotify.com/album/3iXrx5OYr5Wr7wApEE5XlE) | 2:40 | 2023-07-27 | 2024-01-06 |
 | [Black Swan \(Feat\. Leellamarz, DON MALIK\)](https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:01 | 2022-12-20 | 2022-12-28 |
+| [BLASÉOUL\(G6\) \(Ft\. Jay Park, Coogie, oygli\)](https://open.spotify.com/track/3BP0zzLVE0yCVeeowfeLxk) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [BLASÉOUL\(G6\) \(Ft\. Jay Park, Coogie, oygli\)](https://open.spotify.com/album/0sFFdxgbGUR0ZxScNFoxjU) | 3:23 | 2025-02-07 |  |
 | [Bleed \(prod\. dayever\)](https://open.spotify.com/track/59wgGAvqamOjyMvIw9E3uX) | [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9), [Yes Junior 24](https://open.spotify.com/artist/4ps3JPHTs3XJSSmzRqCvKJ) | [Hell Voyage](https://open.spotify.com/album/5IAxKo15mKO6w35XCTYHn2) | 1:55 | 2022-11-01 | 2022-12-10 |
 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 | 2023-05-18 | 2023-06-21 |
 | [Blink \(Feat\. Reddy\) \(Prod\. PATEKO\)](https://open.spotify.com/track/1OAClVF6RGn4WhLf1dPkBD) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:59 | 2022-03-31 | 2022-07-07 |

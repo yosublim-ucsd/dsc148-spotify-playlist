@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFHZvY2t6fRcn\">Trey Campbell</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:0uE0bzpIfuZ9XVduu0byzg\">Caroline Kingsbury</a>",
   "name": "GLOW Songwriters",
   "tracks": [
+    {
+      "album": {
+        "name": "Hero of Your Heart",
+        "url": "https://open.spotify.com/album/2oVAm3PN2opjSmTVQayA5m"
+      },
+      "artists": [
+        {
+          "name": "Julianna Zachariou",
+          "url": "https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198530,
+      "name": "(S)he",
+      "url": "https://open.spotify.com/track/3k74XuFZsSQK1i07rdE8uk"
+    },
     {
       "album": {
         "name": "2 SEXY GUYS",
@@ -42,7 +60,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 248360,
       "name": "A 1000 Times",
       "url": "https://open.spotify.com/track/2SiWdRwjHM3jTONnsusdWa"
@@ -71,6 +89,24 @@
     },
     {
       "album": {
+        "name": "About Fashion",
+        "url": "https://open.spotify.com/album/1x6gBhygR9iBuTxlLIpVvY"
+      },
+      "artists": [
+        {
+          "name": "Mel 4Ever",
+          "url": "https://open.spotify.com/artist/7e34iWed5vSXh7wAoejlOJ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175861,
+      "name": "About Fashion",
+      "url": "https://open.spotify.com/track/6WrdaPu1RUzjeiJLfrgcCt"
+    },
+    {
+      "album": {
         "name": "Songs For Women, Free Game For Niggas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY"
       },
@@ -86,6 +122,24 @@
       "duration_ms": 181911,
       "name": "Alone",
       "url": "https://open.spotify.com/track/678hBD7LlMNofbRYXGwt7E"
+    },
+    {
+      "album": {
+        "name": "I DREAMT I FOUND A RED RUBY",
+        "url": "https://open.spotify.com/album/5AQYBPDC2E8RK4FC0tbdzJ"
+      },
+      "artists": [
+        {
+          "name": "Francesca Wexler",
+          "url": "https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139931,
+      "name": "AMPHETAMINE MAN",
+      "url": "https://open.spotify.com/track/2T029gG9XDjsoHtyRnY7dQ"
     },
     {
       "album": {
@@ -620,7 +674,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 180000,
       "name": "free ride",
       "url": "https://open.spotify.com/track/6SQZ8ztei7Z7T1Q6vfS4RT"
@@ -754,10 +808,28 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 161000,
       "name": "I Don't Wanna Hear Anything Is Wrong",
       "url": "https://open.spotify.com/track/4fHsZtCBC2QsETMLxlm0ki"
+    },
+    {
+      "album": {
+        "name": "i'm just a grrrl",
+        "url": "https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F"
+      },
+      "artists": [
+        {
+          "name": "Sizzy Rocket",
+          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "i'm just a grrrl",
+      "url": "https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc"
     },
     {
       "album": {
@@ -808,7 +880,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 198577,
       "name": "Little Fires",
       "url": "https://open.spotify.com/track/5DqueuZvSp6DQGg855Eez4"
@@ -880,7 +952,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 199786,
       "name": "Mother",
       "url": "https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq"
@@ -1010,7 +1082,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 207894,
       "name": "Only Lonely",
       "url": "https://open.spotify.com/track/310QXrjCNF3IAzquz1lS40"
@@ -1125,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Safe & Holy",
+        "url": "https://open.spotify.com/album/7KE9yecpVvacSNKH4cEw30"
+      },
+      "artists": [
+        {
+          "name": "JASPER",
+          "url": "https://open.spotify.com/artist/4ll7heZi22zVphyIrZ2zU8"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Safe & Holy",
+      "url": "https://open.spotify.com/track/1WDpPOQUQFPFtGpZX5Qnrs"
+    },
+    {
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
@@ -1216,6 +1306,24 @@
       "duration_ms": 222798,
       "name": "Sun Goes Down - Edit",
       "url": "https://open.spotify.com/track/4o3fupxrJRng5gol1Fe5cZ"
+    },
+    {
+      "album": {
+        "name": "Take My Phone Away (Remixes)",
+        "url": "https://open.spotify.com/album/1yOClHJ4wbIE7HJd9ikrTR"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Take My Phone Away",
+      "url": "https://open.spotify.com/track/1jNZJUUMxhk6lgXqpDx0U0"
     },
     {
       "album": {

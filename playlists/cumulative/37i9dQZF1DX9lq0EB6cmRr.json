@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 229098,
       "name": "Aguas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "Ravel: The Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408960,
+      "name": "Miroirs, M. 43: III. Une barque sur l'oc\u00e9an",
+      "url": "https://open.spotify.com/track/7tqqjaAAS8K1Stnz5EpGVl"
+    },
+    {
+      "album": {
         "name": "The Forestella",
         "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
       },
@@ -2296,7 +2318,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 188733,
       "name": "Rondo in B Minor, D. 895, op. 71 - I. Andante",
       "url": "https://open.spotify.com/track/2iN2EXB7WVl8ZEPi9sVDB0"
@@ -2530,7 +2552,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 280333,
       "name": "Sonatine, M. 40: I. Mod\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/4BkANQwjj7buotJeAXS0c7"

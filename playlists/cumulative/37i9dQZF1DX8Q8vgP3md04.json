@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/7tBDzvxhtXBJ6e7ZPq1rVq"
+      },
+      "artists": [
+        {
+          "name": "Yohana",
+          "url": "https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG"
+        },
+        {
+          "name": "Salemia",
+          "url": "https://open.spotify.com/artist/6zdmJdwFeYz8EVqDoE3uWX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Endih New",
+      "url": "https://open.spotify.com/track/0lDT7fv4lMLLhX7aNVC8bX"
+    },
+    {
+      "album": {
         "name": "Eregnaye",
         "url": "https://open.spotify.com/album/4bb71Vk2GN2UM3gb2hR2DI"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 373640,
       "name": "Konjo Bager",
       "url": "https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 291543,
       "name": "Qal",
       "url": "https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349"
@@ -2164,6 +2186,28 @@
       "duration_ms": 304000,
       "name": "Yemegemeriyaye",
       "url": "https://open.spotify.com/track/71DGTsCqCWt63Rb6KZ4mUL"
+    },
+    {
+      "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/7tBDzvxhtXBJ6e7ZPq1rVq"
+      },
+      "artists": [
+        {
+          "name": "Yohana",
+          "url": "https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG"
+        },
+        {
+          "name": "Samvod",
+          "url": "https://open.spotify.com/artist/7hLBVxTd4lQciRoFkkdbZp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189116,
+      "name": "Yitalesh",
+      "url": "https://open.spotify.com/track/3N00rteUkITpBQVJiiCxef"
     },
     {
       "album": {

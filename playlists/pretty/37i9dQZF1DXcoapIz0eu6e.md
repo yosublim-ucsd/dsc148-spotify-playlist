@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 
 > The world is a stage\. Listen to the music from Joker and Joker: Folie à Deux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,803 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,813 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoapIz0eu6e.md) - [plain]
 | 51 | [Everybody Plays the Fool](https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Everybody Plays The Fool: The Best Of The Main Ingredient](https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K) | 3:22 |
 | 52 | [If You're Happy and You Know It \(From Joker\)](https://open.spotify.com/track/7oYypal5yR2D9yhnVUyS19) | [Chaim Tenenbaum](https://open.spotify.com/artist/4e7xnFRhmMLvMFbSOJi2wX) | [Live! with Murray Franklin \(Songs from the Joker Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0X4fQ9itNBx5BLHd6YV24u) | 1:23 |
 | 53 | [Slap That Bass](https://open.spotify.com/track/1oYbqlkhiGnDUKmxtybAHX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR) | 2:54 |
-| 54 | [My Name Is Carnival](https://open.spotify.com/track/2UU2WI5Wy0BBEBUoihBzaJ) | [Jackson C\. Frank](https://open.spotify.com/artist/5TNmizItgJPfvCoPKXAMGz) | [Jackson C\. Frank \(2001 \- Remaster\)](https://open.spotify.com/album/4B0pPCOg2eA5xjBR3ghYFC) | 3:44 |
+| 54 | [My Name Is Carnival \- 2001 Remaster](https://open.spotify.com/track/2UU2WI5Wy0BBEBUoihBzaJ) | [Jackson C\. Frank](https://open.spotify.com/artist/5TNmizItgJPfvCoPKXAMGz) | [Jackson C\. Frank \(2001 Remaster\)](https://open.spotify.com/album/4B0pPCOg2eA5xjBR3ghYFC) | 3:44 |
 | 55 | [Rooftop](https://open.spotify.com/track/25oLGIxi2CfQ1I0NQLkwe2) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 2:07 |
 | 56 | [The Moon Is a Silver Dollar](https://open.spotify.com/track/3EnM6F658QZgWdIcxfEnWw) | [Lawrence Welk](https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8) | [The World's Finest Music](https://open.spotify.com/album/49chd9CpYkrqAUpJDeUXII) | 2:30 |
 | 57 | [Temptation Rag](https://open.spotify.com/track/5dSayG6yo6erxGYIiZPEhN) | [Claude Bolling](https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb) | [Original Ragtime](https://open.spotify.com/album/5FySxwKiaVp9QkdP2fGQTm) | 2:50 |

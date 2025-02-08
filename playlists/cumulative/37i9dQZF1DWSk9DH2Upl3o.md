@@ -4,13 +4,13 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-214 songs - 19 hr 44 min
+215 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aba Bagulya](https://open.spotify.com/track/0B7qukFPnTbVyPfypiHJ2X) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Anything](https://open.spotify.com/album/4kVpCP7DgPreQRptRKCSlk) | 3:58 | 2023-07-14 |  |
 | [Al's Anti\-Gravity Machine](https://open.spotify.com/track/4Jg2oiJRQuzEcSpKqLxYvR) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Al's Anti\-Gravity Machine](https://open.spotify.com/album/0TN1UurxGH43ylMYPM75go) | 4:27 | 2023-06-23 |  |
-| [All I Need](https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [All I Need](https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os) | 6:41 | 2022-06-23 |  |
+| [All I Need](https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [All I Need](https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os) | 6:41 | 2022-06-23 | 2025-02-08 |
 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 | 2022-06-23 | 2024-04-19 |
 | [Alright Tonight](https://open.spotify.com/track/4fTRP31lxI5Ab0QXFu429W) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Alright Tonight](https://open.spotify.com/album/1VpmCbGbgKh6CS5sJ4uq7H) | 6:26 | 2023-10-27 | 2024-03-02 |
 | [Another Plan of Attack](https://open.spotify.com/track/5u9PNSeBMU7oavllA0MCmi) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Revolution in Motion, Pt\. 1](https://open.spotify.com/album/70XcBPhdlwEFfMfDmfdUMO) | 6:33 | 2023-01-13 | 2024-04-01 |
@@ -126,6 +126,7 @@
 | [Love Time](https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Love Time](https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD) | 4:19 | 2024-03-01 | 2024-07-27 |
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 | 2024-04-19 |  |
+| [Mamacita](https://open.spotify.com/track/2JMaOgTxoHn8zqpBYmy7FO) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Mamacita](https://open.spotify.com/album/5ipPpwKIN4P0Pi7lEJ2rF4) | 4:08 | 2025-02-07 |  |
 | [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 | 2024-07-19 |  |
 | [Marijuana Timewarp](https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Marijuana Timewarp](https://open.spotify.com/album/1TsvZiKqeIVfFZ0v27QydR) | 3:14 | 2024-07-26 | 2024-08-31 |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |

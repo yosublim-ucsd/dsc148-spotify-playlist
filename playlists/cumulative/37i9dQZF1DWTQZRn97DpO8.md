@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : aupinard
 
-277 songs - 13 hr 41 min
+278 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [IL NE RESTE RIEN](https://open.spotify.com/track/7cVEIuWVPczsqgzLUHqrxX) | [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG) | [IL NE RESTE RIEN](https://open.spotify.com/album/0m8FFcTojtd08CI6Ui2e2V) | 2:08 | 2024-04-25 | 2024-06-01 |
 | [IN YOUR EYES](https://open.spotify.com/track/6tuIekiRS3sTmjraB4EI2y) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [NP2 \(DELUXE\)](https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs) | 3:14 | 2025-01-09 |  |
 | [Incompris](https://open.spotify.com/track/1uD6NA6JPrzPY2PSZm0XZO) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin](https://open.spotify.com/album/5ya3DUeWCWz2gtftAC3tLH) | 2:56 | 2024-03-28 | 2024-11-08 |
+| [Instable](https://open.spotify.com/track/6sax4loTjkdYSCxpFHkmo5) | [Will River](https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9) | [Instable](https://open.spotify.com/album/5icje3HSoFgSiMcqndAhIe) | 2:49 | 2025-02-06 |  |
 | [J'achète ça](https://open.spotify.com/track/0HxQNxcKHotTLxOq8YSwhH) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d), [Nadjee](https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK), [Serenity Haes](https://open.spotify.com/artist/5mkiRDKsIg1f65xpo8LaKB) | [J'achète ça](https://open.spotify.com/album/1w4OAYC5ux28WTXEbvmZHq) | 2:52 | 2024-12-05 | 2025-01-24 |
 | [J'ai besoin](https://open.spotify.com/track/3wTpzExItAtgXSMop0iXTO) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q), [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Avant que tout soit beau](https://open.spotify.com/album/2rMxGQNNLGjUcKIuMYeCwO) | 3:33 | 2024-12-19 |  |
 | [J'ai voulu](https://open.spotify.com/track/6AaotUGcQSPfdkGbgNcP3Y) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [HIGH SCHOOL \(Réédition\)](https://open.spotify.com/album/3OPPPqo5gekMagH8KLjxQT) | 2:38 | 2024-12-19 |  |

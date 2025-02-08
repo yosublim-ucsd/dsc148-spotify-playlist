@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197830,
       "name": "BEIBY - Remix",
       "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
@@ -10871,6 +10871,24 @@
     },
     {
       "album": {
+        "name": "Hola mami (Directo)",
+        "url": "https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220827,
+      "name": "Hola mami",
+      "url": "https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C"
+    },
+    {
+      "album": {
         "name": "HOMBRE NO ES GENTE",
         "url": "https://open.spotify.com/album/3TNpcgRiVpw1XwskH8PnI8"
       },
@@ -13786,7 +13804,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 190773,
       "name": "Maldito Reggaeton",
       "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
@@ -17444,7 +17462,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 132244,
       "name": "Ojos Shanghai",
       "url": "https://open.spotify.com/track/5r2fuhiTuIcQVCA2W12jHm"
@@ -18402,6 +18420,40 @@
       "duration_ms": 164401,
       "name": "PA\u00b4 LAS JOYAS",
       "url": "https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L"
+    },
+    {
+      "album": {
+        "name": "PDP (Pa' Darte Perreo) [feat. Sergio Acosta, Mauro Dembow]",
+        "url": "https://open.spotify.com/album/6eXYXCrgsje41E05PFFgtQ"
+      },
+      "artists": [
+        {
+          "name": "SAI",
+          "url": "https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Mauro Dembow",
+          "url": "https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD"
+        },
+        {
+          "name": "Sergio Acosta",
+          "url": "https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "PDP (Pa' Darte Perreo) [feat. Sergio Acosta, Mauro Dembow]",
+      "url": "https://open.spotify.com/track/25SsznrF6Qx3njnrra3QH4"
     },
     {
       "album": {
@@ -24300,6 +24352,28 @@
       "duration_ms": 213480,
       "name": "Un Zippy",
       "url": "https://open.spotify.com/track/0sIcCQxN1yOUSXyRZ1FPGY"
+    },
+    {
+      "album": {
+        "name": "Una Gata",
+        "url": "https://open.spotify.com/album/6zAY0QP94a1dflSgyki4QY"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143595,
+      "name": "Una Gata",
+      "url": "https://open.spotify.com/track/5W5BtLhse1zGw7tIS1ZIT4"
     },
     {
       "album": {

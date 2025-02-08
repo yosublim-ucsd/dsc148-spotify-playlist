@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind.
 
-105 songs - 5 hr 59 min
+106 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 |  |
 | [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 | 2025-01-23 |  |
 | [I'm Here](https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [I'm Here](https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6) | 3:25 | 2024-03-08 | 2024-05-17 |
+| [If You Don't Know](https://open.spotify.com/track/1KWUfVKdBzUY3NAnfGHbRZ) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Nairobi in Love](https://open.spotify.com/album/7f1gWklPYCMk7yotmrn21y) | 3:20 | 2025-02-07 |  |
 | [Impilo Yami](https://open.spotify.com/track/2zgjDvC4btrPBHBg1w4QqM) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 3:32 | 2022-11-11 | 2024-04-20 |
 | [IN THE RAIN](https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:40 | 2022-11-11 |  |
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-02-01 |  |
@@ -53,7 +54,7 @@
 | [Kitanda Baridi](https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI) | 2:56 | 2024-02-23 | 2024-04-19 |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-11-11 | 2023-04-17 |
 | [Less](https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [More / Less](https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g) | 1:25 | 2022-11-11 | 2024-03-29 |
-| [Let Me Lose My Mind In Peace](https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 3:02 | 2022-11-11 |  |
+| [Let Me Lose My Mind In Peace](https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 3:02 | 2022-11-11 | 2025-02-08 |
 | [Like You](https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Wuodh Hera](https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U) | 3:43 | 2022-11-11 | 2025-01-24 |
 | [Lock me](https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Lock me](https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL) | 2:56 | 2022-11-11 | 2024-10-12 |
 | [Love Letters](https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 2:38 | 2023-10-20 |  |

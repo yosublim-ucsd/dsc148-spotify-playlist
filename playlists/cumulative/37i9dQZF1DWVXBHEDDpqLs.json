@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "A Healthy Fear",
+        "url": "https://open.spotify.com/album/2joLUoXXm54sqzytmvsr2x"
+      },
+      "artists": [
+        {
+          "name": "Destrata",
+          "url": "https://open.spotify.com/artist/76OnM8y64osFXktcM9g1m1"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325886,
+      "name": "A Healthy Fear",
+      "url": "https://open.spotify.com/track/3B68wREF857zEkff5VXnRB"
+    },
+    {
+      "album": {
         "name": "Abspace",
         "url": "https://open.spotify.com/album/71JYrDFOe3fk3AJ0bHHoCW"
       },
@@ -396,7 +414,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 227103,
       "name": "ah a\u0363h\u036a a\u0363h\u036ah\u036ah\u036ah\u036a - Club Nowadays, Vol. 4",
       "url": "https://open.spotify.com/track/01CR2L7Ov1QjRgO51DOWgv"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 209142,
       "name": "Break Your Mind",
       "url": "https://open.spotify.com/track/0NN8tWD32XU8ilwxRDFejb"
@@ -2751,6 +2769,28 @@
     },
     {
       "album": {
+        "name": "Dusted",
+        "url": "https://open.spotify.com/album/76AiAMrcIHWRjK8kgNVy0Z"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        },
+        {
+          "name": "Leonce",
+          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194998,
+      "name": "Dusted",
+      "url": "https://open.spotify.com/track/7pcGzNF6WLZRvSMpBwF5Ww"
+    },
+    {
+      "album": {
         "name": "Earnest Binary",
         "url": "https://open.spotify.com/album/6hV13F7pRbFqP0igKhjPHr"
       },
@@ -2820,7 +2860,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 240757,
       "name": "El Infierno",
       "url": "https://open.spotify.com/track/0op3YAp1GePhq1sqEXNFLs"
@@ -5010,7 +5050,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 291203,
       "name": "Ipso",
       "url": "https://open.spotify.com/track/6zrlKYbCkm1p4aUowIuC4g"
@@ -5568,6 +5608,24 @@
       "duration_ms": 312888,
       "name": "Life Of Crime",
       "url": "https://open.spotify.com/track/1sicnDMeGdQndgXlKOKN1I"
+    },
+    {
+      "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/4yZq54Y3CK7zA694a107S4"
+      },
+      "artists": [
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286156,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/7DXsEXa2BjONNB6yKhz2Zb"
     },
     {
       "album": {
@@ -8820,6 +8878,24 @@
       "duration_ms": 355419,
       "name": "The Beat",
       "url": "https://open.spotify.com/track/0XWsx1rTJqE6VG7pqr6CNf"
+    },
+    {
+      "album": {
+        "name": "The Beat Don't Stop",
+        "url": "https://open.spotify.com/album/23JW4WNXEHFyI0QRxEJ8ly"
+      },
+      "artists": [
+        {
+          "name": "Golan",
+          "url": "https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219448,
+      "name": "The Beat Don't Stop",
+      "url": "https://open.spotify.com/track/03uyrT2EvqLUZu3Fb0zU5E"
     },
     {
       "album": {

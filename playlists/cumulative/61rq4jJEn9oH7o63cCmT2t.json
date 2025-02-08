@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Beat the Champ",
+        "url": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358253,
+      "name": "Heel Turn 2",
+      "url": "https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b"
+    },
+    {
+      "album": {
         "name": "Big Dumb Idiot",
         "url": "https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp"
       },

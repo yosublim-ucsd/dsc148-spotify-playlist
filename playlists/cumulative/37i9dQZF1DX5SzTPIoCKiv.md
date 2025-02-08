@@ -2,9 +2,9 @@
 
 ### [Christian Hits](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
-> Recent hits from your favorite Christian Contemporary artists\.  Cover: Tauren Wells
+> Recent hits from your favorite Christian Contemporary artists\.  Cover: CeCe Winans
 
-269 songs - 17 hr 38 min
+271 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 | 2021-10-15 | 2024-06-22 |
 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 | 2021-10-15 | 2024-11-30 |
 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 | 2021-10-15 | 2024-06-22 |
+| [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 | 2025-02-07 |  |
 | [Haven't Seen It Yet](https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:04 | 2021-10-15 | 2024-06-22 |
 | [He Believes In You](https://open.spotify.com/track/4aSEMyeOX4bORHIRToPcy0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [He Believes In You](https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD) | 4:01 | 2021-10-15 | 2022-07-29 |
 | [He Is](https://open.spotify.com/track/2uO3Ldx1HaCiimUkJwAf6c) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [He Is](https://open.spotify.com/album/2pDAo6chBiSVFYWQhee9ry) | 3:45 | 2021-10-15 | 2022-07-29 |
@@ -238,6 +239,7 @@
 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 | 2021-10-15 | 2024-04-19 |
 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 | 2024-06-21 |  |
 | [Tell Me How](https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Tell Me How](https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw) | 3:03 | 2024-11-29 |  |
+| [That's My King](https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:11 | 2025-02-07 |  |
 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 | 2024-11-29 |  |
 | [The 99](https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [I LOVE JESUS](https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe) | 3:21 | 2024-11-29 |  |
 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 | 2021-10-15 |  |

@@ -1,13 +1,33 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 149349,
+  "num_followers": 149470,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5yQUgAAAACgsCmTcCyvzd344NnJcy0Y",
+  "snapshot_id": "Z6W5NgAAAACrPzAnE0/2j6arls2GKQpC",
   "tracks": [
+    {
+      "added_at": "2025-02-07 07:41:42",
+      "album": {
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        }
+      ],
+      "duration_ms": 108750,
+      "name": "FAIRYTALES IN MIDTOWN (with TyFontaine)",
+      "url": "https://open.spotify.com/track/57h517zwkQm1dXmxEYQe3d"
+    },
     {
       "added_at": "2025-01-24 08:04:06",
       "album": {
@@ -97,22 +117,6 @@
       "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
     },
     {
-      "added_at": "2024-12-20 06:18:13",
-      "album": {
-        "name": "FOCUS ON ME",
-        "url": "https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "FOCUS ON ME",
-      "url": "https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3"
-    },
-    {
       "added_at": "2024-11-15 06:04:49",
       "album": {
         "name": "Lustropolis",
@@ -143,6 +147,22 @@
       "duration_ms": 169914,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g"
+    },
+    {
+      "added_at": "2025-02-07 07:41:42",
+      "album": {
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 184221,
+      "name": "WANT U",
+      "url": "https://open.spotify.com/track/7nXstVnAdMKNqPmspkEbXM"
     },
     {
       "added_at": "2024-12-06 06:36:31",
@@ -259,6 +279,22 @@
       "duration_ms": 163657,
       "name": "body2body",
       "url": "https://open.spotify.com/track/7fF0vAuRH2Pt1LsllMGtaf"
+    },
+    {
+      "added_at": "2025-02-07 07:41:42",
+      "album": {
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "FOCUS ON ME",
+      "url": "https://open.spotify.com/track/0L5LVmGVowzOHxXg3mm238"
     },
     {
       "added_at": "2025-01-17 04:00:17",
@@ -573,10 +609,10 @@
       "url": "https://open.spotify.com/track/15YcOL6ddhowfTU165l46C"
     },
     {
-      "added_at": "2024-09-27 02:20:53",
+      "added_at": "2025-02-07 07:41:42",
       "album": {
-        "name": "LIMERENCE",
-        "url": "https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2"
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
       },
       "artists": [
         {
@@ -584,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         }
       ],
-      "duration_ms": 146735,
+      "duration_ms": 147032,
       "name": "LIMERENCE",
-      "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
+      "url": "https://open.spotify.com/track/02skFFJWMFRVlv1ddhENZz"
     },
     {
       "added_at": "2024-11-01 04:00:00",

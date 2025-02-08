@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Myke Towers & Pirlo",
+  "description": "The best of Latin Trap. Cover: Myke Towers",
   "name": "Trap Land",
   "tracks": [
     {
@@ -940,6 +940,24 @@
       "duration_ms": 213333,
       "name": "AP",
       "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
+    },
+    {
+      "album": {
+        "name": "Aprov\u00e9chalo",
+        "url": "https://open.spotify.com/album/4lWelHFq0cbDvmwXnm7nE1"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141633,
+      "name": "Aprov\u00e9chalo",
+      "url": "https://open.spotify.com/track/2lEM3KOBq8YVchdY2SvNzn"
     },
     {
       "album": {
@@ -2203,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Chulx",
+        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Chulx",
+      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
+    },
+    {
+      "album": {
         "name": "CLIMA (with Foreign Teck)",
         "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
       },
@@ -2744,7 +2784,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179611,
       "name": "DE REPENTE",
       "url": "https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h"
@@ -2810,7 +2850,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 178064,
       "name": "DESCIFRANDO",
       "url": "https://open.spotify.com/track/2yYtA67wrXh97ClKRKn0Gp"
@@ -3834,7 +3874,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157511,
       "name": "ESTRELLAS",
       "url": "https://open.spotify.com/track/6Lzc35RPYQJqlB3XHLbUIq"
@@ -6206,7 +6246,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145714,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
@@ -6524,6 +6564,28 @@
       "duration_ms": 88158,
       "name": "Missionsuicida",
       "url": "https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA"
+    },
+    {
+      "album": {
+        "name": "MJM",
+        "url": "https://open.spotify.com/album/75RvZzgUh99Gr3Ihi18TEp"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168394,
+      "name": "MJM",
+      "url": "https://open.spotify.com/track/1unQBsx7P9S8saXJtDtOnz"
     },
     {
       "album": {
@@ -8651,6 +8713,28 @@
     },
     {
       "album": {
+        "name": "LYKE MIIKE (DELUXE)",
+        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238144,
+      "name": "SKYDWELLER (feat. CDobleta)",
+      "url": "https://open.spotify.com/track/2GfjE4hyHC5fpuqZvyzrNP"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/2fthPuOBEpenbqKMvCyIAw"
       },
@@ -8736,7 +8820,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 208240,
       "name": "SORNERO",
       "url": "https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk"
@@ -9144,6 +9228,28 @@
       "duration_ms": 284783,
       "name": "Toki",
       "url": "https://open.spotify.com/track/3is7Ej9fnZLhJD9pNOy4cI"
+    },
+    {
+      "album": {
+        "name": "Tokicha",
+        "url": "https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe"
+      },
+      "artists": [
+        {
+          "name": "J Castle",
+          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Tokicha",
+      "url": "https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp"
     },
     {
       "album": {

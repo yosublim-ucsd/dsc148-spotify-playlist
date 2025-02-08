@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marc Dupr\u00e9",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/1OV6TDTQOfIqR0rfFx9s4p"
+      },
+      "artists": [
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162100,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4j12U6gGJEFTubkBPGU95l"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 254696,
       "name": "Comme la mer",
       "url": "https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 207440,
       "name": "NOIR SUR NOIR",
       "url": "https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z"
@@ -1747,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Punch-Out",
+        "url": "https://open.spotify.com/album/7DleuXqo8KvKnrnRFLNj51"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186137,
+      "name": "Punch-Out",
+      "url": "https://open.spotify.com/track/4gVb8jzBgCUnVNp5678xe4"
+    },
+    {
+      "album": {
         "name": "Quand il s'en va",
         "url": "https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9"
       },
@@ -1784,6 +1820,24 @@
       "duration_ms": 191200,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa"
+    },
+    {
+      "album": {
+        "name": "Quand on aime on a tout",
+        "url": "https://open.spotify.com/album/0cVSZ3P1pGsPCVeyb7boet"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155954,
+      "name": "Quand on aime on a tout",
+      "url": "https://open.spotify.com/track/4rb6bmm62zrozmwJH9Ccaz"
     },
     {
       "album": {

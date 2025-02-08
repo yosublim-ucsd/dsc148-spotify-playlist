@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 195500,
       "name": "Against The Grain",
       "url": "https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 233600,
       "name": "Easygoing",
       "url": "https://open.spotify.com/track/6oFAJFw5D8HjQFCWwf3XFr"
@@ -5783,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+    },
+    {
+      "album": {
         "name": "Goodbye Nightlife",
         "url": "https://open.spotify.com/album/1llw5IJGwZzz7E2YqYQtv2"
       },
@@ -8568,6 +8586,24 @@
       "duration_ms": 209768,
       "name": "Tumblin Down",
       "url": "https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2"
+    },
+    {
+      "album": {
+        "name": "Another Farewell",
+        "url": "https://open.spotify.com/album/5biKiugsTG1Fakjsfivdc4"
+      },
+      "artists": [
+        {
+          "name": "HORSEBATH",
+          "url": "https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267798,
+      "name": "Turn My Lover Loose",
+      "url": "https://open.spotify.com/track/5gNKywykgKB0J7mTeqsHBC"
     },
     {
       "album": {

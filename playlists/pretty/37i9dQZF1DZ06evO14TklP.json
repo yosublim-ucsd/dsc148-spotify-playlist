@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11500,
+  "num_followers": 11505,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAAFwurnqq7VOCVGhVz15ZMW",
+  "snapshot_id": "Z6P7gAAAAADQ8gTOS1/ehEZ2ktOfFcst",
   "tracks": [
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Freestyle",
         "url": "https://open.spotify.com/album/3Jh4xQPfR5azQKd536afSV"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 163403,
       "name": "Fresh Freestyle",
       "url": "https://open.spotify.com/track/1yRHonnmAUQTa6gEEa10s2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -1179,6 +1179,26 @@
       "duration_ms": 277500,
       "name": "STRIP",
       "url": "https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Censored",
+        "url": "https://open.spotify.com/album/20d3VlfbgjWHIsNMqADNbO"
+      },
+      "artists": [
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/7z5vwJBduF4LhL0RSKpofj"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/7Af9e3Z5yAzY2Jk3dKmFov"
     }
   ],
   "unique_name": "This Is Ebony",

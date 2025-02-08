@@ -4,7 +4,7 @@
 
 > Previously known as Runaway
 
-21 songs - 1 hr 15 min
+22 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Dance Music](https://open.spotify.com/track/4mn30l2lxnohEGT3goNzUR) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 1:57 | 2024-12-09 |  |
 | [Ground Level](https://open.spotify.com/track/4OYbXIPquvyX3GIgdMzY3S) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:22 | 2023-10-30 |  |
 | [Hast Thou Considered the Tetrapod](https://open.spotify.com/track/5Kv0LeQ30umm7qvjNAoLck) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:22 | 2024-09-15 |  |
+| [Heel Turn 2](https://open.spotify.com/track/0i440uC3N8RxHzB3TXG24b) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 5:58 | 2025-02-07 |  |
 | [I Know You've Come To Take My Toys Away](https://open.spotify.com/track/3rxEmM5drvb2v6SWGN5eTr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nine Black Poppies](https://open.spotify.com/album/6M04qhJl6Fx1Vn3QIHbm1A) | 2:10 | 2024-11-14 |  |
 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 | 2024-10-31 |  |
 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 | 2024-09-16 |  |

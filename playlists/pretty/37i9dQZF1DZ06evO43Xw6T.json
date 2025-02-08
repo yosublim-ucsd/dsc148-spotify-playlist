@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 145626,
+  "num_followers": 145842,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAACbvF/STNkNuBGkXcKo/0nz",
+  "snapshot_id": "Z6P7gAAAAABOE4JRHXBqakHgqs9ofHjc",
   "tracks": [
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SS23",
-        "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 193072,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/6SEWhlV2578vu3ybWXIEwJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosas Claras, Cosas Buenas (En Vivo)",
         "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 192130,
       "name": "Cosas Claras, Cosas Buenas (En Vivo)",
       "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SS23",
+        "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 193072,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/6SEWhlV2578vu3ybWXIEwJ"
     },
     {
       "added_at": null,

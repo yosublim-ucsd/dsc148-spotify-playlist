@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-327 songs - 20 hr 41 min
+328 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T) | 4:17 | 2023-07-28 | 2024-04-19 |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 |  |
 | [I've Got To Get To You](https://open.spotify.com/track/2PpNNVB9URTlrT2UXeQGRF) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh), [Joe Menza](https://open.spotify.com/artist/1gPgK6skp54CgYq8YcLr82), [Mike Menza](https://open.spotify.com/artist/1XQaucePJJOR3zirPvgFRw) | [I've Got To Get To You](https://open.spotify.com/album/25o7Q8884cy010DPlzRtMw) | 5:07 | 2021-12-17 |  |
-| [If I Was The Devil](https://open.spotify.com/track/0iG8xWaMt2FdcNOkOZiz7H) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 2:34 | 2021-12-17 |  |
+| [If I Was The Devil](https://open.spotify.com/track/0iG8xWaMt2FdcNOkOZiz7H) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 2:34 | 2021-12-17 | 2025-02-08 |
 | [If I Was The Devil](https://open.spotify.com/track/5GwJ4Az73aaCRMq85ocFvM) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/2KxO4SJhZqgxVX1g5bqDFT) | 2:34 | 2024-03-08 | 2024-04-19 |
 | [Indestructible](https://open.spotify.com/track/3vCj0QDwcJBJoCteRG1kfh) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Indestructible](https://open.spotify.com/album/5xDOU4dhO6MyAaKQJWP570) | 3:45 | 2021-12-17 |  |
 | [Indestructible](https://open.spotify.com/track/0uxAAkgJwHFyGvoRbuCXLm) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:46 | 2022-07-22 | 2024-04-19 |
@@ -163,6 +163,7 @@
 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/0fXMFBprRtdpOhA8fIcxPs) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/5K7VYgm2UUdIdis8H3zMhA) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/50ekLb1wXqwCalbH4onfGU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/7MwUlRv3S9pM6pCJPVYRCV) | 2:50 | 2022-07-22 | 2023-12-02 |
 | [Jack of Diamonds](https://open.spotify.com/track/2q7WMhP5z4P5vF4Z7aztNQ) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood](https://open.spotify.com/album/1uPGBP7oekFZSUgik5AKv7) | 4:12 | 2021-12-17 | 2022-04-29 |
+| [Joy, Joy!](https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Joy, Joy!](https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw) | 3:01 | 2025-02-07 |  |
 | [Jungle](https://open.spotify.com/track/2cuSqUUALtdW2R5Lq6jlcv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Swagger, Steel & Spurs](https://open.spotify.com/album/01zaNaojDp8OJJ1J60gm6R) | 3:09 | 2022-09-30 | 2022-11-13 |
 | [Jungle](https://open.spotify.com/track/406ZdY9JkmSy7kOGuVflrL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Reason EP](https://open.spotify.com/album/45rrGouDjyjtHKgLvoVw7v) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 | 2022-07-22 | 2024-01-13 |

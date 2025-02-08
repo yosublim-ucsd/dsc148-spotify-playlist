@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Doechii",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Larry June, 2 Chainz & The Alchemist",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157853,
       "name": "3001",
       "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
@@ -258,6 +258,28 @@
       "duration_ms": 199670,
       "name": "3:50 in L.A",
       "url": "https://open.spotify.com/track/7o2LXvuYDrH63Tv8UQxhLi"
+    },
+    {
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR"
     },
     {
       "album": {
@@ -792,6 +814,28 @@
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/0aqR5bgmid39zzjuJofio7"
+    },
+    {
+      "album": {
+        "name": "Armani Section",
+        "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180731,
+      "name": "Armani Section",
+      "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
     },
     {
       "album": {
@@ -1918,7 +1962,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
@@ -2350,7 +2394,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 122413,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
@@ -2638,7 +2682,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 160543,
       "name": "CELiNE iN THE TRAP (B)",
       "url": "https://open.spotify.com/track/4QCQPFD0RFyVey0x9wUmK3"
@@ -2770,7 +2814,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 161373,
       "name": "Chopstick",
       "url": "https://open.spotify.com/track/2MDqwQHCP4wELHzWn9DntV"
@@ -3204,7 +3248,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 181720,
       "name": "Cryotherapy",
       "url": "https://open.spotify.com/track/0A83vW4q1Gzb23gg5QuHy6"
@@ -3460,7 +3504,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
@@ -3588,7 +3632,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 190693,
       "name": "Define My Name",
       "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
@@ -4206,7 +4250,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Dope Sellers",
       "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
@@ -4386,7 +4430,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "drunk prayer",
       "url": "https://open.spotify.com/track/7B8wSAsYjZODXJ3GXJlTWW"
@@ -4554,7 +4598,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 160784,
       "name": "Entry#149",
       "url": "https://open.spotify.com/track/3jlIKHFVJTPqjaUGgAt0Rk"
@@ -4612,7 +4656,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
@@ -8381,6 +8425,32 @@
     },
     {
       "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
+    },
+    {
+      "album": {
         "name": "$hook",
         "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
       },
@@ -8444,6 +8514,32 @@
       "duration_ms": 188336,
       "name": "Long Live Free (feat. Mozzy)",
       "url": "https://open.spotify.com/track/4ZFacNfr35yagxS5v0NM4G"
+    },
+    {
+      "album": {
+        "name": "Long Live J Dilla (feat. Westside Gunn & Busta Rhymes)",
+        "url": "https://open.spotify.com/album/78sjCz3km5DH9G99u8VnOi"
+      },
+      "artists": [
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "Long Live J Dilla (feat. Westside Gunn & Busta Rhymes)",
+      "url": "https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b"
     },
     {
       "album": {
@@ -8910,7 +9006,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 392138,
       "name": "meet the grahams",
       "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
@@ -9388,7 +9484,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 167441,
       "name": "mr. mellow",
       "url": "https://open.spotify.com/track/3waGvCLsGSHUxCOLIfArZ1"
@@ -9454,6 +9550,32 @@
       "duration_ms": 200500,
       "name": "Muggsy Bogues",
       "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
+    },
+    {
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "album": {
@@ -9764,7 +9886,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
@@ -10026,7 +10148,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 189689,
       "name": "Northside",
       "url": "https://open.spotify.com/track/0OtIhBOZpVAvLg2CzqA3Ny"
@@ -10920,7 +11042,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 354773,
       "name": "Pi (feat. Daylyt & Ab-Soul)",
       "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
@@ -11361,6 +11483,28 @@
     },
     {
       "album": {
+        "name": "Puff Puff Pass (Remix)",
+        "url": "https://open.spotify.com/album/2jpiSXEdiZ7k1PIydcxgu1"
+      },
+      "artists": [
+        {
+          "name": "Ski",
+          "url": "https://open.spotify.com/artist/4MVlGED9B1YXa9Gw9SISEl"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "Puff Puff Pass - Remix",
+      "url": "https://open.spotify.com/track/4nEqaq89sgE1VHvKbnweUr"
+    },
+    {
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -11630,7 +11774,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
@@ -12148,7 +12292,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
@@ -12744,7 +12888,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 130673,
       "name": "Single File Line",
       "url": "https://open.spotify.com/track/3jZTAWOSNWaWauQ03WX9da"
@@ -13472,7 +13616,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 200786,
       "name": "Stickz N Stonez",
       "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
@@ -13992,7 +14136,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 324375,
       "name": "SWAT",
       "url": "https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98"
@@ -15146,7 +15290,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
@@ -15490,7 +15634,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 227946,
       "name": "Underground King",
       "url": "https://open.spotify.com/track/1Eaqj8WSG79blDjoHcST3r"

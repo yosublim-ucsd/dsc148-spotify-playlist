@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 173663,
       "name": "Bebim",
       "url": "https://open.spotify.com/track/2Gemo1PrdMFM3M3GsWWys8"
@@ -6738,7 +6738,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 185004,
       "name": "LEVE",
       "url": "https://open.spotify.com/track/2lbZJaSw3cvebmk76LCIw7"
@@ -7342,6 +7342,36 @@
       "duration_ms": 128000,
       "name": "Mal Sei Falar de Amor",
       "url": "https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T"
+    },
+    {
+      "album": {
+        "name": "Maliciosa",
+        "url": "https://open.spotify.com/album/6oX3zuNVPkLWtj16183gPw"
+      },
+      "artists": [
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190807,
+      "name": "Maliciosa",
+      "url": "https://open.spotify.com/track/3OXcX4yiMeco3zmUgYVW0D"
     },
     {
       "album": {
@@ -8556,7 +8586,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 185004,
       "name": "Momento Intenso",
       "url": "https://open.spotify.com/track/4z4hPSFEIACc4zkSzBzc0V"
@@ -10314,6 +10344,32 @@
       "duration_ms": 198408,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6elpDIHMkVz82eRatb9tsj"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0L9oUacib3l5f1RTQDj8Te"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6pxtGuCncm3TWeULE1OA53"
     },
     {
       "album": {
@@ -12338,6 +12394,36 @@
       "duration_ms": 137926,
       "name": "Saudades Sua",
       "url": "https://open.spotify.com/track/0rDiDZUdFuLrMFWbB6ofWM"
+    },
+    {
+      "album": {
+        "name": "SE DECIDE, VIDA!",
+        "url": "https://open.spotify.com/album/75ea7snS0p8ApqsmBhm6Mc"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151648,
+      "name": "SE DECIDE, VIDA!",
+      "url": "https://open.spotify.com/track/7vaVtj6yChyTHp0ETljI9t"
     },
     {
       "album": {

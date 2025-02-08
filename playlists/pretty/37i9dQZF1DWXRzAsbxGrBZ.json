@@ -1,6 +1,6 @@
 {
   "description": "Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 77454,
+  "num_followers": 77535,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-01-30 23:40:55",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
-      },
-      "artists": [
-        {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
-        }
-      ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
-    },
-    {
-      "added_at": "2025-01-30 23:40:55",
-      "album": {
         "name": "THE XO EFFECT 2",
         "url": "https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 424080,
       "name": "OSCILLATIONS",
       "url": "https://open.spotify.com/track/1SiCfb0VwAZPawZALNOCES"
+    },
+    {
+      "added_at": "2025-01-30 23:40:55",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+      },
+      "artists": [
+        {
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+        }
+      ],
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2025-01-30 23:40:55",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-01-30 23:40:55",
       "album": {
-        "name": "Ksasenjalo (Re-Imagined)",
-        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
-      },
-      "artists": [
-        {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
-        },
-        {
-          "name": "Exte C",
-          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
-        }
-      ],
-      "duration_ms": 401228,
-      "name": "Ksasenjalo (Exte C Remix)",
-      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
-    },
-    {
-      "added_at": "2025-01-30 23:40:55",
-      "album": {
         "name": "Falling outta love often",
         "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 261428,
       "name": "Falling outta love often - Radio Edit",
       "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
+    },
+    {
+      "added_at": "2025-01-30 23:40:55",
+      "album": {
+        "name": "Ksasenjalo (Re-Imagined)",
+        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
+      },
+      "artists": [
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        },
+        {
+          "name": "Exte C",
+          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
+        }
+      ],
+      "duration_ms": 401228,
+      "name": "Ksasenjalo (Exte C Remix)",
+      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
     },
     {
       "added_at": "2025-01-30 23:40:55",
@@ -675,6 +675,30 @@
     {
       "added_at": "2025-01-30 23:40:55",
       "album": {
+        "name": "Mmino Wa Batho",
+        "url": "https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ"
+      },
+      "artists": [
+        {
+          "name": "Miza",
+          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
+        },
+        {
+          "name": "Aubs",
+          "url": "https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3"
+        },
+        {
+          "name": "Kabomo",
+          "url": "https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB"
+    },
+    {
+      "added_at": "2025-01-30 23:40:55",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 289154,
       "name": "For You - Radio Edit",
       "url": "https://open.spotify.com/track/4GXU7T8VbLPMPB1vSmDqfV"
-    },
-    {
-      "added_at": "2025-01-30 23:40:55",
-      "album": {
-        "name": "Mmino Wa Batho",
-        "url": "https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ"
-      },
-      "artists": [
-        {
-          "name": "Miza",
-          "url": "https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1"
-        },
-        {
-          "name": "Aubs",
-          "url": "https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3"
-        },
-        {
-          "name": "Kabomo",
-          "url": "https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB"
     },
     {
       "added_at": "2025-01-30 23:40:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-01-30 23:40:55",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY"
-    },
-    {
-      "added_at": "2025-01-30 23:40:55",
-      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 435672,
       "name": "Happy Ending - Main Mix",
       "url": "https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS"
+    },
+    {
+      "added_at": "2025-01-30 23:40:55",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY"
     },
     {
       "added_at": "2025-01-30 23:40:55",

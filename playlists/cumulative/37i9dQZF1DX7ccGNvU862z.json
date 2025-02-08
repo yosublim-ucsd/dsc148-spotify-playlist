@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ben Bizzy",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Hunsick",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 202500,
       "name": "Again",
       "url": "https://open.spotify.com/track/3RpYxHjhAptAGk5pmjDHYB"
@@ -2323,6 +2323,32 @@
     },
     {
       "album": {
+        "name": "Kubjai",
+        "url": "https://open.spotify.com/album/7JIYqUJzRnJymG16Okq1bH"
+      },
+      "artists": [
+        {
+          "name": "GUNNER",
+          "url": "https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv"
+        },
+        {
+          "name": "Mixie Mixx",
+          "url": "https://open.spotify.com/artist/1smgrJLcV2QCewjbUDb1ke"
+        },
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209108,
+      "name": "Kubjai",
+      "url": "https://open.spotify.com/track/1DdA7Y5g1B9IO5D6keCKcO"
+    },
+    {
+      "album": {
         "name": "Last Night Sex",
         "url": "https://open.spotify.com/album/0reginRWqWbjGvHpmY0pS9"
       },
@@ -2612,6 +2638,24 @@
       "duration_ms": 191830,
       "name": "Made Her",
       "url": "https://open.spotify.com/track/3xGYygTGznnuku4Sik94lh"
+    },
+    {
+      "album": {
+        "name": "Manchester",
+        "url": "https://open.spotify.com/album/0MoKIXiB1RTCDOgH4BY0E5"
+      },
+      "artists": [
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Manchester",
+      "url": "https://open.spotify.com/track/0vS9hLAglLv6Bq8ss15njP"
     },
     {
       "album": {
@@ -3750,6 +3794,24 @@
       "duration_ms": 260644,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2mC9e7nL0EnhWeJn2NBbYE"
+    },
+    {
+      "album": {
+        "name": "HEARTBREAK JERSEY",
+        "url": "https://open.spotify.com/album/61weFrpBH0XSj2Nhj4BdkD"
+      },
+      "artists": [
+        {
+          "name": "Chanan",
+          "url": "https://open.spotify.com/artist/4nu9leC0f0YAqDLLlYD0bc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Rakpao",
+      "url": "https://open.spotify.com/track/1pNob6hmkFtpn0hysv66Ux"
     },
     {
       "album": {
@@ -4914,7 +4976,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 166779,
       "name": "UFOG",
       "url": "https://open.spotify.com/track/4L0PDSYtWfUHD2TCqVO4Vs"
@@ -5060,7 +5122,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 133250,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/2uz1YCfVlRgpwcxvik5SJo"
@@ -5180,6 +5242,28 @@
       "duration_ms": 132014,
       "name": "YEYEYE",
       "url": "https://open.spotify.com/track/6G8RdXS9w9uoyQU8m8si01"
+    },
+    {
+      "album": {
+        "name": "Yo bro",
+        "url": "https://open.spotify.com/album/4irUIcEc6WliE7fbQ4mjzi"
+      },
+      "artists": [
+        {
+          "name": "JANXFE",
+          "url": "https://open.spotify.com/artist/1WlTppn3TMkeSKbk225Gvs"
+        },
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188965,
+      "name": "Yo bro",
+      "url": "https://open.spotify.com/track/4hRlesQo2Fp659fkehMVtp"
     },
     {
       "album": {
@@ -5644,7 +5728,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 258781,
       "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d",
       "url": "https://open.spotify.com/track/2tjp9RTgoW9Ip9VKLbshVJ"
@@ -6080,7 +6164,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 275000,
       "name": "\u0e04\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/0K1bv7CgUwHkgcL7BJZPys"
@@ -7971,6 +8055,28 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e13\u0e35\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/0G5CLJsRRHYJlZRtuAjzz7"
+      },
+      "artists": [
+        {
+          "name": "naphat",
+          "url": "https://open.spotify.com/artist/1ByBKKdq5BwGdsjJKCYFt9"
+        },
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u0e21\u0e13\u0e35\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/0nlERzm1feJ75ckH1AzCNq"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e19\u0e38\u0e29\u0e22\u0e4c\u0e40\u0e21\u0e35\u0e22",
         "url": "https://open.spotify.com/album/0RzmSJrQYrJ44E2uEboyH0"
       },
@@ -8934,7 +9040,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 248205,
       "name": "\u0e25\u0e36\u0e01\u0e20\u0e32\u0e22\u0e43\u0e19\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1jVFs00BFrUUUd3iQ6GqCH"
@@ -9996,6 +10102,24 @@
       "duration_ms": 141160,
       "name": "\u0e40\u0e07\u0e32 (SHADOW) Ost.Shadow \u0e40\u0e07\u0e32/\u0e25\u0e48\u0e32/\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/2sB4Tc3wRyMxAfNOx5eC5n"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e1b\u0e27\u0e14\u0e17\u0e32\u0e07\u0e43\u0e08 (Psychogenic Pain)",
+        "url": "https://open.spotify.com/album/2erqM4gw1K6ChWqlnczEhb"
+      },
+      "artists": [
+        {
+          "name": "Hunsick",
+          "url": "https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e1b\u0e27\u0e14\u0e17\u0e32\u0e07\u0e43\u0e08 (Psychogenic Pain)",
+      "url": "https://open.spotify.com/track/3CdllNuhOCEVN0tPLw3O6A"
     },
     {
       "album": {

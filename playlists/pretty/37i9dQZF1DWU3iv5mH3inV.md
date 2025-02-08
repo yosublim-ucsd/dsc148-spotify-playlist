@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que ta subiendo\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,410 likes - 70 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,455 likes - 70 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 33 | [que la mantenga su mama](https://open.spotify.com/track/2SzzWbLa56OHVXVtWqz1P4) | [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6) | [que la mantenga su mama](https://open.spotify.com/album/26XeQmNirlplsFnGTjHR9F) | 1:32 |
 | 34 | [Pila de Nota \- Remix](https://open.spotify.com/track/6lNCZexJ2wVnHp7VBazUEU) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [JeycitoLM](https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4) | [Pila de Nota \(Remix\)](https://open.spotify.com/album/54M7sQOxcApEYT7kzPle8y) | 2:26 |
 | 35 | [Tetere](https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tetere](https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m) | 1:57 |
-| 36 | [Etel](https://open.spotify.com/track/7eu7zC7BQd6kOq3qgOTmf4) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Etel](https://open.spotify.com/album/23DjBf4OM8IdpwEU0tHyTM) | 2:19 |
+| 36 | [Etel](https://open.spotify.com/track/7eu7zC7BQd6kOq3qgOTmf4) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Etel](https://open.spotify.com/album/23DjBf4OM8IdpwEU0tHyTM) | 2:19 |
 | 37 | [SOY UN BAD BOY](https://open.spotify.com/track/0H62ltcrmOg1SJDKkZD95P) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [SOY UN BAD BOY](https://open.spotify.com/album/7GhXiXay9tzXwcDgj1e6cx) | 3:51 |
 | 38 | [Soltero](https://open.spotify.com/track/40JdB7fT4JrDiZej1zLsVk) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [Soltero](https://open.spotify.com/album/2ehK2QamZVlQwBL7X46gk0) | 2:31 |
 | 39 | [Si, Es Así](https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [SI, ES ASÍ](https://open.spotify.com/album/3DZASLonCv5I6Kld58eq51) | 3:08 |

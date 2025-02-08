@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: ROCKY",
-  "num_followers": 49066,
+  "num_followers": 49069,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-02-07 00:00:24",
       "album": {
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+    },
+    {
+      "added_at": "2025-02-07 00:00:24",
+      "album": {
         "name": "Falei",
         "url": "https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 177073,
       "name": "Falei",
       "url": "https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb"
-    },
-    {
-      "added_at": "2025-02-07 00:00:24",
-      "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2025-02-07 00:00:24",

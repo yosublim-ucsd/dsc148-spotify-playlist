@@ -2,7 +2,7 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=nKCwqx0zSZOzKiPbojtkYA>Limoblaze</a>
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=Dg50okc9RjqJOjFD3c2ADQ>Festizie</a>
 
 956 songs - 2 day 4 hr 57 min
 

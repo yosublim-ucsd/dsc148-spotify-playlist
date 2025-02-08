@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=5R5WrXP1SQ2eFd27RuNVUg"> Sunmisola Agbebi</a>
 
-403 songs - 22 hr 34 min
+404 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-09-06 | 2023-11-02 |
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-08 |  |
 | [I Believe](https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [I Believe](https://open.spotify.com/album/0W3ybbuYT1ylY1cShliEJp) | 2:45 | 2024-04-03 | 2024-12-05 |
+| [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 | 2025-02-07 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-04-05 | 2024-02-07 |
 | [I Got U \(feat\. Niska\)](https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [I Got U \(feat\. Niska\)](https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR) | 3:22 | 2024-02-07 | 2024-04-04 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-03-08 | 2022-09-09 |
@@ -381,7 +382,7 @@
 | [Vukani MaAfrica](https://open.spotify.com/track/7hFEPCCECUKN7dQ2SFFV7a) | [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [T\-Man SA](https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1) | [Song Is Queen](https://open.spotify.com/album/1vZ0ul3flyhSZlhp1ve7Tm) | 7:22 | 2023-05-03 | 2023-06-07 |
 | [Wadibusa \(feat\. Royal MusiQ, OHP Sage, & Pcee\)](https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [OHP Sage](https://open.spotify.com/artist/4IZr8UpEiuTNDf9a5atoco), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Wadibusa \(feat\. Royal MusiQ, OHP Sage, & Pcee\)](https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI) | 4:45 | 2024-06-05 |  |
 | [Waga Bietjie](https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Waga Bietjie](https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48) | 4:51 | 2023-06-07 | 2023-09-07 |
-| [WAHYA](https://open.spotify.com/track/4dfShGThl6iRK9BBAFBAfQ) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [WAHYA](https://open.spotify.com/album/3TiSm4Gj1ASJHMX9pHrk1l) | 3:48 | 2024-09-05 |  |
+| [WAHYA](https://open.spotify.com/track/4dfShGThl6iRK9BBAFBAfQ) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [WAHYA](https://open.spotify.com/album/3TiSm4Gj1ASJHMX9pHrk1l) | 3:48 | 2024-09-05 | 2025-02-08 |
 | [Wait](https://open.spotify.com/track/665pLHrgPrM6EiQOHJmKpn) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Wait](https://open.spotify.com/album/66nacc59o0utDc02MW1w1j) | 3:21 | 2021-12-02 | 2022-03-08 |
 | [Wait](https://open.spotify.com/track/693fsnXiRNNGxqrX5bnWal) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [LÖV](https://open.spotify.com/album/0xATpwMQQqS5Gb7gS16MIa) | 3:21 | 2022-11-30 | 2023-03-02 |
 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-07 | 2024-10-13 |

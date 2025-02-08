@@ -1,6 +1,6 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Senya.",
-  "num_followers": 98159,
+  "num_followers": 98234,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-02-06 22:01:01",
       "album": {
+        "name": "CAN WE LIVE?",
+        "url": "https://open.spotify.com/album/01MoHXRkIxIiJiRmqjlxov"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "B.O.A Mook",
+          "url": "https://open.spotify.com/artist/2LScPi7kKtHiWfhFCrzSww"
+        }
+      ],
+      "duration_ms": 212850,
+      "name": "CAN WE LIVE?",
+      "url": "https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw"
+    },
+    {
+      "added_at": "2025-02-06 22:01:01",
+      "album": {
         "name": "Kato Mua Silmiin (REMIX)",
         "url": "https://open.spotify.com/album/36bzpLH9pOBgUcIB2pWVgF"
       },
@@ -653,7 +673,7 @@
         }
       ],
       "duration_ms": 141077,
-      "name": "Putita Boutique (feat. TAICHU)",
+      "name": "Putita Boutique",
       "url": "https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg"
     },
     {
@@ -759,6 +779,26 @@
       "duration_ms": 167038,
       "name": "doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy"
+    },
+    {
+      "added_at": "2025-02-06 22:01:01",
+      "album": {
+        "name": "Toot It Up",
+        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Toot It Up",
+      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
     },
     {
       "added_at": "2025-02-06 22:01:01",

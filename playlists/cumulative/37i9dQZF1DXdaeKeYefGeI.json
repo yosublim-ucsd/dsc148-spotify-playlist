@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 220208,
       "name": "De Lucht Is Van Iedereen",
       "url": "https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR"
@@ -834,10 +834,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 225343,
       "name": "De Wind Draait",
       "url": "https://open.spotify.com/track/0tkGmIB8BZpoy68YuguCXi"
+    },
+    {
+      "album": {
+        "name": "kleine auto, grote hot wheel",
+        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265997,
+      "name": "dichtbij, veraf",
+      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
     },
     {
       "album": {
@@ -2736,6 +2754,24 @@
       "duration_ms": 210967,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO"
+    },
+    {
+      "album": {
+        "name": "Spring erin!",
+        "url": "https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i"
+      },
+      "artists": [
+        {
+          "name": "Fanny",
+          "url": "https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214618,
+      "name": "Spring erin!",
+      "url": "https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A"
     },
     {
       "album": {

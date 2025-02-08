@@ -1,29 +1,13 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Arg\u00fcello, Naty Botero ",
-  "num_followers": 32513,
+  "num_followers": 32512,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAr6j2eNrFcptIcYx4sb3A4ImZP1w7e",
+  "snapshot_id": "AAAr60jTU5dqEZYI9ocRKNHiwkfW0SP5",
   "tracks": [
-    {
-      "added_at": "2025-02-06 13:37:51",
-      "album": {
-        "name": "You've Got The Love",
-        "url": "https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ"
-    },
     {
       "added_at": "2025-02-06 13:37:51",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 192626,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
+    },
+    {
+      "added_at": "2025-02-06 13:37:51",
+      "album": {
+        "name": "You've Got The Love",
+        "url": "https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ"
     },
     {
       "added_at": "2025-02-06 13:37:51",

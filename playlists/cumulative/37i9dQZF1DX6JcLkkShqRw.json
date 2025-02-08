@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Polim\u00e1 Westcoast y C.R.O",
+  "description": "Flow sudamericano con Ponte Perro y MC P\u00e2nico.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 233142,
       "name": "Adelantado",
       "url": "https://open.spotify.com/track/6bcAaffKIk6lkRAn3CJ8ng"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 219616,
       "name": "Adicto (feat. Gino Mella) - Remix",
       "url": "https://open.spotify.com/track/6HsLCCUX3nLP8Wr9OXcWOT"
@@ -4336,6 +4336,32 @@
       "duration_ms": 214400,
       "name": "Black And Yellow",
       "url": "https://open.spotify.com/track/1H6LQd0PWTj3661VnUhu7t"
+    },
+    {
+      "album": {
+        "name": "Blin Blam",
+        "url": "https://open.spotify.com/album/4jhqse7ESp4zk511nYiezF"
+      },
+      "artists": [
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "Blin Blam",
+      "url": "https://open.spotify.com/track/6ipuWbJ4KviwXxYmozIGYa"
     },
     {
       "album": {
@@ -10156,7 +10182,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 183159,
       "name": "El Tiempo Se Para",
       "url": "https://open.spotify.com/track/0CxQ3ICqj842FNBGMovEuQ"
@@ -11072,6 +11098,28 @@
       "duration_ms": 165500,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/4GeN50qDloPTrNCScXywZA"
+    },
+    {
+      "album": {
+        "name": "Esquivar",
+        "url": "https://open.spotify.com/album/021V4pZ5Q8BUPHr3qNhGXA"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121916,
+      "name": "Esquivar",
+      "url": "https://open.spotify.com/track/1pkHgduFZmRhHBbROcyrpb"
     },
     {
       "album": {
@@ -17588,7 +17636,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 126867,
       "name": "m1llonario",
       "url": "https://open.spotify.com/track/3d1G5cIuXDITJKVDz8BZqu"
@@ -17999,6 +18047,32 @@
     },
     {
       "album": {
+        "name": "Maleantes",
+        "url": "https://open.spotify.com/album/7lMI6gHGhP2tuaGA6u8H7r"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182755,
+      "name": "Maleantes",
+      "url": "https://open.spotify.com/track/3CmWevRUManHD4x4Zq3sUn"
+    },
+    {
+      "album": {
         "name": "Malefica",
         "url": "https://open.spotify.com/album/7zF00vvLMCXsWvnEGrpcg6"
       },
@@ -18374,7 +18448,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 145714,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
@@ -20043,6 +20117,36 @@
     },
     {
       "album": {
+        "name": "Misionar",
+        "url": "https://open.spotify.com/album/3OzpYS3uCXPpbDx2ABYsKj"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Lidanza",
+          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259437,
+      "name": "MISIONAR",
+      "url": "https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg"
+    },
+    {
+      "album": {
         "name": "Misisipi",
         "url": "https://open.spotify.com/album/2rVn5c2FpqFuSn7PwP716F"
       },
@@ -20216,7 +20320,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 213600,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/450GR4umZ5cXHVnkos3lEO"
@@ -20704,6 +20808,28 @@
       "duration_ms": 273408,
       "name": "Muevete",
       "url": "https://open.spotify.com/track/3e0EYgl4lQYB6k4pYqg9Pl"
+    },
+    {
+      "album": {
+        "name": "MUITO FOGO",
+        "url": "https://open.spotify.com/album/4fvCcMu561zIHgThRqOQQx"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152629,
+      "name": "MUITO FOGO",
+      "url": "https://open.spotify.com/track/7hzctgZPIy1EGldzRaVLyf"
     },
     {
       "album": {
@@ -22364,7 +22490,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 112653,
       "name": "No Te Necesito",
       "url": "https://open.spotify.com/track/6IexNfma171K4daIY54Y9f"
@@ -26021,6 +26147,28 @@
     },
     {
       "album": {
+        "name": "Putita Boutique (feat. TAICHU)",
+        "url": "https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141077,
+      "name": "Putita Boutique",
+      "url": "https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1o en alto",
         "url": "https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo"
       },
@@ -28662,6 +28810,32 @@
       "duration_ms": 188525,
       "name": "Si no me olvido",
       "url": "https://open.spotify.com/track/6R0xV2borWxrMLnpJg07dN"
+    },
+    {
+      "album": {
+        "name": "SI O NO",
+        "url": "https://open.spotify.com/album/5rjOMNOJkdHlnzLpNbdyU8"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "SI O NO",
+      "url": "https://open.spotify.com/track/1E5LUC8mbqtPFunZmWNnzw"
     },
     {
       "album": {
@@ -31570,7 +31744,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 182400,
       "name": "TU FAN",
       "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
@@ -33994,6 +34168,32 @@
       "duration_ms": 193835,
       "name": "X ESO BB",
       "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
+    },
+    {
+      "album": {
+        "name": "x hombres como t\u00fa",
+        "url": "https://open.spotify.com/album/3tHCVEw5reWRfj215x2CTL"
+      },
+      "artists": [
+        {
+          "name": "Fran Maira",
+          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "x hombres como t\u00fa",
+      "url": "https://open.spotify.com/track/7o1aMeVuIKY3WdhwlOqec0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-306 songs - 16 hr 55 min
+307 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Enter The Dome \- Official Thunderdome 2022 Anthem](https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Enter The Dome \(Official Thunderdome 2022 Anthem\)](https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM) | 3:51 | 2022-12-08 | 2024-09-18 |
 | [Everybody Move](https://open.spotify.com/track/3vodvhteZsq3Wydz9Y0kbX) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [Everybody Move](https://open.spotify.com/album/5g9ZPYUnWl79HQWchAwoce) | 2:51 | 2024-03-11 | 2024-06-28 |
 | [F\#ck The Haters](https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [F\#ck The Haters](https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM) | 2:27 | 2022-12-08 | 2023-12-22 |
-| [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 | 2024-10-03 |  |
+| [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 | 2024-10-03 | 2025-02-08 |
 | [Fade To Black](https://open.spotify.com/track/2SYurUBnKRFobADxclh1RA) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Fade To Black](https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT) | 3:46 | 2024-05-16 | 2024-11-19 |
 | [Fake Shit](https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Fake Shit](https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te) | 3:03 | 2022-12-08 | 2023-12-22 |
 | [Fat Beat](https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Fat Beat](https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl) | 3:51 | 2023-02-09 | 2024-09-18 |
@@ -179,6 +179,7 @@
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
+| [Melancholic Life](https://open.spotify.com/track/0LOWVfO6x8azUYQOD20i1Y) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Melancholic Life](https://open.spotify.com/album/2VVqBCyVe21ygdQ8NUVWHE) | 4:32 | 2025-02-07 |  |
 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 | 2024-03-22 |  |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-484 songs - 1 day 4 hr 52 min
+485 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-10-24 |
 | [Entre deux montagnes](https://open.spotify.com/track/4ZMMRQAoDqftCgABEKwE1A) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 2:59 | 2022-07-08 | 2022-09-09 |
 | [Entre deux montagnes](https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 2:59 | 2021-01-03\* | 2022-07-26 |
-| [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* | 2025-02-02 |
+| [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* |  |
 | [Et faire comme si](https://open.spotify.com/track/1XGPYFtg7ZDNlaPuAbAa4v) | [Laurent Paquin](https://open.spotify.com/artist/7qaeNMC2MtIbokELJs2P2V) | [Et faire comme si](https://open.spotify.com/album/6C34uSVNhrp9IrkCHfK3by) | 1:46 | 2021-05-04 | 2021-09-27 |
 | [Et je cours](https://open.spotify.com/track/5g2x5jFdQMJxbpYAbCTK4W) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Bunny](https://open.spotify.com/album/0jgFMFLNU4fgV2KtqpER9A) | 3:45 | 2021-01-03\* | 2022-07-19 |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-01-21 | 2024-05-02 |
@@ -191,7 +191,7 @@
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 |  |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |
 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 |  |
-| [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-03-08 |  |
+| [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-03-08 | 2025-02-08 |
 | [Km Zéro](https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi) | [Monsieur Raph](https://open.spotify.com/artist/3tCGkAQa2Q8ukkefsgrrYw) | [Le sens de la dérive](https://open.spotify.com/album/7mZATbXPGxVWhXROjmvIa6) | 3:25 | 2021-01-03\* | 2022-07-23 |
 | [L'alinéa](https://open.spotify.com/track/4rhW9OC2pFIqF5KRAWC10c) | [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [L'alinéa](https://open.spotify.com/album/29dDpTCBFs9pHzCMT39VcU) | 4:36 | 2023-11-10 | 2025-01-29 |
 | [L'amour est dans le parc](https://open.spotify.com/track/1wOUUbxx7HF7tav5ZtocUO) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Peut\-être un rêve II](https://open.spotify.com/album/6YhoMdo3mE0Z7TfhIumnYD) | 3:30 | 2021-05-29 | 2021-07-10 |
@@ -217,6 +217,7 @@
 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
 | [La maison jaune \(edit\)](https://open.spotify.com/track/3WtMKaUKG7thWKJstzcKNo) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [La maison jaune \(edit\)](https://open.spotify.com/album/3knYO0onnkgMwjU3VZCetN) | 4:06 | 2021-12-06 | 2022-04-19 |
+| [La mer rose](https://open.spotify.com/track/4DnUtxeDsHam1KdvdOgBVv) | [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Fantaisie](https://open.spotify.com/album/3VYyrIlSdin2xd7MQKxvtG) | 2:27 | 2025-02-07 |  |
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* |  |
 | [La myopie du coeur](https://open.spotify.com/track/0JvG23hQr8r5jK8sRDV56D) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [La myopie du coeur \- Single](https://open.spotify.com/album/587yESFa8dOQfYV0YaBv8Y) | 3:05 | 2021-01-15 | 2022-06-30 |
 | [La porte de l'hôpital](https://open.spotify.com/track/4yx36ceDtSEuPjvl5lwGlo) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [La porte de l'hôpital](https://open.spotify.com/album/3RKhAG0hro25cTVL8EXocG) | 4:16 | 2021-08-31 | 2021-09-28 |
@@ -368,7 +369,7 @@
 | [PLS \- sunrise version](https://open.spotify.com/track/3ldCCZdvhLEVr1zBwFpPd2) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:03 | 2021-08-16 | 2022-02-12 |
 | [Plus tard](https://open.spotify.com/track/0JmudqX8823E6sxCTbCWGn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Plus tard](https://open.spotify.com/album/6TxrGYY2rZAVTYmdsRahM1) | 3:59 | 2021-01-16 | 2021-10-23 |
 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 | 2023-10-06 | 2023-11-11 |
-| [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 | 2022-04-15 |  |
+| [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 | 2022-04-15 | 2025-02-08 |
 | [Post Mortem](https://open.spotify.com/track/27CT56qR6K6NB5K9O2lrCO) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Post Mortem](https://open.spotify.com/album/3HPXiBBZnymZIN0aUkXieY) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Pour elle](https://open.spotify.com/track/1EXBuLna0G1M3Eum4mHJfa) | [Alex Richard](https://open.spotify.com/artist/1Q9g6aHFRvJXqNOdpglIbT) | [Pour elle](https://open.spotify.com/album/2ZNVeWHcqRngMISjIkUrbV) | 3:06 | 2021-02-25 | 2021-05-08 |
 | [Pousse Pousse](https://open.spotify.com/track/4R2RjRNPvXNLonRYuybrzq) | [Jonathan Painchaud](https://open.spotify.com/artist/1eTRTFyUNxGHlG9heF6YUF) | [Pousse Pousse \- Single](https://open.spotify.com/album/0wmyFTusdzmf1HQheJojP7) | 5:23 | 2021-01-03\* | 2021-10-09 |

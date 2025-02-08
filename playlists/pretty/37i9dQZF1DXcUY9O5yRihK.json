@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Laufey",
-  "num_followers": 170746,
+  "num_followers": 170830,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z46ghwAAAACdfIb+Yqdhtms9ZAyRshu4",
+  "snapshot_id": "Z6WTaAAAAAB1EOeLICSy6xSGDG81G50P",
   "tracks": [
     {
       "added_at": "2024-08-26 15:15:02",
@@ -39,6 +39,22 @@
       "duration_ms": 176026,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:24",
+      "album": {
+        "name": "Dumb Feeling",
+        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Dumb Feeling",
+      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
     },
     {
       "added_at": "2024-08-26 15:15:02",
@@ -151,6 +167,22 @@
       "duration_ms": 152585,
       "name": "Brigadeiro (the bing bong song)",
       "url": "https://open.spotify.com/track/63WhiH2jsaEyFRvrnOgYvH"
+    },
+    {
+      "added_at": "2024-08-26 15:15:02",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 136362,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
     },
     {
       "added_at": "2025-01-03 05:00:25",
@@ -267,22 +299,6 @@
       "duration_ms": 129600,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1247,26 +1263,6 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "Waiting by the Window",
-        "url": "https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        },
-        {
-          "name": "carbeau",
-          "url": "https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "Waiting by the Window",
-      "url": "https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil"
     }
   ],
   "unique_name": "bossa pop",

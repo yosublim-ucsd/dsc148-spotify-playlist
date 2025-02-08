@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Para La Meditaci\u00f3n: Quietud Del Alma",
         "url": "https://open.spotify.com/album/0hZvGf7srVYFgt2UUfCNRC"
       },
@@ -4551,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444120,
+      "name": "Bend the Clock",
+      "url": "https://open.spotify.com/track/68D2W6r8x6vcdzHCPVmw04"
+    },
+    {
+      "album": {
         "name": "Besar",
         "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
       },
@@ -5178,7 +5214,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
@@ -6074,7 +6110,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 201151,
       "name": "Buscando la luz",
       "url": "https://open.spotify.com/track/5Kc1j7KZ3dJj9CxUD71Lya"
@@ -8486,7 +8522,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 360120,
       "name": "Curious Ruminant",
       "url": "https://open.spotify.com/track/1GwbwKkKsj3EqkJda5RdoR"
@@ -10008,7 +10044,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 220967,
       "name": "Don't Fear The Reaper",
       "url": "https://open.spotify.com/track/17rPVtzZsD4qnEbZ51ZyaD"
@@ -10848,7 +10884,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 188839,
       "name": "D\u00eda Tres",
       "url": "https://open.spotify.com/track/4DUwZUxMZaD9S0sz4RHjI1"
@@ -12326,6 +12362,28 @@
       "duration_ms": 112000,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/6jOmhvPUOapM0RuTaDUqg9"
+    },
+    {
+      "album": {
+        "name": "Eternialand",
+        "url": "https://open.spotify.com/album/49iphmSDaMcnQqHoX1Q661"
+      },
+      "artists": [
+        {
+          "name": "Randomfuturetone",
+          "url": "https://open.spotify.com/artist/15PrVq4C5W3WTHBGxcNbKa"
+        },
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413051,
+      "name": "Eternialand",
+      "url": "https://open.spotify.com/track/1iU5EDDiU2hHyUdxdTkh5P"
     },
     {
       "album": {
@@ -17506,7 +17564,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 232736,
       "name": "I Am... All of Me (Female Version) [from \"Shadow the Hedgehog\"]",
       "url": "https://open.spotify.com/track/5ODWnK1k9inOsY6HC9ZVAN"
@@ -21670,7 +21728,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 341820,
       "name": "Land of Immortals",
       "url": "https://open.spotify.com/track/5AyZZniQgwuQlhpNFQjziv"
@@ -23843,6 +23901,24 @@
     },
     {
       "album": {
+        "name": "Symphonies of Doom & Battalions of Fear (Lucifer's Heritage)",
+        "url": "https://open.spotify.com/album/7ebZBSWQcEejQglRnb74IU"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284708,
+      "name": "Lucifer's Heritage",
+      "url": "https://open.spotify.com/track/6dW828m12lLN06VSO0Omy8"
+    },
+    {
+      "album": {
         "name": "I Inside the Old Year Dying",
         "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
       },
@@ -24854,7 +24930,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
@@ -25904,6 +25980,24 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "album": {
+        "name": "Nada Para Ti (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/43HzRMB4IFFxw6PZgy1Y6d"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Nada Para Ti (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1ExJH7GeqarJmpAZk1IyAF"
     },
     {
       "album": {
@@ -28680,6 +28774,24 @@
       "duration_ms": 325987,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "album": {
+        "name": "Paper Tiger",
+        "url": "https://open.spotify.com/album/78aXk9yoczDZZL6arDNamK"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/37UND3TMdgzQuo8sWwv2ts"
     },
     {
       "album": {
@@ -31855,6 +31967,24 @@
     },
     {
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212163,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
       },
@@ -33020,6 +33150,24 @@
       "duration_ms": 188017,
       "name": "Se Esfuma",
       "url": "https://open.spotify.com/track/1CgR3X8aWUgsUI2cRQIef6"
+    },
+    {
+      "album": {
+        "name": "Punk Rock Valentines",
+        "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "Sea Of Love - Party Outtake 1981",
+      "url": "https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV"
     },
     {
       "album": {
@@ -37633,6 +37781,28 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Ray)",
+      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
+    },
+    {
+      "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
@@ -39884,6 +40054,24 @@
       "duration_ms": 223318,
       "name": "The Ties That Bind - Live at Staples Center, Los Angeles, CA - 10/23/1999",
       "url": "https://open.spotify.com/track/57SjNJSHWhBAsZkRWEfTDJ"
+    },
+    {
+      "album": {
+        "name": "The Tipu House",
+        "url": "https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "The Tipu House",
+      "url": "https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g"
     },
     {
       "album": {
@@ -44408,6 +44596,28 @@
       "duration_ms": 413186,
       "name": "Who Are You - Live At Wembley, UK / 2019",
       "url": "https://open.spotify.com/track/5pNqiPmmVcBPWk3HKNeNg9"
+    },
+    {
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313167,
+      "name": "Who Believes In Angels?",
+      "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Lalu Carlos
 
-4,319 songs - 11 day 0 hr 50 min
+4,320 songs - 11 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1579,6 +1579,7 @@
 | [i just can't stop loving you \- Acoustic](https://open.spotify.com/track/3AjyDAWFcLXzk0etMxdHun) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4), [sam.and.oreos](https://open.spotify.com/artist/2qXFaBTW6iEV0g0JIajGJf) | [i just can't stop loving you \- Acoustic](https://open.spotify.com/album/7LiA3gL9CMDycp1ZhB4yOB) | 2:30 | 2024-09-19 | 2024-10-12 |
 | [I Just Wanna Dance With You](https://open.spotify.com/track/3rVvzQrxOnoJdGJ87WLDrr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [I Just Wanna Dance With You](https://open.spotify.com/album/1w49WZhXvxtMKydYxYLgjB) | 3:47 | 2023-09-28 | 2023-10-14 |
 | [I Know](https://open.spotify.com/track/6eKfrP5b05Cqp37DaVr60U) | [L.K.B](https://open.spotify.com/artist/5UnXQTgHRqe8YIj49DFdGb), [ELKEY](https://open.spotify.com/artist/1XnABxYpl4Oe36V8TZpC4J) | [I Know](https://open.spotify.com/album/6Gzsbtpn7NmsbWvzRZPYwE) | 5:53 | 2022-09-22 | 2022-10-14 |
+| [I Know, I Know](https://open.spotify.com/track/3DIeDtNzWxJErX6R8xFSXe) | [Jordanka](https://open.spotify.com/artist/0BKDOwQviXfgRIhoiN4pWd) | [I Know, I Know](https://open.spotify.com/album/2LCeqwLceDA51zTZxGvKIo) | 2:22 | 2025-02-07 |  |
 | [I Love You](https://open.spotify.com/track/25qaxtrsWkVlS1H765MVhq) | [Navis Math](https://open.spotify.com/artist/5ySMSPdecnBzm12xGTzbHd) | [You Made This Easy](https://open.spotify.com/album/0b6V6mD9S2oAn6imU2QUA0) | 3:15 | 2023-08-31 | 2023-09-20 |
 | [i love you so](https://open.spotify.com/track/2nO5o97h9pTnQyE1rDDF8b) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [i love you so](https://open.spotify.com/album/0OK5XZIvOH6hutQqx8iSSk) | 2:55 | 2024-08-26 | 2024-09-20 |
 | [I Love You, Even When You Hate Yourself.](https://open.spotify.com/track/56Ts7vcuIEUP86yHufXQMg) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [I Love You, Even When You Hate Yourself.](https://open.spotify.com/album/17jSPoo8UeD596IwL13xig) | 4:46 | 2022-07-14 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying.",
+  "description": "The country way of testifying. Cover: Jelly Roll and Brandon Lake",
   "name": "Country by the Grace of God",
   "tracks": [
     {
@@ -1638,6 +1638,28 @@
       "duration_ms": 172066,
       "name": "Grew up on That",
       "url": "https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm"
+    },
+    {
+      "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
       "album": {
@@ -3504,10 +3526,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 232293,
       "name": "Red Letter Blueprint",
       "url": "https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w"
+    },
+    {
+      "album": {
+        "name": "Red Letter Blueprint (feat. Jason Crabb)",
+        "url": "https://open.spotify.com/album/0CQjyCJ1EO1FQAMUAlzZ00"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        },
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214443,
+      "name": "Red Letter Blueprint (feat. Jason Crabb)",
+      "url": "https://open.spotify.com/track/4Fva7xZy5rnslgLQZdNFYC"
     },
     {
       "album": {

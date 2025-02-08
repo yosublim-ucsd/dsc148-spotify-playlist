@@ -1,13 +1,29 @@
 {
-  "description": "Underground indie rock gems. Cover: Dutch Interior",
-  "num_followers": 299323,
+  "description": "Underground indie rock gems. Cover: she's green",
+  "num_followers": 299361,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5xY7wAAAAAvffA1t/GJf0ST0axQX4dY",
+  "snapshot_id": "Z6WTcQAAAAAoaCh8z4bUsA/WxJokbUHq",
   "tracks": [
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Graze",
+        "url": "https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 264824,
+      "name": "Graze",
+      "url": "https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q"
+    },
     {
       "added_at": "2025-01-31 05:00:31",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB"
     },
     {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Come Back Down",
+        "url": "https://open.spotify.com/album/5ihJcyfSetmfGtCCJoWhzR"
+      },
+      "artists": [
+        {
+          "name": "High.",
+          "url": "https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2zL3Tut6HrIV6tVAGw8Gh7"
+    },
+    {
       "added_at": "2025-01-31 05:00:31",
       "album": {
         "name": "Angel",
@@ -39,6 +71,46 @@
       "duration_ms": 150500,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/1yeWvrJVxBl1vYeuKSDuY0"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/0MsGhrKqIc8R9tkKUAsGaN"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/3aSKk44Zyuk7sz72MnsTvO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "ADORE",
+        "url": "https://open.spotify.com/album/0AxAaCFZ4KbDgv3vj38UDz"
+      },
+      "artists": [
+        {
+          "name": "child star",
+          "url": "https://open.spotify.com/artist/42v4JUoQVfM9w186KoL5B1"
+        },
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        },
+        {
+          "name": "Sean Henry",
+          "url": "https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk"
+        }
+      ],
+      "duration_ms": 146448,
+      "name": "ADORE",
+      "url": "https://open.spotify.com/track/3BorXY9G9eZoOlUQZA0YoO"
     },
     {
       "added_at": "2025-01-31 05:00:31",
@@ -59,6 +131,22 @@
       "duration_ms": 136487,
       "name": "horseshoe",
       "url": "https://open.spotify.com/track/3nK1i3At3abXUwOtcMX6m1"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Cro-Magnon Man",
+        "url": "https://open.spotify.com/album/5VL1958b50wIWuafmVofL6"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 247971,
+      "name": "Cro-Magnon Man",
+      "url": "https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1"
     },
     {
       "added_at": "2025-01-31 05:00:31",
@@ -91,6 +179,22 @@
       "duration_ms": 281526,
       "name": "Enything",
       "url": "https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
     },
     {
       "added_at": "2025-01-24 05:00:58",

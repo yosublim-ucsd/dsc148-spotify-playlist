@@ -9,6 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 | 2024-09-06 |  |
+| [Adults and children](https://open.spotify.com/track/79ybYxLTu5TjpIdHcTMr2Y) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Adults and children](https://open.spotify.com/album/7gtknhYftgpWiSLAPCG3KW) | 3:36 | 2024-09-06 |  |
 | [Amateur \- Live](https://open.spotify.com/track/108sB29b7IDqk8sL6NwC91) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [Retro Night \(Live\)](https://open.spotify.com/album/50JfuEiHdzI7gliX7Ohru8) | 3:13 | 2024-09-06 |  |
 | [Answer](https://open.spotify.com/track/47hnbN3S6ACkTpkoLkzAdm) | [Park Jeonghyun](https://open.spotify.com/artist/5onBDIChDodmspjY97i1BU) | [Perfect Family \(Original Television Soundtrack\) Special](https://open.spotify.com/album/0vzqMnwfgO5mAdMIxYSNLQ) | 1:35 | 2024-09-23 |  |
 | [Bad](https://open.spotify.com/track/6L2TOTO0JjlVuKBnIuWcVY) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad](https://open.spotify.com/album/2ccNieek7n45JFBQjyVPMu) | 3:10 | 2024-09-06 |  |
@@ -82,7 +83,6 @@
 | [your voice](https://open.spotify.com/track/1OiIPEG1uQStndiW8t7GNu) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [your voice](https://open.spotify.com/album/0XO0Mitv00jraPoBjpyB45) | 4:26 | 2024-09-06 |  |
 | [너에게 하고 싶은 얘기](https://open.spotify.com/track/7fM6lAlbAf5cAwq4eJZgw9) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [SOONY SEVEN](https://open.spotify.com/album/5wwvnUMWiueStHJWrb2lAX) | 5:44 | 2024-09-06 |  |
 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 | 2024-09-06 |  |
-| [어른이](https://open.spotify.com/track/79ybYxLTu5TjpIdHcTMr2Y) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [어른이](https://open.spotify.com/album/7gtknhYftgpWiSLAPCG3KW) | 3:36 | 2024-09-06 |  |
 | [지친 하루 \(2014 월간 윤종신 12월호\)](https://open.spotify.com/track/1ysNefO59Cx5lQgK1LwS7a) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [지친 하루 \(2014 월간 윤종신 12월호\)](https://open.spotify.com/album/0MMNRbhA4kAPcP5fI8docC) | 4:33 | 2024-09-06 |  |
 
 \*This playlist was first scraped on 2024-09-07. Prior content cannot be recovered.

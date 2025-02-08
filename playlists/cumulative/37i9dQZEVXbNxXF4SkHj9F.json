@@ -6543,7 +6543,7 @@
     },
     {
       "album": {
-        "name": "'Caligo Pt.1'",
+        "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
       },
       "artists": [
@@ -7188,7 +7188,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-06",
+      "date_removed": null,
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -28340,7 +28340,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 205588,
       "name": "Time of Our Life -Japanese ver.- - Japanese ver.",
       "url": "https://open.spotify.com/track/18x0Z8JUwLA2LhgsIHbNy3"

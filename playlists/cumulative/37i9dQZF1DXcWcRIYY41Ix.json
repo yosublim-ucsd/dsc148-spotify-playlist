@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: Yoly Saa.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 249461,
       "name": "Cucurucucu",
       "url": "https://open.spotify.com/track/3PafX6AniGa2aBAt2Mc93c"
@@ -3854,7 +3854,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 231270,
       "name": "Donde nac\u00ed",
       "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
@@ -4142,7 +4142,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 197826,
       "name": "El Cosechero",
       "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
@@ -4853,6 +4853,24 @@
     },
     {
       "album": {
+        "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
+        "url": "https://open.spotify.com/album/015oPbX4Y20S6ZgZdkEVKH"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
+      "url": "https://open.spotify.com/track/2jflLgaeCHBqe0gxvSVzQw"
+    },
+    {
+      "album": {
         "name": "Espirales",
         "url": "https://open.spotify.com/album/3q1OYKZZSjhRVn0P0OLmAT"
       },
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186976,
       "name": "FANZINE",
       "url": "https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl"
@@ -5885,6 +5903,28 @@
     },
     {
       "album": {
+        "name": "Jurema Blanca",
+        "url": "https://open.spotify.com/album/1nulZh8RGIFieaS6m7G7Xd"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        },
+        {
+          "name": "ASH.RYNN",
+          "url": "https://open.spotify.com/artist/14pUScokA9iCquc4lQ8ey3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229655,
+      "name": "Jurema Blanca",
+      "url": "https://open.spotify.com/track/3okjDbZn0vuuKYUTyVt6DB"
+    },
+    {
+      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw"
       },
@@ -6038,7 +6078,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 371035,
       "name": "La Casa",
       "url": "https://open.spotify.com/track/2eLbWiJKOMTehziCTB2sJF"
@@ -7156,7 +7196,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 238266,
       "name": "LLORAR",
       "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
@@ -7240,6 +7280,24 @@
       "duration_ms": 191647,
       "name": "lo que siento",
       "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
+    },
+    {
+      "album": {
+        "name": "El Rayo Verde",
+        "url": "https://open.spotify.com/album/7jGxfqzYoIphB7b4A7jXxl"
+      },
+      "artists": [
+        {
+          "name": "Luis Ramiro",
+          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Lo Tengo Todo",
+      "url": "https://open.spotify.com/track/2c9X8dFOQLxwMJ2etYaF6b"
     },
     {
       "album": {
@@ -9608,7 +9666,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
@@ -10032,7 +10090,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 140539,
       "name": "perdida",
       "url": "https://open.spotify.com/track/6SyuAeuSZXG8PoexSHWSjQ"
@@ -10584,6 +10642,24 @@
       "duration_ms": 245750,
       "name": "Que f\u00e1cil",
       "url": "https://open.spotify.com/track/1QUYvBpZnkjJfdxwvHRkma"
+    },
+    {
+      "album": {
+        "name": "Que no ves que no vas",
+        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
+      },
+      "artists": [
+        {
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138888,
+      "name": "Que no ves que no vas",
+      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
     },
     {
       "album": {
@@ -11368,7 +11444,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 211330,
       "name": "Ruido",
       "url": "https://open.spotify.com/track/6m1OQPPhB0qpgQJ2oWfkqC"
@@ -12318,6 +12394,24 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "album": {
+        "name": "Tramuntana",
+        "url": "https://open.spotify.com/album/6rJS2TGjVKNgIyhnw9Q05t"
+      },
+      "artists": [
+        {
+          "name": "alberto.vela",
+          "url": "https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216256,
+      "name": "S\u00e9 que todo va a ir bien",
+      "url": "https://open.spotify.com/track/6yANOkNxzbjzDlmFrNWuFc"
     },
     {
       "album": {
@@ -13547,6 +13641,24 @@
     },
     {
       "album": {
+        "name": "Un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/5e4oYrUK3XdyUHLi26md7X"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160576,
+      "name": "Un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/7sr4IbjV6IxVUktNk86wf6"
+    },
+    {
+      "album": {
         "name": "M\u00e9tete en Tu Amor",
         "url": "https://open.spotify.com/album/4w8SyxKXxrc86jJs8b8tBm"
       },
@@ -13910,6 +14022,28 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "album": {
+        "name": "VENDAVAL",
+        "url": "https://open.spotify.com/album/3UmC1efXALsL18k4KnLtcA"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        },
+        {
+          "name": "Toni Costa",
+          "url": "https://open.spotify.com/artist/23fWHhYOBr5PQVvuBrx5l3"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209605,
+      "name": "VENDAVAL",
+      "url": "https://open.spotify.com/track/5Qus7bpzmfchnnUfPBBgfu"
     },
     {
       "album": {

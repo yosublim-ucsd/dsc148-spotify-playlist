@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Bad luck",
+        "url": "https://open.spotify.com/album/5g9YqwL7hTyUN8IrzbWzDM"
+      },
+      "artists": [
+        {
+          "name": "Takek",
+          "url": "https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203279,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/1nYmCw9Ca5IYdL5bgesRPZ"
+    },
+    {
+      "album": {
         "name": "Energizer",
         "url": "https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 156286,
       "name": "Malaku",
       "url": "https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x"

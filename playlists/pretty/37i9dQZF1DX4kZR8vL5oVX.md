@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Solann \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,456 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,619 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 29 | [Ô travers](https://open.spotify.com/track/37lyOMtkmXCvQMqdIV9jP3) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Le dernier des voyages\)](https://open.spotify.com/album/4nXalwXLXOcfyQMw0WOZBW) | 2:41 |
 | 30 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 31 | [ALLO?C MOI](https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [ALLO?C MOI](https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7) | 2:14 |
-| 32 | [VENDETTA](https://open.spotify.com/track/7AV0BrYMW2e1rtzuyHYe4s) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [VENDETTA](https://open.spotify.com/album/2DMgmdNwczV5ru2A53BjDB) | 3:49 |
-| 33 | [harvest sky](https://open.spotify.com/track/0enz80MqryEfAT33MIXtFU) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/4Nn9VukWdfqFAx61e8CPJ0) | 3:53 |
-| 34 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 |
-| 35 | [je vais bien.](https://open.spotify.com/track/4qxWwA10egDD9lx1WrgON3) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs plus tard.](https://open.spotify.com/album/0au7XEe7YefU2tH4poZs9V) | 2:58 |
-| 36 | [Facing Roses](https://open.spotify.com/track/07d7dJweYrdazGM0touyVJ) | [Anaïs Rosso](https://open.spotify.com/artist/3SF6SY9ya4iNKm2N6DQ2uH) | [Facing Roses](https://open.spotify.com/album/1SnNtUTFwLu86syMbJe3N9) | 3:17 |
-| 37 | [la pluie](https://open.spotify.com/track/6HRNhckVwmzkGjbGhTcpb2) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/3oLJDmOdhelAPLm8K5yTXq) | 2:39 |
-| 38 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 |
-| 39 | [Unforgettable](https://open.spotify.com/track/4cZHE36Q0PKAKrw2vubIm0) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [L'album de la promo 2024](https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3) | 2:40 |
+| 32 | [harvest sky](https://open.spotify.com/track/0enz80MqryEfAT33MIXtFU) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/4Nn9VukWdfqFAx61e8CPJ0) | 3:53 |
+| 33 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 |
+| 34 | [je vais bien.](https://open.spotify.com/track/4qxWwA10egDD9lx1WrgON3) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs plus tard.](https://open.spotify.com/album/0au7XEe7YefU2tH4poZs9V) | 2:58 |
+| 35 | [Facing Roses](https://open.spotify.com/track/07d7dJweYrdazGM0touyVJ) | [Anaïs Rosso](https://open.spotify.com/artist/3SF6SY9ya4iNKm2N6DQ2uH) | [Facing Roses](https://open.spotify.com/album/1SnNtUTFwLu86syMbJe3N9) | 3:17 |
+| 36 | [la pluie](https://open.spotify.com/track/6HRNhckVwmzkGjbGhTcpb2) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/3oLJDmOdhelAPLm8K5yTXq) | 2:39 |
+| 37 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 |
+| 38 | [Unforgettable](https://open.spotify.com/track/4cZHE36Q0PKAKrw2vubIm0) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [L'album de la promo 2024](https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3) | 2:40 |
+| 39 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ma sœur \(Au pays des Merveilles\)](https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k) | 2:51 |
 | 40 | [Fleurs Fanées](https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Fleurs Fanées](https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA) | 3:28 |
 | 41 | [KAYA](https://open.spotify.com/track/5ZuGUUtLkkh7IuCUpMGz62) | [Kay The Prodigy](https://open.spotify.com/artist/4ziOwyCpUFMlERkfyoEV6p) | [KAYA](https://open.spotify.com/album/6Yhw8ZRXei6MudzSl6nzrU) | 2:07 |
 | 42 | [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
 | 50 | [Bad boy malheureux](https://open.spotify.com/track/3Pp7Nv3HNY6TCDcD6f09I4) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs](https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN) | 2:54 |
 
-Snapshot ID: `Z6OgCQAAAADe+3dgzT81EPdgVhP+cjBx`
+Snapshot ID: `Z6ZBWgAAAACza6y28IJUn32A0yE6Jlc4`

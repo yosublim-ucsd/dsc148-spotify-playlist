@@ -789,6 +789,28 @@
     },
     {
       "album": {
+        "name": "Tarzan (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        },
+        {
+          "name": "Merche Macaria",
+          "url": "https://open.spotify.com/artist/3EpcaEm4CiGeEAhHymp7TV"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99106,
+      "name": "En Mi Coraz\u00f3n Estar\u00e1s",
+      "url": "https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf"
+    },
+    {
+      "album": {
         "name": "Lady and the Tramp",
         "url": "https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk"
       },

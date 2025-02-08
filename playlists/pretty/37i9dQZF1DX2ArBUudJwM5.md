@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Juana Molina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,881 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,883 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 26 | [Chica Mutante](https://open.spotify.com/track/4hpcMoBPVbDIoQHtW40KUg) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Chica Mutante](https://open.spotify.com/album/63NFBjMrPVf5c9y3eVJL6n) | 3:20 |
 | 27 | [Terso](https://open.spotify.com/track/3PX3vBojK8fE5poLUw0xw7) | [Vera](https://open.spotify.com/artist/0x3Vlve4e1tC8jVv0P1Lwm) | [Terso](https://open.spotify.com/album/5ecrotTFt36RPmI999Fp0S) | 3:10 |
 | 28 | [La madrina](https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Shima](https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl) | 3:08 |
-| 29 | [Billetes](https://open.spotify.com/track/6I4ZBlfCDUl1vlgEPsk3Lu) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE) | 3:31 |
-| 30 | [Mi Auto](https://open.spotify.com/track/2kDaFXFmEeha1r1ZCHIONF) | [Mueran Humanos](https://open.spotify.com/artist/6QFejLfdSjnBOVvH6kqCEq) | [Miseress](https://open.spotify.com/album/1O2jnMOsCrKS5dsJMsExmK) | 4:46 |
-| 31 | [Mantis](https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP) | [Nueva en el Amor](https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw) | 2:46 |
-| 32 | [Isla](https://open.spotify.com/track/0X5dDpPKkh8DfUUkKlWnfa) | [Las Escuchas](https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq) | [El Brillo de la Despedida](https://open.spotify.com/album/35SfNlc9iaT1peK9G5n6TY) | 2:15 |
+| 29 | [Mi Auto](https://open.spotify.com/track/2kDaFXFmEeha1r1ZCHIONF) | [Mueran Humanos](https://open.spotify.com/artist/6QFejLfdSjnBOVvH6kqCEq) | [Miseress](https://open.spotify.com/album/1O2jnMOsCrKS5dsJMsExmK) | 4:46 |
+| 30 | [Billetes](https://open.spotify.com/track/6I4ZBlfCDUl1vlgEPsk3Lu) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE) | 3:31 |
+| 31 | [Isla](https://open.spotify.com/track/0X5dDpPKkh8DfUUkKlWnfa) | [Las Escuchas](https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq) | [El Brillo de la Despedida](https://open.spotify.com/album/35SfNlc9iaT1peK9G5n6TY) | 2:15 |
+| 32 | [Mantis](https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP) | [Nueva en el Amor](https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw) | 2:46 |
 | 33 | [Rota](https://open.spotify.com/track/0vlz20EDRMttxRuTPNZzfr) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [FLAPS](https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO) | 4:15 |
 | 34 | [Lluvia y arcoiris](https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH) | [Eva Gou](https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6) | [Venus en trance](https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi) | 4:03 |
 | 35 | [Ahora](https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr) | [VULKA](https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl) | [Ahora](https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O) | 4:02 |

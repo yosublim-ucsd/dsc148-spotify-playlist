@@ -63,6 +63,26 @@
     {
       "added_at": "2025-02-06 15:00:23",
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/7gV9RjqCQFRHZcGwkzMoby"
+    },
+    {
+      "added_at": "2025-02-06 15:00:23",
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },

@@ -8047,6 +8047,28 @@
     },
     {
       "album": {
+        "name": "Em Nome das Ruas",
+        "url": "https://open.spotify.com/album/1oU1ThRWobv3TG27DL5O7Y"
+      },
+      "artists": [
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98548,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/4ZNu1yYAJFt3IAYhIwjQs6"
+    },
+    {
+      "album": {
         "name": "Fragmentado",
         "url": "https://open.spotify.com/album/6VpD6wZITYQuFTC4d1IU9A"
       },
@@ -21882,6 +21904,28 @@
       "duration_ms": 108323,
       "name": "Voltei",
       "url": "https://open.spotify.com/track/77Yf4Jfx61VmOvOG1c4jhL"
+    },
+    {
+      "album": {
+        "name": "Nunca Tenha Medo",
+        "url": "https://open.spotify.com/album/2KLXDzdhtlXARb2Xj45v0q"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140812,
+      "name": "Vou Descer Minha Favela de Nave",
+      "url": "https://open.spotify.com/track/14opA23741M0TKpFjTnMTP"
     },
     {
       "album": {

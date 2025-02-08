@@ -4764,7 +4764,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 212200,
       "name": "Spark to Die",
       "url": "https://open.spotify.com/track/3yXOWLxU2vXdAFgKQ5wYSB"
@@ -5484,6 +5484,24 @@
       "duration_ms": 169655,
       "name": "WAS DW\u00d3CH",
       "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
+    },
+    {
+      "album": {
+        "name": "We're Not The Same",
+        "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196814,
+      "name": "We're Not The Same",
+      "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
     },
     {
       "album": {

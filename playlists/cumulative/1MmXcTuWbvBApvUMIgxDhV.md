@@ -4,7 +4,7 @@
 
 > 
 
-89 songs - 5 hr 10 min
+90 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Sing Me Home](https://open.spotify.com/track/45Wz6MQQSkVPefMcIvramu) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Sing Me Home](https://open.spotify.com/album/6fAFRQWy5QQkBNTzwZuJUX) | 2:54 | 2020-09-24 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2020-09-24 |  |
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2020-09-24 |  |
+| [Symphony](https://open.spotify.com/track/18vBWHc5Xfap9KBvRmjyGr) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Symphony](https://open.spotify.com/album/0MePgZiFUPuBQVraBKqfI1) | 3:22 | 2025-02-07 |  |
 | [take me on](https://open.spotify.com/track/70hvCk6sUutFjKA1Y4W1mc) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [take me on](https://open.spotify.com/album/0bFDNLvbE7GTHfUasrLy7p) | 3:30 | 2020-05-12 |  |
 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 | 2020-07-21 |  |
 | [The Lord Ain't Let Me Down Lately](https://open.spotify.com/track/5Z9lSh0fbNsNpgMvg2y2Hc) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [The Lord Ain't Let Me Down Lately](https://open.spotify.com/album/62V2XMSZ2xjaBMbk3clYoZ) | 3:32 | 2021-06-17 |  |

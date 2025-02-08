@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🌧️ det er  <a href="spotify:album:2bnnrhhq45z8MEfLbW04zo">Regntid</a>  i <a href="spotify:artist:1w2fVGZN37TieWhlqS8UwB">Tobias Rahim</a>  land 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,476 likes - 108 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,619 likes - 108 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 70 | [G'D UP](https://open.spotify.com/track/4cOVVDIJxHRr71PVRt2epR) | [IVYxM](https://open.spotify.com/artist/5egzRmwGZxr5zT8Dzy5Ml9) | [G'D UP](https://open.spotify.com/album/5F44d7WS9aSFG7e2eMEGGv) | 2:00 |
 | 71 | [Du Kan Ikke Røre Ved Mig](https://open.spotify.com/track/75Pg9VHDkSDHERweOB2IMi) | [Pede B](https://open.spotify.com/artist/05X5qdeeGgBQe115bTNlWu) | [Du Kan Ikke Røre Ved Mig](https://open.spotify.com/album/1VSDvJoSYrIUCyOot4uqxX) | 2:59 |
 | 72 | [Hvad ved de](https://open.spotify.com/track/0ER5alunyZrXEHC8UdkuJZ) | [Figi](https://open.spotify.com/artist/43VE5bWGVooLKe8DXKxO99) | [Hvad ved de](https://open.spotify.com/album/0roxGxFMhoa7bvXsx4IoKK) | 2:18 |
-| 73 | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 |
-| 74 | [K.O \(feat\. Miles Blessing\)](https://open.spotify.com/track/3DaOjfOyWAIkLTrhx5xXEq) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Miles Blessing](https://open.spotify.com/artist/6pMMmef771kdxYkIodWMGd) | [CROWDPLEASER](https://open.spotify.com/album/4ZWm1APWj4dXfX2y8aulUI) | 3:15 |
+| 73 | [Putita Boutique](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 |
+| 74 | [K.O](https://open.spotify.com/track/3DaOjfOyWAIkLTrhx5xXEq) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug) | [CROWDPLEASER](https://open.spotify.com/album/4ZWm1APWj4dXfX2y8aulUI) | 3:15 |
 | 75 | [KONJAKMUND](https://open.spotify.com/track/1dis7r7AeXwqwEKOUUnfot) | [Piskeringen](https://open.spotify.com/artist/3GaFF5rRNyOn4Gevw60Gbi) | [KONJAKMUND](https://open.spotify.com/album/1ROss1pRkqTULvaZiv5MBH) | 3:34 |
 | 76 | [Only The Dream](https://open.spotify.com/track/2lme5taLUzxbhr39etbO9R) | [Kira Skov](https://open.spotify.com/artist/4KafLGsDcBlyXxeQZhYs6e) | [Only The Dream](https://open.spotify.com/album/4yZxWOsA3FITwvy9lT37LC) | 3:42 |
 | 77 | [mit job](https://open.spotify.com/track/23PfUi7JOYGIuw5vIyk7IX) | [JOHANNA](https://open.spotify.com/artist/0un4gegeUTgoLWeol2Xk4p) | [mit job](https://open.spotify.com/album/0m3ImSYguFSVP1IBXj5dgC) | 2:21 |

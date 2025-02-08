@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,099 songs - 1 day 8 hr 47 min
+1,103 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Bug In A Rug](https://open.spotify.com/track/4gSBGniqtgW3gEDEoJjjTH) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Bug In A Rug](https://open.spotify.com/album/4gd2sy1xnO8iuip5WeXeCv) | 1:44 | 2022-11-11 | 2024-04-05 |
 | [Bumblebee's Song](https://open.spotify.com/track/0X6Y8tfzEVVSouA435bMzO) | [Mia Sander](https://open.spotify.com/artist/0LnIcNhu7arRU9zzbCuYA7) | [Bumblebee's Song](https://open.spotify.com/album/4benOw3tOOgAzTsvOzbPAg) | 1:46 | 2023-12-08 |  |
 | [Bundle Of Joy](https://open.spotify.com/track/0uMbCB0ub2cGxgOf7fmiUj) | [Lola Fuentes](https://open.spotify.com/artist/5KLHjKxR9I5LuvQJ5xju6u) | [Bundle Of Joy](https://open.spotify.com/album/0DcXoQBIWV143wjNJHjKAo) | 1:08 | 2023-01-27 | 2024-11-09 |
+| [Bunny's Long Day](https://open.spotify.com/track/4jF05u53o27CklqVi725z9) | [Milo Sandbo](https://open.spotify.com/artist/4bP0fth0P52xYXVOqjxv3t) | [Bunny's Long Day](https://open.spotify.com/album/2siLcH7jIGOzh3QW3GYLgx) | 2:16 | 2025-02-07 |  |
 | [Busy Little Bee](https://open.spotify.com/track/5Up0AeRVMombLEvAdVSXlu) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Watching The Sunset](https://open.spotify.com/album/6IShePTSr5ZHMvpz5cCxO4) | 1:50 | 2022-12-16 | 2024-05-24 |
 | [Buttercup](https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Buttercup](https://open.spotify.com/album/0Q3YP5gmFJMQO2HqL3Becv) | 1:38 | 2024-07-19 |  |
 | [Butterflies In My Stomach](https://open.spotify.com/track/2Zvf5qCoore4Sx9NjpEMDu) | [Bernice Stanford](https://open.spotify.com/artist/2g1Hf5dYttt4q2xm9131Qo) | [Butterflies In My Stomach](https://open.spotify.com/album/7Fo0wT9KJBOPqn7xpzn4sL) | 2:09 | 2021-11-08 | 2022-09-24 |
@@ -447,7 +448,7 @@
 | [Il mio bambino](https://open.spotify.com/track/0ssGaSyS6FrfPa6NtncKnr) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [Il mio bambino](https://open.spotify.com/album/2Uai0rWKNl4B7s3k7muORv) | 2:05 | 2022-05-13 | 2024-04-05 |
 | [In a Cabin in the Woods](https://open.spotify.com/track/1etN0gDiz38jSh5kqKt9zk) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [In a Cabin in the Woods](https://open.spotify.com/album/25c1CgZZzEG7kLj60bNHaD) | 1:29 | 2024-05-24 |  |
 | [In mom's purse](https://open.spotify.com/track/3KXK50MwbDlWNvXDIzCHDt) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:11 | 2022-05-13 | 2022-10-29 |
-| [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 | 2023-05-12 |  |
+| [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 | 2023-05-12 | 2025-02-08 |
 | [In My Cot](https://open.spotify.com/track/40iEy0h6OZSjvQVarYwTXO) | [Nerissa Hale](https://open.spotify.com/artist/4g7kMJcLZe9HABplPVtGDb) | [In My Cot](https://open.spotify.com/album/4hNN2PbUs6rPu3gWr7gVD5) | 1:28 | 2021-11-08 | 2024-04-05 |
 | [In My Dreams](https://open.spotify.com/track/7bpuq3wZc7ZTd15SGyqs5O) | [Paulette Brannigan](https://open.spotify.com/artist/5XqF83ddtiCAPcNGUVsze8) | [In My Dreams](https://open.spotify.com/album/4X1xOO2HxsxuwxwNXvp2QI) | 1:42 | 2021-11-08 | 2024-04-05 |
 | [In My Fluffy Bed](https://open.spotify.com/track/0wzXd36Xgmaa7M7ZyafdHH) | [Moa Rønningen](https://open.spotify.com/artist/6l1OPs7GLE1Jy4jWSShGgt) | [In My Fluffy Bed](https://open.spotify.com/album/6XqB7eYcHyurH5idNtww6y) | 2:03 | 2021-11-08 | 2024-04-05 |
@@ -495,6 +496,7 @@
 | [Le Fiacre \- Guitar Version](https://open.spotify.com/track/6CUY3d2PJhIzR2V6MNkoSf) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Le Fiacre \(Guitar Version\)](https://open.spotify.com/album/4ymz79UOyQjqwCHyE8oUw2) | 2:01 | 2023-06-02 |  |
 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lego Lego](https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Lego Lego](https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR) | 2:17 | 2022-06-30 | 2023-09-22 |
+| [Leo the Lion](https://open.spotify.com/track/3T4LWuYdxwyejPxCQeM0B9) | [Noel Keys](https://open.spotify.com/artist/6wjGDoGXnUiwtucOSTqac1) | [Leo the Lion](https://open.spotify.com/album/5fXtr8PSSOLxTXQdpFkDSR) | 1:21 | 2025-02-07 |  |
 | [Let's Call It A Night](https://open.spotify.com/track/3Hfc2BB0RAZ13TW1TFliE6) | [Lilly\-Ann Ottley](https://open.spotify.com/artist/6UVVSofDYobp2qJM6p35lL) | [Let's Call It A Night](https://open.spotify.com/album/0hRGRBZNsqFonXKYLxEEgJ) | 1:14 | 2022-04-22 | 2024-07-19 |
 | [Let's Count the Stars](https://open.spotify.com/track/7s9CZ7mFhH64seDrWTeUp3) | [Sophie Sara](https://open.spotify.com/artist/3CLgb4DSxdCYMbi2SKb17N) | [Let's Count the Stars](https://open.spotify.com/album/76YFaEATqkoHyOKuSCteC2) | 2:10 | 2021-11-08 | 2022-07-30 |
 | [Let's Go On A Treasure Hunt](https://open.spotify.com/track/6sWBGUMOeH7kJpC7Zo6h7p) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [Let's Go On A Treasure Hunt](https://open.spotify.com/album/022hQEvWHvxHXd5JWuWLpu) | 1:03 | 2021-11-08 | 2022-10-29 |
@@ -565,6 +567,7 @@
 | [Merry Meadows](https://open.spotify.com/track/44Vxvcdw1IclzMa0Znc8lN) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Golden Dreams](https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW) | 1:59 | 2023-05-12 | 2025-01-31 |
 | [Merry\-go\-round](https://open.spotify.com/track/60YHkVjJTe9yOuk2gYWqKk) | [Mary Willowfeather](https://open.spotify.com/artist/0mtgBfJTZfPCuMZ08HxCtS) | [Merry\-go\-round](https://open.spotify.com/album/1YWo5wJHBuJX9FFBLPHHhY) | 1:43 | 2021-11-08 | 2023-01-06 |
 | [Mi rayo de sol](https://open.spotify.com/track/2xeeRdL9B3iCrVkBAckGAy) | [Aline Almeida Rocha](https://open.spotify.com/artist/6D00zwiRArvpJycXcd0udR) | [Toma mi mano](https://open.spotify.com/album/4CyJ46CXZzbegrxs7OCaVg) | 1:30 | 2021-11-08 | 2022-09-24 |
+| [Mid Summer](https://open.spotify.com/track/5dE3XnhyLLMxYmthdlVaeM) | [Maja Hveiti](https://open.spotify.com/artist/6ZTAG2WREZaQCmk0aWkWOJ) | [Mid Summer](https://open.spotify.com/album/30cET1BzgJ5DSKs636Gala) | 1:49 | 2025-02-07 |  |
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 | 2024-04-05 |
 | [Mimi the Kitty](https://open.spotify.com/track/4PvmCpS4MkodUI4ph9PEHm) | [Luke Luna](https://open.spotify.com/artist/5PHXAnXlXSPvKiw5MAtdzK) | [Mimi the Kitty](https://open.spotify.com/album/0Ojh9WLd0qAjhs6KNtmrGb) | 1:55 | 2021-11-08 | 2023-04-09 |
 | [Min lille stjerne](https://open.spotify.com/track/3GmAmkvwxrDNnwwOKFroe3) | [Trude Egeland](https://open.spotify.com/artist/70nfwQmdbDzaXCx5aQxmry) | [Min lille stjerne](https://open.spotify.com/album/3WiW7d7rrVPFSM7LuxJk5i) | 1:26 | 2021-11-08 | 2022-12-16 |
@@ -731,6 +734,7 @@
 | [Rainy Night](https://open.spotify.com/track/2XFtak6yhkdJXi2JB1ljsO) | [Jewell Mutton](https://open.spotify.com/artist/6Zmp633XElPLmiTfsSDUcZ) | [Rainy Night](https://open.spotify.com/album/4itgNS2wmZXWvVvpe3Pwm7) | 1:08 | 2021-11-08 | 2024-04-05 |
 | [Rat In The Hat](https://open.spotify.com/track/3GZUhpSu3G5zhMRWC4k5ma) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Rat In The Hat](https://open.spotify.com/album/7p8i5EqvUcTzLKlYZR8QId) | 0:59 | 2023-12-08 |  |
 | [Ready for Bedtime](https://open.spotify.com/track/6KLsKhBDRZWnvgRUA0gDOt) | [Lisa Rast](https://open.spotify.com/artist/2auBmAJhZHsFFqN4OdeZK4) | [Ready for Bedtime](https://open.spotify.com/album/22fMh49ygU6sspPJQ8CyJz) | 2:08 | 2021-11-08 | 2022-10-29 |
+| [Rest My Sweet](https://open.spotify.com/track/51z1KkfB6UBJIKWtBUQGzF) | [Rohan Bhasker](https://open.spotify.com/artist/13ETCLA4rmADTdgWDvyZlo) | [Rest My Sweet](https://open.spotify.com/album/5A1fqaloC7cYD1mvh5mY9S) | 3:50 | 2025-02-07 |  |
 | [Rest Now, Child](https://open.spotify.com/track/7kH8eTfyPn17ryyIZ9OfAC) | [Roly Lucian](https://open.spotify.com/artist/6lEfvybWRACgFS0gXlZbUM) | [Rest Now, Child](https://open.spotify.com/album/5yceu7kN6AGSLpgytQU26Q) | 1:42 | 2021-11-08 | 2022-10-29 |
 | [Rest time for blossoms](https://open.spotify.com/track/786mO43v2Nc1cDVxf7urrt) | [Bernette Michael](https://open.spotify.com/artist/4DUIwR3vpLeBkdTzM3lf3d) | [Rest time for blossoms](https://open.spotify.com/album/4kqsQOwZPtVQvGD573V99o) | 1:28 | 2021-11-08 | 2022-12-16 |
 | [Rest Your Head on My Shoulder](https://open.spotify.com/track/6dj1sdJpygoCS6ELlLF6QV) | [Teddy Yawns](https://open.spotify.com/artist/6wWETmvBDGKmiNBypzSLdL) | [Rest Your Head on My Shoulder](https://open.spotify.com/album/4scvDHqPNK8Jk8VL4YloHA) | 1:25 | 2024-07-19 | 2024-10-01 |

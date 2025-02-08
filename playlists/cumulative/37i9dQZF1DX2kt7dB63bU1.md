@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-802 songs - 2 day 7 hr 53 min
+803 songs - 2 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bold](https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Bold](https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04) | 3:27 | 2025-01-10 |  |
 | [Bonita](https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Bonita](https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00) | 4:13 | 2021-03-26 | 2022-07-29 |
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2021-03-26 | 2022-10-08 |
-| [Break in the Clouds](https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Break in the Clouds](https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb) | 3:25 | 2024-07-12 |  |
+| [Break in the Clouds](https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Break in the Clouds](https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb) | 3:25 | 2024-07-12 | 2025-02-08 |
 | [Breathe](https://open.spotify.com/track/0es0xpOnqscchL7Ff1uAgu) | [Karmen Rõivassepp Quartet](https://open.spotify.com/artist/4KbNp9UenaZlT5eUOjoisO) | [Breathe](https://open.spotify.com/album/1hrsBXyhMYSeA4clm1nBqU) | 9:01 | 2022-02-18 | 2022-07-25 |
 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 | 2023-05-08 | 2024-01-06 |
 | [Burn](https://open.spotify.com/track/73uQl32t4hNWnWWfpRQ1uj) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Billy Kilson](https://open.spotify.com/artist/2CpN6s71YoYw3UDLKCFKRH) | [Burn](https://open.spotify.com/album/7CnkndNymkN758nv4t7HQf) | 3:46 | 2023-03-31 | 2023-06-17 |
@@ -450,6 +450,7 @@
 | [Marigold](https://open.spotify.com/track/7qPJo6KJN9qrAIYjl2l4y2) | [Mads Mathias](https://open.spotify.com/artist/2ULstknuMUacDoAFmVk9uN) | [I'm All Ears](https://open.spotify.com/album/7Mt3lY98B6HYGcERYEtXa9) | 3:35 | 2022-02-18 | 2022-07-14 |
 | [Marina](https://open.spotify.com/track/6gevpgscwofUjTdGM0g6T9) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Quietude](https://open.spotify.com/album/0SzEjiRsCBU2SWT0C6ydUs) | 3:37 | 2022-10-14 | 2024-03-16 |
 | [Meet Me in New Orleans](https://open.spotify.com/track/2Rc8QvEAbbVEsVX1DE8DJy) | [Leah Ashton](https://open.spotify.com/artist/6bcdnRh3T16mFz42g1D58e) | [Meet Me in New Orleans](https://open.spotify.com/album/6DdzTqDYGItjmDFtEKD1GG) | 4:18 | 2021-02-05 | 2022-07-23 |
+| [Meet Me in Paris](https://open.spotify.com/track/10cJYD29XNsV9hdsj5drOK) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5), [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn) | [Meet Me in Paris](https://open.spotify.com/album/7K3LJ09NiFml7k1LFdBnBB) | 3:44 | 2025-02-07 |  |
 | [Melancolia](https://open.spotify.com/track/3QEumJ2N6d2aIofXv9TogC) | [Reginald Policard](https://open.spotify.com/artist/2rpkFjDSlvqHvuhNDNPuU2), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Melancolia](https://open.spotify.com/album/1GATA4Xp005aHyOdYpwe9s) | 4:36 | 2023-02-24 | 2024-06-15 |
 | [Mercy](https://open.spotify.com/track/28BuGCSbPIjzmYY3zCmESA) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Mercy](https://open.spotify.com/album/3yghgHELi2zqgEb8K7NYGS) | 5:58 | 2023-01-06 | 2024-04-27 |
 | [Merry Go Round](https://open.spotify.com/track/4TQw94EIYCRO1fQOWkhXNp) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 5:26 | 2020-10-09 | 2022-02-18 |

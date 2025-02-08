@@ -11993,6 +11993,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7zTPB4jTdzab3IBl2B5qKc"
+      },
+      "artists": [
+        {
+          "name": "Harvi",
+          "url": "https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/67JEKx7fuUhDQYwYoCllHG"
+    },
+    {
+      "album": {
         "name": "Na Na",
         "url": "https://open.spotify.com/album/0KOkukOiZMLXcwVkubGIEd"
       },
@@ -19758,7 +19776,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 207073,
       "name": "Vekhan Nu",
       "url": "https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy"

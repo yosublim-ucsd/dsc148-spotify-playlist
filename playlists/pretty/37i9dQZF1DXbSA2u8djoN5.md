@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Petre Stefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,890 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,894 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [După sfârșit](https://open.spotify.com/track/4W5d8Ka2h042sUdaevjUlL) | [Vlad Dobrescu](https://open.spotify.com/artist/0bypMpAgjSZJaThtP1oqFV) | [Fiare noi](https://open.spotify.com/album/4T4w9o0BJUikD9UTYBFukc) | 4:20 |
 | 46 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
 | 47 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 |
-| 48 | [BAGS IN THIS B\*TCH](https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BAGS IN THIS B\*TCH](https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx) | 2:18 |
-| 49 | [Lacrimi](https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Lacrimi](https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F) | 2:47 |
-| 50 | [PATEK](https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [PATEK](https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz) | 2:25 |
+| 48 | [Lacrimi](https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Lacrimi](https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F) | 2:47 |
+| 49 | [PATEK](https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [PATEK](https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz) | 2:25 |
+| 50 | [BAGS IN THIS B\*TCH](https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BAGS IN THIS B\*TCH](https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx) | 2:18 |
 
 Snapshot ID: `Z6Uw9gAAAACAhu4KMitNxyI0B0gCPSdY`

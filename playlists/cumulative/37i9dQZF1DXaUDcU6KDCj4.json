@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Julien Baker & TORRES",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Waxahatchee",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -3157,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "At War With The Dogcatchers",
+        "url": "https://open.spotify.com/album/6D7RdGjINcChNQU2m5571K"
+      },
+      "artists": [
+        {
+          "name": "The Taxpayers",
+          "url": "https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285750,
+      "name": "At War With the Dogcatchers",
+      "url": "https://open.spotify.com/track/1MpwNeCaXPyhqUlnUyk7Wj"
+    },
+    {
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 232853,
       "name": "Baby Bright",
       "url": "https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw"
@@ -4209,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Berry Herman",
+        "url": "https://open.spotify.com/album/6ibM2qLP7QUMj0yh8io6I5"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271624,
+      "name": "Berry Herman",
+      "url": "https://open.spotify.com/track/5mxx425smCovOzcG3rySrh"
+    },
+    {
+      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -4856,7 +4892,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 199993,
       "name": "Black Monday",
       "url": "https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8"
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 169803,
       "name": "Bones Sleep",
       "url": "https://open.spotify.com/track/0iOyNCPEDidYqENgVwIqHQ"
@@ -9218,7 +9254,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 214548,
       "name": "Curse The Man",
       "url": "https://open.spotify.com/track/0q1I8KyMQ4fM9LcrX8YkS9"
@@ -12754,6 +12790,28 @@
       "duration_ms": 191993,
       "name": "Evergreen (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
+    },
+    {
+      "album": {
+        "name": "Evergreen Lover",
+        "url": "https://open.spotify.com/album/1lqjjT5374C9VxoI6fIiW6"
+      },
+      "artists": [
+        {
+          "name": "barrett",
+          "url": "https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY"
+        },
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Evergreen Lover",
+      "url": "https://open.spotify.com/track/623iB0LL6nNS0pZekU2FOc"
     },
     {
       "album": {
@@ -17649,6 +17707,24 @@
     },
     {
       "album": {
+        "name": "Heartbreakdown",
+        "url": "https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254822,
+      "name": "Heartbreakdown",
+      "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
@@ -18072,7 +18148,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186750,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/7cyQ0QpACINF7M5Zccnwap"
@@ -22196,7 +22272,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 257133,
       "name": "In the Haze",
       "url": "https://open.spotify.com/track/129MxO8ztlnNLRtgUALkVu"
@@ -26959,6 +27035,24 @@
     },
     {
       "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/6Y85Tlf0EPPOmHdfJYcLQX"
       },
@@ -28591,6 +28685,24 @@
     },
     {
       "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
+    },
+    {
+      "album": {
         "name": "Mudroom",
         "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
       },
@@ -28934,7 +29046,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 272853,
       "name": "My Name",
       "url": "https://open.spotify.com/track/6xVtux8rwUfuFtTSiZyOpw"
@@ -31128,7 +31240,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 212875,
       "name": "On and On",
       "url": "https://open.spotify.com/track/5xnXsMxmknyeyCrwHU4M4M"
@@ -31454,7 +31566,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 274921,
       "name": "Only Time (demo)",
       "url": "https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc"
@@ -33108,6 +33220,28 @@
       "duration_ms": 214811,
       "name": "Poem Song",
       "url": "https://open.spotify.com/track/2udjjhSOkwllcB7BiJaf2p"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV"
     },
     {
       "album": {
@@ -35686,7 +35820,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 234482,
       "name": "Same Old You",
       "url": "https://open.spotify.com/track/0JyzBEeiJNppgBWinakl0f"
@@ -36250,7 +36384,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 269047,
       "name": "Season of Charade",
       "url": "https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX"
@@ -39538,6 +39672,24 @@
     {
       "album": {
         "name": "Stranger",
+        "url": "https://open.spotify.com/album/5UYvcgTwVCdUAO7sLAr2o7"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205536,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2NQMFhWHKp00FOxqVLd3LV"
+    },
+    {
+      "album": {
+        "name": "Stranger",
         "url": "https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA"
       },
       "artists": [
@@ -40456,6 +40608,24 @@
       "duration_ms": 220992,
       "name": "Sweetbread",
       "url": "https://open.spotify.com/track/18l2xZOq4tYSzioYNkPumD"
+    },
+    {
+      "album": {
+        "name": "Sweetest Heart",
+        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196436,
+      "name": "Sweetest Heart",
+      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
     },
     {
       "album": {
@@ -41793,6 +41963,24 @@
     },
     {
       "album": {
+        "name": "the cage",
+        "url": "https://open.spotify.com/album/6FdekjQidS05yr24dL5qmX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165071,
+      "name": "the cage",
+      "url": "https://open.spotify.com/track/2vHULk2GDOJwsJ3dU5b555"
+    },
+    {
+      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -42704,7 +42892,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
@@ -42938,7 +43126,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 233027,
       "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
       "url": "https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg"
@@ -48468,6 +48656,28 @@
       "duration_ms": 264926,
       "name": "White Lies, White Jesus And You",
       "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
+    },
+    {
+      "album": {
+        "name": "Mantras (Deluxe)",
+        "url": "https://open.spotify.com/album/2Qn3HYRLIxoRXUeE3kECb8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282166,
+      "name": "White Lies, White Jesus And You (with S.G. Goodman)",
+      "url": "https://open.spotify.com/track/4dnL01ysFHmztgy8m5emxy"
     },
     {
       "album": {

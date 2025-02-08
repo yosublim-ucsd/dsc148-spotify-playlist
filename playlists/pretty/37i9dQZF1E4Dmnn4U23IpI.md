@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Ollie Wride, Gunship, Siamese Youth and more
+> With Gunship, Ollie Wride, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,407 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,414 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [1984 \(Reprise\)](https://open.spotify.com/track/6zis306o9zhksqQoFyOMZJ) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 2:31 |
 | 50 | [Lightyears](https://open.spotify.com/track/4gPWWrsvQtFKMUmhvjanBh) | [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7), [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Outland](https://open.spotify.com/album/38w8Y4sFtjMdPYVYzHozt5) | 4:23 |
 
-Snapshot ID: `Z6VldAAAAADliwl1Yb/vY/nGF8f5Dqe2`
+Snapshot ID: `Z6al3QAAAACd3Kd7iXCn1kYnateZBz2n`

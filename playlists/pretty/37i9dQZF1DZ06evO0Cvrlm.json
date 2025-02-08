@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 581007,
+  "num_followers": 581081,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6KqAAAAAAD7KcOcTJeY5Xl2y6h8XTPK",
+  "snapshot_id": "Z6P7gAAAAAAD1P9LsS0SHYSuqt0Y4KbI",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 434733,
-      "name": "Cowboys and Angels - Remastered",
-      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 318804,
       "name": "I Can't Make You Love Me - Studio Version",
       "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 434733,
+      "name": "Cowboys and Angels - Remastered",
+      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
     },
     {
       "added_at": null,

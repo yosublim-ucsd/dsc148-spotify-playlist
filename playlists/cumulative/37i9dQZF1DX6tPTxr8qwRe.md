@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Sophie Powers
+> Dark, hard hitting pop\. Cover: Cil
 
-847 songs - 1 day 15 hr 5 min
+850 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Bored](https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Bored](https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS) | 2:47 | 2023-02-10 | 2023-07-15 |
 | [Bougie Bitch](https://open.spotify.com/track/3vwMUcxR0V664IvIt3HhfG) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Bougie Bitch](https://open.spotify.com/album/13qIfIFasLtP1VkcbKCM1g) | 2:38 | 2024-06-21 | 2024-10-12 |
 | [Boy](https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Boy](https://open.spotify.com/album/51W87FN1JTbDlLEmhI2V7y) | 2:51 | 2023-06-16 | 2023-09-09 |
+| [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 | 2025-02-07 |  |
 | [boy i'd like to kill](https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [boy i'd like to kill](https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7) | 2:27 | 2024-02-16 | 2024-04-27 |
 | [Boy in the Back](https://open.spotify.com/track/4SGEMgo0dBDqAznK9Q0CtL) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Boy in the Back](https://open.spotify.com/album/0HW4sTSB9JRHJspGr8L3ce) | 2:31 | 2024-01-19 | 2024-04-27 |
 | [Boy Of The Month](https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Boy Of The Month](https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu) | 1:46 | 2023-06-16 | 2023-09-09 |
@@ -187,7 +188,7 @@
 | [Cut You Off](https://open.spotify.com/track/4yPI6KSmMMyUnKarPbYlzB) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Cut You Off](https://open.spotify.com/album/6n590MjEHxUtzB1xSdZuzR) | 3:33 | 2023-10-20 | 2024-03-23 |
 | [cynical](https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [cynical](https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD) | 2:53 | 2023-02-17 | 2023-05-06 |
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 | 2023-12-09 |
-| [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 | 2024-10-18 |  |
+| [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 | 2024-10-18 | 2025-02-08 |
 | [Dangerous](https://open.spotify.com/track/5sVGUMG3JxHXC70IGTjmK1) | [Rubina](https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M) | [Dangerous](https://open.spotify.com/album/1DzbWIh7tTnbyLV0NzWmJO) | 2:45 | 2024-05-31 | 2024-07-27 |
 | [Dark Side](https://open.spotify.com/track/2vvMmPGdcZPOXZycjGEqja) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Dark Side](https://open.spotify.com/album/1QJaDupeRe0iuHCijci8f6) | 2:51 | 2021-12-31 | 2022-03-18 |
 | [Dark Side](https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Dark Side](https://open.spotify.com/album/1Mt02bzaETcvNe5psmpdzh) | 2:05 | 2023-06-30 | 2023-09-09 |
@@ -379,7 +380,7 @@
 | [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 | 2024-03-01 | 2024-06-15 |
 | [i feel everything](https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love](https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL) | 2:18 | 2022-06-03 | 2023-02-04 |
 | [I Gotta Be Cool](https://open.spotify.com/track/7ux2e8AFpQ7aM5YDjyNCwi) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/1afriBMjB8dx1CVmTsEI5a) | 3:29 | 2024-10-18 |  |
-| [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs) | 2:23 | 2024-10-18 |  |
+| [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs) | 2:23 | 2024-10-18 | 2025-02-08 |
 | [i hope you know what you're doing](https://open.spotify.com/track/5PMIK7eIb9doUGKWOuHZjq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [i hope you know what you're doing](https://open.spotify.com/album/3m4h6292GAxkgXnbRSZjob) | 2:39 | 2022-09-09 | 2022-10-29 |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [I Know U Know](https://open.spotify.com/track/2EFNCr1kRsyLmryWA3M8xF) | [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [I Know U Know](https://open.spotify.com/album/5TTU4kEpnHYMA8k822kJjk) | 3:01 | 2022-06-03 | 2022-07-16 |
@@ -530,6 +531,7 @@
 | [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-16 | 2024-04-27 |
 | [Narcissistic](https://open.spotify.com/track/4t2QWoBL2RAsIGUjEs4EHK) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Narcissistic](https://open.spotify.com/album/51zC8YAdQSRQ4YiLxWLQbr) | 2:50 | 2024-01-26 | 2024-04-13 |
 | [narcissists](https://open.spotify.com/track/3R47rF1X1DNfk2sOD6WtbE) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [narcissists](https://open.spotify.com/album/3bxmadBCTKM5ehmDVfeMkv) | 1:51 | 2023-07-14 | 2023-08-19 |
+| [Nerve](https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Nerve](https://open.spotify.com/album/6217G8cp3DohoFXef2elzd) | 2:32 | 2025-02-07 |  |
 | [Nervous](https://open.spotify.com/track/0ycvaULgm8QZjmfu7NEq41) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [AIKONIC](https://open.spotify.com/album/3D3e4B1bGx5FWmCCWbHAYv) | 3:08 | 2024-06-28 | 2025-01-25 |
 | [Never Dated You](https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Never Dated You](https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU) | 2:01 | 2022-09-16 | 2023-02-04 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-12 | 2024-04-27 |
@@ -614,7 +616,7 @@
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-13 | 2023-12-02 |
 | [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-09 | 2023-08-11 |
 | [red flag collector](https://open.spotify.com/track/6a0x5MhnYdjxaotPNKXUvW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:58 | 2023-07-28 | 2023-09-09 |
-| [Relevant](https://open.spotify.com/track/0M4b06JYKNHHOv5vi5XsfJ) | [Kiki Kramer](https://open.spotify.com/artist/5TWBR6yQaUY06b4q1W3oJL) | [Relevant](https://open.spotify.com/album/2blPerUgDpv3dod46541Wr) | 2:49 | 2024-10-25 |  |
+| [Relevant](https://open.spotify.com/track/0M4b06JYKNHHOv5vi5XsfJ) | [Kiki Kramer](https://open.spotify.com/artist/5TWBR6yQaUY06b4q1W3oJL) | [Relevant](https://open.spotify.com/album/2blPerUgDpv3dod46541Wr) | 2:49 | 2024-10-25 | 2025-02-08 |
 | [Reminisce](https://open.spotify.com/track/6JMdjoMWLRwyqUm6RjyO07) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B) | [Reminisce](https://open.spotify.com/album/1FtbOVjWehrdpUjFXVu67R) | 2:35 | 2024-10-11 | 2025-01-25 |
 | [RENT FREE](https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [RENT FREE](https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb) | 2:51 | 2023-06-16 | 2023-08-05 |
 | [Representative](https://open.spotify.com/track/0UMRMfApYdAM0UmJxuNp6s) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Representative](https://open.spotify.com/album/2MlEvB9SxIKP5l8HVdEoLJ) | 2:52 | 2024-08-23 | 2024-09-07 |
@@ -850,6 +852,7 @@
 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-06 |  |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-06-03 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
+| [You're a Liar \(You Love Me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [You're a Liar \(You Love Me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 |  |
 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 | 2024-01-27 |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 | 2023-11-11 |
 | [ZIP](https://open.spotify.com/track/10HX3Y20m1IhRP3EwGCafL) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [ZIP](https://open.spotify.com/album/6T5zAszF9s9QWxkkw91Wwh) | 2:52 | 2024-10-11 | 2025-01-25 |

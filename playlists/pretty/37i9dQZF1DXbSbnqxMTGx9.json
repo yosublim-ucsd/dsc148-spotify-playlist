@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3074687,
+  "num_followers": 3075142,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Hollie Cook",
-        "url": "https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5"
-      },
-      "artists": [
-        {
-          "name": "Hollie Cook",
-          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Uptown Top Ranking",
         "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 229160,
       "name": "Uptown Top Ranking - Remastered 2001",
       "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Hollie Cook",
+        "url": "https://open.spotify.com/album/1maKK0LZS4kKqJmrDPMMU5"
+      },
+      "artists": [
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -460,22 +460,6 @@
       },
       "artists": [
         {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
           "name": "Tony Rebel",
           "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
         },
@@ -487,6 +471,22 @@
       "duration_ms": 295533,
       "name": "My Way Or The Highway (feat. Diana King)",
       "url": "https://open.spotify.com/track/4B6mG7n0BxvasblplYkgV5"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Legend (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 236946,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
+      "duration_ms": 256493,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1423,54 +1423,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "The Tide Is High - Stereo Version",
-      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Song Book: Chapter a Day",
-        "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
-      },
-      "artists": [
-        {
-          "name": "Jacob Miller",
-          "url": "https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Tenement Yard",
-      "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Legend (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1487,6 +1439,54 @@
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "The Tide Is High - Stereo Version",
+      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Song Book: Chapter a Day",
+        "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Miller",
+          "url": "https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Tenement Yard",
+      "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1519,6 +1519,22 @@
       "duration_ms": 152613,
       "name": "Travelling Man - Version 1",
       "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Police And Thieves",
+        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        }
+      ],
+      "duration_ms": 244306,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Burnin' (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1599,38 +1631,6 @@
       "duration_ms": 266986,
       "name": "Love Has Found Its Way",
       "url": "https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Police And Thieves",
-        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        }
-      ],
-      "duration_ms": 244306,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "Dave & Ansell Collins",
-          "url": "https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Double Barrel",
-      "url": "https://open.spotify.com/track/1TBjuwSsm731S048oMDehz"
     }
   ],
   "unique_name": "Reggae Classics",

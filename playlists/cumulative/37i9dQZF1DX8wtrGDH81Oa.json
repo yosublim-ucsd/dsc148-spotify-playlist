@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 148954,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/2BfwEdLt4TWg97w6GBbyRs"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 186000,
       "name": "Balearic Dream",
       "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 153606,
       "name": "Coastal Whisper",
       "url": "https://open.spotify.com/track/7eCiVG3O4Fnlv0pLHKAZO9"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 176450,
       "name": "Kap Verde",
       "url": "https://open.spotify.com/track/2BdPPhUCDxD3cXToZ8MdLp"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 141913,
       "name": "Look At The Stars",
       "url": "https://open.spotify.com/track/1cHC9pl8CiaW91dWRhNLeO"
@@ -3465,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Next to Nothing",
+        "url": "https://open.spotify.com/album/0ZQe7tYhDThzwEOTMuscW1"
+      },
+      "artists": [
+        {
+          "name": "Pello Esso",
+          "url": "https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133224,
+      "name": "Next to Nothing",
+      "url": "https://open.spotify.com/track/2EQHe3O0BqIwYJUweqzOD2"
+    },
+    {
+      "album": {
         "name": "nightlife",
         "url": "https://open.spotify.com/album/6Ydjw4eDdTCFMHiK41q8tm"
       },
@@ -3480,6 +3498,24 @@
       "duration_ms": 219600,
       "name": "nightlife",
       "url": "https://open.spotify.com/track/7atU7r3R9tYis2RZEHgXpx"
+    },
+    {
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/2pomA9uCmWnT5lq4obJwnv"
+      },
+      "artists": [
+        {
+          "name": "crayg",
+          "url": "https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142477,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/362hvFqYoaR5ZcZRyuvbuB"
     },
     {
       "album": {
@@ -3768,6 +3804,24 @@
       "duration_ms": 160000,
       "name": "Paper Hearts",
       "url": "https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X"
+    },
+    {
+      "album": {
+        "name": "paprika",
+        "url": "https://open.spotify.com/album/6RLYw5SO4rnegFoQOoKmZP"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138007,
+      "name": "paprika",
+      "url": "https://open.spotify.com/track/0sWX01TfQmE5cQCp8BkRiU"
     },
     {
       "album": {
@@ -5024,7 +5078,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 183993,
       "name": "Suede",
       "url": "https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg"
@@ -5582,7 +5636,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 151958,
       "name": "under the palm",
       "url": "https://open.spotify.com/track/19lOTWxU0iRPqMIRR2RPEk"
@@ -5690,7 +5744,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 171420,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6"

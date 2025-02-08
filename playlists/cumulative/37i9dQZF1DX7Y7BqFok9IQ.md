@@ -4,15 +4,16 @@
 
 > The best of modern blues rock\. Cover: Larkin Poe
 
-350 songs - 22 hr 48 min
+352 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1984](https://open.spotify.com/track/3fj0DAZAGzvwG1Qj59Q8eO) | [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc) | [1984](https://open.spotify.com/album/6GqFl8SgvirIfO71cqh7aI) | 4:31 | 2022-05-13 |  |
 | [6AM](https://open.spotify.com/track/1KqpIJN0QHQisjKwTIQkL1) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/6Rqox5C3LdLdqOyd1kcdy3) | 3:45 | 2020-10-16 | 2024-04-19 |
 | [6AM](https://open.spotify.com/track/2BfsuErJSI9t2TZb4kUW4h) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/2MofpH5ZRvvVjF8MnjpqTA) | 3:45 | 2020-10-16 |  |
-| [Ain't No Stopping Me](https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0) | [Ain't No Stopping Me](https://open.spotify.com/album/7bloW4tisDJapbL2qCOO8j) | 2:52 | 2024-06-07 |  |
+| [Ain't No Stopping Me](https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0) | [Ain't No Stopping Me](https://open.spotify.com/album/7bloW4tisDJapbL2qCOO8j) | 2:52 | 2024-06-07 | 2025-02-08 |
 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 | 2022-08-12 | 2023-04-15 |
+| [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/track/2svoL21ZppcmXbeOjqus6z) | [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [Ain’t Nuthin’s Gonna Be Alright](https://open.spotify.com/album/2m0rIzXNuuARhhzdRkvnFp) | 4:11 | 2025-02-07 |  |
 | [All Alone](https://open.spotify.com/track/0y4hx5uMm5RYImWtXVl21y) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/0HCt8hhIqeTaXrGpShR2J4) | 3:49 | 2020-10-16 | 2024-04-19 |
 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 | 2020-10-16 | 2024-05-03 |
 | [All I See Is You](https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP) | [Wight Lighters](https://open.spotify.com/artist/1MekQ13GRqKYQYrcJCx988) | [All I See Is You](https://open.spotify.com/album/5wl0osC3IOVFcFoFO02FMD) | 4:20 | 2022-06-10 |  |
@@ -173,6 +174,7 @@
 | [Lead The Way](https://open.spotify.com/track/5CT2OaJ5SHAUs96PjiCvAb) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [Lead The Way](https://open.spotify.com/album/4aMDsH5gbLxP1phBE9biwQ) | 3:27 | 2021-08-27 |  |
 | [Let Me Through](https://open.spotify.com/track/1OPMX3mOqbfdLkAufCqcrs) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Dodge And Burn](https://open.spotify.com/album/4FSpj7SmVcz5j6W0F7y27x) | 4:17 | 2020-10-16 | 2024-04-19 |
 | [Let Me Through](https://open.spotify.com/track/1XjkqaFUMBZjbMWxdrNR9L) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [Dodge and Burn](https://open.spotify.com/album/0AnU1H6jDN6QHN2xMgWHJc) | 4:17 | 2020-10-16 | 2024-10-26 |
+| [Let's Get Together](https://open.spotify.com/track/4HETqNVzwib2kYFfukHRys) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Let's Get Together](https://open.spotify.com/album/79G3AEpniTseURdIS645ww) | 2:36 | 2025-02-07 |  |
 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 | 2022-06-24 |  |
 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 | 2022-07-29 |  |
 | [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 |  |
@@ -216,7 +218,7 @@
 | [Nothing But The Blues](https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 3:21 | 2022-09-02 | 2023-09-16 |
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
-| [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
+| [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 | 2025-02-08 |
 | [Oh Well \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well](https://open.spotify.com/album/3DDmCdqJLOiK1ak8Ks8axQ) | 4:33 | 2024-04-12 | 2024-05-25 |
 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 4:33 | 2024-05-24 | 2024-07-06 |
 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG) | 4:33 | 2024-04-12 | 2024-04-19 |

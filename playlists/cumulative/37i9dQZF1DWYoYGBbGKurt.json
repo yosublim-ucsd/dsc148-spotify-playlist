@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Autumn Views",
+        "url": "https://open.spotify.com/album/4ea2LxOrBLP22em8V8ZOUN"
+      },
+      "artists": [
+        {
+          "name": "Mr Clyde",
+          "url": "https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "Autumn Views",
+      "url": "https://open.spotify.com/track/6ehKIufwrcNY6oJhSR90hM"
+    },
+    {
+      "album": {
         "name": "Autumnal",
         "url": "https://open.spotify.com/album/3O0t86julI9PhKkXUEdWCe"
       },
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157808,
       "name": "Beach Safari",
       "url": "https://open.spotify.com/track/4rqyubHsAfawYOSRtQIWvX"
@@ -2790,6 +2808,32 @@
       "duration_ms": 162000,
       "name": "BeatN Kiks",
       "url": "https://open.spotify.com/track/2GLpUNITwUeiTAbmeviyTZ"
+    },
+    {
+      "album": {
+        "name": "Beautiful Stranger",
+        "url": "https://open.spotify.com/album/1bQlV5l4g3LkiS42bzrthT"
+      },
+      "artists": [
+        {
+          "name": "Dreamfield",
+          "url": "https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm"
+        },
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "saint rumi",
+          "url": "https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120098,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/6Id4iQbJbqo9rxfD8NNqrX"
     },
     {
       "album": {
@@ -4864,7 +4908,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 121588,
       "name": "cardamom",
       "url": "https://open.spotify.com/track/1xkDRUMDUXgDqnOm31lqgW"
@@ -5544,7 +5588,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 144000,
       "name": "city dreamer",
       "url": "https://open.spotify.com/track/2FjdtRbCsLXVzefbJgYFgr"
@@ -8214,7 +8258,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 173538,
       "name": "Do not forget",
       "url": "https://open.spotify.com/track/1rUtzvQGTNYap9gPlEg1Er"
@@ -9338,6 +9382,28 @@
       "duration_ms": 115764,
       "name": "easy concept",
       "url": "https://open.spotify.com/track/2E7ASr0d58hNmCyaFAtree"
+    },
+    {
+      "album": {
+        "name": "Easy Days",
+        "url": "https://open.spotify.com/album/3MezzNojPjjHkZtSQvdVWJ"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "YODAKA",
+          "url": "https://open.spotify.com/artist/52ZLqRmHoenePZnJpjjnRn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134366,
+      "name": "Easy Days",
+      "url": "https://open.spotify.com/track/5o4jIEMBoCDuM5OBH9Oxu8"
     },
     {
       "album": {
@@ -16554,7 +16620,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 105714,
       "name": "Juno",
       "url": "https://open.spotify.com/track/5q12Pvv4DBHxxtT8i0bQBR"
@@ -16894,7 +16960,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 108777,
       "name": "Koh Lanta",
       "url": "https://open.spotify.com/track/6zU9djdVlbN0eKYLr0vzhB"
@@ -17330,7 +17396,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 147237,
       "name": "late nights",
       "url": "https://open.spotify.com/track/721Bki4eKI2WxkwrPPHW3c"
@@ -23544,6 +23610,24 @@
       "duration_ms": 125070,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH"
+    },
+    {
+      "album": {
+        "name": "Ociheal",
+        "url": "https://open.spotify.com/album/3z1TtDzn7kEEBFGkToJDiF"
+      },
+      "artists": [
+        {
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196692,
+      "name": "Ociheal",
+      "url": "https://open.spotify.com/track/2gdvBigymNnNAE9uGVypQE"
     },
     {
       "album": {
@@ -32824,7 +32908,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 155841,
       "name": "Thinking",
       "url": "https://open.spotify.com/track/4J26M0hSK1Qh8X8J0fwQ9J"
@@ -33454,6 +33538,24 @@
       "duration_ms": 170098,
       "name": "Train Tracks",
       "url": "https://open.spotify.com/track/6UAnLxI7nFV0PcEu6tN9Km"
+    },
+    {
+      "album": {
+        "name": "Tranquil",
+        "url": "https://open.spotify.com/album/23LDgMFt3UFpIhn7p3fTZy"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Tranquil",
+      "url": "https://open.spotify.com/track/1yZDGH6ufJ0t9cf65di8Ri"
     },
     {
       "album": {
@@ -36180,7 +36282,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 120000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5HGJq4nwo0kdAWrHMIkVww"
@@ -36548,7 +36650,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 115035,
       "name": "You Can't Take The Sky From Me",
       "url": "https://open.spotify.com/track/72CtfEwQmkwyE1T2zZJs8z"

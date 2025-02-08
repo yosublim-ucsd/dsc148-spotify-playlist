@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Skinny Hightower
 
-437 songs - 1 day 9 hr 19 min
+438 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Can't Make It with Your Brain](https://open.spotify.com/track/5kaBvDFliuVJE8zy9BjVtb) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Can't Make It with Your Brain](https://open.spotify.com/album/1IbOBwX1JllNtalRMRZd2Y) | 5:49 | 2021-09-10 | 2022-07-29 |
 | [Capture This](https://open.spotify.com/track/1TVnApmkJFqFLN77oI9X3z) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Capture This](https://open.spotify.com/album/2ukCIXlfWg8W0nSCWhNpiV) | 3:45 | 2022-04-01 |  |
 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 | 2022-04-01 | 2024-04-19 |
-| [CATS GROOVE](https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Tony Rosenberg](https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh) | [THE FUNK WILL PREVAIL](https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd) | 1:31 | 2022-04-01 |  |
+| [CATS GROOVE](https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Tony Rosenberg](https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh) | [THE FUNK WILL PREVAIL](https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd) | 1:31 | 2022-04-01 | 2025-02-08 |
 | [Celestial Blues](https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg) | [Gary Bartz Ntu Troop](https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN) | [Harlem Bush Music \- Uhuru](https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D) | 7:36 | 2020-10-09 |  |
 | [Chameleon](https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Chameleon](https://open.spotify.com/album/7Maxr67eS8mA5JVjZHBjfJ) | 4:42 | 2021-04-23 | 2024-03-16 |
 | [Chank](https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [A Go Go](https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3) | 6:46 | 2020-10-09 |  |
@@ -114,6 +114,7 @@
 | [Dumb People](https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Dumb People](https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm) | 2:56 | 2021-03-05 | 2022-07-29 |
 | [Echo A.D.](https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Echo A.D.](https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe) | 4:04 | 2023-08-11 |  |
 | [Echo A.D.](https://open.spotify.com/track/1ZlUY5Ue5RGOYWKGmfa4OK) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Hox](https://open.spotify.com/album/3gVEuGNplHxs8zVzfeC4vU) | 4:04 | 2023-08-11 | 2024-04-19 |
+| [ee](https://open.spotify.com/track/6mVr0WhXvMdP5C4h1m2aac) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [OFF BEAT](https://open.spotify.com/album/2DYou3lm2fgjgP5mk08nKN) | 2:04 | 2025-02-07 |  |
 | [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 3:41 | 2022-06-03 |  |
 | [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 | 2023-10-20 |  |
 | [ENDING CREDITS](https://open.spotify.com/track/3JaYwewAoUnMSQ6KvO6mr0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [ENDING CREDITS](https://open.spotify.com/album/0PBNwpqu4wNZD5C31H9NJk) | 4:42 | 2024-06-21 | 2024-07-27 |

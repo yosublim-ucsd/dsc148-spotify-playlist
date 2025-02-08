@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: Yves Berendse",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Robert van Hemert",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 163701,
       "name": "Als Ik Je Heb",
       "url": "https://open.spotify.com/track/50XPpXkxNanl3ADzJy8iAd"
+    },
+    {
+      "album": {
+        "name": "Als Je kijkt",
+        "url": "https://open.spotify.com/album/15nTqtmVFOhB6XZbteKY1u"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185290,
+      "name": "Als Je Kijkt",
+      "url": "https://open.spotify.com/track/4YZg6QZ5Mcl3Js3MKetT5C"
     },
     {
       "album": {
@@ -869,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Door Tot De Kater Komt",
+        "url": "https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177445,
+      "name": "Door Tot De Kater Komt",
+      "url": "https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P"
+    },
+    {
+      "album": {
         "name": "Drink Het Leven",
         "url": "https://open.spotify.com/album/5IVmOIuXyOhjnvSIZzSnZF"
       },
@@ -934,7 +970,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 183398,
       "name": "Een B&B Vol Liefde",
       "url": "https://open.spotify.com/track/4DKXbqXBOQwUrshlRmjStP"
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 157358,
       "name": "Geld Maakt Niet Gelukkig",
       "url": "https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2"
@@ -1324,6 +1360,24 @@
       "duration_ms": 152893,
       "name": "Hobbel Hobbel",
       "url": "https://open.spotify.com/track/1I3SaCDWwpP6ecFRv9URsW"
+    },
+    {
+      "album": {
+        "name": "Hoe Heet Dat Liedje?",
+        "url": "https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD"
+      },
+      "artists": [
+        {
+          "name": "Chris Bauer",
+          "url": "https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195399,
+      "name": "Hoe Heet Dat Liedje?",
+      "url": "https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc"
     },
     {
       "album": {
@@ -1522,7 +1576,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 206110,
       "name": "Ik Leef M'n Eigen Leven",
       "url": "https://open.spotify.com/track/78NbJ4YI54ou05zr9YPpOP"
@@ -1975,6 +2029,32 @@
     },
     {
       "album": {
+        "name": "Kan Het Ook Later",
+        "url": "https://open.spotify.com/album/55ziC8FL68Gy3HIoAxjoc0"
+      },
+      "artists": [
+        {
+          "name": "FeestDJRuud",
+          "url": "https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160857,
+      "name": "Kan Het Ook Later",
+      "url": "https://open.spotify.com/track/4UvEz0QvMjhGTvCgkMNGAG"
+    },
+    {
+      "album": {
         "name": "Kater Van De Liefde",
         "url": "https://open.spotify.com/album/4A8yq22J8ljbYLCFBkcRWo"
       },
@@ -2188,7 +2268,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 154218,
       "name": "Laat Me Alleen",
       "url": "https://open.spotify.com/track/73Wvvc3AGWby8uBRroCXur"
@@ -2984,7 +3064,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 156050,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
@@ -3161,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Stiekem",
+        "url": "https://open.spotify.com/album/7LffxnKB5uREXy5NFJ0ztb"
+      },
+      "artists": [
+        {
+          "name": "Donny den Heijer",
+          "url": "https://open.spotify.com/artist/2wkF6FM62mmhOmWWArIpaI"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Stiekem",
+      "url": "https://open.spotify.com/track/2MIc3zZv7n0lotm7f46CT3"
+    },
+    {
+      "album": {
         "name": "Suavemente, Dans Met Mij",
         "url": "https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M"
       },
@@ -3180,6 +3278,24 @@
       "duration_ms": 190476,
       "name": "Suavemente, Dans Met Mij",
       "url": "https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj"
+    },
+    {
+      "album": {
+        "name": "Tante uit Texas",
+        "url": "https://open.spotify.com/album/7nRj13b50j8hom1QT85Dru"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187604,
+      "name": "Tante uit Texas",
+      "url": "https://open.spotify.com/track/1wQpnXvNFFAQOcLIiqG501"
     },
     {
       "album": {
@@ -3538,10 +3654,28 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 170230,
       "name": "Voor geen goud",
       "url": "https://open.spotify.com/track/66y9VeKRojjD5GuhZJeAr9"
+    },
+    {
+      "album": {
+        "name": "Voor Jouw Sorry",
+        "url": "https://open.spotify.com/album/77xheE0ZobmmAaspl7SuPV"
+      },
+      "artists": [
+        {
+          "name": "Jovano",
+          "url": "https://open.spotify.com/artist/0Bfd9G3e2gGKQHqQ5FBkQT"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164710,
+      "name": "Voor Jouw Sorry",
+      "url": "https://open.spotify.com/track/12sYI0teAFpEhoyHyao05M"
     },
     {
       "album": {
@@ -4024,7 +4158,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 178470,
       "name": "Zit liever hier dan thuis",
       "url": "https://open.spotify.com/track/641vYzJpo6qM5eQ9OCOsev"

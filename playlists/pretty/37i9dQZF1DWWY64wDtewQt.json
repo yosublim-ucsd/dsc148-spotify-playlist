@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9511553,
+  "num_followers": 9515024,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z50EFwAAAADFN4HPGq+hzs16v3WEgyW0",
+  "snapshot_id": "Z6ZwVwAAAAA7htMRwq6nwMpj2nnVTgkG",
   "tracks": [
     {
       "added_at": "2024-10-04 13:19:49",
@@ -421,6 +421,62 @@
       "url": "https://open.spotify.com/track/0ePdvQb4qFBA9Ps1QZwhMu"
     },
     {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "EVOLUTION FUNK VOL. I",
+        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "duration_ms": 144437,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
+    },
+    {
+      "added_at": "2024-07-12 15:05:31",
+      "album": {
+        "name": "NEXT!",
+        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
+      },
+      "artists": [
+        {
+          "name": "NCTS",
+          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "NEXT!",
+      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "AUTOMOTIVO MANGOS",
+        "url": "https://open.spotify.com/album/2OJB6ABzxfzLn779Oil5aC"
+      },
+      "artists": [
+        {
+          "name": "DJ BRZ 013",
+          "url": "https://open.spotify.com/artist/08UocCSHPNRC6aopHvlBr8"
+        }
+      ],
+      "duration_ms": 95111,
+      "name": "AUTOMOTIVO MANGOS",
+      "url": "https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE"
+    },
+    {
       "added_at": "2023-10-20 10:30:53",
       "album": {
         "name": "Memphis Cult Vol. 6",
@@ -465,20 +521,32 @@
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
     },
     {
-      "added_at": "2023-06-02 17:32:35",
+      "added_at": "2025-02-07 17:17:30",
       "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
+        "name": "EVOLUTION FUNK VOL. II",
+        "url": "https://open.spotify.com/album/25S0wOuNrX6LWULW6UKT6H"
       },
       "artists": [
         {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+          "name": "MVSTERIOUS",
+          "url": "https://open.spotify.com/artist/5mU6enX6pYYKEs0zfRkm1R"
+        },
+        {
+          "name": "Hxmr",
+          "url": "https://open.spotify.com/artist/6VzAVLJ85EjjG002V4j7ka"
+        },
+        {
+          "name": "yngastrobeatz.",
+          "url": "https://open.spotify.com/artist/5sZrMlmLdssEPC5EsdPMhm"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
         }
       ],
-      "duration_ms": 61673,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
+      "duration_ms": 113161,
+      "name": "SLAVA FUNK!",
+      "url": "https://open.spotify.com/track/55YYhNqfMTIpPulNc0lLme"
     },
     {
       "added_at": "2024-10-11 19:53:38",
@@ -503,22 +571,6 @@
       "duration_ms": 132922,
       "name": "Automotivo da Turbulencia",
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
-    },
-    {
-      "added_at": "2024-07-12 15:05:31",
-      "album": {
-        "name": "NEXT!",
-        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
-      },
-      "artists": [
-        {
-          "name": "NCTS",
-          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "NEXT!",
-      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
     },
     {
       "added_at": "2023-09-15 14:15:29",
@@ -567,22 +619,6 @@
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "AUTOMOTIVO MANGOS",
-        "url": "https://open.spotify.com/album/2OJB6ABzxfzLn779Oil5aC"
-      },
-      "artists": [
-        {
-          "name": "DJ BRZ 013",
-          "url": "https://open.spotify.com/artist/08UocCSHPNRC6aopHvlBr8"
-        }
-      ],
-      "duration_ms": 95111,
-      "name": "AUTOMOTIVO MANGOS",
-      "url": "https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE"
     },
     {
       "added_at": "2023-09-22 18:14:49",
@@ -637,6 +673,22 @@
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
+      "added_at": "2023-06-02 17:32:35",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
+    },
+    {
       "added_at": "2024-08-30 14:16:34",
       "album": {
         "name": "FUNK UNIVERSO",
@@ -651,22 +703,6 @@
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
-    },
-    {
-      "added_at": "2024-02-23 12:00:00",
-      "album": {
-        "name": "MONTAGEM DIAMANTE ROSA",
-        "url": "https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK"
-      },
-      "artists": [
-        {
-          "name": "vtze archive",
-          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
-        }
-      ],
-      "duration_ms": 114951,
-      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
-      "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
       "added_at": "2022-04-13 07:53:17",
@@ -705,30 +741,6 @@
       "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
     },
     {
-      "added_at": "2024-12-13 05:45:00",
-      "album": {
-        "name": "EVOLUTION FUNK VOL. I",
-        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
-      },
-      "artists": [
-        {
-          "name": "satirin",
-          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
-        },
-        {
-          "name": "FUNK DEMON",
-          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
-        },
-        {
-          "name": "EVO",
-          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
-        }
-      ],
-      "duration_ms": 144437,
-      "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
-    },
-    {
       "added_at": "2023-07-28 11:47:20",
       "album": {
         "name": "Orquestra Maldita",
@@ -763,6 +775,42 @@
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "added_at": "2024-02-23 12:00:00",
+      "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        }
+      ],
+      "duration_ms": 114951,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
+    },
+    {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        },
+        {
+          "name": "MC LyC4N",
+          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
+        }
+      ],
+      "duration_ms": 75692,
+      "name": "MAZKO",
+      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
     },
     {
       "added_at": "2024-12-13 05:45:00",
@@ -837,6 +885,26 @@
       "url": "https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu"
     },
     {
+      "added_at": "2025-01-24 16:35:17",
+      "album": {
+        "name": "Lya Funk",
+        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "TRVNSPORTER",
+          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
+        }
+      ],
+      "duration_ms": 129597,
+      "name": "Lya Funk",
+      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
+    },
+    {
       "added_at": "2023-05-05 15:57:14",
       "album": {
         "name": "Life in Rio",
@@ -901,24 +969,24 @@
       "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
     },
     {
-      "added_at": "2024-12-13 05:45:00",
+      "added_at": "2025-02-07 20:43:03",
       "album": {
-        "name": "MAZKO",
-        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+        "name": "Beeper Funk (Slowed)",
+        "url": "https://open.spotify.com/album/5eEfzNcFaXPsBXJzkPiD3S"
       },
       "artists": [
         {
-          "name": "S4nri0",
-          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+          "name": "DJ Paulinho Mondi Da Baixa Baviera",
+          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
         },
         {
-          "name": "MC LyC4N",
-          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
+          "name": "Mc Vitorioso",
+          "url": "https://open.spotify.com/artist/0sjGfRBmq6lKmUNgt8Ptic"
         }
       ],
-      "duration_ms": 75692,
-      "name": "MAZKO",
-      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
+      "duration_ms": 103375,
+      "name": "Beeper Funk - Slowed",
+      "url": "https://open.spotify.com/track/02WKo37gebkkQKor2TCuTk"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -967,26 +1035,6 @@
       "duration_ms": 101632,
       "name": "Scopin",
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
-    },
-    {
-      "added_at": "2025-01-24 16:35:17",
-      "album": {
-        "name": "Lya Funk",
-        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "TRVNSPORTER",
-          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
-        }
-      ],
-      "duration_ms": 129597,
-      "name": "Lya Funk",
-      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
     },
     {
       "added_at": "2024-12-20 18:34:37",
@@ -1175,30 +1223,6 @@
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
-    },
-    {
-      "added_at": "2025-01-17 15:31:38",
-      "album": {
-        "name": "EMPTY FUNK",
-        "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
-      },
-      "artists": [
-        {
-          "name": "DJ Anemia",
-          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
-        },
-        {
-          "name": "crier",
-          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
-        },
-        {
-          "name": "sixnite",
-          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "EMPTY FUNK",
-      "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
     },
     {
       "added_at": "2024-07-12 15:05:31",
@@ -1533,6 +1557,30 @@
       "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
     },
     {
+      "added_at": "2025-01-17 15:31:38",
+      "album": {
+        "name": "EMPTY FUNK",
+        "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
+      },
+      "artists": [
+        {
+          "name": "DJ Anemia",
+          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
+        },
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "EMPTY FUNK",
+      "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
+    },
+    {
       "added_at": "2025-01-07 20:52:35",
       "album": {
         "name": "Montagem Lunar Diamante",
@@ -1669,22 +1717,6 @@
       "url": "https://open.spotify.com/track/4CRd36RVExznLuyj7SOQmz"
     },
     {
-      "added_at": "2023-12-01 14:11:37",
-      "album": {
-        "name": "robot rock (funk)",
-        "url": "https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4"
-      },
-      "artists": [
-        {
-          "name": "DJ Paulinho Mondi Da Baixa Baviera",
-          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
-        }
-      ],
-      "duration_ms": 153529,
-      "name": "robot rock (funk)",
-      "url": "https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl"
-    },
-    {
       "added_at": "2023-05-19 15:58:05",
       "album": {
         "name": "MONTAGEM - MELODIA ENVOLVENTE 4 (Remixes)",
@@ -1785,46 +1817,6 @@
       "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
     },
     {
-      "added_at": "2024-05-03 16:00:00",
-      "album": {
-        "name": "NITE",
-        "url": "https://open.spotify.com/album/73U0xHmd1hwLU7TYBCX52n"
-      },
-      "artists": [
-        {
-          "name": "ELVEN DIOR",
-          "url": "https://open.spotify.com/artist/23zYsCtsJGcPB3obepBSm5"
-        }
-      ],
-      "duration_ms": 98414,
-      "name": "NITE",
-      "url": "https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW"
-    },
-    {
-      "added_at": "2024-02-02 10:00:00",
-      "album": {
-        "name": "krushed!",
-        "url": "https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo"
-      },
-      "artists": [
-        {
-          "name": "$werve",
-          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
-        },
-        {
-          "name": "SXCREDMANE",
-          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
-        },
-        {
-          "name": "FXRCE",
-          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
-        }
-      ],
-      "duration_ms": 98181,
-      "name": "krushed!",
-      "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
-    },
-    {
       "added_at": "2024-09-20 15:04:16",
       "album": {
         "name": "KRUSHKRUSH!",
@@ -1921,20 +1913,44 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2024-05-03 16:00:00",
       "album": {
-        "name": "Override",
-        "url": "https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7"
+        "name": "NITE",
+        "url": "https://open.spotify.com/album/73U0xHmd1hwLU7TYBCX52n"
       },
       "artists": [
         {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+          "name": "ELVEN DIOR",
+          "url": "https://open.spotify.com/artist/23zYsCtsJGcPB3obepBSm5"
         }
       ],
-      "duration_ms": 114624,
-      "name": "Override",
-      "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
+      "duration_ms": 98414,
+      "name": "NITE",
+      "url": "https://open.spotify.com/track/3qkeYh3Con4SDWIFw3DiFW"
+    },
+    {
+      "added_at": "2024-02-02 10:00:00",
+      "album": {
+        "name": "krushed!",
+        "url": "https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        },
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        }
+      ],
+      "duration_ms": 98181,
+      "name": "krushed!",
+      "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
     }
   ],
   "unique_name": "phonk",

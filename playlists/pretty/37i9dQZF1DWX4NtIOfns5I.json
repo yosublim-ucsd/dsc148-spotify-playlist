@@ -1,13 +1,45 @@
 {
-  "description": "jack van cleaf getting his flowers \ud83c\udf3c",
-  "num_followers": 130481,
+  "description": "meet rachel bobbitt \ud83d\udc8c",
+  "num_followers": 130515,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z50ILQAAAADgtjWn2vuhcIvRuL5Wp7Ei",
+  "snapshot_id": "Z6WTcgAAAAAHoeBEZ3wd1oNB6oM2sn4U",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:58",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Sweetest Heart",
+        "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 196436,
+      "name": "Sweetest Heart",
+      "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
+    },
     {
       "added_at": "2025-01-31 05:00:35",
       "album": {
@@ -29,20 +61,20 @@
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
     },
     {
-      "added_at": "2025-01-17 05:00:58",
+      "added_at": "2025-02-07 05:00:33",
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+      "duration_ms": 286120,
+      "name": "Sweet Heat Lightning",
+      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -75,6 +107,54 @@
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "A Kiss Dressed His Cheek",
+        "url": "https://open.spotify.com/album/4ISEjw1cFwyVH6MQWudJ4s"
+      },
+      "artists": [
+        {
+          "name": "Them & I",
+          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
+        }
+      ],
+      "duration_ms": 123962,
+      "name": "I'm Not Them",
+      "url": "https://open.spotify.com/track/1iBZ54hEvr2EYk44MgfD7X"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
     },
     {
       "added_at": "2025-01-31 17:28:13",
@@ -125,6 +205,38 @@
       "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
     },
     {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Blow Wind Blow",
+        "url": "https://open.spotify.com/album/6MiDRCah5wxJOOsCBp8sE2"
+      },
+      "artists": [
+        {
+          "name": "Jordan Lehning",
+          "url": "https://open.spotify.com/artist/4TJq86PFfl12FBpxk5FS7O"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Blow Wind Blow",
+      "url": "https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX"
+    },
+    {
+      "added_at": "2024-12-19 14:24:12",
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
       "added_at": "2025-01-17 05:00:58",
       "album": {
         "name": "Bovine Excision",
@@ -141,20 +253,36 @@
       "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2025-02-07 05:00:33",
       "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+      "duration_ms": 225120,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/0KpuNyAoL4CqiiBdb1IOpH"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "crooked the road.",
+        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "crooked the road.",
+      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
     },
     {
       "added_at": "2025-01-31 05:00:35",
@@ -177,22 +305,6 @@
       "url": "https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ"
     },
     {
-      "added_at": "2024-12-19 14:24:12",
-      "album": {
-        "name": "Weathervane",
-        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
-    },
-    {
       "added_at": "2025-01-24 05:00:55",
       "album": {
         "name": "a few thoughts",
@@ -207,6 +319,22 @@
       "duration_ms": 229036,
       "name": "my love",
       "url": "https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -225,6 +353,42 @@
       "url": "https://open.spotify.com/track/4nnrdoWiuoXEpSBsokd4OZ"
     },
     {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
       "added_at": "2025-01-10 05:00:34",
       "album": {
         "name": "Breathing",
@@ -239,6 +403,22 @@
       "duration_ms": 247450,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
+        "name": "Simpatico",
+        "url": "https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz"
+      },
+      "artists": [
+        {
+          "name": "Golden Daze",
+          "url": "https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Blue Bell",
+      "url": "https://open.spotify.com/track/3sAVPMPtsrSVVoczX82keF"
     },
     {
       "added_at": "2025-01-31 05:00:35",
@@ -1387,22 +1567,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
       },
@@ -2139,134 +2303,6 @@
       "duration_ms": 206464,
       "name": "Electric Lizard",
       "url": "https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Honey I'm Hardly",
-        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Honey I'm Hardly",
-      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "carnival sounds",
-        "url": "https://open.spotify.com/album/6k1w7HAK3B09JHglsLd9J0"
-      },
-      "artists": [
-        {
-          "name": "Jahnah Camille",
-          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
-        }
-      ],
-      "duration_ms": 260209,
-      "name": "carnival sounds",
-      "url": "https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "God Needs The Devil",
-        "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "God Needs The Devil",
-      "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hells On The Loose",
-        "url": "https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "Hells On The Loose",
-      "url": "https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Black Leather Daydream",
-        "url": "https://open.spotify.com/album/6lRyRBVUP5hKmjIDqe23Ie"
-      },
-      "artists": [
-        {
-          "name": "Clover County",
-          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Black Leather Daydream",
-      "url": "https://open.spotify.com/track/4CtV5PEucaBYNpPXg7A8gj"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Usually You",
-        "url": "https://open.spotify.com/album/1FBCBnvKYwGnvQhCl9X3f3"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Usually You",
-      "url": "https://open.spotify.com/track/3TuL5Ue0RsfYMybACuGnsk"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Maine/The Sink",
-        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     }
   ],
   "unique_name": "juniper",

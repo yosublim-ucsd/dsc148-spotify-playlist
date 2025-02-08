@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-447 songs - 22 hr 53 min
+448 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 | 2022-09-29 | 2025-01-18 |
 | [FYAH](https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [FYAH](https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M) | 3:22 | 2024-07-12 | 2024-07-25 |
 | [Gané Cuando Te Perdí](https://open.spotify.com/track/4oVF4kQUa2OXosyaCmiNT7) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Gané Cuando Te Perdí](https://open.spotify.com/album/7f6xwuoslmSZ0ypYpX5odM) | 3:19 | 2024-09-20 | 2024-09-28 |
-| [Girasol](https://open.spotify.com/track/26fUkpWFUl5TZswbeYTcKP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Girasol](https://open.spotify.com/album/5VmxE9W1ltm4SrYzPxSz6H) | 2:47 | 2025-01-31 |  |
+| [Girasol](https://open.spotify.com/track/26fUkpWFUl5TZswbeYTcKP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Girasol](https://open.spotify.com/album/5VmxE9W1ltm4SrYzPxSz6H) | 2:47 | 2025-01-31 | 2025-02-08 |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2022-05-28 | 2022-07-29 |
 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 | 2023-12-15 | 2024-04-21 |
 | [Good Enough](https://open.spotify.com/track/7nJRXovps7c2ffbnbLD642) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Good Enough](https://open.spotify.com/album/0XA7lnJxZEoE3cUgKvsAlI) | 3:04 | 2024-05-17 | 2024-06-01 |
@@ -443,6 +443,7 @@
 | [VITAMINA D](https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [VITAMINA D](https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw) | 3:11 | 2023-10-27 | 2023-12-01 |
 | [Vive La Vida \- Remix](https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Vive La Vida \(Remix\)](https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp) | 3:57 | 2024-03-04 | 2025-01-18 |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-09-05 |  |
+| [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 | 2025-02-07 |  |
 | [Whisky & Marihuana](https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox) | [EL VALLE DE LOS REYES](https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Whisky & Marihuana](https://open.spotify.com/album/35zj1AVgNIuzhmyDQ4yX9s) | 3:23 | 2024-11-29 | 2024-12-21 |
 | [x las nubes](https://open.spotify.com/track/4wHglCatImU2Gj01s8eILF) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [x las nubes](https://open.spotify.com/album/5RUskDUQcUAfrtVEwWad2C) | 2:40 | 2024-09-27 | 2024-10-12 |
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-05-25 | 2024-01-17 |

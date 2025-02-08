@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Featuring Ede. Artwork by Rewina Beshue",
-  "num_followers": 192160,
+  "num_followers": 192206,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6PGWgAAAABVIiRGx8FQnuBBbnY9iZZO",
+  "snapshot_id": "Z6WTfQAAAADXjp9KE71kWHGY3TPXwMA1",
   "tracks": [
     {
       "added_at": "2025-02-05 20:13:14",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/0WWOCAXVa0aQWxJUGktFhX"
     },
     {
-      "added_at": "2025-02-05 20:13:14",
+      "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Get It Together",
-        "url": "https://open.spotify.com/album/09AtLvLtBkVQEbRu0epVuS"
+        "name": "MissU2",
+        "url": "https://open.spotify.com/album/6agd6cfsMIg7puACJnL7Xu"
       },
       "artists": [
         {
-          "name": "Tesfa Williams",
-          "url": "https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6"
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        },
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
         }
       ],
-      "duration_ms": 218880,
-      "name": "Get It Together - Edit",
-      "url": "https://open.spotify.com/track/4GRryQtE2m1a93WoP7oBiX"
+      "duration_ms": 220488,
+      "name": "MissU2",
+      "url": "https://open.spotify.com/track/5sQG8BxOpvjISf0FWOikzQ"
     },
     {
       "added_at": "2025-01-15 05:00:03",
@@ -121,6 +125,22 @@
       "url": "https://open.spotify.com/track/6OlK7sPU2naVspkttQZsj7"
     },
     {
+      "added_at": "2025-02-05 20:13:14",
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/09AtLvLtBkVQEbRu0epVuS"
+      },
+      "artists": [
+        {
+          "name": "Tesfa Williams",
+          "url": "https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Get It Together - Edit",
+      "url": "https://open.spotify.com/track/4GRryQtE2m1a93WoP7oBiX"
+    },
+    {
       "added_at": "2025-01-17 05:00:52",
       "album": {
         "name": "Paula Abdul",
@@ -157,36 +177,20 @@
       "url": "https://open.spotify.com/track/2Qm5EB1sSlUK2LeWr3wKYD"
     },
     {
-      "added_at": "2025-01-29 19:38:38",
+      "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "llamando",
-        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/5tMrltjmtfTVhuWn4vx3FG"
       },
       "artists": [
         {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+          "name": "Tom Westy",
+          "url": "https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW"
         }
       ],
-      "duration_ms": 156184,
-      "name": "llamando",
-      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
-    },
-    {
-      "added_at": "2025-02-05 20:13:14",
-      "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/2bju1Fns6QSqMI7kFaLeJa"
-      },
-      "artists": [
-        {
-          "name": "Soo Joo",
-          "url": "https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50"
-        }
-      ],
-      "duration_ms": 219147,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/7kG2mW3O9MlLptLAJDawQH"
+      "duration_ms": 218048,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/0zw3k3uhsQN7y84IXGMbad"
     },
     {
       "added_at": "2025-01-24 05:00:52",
@@ -203,6 +207,54 @@
       "duration_ms": 326383,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5CkqQX3UXxgWW5RJ1Kus2o"
+    },
+    {
+      "added_at": "2025-01-29 19:38:38",
+      "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "Retrograde/X-Dream",
+        "url": "https://open.spotify.com/album/2T85PZgTZWXVLGmKNpEmSa"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 320239,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/62mfVIqROho0gAaCc8esUY"
+    },
+    {
+      "added_at": "2025-02-05 20:13:14",
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/2bju1Fns6QSqMI7kFaLeJa"
+      },
+      "artists": [
+        {
+          "name": "Soo Joo",
+          "url": "https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50"
+        }
+      ],
+      "duration_ms": 219147,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/7kG2mW3O9MlLptLAJDawQH"
     },
     {
       "added_at": "2025-01-29 19:38:38",
@@ -257,6 +309,30 @@
       "url": "https://open.spotify.com/track/18J16c7MMsxZ5HbPb2ojPV"
     },
     {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "Humble Jumble",
+        "url": "https://open.spotify.com/album/5SyKwT4ZD8lq4NirPQEcQr"
+      },
+      "artists": [
+        {
+          "name": "Ari Bald",
+          "url": "https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup"
+        },
+        {
+          "name": "CJ Scott",
+          "url": "https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl"
+        },
+        {
+          "name": "Ari Bald & CJ Scott",
+          "url": "https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG"
+        }
+      ],
+      "duration_ms": 469049,
+      "name": "Disko Lena",
+      "url": "https://open.spotify.com/track/4uof8XW53H0rQi87Kzdc1g"
+    },
+    {
       "added_at": "2025-01-17 05:00:52",
       "album": {
         "name": "Mona",
@@ -309,6 +385,58 @@
       "url": "https://open.spotify.com/track/6RQvujjx9DUuRHU4YiC49q"
     },
     {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "L\u00e1grima",
+        "url": "https://open.spotify.com/album/6Eqt1EgbCTN2G2hxaIHkQi"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        },
+        {
+          "name": "NIDIA",
+          "url": "https://open.spotify.com/artist/4l6LyGdstZUzB2kKR9Jetv"
+        }
+      ],
+      "duration_ms": 265846,
+      "name": "L\u00e1grima",
+      "url": "https://open.spotify.com/track/7IrebefpZIJqoaN9Y3hB2z"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/7vrrATJDBXZQhEtwaUWNnV"
+      },
+      "artists": [
+        {
+          "name": "Tiger Stripes",
+          "url": "https://open.spotify.com/artist/5L56gAwU2WofuHHOpLC0BU"
+        }
+      ],
+      "duration_ms": 180300,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/0NmrJz00OhhZ4QkVKk6MAf"
+    },
+    {
+      "added_at": "2025-01-31 20:21:50",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/0hvPSm9MAG1pT6FwozurqF"
+      },
+      "artists": [
+        {
+          "name": "Jey Vazz",
+          "url": "https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/43lrjztUhrmaMoVi6kSfHD"
+    },
+    {
       "added_at": "2025-02-05 20:13:14",
       "album": {
         "name": "Blind (feat. Leowolf)",
@@ -329,20 +457,20 @@
       "url": "https://open.spotify.com/track/36z2ETGN2zpbOC9new8bUM"
     },
     {
-      "added_at": "2025-01-31 20:21:50",
+      "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/0hvPSm9MAG1pT6FwozurqF"
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/1JXV00dxpH5JdBH1IpkhVO"
       },
       "artists": [
         {
-          "name": "Jey Vazz",
-          "url": "https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu"
+          "name": "Januar",
+          "url": "https://open.spotify.com/artist/0J2UQEazRjVuwWlEXufHsD"
         }
       ],
-      "duration_ms": 172444,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/43lrjztUhrmaMoVi6kSfHD"
+      "duration_ms": 260051,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/74HSeelN7pG0BoAofv3QIy"
     },
     {
       "added_at": "2025-01-24 05:00:52",
@@ -425,6 +553,22 @@
       "url": "https://open.spotify.com/track/6z0zgDonyxu4NrU06Vq9wk"
     },
     {
+      "added_at": "2025-01-31 05:00:44",
+      "album": {
+        "name": "Freak In The Streets",
+        "url": "https://open.spotify.com/album/2XxsqMNNZPW5sD63JKxwID"
+      },
+      "artists": [
+        {
+          "name": "Darley",
+          "url": "https://open.spotify.com/artist/6ODWCHwaxlbZ1ldPVlJqGD"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Freak In The Streets",
+      "url": "https://open.spotify.com/track/3av93czJjRhfXtyW8tJHbZ"
+    },
+    {
       "added_at": "2025-01-31 20:21:50",
       "album": {
         "name": "Knock Me Off My Feet",
@@ -443,22 +587,6 @@
       "duration_ms": 225103,
       "name": "Knock Me Off My Feet",
       "url": "https://open.spotify.com/track/5D9SwEc7nrYBBJgNFzYD3q"
-    },
-    {
-      "added_at": "2025-01-31 05:00:44",
-      "album": {
-        "name": "Freak In The Streets",
-        "url": "https://open.spotify.com/album/2XxsqMNNZPW5sD63JKxwID"
-      },
-      "artists": [
-        {
-          "name": "Darley",
-          "url": "https://open.spotify.com/artist/6ODWCHwaxlbZ1ldPVlJqGD"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Freak In The Streets",
-      "url": "https://open.spotify.com/track/3av93czJjRhfXtyW8tJHbZ"
     },
     {
       "added_at": "2025-01-29 19:38:38",
@@ -961,26 +1089,6 @@
       "url": "https://open.spotify.com/track/7rvoKElHIYNtiBPS51vPcJ"
     },
     {
-      "added_at": "2025-01-22 17:33:58",
-      "album": {
-        "name": "Until The Sun Dies, All My Love",
-        "url": "https://open.spotify.com/album/0DAW8QmCWzBilEMGOHG3bW"
-      },
-      "artists": [
-        {
-          "name": "Isla Den",
-          "url": "https://open.spotify.com/artist/2kF8VjhAZ6auoV6JTzIhDJ"
-        },
-        {
-          "name": "Fayt",
-          "url": "https://open.spotify.com/artist/7q83nVZ3rR1xM1cSPFTwZ7"
-        }
-      ],
-      "duration_ms": 179340,
-      "name": "Until The Sun Dies",
-      "url": "https://open.spotify.com/track/0cKcUqgyDSb2M6kGHUmPH5"
-    },
-    {
       "added_at": "2025-01-24 05:00:52",
       "album": {
         "name": "Heaven",
@@ -1031,22 +1139,6 @@
       "duration_ms": 194000,
       "name": "Late Night Drives",
       "url": "https://open.spotify.com/track/1FhRDWEt1KCsl59qnBVBWq"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "X-Dream",
-        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 261334,
-      "name": "X-Dream",
-      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
     },
     {
       "added_at": "2025-01-17 05:00:52",
@@ -1359,38 +1451,6 @@
     {
       "added_at": "2025-01-15 05:00:03",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1jUCg4QKOZ88RGmLP3RUaE"
-      },
-      "artists": [
-        {
-          "name": "Januar",
-          "url": "https://open.spotify.com/artist/0J2UQEazRjVuwWlEXufHsD"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3ZIZ7O7Bkj5NxEmcO1d0YM"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "lift",
-        "url": "https://open.spotify.com/album/5trsO7vTZa6psKZVzpUC7H"
-      },
-      "artists": [
-        {
-          "name": "Mikeyy",
-          "url": "https://open.spotify.com/artist/55ILpEsjJWvHpPIlUQIJJW"
-        }
-      ],
-      "duration_ms": 241764,
-      "name": "lift",
-      "url": "https://open.spotify.com/track/1uPbTTOi9m5x9PdLiiW2uf"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
         "name": "UNDER THE SKY",
         "url": "https://open.spotify.com/album/6DaOzZ2WYJ0zGgt2FBvFO2"
       },
@@ -1443,22 +1503,6 @@
     {
       "added_at": "2025-01-15 05:00:03",
       "album": {
-        "name": "Act A Fool",
-        "url": "https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh"
-      },
-      "artists": [
-        {
-          "name": "Charlie Powell",
-          "url": "https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru"
-        }
-      ],
-      "duration_ms": 151627,
-      "name": "Act A Fool",
-      "url": "https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
         "name": "FIVE : THIRTY",
         "url": "https://open.spotify.com/album/73ojFmOSNbGQRJALCYoRLd"
       },
@@ -1507,30 +1551,6 @@
       "duration_ms": 260571,
       "name": "That look in your eyes",
       "url": "https://open.spotify.com/track/65X6KiZLP20fTSyYFkYjSB"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "THIRD FROM THE SUN",
-        "url": "https://open.spotify.com/album/0A5YcRZFLtjQAeX1wiCWPH"
-      },
-      "artists": [
-        {
-          "name": "Muddyoush",
-          "url": "https://open.spotify.com/artist/66ufdnoY06SAK2zHcHjo0G"
-        },
-        {
-          "name": "Kay The Prodigy",
-          "url": "https://open.spotify.com/artist/4ziOwyCpUFMlERkfyoEV6p"
-        },
-        {
-          "name": "aerodynamisme",
-          "url": "https://open.spotify.com/artist/4jgCunEnuroK218qvmYzvp"
-        }
-      ],
-      "duration_ms": 97500,
-      "name": "MABI",
-      "url": "https://open.spotify.com/track/0OvfZlGaRdsDL78QLUicRx"
     },
     {
       "added_at": "2025-01-17 05:00:52",
@@ -1683,22 +1703,6 @@
       "duration_ms": 247619,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/6f3OwH4tjhsNkj6tPq5HlL"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "punk cake",
-        "url": "https://open.spotify.com/album/2r3V5DKpsdBdGEH7pjW5eo"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 105984,
-      "name": "airplane music",
-      "url": "https://open.spotify.com/track/4fytmUBjKy3J0Tj9lkKVqW"
     },
     {
       "added_at": "2025-01-15 05:00:03",

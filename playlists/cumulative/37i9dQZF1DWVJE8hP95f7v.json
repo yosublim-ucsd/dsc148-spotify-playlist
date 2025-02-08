@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00e1gua (Ao vivo)",
+        "url": "https://open.spotify.com/album/6kzIGJqI6cwDiWcegkFpDo"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353015,
+      "name": "Banho de Folhas - Ao vivo",
+      "url": "https://open.spotify.com/track/69E6OySGJuNR0TuWKIHY3S"
+    },
+    {
+      "album": {
         "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
       },
@@ -684,7 +702,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-08",
       "duration_ms": 256833,
       "name": "Escolhi Ser Feliz",
       "url": "https://open.spotify.com/track/46Mbf2x3j3qJidTWfmt23u"

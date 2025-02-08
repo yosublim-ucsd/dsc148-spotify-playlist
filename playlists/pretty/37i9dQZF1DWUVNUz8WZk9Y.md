@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,587 likes - 37 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,602 likes - 37 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-370 songs - 19 hr 15 min
+371 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bee Gi](https://open.spotify.com/track/1yXC0qjBaRB49K89pVqGIq) | [Miguel Bastida](https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM) | [Bee Gi](https://open.spotify.com/album/7MxdsVS6QpdZuErsx6eD3Z) | 3:00 | 2023-08-11 | 2024-03-14 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-04-26 | 2024-05-01 |
 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-04-26 | 2024-05-01 |
+| [Blade](https://open.spotify.com/track/2YXAvafKh5UL1g7zXk3NWH) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A) | [Blade](https://open.spotify.com/album/0CdT1QOfnUoXWX96RbNmwF) | 2:46 | 2025-02-07 |  |
 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 | 2023-12-08 | 2024-03-14 |
 | [Boy Don't \(feat\. Natalie Gray\)](https://open.spotify.com/track/4SIJ1jXfWqqsJ93fTQttP6) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [Natalie Gray](https://open.spotify.com/artist/047rvCsEJLIKpbhzi4nHi4) | [Boy Don't \(feat\. Natalie Gray\)](https://open.spotify.com/album/4lRwKz3LEHslb90zTmCSOp) | 2:52 | 2024-10-18 |  |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2024-04-26 | 2024-08-03 |
