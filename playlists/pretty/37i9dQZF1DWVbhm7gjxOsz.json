@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 101522,
+  "num_followers": 101611,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
-        "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
-      },
-      "artists": [
-        {
-          "name": "Shep",
-          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
-        },
-        {
-          "name": "The Limelites",
-          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 234593,
       "name": "Whatcha Know",
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
+        "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
+      },
+      "artists": [
+        {
+          "name": "Shep",
+          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
+        },
+        {
+          "name": "The Limelites",
+          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Let's Fall In Love",
-        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Blue Eyes Crying In the Rain",
         "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 179480,
       "name": "Those Oldies But Goodies Remind Me Of You",
       "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Let's Fall In Love",
+        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
     },
     {
       "added_at": "2024-08-14 08:31:40",

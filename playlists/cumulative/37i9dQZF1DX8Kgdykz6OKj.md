@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-435 songs - 1 day 0 hr 16 min
+436 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Make You Feel That Way](https://open.spotify.com/track/21Or4x0SUcPHFogz1Eyi3D) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Blazing Arrow](https://open.spotify.com/album/4s6LSpMSN46DASpTUVSSNQ) | 3:26 | 2022-04-11 | 2022-04-17 |
 | [Make You Feel That Way](https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Blazing Arrow](https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc) | 3:26 | 2022-07-28 | 2024-04-19 |
 | [MANTO](https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [MANTO](https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL) | 4:39 | 2024-07-05 | 2024-09-12 |
+| [MAYHEM](https://open.spotify.com/track/68Gc4V5IpWxNpXWnpyUcuy) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [MAYHEM](https://open.spotify.com/album/1Z5Mzo4DvA0g4SfoR6CkZ4) | 3:31 | 2025-02-07 |  |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-06 |  |
 | [Mellow My Man](https://open.spotify.com/track/71RgnWLv0ktFfH3cvB7XzU) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/2OXILBis5WW87lA28hOewX) | 4:41 | 2021-12-16 | 2022-07-29 |
 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 | 2024-01-24 | 2024-04-19 |
@@ -377,7 +378,7 @@
 | [Sunrise Love](https://open.spotify.com/track/04SOsj1h4TCNSuGk8Fbl14) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Luvbird](https://open.spotify.com/artist/2vmQ4q3IQKzvHaHTJAh3Ph), [Alex](https://open.spotify.com/artist/3tcg7Z0kQOlKon0aR03QNe) | [Palettes](https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl) | 1:41 | 2022-04-11 | 2022-04-21 |
 | [Super Fly Funk](https://open.spotify.com/track/16dyAuXav2Oxrl5IABKscC) | [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S), [People Without Shoes](https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL) | [Super Fly Funk](https://open.spotify.com/album/3wFFstL9TziIljKsbCajnj) | 2:40 | 2021-12-16 | 2022-07-29 |
 | [Super Fly Funk](https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi) | [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S), [People Without Shoes](https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL) | [Green Street \(Deluxe Edition\)](https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g) | 2:40 | 2022-10-13 | 2024-04-19 |
-| [Super Rare](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 | 2023-06-29 |  |
+| [Super Rare](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 | 2023-06-29 | 2025-02-09 |
 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 | 2024-11-08 |  |
 | [Talk About Us](https://open.spotify.com/track/5zEOSknIlvu5qsOXIuNKxE) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Talk About Us](https://open.spotify.com/album/3CzmXTz41QqnmC9xWE6QeC) | 3:15 | 2021-12-16 | 2022-10-15 |
 | [Talk About Us](https://open.spotify.com/track/7GcCIkXh9Y4qDSXnMLJgHW) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Nobody Cares Till Everybody Does](https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc) | 3:15 | 2022-10-13 | 2024-04-19 |

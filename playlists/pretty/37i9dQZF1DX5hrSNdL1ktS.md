@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alemán y Neton Vega en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,474 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,802 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 13 | [Ey Ma](https://open.spotify.com/track/3BiATNCJzshRecZNYkRauy) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [Ey Ma](https://open.spotify.com/album/3OGTIz4yXtfD6zE8ofdjQA) | 2:28 |
 | 14 | [Chuli \(feat\. Alu Mix\)](https://open.spotify.com/track/7b4q5LaPVoxVjS8aBD110F) | [Gweri B](https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Chuli](https://open.spotify.com/album/0fBFELOqNzmXvgVFv2LzeF) | 2:18 |
 | 15 | [Nena Moxita](https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:37 |
-| 16 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Hola mami \(Directo\)](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
+| 16 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO), [Aivan Beatz](https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb) | [Hola mami](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
 | 17 | [Avión Privado](https://open.spotify.com/track/0znYhe5amMBw6Ug7EzR2Rc) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Avión Privado](https://open.spotify.com/album/3ypyRbgOj79Qu1cL49hau1) | 3:05 |
 | 18 | [Discotequero](https://open.spotify.com/track/5kGRT8y98NrfmGbKEHAvuE) | [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf) | [Discotequero](https://open.spotify.com/album/6CllckhbuGiBuXeVnxhMSq) | 3:22 |
 | 19 | [La Trinidad](https://open.spotify.com/track/43SEzRHiv6GvPg9zOyVrX6) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Trinidad](https://open.spotify.com/album/7ncFTdVkNnDG3ZXzJo7t9x) | 3:07 |

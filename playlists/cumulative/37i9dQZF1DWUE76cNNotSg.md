@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-549 songs - 1 day 10 hr 22 min
+550 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-13 | 2024-05-11 |
 | [GLOWIN'](https://open.spotify.com/track/6FbAXOSnc5uPQgx2JRly2h) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [GLOWIN'](https://open.spotify.com/album/28G9HHXs2UcwZPDD7G68qh) | 4:21 | 2025-01-24 |  |
 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 | 2020-12-22 |  |
-| [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-20 |  |
+| [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-20 | 2025-02-09 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2020-12-22 | 2024-01-27 |
 | [Gooey](https://open.spotify.com/track/5b9iBVhfYxDF4JJcHrNIx5) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA \(Deluxe\)](https://open.spotify.com/album/2ipSXAsBLmvEeVKKbRAL7i) | 4:49 | 2020-12-22 | 2022-07-29 |
 | [Grapefruit](https://open.spotify.com/track/128Mqrtw03Mo3eR9bOwJsx) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Grapefruit \- Single](https://open.spotify.com/album/7JWvl53t1wjgGTQNB45oVb) | 4:43 | 2020-12-22 | 2022-07-29 |
@@ -456,6 +456,7 @@
 | [Sunshine Blue Skies](https://open.spotify.com/track/0TbmhSoWUBpaDMsjiJNWKC) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Sunshine Blue Skies](https://open.spotify.com/album/7zCzNO2ORLbCmJBhfMG8RK) | 3:47 | 2024-02-23 | 2024-05-11 |
 | [Sunshine in my Pocket \- Sunset Version](https://open.spotify.com/track/4OkbaLuOTGAwQ4sybiBcve) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag) | [Sunshine in my Pocket \(Sunset Version\)](https://open.spotify.com/album/1Wohg2GaliDz66oOB3G6sG) | 2:45 | 2025-01-17 |  |
 | [SWIM](https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:37 | 2022-05-13 | 2022-06-04 |
+| [swim](https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [swim](https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya) | 4:42 | 2025-02-07 |  |
 | [Swimming \- Radio Edit](https://open.spotify.com/track/6cWcSmtGQT9OmFPNDhfwlr) | [I'm Not A Band](https://open.spotify.com/artist/56SpKYTYuMIsMidg3rYOrF) | [Swimming](https://open.spotify.com/album/4kmvJtSyTccj6nNH2ddTmV) | 3:06 | 2020-12-22 | 2022-04-19 |
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-08-27 | 2022-07-28 |
 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 | 2023-12-01 | 2024-04-23 |

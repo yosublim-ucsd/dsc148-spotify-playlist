@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa JVG.
 
-425 songs - 21 hr 13 min
+426 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Sen pituinen se \(feat\. Costello\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/1dbfa5w9FFZJIo91XR7kxf) | [Waldo's People](https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF), [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Sen pituinen se \(feat\. Costello\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/0KTuaQFZ2xfEH8MmWIPNQJ) | 2:10 | 2024-09-26 | 2024-10-04 |
 | [Sex = Money](https://open.spotify.com/track/628gpiZGfGTFt6shikJclc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Sex = Money](https://open.spotify.com/album/2ZcQdeB6HuLYtcnR4o00x4) | 2:53 | 2024-10-10 | 2024-11-01 |
 | [Shanghain valot](https://open.spotify.com/track/1f4OKjREr1fKeEGHwhK4iP) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip) | [Shanghain valot](https://open.spotify.com/album/2MwH0QbgQFBDn8voBIgaqq) | 2:02 | 2024-07-02 | 2024-07-05 |
+| [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 | 2025-02-08 |  |
 | [Showtime \(feat\. Turisti\)](https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Showtime \(feat\. Turisti\)](https://open.spotify.com/album/4ZITEFlZ7rQvdAA3jYLMkQ) | 2:29 | 2024-07-02 | 2024-08-16 |
 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 | 2024-07-02 | 2024-11-22 |
 | [Sitä ei muuta mikään](https://open.spotify.com/track/1ivwNDz7HEuF8jTE83LrhH) | [Antti Ketonen](https://open.spotify.com/artist/5YxFBIX6yyncauK1DmRPY7) | [Sitä ei muuta mikään](https://open.spotify.com/album/0DilZjWVzpSDJtrNPyQaHY) | 3:12 | 2024-10-10 | 2024-11-15 |

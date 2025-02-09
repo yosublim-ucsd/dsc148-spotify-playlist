@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 173520,
+  "num_followers": 173637,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
+        "name": "Ana Kteer",
+        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 289123,
+      "name": "Kolly Melkak",
+      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
         "name": "Aamel Eh Fe Hayatak",
         "url": "https://open.spotify.com/album/3pwX3CktXBbpAiQuerfZUK"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 198422,
       "name": "Aamel Eh Fe Hayatak",
       "url": "https://open.spotify.com/track/0a25CdetJLml52JdQ1ravw"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
-        "name": "Ana Kteer",
-        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 289123,
-      "name": "Kolly Melkak",
-      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "El Hob El Ha2e2y",
-        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Fouad",
-          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
-        }
-      ],
-      "duration_ms": 344137,
-      "name": "El Hob El Ha2e2y",
-      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
         "url": "https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 250635,
       "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "El Hob El Ha2e2y",
+        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "duration_ms": 344137,
+      "name": "El Hob El Ha2e2y",
+      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
+        "name": "Hob Emtelak",
+        "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "duration_ms": 244321,
+      "name": "Esmaa Kalamy",
+      "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
         "name": "Ew3a",
         "url": "https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "Hob Emtelak",
-        "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
-      },
-      "artists": [
-        {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
-        }
-      ],
-      "duration_ms": 244321,
-      "name": "Esmaa Kalamy",
-      "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "Ana Sekketen",
         "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
       },
@@ -811,38 +811,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "Kol Elly Fi Alby",
-        "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
-      },
-      "artists": [
-        {
-          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
-          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "Kol Elly Fi Alby",
-      "url": "https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
-        "name": "Agmal Layaly Omry",
-        "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Taali",
-      "url": "https://open.spotify.com/track/5BKXPpXwLKccrXb9pyweOQ"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "Hazi Men El Sama",
         "url": "https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o"
       },
@@ -871,6 +839,22 @@
       "duration_ms": 272618,
       "name": "Habibi Ya Leil",
       "url": "https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "Agmal Layaly Omry",
+        "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Taali",
+      "url": "https://open.spotify.com/track/5BKXPpXwLKccrXb9pyweOQ"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -911,6 +895,22 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 290796,
+      "name": "Esheq El Rooh",
+      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
         "name": "Mawahashtkesh !!?",
         "url": "https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "Lehqt Nafsy - Part 2",
-        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+        "name": "Kol Elly Fi Alby",
+        "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
       },
       "artists": [
         {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
         }
       ],
-      "duration_ms": 290796,
-      "name": "Esheq El Rooh",
-      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
+      "duration_ms": 193654,
+      "name": "Kol Elly Fi Alby",
+      "url": "https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
-      },
-      "artists": [
-        {
-          "name": "Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "3Einy Shayfa Feky",
         "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
       },
@@ -987,22 +971,6 @@
       "duration_ms": 199200,
       "name": "3Einy Shayfa Feky",
       "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ya Waheshny",
-      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -1023,6 +991,38 @@
       "duration_ms": 64000,
       "name": "Men Da Elly Nesik",
       "url": "https://open.spotify.com/track/40nMdOO13b130ubQmVPGN3"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ya Waheshny",
+      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
+      },
+      "artists": [
+        {
+          "name": "Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "Kol Sana Wenta Tayeb",
-        "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Gamal",
-          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
-        }
-      ],
-      "duration_ms": 241781,
-      "name": "Kol Sana Wenta Tayeb",
-      "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "Ya Gamalak (Acoustic Version)",
         "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 124295,
       "name": "Ya Gamalak - Acoustic Version",
       "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "Kol Sana Wenta Tayeb",
+        "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Gamal",
+          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
+        }
+      ],
+      "duration_ms": 241781,
+      "name": "Kol Sana Wenta Tayeb",
+      "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "Ana Geit",
-        "url": "https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Ana Geit",
-      "url": "https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "\u0637\u0645\u0646\u0647\u0627",
         "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 244428,
       "name": "\u0637\u0645\u0646\u0647\u0627",
       "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "Ana Geit",
+        "url": "https://open.spotify.com/album/21W79ILd1P4CFtLkQNu49M"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Ana Geit",
+      "url": "https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF"
     },
     {
       "added_at": "2025-01-23 22:44:50",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-01-23 22:44:50",
       "album": {
-        "name": "Ana Eshtaret",
-        "url": "https://open.spotify.com/album/5jI4gGoIVvp8RXfMGEr0ui"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Gamal",
-          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Ana Eshtaret",
-      "url": "https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc"
-    },
-    {
-      "added_at": "2025-01-23 22:44:50",
-      "album": {
         "name": "Bashouf Oyounak",
         "url": "https://open.spotify.com/album/69MWOMSRXY9PFSFbvaH9T6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 275298,
       "name": "Bashouf Oyounak",
       "url": "https://open.spotify.com/track/3SM8mzJiLccBnX6gbVvMzS"
+    },
+    {
+      "added_at": "2025-01-23 22:44:50",
+      "album": {
+        "name": "Ana Eshtaret",
+        "url": "https://open.spotify.com/album/5jI4gGoIVvp8RXfMGEr0ui"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Gamal",
+          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Ana Eshtaret",
+      "url": "https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc"
     },
     {
       "added_at": "2025-01-23 22:44:50",

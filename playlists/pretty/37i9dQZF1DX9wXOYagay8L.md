@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN?si=9Calzv5rQVSm0VYRC\-MDBg"> Naledi Aphiwe</a>,  <a href="https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE?si=neHG4qqeS2KYE\-JqoL8VwA"> Mawelele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,241 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,422 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

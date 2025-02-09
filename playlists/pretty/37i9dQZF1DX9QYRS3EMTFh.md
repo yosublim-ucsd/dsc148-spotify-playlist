@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,825 likes - 40 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,902 likes - 40 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ghetto Whine](https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/0rRSVWD5GkKni1ZyZYiExL) | [Ghetto Whine](https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC) | 2:07 |
+| 1 | [Ghetto Whine](https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Ghetto Whine](https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC) | 2:07 |
 | 2 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |
 | 3 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 |
 | 4 | [LA PLI SI TOL \- Shatta Remix](https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [LA PLI SI TOL \(Shatta Remix\)](https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV) | 2:03 |

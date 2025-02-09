@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,494 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,492 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 42 | [Ella Dijo Sí](https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Ella Dijo Sí](https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv) | 2:46 |
 | 43 | [V I D A \- \(Acústico\)](https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Es Navidad](https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK) | 2:47 |
 | 44 | [AL MUNDO PAZ](https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [AL MUNDO PAZ](https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3) | 2:59 |
-| 45 | [A María](https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [A María](https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB) | 3:38 |
-| 46 | [Acaso No Estoy Yo Aquí \(Mariachi\)](https://open.spotify.com/track/4VUuJ6phYofwp5zwuXzF39) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Acaso No Estoy Yo Aquí \(Mariachi\)](https://open.spotify.com/album/2MG4IIRY5tzMmViyY8cFYW) | 4:27 |
+| 45 | [Acaso No Estoy Yo Aquí \(Mariachi\)](https://open.spotify.com/track/4VUuJ6phYofwp5zwuXzF39) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Acaso No Estoy Yo Aquí \(Mariachi\)](https://open.spotify.com/album/2MG4IIRY5tzMmViyY8cFYW) | 4:27 |
+| 46 | [A María](https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [A María](https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB) | 3:38 |
 | 47 | [Rey de Gloria](https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM) | [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Conexzion Directa](https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN) | [Rey de Gloria](https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB) | 3:22 |
 | 48 | [Cantamos Gloria](https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Cantamos Gloria](https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q) | 3:47 |
 | 49 | [Venid Fieles Todos](https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ) | [mixtr](https://open.spotify.com/artist/65Vs3f2mQK6jublzD06io7), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Adarga](https://open.spotify.com/artist/3ce7pTvRVGA2WRMS2KXT3r), [Vanesa Keeley](https://open.spotify.com/artist/7i5UxlHBlg97SSFYVAHNjY), [David Borraez Archila](https://open.spotify.com/artist/7zMJFYQNSPh2pIgD6teTUN), [Molly Sirvatka](https://open.spotify.com/artist/0LLCLGEu7Zlsp3EPHOPsET), [Lauren Welter](https://open.spotify.com/artist/3NFbaB9hwhnXk5STfaroAc) | [Welcome Home \(Este Es Tu Hogar\)](https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB) | 3:06 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 82 | [En esta navidad](https://open.spotify.com/track/7cpeaa1fqbSNK9K6GQY8nO) | [Patricio Vasquez](https://open.spotify.com/artist/7rvS0KknOkxbvgeQyHi5gW) | [En esta navidad](https://open.spotify.com/album/2nAj98jyxcBsNghaKkKnaD) | 3:40 |
 | 83 | [Venid Fieles Todos](https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Venid Fieles Todos](https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ) | 4:19 |
 | 84 | [Esta Navidad](https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Esta Navidad](https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt) | 3:01 |
-| 85 | [Tú Eres la Luz Noche de Paz \(Bonus Track\) \[Live\]](https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Navidad, Vol\. 3](https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw) | 3:27 |
-| 86 | [El Niño Dios Travieso](https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [El Niño Dios Travieso](https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo) | 3:00 |
+| 85 | [El Niño Dios Travieso](https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [El Niño Dios Travieso](https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo) | 3:00 |
+| 86 | [Tú Eres la Luz Noche de Paz \(Bonus Track\) \[Live\]](https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Navidad, Vol\. 3](https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw) | 3:27 |
 | 87 | [Mi Burrito Sabanero](https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd) | [Gospa](https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ) | [Navidad Con Gospa](https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6) | 3:07 |
 | 88 | [Feliz Navidad](https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Feliz Navidad](https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8) | 2:49 |
 | 89 | [Fiestas De Navidad](https://open.spotify.com/track/5pkYpPTEoOacNgbJ04t9SA) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Fiestas De Navidad](https://open.spotify.com/album/5Seo1QTqE1LLX1Qt10wnRH) | 3:00 |

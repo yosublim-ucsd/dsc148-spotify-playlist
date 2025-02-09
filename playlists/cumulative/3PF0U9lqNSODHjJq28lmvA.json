@@ -42344,6 +42344,24 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy"
+      },
+      "artists": [
+        {
+          "name": "Dirty Mirrors",
+          "url": "https://open.spotify.com/artist/1FhjQZsRmILECVbS55paHG"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235420,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/0Pkv28cjYBtMhPMsziqZ4V"
       },
       "artists": [
@@ -42358,24 +42376,6 @@
       "duration_ms": 489603,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6nQMv92fHCInqqWLFI75jM"
-    },
-    {
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Mirrors",
-          "url": "https://open.spotify.com/artist/3KZD02FB9WTcEcUNOxJJrW"
-        }
-      ],
-      "date_added": "2025-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235420,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO"
     },
     {
       "album": {

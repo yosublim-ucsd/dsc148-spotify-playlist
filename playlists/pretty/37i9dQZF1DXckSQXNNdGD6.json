@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: SIMONA.",
-  "num_followers": 19556,
+  "num_followers": 19569,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
+        "name": "Objetos Perdidos",
+        "url": "https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ"
+      },
+      "artists": [
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 207616,
+      "name": "Objetos Perdidos",
+      "url": "https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
         "name": "El Destello",
         "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 160684,
       "name": "El Destello",
       "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
-        "name": "Objetos Perdidos",
-        "url": "https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ"
-      },
-      "artists": [
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        }
-      ],
-      "duration_ms": 207616,
-      "name": "Objetos Perdidos",
-      "url": "https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "Chicos malos",
-        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
+        "name": "FANCY",
+        "url": "https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH"
       },
       "artists": [
         {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 230477,
-      "name": "Chicos malos",
-      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
+      "duration_ms": 143505,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -671,18 +671,34 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "FANCY",
-        "url": "https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH"
+        "name": "Chicos malos",
+        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
       },
       "artists": [
         {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
         }
       ],
-      "duration_ms": 143505,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU"
+      "duration_ms": 230477,
+      "name": "Chicos malos",
+      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "tormenta",
+        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 256423,
+      "name": "tormenta",
+      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -703,22 +719,6 @@
       "duration_ms": 233453,
       "name": "Liturgia",
       "url": "https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
-        "name": "tormenta",
-        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 256423,
-      "name": "tormenta",
-      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {
       "added_at": "2025-02-05 08:30:10",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-05 08:30:10",
       "album": {
-        "name": "dos sombras",
-        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "dos sombras",
-      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
-    },
-    {
-      "added_at": "2025-02-05 08:30:10",
-      "album": {
         "name": "Aitana O'Ca\u00f1a",
         "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 172378,
       "name": "Aitana O'Ca\u00f1a",
       "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
+    },
+    {
+      "added_at": "2025-02-05 08:30:10",
+      "album": {
+        "name": "dos sombras",
+        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "dos sombras",
+      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
     },
     {
       "added_at": "2025-02-05 08:30:10",

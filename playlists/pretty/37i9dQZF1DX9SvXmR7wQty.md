@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz, Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,621 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,624 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 37 | [2, 3 shots](https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [2, 3 shots](https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh) | 2:33 |
 | 38 | [L.F.O.L.F \(feat\. Leto\)](https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:50 |
 | 39 | [Spécial](https://open.spotify.com/track/0s1xIkZjwBKWN8803r2Opd) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Spécial](https://open.spotify.com/album/6p7QYxRUSKtENDLrQxpTHH) | 2:27 |
-| 40 | [BIG BODY](https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG BODY](https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu) | 2:59 |
-| 41 | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [LIFE](https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh) | 2:25 |
-| 42 | [Que toi](https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 4:02 |
-| 43 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 |
+| 40 | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [LIFE](https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh) | 2:25 |
+| 41 | [BIG BODY](https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG BODY](https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu) | 2:59 |
+| 42 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 |
+| 43 | [Que toi](https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 4:02 |
 | 44 | [Vendredi soir](https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Vendredi soir](https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY) | 3:12 |
 | 45 | [Je suis fait pour...](https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:18 |
 | 46 | [penelope](https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [penelope](https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R) | 3:14 |

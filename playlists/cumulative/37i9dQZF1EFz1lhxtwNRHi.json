@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Valley Girl (Extended)",
+        "url": "https://open.spotify.com/album/74znzbWo31OvyOgeDxMLck"
+      },
+      "artists": [
+        {
+          "name": "Cyn",
+          "url": "https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184885,
+      "name": "Love You Like I Want To",
+      "url": "https://open.spotify.com/track/7s5MJARbtmKwceg0n0nqkT"
+    },
+    {
+      "album": {
         "name": "Low Key (feat. Tyga)",
         "url": "https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH"
       },

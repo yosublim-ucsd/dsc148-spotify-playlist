@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 55872,
+  "num_followers": 55884,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6P7gAAAAADYG1N3zE8/ibIO6ZlaVEoA",
+  "snapshot_id": "Z6VNAAAAAADtvNlM3MMHLpDCW1naocCU",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 284986,
-      "name": "' Cello Song",
-      "url": "https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj"
+      "duration_ms": 264613,
+      "name": "Time Has Told Me",
+      "url": "https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 264613,
-      "name": "Time Has Told Me",
-      "url": "https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN"
+      "duration_ms": 284986,
+      "name": "' Cello Song",
+      "url": "https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj"
     },
     {
       "added_at": null,

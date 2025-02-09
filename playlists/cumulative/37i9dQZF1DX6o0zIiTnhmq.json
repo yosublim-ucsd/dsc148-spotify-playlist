@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "NAM MYOHO RENGE KYO",
+        "url": "https://open.spotify.com/album/2SmrHWk2OQTVoizfGEHgL2"
+      },
+      "artists": [
+        {
+          "name": "Shagun Sodhi",
+          "url": "https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339999,
+      "name": "NAM MYOHO RENGE KYO",
+      "url": "https://open.spotify.com/track/5Y03bbM6l7yRQ9nktwvfUP"
+    },
+    {
+      "album": {
         "name": "Mantras for Life",
         "url": "https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 3753336,
       "name": "Sahaswara Mantra for Crown Chakra with AUM Sound",
       "url": "https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D"

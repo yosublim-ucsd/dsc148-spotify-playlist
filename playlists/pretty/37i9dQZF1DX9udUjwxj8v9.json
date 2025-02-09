@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 149843,
+  "num_followers": 149919,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "\u00c9 Demais Meu Rei!!!",
-        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
-      },
-      "artists": [
-        {
-          "name": "Cheiro de Amor",
-          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Vai Sacudir, Vai Abalar",
-      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Ax\u00e9 Bahia",
         "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 194533,
       "name": "A Luz De Tieta",
       "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "\u00c9 Demais Meu Rei!!!",
+        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
+      },
+      "artists": [
+        {
+          "name": "Cheiro de Amor",
+          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Vai Sacudir, Vai Abalar",
+      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Tribal Bahia",
+        "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
+      },
+      "artists": [
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "Margarida Perfumada (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Gera\u00e7\u00e3o Pop",
         "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 306520,
       "name": "Dorival",
       "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Tribal Bahia",
-        "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
-      },
-      "artists": [
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "Margarida Perfumada (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Aconteceu",
-        "url": "https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Beijo",
-          "url": "https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "A Vida \u00c9 Festa",
-      "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Maxximum - Pepeu Gomes E Baby Consuelo",
         "url": "https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 224560,
       "name": "Masculino E Feminino",
       "url": "https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Aconteceu",
+        "url": "https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Beijo",
+          "url": "https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "A Vida \u00c9 Festa",
+      "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "BaianaSystem",
         "url": "https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 263146,
       "name": "O Carnaval Quem \u00c9 Que Faz?",
       "url": "https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     }
   ],
   "unique_name": "carnavalizar",

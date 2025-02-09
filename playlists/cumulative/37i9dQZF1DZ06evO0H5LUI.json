@@ -28,7 +28,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
@@ -1374,6 +1374,24 @@
       "duration_ms": 211702,
       "name": "Scirocco",
       "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o (By BERSHKA MUSIC)",
+        "url": "https://open.spotify.com/album/7C109xgDDWe0k1wiVCdVp3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Te Extra\u00f1o (By BERSHKA MUSIC)",
+      "url": "https://open.spotify.com/track/2gd0IVQFFKq9YnkoMugBmx"
     },
     {
       "album": {

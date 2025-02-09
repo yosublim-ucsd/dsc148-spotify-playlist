@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lia Kali, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,168 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,344 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 5 | [Parte & Choke \(with Ryan Castro\) \- Remix](https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m) | [Parte & Choke \(with Ryan Castro\) \[Remix\]](https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO) | 3:38 |
 | 6 | [Descaro 2.0](https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Descaro 2.0](https://open.spotify.com/album/5M5oPUHmII7DOfjH2xssey) | 4:29 |
 | 7 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
-| 8 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Hola mami \(Directo\)](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
+| 8 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO), [Aivan Beatz](https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb) | [Hola mami](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
 | 9 | [LA PUNTA DEL PEAK](https://open.spotify.com/track/61Sgps44nxvrBE5coeD6c3) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [LA PUNTA DEL PEAK](https://open.spotify.com/album/0UPceeOuRJ5FPSUEshCMXh) | 3:05 |
 | 10 | [MJM](https://open.spotify.com/track/1unQBsx7P9S8saXJtDtOnz) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [MJM](https://open.spotify.com/album/75RvZzgUh99Gr3Ihi18TEp) | 2:48 |
 | 11 | [GLA](https://open.spotify.com/track/2KbPTTNKEYlOUmW34shHOW) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Hasta Que Salga el Sol](https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH) | 3:00 |

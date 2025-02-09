@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Xavi & Manuel Turizo, Anitta, NATTI NATASHA and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,005 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,104 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 8 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
 | 9 | [oxy](https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [oxy](https://open.spotify.com/album/0KkQnHvamwSpZK65JqSljZ) | 2:42 |
 | 10 | [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 |
-| 11 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Hola mami \(Directo\)](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
+| 11 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO), [Aivan Beatz](https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb) | [Hola mami](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
 | 12 | [Encantadora \- Sinfónico En Vivo](https://open.spotify.com/track/3lsGXmBQPsaL3pdbu5v4WD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Encantadora \(Sinfónico En Vivo\)](https://open.spotify.com/album/4v3dSpUSCcbzDesPOUjxnR) | 3:09 |
 | 13 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 |
 | 14 | [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 |

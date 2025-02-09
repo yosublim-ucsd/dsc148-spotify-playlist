@@ -791,6 +791,32 @@
     },
     {
       "album": {
+        "name": "Exposition",
+        "url": "https://open.spotify.com/album/52jGOYTzIFk9cfrYHxzbhG"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Leon Wolf",
+          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
+        },
+        {
+          "name": "Robin Kallenberger",
+          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "Dragon's Lullaby",
+      "url": "https://open.spotify.com/track/2ycFs3p8tqAMN9jRphGIBB"
+    },
+    {
+      "album": {
         "name": "Emma: Piano Suite",
         "url": "https://open.spotify.com/album/1AEkzEnuG5bVxSg800d5Tn"
       },

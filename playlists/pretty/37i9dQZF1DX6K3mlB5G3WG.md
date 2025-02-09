@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,447 likes - 141 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,446 likes - 141 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

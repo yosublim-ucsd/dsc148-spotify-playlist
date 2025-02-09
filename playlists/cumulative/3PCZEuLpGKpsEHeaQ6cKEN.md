@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/3PCZEuLpGKpsEHeaQ6cKEN.md) - cumulative - [plain](/playlists/plain/3PCZEuLpGKpsEHeaQ6cKEN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3PCZEuLpGKpsEHeaQ6cKEN)
 
-### [PRELOAD Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
+### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Loud Luxury
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Claptone, Chicane
 
 1,282 songs - 2 day 20 hr 29 min
 

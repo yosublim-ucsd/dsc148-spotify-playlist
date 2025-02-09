@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 347317,
       "name": "Act Like You Know",
       "url": "https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5"
@@ -174,10 +174,36 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 718048,
       "name": "African Spirits - Fred P Interpretation",
       "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
+    },
+    {
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/2sku40lEMajfvheM6TiFeK"
+      },
+      "artists": [
+        {
+          "name": "DJ Cecil",
+          "url": "https://open.spotify.com/artist/1mOpslRPBtaMj8cUMnmhia"
+        },
+        {
+          "name": "Tiffany Austin",
+          "url": "https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS"
+        },
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496311,
+      "name": "Ain't No Grave - Ezel Remix",
+      "url": "https://open.spotify.com/track/1QSlvo2U8oG9MKBo6TjjqP"
     },
     {
       "album": {
@@ -281,6 +307,32 @@
     },
     {
       "album": {
+        "name": "As If You Read My Mind",
+        "url": "https://open.spotify.com/album/62NlX5Vx4ombKjQ9STzDg2"
+      },
+      "artists": [
+        {
+          "name": "Sol Brown",
+          "url": "https://open.spotify.com/artist/6taDTDL40hyNStHBbyPnlc"
+        },
+        {
+          "name": "Angel-A",
+          "url": "https://open.spotify.com/artist/2mYO5pAAP3dIwKwU9mqq7K"
+        },
+        {
+          "name": "Booker T",
+          "url": "https://open.spotify.com/artist/5lw9bE6QiPpgne85RmUWGa"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271735,
+      "name": "As If You Read My Mind - Spotify Radio Mix",
+      "url": "https://open.spotify.com/track/75GaPDbeRWvPWhP0bMFXwN"
+    },
+    {
+      "album": {
         "name": "As Long As You Believe (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/0zixIlzr498H0saKAnv9Ta"
       },
@@ -304,7 +356,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 223414,
       "name": "As Long As You Believe - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/4K6i7KU9W76t5JpygKcKby"
@@ -322,7 +374,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 314146,
       "name": "At the Club",
       "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
@@ -396,7 +448,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 405301,
       "name": "BACK TO BASIC - Soul Clap groove remix",
       "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
@@ -462,7 +514,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 406813,
       "name": "Bad Habit - feat. Lisa Millett",
       "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
@@ -646,7 +698,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 264586,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7jokcgwenxH9rBm5s3CYfs"
@@ -882,7 +934,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 235066,
       "name": "Changes (feat. Haze)",
       "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
@@ -1013,6 +1065,32 @@
     },
     {
       "album": {
+        "name": "Come Find Me",
+        "url": "https://open.spotify.com/album/60CokoYntiASaLW752dAeh"
+      },
+      "artists": [
+        {
+          "name": "Terry Dexter",
+          "url": "https://open.spotify.com/artist/0tcTyQkSJfYkSk8cZPEZxj"
+        },
+        {
+          "name": "Sweet Georgie",
+          "url": "https://open.spotify.com/artist/4dijymp5qnLbuWzfgmZQcW"
+        },
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Come Find Me - Richard Earnshaw Classic Vocal Edit",
+      "url": "https://open.spotify.com/track/6sMp9aRTavfu3CAjsZeLHT"
+    },
+    {
+      "album": {
         "name": "Mix The Vibe: Kaoz On King Street",
         "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
       },
@@ -1050,7 +1128,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 334959,
       "name": "Come into My Life - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/3A9OZndXDkrlOFkU44b2lO"
@@ -1076,7 +1154,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 468613,
       "name": "Come Into My Room (feat. LT Brown) - Take It Back Mix",
       "url": "https://open.spotify.com/track/2jinUjEUJEkE7g8MMHy2jp"
@@ -1186,7 +1264,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 569724,
       "name": "Dance - Louie Vega Dance Ritual Mix",
       "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
@@ -1300,7 +1378,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 329280,
       "name": "Days Like This (Spinna & Ticklah Mix)",
       "url": "https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo"
@@ -1366,7 +1444,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 346853,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6VZGDCHjMs16OGAT1uP5sM"
@@ -1418,7 +1496,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 532133,
       "name": "Diamond Life (feat. Julie McKnight) - Dance Ritual Mix",
       "url": "https://open.spotify.com/track/3Da0K52P1sq9A7ZS660cnp"
@@ -1506,10 +1584,32 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 373925,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/5WUFHsHalXJth7oBEZ3pPl"
+    },
+    {
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/0rSEd3N9VTJjaT8jBG7atu"
+      },
+      "artists": [
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Sarah Sophia",
+          "url": "https://open.spotify.com/artist/1HKTbeo8UTbmdkIgiX7w2E"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414705,
+      "name": "Don't Be Afraid - Sarah Sophia\u2019s Disco Party Mix",
+      "url": "https://open.spotify.com/track/1frrFUrD8EeK4yU2URbvVs"
     },
     {
       "album": {
@@ -1524,7 +1624,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 396106,
       "name": "Don't Hold Me Down",
       "url": "https://open.spotify.com/track/0nvLZZN4UZFpV1nOHIeLpn"
@@ -1580,6 +1680,24 @@
       "duration_ms": 352000,
       "name": "Don't Lose The Magic - Emmaculate Extended Club Mix",
       "url": "https://open.spotify.com/track/1tdfiSE0sC95hib1ChBn8z"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1T892OkFqv4N75vX2t44ne"
+      },
+      "artists": [
+        {
+          "name": "Mirko & Meex",
+          "url": "https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198347,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/5YFYLl0Ndu2kPCQFJUbdBD"
     },
     {
       "album": {
@@ -1660,7 +1778,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 501320,
       "name": "Elements of Life - Album Mix",
       "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
@@ -1810,7 +1928,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 409238,
       "name": "Find A Friend",
       "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
@@ -1832,7 +1950,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 296347,
       "name": "Finesse Me - Ancestral Soul Mix",
       "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
@@ -1880,7 +1998,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 452439,
       "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
       "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
@@ -1962,7 +2080,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 247918,
       "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
       "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
@@ -2104,7 +2222,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 361653,
       "name": "Free - Andr\u00e9s Remix",
       "url": "https://open.spotify.com/track/4OS4TRXB2bBVDGO2hEqBgS"
@@ -2130,6 +2248,28 @@
       "duration_ms": 232365,
       "name": "Free Me - Groove Assassin Remix",
       "url": "https://open.spotify.com/track/4eEYNJeaQNlKVVkJYtHxlO"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6ungcJVRqedJdY0VsAoNXf"
+      },
+      "artists": [
+        {
+          "name": "Yooks",
+          "url": "https://open.spotify.com/artist/3nKX35cdnfzZGWN0KcPzXp"
+        },
+        {
+          "name": "Ed Ramsey",
+          "url": "https://open.spotify.com/artist/5Kjh35pEuh6zeJCdMd3DYf"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493658,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4scBie3GmexE62QpfQ7cEY"
     },
     {
       "album": {
@@ -2326,7 +2466,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 446026,
       "name": "Get Ready - Halo City Deep Vocal Dub Mix",
       "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
@@ -2418,7 +2558,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 490466,
       "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
       "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
@@ -2536,10 +2676,32 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 342893,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/1Y3RzazTfjBu9THBOSw8NP"
+      },
+      "artists": [
+        {
+          "name": "STOUT",
+          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
+        },
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240361,
+      "name": "Grateful - Terry Hunter Retouch Edit",
+      "url": "https://open.spotify.com/track/6UBH98fHE0AiM1KcLhGcRX"
     },
     {
       "album": {
@@ -2606,7 +2768,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 546000,
       "name": "He Is The Joy - U.B.P. Classic Mix",
       "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
@@ -2676,7 +2838,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 265231,
       "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
@@ -2720,7 +2882,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 381419,
       "name": "Heaven (feat. Andreya Triana) - Danny Krivit Edit",
       "url": "https://open.spotify.com/track/5Re8DUUAt9ui1Yr6WdNwFm"
@@ -2742,6 +2904,28 @@
       "duration_ms": 494066,
       "name": "Heaven - Marlon D. & G.A. Club Mix",
       "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
+    },
+    {
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/63VP59FutIeq6x2VBXGTV7"
+      },
+      "artists": [
+        {
+          "name": "Rea Blaque",
+          "url": "https://open.spotify.com/artist/4ChfQqwjcdXcY1ByUc5Ama"
+        },
+        {
+          "name": "MoreSoul",
+          "url": "https://open.spotify.com/artist/2NnJ40aRQwcTggABFZLhTQ"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368564,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/22kvzIUCs0oua1K4f1NyWf"
     },
     {
       "album": {
@@ -2925,6 +3109,32 @@
     },
     {
       "album": {
+        "name": "Home (Emmaculate Remixes)",
+        "url": "https://open.spotify.com/album/6wg2ta8l3cwIFA6e3pqpnl"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Shea Soul",
+          "url": "https://open.spotify.com/artist/6nk7YSGGvz4AOOkbfMCNHh"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268780,
+      "name": "Home - Emmaculate Remix Edit",
+      "url": "https://open.spotify.com/track/543H1vQW3TPhmQQPpnKYNp"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/790TQ951CFuspPv3o8uu9c"
       },
@@ -2966,7 +3176,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 538744,
       "name": "How Bad I Want Ya - Gu Peak True Time Mix",
       "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
@@ -3142,7 +3352,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 289849,
       "name": "I Believe In Miracles - Broken Party Animal Mix",
       "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
@@ -3201,6 +3411,32 @@
     },
     {
       "album": {
+        "name": "I Feel For You (Yoruba Soul Remixes)",
+        "url": "https://open.spotify.com/album/1cCnQtwVprQDiKoAX9Nwqp"
+      },
+      "artists": [
+        {
+          "name": "Dave Anthony",
+          "url": "https://open.spotify.com/artist/4w8KQ1tXeXrOqBfjMCvIhj"
+        },
+        {
+          "name": "Aleysha Lei",
+          "url": "https://open.spotify.com/artist/5HAdMrrO5kd8GWzhaMUfwW"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378929,
+      "name": "I Feel For You - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/5LtfuQrurh67IqeQbuLfYZ"
+    },
+    {
+      "album": {
         "name": "I Got Rhythm (Remixes)",
         "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
       },
@@ -3216,6 +3452,28 @@
       "duration_ms": 372480,
       "name": "I Got Rhythm (Original Mix)",
       "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
+    },
+    {
+      "album": {
+        "name": "I Know Now",
+        "url": "https://open.spotify.com/album/1gSqYTqAFVhY1ZbqpRpO9F"
+      },
+      "artists": [
+        {
+          "name": "Mercy Street",
+          "url": "https://open.spotify.com/artist/3J0Ql6G58Mst4ay7LrTUBr"
+        },
+        {
+          "name": "Michelle Ndegwa",
+          "url": "https://open.spotify.com/artist/0X7TcFdldhscTVaV8diUKn"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360375,
+      "name": "I Know Now - Extended Mix",
+      "url": "https://open.spotify.com/track/7pNtjUsbvtcTsWIO9ChpN0"
     },
     {
       "album": {
@@ -3336,7 +3594,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 508111,
       "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
       "url": "https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy"
@@ -3406,7 +3664,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 488266,
       "name": "I'm Free - Main Mix",
       "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
@@ -3574,7 +3832,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 210636,
       "name": "Is It True? - Radio Mix",
       "url": "https://open.spotify.com/track/2aRZSM2blNUnjoJOtwfvts"
@@ -3596,7 +3854,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 544146,
       "name": "It's Alright (Felix Dickinson Remix)",
       "url": "https://open.spotify.com/track/2VhsxUaKEWxM7rD1ZaB3gB"
@@ -3684,7 +3942,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
@@ -3706,7 +3964,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 273003,
       "name": "Jaiva",
       "url": "https://open.spotify.com/track/0t354TlNr7mxHMFJQaXljc"
@@ -3782,7 +4040,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 415680,
       "name": "Jus Dance",
       "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
@@ -3874,7 +4132,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 466163,
       "name": "Kissing Strangers - Ralf GUM & CrisP Club Mix",
       "url": "https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq"
@@ -3918,7 +4176,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 296500,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/5HjvvAXCLDCNKEkL45UP3Q"
@@ -3948,10 +4206,36 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 449523,
       "name": "Let It Fall - Harlum Mix",
       "url": "https://open.spotify.com/track/3ZqgxQ8dBG11dQ5Khp9UvJ"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0qxmp3a4COJjsGNyp0eVmH"
+      },
+      "artists": [
+        {
+          "name": "Swaylo",
+          "url": "https://open.spotify.com/artist/1WOLLSR3zNmE14XGHANuBf"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Let It Go - Richard Earnshaw Radio Remix Edit",
+      "url": "https://open.spotify.com/track/4pLwRwyidTPRHvkZT3If4F"
     },
     {
       "album": {
@@ -3970,7 +4254,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 435714,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
@@ -3988,7 +4272,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 493440,
       "name": "Let Me See You (Clap Your Hands)",
       "url": "https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX"
@@ -4014,7 +4298,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 600546,
       "name": "Let the Drums Speak - Phil Asher Mix",
       "url": "https://open.spotify.com/track/3ta8AmSMy4a8DmrYrWDFrU"
@@ -4106,7 +4390,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 259838,
       "name": "Listen To This Drum - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp"
@@ -4154,6 +4438,24 @@
       "duration_ms": 259200,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
       "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
+    },
+    {
+      "album": {
+        "name": "Love Affair",
+        "url": "https://open.spotify.com/album/549Wblx6GfyuyVenZ2Ct7f"
+      },
+      "artists": [
+        {
+          "name": "Doni Nicole",
+          "url": "https://open.spotify.com/artist/5PkfWR1CpRXnPVIXVQX1PR"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595000,
+      "name": "Love Affair (Phunk Farmers Music Vocal Mix) [the Adlib]",
+      "url": "https://open.spotify.com/track/7gOS1uKFHNQnH0AAM8QPum"
     },
     {
       "album": {
@@ -4208,7 +4510,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 391883,
       "name": "Love Changes (feat. Alana) - Deep Mix",
       "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
@@ -4260,6 +4562,40 @@
       "duration_ms": 380020,
       "name": "Love Come Down - Main Mix",
       "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
+    },
+    {
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/2k72vOPLRlNsM5ta97Klf9"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        },
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        },
+        {
+          "name": "Dani\u00ebl von Piekartz",
+          "url": "https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357024,
+      "name": "Love Is Alive - Retromigration Remix",
+      "url": "https://open.spotify.com/track/6oaFPZWgKGtIyFbrvDMTzu"
     },
     {
       "album": {
@@ -4640,7 +4976,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 325773,
       "name": "Music in Me (Come Alive)",
       "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
@@ -4720,7 +5056,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 424320,
       "name": "My Joy - DJ Beloved & Reggie Steele Remix Vocal",
       "url": "https://open.spotify.com/track/1Nblgxqhj82fdNDwvj9sDn"
@@ -4768,7 +5104,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
@@ -4989,6 +5325,28 @@
     },
     {
       "album": {
+        "name": "Ore Yeye O",
+        "url": "https://open.spotify.com/album/36hFVcdTQC3OK3Up3iNS6d"
+      },
+      "artists": [
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        },
+        {
+          "name": "QVLN",
+          "url": "https://open.spotify.com/artist/6QucHfdHaS4tLsKKT2vv2j"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406640,
+      "name": "Ore Yeye O",
+      "url": "https://open.spotify.com/track/34304xvHn4AzRIV9upmaZU"
+    },
+    {
+      "album": {
         "name": "Seven Ways To Wonder (The Remixes)",
         "url": "https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB"
       },
@@ -5060,7 +5418,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 368780,
       "name": "Playground - Groove Assassin Remix",
       "url": "https://open.spotify.com/track/2DcwtxmTJuYe83NIjLOrjz"
@@ -5100,6 +5458,24 @@
       "duration_ms": 463320,
       "name": "Poor People - Big Room Mix",
       "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
+    },
+    {
+      "album": {
+        "name": "Power in Harmony",
+        "url": "https://open.spotify.com/album/76YijZwQb0pPfarXLibw3p"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Power in Harmony - Original Edit",
+      "url": "https://open.spotify.com/track/3tV6MB2SQR5Wbg8Ngn6OTi"
     },
     {
       "album": {
@@ -5188,7 +5564,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 400776,
       "name": "Pusherman - Sean Mccabe Remix",
       "url": "https://open.spotify.com/track/2YHPpaK97tcfDulBk0aujE"
@@ -5210,10 +5586,36 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+    },
+    {
+      "album": {
+        "name": "Rather Be (Richard Earnshaw Remixes)",
+        "url": "https://open.spotify.com/album/0zhszpagphhvn55PgO4sD8"
+      },
+      "artists": [
+        {
+          "name": "London Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz"
+        },
+        {
+          "name": "Annette Bowen",
+          "url": "https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6"
+        },
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228258,
+      "name": "Rather Be - Richard Earnshaw Edit",
+      "url": "https://open.spotify.com/track/2u55G6yrdlv47Ofhw5dOGx"
     },
     {
       "album": {
@@ -5290,7 +5692,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 376790,
       "name": "Ready For The Moment - Terry Hunter Remix",
       "url": "https://open.spotify.com/track/3y3zYtcKlhcH9LZn8JfCJe"
@@ -5319,6 +5721,32 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2WUnOTIVsOlpzjpycPGt2K"
+      },
+      "artists": [
+        {
+          "name": "The Matsiko World Orphan Choir",
+          "url": "https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE"
+        },
+        {
+          "name": "Black Sonix",
+          "url": "https://open.spotify.com/artist/6ePv8p63HwNzcwz39BgHKm"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Rise - Black Sonix & Sean McCabe Radio Edit",
+      "url": "https://open.spotify.com/track/5xR3h1iRZm6Vt4rS5slWOq"
+    },
+    {
+      "album": {
         "name": "Yoruba Soul Mixes - Rock Wit U",
         "url": "https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd"
       },
@@ -5338,10 +5766,28 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 357746,
       "name": "Rock Wit U - Yoruba Soul Mix - Dub",
       "url": "https://open.spotify.com/track/2F5cjiDzORHGhca4dSandQ"
+    },
+    {
+      "album": {
+        "name": "Room For Me",
+        "url": "https://open.spotify.com/album/28glIyLB5ozZhVTnASpzhH"
+      },
+      "artists": [
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Room For Me",
+      "url": "https://open.spotify.com/track/7EOftb351krP6WFbPvdnZ3"
     },
     {
       "album": {
@@ -5367,6 +5813,28 @@
     },
     {
       "album": {
+        "name": "Save Our World",
+        "url": "https://open.spotify.com/album/64uFbAzI7I2uQSrg3XjqE4"
+      },
+      "artists": [
+        {
+          "name": "Ed Ramsey",
+          "url": "https://open.spotify.com/artist/5Kjh35pEuh6zeJCdMd3DYf"
+        },
+        {
+          "name": "Richard Earnshaw",
+          "url": "https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387900,
+      "name": "Save Our World - Richard Earnshaw Classic Extended Mix",
+      "url": "https://open.spotify.com/track/4hbQYpsNvGNOxKzuG2msmE"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -5382,7 +5850,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 606093,
       "name": "See-Line Woman - Masters At Work Remix",
       "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
@@ -5448,7 +5916,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
@@ -5492,7 +5960,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 216754,
       "name": "Shadows - Harry Romero Remix",
       "url": "https://open.spotify.com/track/0iTtIwpEetCcmrimG4W7rP"
@@ -5555,6 +6023,32 @@
     },
     {
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy"
+      },
+      "artists": [
+        {
+          "name": "Rony Breaker",
+          "url": "https://open.spotify.com/artist/5wSpDfqDmrcfiXQX3hILuL"
+        },
+        {
+          "name": "Chinua Hawk",
+          "url": "https://open.spotify.com/artist/3yFaxa4x4nRE2XLpBqQTn0"
+        },
+        {
+          "name": "Brian Tappert",
+          "url": "https://open.spotify.com/artist/15PNwQoGpnGp9XNFlSYy8A"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361172,
+      "name": "Solid Ground - Brian Tappert for the Heads Remix",
+      "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"
+    },
+    {
+      "album": {
         "name": "Soul Fever",
         "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
       },
@@ -5614,6 +6108,36 @@
       "duration_ms": 236153,
       "name": "Soul Ties - Demarkus Lewis Remix",
       "url": "https://open.spotify.com/track/0Xv29YlXT4ffiz6vqFS5de"
+    },
+    {
+      "album": {
+        "name": "Defected Ibiza 2018",
+        "url": "https://open.spotify.com/album/7JOm6PRcZWEXnIYhj2R4ie"
+      },
+      "artists": [
+        {
+          "name": "UNA",
+          "url": "https://open.spotify.com/artist/4Hn8PSNC0XICh053cNCE9I"
+        },
+        {
+          "name": "B.I.T.S",
+          "url": "https://open.spotify.com/artist/3wWNcaqBtKd5puLHmSQbDL"
+        },
+        {
+          "name": "Dj Oji",
+          "url": "https://open.spotify.com/artist/2FodVnEx01prAyRIXmcSY9"
+        },
+        {
+          "name": "DJ Pope",
+          "url": "https://open.spotify.com/artist/0pcXybmnJaiSm2QDhGylq8"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570520,
+      "name": "Soul Underground 2018 - B.I.T.S Vocal Mix",
+      "url": "https://open.spotify.com/track/3Wwp64tTvebHm14iSwetzq"
     },
     {
       "album": {
@@ -5790,7 +6314,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 370909,
       "name": "Stronger - Extended Club Mix",
       "url": "https://open.spotify.com/track/2qdq50vSvWSQZ6jGj94pCX"
@@ -5866,7 +6390,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 356065,
       "name": "Tell Me Something - Crackazat Remix",
       "url": "https://open.spotify.com/track/39JHqw7TkS6glDAONPcJqD"
@@ -5990,7 +6514,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 504933,
       "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
       "url": "https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0"
@@ -6048,7 +6572,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 268937,
       "name": "The Soul Cafe",
       "url": "https://open.spotify.com/track/355rlP0pD78zKUeoJ9Ix5n"
@@ -6077,6 +6601,28 @@
     },
     {
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/7uVcj7Vdj5Z8nbanL6dS5j"
+      },
+      "artists": [
+        {
+          "name": "Wipe The Needle",
+          "url": "https://open.spotify.com/artist/6gEdcNCCqpeMDMX6Qldchw"
+        },
+        {
+          "name": "Syren Rivers",
+          "url": "https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423736,
+      "name": "The Way - RBL Edit",
+      "url": "https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6"
+    },
+    {
+      "album": {
         "name": "The Way You Love Me - Deluxe Re-Issue",
         "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
       },
@@ -6088,7 +6634,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 399653,
       "name": "The Way U Love Me",
       "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
@@ -6161,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Things We Had",
+        "url": "https://open.spotify.com/album/45rY87RWCvfK3xQzQ36OWi"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472133,
+      "name": "Things We Had - Vocal Version",
+      "url": "https://open.spotify.com/track/3nAhYo3Rx7RAjg9YcYfXd9"
+    },
+    {
+      "album": {
         "name": "Think of Me",
         "url": "https://open.spotify.com/album/6tfcVmjgnlE2zrw8bEi4JK"
       },
@@ -6220,7 +6784,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 321695,
       "name": "This Place - Original Mix",
       "url": "https://open.spotify.com/track/6HCpnVK4qvVdaGI1gpm7E7"
@@ -6242,7 +6806,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 399693,
       "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
       "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
@@ -6282,7 +6846,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 440854,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
@@ -6330,6 +6894,28 @@
       "duration_ms": 238000,
       "name": "Touch Me - Original Sugarsoul Mix",
       "url": "https://open.spotify.com/track/4P1gkpnK81Rqi4XrqE794Z"
+    },
+    {
+      "album": {
+        "name": "Touch The Sky",
+        "url": "https://open.spotify.com/album/2Yx9GAub2uts2XEx3EvaOd"
+      },
+      "artists": [
+        {
+          "name": "Babs Presents",
+          "url": "https://open.spotify.com/artist/5XvIet0h4aftQPwRO8RJNe"
+        },
+        {
+          "name": "Bella O' Connor",
+          "url": "https://open.spotify.com/artist/27uJ9epXgDVHfLpSRdCe6o"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421935,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2V3tKs03KuaWR3yLEbdV5g"
     },
     {
       "album": {
@@ -6494,7 +7080,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 441600,
       "name": "Ugly Part of Me - Terry Hunter Mix",
       "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
@@ -6704,7 +7290,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 455800,
       "name": "Welcome Aboard",
       "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
@@ -6764,7 +7350,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 502764,
       "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
       "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"
@@ -6808,7 +7394,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 475262,
       "name": "When The Morning Comes - Main Vocal Mix",
       "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
@@ -6852,6 +7438,28 @@
       "duration_ms": 425806,
       "name": "With You - Reelsoul Vocal Mix",
       "url": "https://open.spotify.com/track/7lbTtimsikR5aIYNsCBc2m"
+    },
+    {
+      "album": {
+        "name": "Without Your Love (The Teddy Douglas Love Break Mixes)",
+        "url": "https://open.spotify.com/album/5SdbFHNTktPQeTvbckmIQP"
+      },
+      "artists": [
+        {
+          "name": "Spencer Morales",
+          "url": "https://open.spotify.com/artist/28Y6wIWjcYYfpfurbvKVqL"
+        },
+        {
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437849,
+      "name": "Without Your Love - Teddy Douglas Love Break Remix",
+      "url": "https://open.spotify.com/track/1ZJJV6efaVKEfIYZH7R84e"
     },
     {
       "album": {
@@ -6962,6 +7570,54 @@
       "duration_ms": 431495,
       "name": "You Can Win",
       "url": "https://open.spotify.com/track/2OxjkBtBAwF3QBVEIlOLwR"
+    },
+    {
+      "album": {
+        "name": "You Decide",
+        "url": "https://open.spotify.com/album/4lyOVtBVTf2koXllBJVWqf"
+      },
+      "artists": [
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Maurissa Rose",
+          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196171,
+      "name": "You Decide - Edit",
+      "url": "https://open.spotify.com/track/5bunwdDjS2Rm7aoLpTrpeX"
+    },
+    {
+      "album": {
+        "name": "You Deserve (Incl. Remixes)",
+        "url": "https://open.spotify.com/album/6xaOW9FCMjsiI3PScWMich"
+      },
+      "artists": [
+        {
+          "name": "DJ Czezre",
+          "url": "https://open.spotify.com/artist/4JUjGBLElAQDC7OPonCrlR"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        },
+        {
+          "name": "Masaki Morii",
+          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "You Deserve - Masaki Morii Remix",
+      "url": "https://open.spotify.com/track/2GK7jRrCME8KH0r9UrnzyE"
     },
     {
       "album": {

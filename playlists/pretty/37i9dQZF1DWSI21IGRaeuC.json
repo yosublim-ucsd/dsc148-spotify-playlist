@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 48909,
+  "num_followers": 48956,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6YcWAAAAAAuqBL8fh9FnuKh+B5WV+oM",
+  "snapshot_id": "Z6eS+QAAAACz6muUxZ2utqOmjqDLQJkB",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:36",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT"
     },
     {
-      "added_at": "2025-01-24 05:00:51",
-      "album": {
-        "name": "Don't Touch That Dial EP",
-        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Don't Touch That Dial",
-      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
-    },
-    {
       "added_at": "2025-02-07 05:00:38",
       "album": {
         "name": "Control Yourself EP",
@@ -71,6 +55,22 @@
       "duration_ms": 215813,
       "name": "Control Yourself - Radio Edit",
       "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
+    },
+    {
+      "added_at": "2025-01-24 05:00:51",
+      "album": {
+        "name": "Don't Touch That Dial EP",
+        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Don't Touch That Dial",
+      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
     },
     {
       "added_at": "2025-01-10 05:00:18",
@@ -193,7 +193,7 @@
         }
       ],
       "duration_ms": 187245,
-      "name": "Buckle Up - Edit",
+      "name": "Buckle Up",
       "url": "https://open.spotify.com/track/1G8RSDzmUhEO3ZUh5X4ELe"
     },
     {
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "FREAK IN THE SHEETS",
-        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "FREAK IN THE SHEETS",
-      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Spring Girl",
         "url": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 228571,
       "name": "Spring Girl",
       "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "FREAK IN THE SHEETS",
+        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "FREAK IN THE SHEETS",
+      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Nothing Hurts",
-        "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Nothing Hurts",
-      "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Nothing Hurts",
+        "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Nothing Hurts",
+      "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Whatchagonnado EP",
         "url": "https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Bad City",
-        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 381821,
-      "name": "Bad City",
-      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Bad City",
+        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 381821,
+      "name": "Bad City",
+      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1725,20 +1725,20 @@
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
-      "added_at": "2024-12-02 21:58:04",
+      "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Red Alert",
-        "url": "https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN"
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
         }
       ],
-      "duration_ms": 203182,
-      "name": "Red Alert",
-      "url": "https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph"
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
     }
   ],
   "unique_name": "Deep & Minimal",

@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "HARDY (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/7IyJPZEJJ9csqDhRz4EOrE"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207915,
+      "name": "God\u2019s Country - Live from Red Rocks",
+      "url": "https://open.spotify.com/track/5kMyufGmzElsXKTfaCOmgc"
+    },
+    {
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
       },

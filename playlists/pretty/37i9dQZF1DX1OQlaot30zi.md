@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa, Sayf, Escomar, Beba e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,668 likes - 120 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,683 likes - 120 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

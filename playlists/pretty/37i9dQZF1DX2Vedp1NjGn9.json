@@ -1,6 +1,6 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 130221,
+  "num_followers": 130266,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
         "name": "The Head and the Heart",
         "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 192133,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH"
     },
     {
       "added_at": "2024-03-18 13:18:53",

@@ -1,28 +1,28 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: WEAN",
-  "num_followers": 177553,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ng\u00f4 Lan H\u01b0\u01a1ng",
+  "num_followers": 177550,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6Y8FAAAAAB2vuPJO/0l9tPOy1atC+sa",
+  "snapshot_id": "Z6eNkwAAAAArVvMI7Yuq/OEcK2WbZzJz",
   "tracks": [
     {
       "added_at": "2025-02-06 17:00:33",
       "album": {
-        "name": "BADBYE",
-        "url": "https://open.spotify.com/album/32QMQlxOQ5tzhUflb30ATX"
+        "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\")",
+        "url": "https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J"
       },
       "artists": [
         {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
         }
       ],
-      "duration_ms": 202966,
-      "name": "BADBYE",
-      "url": "https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM"
+      "duration_ms": 220839,
+      "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 - From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\"",
+      "url": "https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g"
     },
     {
       "added_at": "2025-02-06 17:00:33",
@@ -32,45 +32,13 @@
       },
       "artists": [
         {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
         }
       ],
-      "duration_ms": 24917,
-      "name": "WEAN ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/0xm9MGuMFs8CwftNrZgTCS"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "T\u1ebft \u0110\u1ebfn",
-        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "T\u1ebft \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 29718,
-      "name": "RHYDER ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
+      "duration_ms": 26090,
+      "name": "Ng\u00f4 Lan H\u01b0\u01a1ng ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/0jSDADVknUqe9T8QodBGIe"
     },
     {
       "added_at": "2025-02-06 17:00:33",
@@ -175,6 +143,38 @@
     {
       "added_at": "2025-02-06 17:00:33",
       "album": {
+        "name": "T\u1ebft \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "T\u1ebft \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 29718,
+      "name": "RHYDER ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
         "name": "Love is",
         "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
       },
@@ -203,6 +203,38 @@
       "duration_ms": 29920,
       "name": "Dangrangto ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/0hsaJPrFXiqzRf0eqgvMnG"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "\u1ea3",
+        "url": "https://open.spotify.com/album/3zVOHT1NsTDeG4NyjZFlbA"
+      },
+      "artists": [
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        }
+      ],
+      "duration_ms": 149045,
+      "name": "thi\u00ean th\u1ea7n gi\u00e1ng Tr\u1ea7n",
+      "url": "https://open.spotify.com/track/6qt79zQbwrcAetyyxE4nd0"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        }
+      ],
+      "duration_ms": 29366,
+      "name": "marzuz ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/0RXNOOxdprIDTmj3BqON9A"
     },
     {
       "added_at": "2025-02-06 17:00:33",
@@ -419,6 +451,38 @@
     {
       "added_at": "2025-02-06 17:00:33",
       "album": {
+        "name": "BADBYE",
+        "url": "https://open.spotify.com/album/32QMQlxOQ5tzhUflb30ATX"
+      },
+      "artists": [
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        }
+      ],
+      "duration_ms": 202966,
+      "name": "BADBYE",
+      "url": "https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        }
+      ],
+      "duration_ms": 24917,
+      "name": "WEAN ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/0xm9MGuMFs8CwftNrZgTCS"
+    },
+    {
+      "added_at": "2025-02-06 17:00:33",
+      "album": {
         "name": "\u0110\u01a1n S\u01a1",
         "url": "https://open.spotify.com/album/6YamFmJV03DbgLtWD1BacM"
       },
@@ -547,70 +611,6 @@
       "duration_ms": 26175,
       "name": "AMEE ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/5VJBWMfTyfpwvYESxRIPns"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "\u1ea3",
-        "url": "https://open.spotify.com/album/3zVOHT1NsTDeG4NyjZFlbA"
-      },
-      "artists": [
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
-        }
-      ],
-      "duration_ms": 149045,
-      "name": "thi\u00ean th\u1ea7n gi\u00e1ng Tr\u1ea7n",
-      "url": "https://open.spotify.com/track/6qt79zQbwrcAetyyxE4nd0"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
-        }
-      ],
-      "duration_ms": 29366,
-      "name": "marzuz ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/0RXNOOxdprIDTmj3BqON9A"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 (From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\")",
-        "url": "https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J"
-      },
-      "artists": [
-        {
-          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 - From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\"",
-      "url": "https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g"
-    },
-    {
-      "added_at": "2025-02-06 17:00:33",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "Ng\u00f4 Lan H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC"
-        }
-      ],
-      "duration_ms": 26090,
-      "name": "Ng\u00f4 Lan H\u01b0\u01a1ng ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/0jSDADVknUqe9T8QodBGIe"
     },
     {
       "added_at": "2025-02-06 17:00:33",

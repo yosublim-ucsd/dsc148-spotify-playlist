@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Feb 23:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Feb 19:01 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAPTrExx7dclSMvCB9rwWCzpeyIemi3",
+  "snapshot_id": "AAAPVl4LSWATVleHKx0WByoTVD/pjKKz",
   "tracks": [
     {
       "added_at": "2025-02-07 04:01:46",
@@ -39,6 +39,22 @@
       "duration_ms": 193920,
       "name": "Lost Your Faith",
       "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
+    },
+    {
+      "added_at": "2025-02-08 14:01:54",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-02-07 19:02:02",
@@ -121,6 +137,22 @@
       "url": "https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT"
     },
     {
+      "added_at": "2025-02-08 09:02:01",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm"
+    },
+    {
       "added_at": "2025-02-07 09:02:12",
       "album": {
         "name": "ACTIN UP",
@@ -173,6 +205,26 @@
       "url": "https://open.spotify.com/track/28yziaAmoo7rSKQxHCdYgc"
     },
     {
+      "added_at": "2025-02-08 19:01:54",
+      "album": {
+        "name": "Armani Section",
+        "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 180731,
+      "name": "Armani Section",
+      "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
+    },
+    {
       "added_at": "2025-02-07 14:02:02",
       "album": {
         "name": "Death Shall Have No Dominion",
@@ -187,6 +239,22 @@
       "duration_ms": 288602,
       "name": "Death Shall Have No Dominion",
       "url": "https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC"
+    },
+    {
+      "added_at": "2025-02-08 19:01:54",
+      "album": {
+        "name": "Frunk",
+        "url": "https://open.spotify.com/album/24s0MyiXpmKLa3v9IMTwaL"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "duration_ms": 92150,
+      "name": "Frunk",
+      "url": "https://open.spotify.com/track/6i9S6ehN5CvmUfJKtiK47m"
     },
     {
       "added_at": "2025-02-07 19:02:02",
@@ -561,6 +629,30 @@
       "url": "https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw"
     },
     {
+      "added_at": "2025-02-08 04:01:36",
+      "album": {
+        "name": "szary blok",
+        "url": "https://open.spotify.com/album/5KJUjKdVJwKPDpVfXIOm3u"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "szary blok",
+      "url": "https://open.spotify.com/track/2EQgBSqIkQ3UvL6GAa2cII"
+    },
+    {
       "added_at": "2025-02-07 19:02:02",
       "album": {
         "name": "Stay Cold",
@@ -775,86 +867,6 @@
       "duration_ms": 111428,
       "name": "Enter The Dragon",
       "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
-    },
-    {
-      "added_at": "2025-02-02 23:01:37",
-      "album": {
-        "name": "Girls on the Internet",
-        "url": "https://open.spotify.com/album/3DR5jShLK80E3NXJGUKxnp"
-      },
-      "artists": [
-        {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
-        }
-      ],
-      "duration_ms": 175019,
-      "name": "Girls on the Internet",
-      "url": "https://open.spotify.com/track/0WDxvH1bVNcBufkEcv5eb8"
-    },
-    {
-      "added_at": "2025-02-03 09:01:42",
-      "album": {
-        "name": "Tadka",
-        "url": "https://open.spotify.com/album/5amuuw3Kg9y0Db7S06WJj7"
-      },
-      "artists": [
-        {
-          "name": "Bloodywood",
-          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
-        }
-      ],
-      "duration_ms": 262064,
-      "name": "Tadka",
-      "url": "https://open.spotify.com/track/1bzEg4DkUQOhXDFn89Fex7"
-    },
-    {
-      "added_at": "2025-02-01 04:01:49",
-      "album": {
-        "name": "Kill Bucker",
-        "url": "https://open.spotify.com/album/08iqolKXvw9oKRCN103PW1"
-      },
-      "artists": [
-        {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
-        }
-      ],
-      "duration_ms": 129613,
-      "name": "Kill Bucker",
-      "url": "https://open.spotify.com/track/0sSH4wC3L3tpeRTQXeDJ5G"
-    },
-    {
-      "added_at": "2025-01-31 19:01:56",
-      "album": {
-        "name": "HOLD MY LIQUOR",
-        "url": "https://open.spotify.com/album/5b4CWb6hbrZ3Zsz5i850hG"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 102409,
-      "name": "HOLD MY LIQUOR.",
-      "url": "https://open.spotify.com/track/1kYxjlioDwZCwqlsYOURjn"
-    },
-    {
-      "added_at": "2025-01-31 23:01:53",
-      "album": {
-        "name": "pop",
-        "url": "https://open.spotify.com/album/0b3m9EiH4QT9wuqCEKvS9q"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 175257,
-      "name": "pop",
-      "url": "https://open.spotify.com/track/5yRzgqZ4YP4DJA8XxqUiV5"
     }
   ],
   "unique_name": "New Singles Now",

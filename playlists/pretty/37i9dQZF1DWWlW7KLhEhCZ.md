@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: LH CHUCRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,580 likes - 74 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,572 likes - 74 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 7 | [THE BOX MEDLEY 8](https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [THE BOX MEDLEY 8](https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk) | 4:53 |
 | 8 | [Bandido do Texas](https://open.spotify.com/track/2jpPvuytLLnWmqO9OrlyaV) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Bandido do Texas](https://open.spotify.com/album/5dyk9o171cUUHE5m1arG5i) | 2:22 |
 | 9 | [INVICTO](https://open.spotify.com/track/2X6ohX5bFCQ5DPcIQqEXNp) | [Samu](https://open.spotify.com/artist/7q3AJCYfIRZLHxFOsCs34l), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [INVICTO](https://open.spotify.com/album/73B91DACTMorYOyvESiBUM) | 2:24 |
-| 10 | [Remédio Para Talarico](https://open.spotify.com/track/1mrlm0OwvARUUZV2E44Spl) | [MVK](https://open.spotify.com/artist/6OUzLsKUVBee7bF1DvO0c7), [Surfista](https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Remédio Para Talarico](https://open.spotify.com/album/7gwgeO8HPemL0J31pFNYkY) | 2:25 |
+| 10 | [Remédio Para Talarico](https://open.spotify.com/track/1mrlm0OwvARUUZV2E44Spl) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Surfista](https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Remédio Para Talarico](https://open.spotify.com/album/7gwgeO8HPemL0J31pFNYkY) | 2:25 |
 | 11 | [Só Me Apaixono Por Vadias](https://open.spotify.com/track/2wLhstTF2HHc7HsRldfw5W) | [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Só Me Apaixono Por Vadias](https://open.spotify.com/album/5bsyNf720A1UD1EjtwjOJx) | 3:07 |
 | 12 | [Reinício](https://open.spotify.com/track/3DKsuOKq37WAv512atC3tT) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:51 |
 | 13 | [FNB](https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [FNB>BKB](https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0) | 2:48 |

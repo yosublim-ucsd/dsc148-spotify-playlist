@@ -1,6 +1,6 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina, con Luc\u00eda Alegr\u00eda en portada.",
-  "num_followers": 291066,
+  "num_followers": 291074,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
@@ -154,6 +154,10 @@
         {
           "name": "Ganges",
           "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        },
+        {
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
         },
         {
           "name": "Ginebras",
@@ -506,6 +510,14 @@
         {
           "name": "Delaf\u00e9 y las flores azules",
           "url": "https://open.spotify.com/artist/61gvVjhB4FVbuhdsMz6IK7"
+        },
+        {
+          "name": "Delaf\u00e9",
+          "url": "https://open.spotify.com/artist/0F3BteCqLenBeFqKMviDRy"
+        },
+        {
+          "name": "Helena Miquel",
+          "url": "https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9"
         }
       ],
       "duration_ms": 539903,

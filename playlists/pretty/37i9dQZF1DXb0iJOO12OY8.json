@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214307,
+  "num_followers": 214303,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,30 @@
     {
       "added_at": "2025-02-06 23:00:39",
       "album": {
+        "name": "F\u00e5 det p\u00e5",
+        "url": "https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 199109,
+      "name": "F\u00e5 det p\u00e5",
+      "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
+    },
+    {
+      "added_at": "2025-02-06 23:00:39",
+      "album": {
         "name": "L\u00e5t Mig Va",
         "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
       },
@@ -459,30 +483,6 @@
     {
       "added_at": "2025-02-06 23:00:39",
       "album": {
-        "name": "F\u00e5 det p\u00e5",
-        "url": "https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 199109,
-      "name": "F\u00e5 det p\u00e5",
-      "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
-    },
-    {
-      "added_at": "2025-02-06 23:00:39",
-      "album": {
         "name": "Didn't I?",
         "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-02-06 23:00:39",
       "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
-    },
-    {
-      "added_at": "2025-02-06 23:00:39",
-      "album": {
         "name": "Hvitt Gull (Kilroy)",
         "url": "https://open.spotify.com/album/0hU5JEbaEsODriACbBtUsM"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 136338,
       "name": "Hvitt Gull (Kilroy)",
       "url": "https://open.spotify.com/track/5Qy0doMqmgxa2D1pGZr0Io"
+    },
+    {
+      "added_at": "2025-02-06 23:00:39",
+      "album": {
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
     },
     {
       "added_at": "2025-02-06 23:00:39",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-02-06 23:00:39",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2025-02-06 23:00:39",
+      "album": {
         "name": "Ambassad\u00f8r",
         "url": "https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 169263,
       "name": "Ambassad\u00f8r",
       "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:39",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2025-02-06 23:00:39",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-02-06 23:00:39",
       "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 134428,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
+    },
+    {
+      "added_at": "2025-02-06 23:00:39",
+      "album": {
         "name": "Norge Elsker Rap",
         "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 186000,
       "name": "hva om jeg slutta \u00e5 bry meg",
       "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
-    },
-    {
-      "added_at": "2025-02-06 23:00:39",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 158511,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
     }
   ],
   "unique_name": "ung, dum & lovende",

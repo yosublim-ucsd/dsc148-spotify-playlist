@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 79955,
+  "num_followers": 79971,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-02-07 10:14:33",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
+    },
+    {
+      "added_at": "2025-02-07 10:14:33",
+      "album": {
         "name": "Know Me Like",
         "url": "https://open.spotify.com/album/4g6jfqwpgyGh52gQzSdbGO"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 159292,
       "name": "Know Me Like",
       "url": "https://open.spotify.com/track/1sYXnmfLdX0EtaMm7pphX3"
-    },
-    {
-      "added_at": "2025-02-07 10:14:33",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
     },
     {
       "added_at": "2025-02-07 10:14:33",

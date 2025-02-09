@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 84 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 14 | [Gossip Girl](https://open.spotify.com/track/2maAcOeKbRN6zSmwQcGA7G) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:23 |
 | 15 | [Superbad](https://open.spotify.com/track/60LfuzAmQLWsIeepbx5vCp) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [In Technicolor](https://open.spotify.com/album/0a6jDwbxe5To2k3EXLVe9d) | 2:57 |
 | 16 | [Love's Just A Feeling](https://open.spotify.com/track/1foYfeVd8HVex402aOJN4o) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough \(Deluxe Edition\)](https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai) | 3:49 |
-| 17 | [Don't Wanna Dance Alone](https://open.spotify.com/track/0PqzweEfZz6CFduasBimQQ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 |
-| 18 | [Good Girl](https://open.spotify.com/track/267PdOKSJ1CbfO9Uvr4IZN) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Barbie Lets All Party 2011](https://open.spotify.com/album/4MBKfkni8hJGbZbtWCEoKY) | 3:55 |
+| 17 | [Good Girl](https://open.spotify.com/track/267PdOKSJ1CbfO9Uvr4IZN) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Barbie Lets All Party 2011](https://open.spotify.com/album/4MBKfkni8hJGbZbtWCEoKY) | 3:55 |
+| 18 | [Don't Wanna Dance Alone](https://open.spotify.com/track/0PqzweEfZz6CFduasBimQQ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 |
 | 19 | [Keep Dancing](https://open.spotify.com/track/4qqIuSEkjZhXHQ7cGCKZq8) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:40 |
 | 20 | [Everybody Wants You \(feat\. Sam Fischer\)](https://open.spotify.com/track/6bXi3POdPDmcJJ2A43pLIw) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Everybody Wants You \(feat\. Sam Fischer\)](https://open.spotify.com/album/4fGbB2oX0mUJWRpYJpf1PU) | 3:20 |
 | 21 | [Red Planet \(feat\. T\-Boz\)](https://open.spotify.com/track/4HvzvX45XPWlMJ5k7c2oOh) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [T\-Boz](https://open.spotify.com/artist/5z67HRLMUYoZhaZPWUoV94) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:53 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 83 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 84 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 |
 
-Snapshot ID: `Abo+7AAAAAA35zOHjwOh2Sax6swQcRvj`
+Snapshot ID: `AbpEvgAAAAAdGF3AT+oEftLGvbNYE2Ue`

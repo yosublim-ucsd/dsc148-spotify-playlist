@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Beach Fossils
 
-472 songs - 1 day 4 hr 56 min
+474 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
-| [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-12 |  |
+| [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-03-12 | 2025-02-09 |
 | [Anthem](https://open.spotify.com/track/5u4sCPvmbuWjxJBi8B0QAw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm) | 5:42 | 2021-03-12 | 2022-07-29 |
 | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Anthems For A Seventeen Year Old Girl](https://open.spotify.com/album/4myEpnMud7cUNDPdHgfBws) | 3:20 | 2021-03-12 | 2022-07-25 |
 | [Apart](https://open.spotify.com/track/0R3zkCF1Z2hWuXpqKwIi9d) | [Nouveau Arcade](https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Cordélia](https://open.spotify.com/artist/0UhSatKKJwvaFdWEEEhhuY) | [Apart](https://open.spotify.com/album/234RumQhzektWxKjD1eZFm) | 4:08 | 2022-04-08 | 2022-04-18 |
@@ -123,6 +123,7 @@
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2024-08-01 |
 | [Dreams Tonite](https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Dreams Tonite](https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH) | 3:08 | 2024-12-20 |  |
 | [Drive](https://open.spotify.com/track/5YYIPLmYIkAle6s7Kf34qI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Drive](https://open.spotify.com/album/4FdoQ3s6u5POcFp9BUrWCK) | 4:32 | 2021-03-12 | 2022-07-29 |
+| [Dumb](https://open.spotify.com/track/4kfehhuF25rA7TPlPNKmvi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Dumb](https://open.spotify.com/album/5cEpFqMuVm8N1cZkGyfvjQ) | 3:18 | 2025-02-07 |  |
 | [Early Morning Breeze](https://open.spotify.com/track/7xvvHuMKxAuMLFnMpENANu) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Early Morning Breeze](https://open.spotify.com/album/03jIj1uKSQjMu1hzaTTPqR) | 4:16 | 2021-03-19 | 2022-07-29 |
 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-02 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Everybody Wants To Rule The World](https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu) | 3:43 | 2023-06-16 | 2024-07-21 |
@@ -265,6 +266,7 @@
 | [Losing My Religion](https://open.spotify.com/track/3jT7wAwYJ8PO89yR5sPsNt) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [Losing My Religion](https://open.spotify.com/album/1Lv3nabYJlFei5mX0kIE3o) | 4:45 | 2022-01-28 | 2022-07-28 |
 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 | 2022-01-20 |  |
 | [Lost \- In Isolation](https://open.spotify.com/track/7fPbhbZIVFaPw56av19ElP) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Lost \(In Isolation\)](https://open.spotify.com/album/66or5KdDJsKbdEtTKLvAKt) | 3:51 | 2021-03-12 | 2022-07-13 |
+| [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 | 2025-02-07 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Thank You For Being Here](https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq) | 2:05 | 2022-02-25 |  |
 | [Love On The Brain \- Los Feliz Blvd](https://open.spotify.com/track/135EP4qT9Eo0Uu0fMIln2c) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Love On The Brain \(Los Feliz Blvd\)](https://open.spotify.com/album/66ppJdnCXQSSapBecQaUhp) | 4:26 | 2021-03-12 | 2022-07-27 |
 | [Lovefool](https://open.spotify.com/track/7rCqnuoSNr25qTcl5WOgtl) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Lovefool](https://open.spotify.com/album/2wkMjAppwIgYT6dgQYGHNS) | 3:22 | 2021-07-21 | 2022-07-28 |
@@ -320,7 +322,7 @@
 | [Playground Love](https://open.spotify.com/track/52ggts0Q0n28pTwuJFQTCI) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Covers](https://open.spotify.com/album/2sGDyZu2wBzVd1HIy8fAcw) | 2:28 | 2021-03-12 | 2022-07-28 |
 | [Present Tense \- Radiohead cover](https://open.spotify.com/track/1XHpcCxpyC3aB5kuDmOs1j) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Present Tense](https://open.spotify.com/album/3p6W178kmHM6ExQkWJURNz) | 4:35 | 2021-03-12 | 2022-07-21 |
 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 | 2021-11-19 |  |
-| [Pure Shores](https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Pure Shores](https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ) | 3:53 | 2025-01-28 |  |
+| [Pure Shores](https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Pure Shores](https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ) | 3:53 | 2025-01-28 | 2025-02-09 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-03-12 | 2022-04-20 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2021-03-12 | 2024-04-19 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-19 |  |

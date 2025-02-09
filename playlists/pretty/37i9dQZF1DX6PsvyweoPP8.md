@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,780 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,798 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 28 | [limão siciliano](https://open.spotify.com/track/2mSQSwdnTPntGMYTofAFGo) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:33 |
 | 29 | [Memo Papinho](https://open.spotify.com/track/7r3UTCauWELpPXbgG22yzs) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Memo Papinho](https://open.spotify.com/album/6L9vIxZkJBtkhQ5fjNpD1g) | 2:38 |
 | 30 | [Quem Te Faz](https://open.spotify.com/track/5tg3wMBNJ52KeTwbUOYGIY) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ) | [Quem Te Faz](https://open.spotify.com/album/0E1pYaXmv9mhh7RRWi2yY1) | 4:24 |
-| 31 | [ESTRESSE](https://open.spotify.com/track/4wWPkfssVcfBxJ7e2rGg6B) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
+| 31 | [ESTRESSE](https://open.spotify.com/track/4wWPkfssVcfBxJ7e2rGg6B) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
 | 32 | [Mais Uma Noite](https://open.spotify.com/track/2HhlfSdtyJHAzLOVcATPnF) | [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P) | [Relatos De 7 Noites, Vol\. 2](https://open.spotify.com/album/5E0Guh5pTyLPBZmsEEStqk) | 2:57 |
 | 33 | [Contando Malote](https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN) | [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Contando Malote](https://open.spotify.com/album/6LK8QTYhYZtJurm38occbm) | 3:30 |
 | 34 | [Pole Dance](https://open.spotify.com/track/1BSp7V0I9hHaWOF2SU5G9V) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 3:03 |

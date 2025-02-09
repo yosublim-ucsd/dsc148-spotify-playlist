@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
@@ -10120,7 +10120,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 275045,
       "name": "Bonfires",
       "url": "https://open.spotify.com/track/3c4Xe8jLA77Ngr4xkPzMM1"
@@ -10592,7 +10592,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Boy Clothes",
       "url": "https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr"
@@ -12386,6 +12386,28 @@
       "duration_ms": 199540,
       "name": "Can I Go Back In Time?",
       "url": "https://open.spotify.com/track/013V9cQ2zRqM3Sy1Tvzfh2"
+    },
+    {
+      "album": {
+        "name": "CAN WE LIVE?",
+        "url": "https://open.spotify.com/album/01MoHXRkIxIiJiRmqjlxov"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "B.O.A Mook",
+          "url": "https://open.spotify.com/artist/2LScPi7kKtHiWfhFCrzSww"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212850,
+      "name": "CAN WE LIVE?",
+      "url": "https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw"
     },
     {
       "album": {
@@ -21672,7 +21694,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 195000,
       "name": "Eil\u00edf \u00e1st",
       "url": "https://open.spotify.com/track/7B3jRDlwV3blTkKp57MxjG"
@@ -31492,7 +31514,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 193687,
       "name": "Hafl\u00edna",
       "url": "https://open.spotify.com/track/7im3VeSVIsSfwtTmsdlmOI"
@@ -70055,6 +70077,24 @@
     },
     {
       "album": {
+        "name": "SOV GODT",
+        "url": "https://open.spotify.com/album/7j8wITX3ELxvyn4NHmTb4S"
+      },
+      "artists": [
+        {
+          "name": "READY ATLANTIC",
+          "url": "https://open.spotify.com/artist/1qT5yTlM7pt9FftPgXeQzn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222435,
+      "name": "SOV GODT",
+      "url": "https://open.spotify.com/track/4BLFUCBe0WyPEIxTgH00de"
+    },
+    {
+      "album": {
         "name": "Space Rock",
         "url": "https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0"
       },
@@ -71698,7 +71738,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "Stj\u00f6rnur sk\u00edna",
       "url": "https://open.spotify.com/track/2qJkSBI6ATRmNpNy1mtXbu"
@@ -79930,7 +79970,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 204000,
       "name": "U know",
       "url": "https://open.spotify.com/track/3kS86aHE3z4zRiNBRybTRC"
@@ -87446,7 +87486,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 171935,
       "name": "\u00d3 S\u00daSANNA",
       "url": "https://open.spotify.com/track/3ijB5isapneBQXLXyiLHOP"

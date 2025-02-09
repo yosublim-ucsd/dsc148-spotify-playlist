@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5lVAE3z1LZ69DXE3Hd6MpL">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 4 hr 4 min
+60 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Genesis](https://open.spotify.com/track/2lDJa6GBUSL7fnQqr9hrtt) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 3:47 | 2025-02-06 |  |
 | [Hipócritas](https://open.spotify.com/track/0x12Va4JiO5Qjqcy3VCFn4) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 4:08 | 2022-06-04 |  |
 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 | 2022-06-04 |  |
-| [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 | 2022-06-04 |  |
+| [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 | 2022-06-04 | 2025-02-09 |
+| [Introdução \- Ao Vivo](https://open.spotify.com/track/1NLSIkmrqOMF8Vwrw7cz6t) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/3FD7FquzRXThRDn5L8j4jz) | 3:12 | 2025-02-08 |  |
 | [Jah Jah Me Leve](https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:13 | 2022-06-04 | 2025-02-07 |
 | [Jah Jah Me Leve](https://open.spotify.com/track/3JFbphlHpFDqNmq4bgrlby) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 4:13 | 2025-02-06 |  |
 | [Love Is Freedom](https://open.spotify.com/track/6p9cYLrniQ4pAZ56OIhMyD) | [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:58 | 2022-06-04 | 2024-03-17 |

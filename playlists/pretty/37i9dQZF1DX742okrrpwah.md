@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > LISA, Doja Cat et RAYE au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,814 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,823 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 17 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
 | 18 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 |
 | 19 | [Camp Nou](https://open.spotify.com/track/1HjubnKBM5ZwjTBOTIv7KS) | [77 degrés](https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [77 Degrés](https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF) | 2:47 |
-| 20 | [Ghetto Whine](https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/0rRSVWD5GkKni1ZyZYiExL) | [Ghetto Whine](https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC) | 2:07 |
+| 20 | [Ghetto Whine](https://open.spotify.com/track/4DdnRjpPzIeb7YbiDafRLm) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Ghetto Whine](https://open.spotify.com/album/5yCJjBAoM4A8asNzQyzJsC) | 2:07 |
 | 21 | [ENTROPIA](https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [ENTROPIA](https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg) | 6:38 |
 | 22 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 |
 | 23 | [House Is The Religion](https://open.spotify.com/track/10o9PsKjYzrPopHbZMxSpO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Grace Note](https://open.spotify.com/album/7LpgG3Pc5k14wlanV3LfAQ) | 3:18 |

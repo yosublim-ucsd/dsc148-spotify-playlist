@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 16 hr 29 min
+163 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Move Your Heart \(feat\. Dante Bowe & Elyssa Smith\)](https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 10:21 | 2024-06-11 |  |
 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 | 2024-06-11 |  |
 | [My Soul Sings \(feat\. Dante Bowe\)](https://open.spotify.com/track/5cc19U5WGGElNUc38XY25r) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 11:20 | 2024-06-11 |  |
+| [na na eh oh](https://open.spotify.com/track/64A3IHMcMbD9JB3eDDXvQU) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [na na eh oh](https://open.spotify.com/album/6tmZjUhTS98AtqbSQQ9tWX) | 4:24 | 2025-02-08 |  |
 | [Nadie Como Tú \(feat\. Aaron Moses, Israel Houghton & Adrienne Houghton\)](https://open.spotify.com/track/4wnG3jhn8rIFJxHoOw11QE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Adrienne Houghton](https://open.spotify.com/artist/3v2b4owGaN9d2bSdsZMWxR) | [Venga Tu Reino \(Deluxe\)](https://open.spotify.com/album/26W3PMfdqy8gG7Tw9rlozA) | 5:03 | 2024-06-11 |  |
 | [Nail Scarred Hands](https://open.spotify.com/track/0ow9IbOxw98Pvf3kI3iaV3) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/3nd4DjXbVskrxZy3T7bMHJ) | 3:12 | 2024-07-12 |  |
 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 | 2024-06-11 | 2024-07-13 |

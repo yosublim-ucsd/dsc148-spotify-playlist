@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > In honor of Black History Month and for the first section of this playlist, we're highlighting the art of influence\. Click into the feed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,574 likes - 195 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,898 likes - 195 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 54 | [Light Years](https://open.spotify.com/track/1cGngAbOYfhAbiKyFuFG46) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Light Years](https://open.spotify.com/album/1jcSKQDPYsYbZtPCyVpZyD) | 3:47 |
 | 55 | [Better \(unplugged\)](https://open.spotify.com/track/4jLsSrvC5c9pbyk7vUz56c) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Better](https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher) | 6:39 |
 | 56 | [Mona Lisa Smile](https://open.spotify.com/track/0sjhlV2MhCYGtPlYhuplD6) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Mona Lisa Smile](https://open.spotify.com/album/1uHymd2eSx7ch8RDKBAzIC) | 3:35 |
-| 57 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl\(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
+| 57 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
 | 58 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
 | 59 | [Amazing Grace](https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Amazing Grace](https://open.spotify.com/album/6bbvbiCg3hPPm5lWbaa6N5) | 2:13 |
 | 60 | [Matthew 18:20](https://open.spotify.com/track/2CQNa8WplamGGPnMpSlFt6) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi), [De La Cruz](https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD) | [Matthew 18:20](https://open.spotify.com/album/2axk8Nh8qkD8cj7gx6vGgh) | 2:48 |

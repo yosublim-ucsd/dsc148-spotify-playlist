@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 207761,
       "name": "AGHARAS",
       "url": "https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn"
@@ -6136,6 +6136,28 @@
       "duration_ms": 270000,
       "name": "Obligaci\u00f3n",
       "url": "https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z"
+    },
+    {
+      "album": {
+        "name": "DIARY OF A DEAD MAN (ALIVE SESSION)",
+        "url": "https://open.spotify.com/album/4mQeK8UfZQgMkxtynqJXli"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Lina Guessoussi",
+          "url": "https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265403,
+      "name": "OFF MY MIND REWORK (ALIVE SESSION)",
+      "url": "https://open.spotify.com/track/28azhH8rcRQvoJn4btylPF"
     },
     {
       "album": {

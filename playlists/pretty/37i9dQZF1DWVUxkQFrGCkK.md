@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > next up: IBZ opening
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,396 likes - 319 songs - 21 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,523 likes - 319 songs - 21 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 11 | [Muhuuuuu](https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd), [ADDAM \(BE\)](https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q) | [Muhuuuuu](https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB) | 2:43 |
 | 12 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |
 | 13 | [Back 2 Me \- Peace Control Remix](https://open.spotify.com/track/70eKraygMmw08t8SboRQOa) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Back 2 Me \(The Remixes\)](https://open.spotify.com/album/3kJ1H3aCv7QxOdDkBQctg6) | 4:19 |
-| 14 | [Fallin'](https://open.spotify.com/track/62Aipi6vLvWKU3B9VVp36I) | [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Loubna](https://open.spotify.com/artist/72pDAHabHuczK4DG887EJR) | [Fallin'](https://open.spotify.com/album/2CMJizg3io9ScmipS6rmWI) | 2:57 |
+| 14 | [Fallin'](https://open.spotify.com/track/62Aipi6vLvWKU3B9VVp36I) | [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Loubna](https://open.spotify.com/artist/2XEOV6jbOqnKT2IhXHZfb3) | [Fallin'](https://open.spotify.com/album/2CMJizg3io9ScmipS6rmWI) | 2:57 |
 | 15 | [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 |
 | 16 | [Miçanga \(feat\. BaianaSystem\) \[with Alok, Kawz\]](https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st) | [SOMETHING ELSE](https://open.spotify.com/artist/0OJlOf2aa3J8a38xACGZY4), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Kawz](https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB) | [Miçanga \(feat\. BaianaSystem\) \[with Alok, Kawz\]](https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD) | 3:06 |
 | 17 | [Falling Feels Like Flying \(ft Kabusa Oriental Choir\)](https://open.spotify.com/track/4uwYYpAbDZ1SFRdde2hJUU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:16 |

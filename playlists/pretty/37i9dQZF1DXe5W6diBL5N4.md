@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: LISA\(리사\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,952 likes - 217 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,042 likes - 217 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 18 | [Starlight](https://open.spotify.com/track/5kH47YANTpxd6fJbZecwJC) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Starlight](https://open.spotify.com/album/3hUD4nTrarlSSxYsSqMJ6y) | 4:08 |
 | 19 | [Stay](https://open.spotify.com/track/5kpvbKBk2GGYN1RhmXkB4J) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Stay](https://open.spotify.com/album/6YChXNKwyu7Nq1MqJicE1K) | 3:45 |
 | 20 | [First Class](https://open.spotify.com/track/349oSDf5XxpypEq6L3zM2i) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [First Class](https://open.spotify.com/album/3BGZoDfmfyEpcnnlRS1Jux) | 2:11 |
-| 21 | [Magic Lily](https://open.spotify.com/track/2idifx4BoD1a2O3Tksl2h1) | [can’t be blue](https://open.spotify.com/artist/6AXk9SC9qzbhIjhyK77cjI) | [KickKickKickKick \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3gMXpnk3yImBnut57xTF92) | 4:26 |
+| 21 | [Magic Lily](https://open.spotify.com/track/2idifx4BoD1a2O3Tksl2h1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [KickKickKickKick \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3gMXpnk3yImBnut57xTF92) | 4:26 |
 | 22 | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/track/26gNGFadZKRyaYCbsORUE5) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/album/60cdyydHGHG8cj8HTfU4xX) | 4:13 |
 | 23 | [Our Way \(Feat\. Jeong Dayeong\)](https://open.spotify.com/track/4vUnEJStIJUKiSJ2XU8hkZ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Jeong Dayeong](https://open.spotify.com/artist/20mVTB1N9ZvNj8MtxLx7cx) | [New Edition 67](https://open.spotify.com/album/3McZamGgg3KYV2Q3GJgxCH) | 2:53 |
 | 24 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 |

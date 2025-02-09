@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1377423,
+  "num_followers": 1377925,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
+        "name": "A Festa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 330252,
+      "name": "A Festa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
         "name": "Ex-Amor",
         "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 226141,
       "name": "Exagerado 3.0",
       "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
-        "name": "A Festa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 330252,
-      "name": "A Festa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
+        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Entre a Serpente e a Estrela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 178892,
       "name": "Mentiras - Ao Vivo",
       "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
-        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Entre a Serpente e a Estrela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
     },
     {
       "added_at": "2025-01-31 13:44:06",

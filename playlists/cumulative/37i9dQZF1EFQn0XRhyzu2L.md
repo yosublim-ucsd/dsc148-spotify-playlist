@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-541 songs - 1 day 5 hr 38 min
+543 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 | 2024-08-23 |  |
 | [Broke a Sweat](https://open.spotify.com/track/3TL1qe9nHf6NkWpQ5P2j6d) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:50 | 2024-02-27 |  |
 | [Brutal Honesty \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/373qisfX9HkEIePg3bEZyZ) | [Justin Tranter](https://open.spotify.com/artist/3D7L8f9VRhsXHHNPiTBioz), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:55 | 2024-02-27 |  |
-| [But I Like It](https://open.spotify.com/track/7e3znUhuOUghc1F9E8tk9n) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Music is Universal: Sing, Dance, Pride!](https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0) | 3:12 | 2024-02-27 |  |
+| [But I Like It](https://open.spotify.com/track/19Eqx3fA0k5JG73e6TsgWA) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 3:12 | 2025-02-08 |  |
+| [But I Like It](https://open.spotify.com/track/7e3znUhuOUghc1F9E8tk9n) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Music is Universal: Sing, Dance, Pride!](https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0) | 3:12 | 2024-02-27 | 2025-02-09 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2024-02-27 |  |
 | [Call it Love](https://open.spotify.com/track/5rVv4Ej6k60zh5VPRpjln0) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [LOVE](https://open.spotify.com/album/477cCvnSXhVwHlUJ4j70zj) | 3:03 | 2024-02-27 |  |
 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 | 2024-02-27 |  |
@@ -516,7 +517,8 @@
 | [Wasteland](https://open.spotify.com/track/1ODKNzRaEnhpwBhlHrv348) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 2:53 | 2024-02-27 |  |
 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 | 2024-02-27 |  |
 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 | 2024-02-27 |  |
-| [We](https://open.spotify.com/track/1SBCIiI483ojCyUIm0wWN7) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Music is Universal: Sing, Dance, Pride!](https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0) | 2:47 | 2024-02-27 |  |
+| [We](https://open.spotify.com/track/1SBCIiI483ojCyUIm0wWN7) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Music is Universal: Sing, Dance, Pride!](https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0) | 2:47 | 2024-02-27 | 2025-02-09 |
+| [We](https://open.spotify.com/track/6ml9seTJ2RNU74FO9cqigN) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:47 | 2025-02-08 |  |
 | [Weddings and Funerals](https://open.spotify.com/track/5nLLiqvpX3Lgngure8GpeQ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Weddings and Funerals](https://open.spotify.com/album/12mtOTu2uBBNLF3ibzzNDD) | 3:10 | 2024-02-27 |  |
 | [West Coast](https://open.spotify.com/track/1B7Vir1E4FcFPP5tUzDSmR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 3:15 | 2024-02-27 |  |
 | [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/5wVX4Cz2D4kFWA1aaiFnTl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:14 | 2024-02-27 |  |

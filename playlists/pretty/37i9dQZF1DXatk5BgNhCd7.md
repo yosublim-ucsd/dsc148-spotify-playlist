@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. NATTI NATASHA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,969 likes - 196 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,040 likes - 196 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,625 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,549 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 42 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 |
 | 43 | [Pusteblume](https://open.spotify.com/track/2exlK2N3UXrw5fVsAhSimu) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Pusteblume](https://open.spotify.com/album/5vDviDx5Q5pgQpR7NpIAT9) | 2:48 |
 | 44 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
-| 45 | [Glitzerhose](https://open.spotify.com/track/202xIp6KZmPtyj2jO74Deh) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Jamo](https://open.spotify.com/artist/4Rmm0eZfrEeKXC4rXj2i6z) | [Glitzerhose](https://open.spotify.com/album/5p9WwZajoeYCjv9nYzfbRy) | 2:12 |
+| 45 | [Glitzerhose](https://open.spotify.com/track/202xIp6KZmPtyj2jO74Deh) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Jamo](https://open.spotify.com/artist/19PQbeoThyWEYbf9QdgWVZ) | [Glitzerhose](https://open.spotify.com/album/5p9WwZajoeYCjv9nYzfbRy) | 2:12 |
 | 46 | [Supernova](https://open.spotify.com/track/5TtRCj1G8Ux5lQkBgA3GiH) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Supernova](https://open.spotify.com/album/0kCYSSo46SLY0ZPwrettiy) | 3:26 |
 | 47 | [this one's different](https://open.spotify.com/track/2rfuXLPxWPoMe1iF09LfZl) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [this one's different](https://open.spotify.com/album/5Efj8xxAOE1uRGDDrjgJkO) | 3:03 |
 | 48 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |

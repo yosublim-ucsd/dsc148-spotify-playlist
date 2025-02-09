@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 172000,
       "name": "Love and Light",
       "url": "https://open.spotify.com/track/4KHtSL1CTl3mLQUmeS0FzZ"
@@ -7296,6 +7296,24 @@
       "duration_ms": 177500,
       "name": "Novation",
       "url": "https://open.spotify.com/track/04UlDODpopyY0bZ6rhJtXB"
+    },
+    {
+      "album": {
+        "name": "Nox",
+        "url": "https://open.spotify.com/album/133wimkpma9DpRyIEgS5dV"
+      },
+      "artists": [
+        {
+          "name": "Esotherum",
+          "url": "https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166794,
+      "name": "Nox",
+      "url": "https://open.spotify.com/track/2l5RGPbH2eq93zMytmGZ4n"
     },
     {
       "album": {

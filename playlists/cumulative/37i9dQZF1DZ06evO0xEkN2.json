@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Cha Cha Love",
+        "url": "https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "Cha Cha Love",
+      "url": "https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW"
+    },
+    {
+      "album": {
         "name": "Ofrenda",
         "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },

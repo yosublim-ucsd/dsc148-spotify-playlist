@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-448 songs - 1 day 22 hr 32 min
+449 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Eliso Lyamu Katata](https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Eliso](https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD) | 2:56 | 2020-02-20 | 2023-05-30 |
 | [Endongo](https://open.spotify.com/track/4HJZxDr6ZL2qtYtrTD6V0M) | [Nihiloxica](https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL) | [Nihiloxica](https://open.spotify.com/album/5bJXJrJ6lJcdhXrdphNYhe) | 6:25 | 2022-04-04 | 2022-04-17 |
 | [Entanglement](https://open.spotify.com/track/6uFnxdpewuPSD68GIuERQW) | [Elif \(TR\)](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm), [Sanoi](https://open.spotify.com/artist/2SBLKhyt0dAKZXEU80zWLh) | [15 Years Stil vor Talent, Part 2](https://open.spotify.com/album/5bCBKgvo1NrJh0anyFfCE9) | 8:05 | 2020-09-10 | 2020-12-23 |
-| [Entrecote](https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Osam](https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb) | 8:02 | 2022-08-12 |  |
+| [Entrecote](https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Osam](https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb) | 8:02 | 2022-08-12 | 2025-02-09 |
 | [Eternal Blue Sky](https://open.spotify.com/track/6TmBeLxUxWWqp5cVCxeYVk) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Eternal Blue Sky](https://open.spotify.com/album/0WKp8tdVQN3aHeAhFMVnPJ) | 6:16 | 2019-11-10 | 2020-08-08 |
 | [Eternal Road \- Edit](https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie) | [Rapossa](https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Eternal Road](https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc) | 3:05 | 2023-11-14 | 2024-09-14 |
 | [Euphoria](https://open.spotify.com/track/5MfAEVAD5xWUeHcwuoD79D) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Euphoria](https://open.spotify.com/album/4GgdeB1pSl8rby7Y2OLdyJ) | 7:24 | 2020-05-02 | 2022-04-15 |
@@ -367,6 +367,7 @@
 | [Seymour](https://open.spotify.com/track/5AzouEvFfanX3ldNVHSv82) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Seymour](https://open.spotify.com/album/6078zrNUWo4oCNus4USYnL) | 5:27 | 2020-05-15 | 2022-07-29 |
 | [Seymour](https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Seymour](https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO) | 5:27 | 2022-06-14 | 2023-11-16 |
 | [Shiratani](https://open.spotify.com/track/4y4JxupRZfTQoaxdz8lj1j) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Walking the World EP](https://open.spotify.com/album/7MzkyvQL1nWGnVj6y4BmHH) | 8:15 | 2020-08-08 | 2020-11-21 |
+| [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-07 |  |
 | [Showdown](https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09) | [Victor Norman](https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 7:48 | 2022-06-14 | 2023-01-25 |
 | [Showdown](https://open.spotify.com/track/6G6ScMNc9FBe9zUI0eaEW8) | [Victor Norman](https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9) | [Mebsuta](https://open.spotify.com/album/48FdcFx5xhoOjIY60OihXV) | 7:48 | 2019-09-20 | 2022-06-16 |
 | [So It Goes](https://open.spotify.com/track/5ClxAzprojFOLUBxLWRXn4) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Hoom Side of the Sun, Vol\. 03](https://open.spotify.com/album/5fygnw3bpNm9VC7G1X9ABe) | 7:05 | 2021-08-11 | 2022-07-28 |

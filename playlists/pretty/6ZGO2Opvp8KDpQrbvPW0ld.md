@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,177 likes - 300 songs - 10 hr 35 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,176 likes - 300 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer Breeze](https://open.spotify.com/track/7i6DMIhGwB3NJ77NisaoHD) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Summer Breeze](https://open.spotify.com/album/2KV9jkMSeiJKRoQbhBD4U4) | 1:51 |
 | 2 | [Across The Street](https://open.spotify.com/track/7tW1zHYQwOS5nVFpCDKHEC) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Across The Street](https://open.spotify.com/album/1hSWpAuMOFinzfbSoho7rE) | 1:21 |
-| 3 | [Apéritif](https://open.spotify.com/track/6EGEWAmSPLK157Vg8IoR12) | [Melor Music](https://open.spotify.com/artist/4EY44EYHJubDy0quTckK6q), [BRIAN MADE](https://open.spotify.com/artist/2PoajTrdpBExuppZtg8u08), [RIMINISSI](https://open.spotify.com/artist/6QsFuzOftbdxNqbjxM4izE), [Kaia Yook](https://open.spotify.com/artist/5cFeg1g5UMj5INJPmAYgTQ), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Apéritif](https://open.spotify.com/album/4HiJcTwU90c2rcmHuhM3td) | 3:04 |
+| 3 | [Apéritif](https://open.spotify.com/track/6EGEWAmSPLK157Vg8IoR12) | [MELOR](https://open.spotify.com/artist/2oB3tUAWRXp4yqJk3JP5w3), [BRIAN MADE](https://open.spotify.com/artist/2PoajTrdpBExuppZtg8u08), [RIMINISSI](https://open.spotify.com/artist/6QsFuzOftbdxNqbjxM4izE), [Kaia Yook](https://open.spotify.com/artist/5cFeg1g5UMj5INJPmAYgTQ), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Apéritif](https://open.spotify.com/album/4HiJcTwU90c2rcmHuhM3td) | 3:04 |
 | 4 | [Second Wind](https://open.spotify.com/track/1C9r7rRrg7Je4WhlymUTSA) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Second Wind](https://open.spotify.com/album/17gECCnMGXsBOJzIAnXvam) | 1:51 |
 | 5 | [Dove](https://open.spotify.com/track/3lc2LA6kD5lpIhyuHh3TpJ) | [kaso](https://open.spotify.com/artist/3FDm3lmzIDoZM0gnWTzqvs), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [Dove](https://open.spotify.com/album/5CrGSQA6sFAZ7Et9JZSUv3) | 1:36 |
 | 6 | [Red Eyes](https://open.spotify.com/track/7A95rSFbPUaiJ4fzEW1TnX) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Red Eyes](https://open.spotify.com/album/5OrxtXqKGZJImbuwPuVCRE) | 2:26 |

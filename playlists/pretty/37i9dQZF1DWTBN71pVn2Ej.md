@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Glixen \(pictured\), Superheaven, Glare, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,820 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,779 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 56 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
 | 57 | [Freebaser](https://open.spotify.com/track/186aiLrJD22JDtd8MqDWti) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Freebaser](https://open.spotify.com/album/70Sbho3QCOjBnO9PXbXkln) | 3:32 |
 | 58 | [Whatever's Left is Yours](https://open.spotify.com/track/6AoUnlGn3RpZHXH40A8Rko) | [Commoner](https://open.spotify.com/artist/2NFUarWBEvGVjBe4th2eeS) | [Winter Promo](https://open.spotify.com/album/01UUSTH1zGjVp4zsxKLF7I) | 3:17 |
-| 59 | [Realize Remix](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0), [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [Realize Remix](https://open.spotify.com/album/19yn6cgE8t2Ri4oHSk7eP4) | 2:55 |
+| 59 | [Realize Remix \(feat\. Softcult & whatsaheart\)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0), [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [Realize Remix \(feat\. Softcult & whatsaheart\)](https://open.spotify.com/album/19yn6cgE8t2Ri4oHSk7eP4) | 2:55 |
 | 60 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 61 | [Head & Spine](https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Head & Spine](https://open.spotify.com/album/6WSv8U4e0iDs0vJOYobqb8) | 3:08 |
 | 62 | [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 |

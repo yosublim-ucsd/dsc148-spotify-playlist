@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-163 songs - 1 day 16 hr 19 min
+164 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Mrityunjay Mantra](https://open.spotify.com/track/6TduggoZyzdaemL1UvYNsP) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Mrityunjay Mantra](https://open.spotify.com/album/1y3sQajRgrPedx9FD7UnFh) | 6:01 | 2025-01-13 |  |
 | [Mul Mantra](https://open.spotify.com/track/65x8PLeBCisLJVSibyXemB) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Anand Bliss](https://open.spotify.com/album/0gbuTZhOYD0DhCzmVkKNme) | 7:55 | 2024-12-30 |  |
 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 | 2023-05-23 |  |
+| [NAM MYOHO RENGE KYO](https://open.spotify.com/track/5Y03bbM6l7yRQ9nktwvfUP) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [NAM MYOHO RENGE KYO](https://open.spotify.com/album/2SmrHWk2OQTVoizfGEHgL2) | 5:39 | 2025-02-07 |  |
 | [Nam Myoho Renge Kyo Mantra \(Devotion to the Mystic Law\)](https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF), [Miten](https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Mantras for Life](https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP) | 4:11 | 2022-01-24 | 2023-09-15 |
 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg) | 34:22 | 2023-10-26 | 2024-04-19 |
 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 | 2023-10-26 |  |
@@ -130,7 +131,7 @@
 | [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 | 2022-01-24 | 2022-10-09 |
 | [Rudrashtakam](https://open.spotify.com/track/3CBzlr1rjztpKFurMbQizE) | [Rahul Vellal](https://open.spotify.com/artist/2UuXiT0l9zWMGwuz1dhyFw) | [Rudrashtakam](https://open.spotify.com/album/005iCBmS1Vhh7IzRW0j2rO) | 5:02 | 2024-02-29 | 2024-04-06 |
 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 | 2024-12-30 |  |
-| [Sahaswara Mantra for Crown Chakra with AUM Sound](https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:02:33 | 2025-02-07 |  |
+| [Sahaswara Mantra for Crown Chakra with AUM Sound](https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:02:33 | 2025-02-07 | 2025-02-09 |
 | [Saraswati Rhythm](https://open.spotify.com/track/1AwW1ElTc2Gb844Or8nmcu) | [Bass Rebellion](https://open.spotify.com/artist/7D2HBoOVlNYCwvIXLWALXe) | [Saraswati Rhythm](https://open.spotify.com/album/4ulkvp5UVQf3DI0FHF8bmR) | 3:05 | 2023-05-23 | 2023-09-09 |
 | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/track/3EEpjsPaW823RgMoBkOSTV) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/album/30RNKePqnsWCUbo6ryWwrr) | 5:19 | 2025-02-07 |  |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:17 | 2022-01-24 | 2024-12-31 |

@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Instrumental Sessions",
+        "url": "https://open.spotify.com/album/3H9TkgcfeTcZP8s6d9xWZb"
+      },
+      "artists": [
+        {
+          "name": "Cappo Slide",
+          "url": "https://open.spotify.com/artist/3HGdKjoHaH53eZCSZCrf3i"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266318,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/1dg48erTxK5JVf5SJodoPW"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },

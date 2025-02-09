@@ -1343,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "Noche de Luna",
+        "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184763,
+      "name": "Noche de Luna",
+      "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
+    },
+    {
+      "album": {
         "name": "rifresh",
         "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },

@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 150453,
       "name": "La Javanaise",
       "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
@@ -1410,6 +1410,24 @@
       "duration_ms": 183720,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5"
+    },
+    {
+      "album": {
+        "name": "Punk Rock Valentines",
+        "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "Sea Of Love - Party Outtake 1981",
+      "url": "https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV"
     },
     {
       "album": {

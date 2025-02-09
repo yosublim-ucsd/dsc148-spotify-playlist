@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-873 songs - 2 day 9 hr 33 min
+874 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Learn To Fly](https://open.spotify.com/track/6pwPSGSL84hSbKqXv6Iw9P) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [The Lamb](https://open.spotify.com/album/0ZpfhsSYV2Jdxg4cAcUEyI) | 3:22 | 2023-02-14 | 2023-02-22 |
 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 | 2022-09-27 | 2023-05-17 |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2022-12-06 | 2023-02-13 |
+| [Let's FUJIWARA](https://open.spotify.com/track/4SwU8g5Yt6Wg2rWBhhmyIG) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:51 | 2025-02-02 |  |
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/40DhQ5cNina0ZMeS8GMC8O) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/album/1eyxkpJPEvXdJ3puCYac8u) | 3:44 | 2024-08-21 |  |
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-12-14 |
 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2023-04-05 |
@@ -394,7 +395,7 @@
 | [Rainy Talk](https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Golden Circle](https://open.spotify.com/album/57BcxFEK536HPkPFLW6pI2) | 3:29 | 2022-05-24 | 2022-07-20 |
 | [Rainy Talk \- Shady Monk Remix](https://open.spotify.com/track/1QEwfkBc0QByf0SGR0Qwww) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv), [Shady Monk](https://open.spotify.com/artist/5oagHUnrrs68cnBmXa3UB8) | [Rainy Talk Remixies](https://open.spotify.com/album/53INaaiMjGDFlTs9S19Xzr) | 3:40 | 2023-01-17 | 2023-01-25 |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2022-12-13 | 2024-11-26 |
-| [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 |  |
+| [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 | 2025-02-09 |
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2024-07-02 |
 | [Remember me](https://open.spotify.com/track/02cpMqOFhYCBFcOf8u2V8P) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Remember me](https://open.spotify.com/album/1OQlchkVRwfKlCg02KEtSA) | 4:46 | 2022-08-09 | 2022-08-17 |
 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 | 2023-07-18 |  |

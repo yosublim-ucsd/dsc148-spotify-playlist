@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1514966,
+  "num_followers": 1514995,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Por Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Algo Parecido",
         "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 225018,
       "name": "Algo Parecido",
       "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Por Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 207861,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Zeeba - Reset",
         "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 214741,
       "name": "Tudo Que Importa (Acoustic)",
       "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 207861,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 169472,
       "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "ciumeira",
-      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Energia Surreal (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 177481,
       "name": "Energia Surreal - Ac\u00fastica",
       "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "ciumeira",
+      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -939,6 +939,26 @@
       "duration_ms": 261256,
       "name": "Verdadeiro Amor - Studio Sessions",
       "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Capim-Cidreira (Infus\u00e3o)",
+        "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Rei do Luau - Infus\u00e3o",
+      "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -975,22 +995,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Capim-Cidreira (Infus\u00e3o)",
-        "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
+        "name": "\u00daltimo Romance",
+        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Rei do Luau - Infus\u00e3o",
-      "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
+      "duration_ms": 257701,
+      "name": "\u00daltimo Romance",
+      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 200658,
       "name": "Alto Mar - Sessions",
       "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "\u00daltimo Romance",
-        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 257701,
-      "name": "\u00daltimo Romance",
-      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Linguagem N\u00e3o Verbal",
-        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Linguagem N\u00e3o Verbal",
-      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Outra Vida",
         "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Linguagem N\u00e3o Verbal",
+        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Linguagem N\u00e3o Verbal",
+      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Tudo no Sigilo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 169745,
       "name": "Tudo no Sigilo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
-        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "Certeza - Ao Vivo",
-      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 222582,
       "name": "beira - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
+        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "Certeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 195138,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 230107,
       "name": "Novo Ciclo",
       "url": "https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Sorte",
-        "url": "https://open.spotify.com/album/5h0YbMucu7zFSZbWnqAAHG"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 195138,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/2uSyV8GhchTOkSRWk16jxp"
     },
     {
       "added_at": "2024-08-02 18:37:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 969553,
+  "num_followers": 969806,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6P7gAAAAABPP19PaXhh5/DVMfeIQ5Si",
+  "snapshot_id": "Z6VNAAAAAADIgQ0kF4w8cOT+8I0msxnL",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
       },
       "artists": [
-        {
-          "name": "Daron Malakian",
-          "url": "https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm"
-        },
         {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 153773,
-      "name": "Innervision",
-      "url": "https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh"
+      "duration_ms": 171800,
+      "name": "Vicinity Of Obscenity",
+      "url": "https://open.spotify.com/track/5uMTA9SIe0sE4dnHHSHaYz"
     },
     {
       "added_at": null,
@@ -239,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Vicinity Of Obscenity",
-      "url": "https://open.spotify.com/track/5uMTA9SIe0sE4dnHHSHaYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -268,9 +248,25 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
+      "duration_ms": 153773,
+      "name": "Innervision",
+      "url": "https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
     },
     {
       "added_at": null,
@@ -307,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -336,9 +316,25 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 143626,
-      "name": "Chic 'N' Stu",
-      "url": "https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA"
+      "duration_ms": 201200,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Kill Rock 'n Roll",
+      "url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
     },
     {
       "added_at": null,
@@ -375,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Kill Rock 'n Roll",
-      "url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -404,9 +384,25 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 132733,
-      "name": "Fuck the System",
-      "url": "https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF"
+      "duration_ms": 143626,
+      "name": "Chic 'N' Stu",
+      "url": "https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Soldier Side",
+      "url": "https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"
     },
     {
       "added_at": null,
@@ -443,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Soldier Side",
-      "url": "https://open.spotify.com/track/1ez4uWPnJwYufNhYTLVsJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -468,17 +448,29 @@
           "url": "https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm"
         },
         {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        },
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 132733,
+      "name": "Fuck the System",
+      "url": "https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
         {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Mr. Jack",
-      "url": "https://open.spotify.com/track/4TYI2YExAWaIOpGP4y7AbI"
+      "duration_ms": 328866,
+      "name": "Holy Mountains",
+      "url": "https://open.spotify.com/track/4mj2UMyJTBTaO7pffAK29j"
     },
     {
       "added_at": null,
@@ -515,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
       "artists": [
+        {
+          "name": "Daron Malakian",
+          "url": "https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
         {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 328866,
-      "name": "Holy Mountains",
-      "url": "https://open.spotify.com/track/4mj2UMyJTBTaO7pffAK29j"
+      "duration_ms": 249626,
+      "name": "Mr. Jack",
+      "url": "https://open.spotify.com/track/4TYI2YExAWaIOpGP4y7AbI"
     },
     {
       "added_at": null,

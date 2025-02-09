@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,308 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,322 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 12 | [Aiyaiyo \- From "Think Indie"](https://open.spotify.com/track/2JgWN3U4p9UjgQTOBMtZPx) | [Samuel Nicholas](https://open.spotify.com/artist/4HzOMT90RRZ7p1SzMtqVCr) | [Aiyaiyo \(From "Think Indie"\)](https://open.spotify.com/album/38wMfEJRXG5GwolTwhGqu7) | 2:45 |
 | 13 | [Kandangi Selai](https://open.spotify.com/track/0qXYzM2RLh1Kw0copFi5Ln) | [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Kandangi Selai](https://open.spotify.com/album/0v8cR7taJ2M8pjFkGBwY2e) | 3:05 |
 | 14 | [Po Venaa](https://open.spotify.com/track/15ilxiXT5Wf5yvOScCPz0N) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA) | [Po Venaa](https://open.spotify.com/album/0oB2AQsyWSlhrymk9iPLt6) | 2:05 |
-| 15 | [Yeno Naan](https://open.spotify.com/track/2jDIS0GtSzV57UpeHGmEiB) | [Kanav](https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU), [Kirthana](https://open.spotify.com/artist/38silLaP0jjZpyPvADXX96) | [Yeno Naan](https://open.spotify.com/album/6IrPyisX0nyZB9hnLENmzs) | 2:57 |
+| 15 | [Yeno Naan](https://open.spotify.com/track/2jDIS0GtSzV57UpeHGmEiB) | [Kanav](https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU), [Kirthana\. G](https://open.spotify.com/artist/700wvqydW0qKAWtw9uvEjw) | [Yeno Naan](https://open.spotify.com/album/6IrPyisX0nyZB9hnLENmzs) | 2:57 |
 | 16 | [Irunga Bhai](https://open.spotify.com/track/56EiSA7py7QKdBy8gqfRRO) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Irunga Bhai](https://open.spotify.com/album/4G7Dn34j4QW6bHfgAXxRKW) | 2:38 |
 | 17 | [kangalai kattinal](https://open.spotify.com/track/3gEa0uDEFWfggAZixWvX3Y) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [Ashish](https://open.spotify.com/artist/4vHInZhjbKoGbquZk2MQ6Q) | [kangalai kattinal](https://open.spotify.com/album/1pllolFny3ChtXtoPNJAe3) | 3:54 |
 | 18 | [Haiyo Haiyo](https://open.spotify.com/track/3kHe6o8Iq4xiZiq8ojhlTe) | [Mr\. Local Vocal](https://open.spotify.com/artist/4oL8GXLe6ahFV3sUIMNOGz) | [Haiyo Haiyo](https://open.spotify.com/album/79dkiRYXou4A090jq5ttrp) | 2:51 |

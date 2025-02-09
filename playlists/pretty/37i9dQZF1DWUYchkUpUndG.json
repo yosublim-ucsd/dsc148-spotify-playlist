@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=baAWU7xKS9WdZjxCYcU7DA>Sunmisola Agbebi</a>",
-  "num_followers": 30250,
+  "num_followers": 30286,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNPwAAAADNHA7B5nIm9FNmXmFyhIP6",
+  "snapshot_id": "Z6ep4gAAAAAvkQJu3mdDdHYJpuRFBosr",
   "tracks": [
     {
       "added_at": "2025-02-07 00:01:03",
@@ -187,6 +187,22 @@
       "duration_ms": 195971,
       "name": "Come & See",
       "url": "https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG"
+    },
+    {
+      "added_at": "2025-02-08 19:00:50",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/69IxkUn2rTZvaGcQyW9tv7"
+      },
+      "artists": [
+        {
+          "name": "Deejay Giovanni",
+          "url": "https://open.spotify.com/artist/2ATPSqiRrNYrfKUBsq66Ez"
+        }
+      ],
+      "duration_ms": 210729,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/7IOH6Sp1LtHagmUw7VkaSd"
     },
     {
       "added_at": "2025-02-07 00:01:03",
@@ -1839,22 +1855,6 @@
       "duration_ms": 193067,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/5z53b6J1Xu3VucQ91tKbgY"
-    },
-    {
-      "added_at": "2025-01-31 00:01:07",
-      "album": {
-        "name": "Ancient Of Days",
-        "url": "https://open.spotify.com/album/1z3ORQmy11HXglZnVXLLqv"
-      },
-      "artists": [
-        {
-          "name": "Blessing Oghie",
-          "url": "https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn"
-        }
-      ],
-      "duration_ms": 140068,
-      "name": "Ancient Of Days",
-      "url": "https://open.spotify.com/track/3ctUHoWUVro9rg6O2NJL4b"
     }
   ],
   "unique_name": "Fresh Gospel Africa",

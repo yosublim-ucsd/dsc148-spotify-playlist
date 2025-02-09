@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Only Love is Real",
       "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
@@ -3106,6 +3106,10 @@
         {
           "name": "Eran Tzur",
           "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        },
+        {
+          "name": "Uri Frost",
+          "url": "https://open.spotify.com/artist/3eso3S4bKieJ3rojEeNh6n"
         }
       ],
       "date_added": "2025-02-06",
@@ -3366,7 +3370,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 184721,
       "name": "\u05e9\u05d9\u05e8 \u05d5\u05e8\u05d5\u05d3 - \u05d2\u05e8\u05e1\u05ea \u05e1\u05ea\u05d9\u05d5",
       "url": "https://open.spotify.com/track/0jU9g9jIAzzhxnFcDqGJvv"

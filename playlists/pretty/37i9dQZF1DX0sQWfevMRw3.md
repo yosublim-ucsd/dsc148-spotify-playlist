@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🪩 I'M A PARTY BOY 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,532 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,571 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 12 | [Varför ska hon inte få?](https://open.spotify.com/track/3kTx9MFz3d2SNzZNRLgh9Z) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Varför ska hon inte få?](https://open.spotify.com/album/5XfNghz9vigzQNFDkPidN3) | 2:31 |
 | 13 | [ELOISE](https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [ELOISE](https://open.spotify.com/album/0uugVi9973DgE3eF9wfJ2S) | 3:13 |
 | 14 | [Wunderbaum & Neon](https://open.spotify.com/track/4DMPKQIfj98hvcuHC3D6zG) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Wunderbaum & Neon](https://open.spotify.com/album/3AuwzczdwZIBIoSdN7PYGd) | 2:32 |
-| 15 | [ODISKRET](https://open.spotify.com/track/6iu4j5NJzq1kXZ7828wWwa) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ) | [ODISKRET](https://open.spotify.com/album/0rJIlGhBqchum79z4yiLsb) | 2:15 |
+| 15 | [ODISKRET](https://open.spotify.com/track/6iu4j5NJzq1kXZ7828wWwa) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Kiran](https://open.spotify.com/artist/5zYIHfWBraSUpUZvJX34xX) | [ODISKRET](https://open.spotify.com/album/0rJIlGhBqchum79z4yiLsb) | 2:15 |
 | 16 | [Vill Inte Ha Dig](https://open.spotify.com/track/2NSNPjPUeaRzgWO4id3vnd) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Vill Inte Ha Dig](https://open.spotify.com/album/5nvmQ5fxywSgHp0Uq6UNSW) | 2:30 |
 | 17 | [CLOWN](https://open.spotify.com/track/1j6yhy5Br3qfdG2fQZxdxi) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3), [Målbrottet](https://open.spotify.com/artist/2na3kX3dxagN7riWLfStdI) | [CLOWN](https://open.spotify.com/album/2l4MvnsvH27ZoNe5wmSYVT) | 2:17 |
 | 18 | [100 & Hælvette](https://open.spotify.com/track/7cE9NtgfMubgyMzOWdDhzL) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [100 & Hælvette](https://open.spotify.com/album/3t9inyYHcg2rASNvxSrdG1) | 2:33 |

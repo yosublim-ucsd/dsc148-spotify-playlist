@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,464 likes - 11 songs - 44 min 46 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,465 likes - 11 songs - 44 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 6 | [Oniro \(K\)](https://open.spotify.com/track/4zG1QOECjRHrLxLUC3YYH6) | [KYMA](https://open.spotify.com/artist/34WwUS1xwAUOaud53F2zQr) | [NIGHT KLUB](https://open.spotify.com/album/4RIan65wPiRQeGjyYxw46c) | 3:18 |
 | 7 | [Tid och Rum](https://open.spotify.com/track/0shJgeOiPYVwPO0so1E84H) | [Emanuel Ehlin](https://open.spotify.com/artist/6DRJCiYgeObRhHZE2dZ54W) | [B\-SIDOR](https://open.spotify.com/album/3xH6lxKQryhEHuuiOutx7C) | 2:54 |
 | 8 | [Moves](https://open.spotify.com/track/1uvsEbjfEgKRPOqGHiJYli) | [The Garden Leave](https://open.spotify.com/artist/2a19Styur29GsN6aH2KhLt) | [Moves](https://open.spotify.com/album/55epvMKzrq4wzmkc7iakC4) | 4:17 |
-| 9 | [Tell Me](https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO) | [The Dirty Mirrors](https://open.spotify.com/artist/3KZD02FB9WTcEcUNOxJJrW) | [Tell Me](https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy) | 3:55 |
+| 9 | [Tell Me](https://open.spotify.com/track/0olwM7OkX4DD0ogatWtUIO) | [Dirty Mirrors](https://open.spotify.com/artist/1FhjQZsRmILECVbS55paHG) | [Tell Me](https://open.spotify.com/album/16DSPeUInVfwLKyNB8YJpy) | 3:55 |
 | 10 | [Roto](https://open.spotify.com/track/7jiRUEhHuQwWzbnRQpagsP) | [Moranis](https://open.spotify.com/artist/4yyVqVbxxTtnIjY6wABvKc) | [Roto](https://open.spotify.com/album/2O6K8QlH45SrwaSzVn7xX0) | 6:32 |
 | 11 | [Africa](https://open.spotify.com/track/4UonYOSQgecCsM5qvSsXnu) | [TiTi](https://open.spotify.com/artist/47fG6LJKwGHXDw3Q2LU3cK) | [Africa](https://open.spotify.com/album/54e82Pge93CBfN7txY4o0v) | 8:03 |
 

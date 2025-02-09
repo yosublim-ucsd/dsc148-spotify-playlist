@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: 陳蕾
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,624 likes - 441 songs - 1 day 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,626 likes - 441 songs - 1 day 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 4 | [無糖可樂](https://open.spotify.com/track/1rudYSVdB88q9bSeQnqyBb) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無糖可樂](https://open.spotify.com/album/4L7aoAJwGiKZEeF9x37TVI) | 4:19 |
 | 5 | [Burn and Shine](https://open.spotify.com/track/2ntAwOgGPVA1dJ3o82PR0x) | [Scarlett鍾熙彤](https://open.spotify.com/artist/4SLDZBVUKsfd3sLhPtG0zj) | [Burn and Shine](https://open.spotify.com/album/7afSby7pkqN1TmRBCaZBtl) | 3:26 |
 | 6 | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/track/0WPVn5cAsN8f3Cjuqtmyfr) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/album/70qRv1iy64ecKwEP5d32GB) | 2:53 |
-| 7 | [WAKE](https://open.spotify.com/track/2AaRO5LigsqlZOdvx5kchh) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [WAKE](https://open.spotify.com/album/7Dn7EqixgN39a10ad4iKQc) | 3:17 |
+| 7 | [WAKE](https://open.spotify.com/track/2AaRO5LigsqlZOdvx5kchh) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [WAKE](https://open.spotify.com/album/7Dn7EqixgN39a10ad4iKQc) | 3:17 |
 | 8 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 |
 | 9 | [nothing](https://open.spotify.com/track/5hXRD8nfoT25akHgDO5LUo) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [nothing](https://open.spotify.com/album/3FXaIHcRPFMBDdCV1gYPRT) | 4:49 |
 | 10 | [JET\-51CA](https://open.spotify.com/track/4h5K62op14M02lx0GA1TH9) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [JET\-51CA](https://open.spotify.com/album/6AKhCOyS3lRQBea0E0jtQH) | 3:12 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 130 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 |
 | 131 | [Dizzy](https://open.spotify.com/track/7M79OcQyAjDlUp38qx7tgA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [Dizzy](https://open.spotify.com/album/6UARsSmrrQSex8qNvXYeBl) | 3:07 |
 | 132 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 |
-| 133 | [左手香](https://open.spotify.com/track/2PATmOyvRZGKwOoD46DQpC) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [左手香](https://open.spotify.com/album/0d1i03fdM8bnMKQjj4PdCA) | 3:30 |
+| 133 | [左手香](https://open.spotify.com/track/2PATmOyvRZGKwOoD46DQpC) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [左手香](https://open.spotify.com/album/0d1i03fdM8bnMKQjj4PdCA) | 3:30 |
 | 134 | [社畜完全體](https://open.spotify.com/track/5zc0B9YxMhanwdDp5D3B9S) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [社畜完全體](https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd) | 4:23 |
 | 135 | [風邪](https://open.spotify.com/track/78u0tNt6KQTZxFdRouyiMO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Rage in Peace](https://open.spotify.com/album/0O4LuYlUBi5TluPnj5Gtr7) | 3:08 |
 | 136 | [Closer to Hell](https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Closer to Hell](https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg) | 2:45 |
@@ -386,7 +386,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 376 | [焦慮型依戀](https://open.spotify.com/track/1P3Tlw0AgrMSW3LlIjidxd) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [焦慮型依戀](https://open.spotify.com/album/0fUtOlileN8mI2HKZqHAZN) | 3:37 |
 | 377 | [自動修正](https://open.spotify.com/track/3SeddBccVwPXTqXnpvAljQ) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [STAGES](https://open.spotify.com/album/1I5E0z1lY6qOJvo2aYDmp3) | 3:49 |
 | 378 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 |
-| 379 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 |
+| 379 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 |
 | 380 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 381 | [未算壞](https://open.spotify.com/track/4CGMeckQyYkBtAKmmYFIOe) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [未算壞](https://open.spotify.com/album/51wtaTyuWQLGQ0gMQbeSkZ) | 3:02 |
 | 382 | [放下的頻率](https://open.spotify.com/track/0u844cmWxduPxpdZHZAgMY) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [放下的頻率](https://open.spotify.com/album/5K83IIsTEpcugyWkykKYXc) | 4:26 |

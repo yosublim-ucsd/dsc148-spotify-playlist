@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x FAST BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,209 likes - 78 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,245 likes - 78 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 63 | [Love Drunk](https://open.spotify.com/track/5gerxMu2y0WSvIwHmjOoHm) | [Frox](https://open.spotify.com/artist/5xUotpqcMkVuZhiYGzQH4k) | [Love Drunk](https://open.spotify.com/album/2dRQmoqUcauVXhL3U1WYRY) | 2:22 |
 | 64 | [Need You](https://open.spotify.com/track/3YFaBRaek0e6KIQtmbXrhv) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Need You](https://open.spotify.com/album/2lROJk6zFDIaCOVsnhibkR) | 2:21 |
 | 65 | [Money](https://open.spotify.com/track/7MorE45c2IBxEgksN84Fl2) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Money](https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV) | 3:07 |
-| 66 | [Won't Get This Back](https://open.spotify.com/track/4TuzhMB3cTthPDqNkDQF2u) | [Let's Karpool](https://open.spotify.com/artist/0Jor79NJK8vaiGAVAWcBM3), [GROOVMNT](https://open.spotify.com/artist/3cN7zzS0PooM0IpETmPUrR) | [Won't Get This Back](https://open.spotify.com/album/6wbTRwgGfqUfvty17r9Yo1) | 3:06 |
+| 66 | [Won't Get This Back](https://open.spotify.com/track/4TuzhMB3cTthPDqNkDQF2u) | [Let's Karpool](https://open.spotify.com/artist/0Jor79NJK8vaiGAVAWcBM3), [GROOVMNT](https://open.spotify.com/artist/3cN7zzS0PooM0IpETmPUrR), [Cougar Pit](https://open.spotify.com/artist/3bb4ylOwHDDBkg43gjSqut) | [Won't Get This Back](https://open.spotify.com/album/6wbTRwgGfqUfvty17r9Yo1) | 3:06 |
 | 67 | [Always U](https://open.spotify.com/track/4zU94woKSgQsYLFT2m5AsG) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE](https://open.spotify.com/album/4ZiPBd4PpdNsjQdJrXf8Uz) | 2:55 |
 | 68 | [Make It Last](https://open.spotify.com/track/61L5AdFhG0o9JqdubW6uaf) | [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Make It Last](https://open.spotify.com/album/1cJcA72FdB0IEyj3MmOH1P) | 2:43 |
 | 69 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 |

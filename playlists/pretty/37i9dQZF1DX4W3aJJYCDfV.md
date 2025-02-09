@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lady Gaga \(pictured\), LISA, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,512 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,585 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 62 | [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 |
 | 63 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
 | 64 | [DNA ∞](https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DNA ∞](https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW) | 3:23 |
-| 65 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl\(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
+| 65 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
 | 66 | [Giants](https://open.spotify.com/track/2xRj5qPUuQJZG9xYkVdfrb) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Giants](https://open.spotify.com/album/5vohPauW4FHvwTNkEAEm2X) | 3:35 |
 | 67 | [To The Limit](https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [To The Limit](https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1) | 2:41 |
 | 68 | [After 24 Years](https://open.spotify.com/track/1AzlagOAWcjSZhkaYFtGu7) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [After 24 Years](https://open.spotify.com/album/4Xql4WDBaAfM4sfMLSzBaE) | 3:40 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [Both Feet](https://open.spotify.com/track/24zD1YeMyWgL5W094BMerz) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN) | [Both Feet](https://open.spotify.com/album/7kEOthIQTziQYwGkOMxDr0) | 3:21 |
 | 101 | [Lost Generation](https://open.spotify.com/track/1slk8zE9Cry1USj9jRzx2B) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Lost Generation](https://open.spotify.com/album/0FtjRrCtuELSk5sCdijsjs) | 4:43 |
 | 102 | [big world truth hurts](https://open.spotify.com/track/5g53RsxfWe4h6VnbOTh5Ah) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [SATELLITE KID](https://open.spotify.com/album/1G2plTDgjjfg0WmKuAyHxK) | 3:08 |
-| 103 | [No Radio Music \(feat\. KOTA\)](https://open.spotify.com/track/33jh9PwBBrysund3qH6k3H) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [KOTA](https://open.spotify.com/artist/6ITAoEms3oFqutCE1H3dyk) | [No Radio Music \(feat\. KOTA\)](https://open.spotify.com/album/3rt64G1mBg2OIcD6ocAECY) | 2:53 |
+| 103 | [No Radio Music \(feat\. Kota\)](https://open.spotify.com/track/33jh9PwBBrysund3qH6k3H) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [No Radio Music \(feat\. Kota\)](https://open.spotify.com/album/3rt64G1mBg2OIcD6ocAECY) | 2:53 |
 | 104 | [They Them Flow](https://open.spotify.com/track/1XXHhWmzxCOjNOdB86ahkX) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [They Them Flow](https://open.spotify.com/album/29352BDe6uymUYU2h0udKN) | 3:22 |
 | 105 | [Crystal Body](https://open.spotify.com/track/0KXYTCpCehiCuJMKO8WDea) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Crystal Body](https://open.spotify.com/album/4buETyZvDwjVzVZlZdxKQt) | 4:30 |
 | 106 | [ReBirth](https://open.spotify.com/track/00hnBmq8Wj0Pv1c8UD4PtI) | [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [ReBirth](https://open.spotify.com/album/2MvjqVF0AA2vgoFy5BWtSU) | 3:11 |

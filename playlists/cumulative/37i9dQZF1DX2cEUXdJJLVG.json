@@ -2025,6 +2025,28 @@
     },
     {
       "album": {
+        "name": "Electrical",
+        "url": "https://open.spotify.com/album/1Ed7MyGpONa5yjRLZ6tRW2"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        },
+        {
+          "name": "Marlena Dae",
+          "url": "https://open.spotify.com/artist/0y3I7EmLSzmzJXZNAKSdH8"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261665,
+      "name": "Electrical - Edit",
+      "url": "https://open.spotify.com/track/3Sg8iGG91zPVfcbue1vRDm"
+    },
+    {
+      "album": {
         "name": "Endless Night",
         "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
       },

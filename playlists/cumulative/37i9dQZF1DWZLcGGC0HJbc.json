@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/2m92AKmD5b6AqMPOjZqSoK"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY"
+    },
+    {
+      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx"
       },
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 186989,
       "name": "Winter Baby",
       "url": "https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX"

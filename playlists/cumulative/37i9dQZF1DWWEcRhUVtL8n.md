@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Biig Piig
 
-2,036 songs - 4 day 11 hr 43 min
+2,037 songs - 4 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 | 2022-01-14 | 2022-07-26 |
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-02-25 | 2022-04-11 |
 | [HONEYMOON](https://open.spotify.com/track/3pBVQynngYmTMnAsXnFXcF) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [HONEYMOON](https://open.spotify.com/album/3OsmmFOV70yEsmVUMjmEuf) | 3:18 | 2022-04-15 | 2022-07-29 |
-| [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-09-13 |  |
+| [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-09-13 | 2025-02-09 |
 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 | 2020-11-03 | 2022-04-15 |
 | [Hope They Love You](https://open.spotify.com/track/3HMsXNChCvgMHlwfrsUJtC) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Hope They Love You](https://open.spotify.com/album/7p6CGwOqdBNowCM2jPJFAZ) | 2:55 | 2021-05-09 | 2022-04-14 |
 | [Hope You're Not Happy](https://open.spotify.com/track/6hPY9GJkHWjeIyGWGV9dyN) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Hope You're Not Happy](https://open.spotify.com/album/2ZFpCXmoAfNySog0Tin8Sb) | 2:44 | 2022-05-06 | 2022-08-06 |
@@ -1336,6 +1336,7 @@
 | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/album/3Pa9zmTEmVn16bzR0DWibl) | 3:49 | 2020-10-24 | 2021-03-06 |
 | [One Good Reason](https://open.spotify.com/track/6WXeA4DuQ9l5OnDtmoUCrg) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:14 | 2020-10-13\* | 2020-11-20 |
 | [One Minute](https://open.spotify.com/track/1ukoQmzrdk1L9sfbX81xPT) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [One Minute](https://open.spotify.com/album/3EyN8ULbGWbt3uxHNDOp2Y) | 3:28 | 2020-10-16 | 2021-05-26 |
+| [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 |  |
 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 | 2022-06-17 | 2022-10-15 |
 | [One More Weekend](https://open.spotify.com/track/5CXCo9MJFpjFLkEFKaMz19) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/17tA1j7iaCKHDjXhW2cpkI) | 2:22 | 2020-10-16 | 2022-07-29 |
 | [One Star](https://open.spotify.com/track/3RlnNTs9Cot4M1qL2C9gi4) | [deryk](https://open.spotify.com/artist/1KSypwyEwU6tlZtOm9wbXj) | [One Star](https://open.spotify.com/album/1NYKBc54X3dTdcmdmyuY0I) | 3:47 | 2020-10-13\* | 2020-11-10 |

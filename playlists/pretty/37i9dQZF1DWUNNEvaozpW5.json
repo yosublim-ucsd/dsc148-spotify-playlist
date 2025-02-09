@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 592297,
+  "num_followers": 592384,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
-      },
-      "artists": [
-        {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
-        }
-      ],
-      "duration_ms": 188914,
-      "name": "Lo dif\u00edcil",
-      "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Nos Vemos En Los Bares",
         "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 237346,
       "name": "20 de abril - En directo 1997",
       "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "duration_ms": 188914,
+      "name": "Lo dif\u00edcil",
+      "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "El C\u00e1liz",
+        "url": "https://open.spotify.com/album/0RTvwDUXtb69Blspd0k1D3"
+      },
+      "artists": [
+        {
+          "name": "Lex L\u00fcger",
+          "url": "https://open.spotify.com/artist/4MbvQ2nqlyxNXWhtL7mp7A"
+        }
+      ],
+      "duration_ms": 201212,
+      "name": "El C\u00e1liz",
+      "url": "https://open.spotify.com/track/2VLoN5D6iv3j9q6E8KvR2S"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "20 a\u00f1os de canciones",
-        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

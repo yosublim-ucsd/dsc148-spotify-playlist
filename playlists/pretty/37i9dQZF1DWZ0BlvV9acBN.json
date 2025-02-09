@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rodolfo Abrantes",
-  "num_followers": 143037,
+  "num_followers": 143058,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -527,54 +527,6 @@
     {
       "added_at": "2025-01-31 03:01:20",
       "album": {
-        "name": "Registrado",
-        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
-      },
-      "artists": [
-        {
-          "name": "Catedral",
-          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
-        }
-      ],
-      "duration_ms": 136083,
-      "name": "O Perfeito Mundo Imperfeito",
-      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
-        "name": "Nas Chagas",
-        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 256390,
-      "name": "Nas Chagas",
-      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
-    },
-    {
-      "added_at": "2025-01-31 03:01:20",
-      "album": {
         "name": "Leva-Me Al\u00e9m (One ao Vivo)",
         "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
@@ -595,6 +547,54 @@
       "duration_ms": 180800,
       "name": "Leva-Me Al\u00e9m (One ao Vivo)",
       "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "Registrado",
+        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
+      },
+      "artists": [
+        {
+          "name": "Catedral",
+          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
+        }
+      ],
+      "duration_ms": 136083,
+      "name": "O Perfeito Mundo Imperfeito",
+      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "Nas Chagas",
+        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 256390,
+      "name": "Nas Chagas",
+      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
+    },
+    {
+      "added_at": "2025-01-31 03:01:20",
+      "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2025-01-31 03:01:20",

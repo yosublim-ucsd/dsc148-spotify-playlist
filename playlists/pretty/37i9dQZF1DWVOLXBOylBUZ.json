@@ -1,6 +1,6 @@
 {
   "description": "Latinoam\u00e9rica baila al ritmo de Alex Krack, Jombriel & Ryan Castro.",
-  "num_followers": 519174,
+  "num_followers": 519215,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
@@ -151,13 +151,21 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Hola mami (Directo)",
+        "name": "Hola mami",
         "url": "https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ"
       },
       "artists": [
         {
           "name": "Yng Lvcas",
           "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        },
+        {
+          "name": "Aivan Beatz",
+          "url": "https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb"
         }
       ],
       "duration_ms": 220827,

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  SOL & Emil Kruse",
-  "num_followers": 45880,
+  "num_followers": 45884,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
+        "name": "Regnv\u00e5de sale",
+        "url": "https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "N\u00e6rmest en ven",
+      "url": "https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
         "name": "DR\u00d8MMEHUG",
         "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 168090,
       "name": "HJEM FRA M\u00c5NEN (feat. PRISMA)",
       "url": "https://open.spotify.com/track/1lqB3EKI6LpbVDPWS87URu"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "Regnv\u00e5de sale",
-        "url": "https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "N\u00e6rmest en ven",
-      "url": "https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -427,54 +427,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Oktobernat",
-        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Oktobernat",
-      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "Det\u00b4 kun vigtigt, hvad det er",
-        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Det\u00b4 kun vigtigt, hvad det er",
-      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -495,18 +447,50 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Elendig Software",
-        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
+        "name": "Oktobernat",
+        "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
       },
       "artists": [
         {
-          "name": "Zar Paulo",
-          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
         }
       ],
-      "duration_ms": 243312,
-      "name": "T\u00e6t P\u00e5 Paradis",
-      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
+      "duration_ms": 175357,
+      "name": "Oktobernat",
+      "url": "https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Det\u00b4 kun vigtigt, hvad det er",
+        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -523,6 +507,22 @@
       "duration_ms": 162981,
       "name": "Smilet kommer nemt",
       "url": "https://open.spotify.com/track/23IPxqC6fLmkLBFUWb16mK"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Elendig Software",
+        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
+      },
+      "artists": [
+        {
+          "name": "Zar Paulo",
+          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
+        }
+      ],
+      "duration_ms": 243312,
+      "name": "T\u00e6t P\u00e5 Paradis",
+      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "Turn Around",
         "url": "https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
         "name": "grib mig hvis jeg falder",
         "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
       },
@@ -647,6 +647,38 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
+        "name": "Life Witness",
+        "url": "https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm"
+      },
+      "artists": [
+        {
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+        }
+      ],
+      "duration_ms": 145414,
+      "name": "Life Witness",
+      "url": "https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 220384,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
         "name": "1000 H\u00e6nder",
         "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
       },
@@ -659,6 +691,22 @@
       "duration_ms": 185760,
       "name": "1000 H\u00e6nder",
       "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 189322,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -683,22 +731,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 189322,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "V\u00e5gen igen",
         "url": "https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 250500,
       "name": "V\u00e5gen igen",
       "url": "https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 220384,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -811,22 +827,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Life Witness",
-        "url": "https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm"
-      },
-      "artists": [
-        {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
-        }
-      ],
-      "duration_ms": 145414,
-      "name": "Life Witness",
-      "url": "https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "Elsk Mig",
         "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
       },
@@ -855,6 +855,38 @@
       "duration_ms": 280244,
       "name": "Genstart",
       "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "En Som Dig",
+        "url": "https://open.spotify.com/album/40AJcpbZh1cji3B6hgOXc0"
+      },
+      "artists": [
+        {
+          "name": "BJ\u00d8RN",
+          "url": "https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D"
+        }
+      ],
+      "duration_ms": 152007,
+      "name": "En Som Dig",
+      "url": "https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -895,54 +927,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Brev Fra En Forr\u00e6der",
-      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "En Som Dig",
-        "url": "https://open.spotify.com/album/40AJcpbZh1cji3B6hgOXc0"
-      },
-      "artists": [
-        {
-          "name": "BJ\u00d8RN",
-          "url": "https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D"
-        }
-      ],
-      "duration_ms": 152007,
-      "name": "En Som Dig",
-      "url": "https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
-        "name": "Maler",
-        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "Maler",
-      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "D\u00e5rligste Bedste Id\u00e9",
         "url": "https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
+        "name": "Maler",
+        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "Maler",
+      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
         "name": "Pisk",
         "url": "https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Bl\u00f8d",
-        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 141653,
-      "name": "Bl\u00f8d",
-      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "Sidste \u00c5r",
         "url": "https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 202708,
       "name": "Sidste \u00c5r",
       "url": "https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Bl\u00f8d",
+        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 141653,
+      "name": "Bl\u00f8d",
+      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Siger Det Ik'",
-        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
-      },
-      "artists": [
-        {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Siger Det Ik'",
-      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "Lander Et Sted",
         "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 173508,
       "name": "Lander Et Sted",
       "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Siger Det Ik'",
+        "url": "https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Siger Det Ik'",
+      "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
     },
     {
       "added_at": "2025-02-06 23:00:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-06 23:00:50",
       "album": {
-        "name": "Piratradio",
-        "url": "https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Kemisk",
-      "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
-    },
-    {
-      "added_at": "2025-02-06 23:00:50",
-      "album": {
         "name": "Bedre",
         "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 170727,
       "name": "Bedre",
       "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
+    },
+    {
+      "added_at": "2025-02-06 23:00:50",
+      "album": {
+        "name": "Piratradio",
+        "url": "https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Kemisk",
+      "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
     },
     {
       "added_at": "2025-02-06 23:00:50",

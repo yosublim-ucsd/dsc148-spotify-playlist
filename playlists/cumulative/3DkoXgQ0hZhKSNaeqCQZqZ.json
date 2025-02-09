@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Limitless Skies",
+        "url": "https://open.spotify.com/album/5dhRAXTuymg3Wl8gIciyWi"
+      },
+      "artists": [
+        {
+          "name": "YamikaDesu",
+          "url": "https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930"
+        },
+        {
+          "name": "Vigilabo",
+          "url": "https://open.spotify.com/artist/66MUcZLPqqgg4FdhMgQxmi"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Limitless Skies",
+      "url": "https://open.spotify.com/track/6Z8pT0yROu8tqQLMyMxVN4"
+    },
+    {
+      "album": {
         "name": "Linger in the Rain",
         "url": "https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva"
       },
@@ -3866,6 +3888,24 @@
       "duration_ms": 166580,
       "name": "Paperback Nation",
       "url": "https://open.spotify.com/track/4wjkkdnvcn4y6xBqafGFRK"
+    },
+    {
+      "album": {
+        "name": "Parasites",
+        "url": "https://open.spotify.com/album/0E8ajiSwtVTreu8uWT03GE"
+      },
+      "artists": [
+        {
+          "name": "YamikaDesu",
+          "url": "https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232552,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/4ShFsw2COXPPeHAisX8tGp"
     },
     {
       "album": {

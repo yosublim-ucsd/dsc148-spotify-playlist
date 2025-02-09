@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 320725,
+  "num_followers": 320782,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6P7gAAAAADLZ8eBYb2XF05MhBr6hrYy",
+  "snapshot_id": "Z6VNAAAAAAB7t7TteTx5wIlea+0fTNTF",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Ramiro Sierra",
+      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 201340,
       "name": "Ignacio Parra",
       "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Ramiro Sierra",
-      "url": "https://open.spotify.com/track/7bQWdJkRRX3FIflOR5B2tg"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 160473,
-      "name": "Juli\u00e1n Del Real",
-      "url": "https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez Con Mariachi",
         "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242195,
       "name": "Mar\u00eda De La Luz",
       "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pela Vacas",
+        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 160473,
+      "name": "Juli\u00e1n Del Real",
+      "url": "https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
-        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "La Loba Del Mal",
-      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 \u00c9xitos Con El Inolvidable",
         "url": "https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213507,
       "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
       "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
+        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "La Loba Del Mal",
+      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
     },
     {
       "added_at": null,

@@ -3685,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "Love Bomb",
+        "url": "https://open.spotify.com/album/5FG6rO0YX0Xi4bgSM4B7Vf"
+      },
+      "artists": [
+        {
+          "name": "L.A. Exes",
+          "url": "https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166984,
+      "name": "Love Bomb",
+      "url": "https://open.spotify.com/track/2xAfukY5A9CDNQpytRsOki"
+    },
+    {
+      "album": {
         "name": "An Unwavering Band of Light",
         "url": "https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N"
       },

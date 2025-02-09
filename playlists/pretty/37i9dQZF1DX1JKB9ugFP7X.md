@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: Javiera Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,419 likes - 90 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,423 likes - 90 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 31 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 |
 | 32 | [Regresarás ☆](https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Regresarás ☆](https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w) | 3:39 |
 | 33 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 |
-| 34 | [CONEXIÓN DE AMOR](https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Conexión De Amor](https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt) | 3:52 |
-| 35 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Postal](https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV) | 3:30 |
+| 34 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Postal](https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV) | 3:30 |
+| 35 | [CONEXIÓN DE AMOR](https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Conexión De Amor](https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt) | 3:52 |
 | 36 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 |
 | 37 | [blablablablabla](https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [blablablablabla](https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp) | 3:21 |
 | 38 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 63 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 |
 | 64 | [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 |
 | 65 | [Compañerx](https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Compañera](https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4) | 4:33 |
-| 66 | [SUBTE LÍNEA B REWORK](https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [SUBTE LÍNEA B REWORK](https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s) | 4:03 |
-| 67 | [Bum \(Chocamos un Auto\)](https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Bum \(Chocamos un Auto\)](https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6) | 3:46 |
+| 66 | [Bum \(Chocamos un Auto\)](https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Bum \(Chocamos un Auto\)](https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6) | 3:46 |
+| 67 | [SUBTE LÍNEA B REWORK](https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [SUBTE LÍNEA B REWORK](https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s) | 4:03 |
 | 68 | [Palabras al Viento](https://open.spotify.com/track/1hDifwaU9Ki87hLzfYWCmT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Palabras al Viento](https://open.spotify.com/album/0xugnChzVurySnB23bgA7M) | 3:35 |
 | 69 | [Bailando a la Deriva](https://open.spotify.com/track/5jSeihXKsDW2sWROKhMbxU) | [Flora](https://open.spotify.com/artist/2XxJxp2AFDcvrVePivbKo1) | [Bailando a la Deriva](https://open.spotify.com/album/6S0unNiOLMpwGjhY50FEvf) | 3:19 |
 | 70 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 |

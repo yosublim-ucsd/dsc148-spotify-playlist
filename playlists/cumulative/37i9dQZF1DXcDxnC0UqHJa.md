@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-295 songs - 18 hr 45 min
+296 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [In My Room](https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [In My Room](https://open.spotify.com/album/2LPetL2iAG5jqVLPaKJPHc) | 2:45 | 2021-12-13 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 | 2021-12-13 | 2022-07-29 |
 | [Is This Love](https://open.spotify.com/track/68mzU8iAvNnF3PCidY66K0) | [Sye Elaine Spence](https://open.spotify.com/artist/0q1FB8NHOQ6hWMwMPxnf66) | [Bloom](https://open.spotify.com/album/29zRwYNrzdVkRra1P9aRix) | 3:43 | 2022-01-21 | 2022-07-19 |
-| [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-23 |  |
+| [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-23 | 2025-02-09 |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 | 2022-10-22 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-14 |  |
 | [Jackson](https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 3:32 | 2021-12-13 |  |
@@ -192,6 +192,7 @@
 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 | 2021-12-13 | 2022-07-29 |
 | [Mr Bojangles](https://open.spotify.com/track/5HCEmNaQAdqN3xRFu2ChmZ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [En attendant Bojangles](https://open.spotify.com/album/6zaUIV18Hyfm99ivyJDf3V) | 4:03 | 2022-01-14 | 2022-07-29 |
 | [Mr\. Bojangles](https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Mr\. Bojangles](https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC) | 4:03 | 2022-06-03 | 2024-04-19 |
+| [Mr\. Brightside](https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Mr\. Brightside](https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY) | 4:27 | 2025-01-07 |  |
 | [Mr\. Tambourine Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tw38zojk2q0bN8JQcr3Cm) | [Hamilton Leithauser + Rostam](https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n) | [Spotify Singles](https://open.spotify.com/album/0XyEzOV3gsUwkCjuFdxD47) | 4:11 | 2021-12-13 | 2022-07-29 |
 | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/351445Kofxc3BN2T27beOv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Muzzle of Bees \(with Jeff Tweedy\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ) | 4:11 | 2022-10-14 |  |
 | [my future](https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:11 | 2021-12-13 |  |

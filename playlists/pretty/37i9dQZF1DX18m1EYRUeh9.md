@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Rooskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,906 likes - 111 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,991 likes - 111 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

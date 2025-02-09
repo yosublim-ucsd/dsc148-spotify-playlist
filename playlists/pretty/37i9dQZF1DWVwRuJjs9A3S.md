@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Jelly Crystal & Nicole Sabouné
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,162 likes - 135 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,191 likes - 135 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 30563,
+  "num_followers": 30567,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
+        "name": "Porque Canto Asi",
+        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
+      },
+      "artists": [
+        {
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        }
+      ],
+      "duration_ms": 134272,
+      "name": "Porque Canto Asi",
+      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
+    },
+    {
+      "added_at": "2023-05-05 14:11:37",
+      "album": {
         "name": "Ritual Criollo",
         "url": "https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
-        "name": "Porque Canto Asi",
-        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
-      },
-      "artists": [
-        {
-          "name": "La Milonga Electrica",
-          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
-        }
-      ],
-      "duration_ms": 134272,
-      "name": "Porque Canto Asi",
-      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
-    },
-    {
-      "added_at": "2023-05-05 14:11:37",
-      "album": {
         "name": "Tinta roja",
         "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
       },
@@ -639,18 +639,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
-        "name": "Flaca",
-        "url": "https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0"
+        "name": "Bailemos",
+        "url": "https://open.spotify.com/album/1Y9yvMJ173jWvE0ho8WEOy"
       },
       "artists": [
         {
           "name": "Max Aguirre",
           "url": "https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
         }
       ],
-      "duration_ms": 169762,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB"
+      "duration_ms": 271258,
+      "name": "Bailemos",
+      "url": "https://open.spotify.com/track/0AQsA3OPmd4zXQtiip1Gf4"
     },
     {
       "added_at": "2023-05-05 14:11:37",

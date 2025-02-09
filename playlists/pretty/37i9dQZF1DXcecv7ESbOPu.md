@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,076 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,100 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 74 | [Kiss The Sky](https://open.spotify.com/track/2SuRhgjUzegI6wP1SswwnG) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Kiss The Sky](https://open.spotify.com/album/5PNz8K8v5kaTUgZaLOvFO8) | 3:22 |
 | 75 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 |
 | 76 | [Nora Helmer](https://open.spotify.com/track/73xF8SpOzfvJG1Spf9rNiY) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [YOUNG GIRL DISAPPEARED VOL\. 1](https://open.spotify.com/album/57BkENCzmNoJHWuD3iPxRF) | 3:35 |
-| 77 | [ODISKRET](https://open.spotify.com/track/6iu4j5NJzq1kXZ7828wWwa) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ) | [ODISKRET](https://open.spotify.com/album/0rJIlGhBqchum79z4yiLsb) | 2:15 |
+| 77 | [ODISKRET](https://open.spotify.com/track/6iu4j5NJzq1kXZ7828wWwa) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Kiran](https://open.spotify.com/artist/5zYIHfWBraSUpUZvJX34xX) | [ODISKRET](https://open.spotify.com/album/0rJIlGhBqchum79z4yiLsb) | 2:15 |
 | 78 | [CAN WE LIVE?](https://open.spotify.com/track/1mMrcYHKGBdwZYKPcdVvHw) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [B.O.A Mook](https://open.spotify.com/artist/2LScPi7kKtHiWfhFCrzSww) | [CAN WE LIVE?](https://open.spotify.com/album/01MoHXRkIxIiJiRmqjlxov) | 3:32 |
 | 79 | [TOXIC](https://open.spotify.com/track/3D9As0dvasd1Kkmk0Lwo5z) | [Mick C](https://open.spotify.com/artist/2uzFPVGIqlTH5AnD0CKPtL), [Mowgly](https://open.spotify.com/artist/0vbhWRKaeWqeVNr6rXOo92) | [TOXIC](https://open.spotify.com/album/7GI6eWvXufVMQOdLVEvAP8) | 3:33 |
 | 80 | [6 AM](https://open.spotify.com/track/2VbOVhkmZagfiB30erFY4e) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3) | [6 AM](https://open.spotify.com/album/0yuj4g5HQQwEtugIuSVOGW) | 2:32 |

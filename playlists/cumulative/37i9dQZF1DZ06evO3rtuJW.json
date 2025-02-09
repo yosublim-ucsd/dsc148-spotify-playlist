@@ -1783,6 +1783,32 @@
     },
     {
       "album": {
+        "name": "Modern Day Eastwood",
+        "url": "https://open.spotify.com/album/01JZ7DgqxUGEqhreOCfflw"
+      },
+      "artists": [
+        {
+          "name": "Snap Dogg",
+          "url": "https://open.spotify.com/artist/3gwjMn413kOhSLR9wb4CWJ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Nick Ryan",
+          "url": "https://open.spotify.com/artist/0JLtuhLVOEOp95UU5LesUJ"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195923,
+      "name": "Modern Day Eastwood",
+      "url": "https://open.spotify.com/track/7t9vXE4u5DibfV5ANuBj8z"
+    },
+    {
+      "album": {
         "name": "My City (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
       },

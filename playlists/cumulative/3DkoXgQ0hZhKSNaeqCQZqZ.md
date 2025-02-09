@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-306 songs - 16 hr 11 min
+308 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [lil boy](https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:15 | 2025-01-25 |  |
 | [lil boy](https://open.spotify.com/track/4pGX4804iIeGtn2dGD2NaX) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [lil boy](https://open.spotify.com/album/510NAc32IQl7IbbLTYd08Q) | 2:15 | 2024-08-15 |  |
 | [Lil Nuggit](https://open.spotify.com/track/3Oi6KBqKqY8XRAcvBhDAHy) | [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW) | [Lil Nuggit](https://open.spotify.com/album/71AbiIBC2D36pt3ytXNuSK) | 3:03 | 2024-02-10 |  |
+| [Limitless Skies](https://open.spotify.com/track/6Z8pT0yROu8tqQLMyMxVN4) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930), [Vigilabo](https://open.spotify.com/artist/66MUcZLPqqgg4FdhMgQxmi) | [Limitless Skies](https://open.spotify.com/album/5dhRAXTuymg3Wl8gIciyWi) | 3:24 | 2025-02-08 |  |
 | [Linger in the Rain](https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Linger in the Rain](https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva) | 5:00 | 2024-12-09 |  |
 | [Lone Skater](https://open.spotify.com/track/0vzIdVmpB0rSfGJROfIBLM) | [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Lone Skater](https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN) | 3:44 | 2024-09-25 |  |
 | [Loner](https://open.spotify.com/track/5pgVEVzfyfpQ6eT9gSLH5m) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Loner](https://open.spotify.com/album/1mOnhhctC0RjyMeKUfygqh) | 2:48 | 2023-06-14 |  |
@@ -204,6 +205,7 @@
 | [Outside](https://open.spotify.com/track/0NZYY7pVDk67cx23sqLgjh) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Ghosts](https://open.spotify.com/album/2RpPntOn2UMMuMeJDJESpt) | 1:56 | 2024-10-21 |  |
 | [Overrun](https://open.spotify.com/track/5jz7DLjpIj5hiWp95Fevtx) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Homeward](https://open.spotify.com/album/7y0hjifREHYoUMzesV6dMb) | 5:04 | 2024-02-09 |  |
 | [Paperback Nation](https://open.spotify.com/track/4wjkkdnvcn4y6xBqafGFRK) | [Floridian Homicide Unit](https://open.spotify.com/artist/7Jgw535Ddgb0P0TriAPdPw) | [I Love It Here, I Have Everything I Need, and All My Friends Love Me](https://open.spotify.com/album/488NhNmfs0EayMuMyw2vFu) | 2:46 | 2024-11-18 |  |
+| [Parasites](https://open.spotify.com/track/4ShFsw2COXPPeHAisX8tGp) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930) | [Parasites](https://open.spotify.com/album/0E8ajiSwtVTreu8uWT03GE) | 3:52 | 2025-02-08 |  |
 | [Parasocial](https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Parasocial](https://open.spotify.com/album/5zbyAiUZgCKZsuGohtQ7He) | 3:30 | 2025-01-25 |  |
 | [PEOPLEPLEASER](https://open.spotify.com/track/6cq3aa06llf5ouqPX0w83y) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [PEOPLEPLEASER](https://open.spotify.com/album/22pfJGxBvUvk7yMX1tuo4h) | 2:23 | 2024-02-09 |  |
 | [Phantom Sense \- Scalie Bloke Remix](https://open.spotify.com/track/0oKNplZZk9wh8MgIqkH9Zt) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Scalie Bloke](https://open.spotify.com/artist/7waKUb2SmeFCDfah4Qrx2p) | [Phantom Sense \(Scalie Bloke Remix\)](https://open.spotify.com/album/3RHbJ9t6GZZYxMdmTk4Pln) | 4:15 | 2023-09-24 |  |

@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 190000,
       "name": "drunk prayer",
       "url": "https://open.spotify.com/track/7B8wSAsYjZODXJ3GXJlTWW"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 184266,
       "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
@@ -8318,6 +8318,32 @@
       "duration_ms": 194289,
       "name": "Life & Times",
       "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
+    },
+    {
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
     },
     {
       "album": {
@@ -12888,7 +12914,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 130673,
       "name": "Single File Line",
       "url": "https://open.spotify.com/track/3jZTAWOSNWaWauQ03WX9da"

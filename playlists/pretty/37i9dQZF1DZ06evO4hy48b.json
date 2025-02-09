@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 204511,
+  "num_followers": 204538,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6P7gAAAAADUuyzXNyynwVypF9p2GuqM",
+  "snapshot_id": "Z6VNAAAAAAD9QYIBQ0G0lNW0hbC6QXyf",
   "tracks": [
     {
       "added_at": null,
@@ -1031,22 +1031,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sus Canciones (Operaci\u00f3n Triunfo 2017)",
-        "url": "https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/6wlThRyC93GEyCVE9AwONd"
+      "duration_ms": 189030,
+      "name": "Nada Sale Mal",
+      "url": "https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa"
     }
   ],
   "unique_name": "This Is Aitana",

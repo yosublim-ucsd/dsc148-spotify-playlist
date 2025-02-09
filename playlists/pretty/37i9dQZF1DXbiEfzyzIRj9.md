@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,998 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,994 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 |
 | 2 | [bastard](https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [bastard](https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0) | 2:16 |
 | 3 | [Banggg](https://open.spotify.com/track/4f5uSjREePyZcVtFSMiUKH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Banggg](https://open.spotify.com/album/3mWHF2gfMwZgcdMzi8MRGh) | 2:32 |
-| 4 | [Rush of Energy](https://open.spotify.com/track/1h6td5sp5QV4LWxoTRhTci) | [chomo](https://open.spotify.com/artist/0HftQxdRA0SmvgkNSvyMoL) | [dance detectives E.P](https://open.spotify.com/album/1keZiOtzIU1WtcSL3bzFTE) | 5:45 |
+| 4 | [Rush of Energy](https://open.spotify.com/track/1h6td5sp5QV4LWxoTRhTci) | [chomo](https://open.spotify.com/artist/7rjESwAheDfoY7uPl823L4) | [dance detectives E.P](https://open.spotify.com/album/1keZiOtzIU1WtcSL3bzFTE) | 5:45 |
 | 5 | [Poppa di pop](https://open.spotify.com/track/5W9mWoO7zDViAskZheJCcw) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [Poppa di pop](https://open.spotify.com/album/78GR6DHrnun3mdtekyNi7N) | 3:34 |
 | 6 | [Fantasista](https://open.spotify.com/track/1WyuqLzeEX499wLisKcTPf) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [SUPER DANCE TOOLS Vol.4](https://open.spotify.com/album/2qs1y0xXlO4DfO0DPUVEbW) | 6:10 |
 | 7 | [Heather Park \- salute Remix](https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Heather Park \(salute Remix\)](https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa) | 6:15 |

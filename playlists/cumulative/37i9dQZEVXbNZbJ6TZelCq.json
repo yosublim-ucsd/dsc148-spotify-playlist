@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-06",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -2546,6 +2546,28 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207031,
+      "name": "Asta o termina",
+      "url": "https://open.spotify.com/track/6LvvNIWmJEIIdV1p9BAFLx"
     },
     {
       "album": {
@@ -17376,7 +17398,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 173538,
       "name": "Jeleu - From \"Candidatul Perfect\" The Movie",
       "url": "https://open.spotify.com/track/0f8WNnOzO1K8NXuWkSdX2m"
@@ -23528,7 +23550,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 163723,
       "name": "NOPTILE ALBASTRE - Master Edition",
       "url": "https://open.spotify.com/track/7zOSW5YiUFBXIvrKs4RInV"
@@ -23902,7 +23924,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 173488,
       "name": "num\u0103r\u00e2nd victorii",
       "url": "https://open.spotify.com/track/5t01Xfv8tF0qwxTlqXilX5"
@@ -24678,7 +24700,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 234923,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/0stJVUUSrbEwyFHOp2dRu0"
@@ -28928,7 +28950,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 238016,
       "name": "R\u0102GU\u0218IT",
       "url": "https://open.spotify.com/track/5eDUjRGEYTvEtlGUIOR7Mh"
@@ -28954,6 +28976,24 @@
       "duration_ms": 213818,
       "name": "R\u0102MAS BUN & KATAPULTA",
       "url": "https://open.spotify.com/track/3id20FwrVRUnH1jX86SWfr"
+    },
+    {
+      "album": {
+        "name": "r\u0103m\u00e2i cu mine",
+        "url": "https://open.spotify.com/album/6JeDXhyvfWuQ3z4jykjDJV"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250154,
+      "name": "r\u0103m\u00e2i cu mine",
+      "url": "https://open.spotify.com/track/6qKJNTJmN6S5F87AtwY1Qg"
     },
     {
       "album": {
@@ -32531,6 +32571,24 @@
     },
     {
       "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "album": {
         "name": "COLDMODE",
         "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
       },
@@ -32668,6 +32726,32 @@
       "duration_ms": 151032,
       "name": "Supernanny",
       "url": "https://open.spotify.com/track/4kJW1QxVdY9kICqDLnwbA2"
+    },
+    {
+      "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "candyboii",
+          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269220,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2gzTPdtaNZUiPCHLMvaU4r"
     },
     {
       "album": {
@@ -39230,7 +39314,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 150361,
       "name": "\u021aine-te bine",
       "url": "https://open.spotify.com/track/5p93LIjxyKzAvwaPXAb3iI"

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,537 songs - 2 day 9 hr 52 min
+1,538 songs - 2 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [beija flor](https://open.spotify.com/track/40RvOH5G640YZe3ZtSUZyZ) | [mockfly](https://open.spotify.com/artist/0Ur2p5PWdMOHeidtUvsYb2) | [beija flor](https://open.spotify.com/album/4j5TEd9tIv4j5GoXt9tjof) | 1:54 | 2022-07-01 | 2022-12-10 |
 | [Believe](https://open.spotify.com/track/2IrEBO5jKGNRZJhn1Xqlab) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Believe](https://open.spotify.com/album/3ASNf3waj5UoMXtaI5acwF) | 2:24 | 2024-07-25 | 2024-08-10 |
 | [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 | 2024-07-05 |  |
-| [Best Friends](https://open.spotify.com/track/20tGiDOlsl5HDR7fFssN3w) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Best Friends](https://open.spotify.com/album/3rPFB3nWu1nD2yh8zWwLNG) | 2:20 | 2024-11-22 |  |
+| [Best Friends](https://open.spotify.com/track/20tGiDOlsl5HDR7fFssN3w) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Best Friends](https://open.spotify.com/album/3rPFB3nWu1nD2yh8zWwLNG) | 2:20 | 2024-11-22 | 2025-02-09 |
 | [Better Call Paul](https://open.spotify.com/track/4GarVhdXjwIRo2B4NXU8Oa) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Better Call Paul](https://open.spotify.com/album/2ys5fOozBFCfzh60seizGv) | 1:51 | 2023-05-19 |  |
 | [better future](https://open.spotify.com/track/0YmXffBrd88akIrQXr9TaP) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [better future](https://open.spotify.com/album/6yzDS7haJzzTE8B4rsnKL1) | 2:08 | 2022-09-16 | 2023-09-05 |
 | [Beyond the Oak Trees](https://open.spotify.com/track/7lKqJYhKWmuxtHHSiGg9un) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Beyond the Oak Trees](https://open.spotify.com/album/2MesGtIqZHcMkMo40ogNph) | 2:53 | 2022-01-27 | 2022-09-17 |
@@ -804,7 +804,7 @@
 | [Matsuoka](https://open.spotify.com/track/4De868i8w6YZp48DsBLyCN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Matsuoka](https://open.spotify.com/album/3F43SAWw5a25Rm5P2n74yD) | 1:53 | 2024-09-27 |  |
 | [Matter Over Mind](https://open.spotify.com/track/6zGYdz1VrSjdKeKOSjAhMA) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Matter Over Mind](https://open.spotify.com/album/4uCWRaKCVEF0vsdegesZg3) | 2:18 | 2024-07-12 |  |
 | [May I Have This Dance?](https://open.spotify.com/track/5Bswc65J5MgA8EkRoKG45H) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [May I Have This Dance?](https://open.spotify.com/album/5jo6OvWZiJj2sc2f2gLk6Y) | 1:54 | 2024-12-06 | 2025-01-11 |
-| [Maybe](https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Maybe](https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS) | 2:36 | 2023-10-13 |  |
+| [Maybe](https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Maybe](https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS) | 2:36 | 2023-10-13 | 2025-02-09 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 | 2022-01-27 | 2022-12-17 |
 | [Maybe We Won't Meet Again](https://open.spotify.com/track/5zTSqqgYh90awFDs7fWRtZ) | [Lo\-Five](https://open.spotify.com/artist/3K8s2AFPmTDnzEkSfXDoTi), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Maybe We Won't Meet Again](https://open.spotify.com/album/0VfTbywk4MC2lpQezf8Pfr) | 2:42 | 2022-09-30 | 2023-04-21 |
 | [Mayfair](https://open.spotify.com/track/51o9SkcDTXN8OoehRJdckU) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Mayfair](https://open.spotify.com/album/7ifv0qitkljNKWZ1k8glE0) | 2:11 | 2024-07-05 |  |
@@ -1123,7 +1123,7 @@
 | [Round around Midnight](https://open.spotify.com/track/5zNQEOheju8oxmFLHFbizp) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Round around Midnight](https://open.spotify.com/album/0hMZ6cE8vW35yOp6nFORbm) | 2:07 | 2023-09-04 | 2023-10-20 |
 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-04 |  |
 | [RU4Real?](https://open.spotify.com/track/3SYmrigQoWiKo91CjrszFE) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [RU4Real?](https://open.spotify.com/album/6acqhp7asCwo4A5mL08jQE) | 2:13 | 2022-01-27 | 2022-10-29 |
-| [Running down the street](https://open.spotify.com/track/3fQOoi6BIhaIgrrGnx2Rk2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Running down the street](https://open.spotify.com/album/2idME1Wf8oEucltaYqgWU7) | 2:28 | 2022-11-11 | 2025-02-01 |
+| [Running down the street](https://open.spotify.com/track/3fQOoi6BIhaIgrrGnx2Rk2) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Running down the street](https://open.spotify.com/album/2idME1Wf8oEucltaYqgWU7) | 2:28 | 2022-11-11 |  |
 | [Rusty Flavour](https://open.spotify.com/track/0DEgUgKbTHLPjjpuM7wTEq) | [Natty Dub](https://open.spotify.com/artist/7vsFii8Yk8bNY2l3q0fbSu), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Rusty Flavour](https://open.spotify.com/album/01ttNAV30k2GysdNUk08LL) | 2:15 | 2022-10-08 | 2023-09-22 |
 | [Río Ocho](https://open.spotify.com/track/1cpPta2P0aGxUn6F6Up96n) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Río Ocho](https://open.spotify.com/album/3bdzsVb0iRXvXbjlH78Dd5) | 2:16 | 2022-01-27 | 2022-09-03 |
 | [S'all good](https://open.spotify.com/track/0un7JYCIAX5rQhMov6X3eU) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0) | [S'all good](https://open.spotify.com/album/3luUDxfzRT7kokLDX2mylJ) | 2:26 | 2022-10-08 | 2023-09-22 |
@@ -1453,6 +1453,7 @@
 | [varanda flowers](https://open.spotify.com/track/6RPZhvzqkmyI8m2wVAJhND) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [varanda flowers](https://open.spotify.com/album/7fhy40dlWqvMgSFOSIqkQI) | 1:55 | 2022-07-22 | 2022-12-10 |
 | [Vela](https://open.spotify.com/track/3en2ldtMAkaDTaevmmmOHY) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Vela](https://open.spotify.com/album/4XPPMW4G5JcdWmsox9PsMs) | 2:31 | 2022-04-08 | 2022-10-15 |
 | [Velvet](https://open.spotify.com/track/3SQS72cQY2TM0nDYJip1yZ) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Velvet](https://open.spotify.com/album/07GO5VjNgmfNVLUWi0CyuF) | 1:48 | 2022-01-27 | 2022-09-17 |
+| [Velvet 87](https://open.spotify.com/track/3m5YysyzuOU7hN2M3npuCP) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Velvet 87](https://open.spotify.com/album/0OXAUEkYYeJlwoLLV8T9Db) | 2:14 | 2025-02-07 |  |
 | [Verde Basilico](https://open.spotify.com/track/2uyrWn2J9Wbvd78xCihZHz) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Verde Basilico](https://open.spotify.com/album/6AJ0Jj5CtKo6hDTn82Km6u) | 2:12 | 2023-07-13 | 2023-10-20 |
 | [Vibrational Rotation](https://open.spotify.com/track/6A3fdF6XmMbybxQJrjQIfE) | [Chris Karns](https://open.spotify.com/artist/6kX9nrscnZcHzpkxRdcwBY), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Hunter Roberts](https://open.spotify.com/artist/1SaECNvZYrwxBvBpcCvbaa) | [Vibrational Rotation](https://open.spotify.com/album/4Usf391EnJR1KD9WSMRzDN) | 2:06 | 2022-06-03 | 2022-06-26 |
 | [vintage landscapes](https://open.spotify.com/track/2uLsD4apV6zjuY2ekztXlp) | [metabolar](https://open.spotify.com/artist/1AnyVsimkm8D6kViojzN9i) | [vintage landscapes](https://open.spotify.com/album/66ixXEar501O1uSaRDr5QW) | 1:40 | 2022-01-27 | 2022-10-15 |

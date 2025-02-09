@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 29,476 likes - 45 songs - 2 hr 14 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 29,478 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 16 | [4\-3\-3](https://open.spotify.com/track/6z2LDLTbaG7vRZsCd6y212) | [Els Amics De Les Arts](https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [4\-3\-3](https://open.spotify.com/album/6Bk9nvL7XFojCy544fLrkf) | 3:13 |
 | 17 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 2:51 |
 | 18 | [Malèfica](https://open.spotify.com/track/5AgyV3dRa5xJetCw5ciOsJ) | [Lal'Ba](https://open.spotify.com/artist/1wlYowWXP2lahrXGn5opzG) | [Malèfica](https://open.spotify.com/album/1OTlOo1pni9yNH9ySQsATT) | 2:31 |
-| 19 | [Sushi Poke](https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz), [IZZKID](https://open.spotify.com/artist/1I8wzpYHQW1GMiPgycZyIW), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Sushi Poke](https://open.spotify.com/album/0QhKmDHcAZxkV1kRCCl122) | 2:22 |
+| 19 | [Sushi Poke](https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Sushi Poke](https://open.spotify.com/album/0QhKmDHcAZxkV1kRCCl122) | 2:22 |
 | 20 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 21 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 22 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |

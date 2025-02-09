@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música fresca para el corazón con Yuridia y Alejandro Fernández en portada 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,059 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,796 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 23 | [Sandungueo](https://open.spotify.com/track/241N1SlPSolmwtOvFB2Ke1) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Sandungueo](https://open.spotify.com/album/7n1YZR3iyA8rcrzwHeZszp) | 2:34 |
 | 24 | [Motocicleta](https://open.spotify.com/track/1Zpw8ENGX8EqtHZ5UCbUYH) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Motocicleta](https://open.spotify.com/album/2faKkaM7h0h1cTWt1Wd73S) | 3:32 |
 | 25 | [Cosas Bonitas](https://open.spotify.com/track/3IOiLCVNsfx3zYh5rgo3LY) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Los Muñequitos De Matanzas](https://open.spotify.com/artist/1nGt9Auu0hzIZ6lI2WZWOq) | ["Cosas Bonitas" de eso "Se Trata"](https://open.spotify.com/album/3QuedvzF25IxYSMs42qdQ8) | 3:29 |
-| 26 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Hola mami \(Directo\)](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
+| 26 | [Hola mami](https://open.spotify.com/track/6T5cwfvRF5YdAx2CyG7u2C) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO), [Aivan Beatz](https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb) | [Hola mami](https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ) | 3:40 |
 | 27 | [LABUBU](https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa) | [LABUBU](https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR) | 2:45 |
 | 28 | [CHULA](https://open.spotify.com/track/19YBQmFj9ZLrxuPJIz7saK) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [CHULA](https://open.spotify.com/album/4nPEJQbL05HPxoRx6JVE89) | 2:35 |
 | 29 | [Para llegar hasta aquí](https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Para llegar hasta aquí](https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV) | 3:53 |

@@ -1654,10 +1654,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 251573,
       "name": "I Loves You Porgy",
       "url": "https://open.spotify.com/track/7lUJd9FTYbZgo4jU7qpAel"
+    },
+    {
+      "album": {
+        "name": "Nina Simone and Her Friends (Remastered 2014)",
+        "url": "https://open.spotify.com/album/2CeiAmKMUqcHfNU9Lv3yuQ"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248223,
+      "name": "I Loves You, Porgy - 2014 - Remaster",
+      "url": "https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp"
     },
     {
       "album": {

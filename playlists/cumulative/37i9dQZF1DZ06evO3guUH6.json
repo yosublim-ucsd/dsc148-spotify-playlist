@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Puede",
+        "url": "https://open.spotify.com/album/1pKrXwqTJy4a71vnxbVc6A"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202378,
+      "name": "Puede",
+      "url": "https://open.spotify.com/track/776TH7RwOwvwHAFOydiECI"
+    },
+    {
+      "album": {
         "name": "ALFA & OMEGA",
         "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },

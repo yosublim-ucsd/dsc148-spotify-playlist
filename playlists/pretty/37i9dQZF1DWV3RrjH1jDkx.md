@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,252 likes - 104 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,247 likes - 104 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 76 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:32 |
 | 77 | [Danse for Seg Selv](https://open.spotify.com/track/6HxLILHpc9X5i9yjklD86x) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [Danse for Seg Selv](https://open.spotify.com/album/2DmiysmoPYXenfgdvd2KKi) | 2:41 |
 | 78 | [I'm Going on Vacation](https://open.spotify.com/track/09uDU8OfnJzh23gS5IMppi) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:47 |
-| 79 | [Polardegoz](https://open.spotify.com/track/197AHLqOoU1ldUUTjZTXSR) | [Joddski](https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD), [Salvador Sanchez](https://open.spotify.com/artist/7rqE3Jh3f8flwRm3fKIEb7), [Vebjørn Remme](https://open.spotify.com/artist/6mo9sTsd3EGsJIE3st1x3Q) | [Hallelujastemning](https://open.spotify.com/album/1PrAWmtcFjmtxhQnWrRLcN) | 3:33 |
+| 79 | [Polardegoz](https://open.spotify.com/track/197AHLqOoU1ldUUTjZTXSR) | [Joddski](https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD), [Salvador Sanchez](https://open.spotify.com/artist/7rqE3Jh3f8flwRm3fKIEb7) | [Hallelujastemning](https://open.spotify.com/album/1PrAWmtcFjmtxhQnWrRLcN) | 3:33 |
 | 80 | [Green Light](https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 2:47 |
 | 81 | [Kiss The Sky](https://open.spotify.com/track/2SuRhgjUzegI6wP1SswwnG) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Kiss The Sky](https://open.spotify.com/album/5PNz8K8v5kaTUgZaLOvFO8) | 3:22 |
 | 82 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 |

@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 157920,
       "name": "As Tears Go By",
       "url": "https://open.spotify.com/track/2EYXCRp63iQdmeKHXN8Rrg"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 275493,
       "name": "Broken English",
       "url": "https://open.spotify.com/track/09r8CNc94rtWOPAi63cIjp"
@@ -9994,7 +9994,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 165599,
       "name": "Heureuse",
       "url": "https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5"
@@ -11429,6 +11429,24 @@
     },
     {
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6ovu6948XcLFXO8LLVsbGb"
+      },
+      "artists": [
+        {
+          "name": "Red Sebastian",
+          "url": "https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142504,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/6QeP8DvnHszvaCj4imGqS2"
+    },
+    {
+      "album": {
         "name": "Incoming",
         "url": "https://open.spotify.com/album/0UgXY26t826eeQoiX7xVed"
       },
@@ -12218,7 +12236,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 168504,
       "name": "Keep Going Back to You",
       "url": "https://open.spotify.com/track/1WkhgWwNvLDfxz05nlcaCj"
@@ -15879,6 +15897,28 @@
     },
     {
       "album": {
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        },
+        {
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
+    },
+    {
+      "album": {
         "name": "MULALA",
         "url": "https://open.spotify.com/album/7ykykZsyyh5fEVBmkkZZwc"
       },
@@ -16916,6 +16956,28 @@
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
+    },
+    {
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
     },
     {
       "album": {
@@ -22098,7 +22160,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 249533,
       "name": "The Ballad Of Lucy Jordan",
       "url": "https://open.spotify.com/track/4gj5Wv7rAJYhBrGPu01mxD"
@@ -22322,7 +22384,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 220680,
       "name": "The Gypsy Faerie Queen",
       "url": "https://open.spotify.com/track/6xIS6KqZk6h4cS0F91z7op"
@@ -24940,7 +25002,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 151984,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4Tf49OI6J2TK1LkdfqgUJt"

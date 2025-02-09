@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537102,
+  "num_followers": 537101,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Comment te dire adieu ?",
+        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
+      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Vu De L'Ext\u00e9rieur",
         "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
       },
@@ -991,6 +1007,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Fais comme l'oiseau",
+      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les plus grandes chansons",
         "url": "https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh"
       },
@@ -1007,18 +1039,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
       "artists": [
         {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Fais comme l'oiseau",
-      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
+      "duration_ms": 212200,
+      "name": "Emmenez Moi",
+      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1051,38 +1083,6 @@
       "duration_ms": 266906,
       "name": "Avec le temps",
       "url": "https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Comment te dire adieu ?",
-        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
-      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Emmenez Moi",
-      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 210226,
       "name": "Chez Laurette",
       "url": "https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "La boh\u00e8me",
-      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Infiniment",
-        "url": "https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Ne Me Quitte Pas",
-      "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Bonnie And Clyde",
         "url": "https://open.spotify.com/album/4bUHEvMDSA8Y0uIDco133a"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 178200,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Infiniment",
+        "url": "https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
     },
     {
       "added_at": "2024-07-25 13:22:22",

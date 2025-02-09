@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Billkin
 
-642 songs - 1 day 14 hr 3 min
+643 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Peek](https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2) | [SEENAPAT](https://open.spotify.com/artist/2dWLIzrLWSNliiLVEGNMk3) | [Peek](https://open.spotify.com/album/0UDyCbzsLPCP6AvT3TMMuO) | 2:43 | 2022-06-16 | 2022-06-24 |
 | [Perfect Match](https://open.spotify.com/track/0Ez4aGnrx0EkzhQQyME28j) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [Perfect Match](https://open.spotify.com/album/69i4434OUT1KjTcF0O86la) | 3:04 | 2024-01-18 | 2024-02-01 |
 | [Perfect Match](https://open.spotify.com/track/391UjBMVykpwcmY3v4aG3C) | [DMD Gen4](https://open.spotify.com/artist/008VCU6yhQyLNN3pEBvbne) | [Perfect Match](https://open.spotify.com/album/5GokkJiHhg9QOdguBcyBnj) | 2:48 | 2025-01-23 | 2025-02-07 |
-| [Pick A Card](https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 3:05 | 2024-12-18 |  |
+| [Pick A Card](https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 3:05 | 2024-12-18 | 2025-02-09 |
 | [Pom Pom](https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Pom Pom](https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo) | 2:56 | 2023-01-26 | 2023-02-03 |
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK? \- Single](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-02-02 | 2023-11-03 |
@@ -232,6 +232,7 @@
 | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [pY\-1](https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW) | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 | 2024-08-08 | 2024-08-16 |
 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/7fY7jCjncVuEsDYzvdHl7h) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\) \- Single](https://open.spotify.com/album/0BeN3k5p6Hct7DUxVFGrqn) | 3:54 | 2024-07-04 |  |
 | [คอลเซนเตอร์](https://open.spotify.com/track/5B31ax059orLDjMmt23z4L) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [คอลเซนเตอร์](https://open.spotify.com/album/0DXPpVfsFRMBpSWNtHNRvb) | 4:23 | 2024-10-17 | 2024-10-25 |
+| [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/track/4SatXpXNJu3T4AHlbNQ4Ei) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/album/4F0Tcc9CLuXjzq2SvhQv9F) | 3:00 | 2025-02-08 |  |
 | [คาเฟอีน \(My Caffeine\)](https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [คาเฟอีน](https://open.spotify.com/album/2n144mh5bLRanWiqkGxdSN) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 | 2022-11-18 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/4Cg2XGrrrczeZRPOnlAG67) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/album/2GFOBIiJ4Lpmwo6HpXxLBD) | 4:26 | 2022-05-26 | 2022-09-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,801 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 59 | [Stand](https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:20 |
 | 60 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 61 | [Imagine Me](https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 5:18 |
-| 62 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
-| 63 | [My Life Is In Your Hands](https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:35 |
+| 62 | [My Life Is In Your Hands](https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:35 |
+| 63 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
 | 64 | [In the Sanctuary \- Live](https://open.spotify.com/track/7okZiRqgL1K0lKTKDJe9OT) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3) | 6:08 |
 | 65 | [Let Go](https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI) | [DeWayne Woods](https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce) | [Introducing DeWayne Woods & When Singers Meet](https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB) | 4:55 |
 | 66 | [It's Working](https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [God Chaser](https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS) | 4:52 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 95 | [He's An On Time God](https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3) | [Dottie Peoples & The Peoples Choice Chorale](https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI) | [On Time God](https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv) | 5:52 |
 | 96 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
 | 97 | [They That Wait \(feat\. John P\. Kee\)](https://open.spotify.com/track/7FiP2GdWnBO7A6bTN3Tl0m) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Love Unstoppable](https://open.spotify.com/album/4WbbtFzVDN7zejy7T7WDc6) | 6:16 |
-| 98 | [Glorious](https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [The Best Is Yet to Come](https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7) | 5:58 |
-| 99 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
+| 98 | [Make Me Over](https://open.spotify.com/track/19CFaRVxBHz6VnR9IGdtGt) | [Tonéx](https://open.spotify.com/artist/5kCUi6SWpesUXTdMVdTUqs), [Peculiar People](https://open.spotify.com/artist/1dLz3h6wLE1pYC0gOTW1qI) | [Out The Box](https://open.spotify.com/album/0lpNAzBAydDzo55vneGipQ) | 7:06 |
+| 99 | [Glorious](https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [The Best Is Yet to Come](https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7) | 5:58 |
 | 100 | [The Battle Is the Lord's](https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Save The World](https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH) | 4:24 |
 | 101 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
 | 102 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |

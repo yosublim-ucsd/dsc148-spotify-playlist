@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/2sH2NmIdoMGO4ToomymfUQ"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182014,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/5BRogyTiaRtApKPxP4g6GA"
+    },
+    {
+      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },

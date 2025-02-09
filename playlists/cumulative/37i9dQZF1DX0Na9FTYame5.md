@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: badchieff
 
-174 songs - 7 hr 54 min
+175 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Feuer](https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Feuer](https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF) | 2:37 | 2024-06-28 |  |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 |  |
 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 | 2024-06-28 | 2024-09-21 |
-| [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 |  |
+| [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 | 2025-02-09 |
 | [Garten vorm Haus](https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Garten vorm Haus](https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn) | 1:54 | 2024-11-11 |  |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 |  |
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2024-06-28 |  |
@@ -163,6 +163,7 @@
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-06-28 |  |
 | [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 | 2024-11-22 |
+| [VORBEI](https://open.spotify.com/track/2dESh9c89uVcszcd7TcUBz) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [VORBEI](https://open.spotify.com/album/1v3Spz88JnZRm9y9tzGe1Q) | 2:34 | 2025-02-06 |  |
 | [War das schon alles](https://open.spotify.com/track/6FgAH2lOrWWcFhXRDjhKrT) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [War das schon alles](https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14) | 2:58 | 2024-06-28 | 2024-09-30 |
 | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Was du nicht siehst \(feat\. ela.\)](https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8) | 2:31 | 2024-06-28 |  |
 | [Was Es Braucht](https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Was Es Braucht](https://open.spotify.com/album/0iRjf9T50CSIzm4yLrOfCk) | 2:47 | 2024-11-11 |  |

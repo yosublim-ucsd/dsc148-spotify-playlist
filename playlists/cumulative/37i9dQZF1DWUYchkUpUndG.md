@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=baAWU7xKS9WdZjxCYcU7DA>Sunmisola Agbebi</a>
 
-4,418 songs - 13 day 9 hr 5 min
+4,419 songs - 13 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Anchor](https://open.spotify.com/track/32OEwId2uqL5jnsMWLGFij) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [Anchor](https://open.spotify.com/album/7MpLsUUU9lzo5kwWsmxr8f) | 2:20 | 2024-04-12 | 2024-04-19 |
 | [Anchor \(Anvil\)](https://open.spotify.com/track/2e1nymcXoRhUYDhYtenQJ7) | [Dbilovd](https://open.spotify.com/artist/5xvyAXQfTzG95lXHos2ZDn) | [Anchor \(Anvil\)](https://open.spotify.com/album/6K5FYAGV6WwStZrG1jX5Cz) | 5:12 | 2024-02-23 | 2024-03-01 |
 | [Ancient of day](https://open.spotify.com/track/2CR4rb6EVTqL0O8nhuvtr7) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ) | [Ancient of day](https://open.spotify.com/album/1c2tt0AOoePuM5Ra2cfGpr) | 2:20 | 2023-12-08 | 2023-12-22 |
-| [Ancient Of Days](https://open.spotify.com/track/3ctUHoWUVro9rg6O2NJL4b) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Ancient Of Days](https://open.spotify.com/album/1z3ORQmy11HXglZnVXLLqv) | 2:20 | 2025-01-31 |  |
+| [Ancient Of Days](https://open.spotify.com/track/3ctUHoWUVro9rg6O2NJL4b) | [Blessing Oghie](https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn) | [Ancient Of Days](https://open.spotify.com/album/1z3ORQmy11HXglZnVXLLqv) | 2:20 | 2025-01-31 | 2025-02-09 |
 | [Ancient of Days](https://open.spotify.com/track/5TlNkxlNpDiy6T5lCdeGrG) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj) | [Ancient of Days](https://open.spotify.com/album/0JyXU2o66FzLLSnCroDd6o) | 3:10 | 2024-11-01 | 2024-11-15 |
 | [Ancient of Days](https://open.spotify.com/track/7CK9GihU0lRRU11z7NuF2G) | [Gina Pat](https://open.spotify.com/artist/2xP0hFdDNZCspgkAZzntli), [Riah](https://open.spotify.com/artist/3DP7I7qLyT3s50pZcEy1K2) | [Ancient of Days](https://open.spotify.com/album/0lXeqOLrwAxB9GKScPUyKa) | 5:01 | 2024-01-26 | 2024-02-09 |
 | [Ancient of days](https://open.spotify.com/track/4elmXdt3kWQmOFVZr5ZNcY) | [Grace Nelson](https://open.spotify.com/artist/7kd6Pd5WjhkImAYH9PWpuu) | [Ancient of days](https://open.spotify.com/album/2wxR8naDEv1HampvkhJA8P) | 5:10 | 2023-07-28 | 2023-08-11 |
@@ -3688,6 +3688,7 @@
 | [Thank You Jesus](https://open.spotify.com/track/2WOhb5q6TrY73QomLKWPWc) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Thank You Jesus](https://open.spotify.com/album/3Jikrtz0naGtIISTOMJGTs) | 8:23 | 2024-12-27 | 2025-01-17 |
 | [Thank You Jesus](https://open.spotify.com/track/6BbL2l5Ptx9iabQAKcgkLW) | [Sunshine Selina](https://open.spotify.com/artist/1XyIPknSFvejmmxUaptGjM), [Kofi Feelings](https://open.spotify.com/artist/16n4XJ3TeMgMNekPByp5wq) | [Jesus Confirm for Me](https://open.spotify.com/album/4byqoQaRGjxCnpNVyCvyxw) | 4:52 | 2023-09-15 | 2023-09-29 |
 | [Thank You Lord](https://open.spotify.com/track/6LMfwtjd5Jb8HGYGbh8WRW) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Thank You Lord](https://open.spotify.com/album/1fDamWVt93V4xYZJegwaJH) | 2:12 | 2024-11-01 | 2024-11-15 |
+| [Thank You Lord](https://open.spotify.com/track/7IOH6Sp1LtHagmUw7VkaSd) | [Deejay Giovanni](https://open.spotify.com/artist/2ATPSqiRrNYrfKUBsq66Ez) | [Thank You Lord](https://open.spotify.com/album/69IxkUn2rTZvaGcQyW9tv7) | 3:30 | 2025-02-08 |  |
 | [Thank You Lord](https://open.spotify.com/track/5vy5AVFTef17Yt4dCTUc7s) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/42PSi4gIM6bxnOizuz5lcT) | 4:55 | 2023-06-09 | 2023-06-11 |
 | [Thank You Lord](https://open.spotify.com/track/6TWd4GIzS9qzEbDqtaqq6d) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 4:55 | 2023-06-09 | 2023-06-30 |
 | [Thank You Lord](https://open.spotify.com/track/3b7hoD6OLI8GrbbFBzTAes) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ) | [Thank You Lord](https://open.spotify.com/album/5XTB6jZUx1kvv33gsxFhym) | 2:12 | 2024-01-05 | 2024-01-19 |

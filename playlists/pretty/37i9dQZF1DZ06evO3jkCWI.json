@@ -1,29 +1,13 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 178445,
+  "num_followers": 178500,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6P7gAAAAADtqQXAe/C2XdoC5aqsOXsK",
+  "snapshot_id": "Z6VNAAAAAADeoS9OeE1c+3603b5lRhi7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Calabaceado",
-        "url": "https://open.spotify.com/album/70CuV3x2GVtz0b6LI48r4S"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 160416,
-      "name": "El Calabaceado",
-      "url": "https://open.spotify.com/track/1oJHl4NMi38rzFTlEItTHF"
-    },
     {
       "added_at": null,
       "album": {
@@ -803,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+        "name": "El Calabaceado",
+        "url": "https://open.spotify.com/album/70CuV3x2GVtz0b6LI48r4S"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 155853,
-      "name": "Para Que Te Explico",
-      "url": "https://open.spotify.com/track/3mW8bXieHXCdohaf4pGHmc"
+      "duration_ms": 160416,
+      "name": "El Calabaceado",
+      "url": "https://open.spotify.com/track/1oJHl4NMi38rzFTlEItTHF"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sef",
-  "num_followers": 9855,
+  "num_followers": 9854,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-07 13:57:37",
       "album": {
-        "name": "Sorry Lul",
-        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 167968,
-      "name": "Sorry Lul",
-      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
-    },
-    {
-      "added_at": "2025-02-07 13:57:37",
-      "album": {
         "name": "Naamloze Liefde",
         "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2025-02-07 13:57:37",
       "album": {
-        "name": "Doe Eens Raar",
-        "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
+        "name": "Sorry Lul",
+        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
       },
       "artists": [
         {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 227320,
-      "name": "Doe Eens Raar",
-      "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
+      "duration_ms": 167968,
+      "name": "Sorry Lul",
+      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
+    },
+    {
+      "added_at": "2025-02-07 13:57:37",
+      "album": {
+        "name": "Ik Weet Het",
+        "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "duration_ms": 241833,
+      "name": "Ik Weet Het",
+      "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
     }
   ],
   "unique_name": "indiepuntnl",

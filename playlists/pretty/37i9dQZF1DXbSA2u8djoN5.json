@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Petre Stefan ",
-  "num_followers": 19894,
+  "num_followers": 19908,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -227,7 +227,7 @@
     {
       "added_at": "2025-02-06 22:00:22",
       "album": {
-        "name": "Charleroi",
+        "name": "CHARLEROI",
         "url": "https://open.spotify.com/album/18Qsg0RdnZGUF78HNPwhGD"
       },
       "artists": [
@@ -245,7 +245,7 @@
         }
       ],
       "duration_ms": 158888,
-      "name": "Charleroi",
+      "name": "CHARLEROI",
       "url": "https://open.spotify.com/track/2N13hNEZevTvfUDGEWv82s"
     },
     {
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-02-06 22:00:22",
       "album": {
-        "name": "Nimic Nou",
-        "url": "https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R"
-      },
-      "artists": [
-        {
-          "name": "Guess Who",
-          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Nimic Nou",
-      "url": "https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX"
-    },
-    {
-      "added_at": "2025-02-06 22:00:22",
-      "album": {
         "name": "Lacrimi",
         "url": "https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F"
       },
@@ -931,6 +915,42 @@
     {
       "added_at": "2025-02-06 22:00:22",
       "album": {
+        "name": "Nimic Nou",
+        "url": "https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R"
+      },
+      "artists": [
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Nimic Nou",
+      "url": "https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX"
+    },
+    {
+      "added_at": "2025-02-06 22:00:22",
+      "album": {
+        "name": "TURURU",
+        "url": "https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK"
+      },
+      "artists": [
+        {
+          "name": "Satra B.E.N.Z.",
+          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
+        },
+        {
+          "name": "Alduts Sherdley",
+          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "TURURU",
+      "url": "https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw"
+    },
+    {
+      "added_at": "2025-02-06 22:00:22",
+      "album": {
         "name": "PATEK",
         "url": "https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz"
       },
@@ -943,22 +963,6 @@
       "duration_ms": 145680,
       "name": "PATEK",
       "url": "https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC"
-    },
-    {
-      "added_at": "2025-02-06 22:00:22",
-      "album": {
-        "name": "BAGS IN THIS B*TCH",
-        "url": "https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 138808,
-      "name": "BAGS IN THIS B*TCH",
-      "url": "https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD"
     }
   ],
   "unique_name": "Suflet + Sunet",

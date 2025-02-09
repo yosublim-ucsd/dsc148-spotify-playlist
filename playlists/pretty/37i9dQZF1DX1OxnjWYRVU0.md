@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,656 likes - 368 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,704 likes - 368 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 218 | [Behind Blue Eyes](https://open.spotify.com/track/20KFNGwMD8uBi1dLnBrwBu) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Behind Blue Eyes](https://open.spotify.com/album/700g5u6KFe0ILh9JkcTElh) | 2:05 |
 | 219 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg) | [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA) | 2:38 |
 | 220 | [Astronaut In The Ocean](https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Astronaut In The Ocean](https://open.spotify.com/album/4QxNGi6jYv1kGGluY7jqa7) | 3:01 |
-| 221 | [Eyes for U \(feat\. Conor Maynard & Gia Koka\)](https://open.spotify.com/track/3xThx06ANxb5a4ftqJcJWO) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Eyes for U \(feat\. Conor Maynard & Gia Koka\)](https://open.spotify.com/album/5nHfDJJDjB9jGM3UksJSBz) | 2:38 |
+| 221 | [Eyes for U](https://open.spotify.com/track/3xThx06ANxb5a4ftqJcJWO) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Eyes for U](https://open.spotify.com/album/5nHfDJJDjB9jGM3UksJSBz) | 2:38 |
 | 222 | [Clint Eastwood](https://open.spotify.com/track/1hzT2Tv7whPOSMzXZDwIKp) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [IMKK](https://open.spotify.com/artist/5dtKB0tw4Yc39wYRzA9u4R) | [Clint Eastwood](https://open.spotify.com/album/7qcJuxZEUDrqSdAkaxhFmd) | 2:36 |
 | 223 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN) | 2:12 |
 | 224 | [In the Shadows](https://open.spotify.com/track/08CHIJpxNSHJzxAfvkbQlc) | [JETFIRE](https://open.spotify.com/artist/1flYnVP7znbiEcL0ELwwTt), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [In the Shadows](https://open.spotify.com/album/0QgbNWzG6iH9F9oUtl2lIT) | 2:20 |

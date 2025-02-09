@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-748 songs - 1 day 20 hr 35 min
+749 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [La Serrana](https://open.spotify.com/track/01h6ipg9kKVRfBpTywnKhb) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [La Serrana](https://open.spotify.com/album/5l0f2RgDat84Z7xWUM5zgS) | 4:25 | 2024-01-26 | 2024-06-01 |
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 | 2023-01-17 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-13 | 2022-10-20 |
+| [La Trágica](https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH) | [Lucía Alegría](https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA) | [Una Fiesta al Desorden](https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI) | 3:23 | 2025-02-07 |  |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [La vida en otra parte](https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi) | [Laura Sam](https://open.spotify.com/artist/4lDwIdqBduUlK8N5HPACoL), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [La vida en otra parte](https://open.spotify.com/album/3GcMR5xfbaznzu5Sl9k0HH) | 3:28 | 2024-04-12 | 2024-05-10 |
 | [La vida es movimiento](https://open.spotify.com/track/56KO0oH5JuAMK88KCfLU0a) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [La vida es movimiento](https://open.spotify.com/album/2aLyrOI9Sw2X2ZgMz4AATL) | 3:23 | 2024-05-30 | 2024-07-27 |
@@ -497,7 +498,7 @@
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
-| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 |  |
+| [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 | 2022-07-08 | 2025-02-09 |
 | [Pan de muertos](https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Pan de muertos](https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D) | 3:16 | 2024-11-22 |  |
 | [papel de fumar](https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [papel de fumar](https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo) | 3:39 | 2024-03-08 | 2024-04-20 |
 | [Para adelante](https://open.spotify.com/track/5e7gh9uiFIgahfcf8CyXRF) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Para adelante](https://open.spotify.com/album/0lG5a8ExT3lwwF2nww96Nh) | 3:51 | 2023-03-10 | 2023-03-25 |

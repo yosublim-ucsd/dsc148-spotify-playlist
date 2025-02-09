@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn"
+      },
+      "artists": [
+        {
+          "name": "Tevvez",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189679,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"
+    },
+    {
+      "album": {
         "name": "LIE DOWN!",
         "url": "https://open.spotify.com/album/3ENTKZGQ72k4Pyp4sSQ2fj"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"

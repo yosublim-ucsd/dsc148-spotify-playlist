@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 197500,
       "name": "crush",
       "url": "https://open.spotify.com/track/6aHp4EdjW0hoUOC61wXRAm"
@@ -6027,7 +6027,7 @@
     },
     {
       "album": {
-        "name": "Hey Girl(s)",
+        "name": "Hey Girl (s)",
         "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
       },
       "artists": [
@@ -9988,6 +9988,24 @@
       "duration_ms": 170880,
       "name": "Misty in Matakana",
       "url": "https://open.spotify.com/track/4FtQayeU7UN8tsUHGUfPqi"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa Smile",
+        "url": "https://open.spotify.com/album/1uHymd2eSx7ch8RDKBAzIC"
+      },
+      "artists": [
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215418,
+      "name": "Mona Lisa Smile",
+      "url": "https://open.spotify.com/track/0sjhlV2MhCYGtPlYhuplD6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 407 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 407 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 121 | [Yours](https://open.spotify.com/track/3bIwAXfM99wdms6GICC7ej) | [Glen Porter](https://open.spotify.com/artist/6Iuyxid73G505WDnHEBPup) | [Falling Down](https://open.spotify.com/album/0ifAn9LEzZezePNs0KGT8A) | 3:47 |
 | 122 | [Paris Loves Lovers](https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9) | [Fred Astaire \(performer\), Carol Richards \(performer\)](https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:43 |
 | 123 | [Public Enemy Number One](https://open.spotify.com/track/0I82oheV2eznrBuvV77Czo) | [Walter Charles](https://open.spotify.com/artist/1CSOISjpvsUqFVaM9z6QTr), [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/1SDhiS0uh2gJfCqE82bcT1) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:37 |
-| 124 | [You Remind Me](https://open.spotify.com/track/0l9eRY4OJhLkaQlh28Eh6j) | [Chris Porter](https://open.spotify.com/artist/4657QEJIOQnfUJq3hyuNtc) | [You Remind Me](https://open.spotify.com/album/5t9t1MXA6rsbysqK673nM8) | 2:58 |
-| 125 | [One Summer Night](https://open.spotify.com/track/5KRqJROO01v6gJYBiI8eZF) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Dance With Me](https://open.spotify.com/album/3Ru54yj2eYlR23YqGtZYPJ) | 2:32 |
+| 124 | [One Summer Night](https://open.spotify.com/track/5KRqJROO01v6gJYBiI8eZF) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Dance With Me](https://open.spotify.com/album/3Ru54yj2eYlR23YqGtZYPJ) | 2:32 |
+| 125 | [You Remind Me](https://open.spotify.com/track/0l9eRY4OJhLkaQlh28Eh6j) | [Chris Porter](https://open.spotify.com/artist/4657QEJIOQnfUJq3hyuNtc) | [You Remind Me](https://open.spotify.com/album/5t9t1MXA6rsbysqK673nM8) | 2:58 |
 | 126 | [You're Sensational](https://open.spotify.com/track/6LVGUVtdGyGp7iQSxJrwVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [FRANK SINATRA INTEGRAL 1953 \- 1956](https://open.spotify.com/album/3xQiGu3QVKalhMdfTpYq2q) | 3:53 |
 | 127 | [Le Noël des petits Santons \- Remasterisé en 2018](https://open.spotify.com/track/4WwozU71N41RbmZkLESU5m) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [C'est la belle nuit de Noël \(Remasterisé en 2018\)](https://open.spotify.com/album/2w76BNDmiXLnfYbsDjEbJe) | 3:11 |
 | 128 | [High Society](https://open.spotify.com/track/3Q7lmoYtGUI5npEm3bsdU2) | [Louis Armstrong And The All\-Stars](https://open.spotify.com/artist/3KvGtmDDpEUkfyW09R6kYS) | [King Louis](https://open.spotify.com/album/4P81dhj7mDhuQvbhtCXYX1) | 3:59 |
@@ -406,8 +406,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 396 | [Wir Sind Mädchen Typisch Für Paris \(Maidens Typical Of France\) \(From Can\-Can\)](https://open.spotify.com/track/1ziahFa8dPe7yBSzPH1H9c) | [Musical Company](https://open.spotify.com/artist/5f4z9OMBKdBn67jXFTZ7hP) | [Soundtrack Masters: Wilkommen](https://open.spotify.com/album/1qoa6atQwIYiplXoZjlA8I) | 2:20 |
 | 397 | [The Extra Man](https://open.spotify.com/track/5EQvtVMJO3vvi0NldcKn90) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7) | [Chip Deffaa's My Man: Songs of Gay Love, Lust, Loss, And Longing...](https://open.spotify.com/album/1UkxPhynW5HPhPANlVx9Mm) | 2:38 |
 | 398 | [When I Was A Little Cuckoo](https://open.spotify.com/track/3hucaRW0QgCTAaih6PtU23) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/4ppiu14KbWmJ0bICpNQyRP) | 2:27 |
-| 399 | [When the Summer Moon Comes 'Long](https://open.spotify.com/track/5qTaBWzWOMdYfaUZRBuW7r) | [Steve Ross](https://open.spotify.com/artist/7rBcOJleNppinAuzR8S3ZX) | [Steve Ross & Cole Porter \- Close](https://open.spotify.com/album/6oU8VYiIchZhnmkTfKWuP1) | 2:43 |
-| 400 | [Is It the Girl or Is It the Gown?](https://open.spotify.com/track/0xidk6W7ZAO8lQSbjWtkYd) | [Stephen Bogardus](https://open.spotify.com/artist/7qGitvYBnbiDSaYGHp7TxR) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 2:46 |
+| 399 | [Is It the Girl or Is It the Gown?](https://open.spotify.com/track/0xidk6W7ZAO8lQSbjWtkYd) | [Stephen Bogardus](https://open.spotify.com/artist/7qGitvYBnbiDSaYGHp7TxR) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 2:46 |
+| 400 | [When the Summer Moon Comes 'Long](https://open.spotify.com/track/5qTaBWzWOMdYfaUZRBuW7r) | [Steve Ross](https://open.spotify.com/artist/7rBcOJleNppinAuzR8S3ZX) | [Steve Ross & Cole Porter \- Close](https://open.spotify.com/album/6oU8VYiIchZhnmkTfKWuP1) | 2:43 |
 | 401 | [Lay This Body Down / I Want to Go Home](https://open.spotify.com/track/4fDzzK2vsRDS0NR5Jr1cQM) | [Cile Turner](https://open.spotify.com/artist/1BI7On628H7NSL36U65FpO) | [Makin' Glory](https://open.spotify.com/album/4Jl5SSawC1ikw6sgBqm9sD) | 3:21 |
 | 402 | [Thank You So Much Mrs\. Lowsborough\-Goodby](https://open.spotify.com/track/6TzgQd0cfn4OaNkJYtc0it) | [Ambrose](https://open.spotify.com/artist/0iKiwo4LTF4E2EsJwcNZyF) | [Tribute To Cole Porter](https://open.spotify.com/album/3wFy6UAW8UC5rfN9Lj9dpZ) | 3:16 |
 | 403 | [Pick Me Up and Lay Me Down](https://open.spotify.com/track/2Zo116V06QDbq3LdmW2AHk) | [Valerie Anastasio & Tim Harbold](https://open.spotify.com/artist/6HWnY95H21n6B8mKzaKjvc) | [Give 'em the Oo\-La\-La](https://open.spotify.com/album/6oDkJzUJvR3FWUhjBGPL1Y) | 3:58 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Abo+7AAAAAC6aDb3njQAYC91ARwJM7x8`
+Snapshot ID: `AbpEvgAAAACr6WOZKelSrwm5GYEj9AN/`

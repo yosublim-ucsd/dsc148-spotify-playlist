@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > teto tetin cs \- onde ele tá nada disso importa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,613 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,629 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 43 | [2024](https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [2024](https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl) | 2:40 |
 | 44 | [MODA](https://open.spotify.com/track/4GONOtCdIdl7hspqqgx0UD) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [OG AKA ENT](https://open.spotify.com/album/5yPaX4Gr9NZDkgb1v7ppA2) | 1:22 |
 | 45 | [Os Menino da Nova](https://open.spotify.com/track/1okn8NTTHVQuP4hghJi2Ec) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Os Menino da Nova](https://open.spotify.com/album/60YBXfUxCUhklWqyPULaY0) | 2:17 |
-| 46 | [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
+| 46 | [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
 | 47 | [Bag](https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Bag](https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP) | 3:44 |
 | 48 | [Um Mano Discreto \(feat\. Mc Luanna\)](https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [AINDA NO MESMO BAIRRO](https://open.spotify.com/album/0MgSMuYtpk9VLGrR5h3LcG) | 2:31 |
 | 49 | [Eles Me Odeiam](https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Eles Me Odeiam](https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k) | 3:07 |

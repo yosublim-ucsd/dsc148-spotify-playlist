@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Lia Kali, Eladio Carrion",
-  "num_followers": 515168,
+  "num_followers": 515344,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
@@ -159,13 +159,21 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Hola mami (Directo)",
+        "name": "Hola mami",
         "url": "https://open.spotify.com/album/2SKDAsBPgyTgRod6gMayLZ"
       },
       "artists": [
         {
           "name": "Yng Lvcas",
           "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        },
+        {
+          "name": "Aivan Beatz",
+          "url": "https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb"
         }
       ],
       "duration_ms": 220827,

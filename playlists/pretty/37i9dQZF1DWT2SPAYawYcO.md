@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,144 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,195 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 63 | [Poison](https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [Poison](https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2) | 3:25 |
 | 64 | [MissU2](https://open.spotify.com/track/5sQG8BxOpvjISf0FWOikzQ) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [MissU2](https://open.spotify.com/album/6agd6cfsMIg7puACJnL7Xu) | 3:40 |
 | 65 | [Nerve](https://open.spotify.com/track/31Q5vXemKsdpSBGEyNTNCx) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Nerve](https://open.spotify.com/album/6217G8cp3DohoFXef2elzd) | 2:32 |
-| 66 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl\(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
+| 66 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
 | 67 | [What's It Like](https://open.spotify.com/track/0sbQakBa4DM2ITECNnDlhR) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [What's It Like](https://open.spotify.com/album/2IUoATElmdBv8jJgvNcYnx) | 2:42 |
 | 68 | [all the bruises](https://open.spotify.com/track/4H4yQNVDntVxQFHGTIie6h) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Stay with the Horses](https://open.spotify.com/album/7q6xAkRAi58Yzar45WLZq3) | 3:33 |
 | 69 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |

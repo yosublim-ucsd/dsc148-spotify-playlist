@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 162051,
+  "num_followers": 162082,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,30 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "CHARGIE",
+        "url": "https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        }
+      ],
+      "duration_ms": 139457,
+      "name": "CHARGIE",
+      "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "No One Does It Like",
         "url": "https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ"
       },
@@ -499,30 +523,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "CHARGIE",
-        "url": "https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        },
-        {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
-        }
-      ],
-      "duration_ms": 139457,
-      "name": "CHARGIE",
-      "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "The Energiser",
         "url": "https://open.spotify.com/album/6iDMk2c4HkGc5hS93bCtSx"
       },
@@ -535,6 +535,26 @@
       "duration_ms": 209708,
       "name": "The Energiser",
       "url": "https://open.spotify.com/track/5pnQtywOCWO5yVG0ijAzt3"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0UzMLcEabs37Ba6XC5X8Ij"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        },
+        {
+          "name": "Ekko & Sidetrack",
+          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -559,26 +579,6 @@
       "duration_ms": 171372,
       "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
       "url": "https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0UzMLcEabs37Ba6XC5X8Ij"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        },
-        {
-          "name": "Ekko & Sidetrack",
-          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3R4WdX1bQ5S8QPZankvZxa"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -707,6 +707,30 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        },
+        {
+          "name": "System F",
+          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 240344,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Waited All Night (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 189249,
       "name": "Waited All Night - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC"
-      },
-      "artists": [
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        },
-        {
-          "name": "System F",
-          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 240344,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "If We Ever (Remixes)",
+        "url": "https://open.spotify.com/album/3yyGJtGzasr89dJ117h2ML"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        }
+      ],
+      "duration_ms": 367976,
+      "name": "If We Ever - Unglued VIP Remix",
+      "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Abomination",
         "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 155056,
       "name": "I Miss The Old Macky",
       "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "If We Ever (Remixes)",
-        "url": "https://open.spotify.com/album/3yyGJtGzasr89dJ117h2ML"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        },
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        }
-      ],
-      "duration_ms": 367976,
-      "name": "If We Ever - Unglued VIP Remix",
-      "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Call The Hurse",
         "url": "https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 169431,
       "name": "Call The Hurse",
       "url": "https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Mwah! (I'm That Bitch)",
         "url": "https://open.spotify.com/album/3yG8lSOzlMQS1lungwRE1h"
       },
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
       },
       "artists": [
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        },
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
         }
       ],
-      "duration_ms": 189500,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Home In That Bass",
-        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
-      },
-      "artists": [
-        {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Home In That Bass",
-      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "This Is Goodbye",
         "url": "https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 219428,
       "name": "This Is Goodbye",
       "url": "https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Told You (Soundboy)",
+        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        }
+      ],
+      "duration_ms": 178971,
+      "name": "Told You (Soundboy)",
+      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Told You (Soundboy)",
-        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        }
-      ],
-      "duration_ms": 178971,
-      "name": "Told You (Soundboy)",
-      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Nancy Junglist",
         "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
       },
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/3z7Y1mksmDZGk7Cvk3TVQl"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 233023,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/0LwOLrPH6AM9Kd82rm1v4B"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1519,6 +1519,30 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "99 Octane",
+        "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "99 Octane",
+      "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Underground Supply",
         "url": "https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj"
       },
@@ -1535,30 +1559,6 @@
       "duration_ms": 252607,
       "name": "Underground Supply",
       "url": "https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "We No Care",
-        "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
-      },
-      "artists": [
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
-        },
-        {
-          "name": "Sola",
-          "url": "https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "We No Care",
-      "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
     }
   ],
   "unique_name": "Proper Naughty ",

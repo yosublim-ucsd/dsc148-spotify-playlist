@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 10966,
+  "num_followers": 10968,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6P7gAAAAADngSnWrK0y44TWDCxp56wt",
+  "snapshot_id": "Z6VNAAAAAADqwJ8FRFgorDCzeHMNQ2f7",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 145946,
-      "name": "Yoke",
-      "url": "https://open.spotify.com/track/6pmNRKHIbO8hTmhLNZpA0p"
+      "duration_ms": 248112,
+      "name": "Canada Square",
+      "url": "https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 248112,
-      "name": "Canada Square",
-      "url": "https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW"
+      "duration_ms": 145946,
+      "name": "Yoke",
+      "url": "https://open.spotify.com/track/6pmNRKHIbO8hTmhLNZpA0p"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 124977,
-      "name": "1104 Porter St",
-      "url": "https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx"
+      "duration_ms": 123589,
+      "name": "Skip Town",
+      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 123589,
-      "name": "Skip Town",
-      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
+      "duration_ms": 124977,
+      "name": "1104 Porter St",
+      "url": "https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx"
     },
     {
       "added_at": null,

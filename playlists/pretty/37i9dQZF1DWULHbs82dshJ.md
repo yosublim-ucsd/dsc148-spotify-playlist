@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > O Trap Mais Caro apresenta..\. O Melhor do Trap 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,258 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,343 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 41 | [Posturado e Calmo \(feat\. Anitta\)](https://open.spotify.com/track/5Goi3tmKtsXhqm875FBGbD) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 2:56 |
 | 42 | [SUV](https://open.spotify.com/track/1SxlyYU0KcI0wGLBtFObjg) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [SEMRÉH](https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw) | 2:23 |
 | 43 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 |
-| 44 | [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
+| 44 | [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 |
 | 45 | [Dueto](https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Vnoahh](https://open.spotify.com/artist/1qo3Lj86g1pMIBzgK7OaWl), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:19 |
 | 46 | [Morena](https://open.spotify.com/track/4pjx7niz7aUfoOJOSW0BLM) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Morena](https://open.spotify.com/album/6R4KQPAhbEZVBgyjuh2mYp) | 2:41 |
 | 47 | [Objetivo](https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Objetivo](https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83) | 3:00 |

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Behemoth
 
-684 songs - 2 day 10 hr 42 min
+685 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Cosmic Keys To My Creations](https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/0kzYmtQyUN3WfoGsFZL9Jd) | 6:22 | 2022-07-13 | 2023-02-22 |
 | [Cosmic Keys To My Creations](https://open.spotify.com/track/2PCkhY491TTMh6huRR0sVP) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath Of The Tyrant](https://open.spotify.com/album/5xlWZg5A1euPjkSDUxCaLL) | 6:22 | 2023-09-01 | 2024-03-22 |
 | [Cosmic Keys to My Creations and Times \- Emperor EP](https://open.spotify.com/track/2Dm4omgxnNrLchOhyVriSC) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Emperor / Wrath of the Tyrant](https://open.spotify.com/album/6oF6z5RZWANz1V2q0qQp2L) | 6:22 | 2022-07-13 | 2022-07-28 |
+| [Covenant](https://open.spotify.com/track/4G2PngCnKKMUIEbpQkquXe) | [Ponte del Diavolo](https://open.spotify.com/artist/4mAfr0B2wgIFbVBUAv9btD) | [Fire Blades From The Tomb](https://open.spotify.com/album/0tTv0uyvaoYehKel1wyIcp) | 6:56 | 2025-01-30 |  |
 | [Cradle of Insanity](https://open.spotify.com/track/0yZtGvT7RgxjncYE0Pg9fV) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Cradle of Insanity](https://open.spotify.com/album/39Vuf7tc9kQQWreq0m3kyp) | 5:15 | 2022-05-13 | 2022-07-29 |
 | [Crime & Castigo](https://open.spotify.com/track/5zWrHra7s2PdCD3diJsQ2U) | [Hatefulmurder](https://open.spotify.com/artist/6gzTPz8NipWH2EBUPw1CPy) | [Crime & Castigo](https://open.spotify.com/album/0ZHPGYQJGwJo1amjYy3h2T) | 3:09 | 2024-01-26 | 2024-02-17 |
 | [Cruelty Brought Thee Orchids](https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Cruelty & The Beast](https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7) | 7:18 | 2022-07-13 |  |
@@ -656,7 +657,7 @@
 | [Voces Ab Alta](https://open.spotify.com/track/2dYYziGqbCMgX1Y4yYWDUp) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Voces Ab Alta](https://open.spotify.com/album/1DdYqnJfJaXcpJq9TUW9Xj) | 5:39 | 2021-12-17 | 2022-03-11 |
 | [Vomiting Void](https://open.spotify.com/track/7zRN92DMeBbCcwMEBsS3Iy) | [Ciemra](https://open.spotify.com/artist/2jQQJhLOvicHLW0obfFDvx) | [Vomiting Void](https://open.spotify.com/album/1mrbD6kLf00SOGzSDvzywo) | 3:52 | 2023-02-15 | 2023-04-22 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 |  |
-| [Wake Up Dead](https://open.spotify.com/track/3QlNgS3CTKcvz8m56JHXiJ) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Wake Up Dead](https://open.spotify.com/album/3BA95B0H7oMeygWF7S66mv) | 3:04 | 2023-12-07 |  |
+| [Wake Up Dead](https://open.spotify.com/track/3QlNgS3CTKcvz8m56JHXiJ) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Wake Up Dead](https://open.spotify.com/album/3BA95B0H7oMeygWF7S66mv) | 3:04 | 2023-12-07 | 2025-02-09 |
 | [War Against All](https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/42itntO9qiIkUewMznm08m) | 3:26 | 2023-04-07 | 2023-05-28 |
 | [War Against All](https://open.spotify.com/track/4IQ6qp5TsASmn2BIT42sy1) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 3:26 | 2023-05-26 | 2023-06-24 |
 | [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 | 2023-07-22 |

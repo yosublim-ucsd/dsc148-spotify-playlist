@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Wrong Way Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,653 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,654 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 28 | [Sweet Sweet Music](https://open.spotify.com/track/7pYcwzmtHcKgXtsttdBDeS) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Sweet Sweet Music](https://open.spotify.com/album/1LL3FpXp6BN3DvaJ6ub2eu) | 3:13 |
 | 29 | [take me by the hand](https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand](https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr) | 2:51 |
 | 30 | [Hypnagogic](https://open.spotify.com/track/19YzjlwTGVCoeCp4l38aXA) | [Intermood](https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG) | [Hypnagogic](https://open.spotify.com/album/3ELHI8IOc8XpEkjAdPVAN9) | 8:40 |
-| 31 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl\(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
+| 31 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
 | 32 | [The Carneddau](https://open.spotify.com/track/3Au19kSCoWjDYuPSpqIbI3) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Carneddau](https://open.spotify.com/album/70FNp4g9iicdyNCO864MhI) | 3:51 |
 | 33 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 |
 | 34 | [Red Dove](https://open.spotify.com/track/7hwH77nKpUEbNB6ybtXzxi) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Red Dove](https://open.spotify.com/album/1E5NnS5tTDRMRecrPUGXvu) | 3:59 |

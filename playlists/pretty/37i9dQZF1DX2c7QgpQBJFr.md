@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: Carla Hero
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,792 likes - 120 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,806 likes - 120 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 12 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 13 | [COSA?](https://open.spotify.com/track/3B1MFBygjwgaiN7aQJbQ8b) | [Jemel](https://open.spotify.com/artist/52xT2TuMy5NKiKE5abawy4), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [COSA?](https://open.spotify.com/album/6mBbGPCvB3jTCoFQqPFJHU) | 2:46 |
 | 14 | [TUTTI I MOTIVI](https://open.spotify.com/track/6ifiFJMpGOD45b4VE2fMJj) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [BRILLEREMO](https://open.spotify.com/album/4HI6AXLqgdUFyFWYT5r7Bi) | 2:15 |
-| 15 | [Prenderti](https://open.spotify.com/track/5IqFagR69pqHJ7Pd98GxGv) | [Roden](https://open.spotify.com/artist/6WnaCSqkD179sgtAkzPKvP), [Sils](https://open.spotify.com/artist/5ncMkdLRV7sGZGZjlzQhih) | [Prenderti](https://open.spotify.com/album/1l9QVYgYkHVS9eZipM3dkR) | 2:51 |
+| 15 | [Prenderti](https://open.spotify.com/track/5IqFagR69pqHJ7Pd98GxGv) | [Roden](https://open.spotify.com/artist/6WnaCSqkD179sgtAkzPKvP), [sils](https://open.spotify.com/artist/4K0j9fash3WpgUw7uhZKo8) | [Prenderti](https://open.spotify.com/album/1l9QVYgYkHVS9eZipM3dkR) | 2:51 |
 | 16 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 |
 | 17 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 |
 | 18 | [TI SENTI FRAGILE](https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [TI SENTI FRAGILE](https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3) | 2:04 |

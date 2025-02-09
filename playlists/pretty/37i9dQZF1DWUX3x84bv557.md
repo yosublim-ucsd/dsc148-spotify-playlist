@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Hannah Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,437 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,417 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deze Plek](https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/4AtOJ3QhLmFPZ7RdsuT7tc) | 3:09 |
 | 2 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
-| 3 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 |
-| 4 | [O.N.S.](https://open.spotify.com/track/2c2TO8EYrrGGmqX1AfkxFj) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Juultje Tieleman](https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK) | [O.N.S.](https://open.spotify.com/album/29CDkeqi0F9a3M61aitDjX) | 2:49 |
+| 3 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
+| 4 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 |
 | 5 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
-| 6 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
+| 6 | [O.N.S.](https://open.spotify.com/track/2c2TO8EYrrGGmqX1AfkxFj) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Juultje Tieleman](https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK) | [O.N.S.](https://open.spotify.com/album/29CDkeqi0F9a3M61aitDjX) | 2:49 |
 | 7 | [Als Ik Je Later Weer Zie](https://open.spotify.com/track/7day754wnySWAD13AGVZM2) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Als Ik Je Later Weer Zie](https://open.spotify.com/album/37gH35rFNpAHYFUtQqQpJ4) | 3:48 |
 | 8 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 |
 | 9 | [Dilemma](https://open.spotify.com/track/0aaHREbGi6WYkihcLMtGB2) | [Denise Kroes](https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6) | [Dilemma](https://open.spotify.com/album/5EuDRJqTmvzvG2FTIOpZRc) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 64 | [smeken staat ons beide niet](https://open.spotify.com/track/4NGJwHVKyD8NsM1dpljzaa) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE) | [smeken staat ons beide niet](https://open.spotify.com/album/1oGrS9Y00pM6pcdXSzxSce) | 3:31 |
 | 65 | [Stewardess](https://open.spotify.com/track/2uu4nNPZnvyBQuZoEdStge) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Stewardess](https://open.spotify.com/album/4nDQI6KJ6PPyAuNlGepb15) | 2:15 |
 
-Snapshot ID: `Z6XHiAAAAACTU7vAPKXqSi+dTRXENCox`
+Snapshot ID: `Z6fDLwAAAAAacMBI74/V38R22M/HXPgL`

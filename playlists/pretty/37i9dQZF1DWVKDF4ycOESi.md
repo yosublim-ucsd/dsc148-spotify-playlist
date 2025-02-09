@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lady Gaga in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,750 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,776 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 48 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
 | 49 | [NERE PANTERE](https://open.spotify.com/track/4XUBzha7zrPeqpCZLLkjid) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [BAMBINI MOLOTOV](https://open.spotify.com/album/5T7lIdXQlz1bdWQpyhtnuw) | 2:53 |
 | 50 | [Ora Mi Passa](https://open.spotify.com/track/0C8yrNoe1xYsvvf17Qj73Z) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Ora Mi Passa](https://open.spotify.com/album/43K2Up7GyWcwDJXko0sS10) | 2:39 |
-| 51 | [Prenderti](https://open.spotify.com/track/5IqFagR69pqHJ7Pd98GxGv) | [Roden](https://open.spotify.com/artist/6WnaCSqkD179sgtAkzPKvP), [Sils](https://open.spotify.com/artist/5ncMkdLRV7sGZGZjlzQhih) | [Prenderti](https://open.spotify.com/album/1l9QVYgYkHVS9eZipM3dkR) | 2:51 |
+| 51 | [Prenderti](https://open.spotify.com/track/5IqFagR69pqHJ7Pd98GxGv) | [Roden](https://open.spotify.com/artist/6WnaCSqkD179sgtAkzPKvP), [sils](https://open.spotify.com/artist/4K0j9fash3WpgUw7uhZKo8) | [Prenderti](https://open.spotify.com/album/1l9QVYgYkHVS9eZipM3dkR) | 2:51 |
 | 52 | [Scrivimi il giorno](https://open.spotify.com/track/6zMr7aBQupWp5xnbErDDch) | [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [Scrivimi il giorno](https://open.spotify.com/album/34JsXFjJhAxIwTQAc5htHc) | 2:15 |
 | 53 | [Who Do You Love?](https://open.spotify.com/track/3zp7oZR40DR3cJEoPOSx0D) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [CRONIN](https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M) | [Who Do You Love?](https://open.spotify.com/album/0rOp11E18uEr0Jjjg4Ppj7) | 3:03 |
 | 54 | [feliz cumple!](https://open.spotify.com/track/3NuskDljBNVpv8RMZkxhfn) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [PALETTES](https://open.spotify.com/album/5Ie45xVMCc3v3ociTk2Afy) | 3:21 |

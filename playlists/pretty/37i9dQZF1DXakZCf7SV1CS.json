@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 86742,
+  "num_followers": 86758,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -811,8 +811,8 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "life is pain",
-        "url": "https://open.spotify.com/album/5um4xh5kyCRzBb6rU8fV3k"
+        "name": "detest me",
+        "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 93961,
-      "name": "life is pain",
-      "url": "https://open.spotify.com/track/4owlbKGHwB63hp7wPkw2gT"
+      "duration_ms": 118930,
+      "name": "detest me",
+      "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "hope u doing well",
-        "url": "https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE"
-      },
-      "artists": [
-        {
-          "name": "angelus",
-          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
-        }
-      ],
-      "duration_ms": 96653,
-      "name": "hope u doing well",
-      "url": "https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "GFOTYBUCKS",
         "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 205000,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "hope u doing well",
+        "url": "https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE"
+      },
+      "artists": [
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        }
+      ],
+      "duration_ms": 96653,
+      "name": "hope u doing well",
+      "url": "https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe"
     },
     {
       "added_at": "2024-10-09 21:55:22",

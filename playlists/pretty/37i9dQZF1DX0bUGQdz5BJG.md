@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Bryan Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,997 likes - 231 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,083 likes - 231 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 220 | [Something Else Tonight](https://open.spotify.com/track/4XKqmu09038HhgvHoWei4g) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [Something Else Tonight](https://open.spotify.com/album/6r3WHqjpam60FVvmxrxyMK) | 2:56 |
 | 221 | [Think of Somethin'](https://open.spotify.com/track/3jiVQ3bJBGEcAutotNwpZ1) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Think of Somethin'](https://open.spotify.com/album/1RHPPtF9zfFIcXzh3XRkjv) | 3:21 |
 | 222 | [Right Where We Left Off](https://open.spotify.com/track/5JyoezUiIiO8O4Dj5Vhrl4) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Right Where We Left Off](https://open.spotify.com/album/6gBQ46fv84zeT9tQEmfl4v) | 3:35 |
-| 223 | [Little Bit At A Time \- Single Version](https://open.spotify.com/track/30coIlYBNR9Ot198MV70fQ) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Little Bit At A Time \(Single Version\)](https://open.spotify.com/album/0wAIT5estABTT09S0q1Yqq) | 3:40 |
+| 223 | [Little Bit At A Time](https://open.spotify.com/track/30coIlYBNR9Ot198MV70fQ) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Little Bit At A Time \(Single\)](https://open.spotify.com/album/0wAIT5estABTT09S0q1Yqq) | 3:40 |
 | 224 | [The Tunnel](https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [The Tunnel](https://open.spotify.com/album/44v9jy2Eu3R3lBXecU6iFo) | 4:52 |
 | 225 | [Call Her Cowboy](https://open.spotify.com/track/71CFxvJKe1O7aHnDh6EVhd) | [Chris Andreucci](https://open.spotify.com/artist/4LZi4A4tswPptC1qZ9FA1q) | [Call Her Cowboy](https://open.spotify.com/album/4VkM9GZcWMvT2cftcP615w) | 2:26 |
 | 226 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |

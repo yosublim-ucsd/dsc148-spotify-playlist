@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-436 songs - 22 hr 14 min
+438 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [dream voyage](https://open.spotify.com/track/071keE1dQVjf9ErDpdZBDv) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [dream voyage](https://open.spotify.com/album/6imgVrU8qI0QumuPRF7vnh) | 3:27 | 2024-09-06 |  |
 | [Dreaming Away](https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Dreaming Away](https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS) | 1:57 | 2022-01-12 | 2022-02-19 |
 | [Drifting Away](https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 3:21 | 2022-01-12 | 2023-07-29 |
+| [Drifting Away](https://open.spotify.com/track/6vgt9C08zWhNydGa8QKs8h) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Drifting Away](https://open.spotify.com/album/5fhcqAlGARO7r9laf3q38M) | 2:52 | 2025-01-21 |  |
 | [Drifting Off](https://open.spotify.com/track/5TiVjzOby6jQLly9ijfyqs) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Drifting Off](https://open.spotify.com/album/5OW729RZszrzN0gVtXvhaw) | 2:21 | 2024-12-17 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-05 |  |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 | 2024-10-16 |
@@ -191,7 +192,7 @@
 | [Golden Horizon](https://open.spotify.com/track/0SlVNliuqyeuTxdd7P54Y8) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Golden Horizon](https://open.spotify.com/album/3gpEprZg7w6N7VGh4rvOkS) | 2:55 | 2025-01-21 |  |
 | [Gone walkabout](https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Gone walkabout](https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu) | 2:48 | 2022-01-19 | 2023-01-26 |
 | [Gratitude Frequency](https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Gratitude Frequency](https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl) | 2:24 | 2023-07-28 | 2024-10-16 |
-| [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-17 |  |
+| [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-17 | 2025-02-09 |
 | [Harmony of Resonance](https://open.spotify.com/track/06UmX9rsJq1BAjE2Io7D0r) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Harmony of Resonance](https://open.spotify.com/album/5jkxZyyHUdMOS9Hn0ydOwJ) | 2:28 | 2024-01-17 | 2024-02-08 |
 | [Hati](https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flow](https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv) | 2:43 | 2023-08-11 | 2025-01-02 |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2022-01-19 | 2022-04-19 |
@@ -380,11 +381,12 @@
 | [Spiritual Pressure](https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Somniac](https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX) | 2:50 | 2022-01-12 | 2023-07-29 |
 | [Split Desire](https://open.spotify.com/track/3d2DiXpatpWMKqE6BxrJy1) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:15 | 2022-04-13 | 2022-04-21 |
 | [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-07 |  |
-| [Star Landing](https://open.spotify.com/track/5bVoFNkEvizQkTX0ZIS3M7) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Forest Dreams](https://open.spotify.com/album/0Wvh866m5t5BxXeB866g9N) | 2:56 | 2023-03-10 |  |
+| [Star Landing](https://open.spotify.com/track/5bVoFNkEvizQkTX0ZIS3M7) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Forest Dreams](https://open.spotify.com/album/0Wvh866m5t5BxXeB866g9N) | 2:56 | 2023-03-10 | 2025-02-09 |
 | [Stargaze](https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Ascendent](https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4) | 2:39 | 2022-06-24 |  |
 | [Starlit Solace](https://open.spotify.com/track/5PjgkvFBUCr4EKqLoN01C6) | [Tranquil Nova](https://open.spotify.com/artist/1arRPBqUsxPJ0YxL7eZ1QY) | [Starlit Solace](https://open.spotify.com/album/3DJYbutHRmQ3beMWnK5sA3) | 2:46 | 2024-03-06 | 2024-03-21 |
 | [Stars Above](https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1) | [Gazebo Clouds](https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx) | [Partly Cloudy](https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03) | 3:43 | 2022-01-12 | 2024-01-18 |
 | [Start Again](https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Through it All](https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt) | 3:06 | 2022-01-12 | 2024-03-10 |
+| [Stay](https://open.spotify.com/track/4sSpGrqmO2lT3iDiaFU8Tu) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Flora](https://open.spotify.com/album/6DK4BWKtXmcObGitoU9D4j) | 7:39 | 2025-01-21 |  |
 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 | 2022-02-01 | 2024-01-18 |
 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2022-12-09 | 2024-12-18 |
 | [Stream Of Consciousness](https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Stream Of Consciousness](https://open.spotify.com/album/1NsfijePewYqh84KibLhCg) | 3:00 | 2022-01-12 | 2023-07-29 |

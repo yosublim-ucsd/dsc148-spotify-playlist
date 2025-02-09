@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Anything's Possible (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192905,
+      "name": "But I Like It",
+      "url": "https://open.spotify.com/track/19Eqx3fA0k5JG73e6TsgWA"
+    },
+    {
+      "album": {
         "name": "Music is Universal: Sing, Dance, Pride!",
         "url": "https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 192905,
       "name": "But I Like It",
       "url": "https://open.spotify.com/track/7e3znUhuOUghc1F9E8tk9n"
@@ -9864,10 +9882,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-09",
       "duration_ms": 167137,
       "name": "We",
       "url": "https://open.spotify.com/track/1SBCIiI483ojCyUIm0wWN7"
+    },
+    {
+      "album": {
+        "name": "Anything's Possible (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2025-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167137,
+      "name": "We",
+      "url": "https://open.spotify.com/track/6ml9seTJ2RNU74FO9cqigN"
     },
     {
       "album": {

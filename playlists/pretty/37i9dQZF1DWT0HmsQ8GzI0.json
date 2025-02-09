@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Blahalouisiana",
-  "num_followers": 14223,
+  "num_followers": 14230,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
+        "name": "MAG\u00c1NY\u00d6L\u0150",
+        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "MAG\u00c1NY\u00d6L\u0150",
+      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
         "name": "F\u00fcgg\u0151h\u00edd",
         "url": "https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 153005,
       "name": "F\u00fcgg\u0151h\u00edd",
       "url": "https://open.spotify.com/track/6zcsO14Ut0Dsmep5sev482"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
-        "name": "MAG\u00c1NY\u00d6L\u0150",
-        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
-      },
-      "artists": [
-        {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "MAG\u00c1NY\u00d6L\u0150",
-      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "Mengyelejev",
-        "url": "https://open.spotify.com/album/5p1oiSCrqASJ8uAaGiaWQa"
-      },
-      "artists": [
-        {
-          "name": "Mengyelejev",
-          "url": "https://open.spotify.com/artist/0gVykwcIxpAbirdqDPGpB5"
-        }
-      ],
-      "duration_ms": 204896,
-      "name": "Mengyelejev",
-      "url": "https://open.spotify.com/track/0glZz6OUVF5lwL5jktid2I"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "CsakNEONkisl\u00e1ny (szintetikus csnk sz\u00e1mok egy m\u00e1sik dimenzi\u00f3b\u00f3l)",
         "url": "https://open.spotify.com/album/3CGvOhL2QfHd5JLxrLJXB0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 190663,
       "name": "Szilikonkab\u00e1t",
       "url": "https://open.spotify.com/track/4SFwj5PFxfwQ6Ky24Mr347"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "Mengyelejev",
+        "url": "https://open.spotify.com/album/5p1oiSCrqASJ8uAaGiaWQa"
+      },
+      "artists": [
+        {
+          "name": "Mengyelejev",
+          "url": "https://open.spotify.com/artist/0gVykwcIxpAbirdqDPGpB5"
+        }
+      ],
+      "duration_ms": 204896,
+      "name": "Mengyelejev",
+      "url": "https://open.spotify.com/track/0glZz6OUVF5lwL5jktid2I"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 174957,
       "name": "T\u00e1rsas\u00e1gban",
       "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "Quatre Grapes",
         "url": "https://open.spotify.com/album/166W34UydwJ0pZlsNbrRKN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 210400,
       "name": "Quatre Grapes",
       "url": "https://open.spotify.com/track/4a8KAMlAAhdTuBxGnjS6Zc"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
+        "name": "Engem szeretni neh\u00e9z",
+        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
+      },
+      "artists": [
+        {
+          "name": "Wolf Kati",
+          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
+        },
+        {
+          "name": "Wolf Kati Band",
+          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
+        }
+      ],
+      "duration_ms": 242803,
+      "name": "Engem szeretni neh\u00e9z",
+      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
         "name": "N\u00e1rcisz",
         "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
-        "name": "Engem szeretni neh\u00e9z",
-        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
-      },
-      "artists": [
-        {
-          "name": "Wolf Kati",
-          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
-        },
-        {
-          "name": "Wolf Kati Band",
-          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
-        }
-      ],
-      "duration_ms": 242803,
-      "name": "Engem szeretni neh\u00e9z",
-      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
     },
     {
       "added_at": "2025-01-24 16:02:51",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-24 16:02:51",
       "album": {
-        "name": "H\u00e1zibuli",
-        "url": "https://open.spotify.com/album/4DwjYPRuhTHDAsfH6zc6P7"
-      },
-      "artists": [
-        {
-          "name": "Kisp\u00e1l \u00e9s a Borz",
-          "url": "https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c"
-        }
-      ],
-      "duration_ms": 257898,
-      "name": "H\u00e1zibuli",
-      "url": "https://open.spotify.com/track/1kH71Uy4Jb7AGzTP5AwDEJ"
-    },
-    {
-      "added_at": "2025-01-24 16:02:51",
-      "album": {
         "name": "beleszakad",
         "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 184000,
       "name": "beleszakad",
       "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+    },
+    {
+      "added_at": "2025-01-24 16:02:51",
+      "album": {
+        "name": "H\u00e1zibuli",
+        "url": "https://open.spotify.com/album/4DwjYPRuhTHDAsfH6zc6P7"
+      },
+      "artists": [
+        {
+          "name": "Kisp\u00e1l \u00e9s a Borz",
+          "url": "https://open.spotify.com/artist/71buZyotrHSZMVkSTcDY8c"
+        }
+      ],
+      "duration_ms": 257898,
+      "name": "H\u00e1zibuli",
+      "url": "https://open.spotify.com/track/1kH71Uy4Jb7AGzTP5AwDEJ"
     },
     {
       "added_at": "2025-01-24 16:02:51",
