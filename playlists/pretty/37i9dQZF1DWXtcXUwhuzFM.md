@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Senya.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,250 likes - 109 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,268 likes - 109 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 193827,
+  "num_followers": 193923,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Intra Mental",
-        "url": "https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al"
-      },
-      "artists": [
-        {
-          "name": "Stage Kids",
-          "url": "https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU"
-        }
-      ],
-      "duration_ms": 225514,
-      "name": "Delaylay",
-      "url": "https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "More Skin With Milk-Mouth",
         "url": "https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 232986,
       "name": "When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.",
       "url": "https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Intra Mental",
+        "url": "https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al"
+      },
+      "artists": [
+        {
+          "name": "Stage Kids",
+          "url": "https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU"
+        }
+      ],
+      "duration_ms": 225514,
+      "name": "Delaylay",
+      "url": "https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 174000,
       "name": "Baile Amargo",
       "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Beow",
-        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
-      },
-      "artists": [
-        {
-          "name": "Suffer Like G Did",
-          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
-        }
-      ],
-      "duration_ms": 208892,
-      "name": "Beow",
-      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 126789,
       "name": "Not To Follow",
       "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Beow",
+        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
+      },
+      "artists": [
+        {
+          "name": "Suffer Like G Did",
+          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
+        }
+      ],
+      "duration_ms": 208892,
+      "name": "Beow",
+      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
-        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Torino",
-      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Land Wars",
         "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 262666,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
+        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "For Long Tomorrow",
         "url": "https://open.spotify.com/album/6I6y9F6LgWdE1RRJ4wrhz5"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 165093,
       "name": "The Barnacle Beach",
       "url": "https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
       "added_at": "2024-09-20 00:01:00",

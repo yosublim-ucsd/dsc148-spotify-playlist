@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,414 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,816 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 6 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 7 | [Sound of Madness](https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:53 |
 | 8 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
-| 9 | [DArkSide](https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 2:45 |
-| 10 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
+| 9 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
+| 10 | [DArkSide](https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 2:45 |
 | 11 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
 | 12 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
 | 13 | [Pump It](https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 2:52 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 16 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 | 17 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 18 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
-| 19 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 |
-| 20 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
+| 19 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
+| 20 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 |
 | 21 | [Running In Circles](https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:53 |
-| 22 | [Hypa Hypa](https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [MMXX \- Hypa Hypa Edition](https://open.spotify.com/album/7uDmK1TgEQsyXTFn1eGPyF) | 3:33 |
-| 23 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
+| 22 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
+| 23 | [Hypa Hypa](https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [MMXX \- Hypa Hypa Edition](https://open.spotify.com/album/7uDmK1TgEQsyXTFn1eGPyF) | 3:33 |
 | 24 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
 | 25 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 |
 | 26 | [Into The Dark \(feat\. Kellin Quinn\)](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 48 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 |
 | 49 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
 | 50 | [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 |
-| 51 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
-| 52 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
+| 51 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
+| 52 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
 | 53 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 |
 | 54 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
 | 55 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 |

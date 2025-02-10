@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. rusowsky",
-  "num_followers": 215494,
+  "num_followers": 215488,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,26 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "0444",
         "url": "https://open.spotify.com/album/7GByXWVuaIqsG7tJRHrFsV"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 174692,
       "name": "Un \u00c1ngel",
       "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "Floren",
+        "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "damnpablo",
+          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
+        }
+      ],
+      "duration_ms": 198501,
+      "name": "Floren",
+      "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "BUEN\u00cdSIMO",
         "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
       },
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "Floren",
-        "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "damnpablo",
-          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
-        }
-      ],
-      "duration_ms": 198501,
-      "name": "Floren",
-      "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "MET\u00c1LICA",
         "url": "https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W"
       },
@@ -1243,22 +1243,46 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "MIRALMA",
-        "url": "https://open.spotify.com/album/5j0cJFF441FUTber2yHPNd"
+        "name": "no es amor",
+        "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
       },
       "artists": [
         {
-          "name": "IMX X.",
-          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
         },
         {
-          "name": "Dewuhu",
-          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
         }
       ],
-      "duration_ms": 136603,
-      "name": "SOUL EATER",
-      "url": "https://open.spotify.com/track/2anPSraAkJepJDDAaJgQTP"
+      "duration_ms": 194517,
+      "name": "no es amor",
+      "url": "https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "ADEL^NTOS ^^7^ 24",
+        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "1adaaaan",
+          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
+        }
+      ],
+      "duration_ms": 117986,
+      "name": "SOY TU MAM\u00c1",
+      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1295,42 +1319,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+        "name": "MIRALMA",
+        "url": "https://open.spotify.com/album/5j0cJFF441FUTber2yHPNd"
       },
       "artists": [
         {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 124478,
-      "name": "L\u00edmites",
-      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "no es amor",
-        "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+          "name": "IMX X.",
+          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
         },
         {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "La Finesse",
-          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
         }
       ],
-      "duration_ms": 194517,
-      "name": "no es amor",
-      "url": "https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX"
+      "duration_ms": 136603,
+      "name": "SOUL EATER",
+      "url": "https://open.spotify.com/track/2anPSraAkJepJDDAaJgQTP"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "ADEL^NTOS ^^7^ 24",
-        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
       },
       "artists": [
         {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "1adaaaan",
-          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
         }
       ],
-      "duration_ms": 117986,
-      "name": "SOY TU MAM\u00c1",
-      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
+      "duration_ms": 124478,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "q va",
-        "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
-      },
-      "artists": [
-        {
-          "name": "Serehiio",
-          "url": "https://open.spotify.com/artist/4V9TMF0bpvEOg3ZpygwyrZ"
-        },
-        {
-          "name": "Mariete",
-          "url": "https://open.spotify.com/artist/1HMgcN78ihS1AsXaPBwSTx"
-        }
-      ],
-      "duration_ms": 106187,
-      "name": "q va",
-      "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "CUTE",
         "url": "https://open.spotify.com/album/0BF7WXthRwQS2Z3ZY0dm71"
       },
@@ -1571,22 +1551,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "GUSTARLE A TU ABUELA",
-        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
+        "name": "q va",
+        "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
       },
       "artists": [
         {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+          "name": "Serehiio",
+          "url": "https://open.spotify.com/artist/4V9TMF0bpvEOg3ZpygwyrZ"
         },
         {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+          "name": "Mariete",
+          "url": "https://open.spotify.com/artist/1HMgcN78ihS1AsXaPBwSTx"
         }
       ],
-      "duration_ms": 132903,
-      "name": "GUSTARLE A TU ABUELA",
-      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
+      "duration_ms": 106187,
+      "name": "q va",
+      "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1603,6 +1583,26 @@
       "duration_ms": 235384,
       "name": "Im Forever",
       "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "GUSTARLE A TU ABUELA",
+        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "GUSTARLE A TU ABUELA",
+      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Te Hice una Cancion! (Remix)",
         "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
       },
@@ -1715,26 +1715,6 @@
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "SUBNORMAL",
-        "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 114549,
-      "name": "SUBNORMAL",
-      "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1799,6 +1779,26 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "SUBNORMAL",
+        "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 114549,
+      "name": "SUBNORMAL",
+      "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Trapboi",
         "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
       },
@@ -1835,6 +1835,50 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "Santo Veneno",
+        "url": "https://open.spotify.com/album/6wHJNkkWvuyoaogfMxUk0L"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        },
+        {
+          "name": "KIDHARTA",
+          "url": "https://open.spotify.com/artist/5jn0wsZPoQjwvWCaAJrih2"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Santo Veneno",
+      "url": "https://open.spotify.com/track/1sLscscAu0fWvCfSA9aGNc"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
+      },
+      "artists": [
+        {
+          "name": "Yanzzy",
+          "url": "https://open.spotify.com/artist/0VLCbsJSSF7F7cqWOWbkxG"
+        },
+        {
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Peke\u00f1o",
         "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
       },
@@ -1863,38 +1907,6 @@
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "cara de malo",
-        "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
-      },
-      "artists": [
-        {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
-        }
-      ],
-      "duration_ms": 110480,
-      "name": "cara de malo",
-      "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "Hard Cor",
-        "url": "https://open.spotify.com/album/5z836qOs6n6Dr68vNpzXwc"
-      },
-      "artists": [
-        {
-          "name": "Anna Ralb",
-          "url": "https://open.spotify.com/artist/6H0RNTjgdZz2qYXpJgyfc8"
-        }
-      ],
-      "duration_ms": 150856,
-      "name": "bcn love y hate",
-      "url": "https://open.spotify.com/track/4oxQfcaWs44ChwcRR6X9GB"
     }
   ],
   "unique_name": "helium",

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92733,
+  "num_followers": 92737,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
         }
       ],
-      "duration_ms": 240120,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -335,6 +319,22 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 210891,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Don't Blame It On Me",
-        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Don't Blame It On Me",
-      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -499,22 +515,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 210687,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 212163,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -643,22 +659,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 212163,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "FEAR OF WINNING",
         "url": "https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "WIND BLOW",
+        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Dixg\u00e5rd",
+          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
+        }
+      ],
+      "duration_ms": 205804,
+      "name": "WIND BLOW",
+      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Psalmer fr\u00e5n sjunde himlen",
         "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
       },
@@ -767,6 +783,38 @@
       "duration_ms": 178826,
       "name": "Hit men inte l\u00e4ngre",
       "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        }
+      ],
+      "duration_ms": 245376,
+      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Dandelion Kids",
+        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "Dandelion Kids",
+      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -791,54 +839,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Dandelion Kids",
-        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "Dandelion Kids",
-      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
-        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        }
-      ],
-      "duration_ms": 245376,
-      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
-      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "WIND BLOW",
-        "url": "https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Dixg\u00e5rd",
-          "url": "https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT"
-        }
-      ],
-      "duration_ms": 205804,
-      "name": "WIND BLOW",
-      "url": "https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
         "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 237561,
       "name": "Jag vill tacka livet",
       "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Zoe",
-        "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 191379,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -891,22 +871,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Badass High School Band",
-        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "Badass High School Band",
-      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -923,6 +887,22 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Badass High School Band",
+        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 234966,
+      "name": "Badass High School Band",
+      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -995,6 +975,26 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "Zoe",
+        "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Country Song Came On",
         "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 234652,
       "name": "Country Song Came On",
       "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1143,6 +1159,26 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 180677,
+      "name": "Mamma sa",
+      "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
@@ -1191,22 +1227,6 @@
       "duration_ms": 167200,
       "name": "WILDSIDE",
       "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1299,18 +1319,18 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Enkelhet",
-        "url": "https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt"
+        "name": "Hem till Dalarna",
+        "url": "https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU"
       },
       "artists": [
         {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
         }
       ],
-      "duration_ms": 235440,
-      "name": "Enkelhet",
-      "url": "https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6"
+      "duration_ms": 281776,
+      "name": "Hem till Dalarna",
+      "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1331,6 +1351,22 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "Enkelhet",
+        "url": "https://open.spotify.com/album/0XqETQGhR7sDUBpbnkKPMt"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Enkelhet",
+      "url": "https://open.spotify.com/track/7q3K4tRtjdGUcycg5cm8Q6"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -1347,38 +1383,34 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Hem till Dalarna",
-        "url": "https://open.spotify.com/album/3gEKKDGJxBp3ZKKtzaoNKU"
-      },
-      "artists": [
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        }
-      ],
-      "duration_ms": 281776,
-      "name": "Hem till Dalarna",
-      "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Hver Gang Vi M\u00f8tes 2025",
-        "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
       },
       "artists": [
         {
           "name": "Carola",
           "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 180677,
-      "name": "Mamma sa",
-      "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1415,22 +1447,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "I Wrote Your Name (Upon My Heart)",
-        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "I Wrote Your Name (Upon My Heart)",
-      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -1447,38 +1463,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "N\u00e4ra dig",
-        "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
-      },
-      "artists": [
-        {
-          "name": "Anna Ternheim",
-          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "N\u00e4ra dig",
-      "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 213905,
       "name": "Will You Run Away With Me",
       "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
     }
   ],
   "unique_name": "Aktuellt",

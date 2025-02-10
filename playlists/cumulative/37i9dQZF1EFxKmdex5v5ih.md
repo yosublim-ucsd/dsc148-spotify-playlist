@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-476 songs - 1 day 2 hr 8 min
+477 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Family](https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 3:37 | 2023-12-13 |  |
 | [Feelings](https://open.spotify.com/track/0s26En1JoJhVj32vizElpA) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 | 2021-12-27 | 2022-11-18 |
 | [Feelings](https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:09 | 2022-11-17 |  |
+| [Fida Known](https://open.spotify.com/track/6YArufs2SI9FnHJjoZiIIf) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Fida Known](https://open.spotify.com/album/5qkINobRruMEoL2NrNJe8P) | 3:17 | 2025-02-09 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-27 | 2023-03-13 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-12 | 2023-12-14 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 |  |
@@ -146,7 +147,7 @@
 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-11-09 | 2024-11-13 |
 | [Forever Young](https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Forever Young](https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50) | 3:31 | 2024-11-20 | 2024-11-24 |
 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2024-11-12 |  |
-| [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 | 2024-11-23 |  |
+| [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 | 2024-11-23 | 2025-02-10 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-14 | 2023-05-23 |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-05-22 |  |
 | [Forget Me](https://open.spotify.com/track/2wv34nME5QUexRLYf2Qj7I) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/0t2jfv6esrCHasWho9dFpB) | 4:16 | 2023-12-18 | 2024-02-02 |

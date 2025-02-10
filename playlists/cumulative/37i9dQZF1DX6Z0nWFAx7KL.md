@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-291 songs - 14 hr 29 min
+292 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-29 | 2023-03-18 |
 | [Calling Back](https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f) | [Calling Back](https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm) | 5:05 | 2024-08-01 |  |
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
-| [Can't Stop Thinking](https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Can't Stop Thinking](https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E) | 2:26 | 2024-01-11 |  |
+| [Can't Stop Thinking](https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Can't Stop Thinking](https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E) | 2:26 | 2024-01-11 | 2025-02-10 |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 | 2024-10-04 |
 | [Careless Whisper](https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [ALUR](https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Careless Whisper](https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI) | 2:52 | 2023-06-26 | 2024-03-21 |
 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 | 2022-10-13 | 2024-12-15 |
@@ -299,5 +299,6 @@
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 | 2022-11-17 |
 | [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 | 2024-12-05 |  |
 | [Yellow](https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Yellow](https://open.spotify.com/album/3X0qecgrGCKkWRuZ0KfnZL) | 3:12 | 2024-10-03 | 2024-12-13 |
+| [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 | 2025-02-07 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

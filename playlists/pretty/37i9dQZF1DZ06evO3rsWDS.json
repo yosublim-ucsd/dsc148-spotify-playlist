@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAD7GsdoXdoeHeZ93ya+4u/+",
+  "snapshot_id": "Z6aegAAAAABzlY198OJl6eax0Y7SAzUJ",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
+        "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+        "url": "https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         },
         {
-          "name": "MAS Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 326330,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
+      "duration_ms": 219013,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH"
     },
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-        "url": "https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7"
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        },
-        {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "MAS Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
         }
       ],
-      "duration_ms": 219013,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH"
+      "duration_ms": 326330,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "El Honor",
-      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 141373,
       "name": "Las Destrampadas",
       "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "El Honor",
+      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a la Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
+        "name": "Amandote (Mariachi)",
+        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
         },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 203773,
-      "name": "Ovarios (feat. Chiquis Rivera)",
-      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
+      "duration_ms": 181521,
+      "name": "Amandote - Mariachi",
+      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenaje a la Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Ovarios (feat. Chiquis Rivera)",
+      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porque Puedo",
         "url": "https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 136613,
       "name": "Me Mocho Un Huevo",
       "url": "https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amandote (Mariachi)",
-        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Mendez",
-          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Amandote - Mariachi",
-      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
       },
@@ -859,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
       },
@@ -911,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+        "name": "Radio Universo",
+        "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
       },
       "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 189520,
-      "name": "FUERTE",
-      "url": "https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN"
+      "duration_ms": 225920,
+      "name": "Devu\u00e9lveme El Amor",
+      "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
     }
   ],
   "unique_name": "This Is Chiquis",

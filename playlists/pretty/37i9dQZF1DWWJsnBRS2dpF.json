@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 59477,
+  "num_followers": 59507,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Savage Remix (feat. Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Savage Remix (feat. Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 220963,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Savage Remix (feat. Beyonc\u00e9)",
-        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Savage Remix (feat. Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -547,54 +547,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251714,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
-        }
-      ],
-      "duration_ms": 306093,
-      "name": "Meeting in My Bedroom",
-      "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Private Room",
-        "url": "https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -615,6 +567,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Yikes",
+        "url": "https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 156881,
+      "name": "Yikes",
+      "url": "https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -631,18 +599,50 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Yikes",
-        "url": "https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD"
         }
       ],
-      "duration_ms": 156881,
-      "name": "Yikes",
-      "url": "https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5"
+      "duration_ms": 306093,
+      "name": "Meeting in My Bedroom",
+      "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Private Room",
+        "url": "https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Makin' Good Love",
-      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Room 112",
         "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 205373,
       "name": "F.U.C.K.",
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Makin' Good Love",
+      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
     },
     {
       "added_at": "2022-10-01 16:21:24",

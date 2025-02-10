@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Judeline.",
-  "num_followers": 167142,
+  "num_followers": 167163,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "Ay No Puedo",
+      "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 241038,
       "name": "bien hecho",
       "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "Ay No Puedo",
-      "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 164771,
+      "name": "BRUJERIA!",
+      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
         "name": "mis compas tan aqu\u00ed",
         "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 164771,
-      "name": "BRUJERIA!",
-      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "deja vu",
         "url": "https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -435,6 +435,30 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 230808,
+      "name": "Se Te Nota",
+      "url": "https://open.spotify.com/track/5kokNg16pOhrirK3kmgbQ4"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
         "name": "Destrucci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 214280,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Se Te Nota",
-      "url": "https://open.spotify.com/track/5kokNg16pOhrirK3kmgbQ4"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "VISTO",
-        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "VISTO",
-      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Pececitos",
         "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+        "name": "VISTO",
+        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
       },
       "artists": [
         {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 98210,
-      "name": "Me Fui",
-      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+      "duration_ms": 163026,
+      "name": "VISTO",
+      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -727,6 +711,22 @@
       "duration_ms": 195928,
       "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+      "duration_ms": 212160,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -851,6 +835,22 @@
       "duration_ms": 182546,
       "name": "dejarse querer",
       "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "road 2 neverland",
-        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "falco",
-      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Radiocaset",
         "url": "https://open.spotify.com/album/4tUM9WQUaWaZkU9qPlvtN7"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 186613,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "added_at": "2025-02-07 19:10:26",

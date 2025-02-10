@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 122661,
+  "num_followers": 122678,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -207,38 +223,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Be My Summer",
-        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Be My Summer",
-      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 238070,
-      "name": "Almost There",
-      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Waiting In Vain (Spotify Singles)",
         "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 238070,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 310809,
+      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
+      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 201773,
       "name": "Back To Love [Feat. SiR & Alex Isley]",
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 310809,
-      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
-      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/4v6PwNn8gjrsax1wOlqSNa"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+      "duration_ms": 164018,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/4IXfejQPOGKNMstLaOskGC"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "QUEEN",
-        "url": "https://open.spotify.com/album/4v6PwNn8gjrsax1wOlqSNa"
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 164018,
-      "name": "QUEEN",
-      "url": "https://open.spotify.com/track/4IXfejQPOGKNMstLaOskGC"
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "beat of a slow dance",
         "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 234799,
       "name": "beat of a slow dance",
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Stay Here Tonight",
-      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 208615,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Stay Here Tonight",
+      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "Nu Beginning",
+        "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
+        }
+      ],
+      "duration_ms": 234943,
+      "name": "Nu Beginning",
+      "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "A Muse",
         "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 185753,
       "name": "Wet Dreamz",
       "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Nu Beginning",
-        "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
-      },
-      "artists": [
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
-        }
-      ],
-      "duration_ms": 234943,
-      "name": "Nu Beginning",
-      "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "Body Music (Deluxe)",
+        "url": "https://open.spotify.com/album/5WwesTmhyEx9cNre8fwnm9"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 276828,
+      "name": "Friends To Lovers",
+      "url": "https://open.spotify.com/track/5zMHwddz7IBSrCkafg8WOr"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "Mr. Midnight (Winter Time Remix)",
         "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 240000,
       "name": "Mr. Midnight - Winter Time Remix",
       "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Body Music (Deluxe)",
-        "url": "https://open.spotify.com/album/5WwesTmhyEx9cNre8fwnm9"
-      },
-      "artists": [
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 276828,
-      "name": "Friends To Lovers",
-      "url": "https://open.spotify.com/track/5zMHwddz7IBSrCkafg8WOr"
     },
     {
       "added_at": "2025-01-17 03:01:13",

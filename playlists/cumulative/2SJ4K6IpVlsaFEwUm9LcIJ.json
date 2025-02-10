@@ -1637,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Escho 15 \u00e5r: Burgers for my new life",
+        "url": "https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240862,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI"
+    },
+    {
+      "album": {
         "name": "Dream Alone / Beat Love",
         "url": "https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b"
       },
@@ -3783,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Mixed Bag",
+        "url": "https://open.spotify.com/album/04lW466iMxY4odpN22tsQm"
+      },
+      "artists": [
+        {
+          "name": "Ditch Effort",
+          "url": "https://open.spotify.com/artist/1jy0qPVR1NXcxqofegK8Je"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111492,
+      "name": "Jesus Sandals",
+      "url": "https://open.spotify.com/track/1PX7OTFrT9raDrni7D6hqU"
+    },
+    {
+      "album": {
         "name": "Joel Roberts",
         "url": "https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh"
       },
@@ -4882,6 +4922,24 @@
       "duration_ms": 196583,
       "name": "New Joy",
       "url": "https://open.spotify.com/track/7wriad6oBytAE04VvbKuno"
+    },
+    {
+      "album": {
+        "name": "Death is a Dream",
+        "url": "https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf"
+      },
+      "artists": [
+        {
+          "name": "HTRK",
+          "url": "https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179898,
+      "name": "No Big Thing",
+      "url": "https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4"
     },
     {
       "album": {

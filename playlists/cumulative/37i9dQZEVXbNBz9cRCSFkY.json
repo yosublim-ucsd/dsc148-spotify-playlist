@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "4:AM",
       "url": "https://open.spotify.com/track/0iq4IOcuvSXP3VNTjOLBf1"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 209454,
       "name": "Burgis",
       "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
@@ -9416,7 +9416,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 168453,
       "name": "M a k e I t T o T h e M o r n i n g",
       "url": "https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7"
@@ -10686,7 +10686,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 174473,
       "name": "Namumula",
       "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"
@@ -10928,7 +10928,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 243131,
       "name": "No. 1 Party Anthem",
       "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
@@ -17292,6 +17292,24 @@
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "album": {

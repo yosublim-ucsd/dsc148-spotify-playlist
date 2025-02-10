@@ -1,6 +1,6 @@
 {
   "description": "Super mega hits! Foto: Lady Gaga",
-  "num_followers": 6753107,
+  "num_followers": 6753249,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -319,38 +335,6 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -423,18 +407,18 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -455,22 +439,6 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173639,
-      "name": "the boy is mine",
-      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -975,6 +959,22 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1DexsORdmqTmYJjR3UlMTZ"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
-        "name": "Heart of Gold",
-        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 171607,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "added_at": "2025-02-07 06:00:16",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-02-07 06:00:16",
       "album": {
-        "name": "Lost on You",
-        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 268105,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
-    },
-    {
-      "added_at": "2025-02-07 06:00:16",
-      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
+    },
+    {
+      "added_at": "2025-02-07 06:00:16",
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
     },
     {
       "added_at": "2025-02-07 06:00:16",

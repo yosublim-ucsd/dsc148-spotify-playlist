@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,840 likes - 35 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,843 likes - 35 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 | 10 | [Born in the North](https://open.spotify.com/track/64gyxc6DgaFUyuipGQ7Mn0) | [Blue in Tokio](https://open.spotify.com/artist/5ognvIR2zg8WcWCb76LKL3) | [Dark Sky Nights](https://open.spotify.com/album/79zT1Vet14wryMHrrxUFK7) | 3:21 |
 | 11 | [Enghave](https://open.spotify.com/track/0EC0kuRKIUlru5eRxWYYyv) | [Marco Egeberg](https://open.spotify.com/artist/3gVKrWrg5Y4UfbvKUpsjp6) | [Stund](https://open.spotify.com/album/13sRnTDeMnay6MFmrsFJIe) | 4:12 |
 | 12 | [Stop Chasing Rainbows](https://open.spotify.com/track/6PRsjko18F6MwY3IYf6qGJ) | [Entertaining Mona](https://open.spotify.com/artist/5hTrfElcDbATkhNzAVnOe0) | [10,000 Roads to Wisdom](https://open.spotify.com/album/3qRQgJZ3E4hq0sYIOXcLa0) | 4:06 |
-| 13 | [Too Good To Be True](https://open.spotify.com/track/3S8TlIymBl9rgBjPVr0ovZ) | [Entertaining Mona](https://open.spotify.com/artist/5hTrfElcDbATkhNzAVnOe0) | [10,000 Roads to Wisdom](https://open.spotify.com/album/3qRQgJZ3E4hq0sYIOXcLa0) | 4:33 |
+| 13 | [Too Good to Be True](https://open.spotify.com/track/3S8TlIymBl9rgBjPVr0ovZ) | [Entertaining Mona](https://open.spotify.com/artist/5hTrfElcDbATkhNzAVnOe0) | [10,000 Roads to Wisdom](https://open.spotify.com/album/3qRQgJZ3E4hq0sYIOXcLa0) | 4:33 |
 | 14 | [Tur](https://open.spotify.com/track/1hvpkfNJ1EfkF9SS2yBuml) | [Marco Egeberg](https://open.spotify.com/artist/3gVKrWrg5Y4UfbvKUpsjp6) | [Stund](https://open.spotify.com/album/13sRnTDeMnay6MFmrsFJIe) | 4:04 |
 | 15 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
 | 16 | [Mandrill](https://open.spotify.com/track/75FDzqFu5kyZvqYRiMHP6T) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Howler](https://open.spotify.com/album/4UbbEjjGj7aEKQoXf1duYU) | 3:59 |

@@ -56201,6 +56201,28 @@
     },
     {
       "album": {
+        "name": "strangers",
+        "url": "https://open.spotify.com/album/2AEjE0bmkcqNAeC5N7hgfD"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135192,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/2QdcmNlQdW8iA4JEg29cgx"
+    },
+    {
+      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
@@ -65824,7 +65846,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"

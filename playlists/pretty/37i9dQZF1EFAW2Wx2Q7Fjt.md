@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,010 likes - 167 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,022 likes - 167 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 59 | [Name \(feat\. Tori Kelly\)](https://open.spotify.com/track/6EKDPhgCDL2cwRvloAEwSP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 2:39 |
 | 60 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
 | 61 | [Need To Know](https://open.spotify.com/track/5VBKZ21vgMcUt9D25Qmh2M) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/2Qm3jtYKIsCVWgpvFiIDX4) | 2:47 |
-| 62 | [Jello](https://open.spotify.com/track/2jaaONYdaOUk8hhhIRIp4A) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Jello](https://open.spotify.com/album/4WMrgBWI8uWqp7ilLTfPXx) | 2:57 |
-| 63 | [3am](https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:34 |
+| 62 | [3am](https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:34 |
+| 63 | [Jello](https://open.spotify.com/track/2jaaONYdaOUk8hhhIRIp4A) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Jello](https://open.spotify.com/album/4WMrgBWI8uWqp7ilLTfPXx) | 2:57 |
 | 64 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
 | 65 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 |
 | 66 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 101 | [Dangerous Levels of Introspection](https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:54 |
 | 102 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
 | 103 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 |
-| 104 | [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 |
-| 105 | [Cold, Dark Place](https://open.spotify.com/track/6mTmYqYc3y0LKEuumpJI5C) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:01 |
+| 104 | [Cold, Dark Place](https://open.spotify.com/track/6mTmYqYc3y0LKEuumpJI5C) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:01 |
+| 105 | [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 |
 | 106 | [Lucky Charms](https://open.spotify.com/track/1Cwg5W2pW4aDvgUnb0PAvL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 3:10 |
 | 107 | [My Favorite Drug](https://open.spotify.com/track/4CH3LNUhH2v5lUpAk4SDoI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 5:01 |
 | 108 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 166 | [choices](https://open.spotify.com/track/1ew8ziYcyv8627lgOtppuf) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:27 |
 | 167 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 
-Snapshot ID: `AbpEqgAAAABHWzcAmYNXmgFo3Ptp1uYD`
+Snapshot ID: `AbpKSgAAAABHmnvfRa3eWXVXSgWCL2Xr`

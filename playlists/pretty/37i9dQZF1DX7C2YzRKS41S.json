@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 133410,
+  "num_followers": 133473,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-02-07 23:43:37",
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": "2025-02-07 23:43:37",
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
-      "added_at": "2025-02-07 23:43:37",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2025-02-07 23:43:37",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-02-07 23:43:37",
       "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+    },
+    {
+      "added_at": "2025-02-07 23:43:37",
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -283,18 +299,18 @@
     {
       "added_at": "2025-02-07 23:43:37",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 248333,
-      "name": "Now And Then",
-      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2025-02-07 23:43:37",
@@ -331,22 +347,6 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
-    },
-    {
-      "added_at": "2025-02-07 23:43:37",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2025-02-07 23:43:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-02-07 23:43:37",
       "album": {
-        "name": "Battle Studies",
-        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
-    },
-    {
-      "added_at": "2025-02-07 23:43:37",
-      "album": {
         "name": "Mariana Nolasco Sessions 2",
         "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 138647,
       "name": "Ai que Saudade D'Oc\u00ea - Sessions",
       "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
+    },
+    {
+      "added_at": "2025-02-07 23:43:37",
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
     },
     {
       "added_at": "2025-02-07 23:43:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-02-07 23:43:37",
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 202813,
-      "name": "Roll it on Home",
-      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
-    },
-    {
-      "added_at": "2025-02-07 23:43:37",
-      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
+    },
+    {
+      "added_at": "2025-02-07 23:43:37",
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 202813,
+      "name": "Roll it on Home",
+      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
     },
     {
       "added_at": "2025-02-07 23:43:37",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2025-02-07 23:43:37",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 208517,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+      "duration_ms": 213351,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

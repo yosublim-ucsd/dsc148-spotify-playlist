@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-232 songs - 14 hr 5 min
+233 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [How I Like It](https://open.spotify.com/track/1sJ4nhnygOzSqDXqObbweD) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [How I Like It](https://open.spotify.com/album/3bYHBEbMs2B0v3uadisq4C) | 3:11 | 2022-12-01 | 2023-06-02 |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2022-12-01 |  |
 | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/track/08C8eHg9dK6m3846bm3100) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo) | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW) | 2:52 | 2024-02-01 |  |
+| [Ice u out](https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [girl EDM](https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu) | 3:23 | 2025-02-05 |  |
 | [If Perfect Was Real](https://open.spotify.com/track/3HqHYQ6xjlII6VWEQjmgPt) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Wass](https://open.spotify.com/artist/6UMJ2LhFBKvNuRzcVTQvQo) | [If Perfect Was Real](https://open.spotify.com/album/5JgF7N6lWqVwh0udZsmy3F) | 3:13 | 2025-02-05 |  |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-08-22 |  |
 | [In My Head](https://open.spotify.com/track/1MyjLhYtURAYMGPQHxF77j) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Kaynex](https://open.spotify.com/artist/6Qb5T9ZQbxclvBqfuBJR3D) | [In My Head](https://open.spotify.com/album/3MZGa6ZtCziLIx5dU8hmrt) | 2:12 | 2023-11-16 | 2024-05-16 |
@@ -128,7 +129,7 @@
 | [Love Language](https://open.spotify.com/track/43Q412QJxCshzh9oIjLgEF) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/6aGXPQFm5ZGZYqz1ClG6tx) | 3:18 | 2025-02-05 |  |
 | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS) | 3:04 | 2022-12-01 |  |
 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 | 2023-05-25 | 2023-07-31 |
-| [Love Type](https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C) | 3:35 | 2025-02-05 |  |
+| [Love Type](https://open.spotify.com/track/4cPiiiMz7vkE2gMMXjZZm7) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/1a8RwDworIIw3nnmzEJ08C) | 3:35 | 2025-02-05 | 2025-02-10 |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2022-12-01 |  |
 | [Make A Move](https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:35 | 2025-02-05 |  |
 | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/track/6OQdZnSSapbrUhWv7Wg18Y) | [The Meeting Tree](https://open.spotify.com/artist/3wOBAJXJ4EFkcBPbaHnBPM) | [MDMA \(Caps Should Be A Human Right\)](https://open.spotify.com/album/4FnI8i77dSwbkXiDes7rhr) | 4:40 | 2022-12-01 | 2023-01-27 |

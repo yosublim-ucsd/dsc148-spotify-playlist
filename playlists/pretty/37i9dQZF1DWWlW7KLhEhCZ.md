@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: LH CHUCRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,572 likes - 74 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,566 likes - 74 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

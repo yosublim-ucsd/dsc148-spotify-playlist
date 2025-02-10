@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 111450,
+  "num_followers": 111455,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
+        "name": "Mirkelam",
+        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
+      },
+      "artists": [
+        {
+          "name": "Mirkelam",
+          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Tavla",
+      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
         "name": "Divane",
         "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
       },
@@ -175,6 +191,22 @@
       "duration_ms": 232106,
       "name": "Divane",
       "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "K\u00f6t\u00fc \u015eeyler",
+        "url": "https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5"
+      },
+      "artists": [
+        {
+          "name": "Son Feci Bisiklet",
+          "url": "https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Galiba Sevmiyorlar",
+      "url": "https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -203,38 +235,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Mirkelam",
-        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
-      },
-      "artists": [
-        {
-          "name": "Mirkelam",
-          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Tavla",
-      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "K\u00f6t\u00fc \u015eeyler",
-        "url": "https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5"
-      },
-      "artists": [
-        {
-          "name": "Son Feci Bisiklet",
-          "url": "https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Galiba Sevmiyorlar",
-      "url": "https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Unuttum Derdimi",
         "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 229787,
       "name": "Unuttum Derdimi",
       "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "Divane",
-        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Gel Benimle",
-      "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -303,6 +287,22 @@
       "duration_ms": 186947,
       "name": "Aldat\u0131ld\u0131k",
       "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Divane",
+        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Gel Benimle",
+      "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -375,38 +375,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Hissettin mi",
-        "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
-      },
-      "artists": [
-        {
-          "name": "Sufle",
-          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Hissettin mi",
-      "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "Turuncu",
-        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Kumsalda",
-      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Bildi\u011fim Gibi",
         "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
       },
@@ -439,6 +407,38 @@
       "duration_ms": 179093,
       "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
       "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Hissettin mi",
+        "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
+      },
+      "artists": [
+        {
+          "name": "Sufle",
+          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Hissettin mi",
+      "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Turuncu",
+        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Kumsalda",
+      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "\u015eark\u0131lar G\u00fczelse Hala",
-      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 262246,
       "name": "A\u015fk",
       "url": "https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "\u015eark\u0131lar G\u00fczelse Hala",
+      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
     },
     {
       "added_at": "2024-07-08 08:26:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,469 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,466 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 33 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 34 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 |
 | 35 | [The Auction](https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/7KskZmiLjIUjWFijCmoZDw) | 2:56 |
-| 36 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
-| 37 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
-| 38 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 39 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
-| 40 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
+| 36 | [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 |
+| 37 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
+| 38 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
+| 39 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
+| 40 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 41 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
 | 42 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
 | 43 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 45 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 46 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 47 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
-| 48 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
-| 49 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 |
+| 48 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 |
+| 49 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
 | 50 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 51 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
 | 52 | [control.](https://open.spotify.com/track/31Y6kxdxjGuYeYwLmLILMw) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [control.](https://open.spotify.com/album/0QZV1HiWtdLqD9YO7pm0uA) | 4:17 |
 | 53 | [she ain't texas](https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [she ain't texas](https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx) | 4:05 |
 | 54 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
 | 55 | [Came Thru](https://open.spotify.com/track/3HUkuNHMv91cnarbS92WgY) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Thinking With My Ears](https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk) | 2:37 |
-| 56 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
-| 57 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
-| 58 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |
+| 56 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
+| 57 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |
+| 58 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
 | 59 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 60 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 61 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 |

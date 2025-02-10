@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 ### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Tyga
+> Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,291 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,623 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 | 100 | [EVERYBODY \(feat\. 310babii, OHGEESY, BlueBucksClan, John Mackk, G Perico, RJMrLA, Rucci, Heembeezy, CUZZOS, Wallie the Sensei, Chef Boy\) \- Remix](https://open.spotify.com/track/308356n91cdilodNAW0HfG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Rucci](https://open.spotify.com/artist/5JbXKReqHxzCVIrHTIvSIT), [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Chef Boy](https://open.spotify.com/artist/4omnknFgN7kkHAiCZkR8XU) | [EVERYBODY \(Remix\)](https://open.spotify.com/album/0eZwrojLzZXjPg2PbEIjMQ) | 6:14 |
 
-Snapshot ID: `Z6WW8gAAAADd6UAdCQXHy1g5RPLkxy8U`
+Snapshot ID: `Z6k4gAAAAABEika2arGoPL/QYvxDN5Zz`

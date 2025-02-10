@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,663 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,664 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 37 | [Shut You Out](https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 3:39 |
 | 38 | [Greener Grass](https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 2:50 |
 | 39 | [Yanny & Laurel](https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 2:48 |
-| 40 | [Puzzle](https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:38 |
-| 41 | [Diznee Time](https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 3:40 |
-| 42 | [Silent Suicide](https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 1:19 |
+| 40 | [Diznee Time](https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 3:40 |
+| 41 | [Silent Suicide](https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 1:19 |
+| 42 | [Puzzle](https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:38 |
 | 43 | [Sour Days](https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:07 |
 | 44 | [Mooseman's Jukebox](https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:12 |
 | 45 | [Fazil's Friend](https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 1:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 48 | [Biftek Supernova](https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:18 |
 | 49 | [Domestic Subway](https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 1:38 |
 
-Snapshot ID: `Z6VNAAAAAACtPP+O7/d6QzHiKuvYtzSV`
+Snapshot ID: `Z6aegAAAAACpNeWygBfHGKBaMPVrHI2o`

@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 197565,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
@@ -3801,24 +3801,6 @@
     },
     {
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "date_added": "2021-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
-    },
-    {
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/3LGZUJGeBB8KC0bVOtmulA"
       },
@@ -3834,6 +3816,24 @@
       "duration_ms": 232146,
       "name": "La Chica de Mi Barrio",
       "url": "https://open.spotify.com/track/4Z5R8FcKzLpyY9cbUv7nMz"
+    },
+    {
+      "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "La Cita (La Carta)",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "album": {
@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"

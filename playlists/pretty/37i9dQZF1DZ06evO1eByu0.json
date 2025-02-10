@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161466,
+  "num_followers": 161472,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABpScuskHIjyQ43WSRlMANQ",
+  "snapshot_id": "Z6aegAAAAAAkMIS2AF79MuNoSZkY3J9t",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Bem Mais Que Tudo",
-      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino",
         "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 295360,
       "name": "Autor da Vida",
       "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Bem Mais Que Tudo",
+      "url": "https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 355265,
-      "name": "Diante da Cruz (At the Cross)",
-      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 355265,
+      "name": "Diante da Cruz (At the Cross)",
+      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Sobre Ele",
         "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 323855,
       "name": "Tudo Sobre Ele",
       "url": "https://open.spotify.com/track/0xg06TxPO0Y6mXOk5vIS1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivo Est\u00e1s",
         "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 392026,
       "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Rei Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 227577,
-      "name": "O Rei Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vem Fluir (Fall Like Rain)",
         "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 387779,
       "name": "Vem Fluir (Fall Like Rain)",
       "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
     }
   ],
   "unique_name": "This Is Aline Barros",

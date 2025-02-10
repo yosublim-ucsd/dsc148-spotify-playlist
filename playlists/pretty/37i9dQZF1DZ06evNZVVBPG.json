@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2583972,
+  "num_followers": 2584589,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAB8LBre0GRJj6ldgSfVUrJX",
+  "snapshot_id": "Z6aegAAAAAAPllRWS45w47UnuwrdFCPd",
   "tracks": [
     {
       "added_at": null,
@@ -467,42 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 229942,
-      "name": "Snow On The Beach (feat. More Lana Del Rey)",
-      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -523,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 290625,
       "name": "Music To Watch Boys To",
       "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 229942,
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
     },
     {
       "added_at": null,

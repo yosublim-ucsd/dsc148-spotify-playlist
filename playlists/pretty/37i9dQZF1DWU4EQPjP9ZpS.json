@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 322199,
+  "num_followers": 322263,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Virtua.Zip",
-        "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
-      },
-      "artists": [
-        {
-          "name": "ESPRIT \u7a7a\u60f3",
-          "url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esprit.Wav",
-      "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Summer Paradise",
         "url": "https://open.spotify.com/album/3m3FAl1OVyOAuH5zyTFZjW"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 253727,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Virtua.Zip",
+        "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
+      },
+      "artists": [
+        {
+          "name": "ESPRIT \u7a7a\u60f3",
+          "url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esprit.Wav",
+      "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 251779,
       "name": "Hibiscus Pacific",
       "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -783,6 +783,38 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Nu.wav Hallucinations",
+        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "duration_ms": 359410,
+      "name": "A Face Without Eyes",
+      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
+      },
+      "artists": [
+        {
+          "name": "bbrainz",
+          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
+        }
+      ],
+      "duration_ms": 181955,
+      "name": "TELL ME HOW IT FEELS",
+      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "mirror gallery (Windows 96 Remix)",
         "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
       },
@@ -799,22 +831,6 @@
       "duration_ms": 163019,
       "name": "mirror gallery (Windows 96 Remix)",
       "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Nu.wav Hallucinations",
-        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
-      },
-      "artists": [
-        {
-          "name": "Nmesh",
-          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
-        }
-      ],
-      "duration_ms": 359410,
-      "name": "A Face Without Eyes",
-      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
       "artists": [
         {
-          "name": "bbrainz",
-          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 181955,
-      "name": "TELL ME HOW IT FEELS",
-      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -871,22 +887,6 @@
       "duration_ms": 172271,
       "name": "Nature",
       "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1131,34 +1131,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fire Magic",
-        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
+        "name": "On the Promenade (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
       },
       "artists": [
         {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Fire Magic",
-      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
-      },
-      "artists": [
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        },
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+      "duration_ms": 196956,
+      "name": "On the Promenade (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1179,22 +1167,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "On the Promenade (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0"
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 196956,
-      "name": "On the Promenade (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Fire Magic",
+        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Fire Magic",
+      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1263,34 +1263,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tupperwave",
-        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 166961,
-      "name": "Alliance Of Elegance",
-      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 106802,
-      "name": "I Used To Make Vaporwave",
-      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
+      "duration_ms": 196363,
+      "name": "Veranda",
+      "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1311,6 +1295,22 @@
       "duration_ms": 147280,
       "name": "Screensaver",
       "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/7eSz1nAZz1kngrS6zAGhvw"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 106802,
+      "name": "I Used To Make Vaporwave",
+      "url": "https://open.spotify.com/track/1Iq4I0gge8phZrPVZXGwnL"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Illuminations",
-        "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
+        "name": "Tupperwave",
+        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Veranda",
-      "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
+      "duration_ms": 166961,
+      "name": "Alliance Of Elegance",
+      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Wish We Were Sightseers",
-        "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "True Cyan",
-      "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "The 33rd Split",
         "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 260399,
       "name": "Vcrheadaches - Purge",
       "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Wish We Were Sightseers",
+        "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "True Cyan",
+      "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Mine on the Street",
-        "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Beijing",
-      "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Glass Prism",
         "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tendencies",
-        "url": "https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD"
+        "name": "Mine on the Street",
+        "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
       },
       "artists": [
         {
-          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
-          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
         }
       ],
-      "duration_ms": 94653,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir"
+      "duration_ms": 200000,
+      "name": "Beijing",
+      "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Tendencies",
+        "url": "https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
+          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+        }
+      ],
+      "duration_ms": 94653,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Polygon Paradise",
         "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 140678,
       "name": "Monogon",
       "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1711,22 +1727,6 @@
       "duration_ms": 187200,
       "name": "Epifauna",
       "url": "https://open.spotify.com/track/2FPhnI8uGOR4GoVMxhccGI"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     }
   ],
   "unique_name": "vaporwave",

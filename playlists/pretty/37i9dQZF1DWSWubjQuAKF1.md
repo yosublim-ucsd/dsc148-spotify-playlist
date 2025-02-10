@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Rocka
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,214 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,234 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 11 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 12 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
 | 13 | [Coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 |
-| 14 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
-| 15 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
-| 16 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 |
-| 17 | [Spójrz](https://open.spotify.com/track/1VmwW7Vd0MJ6oWZcHX0KLI) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Spójrz](https://open.spotify.com/album/1piehJNAANHslFDChsBrCo) | 4:40 |
-| 18 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 |
-| 19 | [Hold The Light](https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Hold The Light](https://open.spotify.com/album/2SdhyWpB8qATf1p5nzXN37) | 2:56 |
-| 20 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
+| 14 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
+| 15 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 |
+| 16 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
+| 17 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 |
+| 18 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
+| 19 | [Spójrz](https://open.spotify.com/track/1VmwW7Vd0MJ6oWZcHX0KLI) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Spójrz](https://open.spotify.com/album/1piehJNAANHslFDChsBrCo) | 4:40 |
+| 20 | [Hold The Light](https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Hold The Light](https://open.spotify.com/album/2SdhyWpB8qATf1p5nzXN37) | 2:56 |
 | 21 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 22 | [GOD DAMN](https://open.spotify.com/track/6SCpoGxbpXxiVRwI5S55VD) | [Bryan](https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp), [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [WOLF HOUSE](https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt) | [GOD DAMN](https://open.spotify.com/album/1T2xXdMigMZQ2ANvVwdkWh) | 2:15 |
 | 23 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 41 | [piekło](https://open.spotify.com/track/1n93aFenBuJ2eSWfgH93J8) | [ksenia](https://open.spotify.com/artist/5R9yyFJL2NggWe7A5pmMRv) | [melancholia](https://open.spotify.com/album/2XPhlSY83K3ztLtov28468) | 3:20 |
 | 42 | [sms](https://open.spotify.com/track/5Fv3sGOVFop6zGbdry3xh4) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [sms](https://open.spotify.com/album/3d3eqzubQo2dFDb2FX1HP6) | 2:49 |
 | 43 | [Personel](https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Personel](https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH) | 3:53 |
-| 44 | [MAGAZINE](https://open.spotify.com/track/3xRUDRQvaWpSzcOoluGzIC) | [Mara](https://open.spotify.com/artist/03igDg04igkpSDTGARs1V4), [GLOW](https://open.spotify.com/artist/1yDst78gYo3qG28HiAMXYH) | [MAGAZINE/WAVERLY PLACE](https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH) | 2:50 |
-| 45 | [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 |
+| 44 | [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 |
+| 45 | [MAGAZINE](https://open.spotify.com/track/3xRUDRQvaWpSzcOoluGzIC) | [Mara](https://open.spotify.com/artist/03igDg04igkpSDTGARs1V4), [GLOW](https://open.spotify.com/artist/1yDst78gYo3qG28HiAMXYH) | [MAGAZINE/WAVERLY PLACE](https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH) | 2:50 |
 | 46 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 |
-| 47 | [nie ma sprawy](https://open.spotify.com/track/0ZjzW2KrxA4D9ApszgcJuU) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [nie ma sprawy](https://open.spotify.com/album/3plNMNMK3c7zrW47sGDKA0) | 2:42 |
-| 48 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 |
-| 49 | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0) | [Marianna Kniat](https://open.spotify.com/artist/4msYBkpUbynxMz8FgyQxiX) | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/album/4IGAhWMLqLbCNUkJvqvEH3) | 3:33 |
-| 50 | [Devil of Love](https://open.spotify.com/track/7ndKQcigXPkmRV3OX8VbiE) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Devil of Love](https://open.spotify.com/album/3fe9w4OtS0oRslwCntE8c0) | 3:02 |
+| 47 | [Devil of Love](https://open.spotify.com/track/7ndKQcigXPkmRV3OX8VbiE) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Devil of Love](https://open.spotify.com/album/3fe9w4OtS0oRslwCntE8c0) | 3:02 |
+| 48 | [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 |
+| 49 | [nie ma sprawy](https://open.spotify.com/track/0ZjzW2KrxA4D9ApszgcJuU) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [nie ma sprawy](https://open.spotify.com/album/3plNMNMK3c7zrW47sGDKA0) | 2:42 |
+| 50 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 |
 
 Snapshot ID: `Z6U/HgAAAAAOCeZ74dFoJ5jC4YXOuC1p`

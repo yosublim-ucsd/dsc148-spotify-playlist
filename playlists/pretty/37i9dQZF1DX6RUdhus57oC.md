@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,529 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,573 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 9 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
 | 10 | [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 |
 | 11 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
-| 12 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
-| 13 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
-| 14 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
-| 15 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
+| 12 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 13 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
+| 14 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
+| 15 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
 | 16 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 17 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
 | 18 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 27 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 |
 | 28 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
 | 29 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
-| 30 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
-| 31 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 |
+| 30 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 |
+| 31 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
 | 32 | [Introvert](https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW) | [Nadija Lapina](https://open.spotify.com/artist/1VPvIcBilHkAOqfwEEWfH9) | [Introvert](https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8) | 2:25 |
 | 33 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 34 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 43 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 | 44 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
 | 45 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 |
-| 46 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
-| 47 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
+| 46 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
+| 47 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
 | 48 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
 | 49 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
 | 50 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |

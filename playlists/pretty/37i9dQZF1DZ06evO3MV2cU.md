@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,535 likes - 51 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,546 likes - 51 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 8 | [Everlasting God](https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning \(Special Edition\)](https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd) | 4:22 |
 | 9 | [Good Good Father](https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:24 |
 | 10 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
-| 11 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
-| 12 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
+| 11 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 |
+| 12 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
 | 13 | [How Great Is Our God](https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:49 |
 | 14 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 |
 | 15 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:50 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 50 | [I See You \(with Brandon Lake\)](https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 3:50 |
 | 51 | [God Who Listens \(feat\. Thomas Rhett\)](https://open.spotify.com/track/0qIx8dthnBVdqP0F7Pl8AG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 4:09 |
 
-Snapshot ID: `Z6VNAAAAAABgE2A+0dAJqzil0g787QED`
+Snapshot ID: `Z6aegAAAAACTsbWq6lfcXO2r44vI8GqJ`

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-779 songs - 1 day 11 hr 10 min
+780 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [beginning](https://open.spotify.com/track/0o3doNBnx1bZ1jwC1Ctd9l) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [beginning](https://open.spotify.com/album/5ghXbPt9oQ8WbZKstyKDfR) | 2:32 | 2023-08-10 | 2024-02-22 |
 | [Beneath The Neon](https://open.spotify.com/track/7ox6hzEN6C4H3QmQdNpr7B) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beneath The Neon](https://open.spotify.com/album/1yXlNddUUTar1TjIKgrqze) | 2:52 | 2021-12-23 | 2022-06-07 |
 | [Berlin Tsukin](https://open.spotify.com/track/0MHOzZBDrPjBocW11I2Ht6) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Bi\-To Te\-Pu](https://open.spotify.com/album/58sIfXaBn3HkCmbCRJkCJr) | 3:12 | 2021-12-23 | 2022-05-08 |
-| [Better](https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Better](https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN) | 2:51 | 2021-12-23 |  |
+| [Better](https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Better](https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN) | 2:51 | 2021-12-23 | 2025-02-10 |
 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-12-23 |  |
 | [Big Love](https://open.spotify.com/track/7hAoj5A44i1zsRS3dNrgDP) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF) | [Big Love](https://open.spotify.com/album/3TZoRNW7wTqD0jVsrqhnon) | 2:00 | 2021-12-23 | 2024-10-21 |
 | [Bike Rides](https://open.spotify.com/track/0l90JTBQ4ssx6tcim4FSQW) | [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Bike Rides](https://open.spotify.com/album/38N1fjUHe6koBsO5yoHF88) | 1:47 | 2022-03-31 | 2022-04-20 |
@@ -604,7 +604,7 @@
 | [shunmin](https://open.spotify.com/track/1k1V89wZNDMD6HwrFTjJPR) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [shunmin](https://open.spotify.com/album/1ju1tXBlpwn5VaWqN5DtGY) | 3:22 | 2023-03-23 | 2023-11-30 |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2021-12-23 |  |
 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
-| [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 | 2025-01-26 |
+| [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 |  |
 | [Skip](https://open.spotify.com/track/34N17xMTier5nIm0ETF1xD) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Late Night](https://open.spotify.com/album/6zmkMxBuSxAEC9Hm6vDNQi) | 3:00 | 2021-12-23 | 2022-04-19 |
 | [Skylight](https://open.spotify.com/track/3bBTY2QAtEHHRUB34mM44q) | [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Skylight](https://open.spotify.com/album/4XzwXAqKC43RXOtCJGkvfU) | 2:09 | 2022-01-13 | 2022-04-12 |
 | [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 |  |
@@ -646,7 +646,7 @@
 | [Stingless Bee](https://open.spotify.com/track/24xYIwF42jBy7Jwux9cEoJ) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [Nostalgic Fantasy Soul](https://open.spotify.com/album/2HoyEuMjNgPocFWpUj5hLd) | 1:27 | 2021-12-23 | 2022-07-29 |
 | [Streets of Kyoto](https://open.spotify.com/track/6NRRbRKPVZOZKVtGIDiVVe) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Streets of Kyoto](https://open.spotify.com/album/7zqqLokT18SEG7y7AZ576V) | 1:36 | 2022-01-13 | 2022-04-16 |
 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 | 2022-07-28 | 2024-04-19 |
-| [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 |  |
+| [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2025-02-10 |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 | 2024-07-15 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
 | [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 | 2023-06-10 |
@@ -662,6 +662,7 @@
 | [Sun Drop](https://open.spotify.com/track/6rITQQhavaBXV2AwZPqMwa) | [Yugo Ease](https://open.spotify.com/artist/3lm53S8BFfxuEVL7Nxn7FJ), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Dusk Till Dawn](https://open.spotify.com/album/6jAndBmWe4DdxiWLQAlURr) | 2:37 | 2022-03-24 | 2022-04-13 |
 | [Sun Shower](https://open.spotify.com/track/51bpkKHVzbH70ATH18AZ5M) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Sun Shower](https://open.spotify.com/album/5fT54xmeW7hkwF8qwUcfd9) | 2:40 | 2022-01-06 | 2022-07-25 |
 | [Sunday Burger](https://open.spotify.com/track/1wqj078Th6WnoIQrPjIZE0) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [OLD WAYS WON'T OPEN NEW DOOR](https://open.spotify.com/album/3Sa35KpRmVffMhH4b73h0J) | 2:12 | 2022-01-13 | 2022-06-11 |
+| [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-02-09 |  |
 | [sunrise](https://open.spotify.com/track/2k61tAqGJe9nZXbmsrmGxp) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/2WSSsVSgLA4dtUeDKlmz4l) | 2:56 | 2023-01-19 | 2023-01-21 |
 | [sunrise](https://open.spotify.com/track/3syEFU3GcxSZUhwAJzBfTh) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/5Zm3mPMM6RbSeCL9S48CeC) | 2:56 | 2023-01-19 | 2023-04-12 |
 | [SUNSHOWER](https://open.spotify.com/track/1UBW6L4Kg42c0FNL8nTIGp) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [MIDNIGHTINDICA](https://open.spotify.com/album/5Pi2OXnK98IqCrNbFhL7Yd) | 2:41 | 2023-07-13 | 2024-04-19 |

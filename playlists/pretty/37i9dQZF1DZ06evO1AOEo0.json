@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 35599,
+  "num_followers": 35602,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABWJBRCqdUF2pGTPR6yHxAs",
+  "snapshot_id": "Z6aegAAAAACKG6rnm+03mqrG9cBuwD+3",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Worship Initiative, Vol. 7",
+        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 337954,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 293802,
+      "name": "Is He Worthy (Live)",
+      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 18",
         "url": "https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609"
       },
@@ -359,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns Live",
-        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
       },
       "artists": [
         {
@@ -368,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 293802,
-      "name": "Is He Worthy (Live)",
-      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+      "duration_ms": 351718,
+      "name": "Come Thou Fount (Above All Else)",
+      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
     },
     {
       "added_at": null,
@@ -388,25 +424,29 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 337954,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
+      "duration_ms": 298926,
+      "name": "Mighty to Save",
+      "url": "https://open.spotify.com/track/30YQbcVnagrZXrFojO8cOT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hymns, Vol. 1",
-        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 351718,
-      "name": "Come Thou Fount (Above All Else)",
-      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
+      "duration_ms": 342625,
+      "name": "Before the Throne of God Above",
+      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
     },
     {
       "added_at": null,
@@ -439,46 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 3",
-        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 342625,
-      "name": "Before the Throne of God Above",
-      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 7",
-        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 298926,
-      "name": "Mighty to Save",
-      "url": "https://open.spotify.com/track/30YQbcVnagrZXrFojO8cOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 338422,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship Initiative, Vol. 6",
+        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 271766,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
     },
     {
       "added_at": null,
@@ -515,26 +535,6 @@
       "duration_ms": 317145,
       "name": "God of Every Grace",
       "url": "https://open.spotify.com/track/6qcLnUhXzgGqSY9cCJrgbs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 6",
-        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 271766,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 282681,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+      "duration_ms": 371621,
+      "name": "The Lord Is My Salvation",
+      "url": "https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 371621,
-      "name": "The Lord Is My Salvation",
-      "url": "https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF"
+      "duration_ms": 282681,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
     },
     {
       "added_at": null,

@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 157920,
       "name": "As Tears Go By",
       "url": "https://open.spotify.com/track/2EYXCRp63iQdmeKHXN8Rrg"
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 85642,
       "name": "BLUE HORIZON FUNK - SLOWED",
       "url": "https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz"
@@ -10743,6 +10743,28 @@
     },
     {
       "album": {
+        "name": "HER G\u00dcN A\u011eLADIM",
+        "url": "https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "HER G\u00dcN A\u011eLADIM",
+      "url": "https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn"
+    },
+    {
+      "album": {
         "name": "Heroes Are Calling",
         "url": "https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e"
       },
@@ -14744,7 +14766,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
@@ -14986,7 +15008,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
@@ -15008,7 +15030,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -17143,6 +17165,28 @@
     },
     {
       "album": {
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        },
+        {
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
+    },
+    {
+      "album": {
         "name": "MURAKAMI",
         "url": "https://open.spotify.com/album/4NVsfiFwEXlewPFjMB8bjo"
       },
@@ -17716,7 +17760,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 126832,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
@@ -19284,6 +19328,24 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
     },
     {
       "album": {
@@ -24276,7 +24338,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 249533,
       "name": "The Ballad Of Lucy Jordan",
       "url": "https://open.spotify.com/track/4gj5Wv7rAJYhBrGPu01mxD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,942 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,946 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

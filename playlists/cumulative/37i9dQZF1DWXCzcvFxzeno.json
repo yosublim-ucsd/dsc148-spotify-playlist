@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 244299,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ"
@@ -1614,6 +1614,28 @@
       "duration_ms": 317300,
       "name": "Full Belly",
       "url": "https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU"
+    },
+    {
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/25UZcKrzHZ5LqkSQfX1nSL"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Di\u00f8n",
+          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj"
     },
     {
       "album": {
@@ -2768,7 +2790,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 318000,
       "name": "Naked Light - Sara Landry Remix",
       "url": "https://open.spotify.com/track/0nVoVGIJd5EXGxy45MymFS"
@@ -4351,6 +4373,28 @@
     },
     {
       "album": {
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
+    },
+    {
+      "album": {
         "name": "Welcome Back Devil",
         "url": "https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz"
       },
@@ -4441,6 +4485,28 @@
     },
     {
       "album": {
+        "name": "WTF?",
+        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222574,
+      "name": "WTF?",
+      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
+    },
+    {
+      "album": {
         "name": "Dier van de Nacht",
         "url": "https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG"
       },
@@ -4478,7 +4544,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 288000,
       "name": "XTC Love",
       "url": "https://open.spotify.com/track/46oG3q3ZvNvEWQOPJcs8Oh"

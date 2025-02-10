@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,074 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,446 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 25 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 26 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 |
 | 27 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
-| 28 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 |
+| 28 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
 | 29 | [In Case I Ain't Around](https://open.spotify.com/track/52lejmjP4o5bcZSAWKtXR3) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:30 |
 | 30 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:53 |
 | 31 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
-| 32 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
+| 32 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 |
 | 33 | [Front Door Famous](https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:18 |
 | 34 | [Missin’ You Like This \(Feat\. Luke Combs\)](https://open.spotify.com/track/1IzCS4zuowRsXu4YS8caOB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:42 |
 | 35 | [Sheriff You Want To](https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 |
 | 50 | [The Way She Rides](https://open.spotify.com/track/4t2AnYhvH7gr59zLJ5Cn6c) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 2:45 |
 
-Snapshot ID: `Z6VNAAAAAADcz4mRRnHi4snOKXV7nGFL`
+Snapshot ID: `Z6aegAAAAAD6xo0gqgTwKo6eePwVeJh/`

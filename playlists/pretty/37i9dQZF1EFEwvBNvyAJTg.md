@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 63 | [Animal](https://open.spotify.com/track/690DtfFHFhizuE0rbQslzz) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Contrast](https://open.spotify.com/album/5jbzK5h4FujeX48gzLwBoi) | 3:16 |
 | 64 | [Breathe](https://open.spotify.com/track/2fEO0ZzHNp82CfZ6BxVqso) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:29 |
 | 65 | [Love Made Me Do It](https://open.spotify.com/track/3yFQhSmhgVf4thycUwRmXE) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Love Made Me Do It](https://open.spotify.com/album/1B7hNM5LicxuEfmaVxz96s) | 3:26 |
-| 66 | [Murder](https://open.spotify.com/track/1x2Lwsmw3nHlitV31w3Hwu) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Fable](https://open.spotify.com/album/2KKnbxUK3ycERX2d9qINVP) | 3:09 |
-| 67 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
+| 66 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
+| 67 | [Murder](https://open.spotify.com/track/1x2Lwsmw3nHlitV31w3Hwu) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Fable](https://open.spotify.com/album/2KKnbxUK3ycERX2d9qINVP) | 3:09 |
 | 68 | [Handy](https://open.spotify.com/track/4ZJGobiy4ayWSdKfoqMRlX) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Mandatory Fun](https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV) | 2:56 |
 | 69 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 |
 | 70 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 216 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 217 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbpEvgAAAACWf+jNk/zZc0EHQPscTPBl`
+Snapshot ID: `AbpKVAAAAADa3d23b6tRc4iH6d0lwGPo`

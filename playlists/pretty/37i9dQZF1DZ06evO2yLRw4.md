@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,953 likes - 52 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,955 likes - 52 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 51 | [Take A Chance On Me \(feat\. Jewel\)](https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 52 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 
-Snapshot ID: `Z6VNAAAAAABl3QOPnt+k4bPD5YIDK9gs`
+Snapshot ID: `Z6aegAAAAACm2n/eISvb0M03WmHrR1V7`

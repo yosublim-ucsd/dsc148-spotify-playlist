@@ -2,7 +2,7 @@
 
 ### [Westside Story](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: Tyga
+> Holdin' it down for the westside\. Cover: Kendrick Lamar
 
 1,094 songs - 2 day 2 hr 57 min
 

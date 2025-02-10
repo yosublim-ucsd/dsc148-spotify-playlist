@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=8\_YdOuPtQeuHTILduA39Zw">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,755 likes - 63 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,793 likes - 63 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

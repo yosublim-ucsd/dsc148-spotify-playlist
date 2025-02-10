@@ -1,6 +1,6 @@
 {
   "description": "The best alternative songs of the decade. Cover: Vampire Weekend",
-  "num_followers": 905056,
+  "num_followers": 905052,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 243960,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -335,38 +335,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193058,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -383,6 +351,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 234693,
       "name": "King Kunta",
       "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 193058,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 347525,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -579,38 +579,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -623,6 +591,22 @@
       "duration_ms": 248335,
       "name": "It's Not Living (If It's Not With You)",
       "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -655,6 +639,22 @@
       "duration_ms": 218754,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -703,6 +703,22 @@
       "duration_ms": 209919,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 252925,
+      "name": "Love It If We Made It",
+      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -767,22 +783,6 @@
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 252925,
-      "name": "Love It If We Made It",
-      "url": "https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 207851,
+      "name": "TOOTIMETOOTIMETOOTIME",
+      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 207851,
-      "name": "TOOTIMETOOTIMETOOTIME",
-      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Violet Street",
         "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Chaleur Humaine",
-        "url": "https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Parcels",
         "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 205048,
       "name": "Withorwithout",
       "url": "https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Chaleur Humaine",
+        "url": "https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 349693,
-      "name": "oh baby",
-      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 281346,
+      "name": "Los Ageless",
+      "url": "https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw"
     }
   ],
   "unique_name": "Alternative 10s",

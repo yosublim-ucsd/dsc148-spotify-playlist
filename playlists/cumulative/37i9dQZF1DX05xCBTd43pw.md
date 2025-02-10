@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-179 songs - 8 hr 56 min
+180 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [babyboy](https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [Milan](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE) | [babyboy](https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8) | 2:50 | 2024-06-27 | 2024-10-28 |
 | [bad in bed](https://open.spotify.com/track/5VEbufushgdxy4ABk3zLgb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [bad in bed](https://open.spotify.com/album/3rJocQaLt2DOdES15IklMl) | 3:17 | 2025-01-10 |  |
 | [bad times](https://open.spotify.com/track/72hh4nkhvz4iC6mXpJZ9oL) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bad times](https://open.spotify.com/album/47I2gUQL7qdI0iYfY5DNxo) | 3:03 | 2024-06-27 | 2024-07-14 |
+| [Balloons](https://open.spotify.com/track/1V47lbZfZhqeSHpj8I8rDU) | [Bart Derylo](https://open.spotify.com/artist/1mEfrWaDu40DnLLC6s9ofw), [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA), [Szymon Justyński](https://open.spotify.com/artist/3bO4mpY93N6E0dFcsClKKi) | [Balloons](https://open.spotify.com/album/2lP6OqzWUHRpdzaKyrTL1c) | 3:35 | 2025-02-07 |  |
 | [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 | 2024-06-27 |  |
 | [Best I Can Do](https://open.spotify.com/track/0Tu3El3HOpkbD18g5sqw7t) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Best I Can Do](https://open.spotify.com/album/04QmZasEti9O75l6JrjPFc) | 3:10 | 2024-08-19 | 2024-08-30 |
 | [Bird](https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Waves & Wishes](https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m) | 2:52 | 2024-09-13 | 2024-10-19 |
@@ -152,7 +153,7 @@
 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 | 2024-06-27 | 2025-01-09 |
 | [Soft](https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Soft](https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn) | 3:03 | 2024-10-18 |  |
 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 | 2024-06-27 |  |
-| [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 |  |
+| [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 | 2025-02-10 |
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-06-27 | 2024-10-04 |
 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 | 2024-09-27 | 2025-01-11 |
 | [spark](https://open.spotify.com/track/13lod7e7tqMqSPXmi6jBKY) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [spark](https://open.spotify.com/album/73OXMgGuaifUXUzzh7sn6w) | 3:21 | 2024-12-20 | 2025-02-08 |

@@ -551,30 +551,6 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },
@@ -607,6 +583,30 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -655,22 +671,6 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 126447,
       "name": "how could u love somebody like me?",
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 178236,
-      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
         "name": "\u05d3\u05d0\u05de",
         "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 169322,
       "name": "\u05d3\u05d0\u05de",
       "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 178236,
+      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+      },
+      "artists": [
+        {
+          "name": "Peer Tasi",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
         "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
       },
@@ -1295,58 +1311,6 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
-      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
-      },
-      "artists": [
-        {
-          "name": "Peer Tasi",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
-        "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 287141,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
         "name": "Unicorn",
         "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
       },
@@ -1383,18 +1347,38 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+        "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl"
       },
       "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
         {
           "name": "Jasmin Moallem",
           "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 196548,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
+      "duration_ms": 287141,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
+      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1415,34 +1399,18 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "Part II",
-        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
+        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
       },
       "artists": [
         {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 219047,
-      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
-      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
-        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
-        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
-      },
-      "artists": [
-        {
-          "name": "Idan Amedi",
-          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
-      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
+      "duration_ms": 196548,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1459,6 +1427,22 @@
       "duration_ms": 182700,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
+        "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
+      },
+      "artists": [
+        {
+          "name": "Idan Amedi",
+          "url": "https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1499,6 +1483,22 @@
       "duration_ms": 173913,
       "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
       "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "Part II",
+        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
     },
     {
       "added_at": "2025-02-06 22:00:24",

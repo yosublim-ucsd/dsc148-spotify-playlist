@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,260 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,231 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 11 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 |
 | 12 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:37 |
 | 13 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
-| 14 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
-| 15 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
+| 14 | [Pet Sematary](https://open.spotify.com/track/07b5vArZtW08PuEqCw61Ei) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:29 |
+| 15 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
 | 16 | [Is There A Ghost](https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 2:59 |
 | 17 | [Killer](https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:09 |
 | 18 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 29 | [Skeleton Boy](https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft) | 3:33 |
 | 30 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
 | 31 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
-| 32 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
-| 33 | [River Styx](https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo \(Deluxe Version\)](https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP) | 3:52 |
+| 32 | [River Styx](https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo \(Deluxe Version\)](https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP) | 3:52 |
+| 33 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
 | 34 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
 | 35 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 | 36 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |

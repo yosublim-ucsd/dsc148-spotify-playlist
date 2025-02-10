@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 426533,
+  "num_followers": 426656,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-02-06 16:00:22",
       "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+    },
+    {
+      "added_at": "2025-02-06 16:00:22",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
-    },
-    {
-      "added_at": "2025-02-06 16:00:22",
-      "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2025-02-06 16:00:22",
@@ -267,26 +267,6 @@
     {
       "added_at": "2025-02-06 16:00:22",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2025-02-06 16:00:22",
-      "album": {
         "name": "Supernova Love",
         "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
+    },
+    {
+      "added_at": "2025-02-06 16:00:22",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2025-02-06 16:00:22",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-02-06 16:00:22",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
-    },
-    {
-      "added_at": "2025-02-06 16:00:22",
-      "album": {
         "name": "RITMO (Bad Boys For Life)",
         "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 221714,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "added_at": "2025-02-06 16:00:22",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
     },
     {
       "added_at": "2025-02-06 16:00:22",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-02-06 16:00:22",
       "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "added_at": "2025-02-06 16:00:22",
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": "2025-02-06 16:00:22",
       "album": {
-        "name": "Work With My Love",
-        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "Work With My Love",
-      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2025-02-06 16:00:22",
-      "album": {
         "name": "I Was Made",
         "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
       },
@@ -711,30 +711,6 @@
       "duration_ms": 155399,
       "name": "I Was Made",
       "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
-    },
-    {
-      "added_at": "2025-02-06 16:00:22",
-      "album": {
-        "name": "Tonight (D.I.Y.A)",
-        "url": "https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 181341,
-      "name": "Tonight (D.I.Y.A)",
-      "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
     },
     {
       "added_at": "2025-02-06 16:00:22",
@@ -803,6 +779,30 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "added_at": "2025-02-06 16:00:22",
+      "album": {
+        "name": "Tonight (D.I.Y.A)",
+        "url": "https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 181341,
+      "name": "Tonight (D.I.Y.A)",
+      "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
     },
     {
       "added_at": "2025-02-06 16:00:22",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-02-06 16:00:22",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
-    },
-    {
-      "added_at": "2025-02-06 16:00:22",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
+    },
+    {
+      "added_at": "2025-02-06 16:00:22",
+      "album": {
+        "name": "Thank You [Not So Bad]",
+        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "Thank You [Not So Bad]",
+      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
     }
   ],
   "unique_name": "EDM Samplings",

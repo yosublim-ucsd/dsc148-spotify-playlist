@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 328 songs - 20 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 328 songs - 20 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 34 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 |
 | 35 | [Dress](https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:50 |
 | 36 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 |
-| 37 | [London Boy](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
-| 38 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 |
+| 37 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 |
+| 38 | [London Boy](https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 39 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 |
 | 40 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
 | 41 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 140 | [Let's Get Married](https://open.spotify.com/track/4PKorFhOq9YfwOGJx0cOiJ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:06 |
 | 141 | [Better Life](https://open.spotify.com/track/2Ok3BkZ7qcSfFCm67HSGCM) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:20 |
 | 142 | [Stop Making This Hurt](https://open.spotify.com/track/7fRCD4vVNpCy91Y3zxNMUl) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:19 |
-| 143 | [Fallen Fruit](https://open.spotify.com/track/5iUnomffoLeQsdlY2k5TDU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:58 |
-| 144 | [Kintsugi](https://open.spotify.com/track/4VL310GGX3b2ixL3sV0Je8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 6:18 |
+| 143 | [Kintsugi](https://open.spotify.com/track/4VL310GGX3b2ixL3sV0Je8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 6:18 |
+| 144 | [Fallen Fruit](https://open.spotify.com/track/5iUnomffoLeQsdlY2k5TDU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:58 |
 | 145 | [Dope](https://open.spotify.com/track/660JUD1xQLB4XR1dMxUK4x) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:32 |
 | 146 | [The Gambler](https://open.spotify.com/track/4Nkn6En6TiZQRuTpEDPOYs) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:11 |
 | 147 | [All Alright](https://open.spotify.com/track/6rcA2JxFUmlFw4GDLITcvj) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 3:57 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 195 | [Red Hearse](https://open.spotify.com/track/31xjtO7HP29sNDHdkqmtpv) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 2:36 |
 | 196 | [Sweetie](https://open.spotify.com/track/2uxnPcTJa2UExlj1LwYZp6) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:38 |
 | 197 | [All My Heroes](https://open.spotify.com/track/7AyebpN2kre7LbB2aV3oRh) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:03 |
-| 198 | [Take Me Away \(feat\. Grimes\)](https://open.spotify.com/track/0DdJoUPb3VXOZ9zl0vAwHn) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 2:30 |
-| 199 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
+| 198 | [Pay Your Way In Pain](https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:03 |
+| 199 | [Take Me Away \(feat\. Grimes\)](https://open.spotify.com/track/0DdJoUPb3VXOZ9zl0vAwHn) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 2:30 |
 | 200 | [Helen of Troy \- Bonus Track](https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 2:51 |
 | 201 | [Reckless Love](https://open.spotify.com/track/1K8ZuQfhINJkswTTzTG036) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:01 |
 | 202 | [How Come You Don't Want Me](https://open.spotify.com/track/7Cx4OW8ovx6F2qrtxIniXB) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 2:51 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 327 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 328 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AbpEqgAAAAAlA5IS9SQBEubXTazxh6Vn`
+Snapshot ID: `AbpKNgAAAABS4Jxzvbhr4JzEb9uF9fzZ`

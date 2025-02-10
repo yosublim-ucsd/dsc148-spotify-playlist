@@ -1,6 +1,6 @@
 {
   "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: IVE(\uc544\uc774\ube0c)",
-  "num_followers": 879290,
+  "num_followers": 879379,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2025-02-03 09:07:49",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
       "added_at": "2025-02-03 09:07:49",
@@ -355,6 +371,38 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
       },
@@ -383,102 +431,6 @@
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
-      },
-      "artists": [
-        {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
-        }
-      ],
-      "duration_ms": 179808,
-      "name": "Miniskirt",
-      "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "\u2018The ReVe Festival\u2019 Finale",
-        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
     },
     {
       "added_at": "2025-02-03 09:07:49",
@@ -515,18 +467,34 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
       "added_at": "2025-02-03 09:07:49",
@@ -551,34 +519,34 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+      "duration_ms": 179808,
+      "name": "Miniskirt",
+      "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
     },
     {
       "added_at": "2025-02-03 09:07:49",
@@ -599,6 +567,38 @@
     {
       "added_at": "2025-02-03 09:07:49",
       "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
+        "name": "\u2018The ReVe Festival\u2019 Finale",
+        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
-    },
-    {
-      "added_at": "2025-02-03 09:07:49",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2025-02-03 09:07:49",
@@ -659,6 +643,22 @@
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
+    },
+    {
+      "added_at": "2025-02-03 09:07:49",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     }
   ],
   "unique_name": "Girl Krush",

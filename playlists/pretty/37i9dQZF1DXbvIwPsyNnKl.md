@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > our Spotify KALYE Artist of the Year is Hev Abi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,857 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,360 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

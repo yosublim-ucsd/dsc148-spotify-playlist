@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Beyonc\u00e9",
-  "num_followers": 583510,
+  "num_followers": 583598,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -167,22 +183,6 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
         "name": "Watermelon Moonshine",
         "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 208853,
       "name": "Watermelon Moonshine",
       "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -215,22 +231,6 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -319,50 +303,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "We All Grow Up",
-        "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "Lies Lies Lies",
-        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 198068,
-      "name": "Lies Lies Lies",
-      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -383,6 +335,54 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
+        "name": "We All Grow Up",
+        "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -399,18 +399,22 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 239533,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -479,22 +483,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Lonely Road (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 189356,
-      "name": "Lonely Road (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+      "duration_ms": 239533,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Thoughts of You",
-      "url": "https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
+      "duration_ms": 172125,
+      "name": "Thoughts of You",
+      "url": "https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -855,22 +855,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 188106,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -895,18 +891,22 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+      "duration_ms": 188106,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Killed The Cowboy",
-        "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 184173,
-      "name": "Chevrolet (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1151,6 +1147,26 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "Killed The Cowboy",
+        "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Chevrolet (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Am I Okay? (I'll Be Fine)",
-        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 214670,
-      "name": "Break It Right Back",
-      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
         "name": "I Will (When You Do)",
         "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
       },
@@ -1223,18 +1223,50 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Think I\u2019m In Love With You",
-        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Think I'm In Love With You",
-      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "Break It Right Back",
+      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1255,22 +1287,6 @@
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1303,22 +1319,6 @@
       "duration_ms": 160680,
       "name": "Ain't Doin' Jack",
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 166035,
-      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
-      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
         "name": "Next Thing You Know",
         "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
       },
@@ -1527,22 +1547,18 @@
     {
       "added_at": "2025-02-07 05:00:26",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1559,22 +1575,6 @@
       "duration_ms": 197066,
       "name": "Bigger Houses",
       "url": "https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1623,6 +1623,22 @@
       "duration_ms": 186790,
       "name": "What My World Spins Around",
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "added_at": "2025-02-07 05:00:26",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
     },
     {
       "added_at": "2025-02-07 05:00:26",
@@ -1691,22 +1707,6 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
-    },
-    {
-      "added_at": "2025-02-07 05:00:26",
-      "album": {
-        "name": "This Town's Been Too Good To Us",
-        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 191626,
-      "name": "This Town's Been Too Good To Us",
-      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     }
   ],
   "unique_name": "Big Country",

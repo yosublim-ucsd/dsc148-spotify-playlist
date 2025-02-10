@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Sofie Royer.
 
-1,852 songs - 4 day 4 hr 12 min
+1,854 songs - 4 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Crazier](https://open.spotify.com/track/1KUZUkyEGDvWxT4l1D9gGF) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/6VA0F9GSo9tASAQtUQkLmZ) | 3:53 | 2022-03-21 | 2022-07-29 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 | 2024-08-10 |
 | [Creepy Nightmare](https://open.spotify.com/track/5stnU0RHyyDBTRGkY9EELu) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [vanitas](https://open.spotify.com/album/4SKmZ9UDkL4NrEgXzJw81z) | 3:52 | 2022-02-03 | 2022-08-02 |
-| [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 | 2025-01-17 |  |
+| [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 | 2025-01-17 | 2025-02-10 |
 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 | 2022-03-24 | 2022-08-02 |
 | [CTRL](https://open.spotify.com/track/2lj1RNDztkIsyzhAX2soEa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:05 | 2022-03-24 | 2022-04-16 |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/5EpNgq3IHbbNKKRT9hIu9W) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Cuando Estoy Contigo/Dulce Amargo](https://open.spotify.com/album/3X7TmpyxaeZNYPeue8lurN) | 2:57 | 2022-03-24 | 2022-04-21 |
@@ -930,6 +930,7 @@
 | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Maafkan Aku \#terlanjurmencinta](https://open.spotify.com/album/7HfpqObrxrN4qutlLkxTw3) | 3:44 | 2022-02-03 | 2022-03-15 |
 | [Mad At Me](https://open.spotify.com/track/2wQmcZpQyG5VnUaScPlcTB) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Mad At Me](https://open.spotify.com/album/62Nn5iDRbJrvyKsSaWcPOA) | 2:54 | 2024-08-16 | 2024-09-28 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-06-29 | 2022-08-02 |
+| [madly](https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [madly](https://open.spotify.com/album/1A04yD0uVhmPJgpRyia9Lc) | 2:42 | 2025-02-07 |  |
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-03-24 | 2022-09-16 |
 | [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-09-13 | 2024-11-02 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2023-05-30 | 2023-10-28 |
@@ -1483,7 +1484,7 @@
 | [There She Goes](https://open.spotify.com/track/6IlOjEQb1xHx4GUAaoFI7H) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2022-03-24 | 2022-04-21 |
 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 |  |
 | [Things](https://open.spotify.com/track/3dm5Ce7vQ3JEpSVnqyjGPR) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:19 | 2022-03-24 | 2022-12-15 |
-| [Things We Can’t Change](https://open.spotify.com/track/5ye69m9BT1uKBxmrI4tg3O) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Things We Can’t Change](https://open.spotify.com/album/0r1WIueboWxL9xiWuavKtH) | 2:42 | 2025-01-10 |  |
+| [Things We Can’t Change](https://open.spotify.com/track/5ye69m9BT1uKBxmrI4tg3O) | [LENNY](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Things We Can’t Change](https://open.spotify.com/album/0r1WIueboWxL9xiWuavKtH) | 2:42 | 2025-01-10 | 2025-02-10 |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2022-02-03 | 2022-08-02 |
 | [Thiên Hạ Hữu Tình Nhân](https://open.spotify.com/track/2AC0pwlMPaOY4gq5i16zzu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Thiên Hạ Hữu Tình Nhân](https://open.spotify.com/album/5mnNEFg6CJQWWDRQ6EGxqf) | 2:37 | 2022-03-24 | 2022-04-21 |
 | [Thumb War](https://open.spotify.com/track/4PCS43NMFxaBqSAocp67Ml) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Thumb War](https://open.spotify.com/album/4GzWCviDgvcDeWcCWj8ESS) | 2:21 | 2024-05-10 | 2024-09-15 |
@@ -1678,6 +1679,7 @@
 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 | 2023-11-11 |
 | [À nos jours](https://open.spotify.com/track/5vu4ohLMtoQ8F1ozWnim3Q) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:39 | 2022-03-24 | 2022-08-02 |
 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 | 2023-05-30 | 2024-03-09 |
+| [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-07 |  |
 | [Öl İçimde](https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde](https://open.spotify.com/album/41SssnSpIajL67pupQYIwk) | 3:13 | 2023-11-17 | 2024-01-20 |
 | [Ölme](https://open.spotify.com/track/2Ka3Q9nzUdhBQDLNhjkRAX) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Hermès](https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m) | 2:38 | 2025-01-17 |  |
 | [đã từng](https://open.spotify.com/track/4HFtL01dqao5pZ3ka6Ys3f) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Paylist](https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3) | 4:21 | 2023-05-30 | 2023-12-16 |

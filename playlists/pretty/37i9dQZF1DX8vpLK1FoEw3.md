@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > bora viajar nesse foguete?? as faixas perfeitas pro seu verão selecionadas pelo ícone do momento: <a href="spotify:artist:1DuBkL1pAgaZQHXKPiVr08">Léo Foguete</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,269 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,299 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

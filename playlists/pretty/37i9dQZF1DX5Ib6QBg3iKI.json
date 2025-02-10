@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 144531,
+  "num_followers": 144513,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218465,
+      "name": "White Christmas (with Shania Twain)",
+      "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Kylie Christmas",
         "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 215160,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218465,
-      "name": "White Christmas (with Shania Twain)",
-      "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "My Kind Of Christmas",
-        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 117000,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "My Kind Of Christmas",
+        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Loneliest Time Of Year",
-        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Loneliest Time Of Year",
-      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Loneliest Time Of Year",
+        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Loneliest Time Of Year",
+      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "The Little Drummer Boy",
+        "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 176583,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 166801,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "The Little Drummer Boy",
-        "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 176583,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Gold Rush Kid (Christmas Edition)",
-        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Come On Home For Christmas",
-      "url": "https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Together In Electric Dreams",
         "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 201925,
       "name": "Together In Electric Dreams",
       "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Gold Rush Kid (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Come On Home For Christmas",
+      "url": "https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
-      "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Sister Winter B/W Rest",
-        "url": "https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Sister Winter",
-      "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
+      "duration_ms": 215466,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1159,6 +1143,22 @@
       "duration_ms": 239250,
       "name": "Walking in The Air",
       "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Sister Winter B/W Rest",
+        "url": "https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Sister Winter",
+      "url": "https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b"
     },
     {
       "added_at": "2024-12-13 09:34:44",

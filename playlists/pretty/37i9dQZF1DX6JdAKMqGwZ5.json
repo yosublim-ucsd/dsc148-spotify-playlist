@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Vera Fauna.",
-  "num_followers": 196910,
+  "num_followers": 196911,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "El lago de mi pena",
-        "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        },
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 236138,
-      "name": "El lago de mi pena",
-      "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 265046,
       "name": "Catro Cousas",
       "url": "https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "El lago de mi pena",
+        "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 236138,
+      "name": "El lago de mi pena",
+      "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "tormenta",
+        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 256423,
+      "name": "tormenta",
+      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "Es una pena",
         "url": "https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 213500,
       "name": "Es una pena",
       "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "tormenta",
-        "url": "https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 256423,
-      "name": "tormenta",
-      "url": "https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Vespa Verde Agua",
-        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        }
-      ],
-      "duration_ms": 166134,
-      "name": "Vespa Verde Agua",
-      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 225221,
       "name": "Fases",
       "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Vespa Verde Agua",
+        "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        }
+      ],
+      "duration_ms": 166134,
+      "name": "Vespa Verde Agua",
+      "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "Las Ganas",
+        "url": "https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm"
+      },
+      "artists": [
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        }
+      ],
+      "duration_ms": 174343,
+      "name": "Las Ganas",
+      "url": "https://open.spotify.com/track/7tJ0LlNH7eHxGibWp5a6g6"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "Tu Voz",
         "url": "https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Las Ganas",
-        "url": "https://open.spotify.com/album/1l19EzHzytuJX5h25PTLCm"
+        "name": "nada importa",
+        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
       },
       "artists": [
         {
-          "name": "Ale Acosta",
-          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 174343,
-      "name": "Las Ganas",
-      "url": "https://open.spotify.com/track/7tJ0LlNH7eHxGibWp5a6g6"
+      "duration_ms": 178904,
+      "name": "nada importa",
+      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "nada importa",
-        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
+        "name": "SORA",
+        "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 178904,
-      "name": "nada importa",
-      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
+      "duration_ms": 224000,
+      "name": "TECHNO TRISTE",
+      "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1219,22 +1235,6 @@
       "duration_ms": 164538,
       "name": "Capacidad",
       "url": "https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "SORA",
-        "url": "https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "TECHNO TRISTE",
-      "url": "https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "sangre y sal",
+        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "n\u00fameros rojos",
+      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "estoy exagerando???",
         "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
       },
@@ -1319,6 +1339,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "Al infierno",
+        "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 218779,
+      "name": "Al infierno",
+      "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "La Luna y el Sol",
         "url": "https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp"
       },
@@ -1339,26 +1375,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "sangre y sal",
-        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "n\u00fameros rojos",
-      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
       },
@@ -1375,18 +1391,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Al infierno",
-        "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
       },
       "artists": [
         {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
         }
       ],
-      "duration_ms": 218779,
-      "name": "Al infierno",
-      "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
+      "duration_ms": 165959,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1411,22 +1431,18 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
       "artists": [
         {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
-          "name": "LaPeste",
-          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
         }
       ],
-      "duration_ms": 165959,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1459,38 +1475,6 @@
       "duration_ms": 169955,
       "name": "abrigo",
       "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "Espina",
-        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Espina",
-      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1555,6 +1539,22 @@
       "duration_ms": 184739,
       "name": "V\u00e9rtigo",
       "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "La Bestia que Gritaba Amor en el Coraz\u00f3n del Universo",
-        "url": "https://open.spotify.com/album/3wVilni5q5zqQwccJwXVUJ"
-      },
-      "artists": [
-        {
-          "name": "9ckles",
-          "url": "https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR"
-        }
-      ],
-      "duration_ms": 104584,
-      "name": "los cables de una m\u00e1quina infalible son la imitaci\u00f3n perfecta de las plumas de un \u00e1ngel incorruptible.",
-      "url": "https://open.spotify.com/track/71puBzNXW6UP0IhiH42xYT"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "BLU",
         "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
       },
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "La Bestia que Gritaba Amor en el Coraz\u00f3n del Universo",
+        "url": "https://open.spotify.com/album/3wVilni5q5zqQwccJwXVUJ"
+      },
+      "artists": [
+        {
+          "name": "9ckles",
+          "url": "https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR"
+        }
+      ],
+      "duration_ms": 104584,
+      "name": "los cables de una m\u00e1quina infalible son la imitaci\u00f3n perfecta de las plumas de un \u00e1ngel incorruptible.",
+      "url": "https://open.spotify.com/track/71puBzNXW6UP0IhiH42xYT"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "M\u00e1s Profundidad",
         "url": "https://open.spotify.com/album/1ez2SUyH6Ms2nPCw9mEZI1"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 182400,
       "name": "M\u00e1s Profundidad",
       "url": "https://open.spotify.com/track/5goijdL65FQHzDws8ctgri"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1747,22 +1763,6 @@
       "duration_ms": 240853,
       "name": "Lirio",
       "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2025-02-06 23:00:32",

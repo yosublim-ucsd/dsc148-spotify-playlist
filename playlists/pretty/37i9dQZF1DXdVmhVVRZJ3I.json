@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 299404,
+  "num_followers": 299526,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -271,26 +291,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144648,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Pulverturm (ANNA Rework)",
         "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
       },
@@ -323,6 +323,30 @@
       "duration_ms": 122520,
       "name": "BELLYDANCING",
       "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -375,50 +399,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Summer's Back",
-        "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "Summer's Back",
-      "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Summer's Back",
+        "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "Summer's Back",
+      "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -499,30 +499,6 @@
       "duration_ms": 140000,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "It Don\u2019t Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 173742,
-      "name": "It Don\u2019t Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -611,26 +587,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
@@ -671,6 +627,30 @@
       "duration_ms": 152131,
       "name": "Devotion - 2020 Remix",
       "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "It Don\u2019t Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -779,22 +759,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
       },
       "artists": [
         {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
       ],
-      "duration_ms": 125878,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -819,6 +799,26 @@
       "duration_ms": 140160,
       "name": "Move Your Body - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 125878,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -963,6 +963,34 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Stephanie (HNTR Remix)",
+        "url": "https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 145467,
+      "name": "Stephanie - HNTR Remix",
+      "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "The Age of Love 2022",
         "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
@@ -1007,26 +1035,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -1047,6 +1055,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Kikada",
         "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
       },
@@ -1059,34 +1087,6 @@
       "duration_ms": 183473,
       "name": "Kikada",
       "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Atomic Bomb (feat. Juan Alcasar)",
-        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        },
-        {
-          "name": "Juan Alcasar",
-          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Atomic Bomb (feat. Juan Alcasar)",
-      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

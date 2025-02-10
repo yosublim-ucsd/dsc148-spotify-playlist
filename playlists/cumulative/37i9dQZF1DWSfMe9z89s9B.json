@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "0 to 100",
+        "url": "https://open.spotify.com/album/6ceVmdaa9VfbjdOgyjUQj4"
+      },
+      "artists": [
+        {
+          "name": "Isaiah kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "0 to 100",
+      "url": "https://open.spotify.com/track/6E16Jm5hzgZ3P8f8t3jUPv"
+    },
+    {
+      "album": {
         "name": "1080p",
         "url": "https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu"
       },
@@ -13366,7 +13384,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 140689,
       "name": "Lockjaw 2",
       "url": "https://open.spotify.com/track/6zDC7r1EzJ8gf4GiSr7Ez7"
@@ -15468,7 +15486,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 163507,
       "name": "Next 2 Me",
       "url": "https://open.spotify.com/track/1W3xsWvZq7k1XtMk9U5Mnr"
@@ -23530,6 +23548,24 @@
       "duration_ms": 197142,
       "name": "Too much sun in LA",
       "url": "https://open.spotify.com/track/7MlqMPavSR5rlpcMf9ybfC"
+    },
+    {
+      "album": {
+        "name": "top G",
+        "url": "https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5"
+      },
+      "artists": [
+        {
+          "name": "LUJAIN",
+          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135227,
+      "name": "top G",
+      "url": "https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b"
     },
     {
       "album": {

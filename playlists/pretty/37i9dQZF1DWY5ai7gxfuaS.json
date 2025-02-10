@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 308765,
+  "num_followers": 308830,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,30 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -227,26 +251,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "AFRAID TO DIE",
-        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
         },
         {
-          "name": "Tatiana Shmayluk",
-          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
-        },
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
         }
       ],
-      "duration_ms": 184215,
-      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
-      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -271,26 +291,6 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+        "name": "Learn To Forget",
+        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
+      "duration_ms": 181466,
+      "name": "Learn To Forget",
+      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Learn To Forget",
-        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Learn To Forget",
-      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 172067,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -631,6 +615,22 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 189257,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/0U6wtwuY9V5qWqnAXz90Y4"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/0U6wtwuY9V5qWqnAXz90Y4"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
-      },
-      "artists": [
-        {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
-        }
-      ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 204848,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "ABYSS",
-        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
-      },
-      "artists": [
-        {
-          "name": "Mimi Barks",
-          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "ABYSS",
-      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "The Future Says Thank You",
         "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "ABYSS",
+        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "ABYSS",
+      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
     },
     {
       "added_at": "2024-07-19 10:51:43",

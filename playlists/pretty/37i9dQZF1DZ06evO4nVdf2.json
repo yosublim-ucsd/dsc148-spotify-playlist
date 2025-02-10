@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61993,
+  "num_followers": 62004,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACauWcR0mHK+nVCgGIdexx1",
+  "snapshot_id": "Z6aegAAAAACpfhvzY0vmMEciEvfaDQ+R",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Adolescente",
+        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 245062,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -367,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Adolescente",
-        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
+        "name": "Ruzzicovers",
+        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
       },
       "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 245062,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY"
+      "duration_ms": 219086,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
     },
     {
       "added_at": null,
@@ -403,26 +423,6 @@
       "duration_ms": 287840,
       "name": "Un A\u00f1o M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruzzicovers",
-        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 219086,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que Se Va",
         "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 163432,
-      "name": "Ojos Diamante",
-      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -863,28 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vu\u00e9lame el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 201471,
-      "name": "A un Paso de Baile de Ti",
-      "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
       },
       "artists": [
         {
@@ -892,9 +856,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 263386,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+      "duration_ms": 163432,
+      "name": "Ojos Diamante",
+      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
     },
     {
       "added_at": null,
@@ -919,22 +883,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6uxAJWtRItOwN6lJslmktU"
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
       "artists": [
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 235661,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41"
+      "duration_ms": 263386,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vu\u00e9lame el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 201471,
+      "name": "A un Paso de Baile de Ti",
+      "url": "https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX"
     },
     {
       "added_at": null,
@@ -975,6 +955,26 @@
       "duration_ms": 221253,
       "name": "Si nos dejan",
       "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6uxAJWtRItOwN6lJslmktU"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 235661,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41"
     },
     {
       "added_at": null,

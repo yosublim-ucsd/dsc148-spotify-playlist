@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,193 likes - 34 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,194 likes - 34 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 3 | [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 |
 | 4 | [All Good Junkies Go To Heaven](https://open.spotify.com/track/34njTrFgZhw9t0NEMMVFkU) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 4:14 |
 | 5 | [Black Nurse](https://open.spotify.com/track/2kzRsFga0hQ3u6IbGo0VfY) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:52 |
-| 6 | [Cosmopolitan Blood Loss](https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:03 |
+| 6 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
 | 7 | [Pretty Lush \- 2009 Remaster](https://open.spotify.com/track/0HKPTrnaJNfBl3NmPiEY9o) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 2:59 |
 | 8 | [Natural Born Farmer](https://open.spotify.com/track/2CQ3jtUjKDeoik9rKqE0Zh) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:06 |
 | 9 | [Vanilla Poltergeist Snake](https://open.spotify.com/track/49DtpkyPIzyo4yJh02mxZQ) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:22 |
-| 10 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 |
+| 10 | [Cosmopolitan Blood Loss](https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:03 |
 | 11 | [Ry Ry's Song \- 2009 Remaster](https://open.spotify.com/track/0FaL1Zoii3CVQtNx3QvDQ3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:32 |
 | 12 | [shira](https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:57 |
 | 13 | [Gold](https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 4:43 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 33 | [The Choice Is Yours](https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 3:47 |
 | 34 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 
-Snapshot ID: `Z6VNAAAAAACPd8QODiycV6x4mmcorvAw`
+Snapshot ID: `Z6aegAAAAABySbklIk/fwa+PIajLqVQ1`

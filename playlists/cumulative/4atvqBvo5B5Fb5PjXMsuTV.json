@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Feb 19:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Feb 19:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -21234,7 +21234,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 111428,
       "name": "Enter The Dragon",
       "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
@@ -52576,6 +52576,24 @@
       "duration_ms": 253482,
       "name": "Poeira Cosmica",
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
+        "name": "POGO",
+        "url": "https://open.spotify.com/album/1Ravfb4ce8FyrvEKVi4PHd"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173784,
+      "name": "POGO",
+      "url": "https://open.spotify.com/track/1wiNWp8qVn2ZGZIi5SafqM"
     },
     {
       "album": {

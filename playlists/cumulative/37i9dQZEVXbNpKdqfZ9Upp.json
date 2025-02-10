@@ -2535,6 +2535,28 @@
     },
     {
       "album": {
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -8826,7 +8848,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 142053,
       "name": "chess - slowed",
       "url": "https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l"
@@ -17818,6 +17840,24 @@
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
+    },
+    {
+      "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317320,
+      "name": "Frances Limon",
+      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
     },
     {
       "album": {
@@ -27228,7 +27268,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -34044,7 +34084,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 142840,
       "name": "Oh My Angel",
       "url": "https://open.spotify.com/track/021LdJsjuCHyLbtAA33Vbf"
@@ -36404,7 +36444,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
@@ -40252,7 +40292,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
@@ -47662,7 +47702,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
@@ -49382,7 +49422,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 178795,
       "name": "Un d\u00eda a la vez",
       "url": "https://open.spotify.com/track/2WyMUbRbYvNWXg83ugIgzi"
@@ -52284,7 +52324,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

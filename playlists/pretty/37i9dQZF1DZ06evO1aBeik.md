@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,750,202 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,750,426 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 40 | [Fallin’ In Love](https://open.spotify.com/track/1QTNo6sCt8km4v3GyHRNlS) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 2:51 |
 | 41 | [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 |
 | 42 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
-| 43 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 |
+| 43 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 |
 | 44 | [Ain’t How It Ends](https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:21 |
-| 45 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 |
+| 45 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 |
 | 46 | [No Option](https://open.spotify.com/track/6M0IsaUX4GNyto4niSegfI) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 2:59 |
-| 47 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 |
+| 47 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
 | 48 | [Dead At The Honky Tonk](https://open.spotify.com/track/0b89M5bonRIcsR781e4xGT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:33 |
-| 49 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
+| 49 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 |
 | 50 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 |
 | 51 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 |
 
-Snapshot ID: `Z6VNAAAAAAD4OY3JNcFZhQeYY40I6Lp6`
+Snapshot ID: `Z6aegAAAAAA58/OR8VOMQhV+tUZ4uE11`

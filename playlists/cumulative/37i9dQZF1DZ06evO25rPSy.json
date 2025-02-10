@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 243826,
       "name": "La Espa\u00f1ola",
       "url": "https://open.spotify.com/track/5eBYOK11r072v8FSQGDpq9"
@@ -640,6 +640,24 @@
       "duration_ms": 283440,
       "name": "Ponerme a volar",
       "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "Qu\u00e9 Oscuridad",
+      "url": "https://open.spotify.com/track/0lIij3INQIJ8jBkkBa7N1M"
     },
     {
       "album": {

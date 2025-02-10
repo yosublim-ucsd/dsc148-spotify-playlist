@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26204,
+  "num_followers": 26213,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABo14zo2r0nuKRNmgJ7RXLJ",
+  "snapshot_id": "Z6aegAAAAADEiyVhFqensslupD1WvwIX",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHECK",
-        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
       },
       "artists": [
         {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 207000,
-      "name": "CHECK",
-      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
+      "duration_ms": 159500,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
     },
     {
       "added_at": null,
@@ -647,22 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
       },
       "artists": [
         {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 159500,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
+      "duration_ms": 207000,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Now They Know",
         "url": "https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c"
       },
@@ -991,46 +1011,6 @@
       "duration_ms": 270325,
       "name": "Now They Know",
       "url": "https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Today We Rebel",
-        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Messenger 4: Independents Day",
-        "url": "https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 259615,
-      "name": "Smoke Free",
-      "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"
     }
   ],
   "unique_name": "This Is KB",

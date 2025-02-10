@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 10786,
+  "num_followers": 10790,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADuZ1o8dhCfNndtknQIXNd+",
+  "snapshot_id": "Z6aegAAAAAC8f5Eq//cwLF7gZ51R836/",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TONIGHT",
         "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -1067,22 +1067,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+        "name": "Feelings - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o"
       },
       "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 215412,
-      "name": "Suzanna (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ"
+      "duration_ms": 206250,
+      "name": "Feelings - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI"
     }
   ],
   "unique_name": "This Is Patoranking",

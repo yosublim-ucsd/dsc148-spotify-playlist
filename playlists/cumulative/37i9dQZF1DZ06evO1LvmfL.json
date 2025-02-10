@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB"
+    },
+    {
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
       },
@@ -584,7 +602,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 234090,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/6BmqySE91w6AUWvIxDHtqc"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 245004,
       "name": "It Ain\u2019t Easy",
       "url": "https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 209132,
       "name": "Will It Find Me",
       "url": "https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA"

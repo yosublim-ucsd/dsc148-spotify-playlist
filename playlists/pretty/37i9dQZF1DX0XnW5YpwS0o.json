@@ -1,6 +1,6 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 105719,
+  "num_followers": 105811,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 187333,
       "name": "Pope Is a Rockstar",
       "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -319,38 +335,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 281406,
-      "name": "Life Itself",
-      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Citizen of Glass",
         "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -395,6 +395,38 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 281406,
+      "name": "Life Itself",
+      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        }
+      ],
+      "duration_ms": 245727,
+      "name": "Miracle Aligner",
+      "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -431,22 +463,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Everything You've Come To Expect (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
-      },
-      "artists": [
-        {
-          "name": "The Last Shadow Puppets",
-          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
-        }
-      ],
-      "duration_ms": 245727,
-      "name": "Miracle Aligner",
-      "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Songs From Final Fantasy XV",
         "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 245780,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 281011,
+      "name": "Decks Dark",
+      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -543,22 +575,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Hot Blood",
-      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 281011,
-      "name": "Decks Dark",
-      "url": "https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY"
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -603,22 +619,6 @@
       "duration_ms": 203333,
       "name": "For Elise",
       "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Freetown Sound",
-        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 225747,
-      "name": "Best to You",
-      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "The Colour In Anything",
-        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 257219,
-      "name": "I Need A Forest Fire",
-      "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "A Moon Shaped Pool",
         "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
       },
@@ -691,34 +671,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+        "name": "The Colour In Anything",
+        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+      "duration_ms": 257219,
+      "name": "I Need A Forest Fire",
+      "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -755,6 +723,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Harmless Melodies",
         "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 318147,
       "name": "A Little While",
       "url": "https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -803,22 +803,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 262521,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/7ghmZhLpmQe9nTluI1czmr"
+      "duration_ms": 228466,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -839,6 +835,26 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 262521,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/7ghmZhLpmQe9nTluI1czmr"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "The End Of Comedy",
         "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 197040,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Ritual Spirit",
         "url": "https://open.spotify.com/album/7lqu3l4C1PAZx4SBUXcoJd"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 260419,
       "name": "Loving Someone",
       "url": "https://open.spotify.com/track/5RD9TjTKGTTA61cBw7PImI"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
-      },
-      "artists": [
-        {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Doubt (Summer Edit)",
-        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 226857,
-      "name": "Doubt (Summer Edit)",
-      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 211851,
       "name": "Sleep On The Floor",
       "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Doubt (Summer Edit)",
+        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 226857,
+      "name": "Doubt (Summer Edit)",
+      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 233076,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 227366,
       "name": "Flame",
       "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 233076,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
     },
     {
       "added_at": "2024-03-18 13:26:28",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,004 songs - 1 day 14 hr 53 min
+1,006 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Deep, Down & Painted](https://open.spotify.com/track/66ElzOnnBxyPbhNurKxjyc) | [Ogi Feel the Beat](https://open.spotify.com/artist/03ODvxPFTYW0NS7wnXclYG), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Deep, Down & Painted](https://open.spotify.com/album/1bbRy4fnXvGuKg0ptq5cLc) | 3:01 | 2022-06-03 | 2022-08-19 |
 | [Delicious Deeds](https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Delicious Deeds](https://open.spotify.com/album/6WBaVg8k0w6hKYPsWHCy7L) | 3:05 | 2022-04-15 |  |
 | [Depth](https://open.spotify.com/track/0noomsnSCFwt92eZuGRBUY) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Depth](https://open.spotify.com/album/6Z6b5y4UNXTz2F43xuci7v) | 1:32 | 2022-04-22 | 2022-12-10 |
+| [devotion](https://open.spotify.com/track/7iweprVaUQfqGwhe1nPH9T) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [devotion](https://open.spotify.com/album/5270aNWFhaa6Gi9sKExzJU) | 2:23 | 2025-02-07 |  |
 | [Different World](https://open.spotify.com/track/6rXqfqWXKdlWFUHXJmnqdz) | [matin.pz](https://open.spotify.com/artist/5Ts64Wg2sn6U2RQ6QZmN1f), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Different World](https://open.spotify.com/album/5p69BPRJGv7TOcwNY7ZB57) | 1:33 | 2022-11-11 | 2023-10-20 |
 | [Dig This Vibe](https://open.spotify.com/track/6mN4GW8gitB9Ah4AIV9ijY) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Dig This Vibe](https://open.spotify.com/album/45IgHtBzmB4ygUFLUzZUdI) | 2:00 | 2023-04-03 | 2023-10-06 |
 | [Dimples](https://open.spotify.com/track/5zNXoNQMHEQYegSTnfn5Jo) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Dimples](https://open.spotify.com/album/7a3HiRaJgeMO3RQNza1JCh) | 1:55 | 2022-04-15 | 2022-05-14 |
@@ -550,7 +551,7 @@
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [Nature Walk](https://open.spotify.com/track/7LDwD2SbhQ7GXUek1tIjO5) | [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Nature Walk](https://open.spotify.com/album/5CzV7Mh1NKDreM1LChVEgr) | 1:54 | 2022-06-24 | 2022-08-19 |
 | [Need Some Space](https://open.spotify.com/track/0TBWvdscZJCLXyOUGbun4p) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Need Some Space](https://open.spotify.com/album/1O8Wsw4w0GQPrU8cDSZHig) | 3:00 | 2024-01-19 |  |
-| [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2022-04-15 |  |
+| [neomatter](https://open.spotify.com/track/5ZOwkvgMAeI0G2USq0cIFQ) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [neomatter](https://open.spotify.com/album/0jiIwPCZbyYrhwaQOXMKyR) | 1:44 | 2022-04-15 | 2025-02-10 |
 | [neon glow](https://open.spotify.com/track/4R3zRuU2z2QkZP8lim6fMe) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [neon glow](https://open.spotify.com/album/1vkxeA90QkysyBu9kAdS0f) | 2:41 | 2024-09-27 | 2025-01-15 |
 | [Neon Tapestries](https://open.spotify.com/track/1oQt6kTiuPsQEFaHWFH6Pl) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:36 | 2022-04-22 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-04-15 | 2022-07-29 |
@@ -934,7 +935,7 @@
 | [Uhmbiguity](https://open.spotify.com/track/7LOeVEchwpe7YrHSh462GT) | [shrub.beats](https://open.spotify.com/artist/0dt71cdGRvCiEqq9tlpEXj) | [Uhmbiguity](https://open.spotify.com/album/0fBQnVnp16u9GimMs5ZHc9) | 1:54 | 2022-04-15 |  |
 | [under my ground](https://open.spotify.com/track/6pS37YGyZRkCiA9o8ZVksC) | [mindrae.](https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [under my ground](https://open.spotify.com/album/0r45aNkzMnhUoKeOlicNle) | 1:22 | 2022-07-29 | 2022-08-12 |
 | [Under the Tide](https://open.spotify.com/track/3qUvV6jdRZVwUvTusNUGOH) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 2:05 | 2022-04-15 | 2022-07-08 |
-| [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-08-19 |  |
+| [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-08-19 | 2025-02-10 |
 | [Underground Glacier Vibes](https://open.spotify.com/track/60Nklx8OyD5oykK8BWArL6) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [In the Gloaming](https://open.spotify.com/album/5LJcCu2BwcCUxRG4yPRm6J) | 2:24 | 2024-07-04 | 2024-12-08 |
 | [Unexpected World](https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [Crun](https://open.spotify.com/artist/7aQFz7nMIRg5XTM1YLwEZ4) | [Unexpected World](https://open.spotify.com/album/51loInMhKTCu0j8iW3RW3u) | 1:36 | 2023-03-13 | 2023-09-22 |
 | [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-15 | 2022-10-29 |
@@ -984,6 +985,7 @@
 | [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 | 2025-02-07 |
 | [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2022-10-14 | 2023-10-20 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-09-24 |
+| [Winding Down](https://open.spotify.com/track/2d1rs0lIYPWQ26Z0S81fRY) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [Winding Down](https://open.spotify.com/album/05v43i2aZhI8tSmORcWSDE) | 2:31 | 2025-02-07 |  |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 |  |
 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 | 2022-04-15 | 2022-12-10 |

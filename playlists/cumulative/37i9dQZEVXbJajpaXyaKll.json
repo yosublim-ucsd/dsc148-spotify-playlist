@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -8350,7 +8350,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -11124,7 +11124,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 213793,
       "name": "Lo Siento - Remix",
       "url": "https://open.spotify.com/track/2rdpt16HmtfqApETJZkSAj"
@@ -14348,7 +14348,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 170322,
       "name": "Nomacita",
       "url": "https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt"
@@ -15047,6 +15047,24 @@
     },
     {
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+    },
+    {
+      "album": {
         "name": "Otra poes\u00eda",
         "url": "https://open.spotify.com/album/60jIba8CPX6xzTRFeNld6g"
       },
@@ -15196,7 +15214,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 189389,
       "name": "Pa Panamericano X Boppa Private (Tik Tok Viral) (Afro House)",
       "url": "https://open.spotify.com/track/3kkIERNkul0TS6TAOmfLgi"
@@ -21410,7 +21428,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 177049,
       "name": "una noche",
       "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"

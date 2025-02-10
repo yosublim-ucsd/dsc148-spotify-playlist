@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22702,
+  "num_followers": 22706,
   "original_name": "something new",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAL0SqMQnLPgHjrZKZP9lhzLzXG9M7D",
+  "snapshot_id": "AAAL1LJjMGOiYm01/GhSRBz7dKCRs8ve",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -643,6 +643,58 @@
       "duration_ms": 256301,
       "name": "Winter in America",
       "url": "https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1"
+    },
+    {
+      "added_at": "2025-02-10 01:25:13",
+      "album": {
+        "name": "Death is a Dream",
+        "url": "https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf"
+      },
+      "artists": [
+        {
+          "name": "HTRK",
+          "url": "https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg"
+        }
+      ],
+      "duration_ms": 179898,
+      "name": "No Big Thing",
+      "url": "https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4"
+    },
+    {
+      "added_at": "2025-02-10 01:28:32",
+      "album": {
+        "name": "Escho 15 \u00e5r: Burgers for my new life",
+        "url": "https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 240862,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI"
+    },
+    {
+      "added_at": "2025-02-10 01:49:28",
+      "album": {
+        "name": "Mixed Bag",
+        "url": "https://open.spotify.com/album/04lW466iMxY4odpN22tsQm"
+      },
+      "artists": [
+        {
+          "name": "Ditch Effort",
+          "url": "https://open.spotify.com/artist/1jy0qPVR1NXcxqofegK8Je"
+        }
+      ],
+      "duration_ms": 111492,
+      "name": "Jesus Sandals",
+      "url": "https://open.spotify.com/track/1PX7OTFrT9raDrni7D6hqU"
     }
   ],
   "unique_name": "something new",

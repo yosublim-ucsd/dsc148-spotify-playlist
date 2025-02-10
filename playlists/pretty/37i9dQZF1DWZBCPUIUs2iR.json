@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 737234,
+  "num_followers": 737358,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -551,38 +551,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -603,6 +571,22 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 323040,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Live Like You Were Dying",
-        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Live Like You Were Dying",
-      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
+        "name": "Live Like You Were Dying",
+        "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "Live Like You Were Dying",
+      "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
         "name": "Rose Garden",
         "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Jesus, Take the Wheel",
-      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -855,6 +839,38 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Kickin' It Up",
+        "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Jesus, Take the Wheel",
+      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Kickin' It Up",
-        "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif"
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
         }
       ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -951,22 +967,6 @@
       "duration_ms": 229533,
       "name": "God Gave Me You",
       "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
-      },
-      "artists": [
-        {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
       },
       "artists": [
         {
-          "name": "Mark Wills",
-          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 200466,
-      "name": "19 Somethin' - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
       },
       "artists": [
         {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
         }
       ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
+      "duration_ms": 200466,
+      "name": "19 Somethin' - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
         "name": "All The People Are Talkin'",
         "url": "https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 145866,
       "name": "Hello Darlin'",
       "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+      },
+      "artists": [
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
         "name": "Hag's Christmas",
         "url": "https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2p6Kod7VSlWtuQG5N6K2qF"
       },
       "artists": [
         {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
         }
       ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+      "duration_ms": 167840,
+      "name": "XXX's And OOO's (An American Girl)",
+      "url": "https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1551,22 +1567,6 @@
       "duration_ms": 157533,
       "name": "All the Gold In California",
       "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2p6Kod7VSlWtuQG5N6K2qF"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "XXX's And OOO's (An American Girl)",
-      "url": "https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K"
     },
     {
       "added_at": "2024-06-13 21:28:36",

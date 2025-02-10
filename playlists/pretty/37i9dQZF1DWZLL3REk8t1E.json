@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1246591,
+  "num_followers": 1246985,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 185240,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+      "duration_ms": 185240,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -383,38 +383,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Como Duele El Amor",
-      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "En Definitiva",
-      "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "DIOS POR DELANTE",
         "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "En Definitiva",
+      "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "Pura Adrenalina",
         "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
       },
@@ -527,22 +511,6 @@
       "duration_ms": 157569,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Casi Completa",
-      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -563,6 +531,22 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Casi Completa",
+      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -607,6 +575,22 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -631,22 +615,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "Me Gusta Vivir De Noche",
         "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 164466,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -775,38 +759,18 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+        "name": "Necesito M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+      "duration_ms": 183653,
+      "name": "Sentimientos De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -827,8 +791,8 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
       "artists": [
         {
@@ -836,25 +800,61 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Necesito M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Sentimientos De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -895,38 +895,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -947,6 +915,38 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
         "name": "La Mejor De Todas",
         "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -975,6 +991,22 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -999,34 +1031,18 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1043,22 +1059,6 @@
       "duration_ms": 221933,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "El Problema",
-        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207364,
-      "name": "No Me Hubiera Enamorado",
-      "url": "https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
@@ -1111,6 +1095,38 @@
       "duration_ms": 152173,
       "name": "Si Nos Dejan - En Vivo",
       "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207364,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+      "duration_ms": 213733,
+      "name": "Como Quien Pierde una Estrella",
+      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1195,22 +1211,6 @@
       "duration_ms": 168086,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Como Quien Pierde una Estrella",
-      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1503,22 +1503,6 @@
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "La Boca Les Callamos, Vol. 2",
-        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 204805,
-      "name": "Te Vas a Acordar de Mi",
-      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-12-23 16:31:41",
       "album": {
+        "name": "La Boca Les Callamos, Vol. 2",
+        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 204805,
+      "name": "Te Vas a Acordar de Mi",
+      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
         "name": "35 Aniversario",
         "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
-    },
-    {
-      "added_at": "2024-12-23 16:31:41",
-      "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164650,
-      "name": "La Boca Les Callamos",
-      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     },
     {
       "added_at": "2024-12-23 16:31:41",
@@ -1699,6 +1683,22 @@
       "duration_ms": 178412,
       "name": "Alma Enamorada (En Vivo)",
       "url": "https://open.spotify.com/track/0vLXA9eQpe56eGBz0lTDqW"
+    },
+    {
+      "added_at": "2024-12-23 16:31:41",
+      "album": {
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     }
   ],
   "unique_name": "La Cantina",

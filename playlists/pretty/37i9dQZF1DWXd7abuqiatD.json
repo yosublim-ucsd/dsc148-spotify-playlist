@@ -1,6 +1,6 @@
 {
   "description": "Driving to work? or on a road trip? Find your sing-along moments here.",
-  "num_followers": 304222,
+  "num_followers": 304262,
   "original_name": "Driving Anthems",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -279,18 +295,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
       "artists": [
         {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -311,18 +327,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -355,22 +371,6 @@
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -439,18 +439,26 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
         }
       ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -475,26 +483,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
       "artists": [
         {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -727,38 +727,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -819,6 +803,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1071,6 +1055,38 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1107,22 +1123,6 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Just Lose It",
-        "url": "https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 322226,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Just Lose It",
+        "url": "https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 322226,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2024-03-22 00:03:25",

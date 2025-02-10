@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,475 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,597 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 36 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 37 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 38 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 39 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
+| 39 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 | 40 | [あなたに](https://open.spotify.com/track/1gJ5uea5uL4DjH12o5Y3GB) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「あなたに」](https://open.spotify.com/album/17S1V070Wo47UCIoYemN3B) | 3:11 |
-| 41 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
+| 41 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
 | 42 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 |
 | 43 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
 | 44 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |

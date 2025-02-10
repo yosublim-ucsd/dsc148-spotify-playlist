@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 116758,
+  "num_followers": 116760,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABpi1aHDrwjL5mqaOUSiST0",
+  "snapshot_id": "Z6aegAAAAADTF7ELzH6Q0ZE6LOasR/oo",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "APOCALYPSE",
-        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "WEMBY (feat. Offset)",
-      "url": "https://open.spotify.com/track/6ggnoBwRtFo0jphM5sNJgr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 145188,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "APOCALYPSE",
+        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "WEMBY (feat. Offset)",
+      "url": "https://open.spotify.com/track/6ggnoBwRtFo0jphM5sNJgr"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 104863,
+      "name": "Violation Freestyle",
+      "url": "https://open.spotify.com/track/0NTypJrNfmemkF1GevCWSf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Season",
         "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 301853,
       "name": "Quarterback (feat. Quavo, Offset & PeeWee Longway)",
       "url": "https://open.spotify.com/track/2mpJGKIOpDz4KG9p9feCmM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 104863,
-      "name": "Violation Freestyle",
-      "url": "https://open.spotify.com/track/0NTypJrNfmemkF1GevCWSf"
     }
   ],
   "unique_name": "This Is Offset",

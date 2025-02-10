@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 幾田りら Lilas Ikuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,401 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,414 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 43 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
 | 44 | [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 |
 | 45 | [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 |
-| 46 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 |
-| 47 | [LOVE 2000](https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf) | [八奈見杏菜（CV: 遠野ひかる）](https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs) | [LOVE 2000](https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI) | 4:23 |
-| 48 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
+| 46 | [LOVE 2000](https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf) | [八奈見杏菜（CV: 遠野ひかる）](https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs) | [LOVE 2000](https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI) | 4:23 |
+| 47 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
+| 48 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 |
 | 49 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
 | 50 | [Contrast](https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Contrast](https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI) | 4:18 |
 

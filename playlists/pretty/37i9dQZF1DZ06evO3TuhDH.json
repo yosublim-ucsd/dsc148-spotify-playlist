@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 17749,
+  "num_followers": 17756,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAD4o428swJDrjWzwBruun5q",
+  "snapshot_id": "Z6aegAAAAABrczBZI9EHiTC951I9QNxs",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 119715,
       "name": "2055",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not In The Store",
         "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
       },
@@ -543,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
       "artists": [
         {
@@ -552,13 +572,45 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": null,
@@ -583,58 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TWINNEM (Remix)",
         "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 160586,
       "name": "TWINNEM (Remix) (feat. DaBaby)",
       "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 206135,
       "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
       "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fat Niggas Need Love Too",
+        "url": "https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "duration_ms": 150048,
+      "name": "Ocean Prime (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dennis Daughter",
         "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fat Niggas Need Love Too",
-        "url": "https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
-        }
-      ],
-      "duration_ms": 150048,
-      "name": "Ocean Prime (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN"
     },
     {
       "added_at": null,

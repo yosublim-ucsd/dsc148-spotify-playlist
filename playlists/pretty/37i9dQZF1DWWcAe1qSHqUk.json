@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60829,
+  "num_followers": 60849,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
-        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 147413,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
-      },
-      "artists": [
-        {
-          "name": "OVN",
-          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
-        },
-        {
-          "name": "chrln",
-          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
-        }
-      ],
-      "duration_ms": 121385,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 231013,
       "name": "To Have & To Hold",
       "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
+      },
+      "artists": [
+        {
+          "name": "OVN",
+          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
+        },
+        {
+          "name": "chrln",
+          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
+        }
+      ],
+      "duration_ms": 121385,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 294287,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
         "name": "With a Twist",
         "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+        "name": "Homefree",
+        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
         }
       ],
-      "duration_ms": 294287,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+      "duration_ms": 361253,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -771,22 +787,6 @@
       "duration_ms": 158931,
       "name": "A Hard Day\u00b4s Night (Bossa Version)",
       "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
-        "name": "Homefree",
-        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
-      },
-      "artists": [
-        {
-          "name": "Nnenna Freelon",
-          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
-        }
-      ],
-      "duration_ms": 361253,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Jamison",
-        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "These Things You Are to Me",
-      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 164652,
       "name": "At Last",
       "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Jamison",
+        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "These Things You Are to Me",
+      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
     },
     {
       "added_at": "2025-02-03 02:26:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-02-03 02:26:01",
       "album": {
-        "name": "Carr Toons",
-        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Carr",
-          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Scotch and Soda",
-      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
-    },
-    {
-      "added_at": "2025-02-03 02:26:01",
-      "album": {
         "name": "Bossa & Co.",
         "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2025-02-03 02:26:01",
+      "album": {
+        "name": "Carr Toons",
+        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Carr",
+          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Scotch and Soda",
+      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
     },
     {
       "added_at": "2025-02-03 02:26:01",

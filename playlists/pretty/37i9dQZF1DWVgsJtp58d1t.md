@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > In honor of Black History Month and for the first section of this playlist, we're highlighting the art of influence\. Click into the feed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,898 likes - 195 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,088 likes - 195 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

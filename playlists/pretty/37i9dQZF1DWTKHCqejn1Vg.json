@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33245,
+  "num_followers": 33248,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
-    },
-    {
-      "added_at": "2025-01-24 02:16:27",
-      "album": {
         "name": "Hello, World - The 4th Mini Album",
         "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
       },
@@ -295,22 +279,18 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -331,38 +311,22 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         },
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         }
       ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2025-01-24 02:16:27",
-      "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q"
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -395,6 +359,22 @@
       "duration_ms": 206053,
       "name": "Chase",
       "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+    },
+    {
+      "added_at": "2025-01-24 02:16:27",
+      "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -439,6 +419,26 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+    },
+    {
+      "added_at": "2025-01-24 02:16:27",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
-    },
-    {
-      "added_at": "2025-01-24 02:16:27",
-      "album": {
         "name": "There And Back Again",
         "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+    },
+    {
+      "added_at": "2025-01-24 02:16:27",
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2025-01-24 02:16:27",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-01-24 02:16:27",
       "album": {
-        "name": "What if we met at another place ?",
-        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "What if we met at another place ?",
-      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
-    },
-    {
-      "added_at": "2025-01-24 02:16:27",
-      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 147333,
       "name": "More",
       "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
+    },
+    {
+      "added_at": "2025-01-24 02:16:27",
+      "album": {
+        "name": "What if we met at another place ?",
+        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "What if we met at another place ?",
+      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
     },
     {
       "added_at": "2025-01-24 02:16:27",

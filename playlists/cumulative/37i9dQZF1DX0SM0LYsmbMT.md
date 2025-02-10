@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,349 songs - 6 day 21 hr 46 min
+4,350 songs - 6 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,7 +1283,7 @@
 | [Fluff](https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL) | [Hanses](https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fluff](https://open.spotify.com/album/7qnaVlVTffLYXPSaQzLkiB) | 1:53 | 2023-08-17 |  |
 | [Flurry](https://open.spotify.com/track/57B3pq1OnMyAgpPP4iwVq8) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Flurry](https://open.spotify.com/album/6d2Ndd53OQc96RLZsQEuPI) | 2:00 | 2025-01-06 |  |
 | [Flushing the Stairs](https://open.spotify.com/track/16lFjZrnMZmW9wU44yexlY) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Flushing the Stairs](https://open.spotify.com/album/4cBSnTytjdcnDt8QvpwSmt) | 2:52 | 2020-11-06 | 2021-01-04 |
-| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 |  |
+| [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 | 2025-02-10 |
 | [fluttr](https://open.spotify.com/track/3tys93mrUZQSpGUM2H7U3Q) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [fluttr](https://open.spotify.com/album/0FEZp9tj02g0YUJA9qYiSA) | 1:54 | 2022-01-20 | 2022-02-18 |
 | [Fly Out](https://open.spotify.com/track/7x36vjH0FIl4W1cCKFcg91) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Fly Out](https://open.spotify.com/album/1u4IthfRjpdZ5TW3N6EWIc) | 1:55 | 2024-02-22 |  |
 | [Fly Shit 2](https://open.spotify.com/track/253gLNG4TlHxP5Tgal2vzR) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Fly Shit 2](https://open.spotify.com/album/7shx3fdkpfpOqmgtssqu5I) | 4:03 | 2021-06-02 | 2021-07-16 |
@@ -2165,6 +2165,7 @@
 | [Lost Souls](https://open.spotify.com/track/34j8BjFNsSkx9GBqowa6m8) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx), [Tomas Delfgaauw](https://open.spotify.com/artist/1eubKzTitl4RtmWK1AmJuz) | [Winter Days](https://open.spotify.com/album/0LbFVIIblnRxuNUumxoob2) | 2:43 | 2021-02-20 | 2021-06-25 |
 | [Lost South](https://open.spotify.com/track/2HXuY0auvAFIBqQX5lwV05) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Lost South](https://open.spotify.com/album/5jvSfVd4lV2z7SHOA6uGgD) | 1:42 | 2022-08-18 | 2022-09-23 |
 | [Loto](https://open.spotify.com/track/2i52hcNgy0k0pPNyEWw7ub) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Loto](https://open.spotify.com/album/6tHuu1rHSEc7VyeUX1xLp2) | 1:33 | 2020-04-03 | 2020-06-16 |
+| [Lou](https://open.spotify.com/track/5RQRCYXBSdvX1XevfTaixS) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Lou](https://open.spotify.com/album/2jM5He9YliUqJkn2cIcXxV) | 1:51 | 2025-02-06 |  |
 | [Lounge Kudasai](https://open.spotify.com/track/1DygvKUWZHLFeRM92Aezp8) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Lounge Kudasai](https://open.spotify.com/album/2plYqrbbgzT6jXGsNquOce) | 2:43 | 2022-01-13 | 2022-02-11 |
 | [lounge life](https://open.spotify.com/track/4zHwNqoIVdtq6BVg4b6r0x) | [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [sage green](https://open.spotify.com/artist/48XozkeJU7sbKjb0DG40ts) | [lounge life](https://open.spotify.com/album/5bvih2zwhn2PvGMQebhySh) | 1:58 | 2022-05-20 | 2022-09-23 |
 | [Loungin'](https://open.spotify.com/track/2KWGFB2VPRqKplbrIGjnRZ) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Loungin'](https://open.spotify.com/album/3aqMLbBv59PAIsysR5zv9d) | 2:04 | 2021-01-17 | 2021-05-27 |

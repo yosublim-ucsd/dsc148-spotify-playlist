@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 21 min
+88 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Andar Conmigo](https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 4:07 | 2024-09-21 |  |
 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 | 2024-01-29 | 2024-09-21 |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2024-01-29 |  |
+| [Buena Suerte](https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Buena Suerte](https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo) | 3:54 | 2025-02-10 |  |
 | [Cada Noche](https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Cada Noche](https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy) | 3:41 | 2025-02-02 |  |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2024-01-29 |  |
 | [Culpables](https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV) | 4:12 | 2024-01-29 | 2024-12-15 |
@@ -44,7 +45,7 @@
 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 | 2024-01-29 |  |
 | [Fuentes De Ortiz](https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fuentes De Ortiz](https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS) | 3:52 | 2024-01-29 |  |
 | [Gracias](https://open.spotify.com/track/3Zpx6R4PODhw1XNQCA5ik4) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/0Jzq42fDyl8JrXRlhSfPIj) | 4:25 | 2024-01-29 | 2024-08-22 |
-| [Gracias](https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5) | 4:25 | 2024-08-22 |  |
+| [Gracias](https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5) | 4:25 | 2024-08-22 | 2025-02-10 |
 | [Hoy Ya Me Voy](https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2) | 4:19 | 2024-08-22 |  |
 | [Hoy Ya Me Voy](https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ) | 4:19 | 2024-01-29 | 2024-08-22 |
 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 | 2024-01-29 | 2025-01-04 |

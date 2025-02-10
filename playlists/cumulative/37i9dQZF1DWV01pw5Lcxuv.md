@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 | 2021-05-21 |  |
+| [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 | 2021-05-21 | 2025-02-10 |
 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 | 2021-05-21 | 2024-04-19 |
 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2021-05-21 | 2023-11-03 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2021-05-21 |  |
@@ -146,7 +146,7 @@
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 | 2021-05-21 |  |
 | [Without You](https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:35 | 2024-05-07 |  |
 | [Yo Te Amo, Te Amo](https://open.spotify.com/track/3g1XJScYLMfWMIMeCNBOMT) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Soy Así](https://open.spotify.com/album/6ZLMCpUiFvKlOzHFOFyOnR) | 3:18 | 2021-05-21 | 2022-07-29 |
-| [Ámame Una Vez Más](https://open.spotify.com/track/6TcVUedzB0NE0mg6bORhx0) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Ámame una Vez Más](https://open.spotify.com/album/5xumVl9kckmGpDN23vLznZ) | 4:26 | 2024-05-07 | 2025-02-08 |
+| [Ámame Una Vez Más](https://open.spotify.com/track/6TcVUedzB0NE0mg6bORhx0) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Ámame una Vez Más](https://open.spotify.com/album/5xumVl9kckmGpDN23vLznZ) | 4:26 | 2024-05-07 |  |
 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 | 2021-05-21 |  |
 
 \*This playlist was first scraped on 2022-02-10. Prior content cannot be recovered.

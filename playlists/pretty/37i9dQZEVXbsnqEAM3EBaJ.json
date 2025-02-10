@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC9auXQSSHXnw7M5WdAXsNF",
+  "snapshot_id": "AAAAAAAAAAD+/w2os8DHdT409cSGh1Q7",
   "tracks": [
     {
       "added_at": "2025-02-07 03:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "The Tipu House",
-        "url": "https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "The Tipu House",
-      "url": "https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 313167,
       "name": "Who Believes In Angels?",
       "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "The Tipu House",
+        "url": "https://open.spotify.com/album/19lMYL6y3I1BcPdhkirtIi"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "The Tipu House",
+      "url": "https://open.spotify.com/track/4H9PdXyyajRGJAV7bjtl9g"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "To Live Deliciously",
-        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 332226,
-      "name": "To Live Deliciously",
-      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Cross The Divide",
-        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 258209,
-      "name": "Cross the Divide",
-      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Glass Shatters (New Mix)",
         "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 244397,
       "name": "Glass Shatters - New Mix",
       "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Eternal Glory",
-        "url": "https://open.spotify.com/album/4XzFUU3liH4xiJtuJFQ6Xi"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody",
-          "url": "https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY"
-        }
-      ],
-      "duration_ms": 342773,
-      "name": "Land Of Immortals",
-      "url": "https://open.spotify.com/track/10j9hn9KE9XRYAACoSlC6W"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Against The Wind",
         "url": "https://open.spotify.com/album/4k5rRJVsFUxr8qGzy5iQhZ"
       },
@@ -363,30 +347,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
-      },
-      "artists": [
-        {
-          "name": "Kevin Sherwood",
-          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
-        },
-        {
-          "name": "Matthew K. Heafy",
-          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
-        },
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 229019,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/2Thk2chudkQfw6TujY7E0D"
       },
@@ -403,18 +363,18 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Fiesta en la Noche",
-        "url": "https://open.spotify.com/album/2XaAUIF4nudJpLyjYyfcik"
+        "name": "Eternal Glory",
+        "url": "https://open.spotify.com/album/4XzFUU3liH4xiJtuJFQ6Xi"
       },
       "artists": [
         {
-          "name": "Sol y Lluvia",
-          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+          "name": "Rhapsody",
+          "url": "https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY"
         }
       ],
-      "duration_ms": 172628,
-      "name": "Fiesta en la Noche",
-      "url": "https://open.spotify.com/track/7zI7NY7yZuxSDHR3ujBNWW"
+      "duration_ms": 342773,
+      "name": "Land Of Immortals",
+      "url": "https://open.spotify.com/track/10j9hn9KE9XRYAACoSlC6W"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -451,22 +411,26 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Astro (Y Que El Mundo Espere) [B-side]",
-        "url": "https://open.spotify.com/album/1Fnbk82nypEADTWeEgkWYx"
+        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
       },
       "artists": [
         {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+          "name": "Kevin Sherwood",
+          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
         },
         {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        },
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 335706,
-      "name": "Astro (Y Que El Mundo Espere) - B-side",
-      "url": "https://open.spotify.com/track/0Bf96DHQYyzeoaZe4CaMIs"
+      "duration_ms": 229019,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -487,6 +451,26 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Astro (Y Que El Mundo Espere) [B-side]",
+        "url": "https://open.spotify.com/album/1Fnbk82nypEADTWeEgkWYx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "duration_ms": 335706,
+      "name": "Astro (Y Que El Mundo Espere) - B-side",
+      "url": "https://open.spotify.com/track/0Bf96DHQYyzeoaZe4CaMIs"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "big change",
         "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
       },
@@ -503,6 +487,26 @@
       "duration_ms": 174560,
       "name": "big change",
       "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Ray)",
+      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -559,26 +563,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 282873,
-      "name": "The Abyss (feat. Lana Del Ray)",
-      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Desfragmentado",
         "url": "https://open.spotify.com/album/0CIzhS5H1mNPH3uPuoeBbh"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 233248,
       "name": "Partir de cero",
       "url": "https://open.spotify.com/track/2K0Cj8FW678xTAlFy6yU1D"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Hot For You Baby",
-        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 283103,
-      "name": "Hot For You Baby",
-      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -635,6 +603,22 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Hot For You Baby",
+        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 283103,
+      "name": "Hot For You Baby",
+      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "Tiquitimporta",
         "url": "https://open.spotify.com/album/3kXU6xsPKIMQ51aTx1Hvtz"
       },
@@ -647,22 +631,6 @@
       "duration_ms": 223948,
       "name": "Una vez al amanecer",
       "url": "https://open.spotify.com/track/7IQhT0BKvimBIwiLRLwqoF"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Mayonaka no Door~stay with me (classic)",
-        "url": "https://open.spotify.com/album/4ZV03YxMBJlU4xDctDmVqw"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "Mayonaka no Door~stay with me - classic",
-      "url": "https://open.spotify.com/track/1RN8sxd66EvvUcIAYiAcoq"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -695,6 +663,22 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Mayonaka no Door~stay with me (classic)",
+        "url": "https://open.spotify.com/album/4ZV03YxMBJlU4xDctDmVqw"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "Mayonaka no Door~stay with me - classic",
+      "url": "https://open.spotify.com/track/1RN8sxd66EvvUcIAYiAcoq"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "Forged by Fire (Orchestral Version)",
         "url": "https://open.spotify.com/album/5O19rf46jB3Y6i4CTr7Z28"
       },
@@ -711,34 +695,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Fuera de Casa",
-        "url": "https://open.spotify.com/album/03MogqU59znbLPj8ny2Kcp"
-      },
-      "artists": [
-        {
-          "name": "Niel Brown",
-          "url": "https://open.spotify.com/artist/6RugsUanaXiMwuBjzSEXM2"
-        },
-        {
-          "name": "MC Billeta",
-          "url": "https://open.spotify.com/artist/58KYre2g7s5J5U9ECk08An"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "JAMBRO",
-          "url": "https://open.spotify.com/artist/7u1VTRpxocp3EPB7dpSgM4"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "No Me Hagan Reir",
-      "url": "https://open.spotify.com/track/1J6DYoPyMg7h5sgQX77NrQ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Brain Tissue",
         "url": "https://open.spotify.com/album/4UNI3TGMueOJisBKwhj4Zd"
       },
@@ -751,22 +707,6 @@
       "duration_ms": 237886,
       "name": "Brain Tissue",
       "url": "https://open.spotify.com/track/3akArKnQKVVXgUB9B8nOUe"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "If You Don't Know Me by Now",
-        "url": "https://open.spotify.com/album/5lae5UW8TE0FzrNqeWQfkD"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 205183,
-      "name": "If You Don't Know Me by Now",
-      "url": "https://open.spotify.com/track/3F7uCOvNMjhkRlq1O4AjQQ"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -799,6 +739,26 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Never Alone (from \"Brave The Dark\")",
+        "url": "https://open.spotify.com/album/6ncapRurP6I8maeeHnYSwA"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+          "name": "Nicholas Hamilton",
+          "url": "https://open.spotify.com/artist/3HMSWfOFrYEocd591VAemA"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Never Alone (from \"Brave The Dark\")",
+      "url": "https://open.spotify.com/track/5e6VWJbQQ9vf3eLy2Z2lVF"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "Wish I Could Forget (Zomboy Remix)",
         "url": "https://open.spotify.com/album/102nAiD4mM3xmAJKPXZ9zs"
       },
@@ -827,38 +787,18 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Never Alone (from \"Brave The Dark\")",
-        "url": "https://open.spotify.com/album/6ncapRurP6I8maeeHnYSwA"
+        "name": "If You Don't Know Me by Now",
+        "url": "https://open.spotify.com/album/5lae5UW8TE0FzrNqeWQfkD"
       },
       "artists": [
         {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        },
-        {
-          "name": "Nicholas Hamilton",
-          "url": "https://open.spotify.com/artist/3HMSWfOFrYEocd591VAemA"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 199734,
-      "name": "Never Alone (from \"Brave The Dark\")",
-      "url": "https://open.spotify.com/track/5e6VWJbQQ9vf3eLy2Z2lVF"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/4uDU83M7EkDXDb2iHahVIr"
-      },
-      "artists": [
-        {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
-        }
-      ],
-      "duration_ms": 226631,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/59UJiPmDhdEILOKgrJ6WP3"
+      "duration_ms": 205183,
+      "name": "If You Don't Know Me by Now",
+      "url": "https://open.spotify.com/track/3F7uCOvNMjhkRlq1O4AjQQ"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -879,6 +819,22 @@
       "duration_ms": 165631,
       "name": "It's My Ego - 3mix",
       "url": "https://open.spotify.com/track/4fx2mGAwYCaxkZQjUTOxXj"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/4uDU83M7EkDXDb2iHahVIr"
+      },
+      "artists": [
+        {
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+        }
+      ],
+      "duration_ms": 226631,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/59UJiPmDhdEILOKgrJ6WP3"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -931,6 +887,22 @@
       "duration_ms": 228215,
       "name": "La Danza del Subconsciente",
       "url": "https://open.spotify.com/track/22vqJzu6GWcsHKyJQXHfvz"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Fiesta en la Noche",
+        "url": "https://open.spotify.com/album/2XaAUIF4nudJpLyjYyfcik"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "duration_ms": 172628,
+      "name": "Fiesta en la Noche",
+      "url": "https://open.spotify.com/track/7zI7NY7yZuxSDHR3ujBNWW"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

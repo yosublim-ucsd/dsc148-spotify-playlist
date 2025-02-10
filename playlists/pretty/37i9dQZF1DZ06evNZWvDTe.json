@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12125,
+  "num_followers": 12133,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADdgJZKwv98U5Ti5IyMsOit",
+  "snapshot_id": "Z6aegAAAAABXFbtM/oo73xmIjWB5qJFh",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "June July + Pharasee",
-        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "June July",
-      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRAG",
         "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
@@ -627,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud"
+        "name": "June July + Pharasee",
+        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 225307,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
+      "duration_ms": 220000,
+      "name": "June July",
+      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225307,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 248713,
-      "name": "Saa Okodie No (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
@@ -823,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 248713,
+      "name": "Saa Okodie No (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yedin",
         "url": "https://open.spotify.com/album/1fuwXJKd5nYTrVFU9R7Afj"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 197799,
       "name": "Yedin",
       "url": "https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     },
     {
       "added_at": null,

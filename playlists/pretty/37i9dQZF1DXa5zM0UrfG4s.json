@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 113034,
+  "num_followers": 113053,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Heidi",
         "url": "https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 124137,
       "name": "Heidi",
       "url": "https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -315,38 +315,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -367,18 +335,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -411,6 +379,38 @@
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+        "name": "Hardanger",
+        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Gunslingers",
+          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
         }
       ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+      "duration_ms": 236387,
+      "name": "Hardanger",
+      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Hardanger",
-        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
-      },
-      "artists": [
-        {
-          "name": "Gunslingers",
-          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
-        }
-      ],
-      "duration_ms": 236387,
-      "name": "Hardanger",
-      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Konge p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
@@ -519,22 +503,6 @@
       "duration_ms": 180393,
       "name": "Konge p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -559,6 +527,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+      },
+      "artists": [
+        {
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Vakker og vill",
-        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Vakker og vill",
-      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
       },
@@ -611,6 +579,38 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Vakker og vill",
+        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Vakker og vill",
+      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 129375,
       "name": "Hej sk\u00e5l!",
       "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -663,22 +679,6 @@
       "duration_ms": 266293,
       "name": "Fjellrypa",
       "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
+        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
+        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 167229,
+      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
+      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
-        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
+        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 167229,
-      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
-      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
+      "duration_ms": 137493,
+      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -831,22 +847,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
-        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
-      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "29 tonn",
         "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
       },
@@ -883,8 +883,24 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Siste Kveld",
-        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
@@ -892,13 +908,13 @@
           "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 159380,
-      "name": "Siste Kveld",
-      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -915,6 +931,22 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -951,6 +983,26 @@
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Siste Kveld",
+        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 159380,
+      "name": "Siste Kveld",
+      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -995,58 +1047,6 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
         "name": "Der Jeg H\u00f8rer Te (Bygda)",
         "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
       },
@@ -1059,6 +1059,38 @@
       "duration_ms": 137106,
       "name": "Der Jeg H\u00f8rer Te (Bygda)",
       "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2025-02-06 23:00:37",
+      "album": {
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1127,34 +1159,22 @@
     {
       "added_at": "2025-02-06 23:00:37",
       "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+        "name": "H\u00e5per du er lykkelig n\u00e5",
+        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
-      },
-      "artists": [
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        },
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+      "duration_ms": 179760,
+      "name": "H\u00e5per du er lykkelig n\u00e5",
+      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
     },
     {
       "added_at": "2025-02-06 23:00:37",
@@ -1175,26 +1195,6 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
-    },
-    {
-      "added_at": "2025-02-06 23:00:37",
-      "album": {
-        "name": "H\u00e5per du er lykkelig n\u00e5",
-        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
-      },
-      "artists": [
-        {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        },
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "H\u00e5per du er lykkelig n\u00e5",
-      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
     },
     {
       "added_at": "2025-02-06 23:00:37",

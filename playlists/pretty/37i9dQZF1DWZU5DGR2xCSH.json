@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1144048,
+  "num_followers": 1144103,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -91,50 +91,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -155,18 +123,34 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -183,6 +167,22 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Cuentos Decapitados",
-        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
-      "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 197746,
       "name": "Barro Tal Vez",
       "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
+      "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Lo Mejor de Pescado Rabioso",
         "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 398222,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -847,6 +847,38 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 454530,
+      "name": "Libros Sapienciales",
+      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Treinta Minutos de Vida",
         "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
@@ -875,38 +907,6 @@
       "duration_ms": 179130,
       "name": "Veinte Ciudades",
       "url": "https://open.spotify.com/track/17a6EMs038tuh87eggDJ1G"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 454530,
-      "name": "Libros Sapienciales",
-      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Treinta Minutos de Vida",
-        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
       "artists": [
         {
-          "name": "Moris",
-          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 463666,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 326647,
-      "name": "Agua de R\u00edo",
-      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "PorSuiGieco",
         "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 326647,
+      "name": "Agua de R\u00edo",
+      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Mi Cuarto",
         "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
       },
@@ -1023,6 +1023,38 @@
       "duration_ms": 237573,
       "name": "Los Juguetes Y Los Ni\u00f1os",
       "url": "https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Treinta Minutos de Vida",
+        "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+        }
+      ],
+      "duration_ms": 463666,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
+        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        }
+      ],
+      "duration_ms": 380933,
+      "name": "Desconf\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1055,38 +1087,6 @@
       "duration_ms": 349260,
       "name": "Regtest (Happy Valley Rock)",
       "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 130213,
-      "name": "Ayer Nom\u00e1s",
-      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
-        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        }
-      ],
-      "duration_ms": 380933,
-      "name": "Desconf\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
     },
     {
       "added_at": "2024-11-11 16:58:11",

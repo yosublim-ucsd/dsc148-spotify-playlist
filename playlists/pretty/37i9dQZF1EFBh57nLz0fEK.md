@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 70 | [Bat Phone](https://open.spotify.com/track/0rLhCmGwVdTnhpDtckZ1dC) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Loading EP](https://open.spotify.com/album/3v7EwnT9vSwdkHKhyNqZbq) | 3:24 |
 | 71 | [American Mood](https://open.spotify.com/track/1qaK2WV09lYnzL3agJ79JW) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [American Mood](https://open.spotify.com/album/2EyxMEOKoNDsQluub6Wir5) | 4:15 |
 | 72 | [South Of France](https://open.spotify.com/track/1n0agCeknSfKP6PK0r0X57) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 3:11 |
-| 73 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 |
-| 74 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
+| 73 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
+| 74 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 |
 | 75 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 |
 | 76 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 |
 | 77 | [Stand Out \(feat\. Keke Palmer\)](https://open.spotify.com/track/41KujPUGBjz9pyoDCo9Gdd) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 3:07 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 109 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 110 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbpEoAAAAAA4UE0aaorusl2lKV+sPpQt`
+Snapshot ID: `AbpKXgAAAACpX2PozNj2VOXHa8SrFS6T`

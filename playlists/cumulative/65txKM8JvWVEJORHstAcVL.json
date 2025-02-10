@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (2/2/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (9/2/2025)",
   "tracks": [
     {
       "album": {
@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Aer\u00f2bic",
+        "url": "https://open.spotify.com/album/4mp8XsxFgsRMaFb53SprlO"
+      },
+      "artists": [
+        {
+          "name": "Doctor Prats",
+          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151390,
+      "name": "Aer\u00f2bic",
+      "url": "https://open.spotify.com/track/0rzoK3KUgqtB6FWL7JLzOl"
+    },
+    {
+      "album": {
         "name": "Aix\u00f2 \u00e9s l'estiu",
         "url": "https://open.spotify.com/album/5Hv33WfrZy7gX130Y1ZMY4"
       },
@@ -282,7 +300,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
@@ -716,6 +734,24 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"

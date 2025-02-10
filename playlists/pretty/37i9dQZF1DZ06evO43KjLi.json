@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABf6rlIDx5/AmQX2frzML0H",
+  "snapshot_id": "Z6aegAAAAABP8jYMJWIfgQQpFg2d34qa",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Mis Dedos un Gallito",
-        "url": "https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb"
+        "name": "Corridos Tumbados Vol. 2",
+        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 188400,
-      "name": "En Mis Dedos un Gallito",
-      "url": "https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY"
+      "duration_ms": 156661,
+      "name": "Tirando La H",
+      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
     },
     {
       "added_at": null,
@@ -231,22 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Tumbados Vol. 2",
-        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
+        "name": "En Mis Dedos un Gallito",
+        "url": "https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 156661,
-      "name": "Tirando La H",
-      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
+      "duration_ms": 188400,
+      "name": "En Mis Dedos un Gallito",
+      "url": "https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 194793,
-      "name": "Sigue Vivo",
-      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
+      "duration_ms": 228048,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 228048,
-      "name": "Frostix",
-      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
+      "duration_ms": 194793,
+      "name": "Sigue Vivo",
+      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
     },
     {
       "added_at": null,

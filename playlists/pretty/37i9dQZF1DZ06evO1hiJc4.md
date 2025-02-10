@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,047 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,086 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 28 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
 | 29 | [WTF Are We Talking For](https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:51 |
 | 30 | [Mountains \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/0HCDvbGNsigLpkzCDwpKVr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:14 |
-| 31 | [Power Couple](https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:30 |
-| 32 | [Majesty \(with Labrinth & feat\. Eminem\)](https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:55 |
+| 31 | [Majesty \(with Labrinth & feat\. Eminem\)](https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 4:55 |
+| 32 | [Power Couple](https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:30 |
 | 33 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
 | 34 | [To Be Human \(feat\. Labrinth\)](https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Wonder Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd) | 4:00 |
 | 35 | [Yeh I Fuckin' Did It \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO) | 2:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 46 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
 | 47 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
 | 48 | [Sexy MF](https://open.spotify.com/track/1ph7yHAVYzeq1MdcYBfAA8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:58 |
-| 49 | [Benji Puts His Mum To Rest](https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:09 |
+| 49 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 |
 | 50 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
 
-Snapshot ID: `Z6VNAAAAAACni50wYhW1FAosywRWCecd`
+Snapshot ID: `Z6aegAAAAABukEgH3JEbuAO3Ic2/q+eQ`

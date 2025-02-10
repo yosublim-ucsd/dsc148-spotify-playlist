@@ -1,6 +1,6 @@
 {
   "description": "Beats lo-fi con sabor mexa. Takeover: Chill&Go. Arte: Lis Marroquin ",
-  "num_followers": 34108,
+  "num_followers": 34130,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -135,42 +135,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Sonora Sunset",
-        "url": "https://open.spotify.com/album/0pRI7eDfbsp8CTNyR3bgUy"
-      },
-      "artists": [
-        {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
-        }
-      ],
-      "duration_ms": 121481,
-      "name": "Sonora Sunset",
-      "url": "https://open.spotify.com/track/5L43t8y0vjwa8MDHySdVz0"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Autorretrato",
-        "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Autorretrato",
-      "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "fiesta",
         "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
       },
@@ -187,6 +151,22 @@
       "duration_ms": 137187,
       "name": "fiesta",
       "url": "https://open.spotify.com/track/6TsUg8El8NguxXebmWgSCs"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Sonora Sunset",
+        "url": "https://open.spotify.com/album/0pRI7eDfbsp8CTNyR3bgUy"
+      },
+      "artists": [
+        {
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
+        }
+      ],
+      "duration_ms": 121481,
+      "name": "Sonora Sunset",
+      "url": "https://open.spotify.com/track/5L43t8y0vjwa8MDHySdVz0"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -247,6 +227,26 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "Autorretrato",
+        "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Autorretrato",
+      "url": "https://open.spotify.com/track/55SwmpdOchhXCJwYxrRdrq"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Custard",
         "url": "https://open.spotify.com/album/5rxBQgiR1YDWfOxiLC7JCu"
       },
@@ -279,22 +279,18 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+        "name": "SANTA TIERRA",
+        "url": "https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/1X54JQsqoNdQS11kpCwh1U"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -311,22 +307,6 @@
       "duration_ms": 121258,
       "name": "Flores",
       "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "SANTA TIERRA",
-        "url": "https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/1X54JQsqoNdQS11kpCwh1U"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -363,6 +343,26 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Trompo de Pastor",
         "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
       },
@@ -395,6 +395,38 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
+        "name": "The Plant Whisperer",
+        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "Maranta",
+      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Lo-Fi en la Fila de la Tortilleria",
+        "url": "https://open.spotify.com/album/0jyumxuWRrgx7YvxtgthGs"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 197324,
+      "name": "Lo-Fi en la Fila de la Tortilleria",
+      "url": "https://open.spotify.com/track/0gPUW4qsIqJYUQ39bLpsca"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
         "name": "Cumbia Psicod\u00e9lica",
         "url": "https://open.spotify.com/album/35Km6XTEEYQCIB7YZ9Vrtb"
       },
@@ -415,22 +447,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "The Plant Whisperer",
-        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "Maranta",
-      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "Velita",
         "url": "https://open.spotify.com/album/6hAlzCXbTG1hK8LyKL3RGP"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 146250,
       "name": "Velita",
       "url": "https://open.spotify.com/track/3PF57MOvltYgERpjyrCcPr"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
-        "name": "Lo-Fi en la Fila de la Tortilleria",
-        "url": "https://open.spotify.com/album/0jyumxuWRrgx7YvxtgthGs"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 197324,
-      "name": "Lo-Fi en la Fila de la Tortilleria",
-      "url": "https://open.spotify.com/track/0gPUW4qsIqJYUQ39bLpsca"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "tranqui",
         "url": "https://open.spotify.com/album/1E0WkP4PHH8eatHnoxzXsO"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 122191,
       "name": "tranqui",
       "url": "https://open.spotify.com/track/7DMW7Mo9muPOoCpfAgKEFL"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Dusty Beats 2",
+        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 65893,
+      "name": "Sonora (Interludio 2)",
+      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Chola - Beat Tape",
-        "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 129804,
-      "name": "por ti",
-      "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "Taco Envenenado",
         "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 118285,
       "name": "Taco Envenenado",
       "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Chola - Beat Tape",
+        "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 129804,
+      "name": "por ti",
+      "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
     },
     {
       "added_at": "2025-01-31 06:00:28",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-01-31 06:00:28",
       "album": {
-        "name": "Jardines, Vol.2",
-        "url": "https://open.spotify.com/album/7Mntz7cJqcGKJWxfqaWRQy"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Multiverso Rec",
-          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
-        }
-      ],
-      "duration_ms": 99958,
-      "name": "magnolia",
-      "url": "https://open.spotify.com/track/0rJobBGRwYAW2Chl3OQZ3u"
-    },
-    {
-      "added_at": "2025-01-31 06:00:28",
-      "album": {
         "name": "lavender latte",
         "url": "https://open.spotify.com/album/6MP5IP8ISceZd8YZGL6H4W"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 104333,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/4kKKdnlF6IdudQcwnjnTkH"
+    },
+    {
+      "added_at": "2025-01-31 06:00:28",
+      "album": {
+        "name": "Jardines, Vol.2",
+        "url": "https://open.spotify.com/album/7Mntz7cJqcGKJWxfqaWRQy"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Multiverso Rec",
+          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
+        }
+      ],
+      "duration_ms": 99958,
+      "name": "magnolia",
+      "url": "https://open.spotify.com/track/0rJobBGRwYAW2Chl3OQZ3u"
     },
     {
       "added_at": "2025-01-31 06:00:28",

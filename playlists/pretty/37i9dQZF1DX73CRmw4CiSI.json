@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 101529,
+  "num_followers": 101542,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 229509,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Tu Calorro",
-      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
       },
@@ -379,22 +347,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Aviones",
-        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Lady Madrid",
-      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Personas",
         "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
       },
@@ -407,6 +359,54 @@
       "duration_ms": 259720,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Tu Calorro",
+      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Aviones",
+        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Lady Madrid",
+      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La taberna del Buda",
-        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "La taberna del Buda",
-      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 260733,
       "name": "Todo",
       "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Usar Y Tirar",
-        "url": "https://open.spotify.com/album/3vqfArwNlflN3NtNTJINqF"
-      },
-      "artists": [
-        {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Quedate a dormir",
-      "url": "https://open.spotify.com/track/0UQitarNPDgB7ObJCj47kn"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -651,6 +619,22 @@
       "duration_ms": 221373,
       "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Usar Y Tirar",
+        "url": "https://open.spotify.com/album/3vqfArwNlflN3NtNTJINqF"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Quedate a dormir",
+      "url": "https://open.spotify.com/track/0UQitarNPDgB7ObJCj47kn"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -683,6 +667,22 @@
       "duration_ms": 189133,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La taberna del Buda",
+        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "La taberna del Buda",
+      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Vestidos De Domingo (+ Remixes)",
+        "url": "https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs"
+      },
+      "artists": [
+        {
+          "name": "La Cabra Mecanica",
+          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Dulce Veneno",
         "url": "https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 285093,
       "name": "Sin documentos",
       "url": "https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Vestidos De Domingo (+ Remixes)",
-        "url": "https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs"
-      },
-      "artists": [
-        {
-          "name": "La Cabra Mecanica",
-          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Efecto Guaran\u00e1",
-        "url": "https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR"
-      },
-      "artists": [
-        {
-          "name": "Guaran\u00e1",
-          "url": "https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "En la Casa de In\u00e9s",
-      "url": "https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Pasi\u00f3n Condal",
         "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 193306,
       "name": "All My Loving",
       "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Efecto Guaran\u00e1",
+        "url": "https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR"
+      },
+      "artists": [
+        {
+          "name": "Guaran\u00e1",
+          "url": "https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "En la Casa de In\u00e9s",
+      "url": "https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Isla de Palma",
-      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 282293,
       "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
       "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Isla de Palma",
+      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Esencial Rosario",
+        "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Mi Gato",
+      "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Dile Al Sol",
         "url": "https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 248440,
       "name": "Probe Miguel",
       "url": "https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Esencial Rosario",
-        "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Mi Gato",
-      "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
     },
     {
       "added_at": "2022-01-25 22:47:02",

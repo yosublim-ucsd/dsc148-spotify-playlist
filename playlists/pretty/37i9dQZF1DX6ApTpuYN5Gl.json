@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243965,
+  "num_followers": 243967,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 194107,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "Georgia Blackwell",
-          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 136097,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Georgia Blackwell",
+          "url": "https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        },
-        {
-          "name": "NO\u00cbP",
-          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Allein Allein",
         "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 195483,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -703,26 +723,6 @@
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Laika.",
-        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
-      },
-      "artists": [
-        {
-          "name": "Montee",
-          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
-        },
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 180458,
-      "name": "Laika.",
-      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Felt A Little Like",
         "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 198451,
       "name": "Broken",
       "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Laika.",
+        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        },
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 180458,
+      "name": "Laika.",
+      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -991,22 +991,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
+        "name": "People Help the People",
+        "url": "https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         },
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 247730,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
+      "duration_ms": 157298,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12"
     }
   ],
   "unique_name": "melancholia",

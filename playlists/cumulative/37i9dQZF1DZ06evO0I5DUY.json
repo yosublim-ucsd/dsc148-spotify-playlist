@@ -984,15 +984,11 @@
         {
           "name": "Los Cadetes De Linares",
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Lupe Tijerina y Rosendo Cantu",
-          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
         }
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 197133,
       "name": "Nave 727",
       "url": "https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es"
@@ -1316,7 +1312,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 145360,
       "name": "Sucedio en el Aguaje",
       "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"

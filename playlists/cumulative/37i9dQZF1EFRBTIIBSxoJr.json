@@ -2213,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
+    },
+    {
+      "album": {
         "name": "After Parties & Aeroplanes",
         "url": "https://open.spotify.com/album/76gqFX9pIgy9WzF92ecoSc"
       },
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 380374,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/4Slv79Cvbf0dfw1LlRy8Qm"

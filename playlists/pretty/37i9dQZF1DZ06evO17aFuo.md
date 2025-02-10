@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,543 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,595 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 35 | [The Threat Is Real](https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:22 |
 | 36 | [Reckoning Day \- Remastered 2004](https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:34 |
 | 37 | [Foreclosure Of A Dream \- 2004 Remastered](https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:22 |
-| 38 | [Return to Hangar](https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 3:59 |
-| 39 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
+| 38 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
+| 39 | [Return to Hangar](https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 3:59 |
 | 40 | [Blood Of Heroes \- Remastered 2004](https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:50 |
 | 41 | [Dawn Patrol](https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 1:50 |
 | 42 | [Life In Hell](https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Sudden Death](https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE) | 5:09 |
 | 50 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 |
 
-Snapshot ID: `Z6VNAAAAAACIkHPnqMjFMetpPL5l0LnD`
+Snapshot ID: `Z6aegAAAAACxg0MiP1IZG9MouhxsbIEW`

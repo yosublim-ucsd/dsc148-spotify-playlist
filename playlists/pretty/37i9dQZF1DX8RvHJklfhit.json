@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 199868,
+  "num_followers": 199952,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -151,42 +171,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Aztl\u00e1n",
-        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Mi Buen Amor",
-      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Aztl\u00e1n",
+        "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -235,6 +235,42 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
       },
@@ -263,58 +299,6 @@
       "duration_ms": 102371,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -375,34 +359,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/6i4IheCT4X0cZrrkmrQGsn"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5"
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -423,6 +391,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+      "duration_ms": 252661,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/6i4IheCT4X0cZrrkmrQGsn"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "La Magia",
+      "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "B\u00e1lsamo",
         "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 245373,
-      "name": "La Magia",
-      "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Encanto Tropical",
         "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 275520,
       "name": "Te Miro Para Ver Si Me Ves Mirarte",
       "url": "https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -639,22 +655,6 @@
       "duration_ms": 187520,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 172409,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 168755,
       "name": "Ta Que Tiembla",
       "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 172409,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "El Big Blue",
-        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Mi Fiesta",
-      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 228400,
       "name": "nadie me cae bien",
       "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "El Big Blue",
+        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Mi Fiesta",
+      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Nuestra",
         "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 181894,
       "name": "Ambar Bossa Nova - Spotify Singles",
       "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "NTE",
-        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Dj Bitman",
+          "url": "https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9"
         }
       ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
+      "duration_ms": 237866,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0P0Xmwg81SFY86Fd9PP5Pu"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Colour",
-        "url": "https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz"
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
       "artists": [
         {
-          "name": "Dj Bitman",
-          "url": "https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/0P0Xmwg81SFY86Fd9PP5Pu"
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 192485,
-      "name": "C\u00edrculos",
-      "url": "https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "The Feel",
         "url": "https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 180693,
       "name": "The Feel",
       "url": "https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 192485,
+      "name": "C\u00edrculos",
+      "url": "https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 236503,
+      "name": "Drive - Edit",
+      "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Limbo Habitual, Vol. I",
         "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
       },
@@ -1599,34 +1615,26 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
       "artists": [
         {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Missed Connection",
-      "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
-      },
-      "artists": [
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
         {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 236503,
-      "name": "Drive - Edit",
-      "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1663,26 +1671,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+        "name": "Invisible People",
+        "url": "https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
         }
       ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+      "duration_ms": 151360,
+      "name": "I Know It",
+      "url": "https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg"
     }
   ],
   "unique_name": "Latin Indie Classics",

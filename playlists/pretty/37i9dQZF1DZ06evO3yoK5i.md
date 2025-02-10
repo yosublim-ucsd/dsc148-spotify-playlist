@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,827 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,858 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 7 | [Se bastasse una canzone](https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros](https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r) | 5:23 |
 | 8 | [Un'emozione per sempre](https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:56 |
 | 9 | [La Media Vuelta](https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [México & Amigos](https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt) | 3:18 |
-| 10 | [I Belong to You \(feat\. Anastacia\)](https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Calma Apparente](https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb) | 4:25 |
-| 11 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:00 |
+| 10 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:00 |
+| 11 | [I Belong to You \(feat\. Anastacia\)](https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Calma Apparente](https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb) | 4:25 |
 | 12 | [Cuanto Amor Me Das](https://open.spotify.com/track/4gmrjSmunlRmIOWq9JtzSe) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros \(Spanish Version\)](https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA) | 4:17 |
 | 13 | [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 |
 | 14 | [Nada Sin Ti](https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 5:05 |
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 17 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:11 |
 | 18 | [La Aurora](https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 5:35 |
 | 19 | [Un Angelo Disteso Al Sole](https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Noi](https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1) | 3:23 |
-| 20 | [Terra promessa \- Remastered 2021](https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 3:45 |
+| 20 | [Una storia importante \- Remastered 2021](https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 4:11 |
 | 21 | [Un Ángel Como El Sol Tú Eres](https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Somos](https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk) | 3:23 |
 | 22 | [Estrella Gemela \- Remastered 2021](https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:41 |
 | 23 | [Parla con me](https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Ali E Radici](https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R) | 3:58 |
-| 24 | [Una storia importante \- Remastered 2021](https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 4:11 |
+| 24 | [Terra promessa \- Remastered 2021](https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 3:45 |
 | 25 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 |
 | 26 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
 | 27 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Perfetto](https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Perfetto](https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2) | 3:52 |
 | 50 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
 
-Snapshot ID: `Z6VNAAAAAADN8IpsUf05XBtGmXr6AzG1`
+Snapshot ID: `Z6aegAAAAACZ40y2hnfxXSSijwYNYYhs`

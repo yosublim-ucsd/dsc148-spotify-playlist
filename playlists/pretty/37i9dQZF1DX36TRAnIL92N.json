@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 387952,
+  "num_followers": 388329,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
+        "name": "Sanctum EP",
+        "url": "https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Marion Di Napoli",
+          "url": "https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C"
+        }
+      ],
+      "duration_ms": 351992,
+      "name": "Sanctum (feat. Marion Di Napoli)",
+      "url": "https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj"
+    },
+    {
+      "added_at": "2025-02-07 05:00:30",
+      "album": {
         "name": "Sturm und Drang",
         "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
       },
@@ -387,22 +407,18 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Sanctum EP",
-        "url": "https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4"
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Marion Di Napoli",
-          "url": "https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 351992,
-      "name": "Sanctum (feat. Marion Di Napoli)",
-      "url": "https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj"
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -427,18 +443,22 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+        "name": "One Mind EP",
+        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+      "duration_ms": 345605,
+      "name": "One Mind",
+      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -471,26 +491,6 @@
       "duration_ms": 181394,
       "name": "Salty",
       "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chaos - Rave Mix",
-      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
         "name": "I Need It More",
         "url": "https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 158167,
       "name": "I Need It More",
       "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
+    },
+    {
+      "added_at": "2025-02-07 05:00:30",
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chaos - Rave Mix",
+      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "One Mind EP",
-        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 345605,
-      "name": "One Mind",
-      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 141333,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+    },
+    {
+      "added_at": "2025-02-07 05:00:30",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -667,6 +667,30 @@
       "duration_ms": 275394,
       "name": "Latin Lovers - Joyhauser Remix",
       "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+    },
+    {
+      "added_at": "2025-02-07 05:00:30",
+      "album": {
+        "name": "Dooms Night",
+        "url": "https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Azzido Da Bass",
+          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "duration_ms": 205722,
+      "name": "Dooms Night",
+      "url": "https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -763,30 +787,6 @@
       "duration_ms": 452317,
       "name": "Universal Nation - Charlotte de Witte Rework",
       "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
-        "name": "Dooms Night",
-        "url": "https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        },
-        {
-          "name": "Azzido Da Bass",
-          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
-        },
-        {
-          "name": "Timo Maas",
-          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
-        }
-      ],
-      "duration_ms": 205722,
-      "name": "Dooms Night",
-      "url": "https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
       },
       "artists": [
         {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+      "duration_ms": 163165,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
     }
   ],
   "unique_name": "Techno Workout",

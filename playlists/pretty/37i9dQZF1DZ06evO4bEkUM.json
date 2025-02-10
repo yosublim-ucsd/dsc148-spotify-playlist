@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 912950,
+  "num_followers": 913074,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAAyfqXH2cD4GQ9EYEo8x5/D",
+  "snapshot_id": "Z6aegAAAAADWKLuahyJpMWXcaqNLuz2O",
   "tracks": [
     {
       "added_at": null,
@@ -492,7 +492,7 @@
       "added_at": null,
       "album": {
         "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 198973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
+      "duration_ms": 215093,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
     },
     {
       "added_at": null,
@@ -556,7 +556,7 @@
       "added_at": null,
       "album": {
         "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 215093,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
+      "duration_ms": 198973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 82543,
+  "num_followers": 82615,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2025-02-06 23:00:49",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
+    },
+    {
+      "added_at": "2025-02-06 23:00:49",
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
-    },
-    {
-      "added_at": "2025-02-06 23:00:49",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
-      },
-      "artists": [
-        {
-          "name": "Mthandeni SK",
-          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
-        },
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
     },
     {
       "added_at": "2025-02-06 23:00:49",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-02-06 23:00:49",
       "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
-    },
-    {
-      "added_at": "2025-02-06 23:00:49",
-      "album": {
         "name": "Hiyo Lento",
         "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 335840,
       "name": "Sponky Ponky",
       "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2025-02-06 23:00:49",
+      "album": {
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
     },
     {
       "added_at": "2025-02-06 23:00:49",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-02-06 23:00:49",
       "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 198905,
+      "name": "Ubuhle Bakho",
+      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+    },
+    {
+      "added_at": "2025-02-06 23:00:49",
+      "album": {
         "name": "FOU DE TOi",
         "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 237812,
       "name": "FOU DE TOi",
       "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
-    },
-    {
-      "added_at": "2025-02-06 23:00:49",
-      "album": {
-        "name": "Imali",
-        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
-      },
-      "artists": [
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 198905,
-      "name": "Ubuhle Bakho",
-      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
     },
     {
       "added_at": "2025-02-06 23:00:49",
@@ -1499,46 +1499,6 @@
     {
       "added_at": "2025-02-06 23:00:49",
       "album": {
-        "name": "Sasa Hivi [Stripped Down]",
-        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
-      },
-      "artists": [
-        {
-          "name": "V-Be",
-          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
-        },
-        {
-          "name": "Ashley Music",
-          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Sasa Hivi [Stripped Down]",
-      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
-    },
-    {
-      "added_at": "2025-02-06 23:00:49",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2025-02-06 23:00:49",
-      "album": {
         "name": "LOVE IS PAIN",
         "url": "https://open.spotify.com/album/1inejscdMY2EBbrGS1UeR2"
       },
@@ -1579,6 +1539,26 @@
     {
       "added_at": "2025-02-06 23:00:49",
       "album": {
+        "name": "Sasa Hivi [Stripped Down]",
+        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Ashley Music",
+          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Sasa Hivi [Stripped Down]",
+      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
+    },
+    {
+      "added_at": "2025-02-06 23:00:49",
+      "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 270652,
       "name": "Wena",
       "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
+    },
+    {
+      "added_at": "2025-02-06 23:00:49",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2025-02-06 23:00:49",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-02-06 23:00:49",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2025-02-06 23:00:49",
-      "album": {
         "name": "Songs in The Key of Love",
         "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 222000,
       "name": "Ndicel'ikiss",
       "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
+    },
+    {
+      "added_at": "2025-02-06 23:00:49",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2025-02-06 23:00:49",

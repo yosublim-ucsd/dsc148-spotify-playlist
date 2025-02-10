@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166784,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
+    },
+    {
+      "album": {
         "name": "Wakare",
         "url": "https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG"
       },
@@ -1908,6 +1926,32 @@
       "duration_ms": 208478,
       "name": "Ike",
       "url": "https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp"
+    },
+    {
+      "album": {
+        "name": "MOON GARDEN",
+        "url": "https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Onnen Bock",
+          "url": "https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf"
+        },
+        {
+          "name": "\u677e\ufa11\u88d5\u5b50",
+          "url": "https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570594,
+      "name": "In The Forest of Syrinx",
+      "url": "https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N"
     },
     {
       "album": {
@@ -4448,7 +4492,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 365960,
       "name": "Twilight Sea",
       "url": "https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW"
@@ -4892,7 +4936,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 184000,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx"

@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1436914,
+  "num_followers": 1436906,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Dial Drunk",
+      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "On The Road Again",
         "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk",
-      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 216781,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203673,
       "name": "Still",
       "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 216781,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Crumbled",
-        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
-      },
-      "artists": [
-        {
-          "name": "Little Quirks",
-          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
-        }
-      ],
-      "duration_ms": 193348,
-      "name": "Crumbled",
-      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Dancing For The Answers - EP",
         "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 216753,
       "name": "Punta Cometa - Dancing For The Answers Alt Version",
       "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
+      },
+      "artists": [
+        {
+          "name": "Little Quirks",
+          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Between the Bed and Room",
-        "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
-      },
-      "artists": [
-        {
-          "name": "Robert John Ardiff",
-          "url": "https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7"
-        }
-      ],
-      "duration_ms": 236075,
-      "name": "People Talking",
-      "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 220175,
       "name": "Teenage Drug",
       "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Between the Bed and Room",
+        "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
+      },
+      "artists": [
+        {
+          "name": "Robert John Ardiff",
+          "url": "https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7"
+        }
+      ],
+      "duration_ms": 236075,
+      "name": "People Talking",
+      "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "What Happiness Is",
-        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 265995,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "What Happiness Is",
+        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Past Dawn",
-        "url": "https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Acre of Land",
-      "url": "https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Black Irish",
         "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 241203,
       "name": "Banshee Moan",
       "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Past Dawn",
+        "url": "https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Acre of Land",
+      "url": "https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jones",
-          "url": "https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Disposable",
         "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 217461,
       "name": "Disposable",
       "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jones",
+          "url": "https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey"
     },
     {
       "added_at": "2024-09-03 18:29:36",

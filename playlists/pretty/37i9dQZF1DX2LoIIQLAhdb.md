@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Sonny Rave x Green Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,542 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,547 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 6 | [GHETTO](https://open.spotify.com/track/4N2KGJWTNtSttyhAHJrAfJ) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [GHETTO](https://open.spotify.com/album/7kjJpRgAMOEAOidjM9qAPc) | 2:42 |
 | 7 | [J'æ aççepté](https://open.spotify.com/track/5DN6GhHoXrZlWh1qN6T3yW) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [J'æ aççepté](https://open.spotify.com/album/3EDmTC0V0Wj64XIxIrmNkQ) | 3:30 |
 | 8 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ma sœur \(Au pays des Merveilles\)](https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k) | 2:51 |
-| 9 | [Dans les veines](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 |
+| 9 | [Dans les veines \(feat\. Franglish & Leslie\)](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines \(feat\. Franglish & Leslie\)](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 |
 | 10 | [Que dalle](https://open.spotify.com/track/4gCoc6I3V4kEBhYp9r84gt) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Que dalle](https://open.spotify.com/album/75eKtzkGSIcANu1hny54Fi) | 2:57 |
 | 11 | [Apprends\-moi !](https://open.spotify.com/track/1QfNvkcNwlnoUpFlHu2AX8) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:01 |
 | 12 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 |

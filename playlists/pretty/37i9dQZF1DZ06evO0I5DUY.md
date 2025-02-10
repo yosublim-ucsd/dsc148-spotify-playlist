@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,932 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,990 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 46 | [Eleazar del Fierro](https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:10 |
 | 47 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
 | 48 | [Lamberto Quintero](https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Despedida con Mariachi](https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH) | 3:07 |
-| 49 | [Sucedio en el Aguaje](https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:25 |
+| 49 | [Nave 727](https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:17 |
 | 50 | [Menos Que Nada](https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:45 |
 
-Snapshot ID: `Z6VNAAAAAAAuYEUjoCosuR3R7m0mazKB`
+Snapshot ID: `Z6aegAAAAABvN+hpOE6jODj+4bRicMc3`

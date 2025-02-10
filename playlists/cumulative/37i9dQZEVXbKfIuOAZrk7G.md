@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-3,457 songs - 7 day 15 hr 12 min
+3,458 songs - 7 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2806,6 +2806,7 @@
 | [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 | 2023-04-05 | 2023-04-14 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-13 | 2023-06-14 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-19 | 2023-11-16 |
+| [strangers](https://open.spotify.com/track/2QdcmNlQdW8iA4JEg29cgx) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [strangers](https://open.spotify.com/album/2AEjE0bmkcqNAeC5N7hgfD) | 2:15 | 2025-02-09 |  |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-24 | 2025-01-01 |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-05-02 | 2023-05-05 |
 | [Strip That Down \(feat\. Quavo\)](https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:22 | 2024-10-18 | 2024-10-28 |
@@ -3278,7 +3279,7 @@
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-04-19 | 2022-05-04 |
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-12 | 2024-01-31 |
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-03-15 | 2022-04-20 |
-| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-21 |  |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-21 | 2025-02-10 |
 | [Weeping Willow](https://open.spotify.com/track/4qQ7NJJlZ9ICFSYgtTBuNX) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:01 | 2023-09-06 | 2023-09-20 |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-01-18 | 2024-01-23 |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-09-14 | 2022-09-21 |

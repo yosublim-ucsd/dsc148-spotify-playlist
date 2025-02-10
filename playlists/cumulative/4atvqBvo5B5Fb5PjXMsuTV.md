@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Feb 19:01 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Feb 19:01 UTC.
 
-4,116 songs - 9 day 12 hr 29 min
+4,117 songs - 9 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,7 +1105,7 @@
 | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 | 2024-05-03 | 2024-05-05 |
 | [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 | 2024-12-17 | 2024-12-21 |
 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 | 2024-07-11 | 2024-07-13 |
-| [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 | 2025-02-02 |  |
+| [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 | 2025-02-02 | 2025-02-10 |
 | [Entropía](https://open.spotify.com/track/2CBG4JM0DIGZOBOHsVffYF) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Entropía](https://open.spotify.com/album/00JXQ6363PciiJnJhwf9gv) | 3:10 | 2024-10-18 | 2024-10-19 |
 | [Enything](https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Enything](https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj) | 4:41 | 2025-01-25 | 2025-02-01 |
 | [EOS Pt 2](https://open.spotify.com/track/0hMkBBv3bBnGSro4Fv3TFZ) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [EOS Pt 2](https://open.spotify.com/album/5ZBBjyvDcfKrcMZCHlvJQj) | 2:31 | 2024-09-28 | 2024-10-03 |
@@ -2723,6 +2723,7 @@
 | [Pocket](https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Pocket](https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP) | 3:25 | 2024-10-05 | 2024-10-10 |
 | [Pocket \(montreal\)](https://open.spotify.com/track/3TJWODxkUUPtC28fGZUNCZ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Pocket \(montreal\)](https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG) | 1:58 | 2024-08-30 | 2024-09-05 |
 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 | 2024-11-07 | 2024-11-09 |
+| [POGO](https://open.spotify.com/track/1wiNWp8qVn2ZGZIi5SafqM) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [POGO](https://open.spotify.com/album/1Ravfb4ce8FyrvEKVi4PHd) | 2:53 | 2025-02-09 |  |
 | [Points of Authority](https://open.spotify.com/track/6w380ZNXElbBbQQlzaD2C1) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Points of Authority](https://open.spotify.com/album/7qE1SETjsVFw0PkH2VJRJB) | 3:14 | 2024-07-26 | 2024-07-31 |
 | [POISONOUS](https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [POISONOUS](https://open.spotify.com/album/0PrQ1CHicF8l6f8K1Xcb0L) | 3:14 | 2024-07-05 | 2024-07-07 |
 | [Poker Face](https://open.spotify.com/track/7rzneJ8EgGKSLU02wdQzrD) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Poker Face](https://open.spotify.com/album/2AWXj6ORyyBCyu6DX7jSqO) | 4:11 | 2024-08-30 | 2024-09-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 578867,
+  "num_followers": 579069,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADRJ9le66m6424vF5t3nc/C",
+  "snapshot_id": "Z6aegAAAAAC8kTviTgTHIhA6y15vCmTM",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+        "name": "The Bones (with Hozier)",
+        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
       },
       "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
+      "duration_ms": 197298,
+      "name": "The Bones - with Hozier",
+      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bones (with Hozier)",
-        "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
       "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
         {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 197298,
-      "name": "The Bones - with Hozier",
-      "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
     },
     {
       "added_at": null,

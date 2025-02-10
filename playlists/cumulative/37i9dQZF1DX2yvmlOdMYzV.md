@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-883 songs - 2 day 0 hr 3 min
+884 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Easy Baby](https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/5nxfGiKqavxhxGZG3VQQ2B) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 | 2024-01-12 |  |
 | [ELEVATE \(ft\. Mack Keane\)](https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:33 | 2023-06-16 | 2023-07-15 |
+| [Emotions](https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Emotions](https://open.spotify.com/album/2RniGd4rfm2HFYwajJKNpE) | 3:27 | 2025-02-07 |  |
 | [end of the road \(ft\. reggie\)](https://open.spotify.com/track/1icric3zsJdIG86kaYNb26) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 2:16 | 2023-02-16 | 2023-09-17 |
 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 | 2024-06-16 |
 | [Endlessly](https://open.spotify.com/track/5LTgpMQ6yZNYfEb7U0AuSX) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Free Fallin'](https://open.spotify.com/album/3JQ4zns5D1DTCoAgmjjweC) | 4:21 | 2024-10-18 |  |
@@ -512,7 +513,7 @@
 | [Message in a bottle](https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Message in a bottle](https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC) | 2:54 | 2024-03-01 | 2024-04-16 |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-09-08 |  |
 | [MHS](https://open.spotify.com/track/7w1cWV6RG3EqHD33qR2ARj) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [MHS](https://open.spotify.com/album/70bf7jpi0uG2p3fZYWa5SC) | 2:50 | 2021-12-15 | 2022-07-28 |
-| [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-26 |  |
+| [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-26 | 2025-02-10 |
 | [Mirror \(with Sabrina Claudio\)](https://open.spotify.com/track/0s3uvrmAZeYQjdmB0vgnYk) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:07 | 2024-05-31 |  |
 | [Missing](https://open.spotify.com/track/3v01M7oSUyi2l8ddjznJQX) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Missing](https://open.spotify.com/album/2IfIc3vsMoHYe6RjLoojia) | 2:54 | 2025-01-31 |  |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-12-15 | 2022-08-08 |

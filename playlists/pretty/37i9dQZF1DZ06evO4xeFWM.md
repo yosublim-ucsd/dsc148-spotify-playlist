@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,535 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,530 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 19 | [Remains \(Bastille Vs\. Rag’N’Bone Man Vs\. Skunk Anansie\)](https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 4:39 |
 | 20 | [Eve & Paradise Lost](https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:10 |
 | 21 | [survivin'](https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [survivin'](https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC) | 2:53 |
-| 22 | [Eurydice \- Dan's Demo](https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [KAOS \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j) | 3:29 |
-| 23 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
+| 22 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
+| 23 | [Eurydice \- Dan's Demo](https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [KAOS \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j) | 3:29 |
 | 24 | [Mademoiselle & The Nunnery Blaze](https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:59 |
 | 25 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
 | 26 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 | 51 | [Basket Case \- From ‘The Tick’ TV Series](https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Basket Case \(From ‘The Tick’ TV Series\)](https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw) | 2:33 |
 
-Snapshot ID: `Z6VNAAAAAAAJNfuoTyBHWYBKxgw4EWgy`
+Snapshot ID: `Z6aegAAAAABjM1zFYEzGvBDrVUQclzd7`

@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 40881,
+  "num_followers": 40888,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACJtst2ZND2mxIi1IE7sVJ/",
+  "snapshot_id": "Z6aegAAAAAArmx7Vg5sxuR8dhEc2o5aM",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NANi",
         "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
       },
@@ -147,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
       },
       "artists": [
         {
@@ -156,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -183,22 +199,6 @@
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE FORCE",
         "url": "https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 219715,
       "name": "Proclivities (feat. Saweetie)",
       "url": "https://open.spotify.com/track/2sOnlJG7pZXYM7s1z8S5Qk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,

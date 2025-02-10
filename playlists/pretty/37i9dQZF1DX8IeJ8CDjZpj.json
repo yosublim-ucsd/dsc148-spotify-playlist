@@ -11,22 +11,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -43,6 +27,22 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -315,18 +331,18 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -347,22 +363,6 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -395,6 +395,22 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -887,38 +887,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
@@ -931,6 +899,22 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -971,26 +971,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1031,22 +1011,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -1075,6 +1039,22 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1111,6 +1091,26 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Gran Disco Mini Precio - Dulce Beat",
-        "url": "https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
         "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Gran Disco Mini Precio - Dulce Beat",
+        "url": "https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/6PHs1TbnxnSHrRBh9XXTGf"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 120157,
       "name": "this is what falling in love feels like - Leon Leiden Remix",
       "url": "https://open.spotify.com/track/60DkG4mCA52rUUXz0F0wNi"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2023-01-25 22:18:25",

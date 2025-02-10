@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 592384,
+  "num_followers": 592465,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -575,38 +575,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "Flores de Venganza",
-        "url": "https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 166150,
-      "name": "Flores de Venganza",
-      "url": "https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -627,6 +595,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "Tragas o Escupes",
         "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
       },
@@ -639,22 +623,6 @@
       "duration_ms": 214553,
       "name": "Eso Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -691,6 +659,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "Flores de Venganza",
+        "url": "https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 166150,
+      "name": "Flores de Venganza",
+      "url": "https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
       },
@@ -707,24 +691,8 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
       "artists": [
         {
@@ -732,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -751,6 +719,22 @@
       "duration_ms": 270466,
       "name": "La senda del tiempo",
       "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "Sopa fria",
         "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Muy Deficiente",
-        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
         }
       ],
-      "duration_ms": 250093,
-      "name": "El roce de tu cuerpo",
-      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -959,6 +943,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Muy Deficiente",
+        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "El roce de tu cuerpo",
+      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
       "artists": [
         {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
       "artists": [
         {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "Ba\u00efonarena (Live)",
         "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
-        "name": "Bailar\u00e9 sobre tu tumba",
-        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
-      },
-      "artists": [
-        {
-          "name": "Siniestro Total",
-          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Bailar\u00e9 sobre tu tumba",
-      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
         "name": "El doble de tu mitad",
         "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 240760,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
+        "name": "Bailar\u00e9 sobre tu tumba",
+        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+      },
+      "artists": [
+        {
+          "name": "Siniestro Total",
+          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Bailar\u00e9 sobre tu tumba",
+      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
     },
     {
       "added_at": "2025-02-06 23:00:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-02-06 23:00:32",
       "album": {
+        "name": "El C\u00e1liz",
+        "url": "https://open.spotify.com/album/0RTvwDUXtb69Blspd0k1D3"
+      },
+      "artists": [
+        {
+          "name": "Lex L\u00fcger",
+          "url": "https://open.spotify.com/artist/4MbvQ2nqlyxNXWhtL7mp7A"
+        }
+      ],
+      "duration_ms": 201212,
+      "name": "El C\u00e1liz",
+      "url": "https://open.spotify.com/track/2VLoN5D6iv3j9q6E8KvR2S"
+    },
+    {
+      "added_at": "2025-02-06 23:00:32",
+      "album": {
         "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
         "url": "https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
-    },
-    {
-      "added_at": "2025-02-06 23:00:32",
-      "album": {
-        "name": "El C\u00e1liz",
-        "url": "https://open.spotify.com/album/0RTvwDUXtb69Blspd0k1D3"
-      },
-      "artists": [
-        {
-          "name": "Lex L\u00fcger",
-          "url": "https://open.spotify.com/artist/4MbvQ2nqlyxNXWhtL7mp7A"
-        }
-      ],
-      "duration_ms": 201212,
-      "name": "El C\u00e1liz",
-      "url": "https://open.spotify.com/track/2VLoN5D6iv3j9q6E8KvR2S"
     },
     {
       "added_at": "2025-02-06 23:00:32",

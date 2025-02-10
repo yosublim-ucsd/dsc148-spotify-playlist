@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 126230,
+  "num_followers": 126265,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACFarH2BS7EWazicRMO8IZv",
+  "snapshot_id": "Z6aegAAAAADEyxbRsHxGY7rqMQSzGuR4",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minifalda",
-        "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
+        "name": "Ef\u00edmero",
+        "url": "https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq"
       },
       "artists": [
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 178946,
-      "name": "Minifalda",
-      "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
+      "duration_ms": 209780,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/65752X0pjHO407mHsCTjwn"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ef\u00edmero",
-        "url": "https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq"
+        "name": "Minifalda",
+        "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
       },
       "artists": [
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 209780,
-      "name": "Ef\u00edmero",
-      "url": "https://open.spotify.com/track/65752X0pjHO407mHsCTjwn"
+      "duration_ms": 178946,
+      "name": "Minifalda",
+      "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
     },
     {
       "added_at": null,

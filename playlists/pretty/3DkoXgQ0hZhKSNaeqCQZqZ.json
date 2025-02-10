@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 485,
+  "num_followers": 486,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADNJ21xjPeCbGtyR7ZuFC8xXKb6hIL",
+  "snapshot_id": "AAADNYlDXVJZNV6FhwyvSX7ce1G4dvsI",
   "tracks": [
+    {
+      "added_at": "2025-02-09 17:52:10",
+      "album": {
+        "name": "Sun Spots",
+        "url": "https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 292884,
+      "name": "Sun Spots",
+      "url": "https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg"
+    },
     {
       "added_at": "2025-02-08 10:39:22",
       "album": {

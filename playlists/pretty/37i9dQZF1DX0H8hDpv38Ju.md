@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,764 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,847 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 4 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 |
 | 5 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 6 | [Part\-Time Lover](https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 4:12 |
-| 7 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
-| 8 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
+| 7 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
+| 8 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
 | 9 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 10 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 11 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 14 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 15 | [Party All the Time](https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B) | [Eddie Murphy](https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc) | [How Could It Be](https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5) | 4:13 |
 | 16 | [If It Isn't Love](https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 5:09 |
-| 17 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 18 | [So Emotional](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:36 |
+| 17 | [So Emotional](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:36 |
+| 18 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 19 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
 | 20 | [Casanova](https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [The Best of Gerald Levert](https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82) | 4:22 |
 | 21 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 32 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
 | 33 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 | 34 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 |
-| 35 | [I Want Her](https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [The Best of Keith Sweat: Make You Sweat](https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8) | 3:41 |
-| 36 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
+| 35 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
+| 36 | [I Want Her](https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [The Best of Keith Sweat: Make You Sweat](https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8) | 3:41 |
 | 37 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
 | 38 | [Saturday Love \- 12" Extended Version](https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4), [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Best Of](https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H) | 8:41 |
 | 39 | [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 |

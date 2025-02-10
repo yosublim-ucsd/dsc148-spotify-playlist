@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 325372,
+  "num_followers": 325450,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-01-27 23:28:54",
       "album": {
-        "name": "I + II",
-        "url": "https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx"
-      },
-      "artists": [
-        {
-          "name": "Leaving Time",
-          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q"
-    },
-    {
-      "added_at": "2025-01-27 23:28:54",
-      "album": {
         "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 187189,
       "name": "BE QUIET AND DRIVE (FAR AWAY)",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+    },
+    {
+      "added_at": "2025-01-27 23:28:54",
+      "album": {
+        "name": "I + II",
+        "url": "https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx"
+      },
+      "artists": [
+        {
+          "name": "Leaving Time",
+          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q"
     },
     {
       "added_at": "2025-01-27 23:28:54",

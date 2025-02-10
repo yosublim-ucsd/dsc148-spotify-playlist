@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 529841,
+  "num_followers": 530308,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -115,34 +115,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Breakfast on the Morning Tram (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Matt Skelton",
-          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
-        },
-        {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
-        },
-        {
-          "name": "Dave Chamberlain",
-          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Ces petits riens",
-      "url": "https://open.spotify.com/track/1f5RkzhoRnzCO6AzMhkhdY"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -175,22 +147,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Le Paris De ... Montand",
         "url": "https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK"
       },
@@ -207,6 +163,34 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Breakfast on the Morning Tram (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Ces petits riens",
+      "url": "https://open.spotify.com/track/1f5RkzhoRnzCO6AzMhkhdY"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 168000,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Un jour comme un autre",
-      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Un jour comme un autre",
+      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Le Temps D'un Jazz",
         "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Amourettes",
-        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
-      },
-      "artists": [
-        {
-          "name": "Les Chauds Lapins",
-          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Cette Nuit l\u00e0",
-      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Amourettes",
+        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
+      },
+      "artists": [
+        {
+          "name": "Les Chauds Lapins",
+          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Cette Nuit l\u00e0",
+      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Faites vous des amis",
         "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Manquait Plus Qu'Ca",
         "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 167266,
       "name": "La mer opale",
       "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Les Souvenirs Sous Ma Frange",
-        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "J'ai 18 Ans",
-      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "La javanaise",
         "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
@@ -1095,6 +1079,38 @@
       "duration_ms": 187626,
       "name": "En septembre sous la pluie",
       "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Les Souvenirs Sous Ma Frange",
+        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "J'ai 18 Ans",
+      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1159,22 +1175,6 @@
       "duration_ms": 139548,
       "name": "Saint-tropez blues",
       "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Les jeux sont faits",
-      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2024-06-03 11:39:48",

@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 538249,
+  "num_followers": 538429,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADi92Q5xXoUuCV1YHoDehdt",
+  "snapshot_id": "Z6aegAAAAACrklHCrKEcS4LXDEP5Dxqh",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn, Burn, Burn",
-        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 268856,
-      "name": "Burn, Burn, Burn",
-      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn, Burn, Burn",
+        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 268856,
+      "name": "Burn, Burn, Burn",
+      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
       "added_at": null,

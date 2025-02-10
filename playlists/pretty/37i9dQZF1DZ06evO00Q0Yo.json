@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 18773,
+  "num_followers": 18785,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAAcKjTECYEyGZVdsXssGHzd",
+  "snapshot_id": "Z6aegAAAAACzJR1b2emGSizoV2Pkm0Ed",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 134579,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Havoc",
         "url": "https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x"
       },
@@ -291,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diana (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Diana (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
         "url": "https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O"
       },
@@ -335,26 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+        "name": "Diana (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 134579,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
+      "duration_ms": 125142,
+      "name": "Diana (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roaring 20s",
         "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 129145,
       "name": "Roaring 20s",
       "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 159820,
       "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
       "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,

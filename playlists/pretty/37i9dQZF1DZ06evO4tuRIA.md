@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,851 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,934 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 15 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 |
 | 16 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
 | 17 | [Voy A Llegar](https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Voy A Llegar](https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1) | 2:42 |
-| 18 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 |
-| 19 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
+| 18 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
+| 19 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 |
 | 20 | [El Charal](https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Charal](https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ) | 3:22 |
 | 21 | [De Bajo Perfil](https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 2:44 |
 | 22 | [Soy de Michoacan](https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Soy de Michoacan](https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A) | 2:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 50 | [El Sapo \(En Vivo\)](https://open.spotify.com/track/2zW9p9utfRxWoT4usDt8jq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes \(En Vivo\)](https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r) | 3:10 |
 | 51 | [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 |
 
-Snapshot ID: `Z6VNAAAAAACKnIfW3sFQM8GuKvdEUw+r`
+Snapshot ID: `Z6aegAAAAADoPGIm4BomvrMs9733SwCQ`

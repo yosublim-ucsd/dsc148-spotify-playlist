@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983 likes - 132 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 985 likes - 132 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 35 | [Baby](https://open.spotify.com/track/6pGsdKu9meinWCqFDiD94g) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:13 |
 | 36 | [Regole \(feat\. Carl Brave\)](https://open.spotify.com/track/4odsEF1NXdEeHMzAxcyFKc) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:03 |
 | 37 | [E PENSIER MI](https://open.spotify.com/track/1v0mhr3VzTSpzHRylqXk4E) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:37 |
-| 38 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
-| 39 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 |
+| 38 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 |
+| 39 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
 | 40 | [RADIOHEAD](https://open.spotify.com/track/6U8kBbvNRofmeErSEkuowj) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:23 |
 | 41 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 |
 | 42 | [ok :0](https://open.spotify.com/track/2geeYyWexPGJQaClRbQqwl) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 3:10 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 131 | [Hotel Corallo](https://open.spotify.com/track/7tjhWatS9Fha34m8Q9YxKW) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 3:29 |
 | 132 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `AbpEvgAAAABnIv8hgEGIjkJ2DrRaEfGH`
+Snapshot ID: `AbpKSgAAAAD49diQXkB+06WN2RWbyn/1`

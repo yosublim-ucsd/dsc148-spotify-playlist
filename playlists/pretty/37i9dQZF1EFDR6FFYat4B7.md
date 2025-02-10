@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 154 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 477 likes - 154 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 17 | [Talking to Myself](https://open.spotify.com/track/7nAfXgeHfDO50upcOjJOaq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:51 |
 | 18 | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/track/1Tip6R4swhC7E6hgILBjrE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:40 |
 | 19 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
-| 20 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
-| 21 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 |
-| 22 | [Guys My Age](https://open.spotify.com/track/0Xm8tw6qikotb8FAOZ2ks7) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:33 |
+| 20 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 |
+| 21 | [Guys My Age](https://open.spotify.com/track/0Xm8tw6qikotb8FAOZ2ks7) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:33 |
+| 22 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
 | 23 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i) | 3:20 |
 | 24 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:11 |
 | 25 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 130 | [Thicker Than Water](https://open.spotify.com/track/3DUDmYlLCnp0bdVfJGwe9k) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EZEE](https://open.spotify.com/artist/3BRnVKHvAQEdENW8XCjeb9) | [Thicker Than Water](https://open.spotify.com/album/0kY5zsvfsr74b1a76ZHRGe) | 3:03 |
 | 131 | [Send Me Your Love \- KDrew Remix](https://open.spotify.com/track/5pYngSQa1LIT2WZ14sTKKD) | [Taryn Manning](https://open.spotify.com/artist/5XuruQMEsXHJZ7AIREr8Yv) | [Send Me Your Love \(KDrew Remix\) \- Single](https://open.spotify.com/album/28NaVVA9vrBQZEac8iIVVM) | 4:54 |
 | 132 | [Brooklyn Apartment \(It’s Louder Than The TV And The Radio\)](https://open.spotify.com/track/6rohsMPgiP6CAvlTejehdE) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:19 |
-| 133 | [WW3](https://open.spotify.com/track/21bFJLBdEX2YLpwSW27XYt) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:10 |
-| 134 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |
+| 133 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |
+| 134 | [WW3](https://open.spotify.com/track/21bFJLBdEX2YLpwSW27XYt) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:10 |
 | 135 | [Before The Sun Goes Down](https://open.spotify.com/track/3koztLmMH6DSP8NmI0Mc9f) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 2:51 |
 | 136 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 137 | [Superhuman](https://open.spotify.com/track/087AijlT1LgtZSXZbisZrg) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:21 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 153 | [Ring The Alarm](https://open.spotify.com/track/0pr03cUOFsjZW26YSPBYG6) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Ring The Alarm](https://open.spotify.com/album/6wLqWInrnKYTH4nbnP0tSX) | 2:38 |
 | 154 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbpEvgAAAACCgPmEy9TtSbPzr+vg5BgB`
+Snapshot ID: `AbpKXgAAAAA7rZWVUNTShr0fl+zp53uC`

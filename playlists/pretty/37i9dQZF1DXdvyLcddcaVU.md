@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,045 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,309 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 29 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 |
 | 30 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 |
 | 31 | [Malya](https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [15](https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn) | 3:12 |
-| 32 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
+| 32 | [Lalla \(feat\. Hamza\)](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla \(feat\. Hamza\)](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
 | 33 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 34 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |
 | 35 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 |

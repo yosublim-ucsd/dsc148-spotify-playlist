@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 91901,
+  "num_followers": 91903,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAC3BJTT7sTyhhJ+cEC0FuTl",
+  "snapshot_id": "Z6aegAAAAADK2XKpb8GeBgh6tn87Y2C3",
   "tracks": [
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+        "name": "Gabbana Es El Porte",
+        "url": "https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld"
       },
       "artists": [
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
+      "duration_ms": 151690,
+      "name": "Gabbana Es El Porte",
+      "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gabbana Es El Porte",
-        "url": "https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld"
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
       "artists": [
-        {
-          "name": "Ismael CM",
-          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
-        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 151690,
-      "name": "Gabbana Es El Porte",
-      "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 138272,
-      "name": "Alex Valencia",
-      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+      "duration_ms": 162469,
+      "name": "Morras De Cache",
+      "url": "https://open.spotify.com/track/7mDwgb8zCEZRppGqCTAvKo"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 144764,
-      "name": "Al Millon Ando Yo",
-      "url": "https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 144764,
+      "name": "Al Millon Ando Yo",
+      "url": "https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Prometido Es Deuda (Vol.4)",
         "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 162469,
-      "name": "Morras De Cache",
-      "url": "https://open.spotify.com/track/7mDwgb8zCEZRppGqCTAvKo"
+      "duration_ms": 138272,
+      "name": "Alex Valencia",
+      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
     },
     {
       "added_at": null,

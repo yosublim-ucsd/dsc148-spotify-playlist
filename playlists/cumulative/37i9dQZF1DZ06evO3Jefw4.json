@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 163821,
       "name": "ARTIFICIAL (feat. JID)",
       "url": "https://open.spotify.com/track/3F7nQ5YqYYYHKvRnIRtKYh"
@@ -2050,6 +2050,24 @@
       "duration_ms": 177391,
       "name": "TRUTH",
       "url": "https://open.spotify.com/track/1ksZu2u56ut93LAuLGxUXD"
+    },
+    {
+      "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/6HyqlFV51dva0OQm19uIA0"
     },
     {
       "album": {

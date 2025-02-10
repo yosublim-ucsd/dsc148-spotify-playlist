@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 877575,
+  "num_followers": 877649,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACHD4sBWhUIzlmPpm2oEvSH",
+  "snapshot_id": "Z6aegAAAAADFti4GtFNfrx7bk4HQogKD",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": null,
@@ -359,30 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 216408,
-      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 216408,
+      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Ball For Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Ball For Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
         "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 260239,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 269430,
-      "name": "Arctic Tundra (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
       "duration_ms": 235689,
       "name": "Needle (feat. Drake)",
       "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 269430,
+      "name": "Arctic Tundra (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
     },
     {
       "added_at": null,

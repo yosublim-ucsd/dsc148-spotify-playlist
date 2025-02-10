@@ -11058,7 +11058,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 163574,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/4Fkken2vbissEcoXRBxqrv"
@@ -21830,7 +21830,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -26164,10 +26164,36 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
+    },
+    {
+      "album": {
+        "name": "Menina de Vermelho",
+        "url": "https://open.spotify.com/album/1y4U5TruuQ0nFNYzaD4etW"
+      },
+      "artists": [
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        },
+        {
+          "name": "RAMONMIX",
+          "url": "https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "Menina de Vermelho",
+      "url": "https://open.spotify.com/track/5oHWEvKSsl1DVxAgRBReI9"
     },
     {
       "album": {
@@ -27240,7 +27266,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 141320,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2iEXkEB32esmNExcEyKjKc"
@@ -30022,7 +30048,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"

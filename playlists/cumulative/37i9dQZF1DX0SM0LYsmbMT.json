@@ -25746,7 +25746,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 96000,
       "name": "Flutes And Guitars",
       "url": "https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM"
@@ -43592,6 +43592,24 @@
       "duration_ms": 93624,
       "name": "Loto",
       "url": "https://open.spotify.com/track/2i52hcNgy0k0pPNyEWw7ub"
+    },
+    {
+      "album": {
+        "name": "Lou",
+        "url": "https://open.spotify.com/album/2jM5He9YliUqJkn2cIcXxV"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111236,
+      "name": "Lou",
+      "url": "https://open.spotify.com/track/5RQRCYXBSdvX1XevfTaixS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 321875,
+  "num_followers": 321878,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -431,42 +451,6 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -535,6 +519,22 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
         "name": "Based On A True Story...",
         "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
       },
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -1223,6 +1223,22 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-02-07 20:14:20",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-02-07 20:14:20",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 219526,
-      "name": "REM",
-      "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
-    },
-    {
-      "added_at": "2025-02-07 20:14:20",
-      "album": {
         "name": "Love On",
         "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 181650,
       "name": "Love On",
       "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
+    },
+    {
+      "added_at": "2025-02-07 20:14:20",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 219526,
+      "name": "REM",
+      "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
     },
     {
       "added_at": "2025-02-07 20:14:20",

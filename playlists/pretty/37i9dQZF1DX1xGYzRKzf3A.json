@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 151976,
+  "num_followers": 152022,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -107,6 +123,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -127,6 +159,26 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/6CT0IjzheKdquZPESJLGx8"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        },
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "El Silencio de Tu Adios",
+      "url": "https://open.spotify.com/track/5c1NFm7xGou1sDkCN32fXI"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -163,74 +215,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/6CT0IjzheKdquZPESJLGx8"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        },
-        {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "El Silencio de Tu Adios",
-      "url": "https://open.spotify.com/track/5c1NFm7xGou1sDkCN32fXI"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -283,34 +267,34 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Necesito M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Sentimientos De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -347,6 +331,38 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Necesito M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Sentimientos De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
       },
@@ -523,6 +507,38 @@
       "duration_ms": 159581,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Me Hiciste un Borracho",
+        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "F\u00edjate Que S\u00ed",
+      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -543,18 +559,18 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Me Hiciste un Borracho",
-        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 204586,
-      "name": "F\u00edjate Que S\u00ed",
-      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 262661,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
-        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Casas de Madera",
-      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Cari\u00f1o Santo",
         "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
       },
       "artists": [
         {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -863,6 +863,22 @@
       "duration_ms": 179506,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -899,22 +915,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "The Pre End Of The World Soundtrack",
         "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 161671,
       "name": "La Hielera",
       "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Broche de Oro",
-      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Fuera De Control",
         "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
+      "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 164613,
       "name": "Mi Padrino el Diablo",
       "url": "https://open.spotify.com/track/0z07OSWiapGp0I8ttzgXo1"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
-      "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
-        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Catarino Leos",
-          "url": "https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
-      "url": "https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk"
+      "duration_ms": 146693,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1511,6 +1507,26 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Catarino Leos",
+          "url": "https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
+      "url": "https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "15 Super Exitos",
         "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
       },
@@ -1523,6 +1539,22 @@
       "duration_ms": 236538,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "No Porque Seas T\u00fa",
+      "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 146693,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Vuelven los Cl\u00e1sicos de Balneario (Vol. 4)",
         "url": "https://open.spotify.com/album/6EkZ3nDkAXow1mwEzBwPof"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 214226,
       "name": "Te Est\u00e1n Matando los A\u00f1os",
       "url": "https://open.spotify.com/track/3o6WfL7wMC52XvoJI6fGLE"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "No Porque Seas T\u00fa",
-      "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Me Llega Me Llega",
+      "url": "https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Cuando el Hombre Llega a Viejo",
         "url": "https://open.spotify.com/album/2X92nMtrA02l1TkO1w7jaP"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 219509,
       "name": "Eras",
       "url": "https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Me Llega Me Llega",
-      "url": "https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Sin Limites",
-        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Mira, Mira, M\u00edrala",
-      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "A D\u00edos Le Pido",
         "url": "https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3"
       },
@@ -1839,22 +1823,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "La Cervecita",
-      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "La Voz Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
       },
@@ -1867,6 +1835,38 @@
       "duration_ms": 223920,
       "name": "Si Yo Fuera Tu",
       "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Sin Limites",
+        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Mira, Mira, M\u00edrala",
+      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "La Cervecita",
+      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
     },
     {
       "added_at": "2024-07-15 22:48:03",

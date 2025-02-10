@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-308 songs - 16 hr 18 min
+309 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-18 |  |
 | [Suicider](https://open.spotify.com/track/2MuM98vRKQZYd0ktRXiQ82) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Suicider](https://open.spotify.com/album/5EU2NsknWKLhEVlmrtTw8D) | 3:31 | 2023-09-02 |  |
 | [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-06-14 |  |
+| [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 | 2025-02-09 |  |
 | [System Error](https://open.spotify.com/track/6Hj845K5h4w6RxXxxVlTsm) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [System Error](https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB) | 5:06 | 2023-06-14 |  |
 | [T BOY SWAG!!](https://open.spotify.com/track/1pnXju2cvAdcXwhSaIHlhO) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:13 | 2024-07-25 |  |
 | [Take Me Up](https://open.spotify.com/track/1GyuPucfVlZAHw7CUmq4eo) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Take Me Up](https://open.spotify.com/album/5krEvaWqSRz6A7J9NGtbl7) | 2:55 | 2024-10-18 |  |

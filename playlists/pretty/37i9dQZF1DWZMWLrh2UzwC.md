@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,602 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,618 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

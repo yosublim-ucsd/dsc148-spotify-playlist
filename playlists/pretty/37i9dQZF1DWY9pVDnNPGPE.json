@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6770,
+  "num_followers": 6779,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 197613,
       "name": "LOVE COUNTDOWN (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 168104,
-      "name": "Midnight Fiction",
-      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 197795,
       "name": "TFW (That Feeling When)",
       "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 168104,
+      "name": "Midnight Fiction",
+      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "Our Beloved BoA #4 - SM STATION",
         "url": "https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 182800,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "982",
-        "url": "https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO"
-      },
-      "artists": [
-        {
-          "name": "Jehwwn",
-          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "Ordinary Ending",
-      "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "NO MORE",
         "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
-        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+        "name": "982",
+        "url": "https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO"
       },
       "artists": [
         {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
         }
       ],
-      "duration_ms": 204266,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+      "duration_ms": 153986,
+      "name": "Ordinary Ending",
+      "url": "https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -679,6 +663,38 @@
       "duration_ms": 164861,
       "name": "Dream about You",
       "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
+        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -711,22 +727,6 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "Tickle (feat. Joob A)",
-        "url": "https://open.spotify.com/album/0c4whAFm5Sc1ciPV7coUZT"
-      },
-      "artists": [
-        {
-          "name": "siso",
-          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
-        },
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "duration_ms": 154112,
-      "name": "Tickle (feat. Joob A)",
-      "url": "https://open.spotify.com/track/02gjmOulGmlgdwUcB3wqyz"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "Me and U",
         "url": "https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6"
       },
@@ -843,18 +823,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+        "name": "Tickle (feat. Joob A)",
+        "url": "https://open.spotify.com/album/0c4whAFm5Sc1ciPV7coUZT"
       },
       "artists": [
         {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        },
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
         }
       ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+      "duration_ms": 154112,
+      "name": "Tickle (feat. Joob A)",
+      "url": "https://open.spotify.com/track/02gjmOulGmlgdwUcB3wqyz"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -871,6 +855,22 @@
       "duration_ms": 174800,
       "name": "Pink!",
       "url": "https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

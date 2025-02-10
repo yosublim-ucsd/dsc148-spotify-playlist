@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACpnqQUDXkhV0Gbed6bwslq",
+  "snapshot_id": "Z6aegAAAAADBGdj8YPC1P4PsvkjEpcOm",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do\u00f1a Soledad",
+        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richie Rich (En Vivo)",
         "url": "https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do\u00f1a Soledad",
-        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Marin",
-        "url": "https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd"
-      },
-      "artists": [
-        {
-          "name": "David Santos",
-          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 133923,
-      "name": "El Marin",
-      "url": "https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Vago",
         "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 177050,
       "name": "El Vago",
       "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Marin",
+        "url": "https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd"
+      },
+      "artists": [
+        {
+          "name": "David Santos",
+          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 133923,
+      "name": "El Marin",
+      "url": "https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canchame",
-        "url": "https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 210780,
-      "name": "Canchame",
-      "url": "https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 275136,
       "name": "Mr. Seal The Deal",
       "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canchame",
+        "url": "https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 210780,
+      "name": "Canchame",
+      "url": "https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8"
     },
     {
       "added_at": null,
@@ -979,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is The End (En Vivo)",
+        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "This Is The End - En Vivo",
+      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Modo Freson",
         "url": "https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji"
       },
@@ -995,22 +1015,6 @@
       "duration_ms": 154666,
       "name": "Al Modo Freson",
       "url": "https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde CLN Banda Edition (En Vivo)",
-        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 139332,
-      "name": "Hay Les Encargo - En Vivo",
-      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
     }
   ],
   "unique_name": "This Is Alex Favela",

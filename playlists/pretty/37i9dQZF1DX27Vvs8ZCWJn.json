@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 116732,
+  "num_followers": 116820,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Bacilos (Re-Issue)",
         "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Mujer De Todos Mujer De Nadie",
         "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -219,6 +203,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+        "name": "Pra Sempre Em Espanhol - Vol. 2",
+        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+      "duration_ms": 195080,
+      "name": "Cama y Mesa - Cama e Mesa",
+      "url": "https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -263,6 +263,22 @@
       "duration_ms": 210133,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -299,8 +315,8 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 2",
-        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
+        "name": "Un Gato En La Oscuridad",
+        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
       },
       "artists": [
         {
@@ -308,25 +324,9 @@
           "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Cama y Mesa - Cama e Mesa",
-      "url": "https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
+      "duration_ms": 308133,
+      "name": "Detalles (Detalhes)",
+      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -367,6 +367,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Fisica Y Quimica",
         "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 239995,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Un Gato En La Oscuridad",
-        "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Detalles (Detalhes)",
-      "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Que Nada Nos Separe",
-        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "No Hace Falta",
-      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
-    },
-    {
       "added_at": "2023-12-12 20:14:21",
       "album": {
         "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
@@ -575,6 +559,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Que Nada Nos Separe",
+        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "No Hace Falta",
+      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
-      },
-      "artists": [
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "Remolino",
-      "url": "https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Luna Nueva",
         "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 319066,
       "name": "Penelope",
       "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
+      },
+      "artists": [
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Dedicado A Antonio Machado, Poeta",
-        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Cantares",
-      "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Sin Bandera",
         "url": "https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248200,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Cantares",
+      "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
         }
       ],
-      "duration_ms": 184133,
-      "name": "A Esa",
-      "url": "https://open.spotify.com/track/1TJS7POzl1qrGhqvFcjtHv"
+      "duration_ms": 230400,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
     }
   ],
   "unique_name": "bohemia tranqui",

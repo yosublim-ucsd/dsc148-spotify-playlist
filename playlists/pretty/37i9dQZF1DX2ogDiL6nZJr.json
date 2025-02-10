@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 814413,
+  "num_followers": 814577,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 216440,
       "name": "One Evening",
       "url": "https://open.spotify.com/track/09dYenMs0WXWh0pAAtd9Zd"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
         "name": "Maybe October",
         "url": "https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 164195,
       "name": "Maybe October",
       "url": "https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -631,6 +615,22 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
         "name": "Oh the Agony, Oh the Ecstasy",
         "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 203076,
       "name": "Blue Eyes Forever",
       "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/1jzakZByotV11MyGwCti6j"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
         "name": "My Grandma Says We Have No Future",
         "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 174600,
       "name": "My Grandma Says We Have No Future",
       "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
+        "name": "Colorado (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 175348,
+      "name": "Colorado - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Colorado (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 175348,
-      "name": "Colorado - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
         "name": "Same Kind of People",
         "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 242546,
       "name": "Same Kind of People",
       "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 255970,
-      "name": "Riverbank",
-      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Le temps se fuit",
-        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
       "artists": [
         {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
         }
       ],
-      "duration_ms": 210706,
-      "name": "Le temps se fuit",
-      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+      "duration_ms": 255970,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -831,6 +815,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL"
+      },
+      "artists": [
+        {
+          "name": "GABRIEL VITEL",
+          "url": "https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x"
+        }
+      ],
+      "duration_ms": 194086,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
         "name": "Hello Sunshine",
         "url": "https://open.spotify.com/album/5YeVhDtsgPOBSo0e4qIxRb"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 153140,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/26fA2nehuPzIVzfWwKg9MA"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL"
-      },
-      "artists": [
-        {
-          "name": "GABRIEL VITEL",
-          "url": "https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x"
-        }
-      ],
-      "duration_ms": 194086,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 203534,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
         "name": "Simulcast",
         "url": "https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 209826,
       "name": "Everything You Do",
       "url": "https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 203534,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw"
     },
     {
       "added_at": "2024-10-25 10:25:50",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
+        "name": "Choirs to Heaven",
+        "url": "https://open.spotify.com/album/1hd5c47zvKt66gm1zo60Z9"
+      },
+      "artists": [
+        {
+          "name": "Lea Porcelain",
+          "url": "https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl"
+        }
+      ],
+      "duration_ms": 285515,
+      "name": "Choirs to Heaven",
+      "url": "https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
         "name": "tongue-tied & starry-eyed",
         "url": "https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Choirs to Heaven",
-        "url": "https://open.spotify.com/album/1hd5c47zvKt66gm1zo60Z9"
-      },
-      "artists": [
-        {
-          "name": "Lea Porcelain",
-          "url": "https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl"
-        }
-      ],
-      "duration_ms": 285515,
-      "name": "Choirs to Heaven",
-      "url": "https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-25 10:25:50",
       "album": {
-        "name": "Running in Circles",
-        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
-      },
-      "artists": [
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
-        }
-      ],
-      "duration_ms": 191358,
-      "name": "Running in Circles",
-      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
-    },
-    {
-      "added_at": "2024-10-25 10:25:50",
-      "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 217749,
       "name": "Orion",
       "url": "https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk"
+    },
+    {
+      "added_at": "2024-10-25 10:25:50",
+      "album": {
+        "name": "Running in Circles",
+        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 191358,
+      "name": "Running in Circles",
+      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
     },
     {
       "added_at": "2024-10-25 10:25:50",

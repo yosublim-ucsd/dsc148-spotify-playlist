@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Azet
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,020 likes - 85 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,008 likes - 85 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

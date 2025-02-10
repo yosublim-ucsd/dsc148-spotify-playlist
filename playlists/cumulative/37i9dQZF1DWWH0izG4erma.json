@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Brother (feat. Cody Jinks)",
+        "url": "https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu"
+      },
+      "artists": [
+        {
+          "name": "Mark Morton",
+          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
+        },
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200780,
+      "name": "Brother (feat. Cody Jinks)",
+      "url": "https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT"
+    },
+    {
+      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -1242,7 +1264,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 171000,
       "name": "Come Get Your Memory",
       "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"

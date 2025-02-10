@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15304,
+  "num_followers": 15309,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAAabmuvM2U6yxWOWF6h4k4h",
+  "snapshot_id": "Z6aegAAAAAAkkJEPN9z44421pR9xozgj",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 166140,
       "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
       "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
         "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
@@ -659,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -699,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
       "artists": [
         {
@@ -710,15 +714,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 160038,
-      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,

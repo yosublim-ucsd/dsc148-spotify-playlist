@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,035 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,065 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 6 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
 | 7 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
 | 8 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |
-| 9 | [Brrr](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 |
+| 9 | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 |
 | 10 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
 | 11 | [Casablanca \(feat\. Morad\)](https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:34 |
 | 12 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |

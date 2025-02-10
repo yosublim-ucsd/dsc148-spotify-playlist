@@ -187,18 +187,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
         }
       ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/19tE6Ya7rfg5fNSuNYnAuP"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 205861,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/6u0uG9YwC68HNdQbdYX6mb"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Fight Like A Girl",
         "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 212553,
       "name": "Fight Like A Girl",
       "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/19tE6Ya7rfg5fNSuNYnAuP"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 205861,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/6u0uG9YwC68HNdQbdYX6mb"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -395,34 +395,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
       "artists": [
         {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
         }
       ],
-      "duration_ms": 218454,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 213752,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -443,6 +427,38 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 213752,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+      },
+      "artists": [
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "And Then Came You",
-        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 195909,
-      "name": "And Then Came You",
-      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "I Turn To You",
         "url": "https://open.spotify.com/album/211hQhZlaZz0cE9pO7fSfg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 176435,
       "name": "I Turn To You",
       "url": "https://open.spotify.com/track/3k4kK11yrqUpsHaVMzWFOI"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "And Then Came You",
+        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 195909,
+      "name": "And Then Came You",
+      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 228065,
-      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
-      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Habits (Stay High) [Stripped in France]",
         "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 224620,
       "name": "Habits (Stay High) [Stripped in France]",
       "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "For The Show",
+        "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
+      },
+      "artists": [
+        {
+          "name": "Melanie Wehbe",
+          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "For The Show",
+      "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -799,34 +815,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "For The Show",
-        "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
       },
       "artists": [
         {
-          "name": "Melanie Wehbe",
-          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 170240,
-      "name": "For The Show",
-      "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 172526,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+      "duration_ms": 154866,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "That Guy",
-        "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 154866,
-      "name": "That Guy",
-      "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 137435,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 173097,
       "name": "WEIGHTLESS",
       "url": "https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 137435,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1023,38 +1023,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "maserati",
         "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
       },
@@ -1067,6 +1035,22 @@
       "duration_ms": 92133,
       "name": "maserati",
       "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Effort",
         "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "THE ONE AFTER ME",
-        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 147859,
-      "name": "COFFEE REMIX",
-      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 168411,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "glued to the floor",
         "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
       },
@@ -1195,6 +1163,38 @@
       "duration_ms": 238506,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 168411,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "THE ONE AFTER ME",
+        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 147859,
+      "name": "COFFEE REMIX",
+      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
     },
     {
       "added_at": "2024-02-08 23:00:00",

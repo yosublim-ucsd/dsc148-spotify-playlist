@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 676679,
+  "num_followers": 676876,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABx0sHh6zuwLvZO7Mr8IIN3",
+  "snapshot_id": "Z6aegAAAAADyFeod/oDaW6R7bsHcqnlt",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies Lies Lies",
-        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 198068,
-      "name": "Lies Lies Lies",
-      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 177811,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-593 songs - 1 day 4 hr 50 min
+594 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Meio Copo \(Ao Vivo\)](https://open.spotify.com/track/0wydHA8x7xsSazwd9FiLWx) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/64oZoq8E6MTyBZGUnrSb9F) | 2:55 | 2023-12-30 |  |
 | [Melhor Amigo](https://open.spotify.com/track/48ifnGiLHzn8JoMMvpbUxb) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Eu & Vocês](https://open.spotify.com/album/1f8YCAl0luu06wsqgr9cns) | 3:42 | 2023-12-30 |  |
 | [Mendigando sentimento \- Ao vivo](https://open.spotify.com/track/5jOxitpmOjVNwcMHCiiBk3) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 2:54 | 2023-12-30 |  |
+| [Mensagem de Paz](https://open.spotify.com/track/7rs3fNdnkfNFoLZ7YiCVko) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [Mensagem de Paz](https://open.spotify.com/album/1KlIYSovjiRrtVMHyKMMPr) | 2:59 | 2025-02-09 |  |
 | [Mete a Faca Ni Mim \- Acústico](https://open.spotify.com/track/6KUegMZumNTVxRlxlpxEYg) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Moagem Acústico Vol\. 2](https://open.spotify.com/album/5sLsm30yyAs5wLchk20uVM) | 2:24 | 2023-12-30 |  |
 | [Meu Rolê \- Ao Vivo](https://open.spotify.com/track/6S0wMV1CrPMpnIdAc0VKKA) | [Kadim e Leo](https://open.spotify.com/artist/6x2roFsjZU1YqUJq58sMaC) | [Meu Rolê \(Ao Vivo\)](https://open.spotify.com/album/0RC9COVmR2zCco11o0z6pY) | 3:14 | 2023-12-30 | 2024-01-27 |
 | [Mil Corações \- Ao Vivo](https://open.spotify.com/track/6ndNvy3bDKHEha7j7zSFC9) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 3:16 | 2023-12-30 |  |

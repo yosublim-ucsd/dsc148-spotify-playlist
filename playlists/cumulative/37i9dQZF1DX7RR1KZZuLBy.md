@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-333 songs - 1 day 6 hr 39 min
+334 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 | 2019-05-30 | 2024-08-16 |
 | [Sure Been Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/5doYljP28aXEnQryAPrcka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Sure Been Good](https://open.spotify.com/album/1ivo46wANZtVJodxaqT4f9) | 7:32 | 2024-05-31 | 2024-07-05 |
 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 | 2024-05-31 |  |
-| [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2024-08-08 |  |
+| [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2024-08-08 | 2025-02-10 |
 | [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/track/6O5A41opiGbG2PphOnzZ6b) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/album/7nAIm1hff8dkxmCBDEkzZ0) | 8:29 | 2021-04-19 | 2023-11-03 |
 | [Thandaza](https://open.spotify.com/track/6vR8F8fp42rA8ecAlimsuw) | [DeeTheGeneral](https://open.spotify.com/artist/6rJUmLA6tYddLv09w8ec6t), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Thandaza](https://open.spotify.com/album/088OsBlXpMBHglE3f9vUTI) | 6:05 | 2023-11-03 | 2023-11-10 |
 | [Thandwa Ndim](https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Thandwa Ndim](https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH) | 4:31 | 2023-11-03 | 2023-12-15 |
@@ -292,6 +292,7 @@
 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 | 2024-05-31 |  |
 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 | 2023-11-03 |
 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 | 2024-08-23 | 2024-09-13 |
+| [Uyena \- Live](https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi \(Live\)](https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY) | 5:47 | 2025-01-31 |  |
 | [Victory](https://open.spotify.com/track/10haoRmSr2DBVvZaIn8YqX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Bobby Jones Gospel: Faith Unscripted, Volume 1](https://open.spotify.com/album/6tJJ3dJHr7JCyeiqYhUrnq) | 5:13 | 2024-08-08 | 2024-08-16 |
 | [Wasithethelela \(Live\)](https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW) | [Wasithethelela \(Live\)](https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu) | 9:31 | 2023-06-23 | 2023-11-03 |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2019-09-24 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 49675,
+  "num_followers": 49705,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
       },
@@ -211,42 +227,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Ciego De Amor - Featuring Anthony Santos",
-      "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 278626,
       "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Ciego De Amor - Featuring Anthony Santos",
+      "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "Sigo Siendo Yo",
         "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Generation Next",
-        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
+        "name": "Pa' Bravo Yo",
+        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
         }
       ],
-      "duration_ms": 210773,
-      "name": "Cuando Volveras",
-      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
+      "duration_ms": 224826,
+      "name": "Pa' Bravo Yo",
+      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -399,6 +383,22 @@
       "duration_ms": 284973,
       "name": "Cuando Parar\u00e1 La Lluvia",
       "url": "https://open.spotify.com/track/2PBuNxTsXYOCuyNOaoyWc8"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "Generation Next",
+        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Cuando Volveras",
+      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "El Bestial Sonido de",
         "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
         "name": "Tropical\u00edsimo, Vol. 1",
         "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Azuquita Pa'l Cafe",
-      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -595,18 +579,18 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 218373,
-      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
-      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
+      "duration_ms": 249373,
+      "name": "Azuquita Pa'l Cafe",
+      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -623,6 +607,22 @@
       "duration_ms": 199560,
       "name": "Margie",
       "url": "https://open.spotify.com/track/468KewwnYDaGofS7CHhR3K"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
+      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "V\u00e1monos Pa'l Monte",
         "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 236796,
       "name": "Sabre Olvidar",
       "url": "https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
     },
     {
       "added_at": "2024-09-06 21:17:56",

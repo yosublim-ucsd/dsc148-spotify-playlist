@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Death By Unga Bunga
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,390 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,424 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

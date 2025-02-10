@@ -4,7 +4,7 @@
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 13 min
+80 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 | 2024-01-20 | 2024-02-18 |
 | [BFF](https://open.spotify.com/track/02hz9U9L9TmnTLm4iFP7ub) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 3:11 | 2024-12-22 |  |
 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 | 2024-01-19 |  |
+| [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 | 2025-02-10 |  |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2024-01-19 |  |
 | [Conexión](https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Conexión](https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe) | 4:48 | 2024-01-19 |  |
 | [Código G](https://open.spotify.com/track/7kXFHkoWcqtRc3vJEmYkmN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:31 | 2024-05-04 | 2024-09-08 |
@@ -27,7 +28,7 @@
 | [Don KBRN Freestyle](https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:24 | 2024-05-04 | 2024-10-31 |
 | [EL FAVORITO DE MAMI](https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:35 | 2024-10-16 | 2024-12-14 |
 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 | 2024-01-19 |  |
-| [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 | 2024-01-27 |  |
+| [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 | 2024-01-27 | 2025-02-10 |
 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 | 2024-01-19 |  |
 | [Especial](https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz Care Package](https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA) | 2:45 | 2024-01-19 |  |
 | [FLEXXX](https://open.spotify.com/track/6kmUiXB20EEru6wn39f2Tw) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:14 | 2024-01-19 | 2024-05-04 |

@@ -4,12 +4,13 @@
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 56 min
+49 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 | 2023-09-18 |  |
 | [Aniversário de Sobriedade](https://open.spotify.com/track/786H6CRL3H5WNPnkqTfnNX) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:44 | 2023-09-18 |  |
+| [Au Revoir](https://open.spotify.com/track/3L3uxLbJUDqr2bM7CGlZVJ) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:27 | 2025-02-10 |  |
 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 | 2023-09-18 |  |
 | [Black Belt \(feat\. Black Alien & Bi Ribeiro\)](https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Bi Ribeiro](https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 3:34 | 2023-09-18 |  |
 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 | 2023-09-18 |  |
@@ -55,6 +56,6 @@
 | [Vai Baby](https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:57 | 2023-09-18 |  |
 | [Vai Explodir](https://open.spotify.com/track/35SyZI5BZyBrraebGUoUqB) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Black Alien](https://open.spotify.com/artist/0mrRaKETgAzieYGVYA0ft6) | [Se Deus Vier Que Venha Armado](https://open.spotify.com/album/37wx0Zeao0vu5M789P920W) | 3:01 | 2023-09-18 | 2024-10-11 |
 | [ZEROVINTEUM \- Ao Vivo](https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 3:40 | 2024-11-09 |  |
-| [Área 51](https://open.spotify.com/track/0k70HfFx7rqehJDmYk8FKh) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:45 | 2023-09-18 |  |
+| [Área 51](https://open.spotify.com/track/0k70HfFx7rqehJDmYk8FKh) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:45 | 2023-09-18 | 2025-02-10 |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

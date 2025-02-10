@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70928,
+  "num_followers": 70925,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACVXr90JPSsem4ateScCDXM",
+  "snapshot_id": "Z6aegAAAAAARbAisHOGYko+jqfuUEJ1F",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta Contin\u00faa",
-        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "El Yerbero Moderno (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 214986,
       "name": "El List\u00f3n de Tu Pelo",
       "url": "https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta Contin\u00faa",
+        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "El Yerbero Moderno (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
     },
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
       "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": null,
@@ -803,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -815,42 +835,6 @@
       "duration_ms": 295013,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
     },
     {
       "added_at": null,
@@ -871,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Balas y Chocolate",
-      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Border",
         "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
@@ -899,6 +867,62 @@
       "duration_ms": 285466,
       "name": "Perhaps, Perhaps, Perhaps",
       "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ra\u00edz Nunca Me Fui",
+        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
     },
     {
       "added_at": null,
@@ -963,46 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz Nunca Me Fui",
-        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Son de Difuntos",
-      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 207200,
       "name": "En el \u00faltimo trago",
       "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Balas y Chocolate",
+      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
     },
     {
       "added_at": null,

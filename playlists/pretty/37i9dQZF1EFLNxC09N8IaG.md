@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,659 likes - 187 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,660 likes - 187 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 68 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
 | 69 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 70 | [The Words](https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:53 |
-| 71 | [Made In The U.S.A.](https://open.spotify.com/track/0WRxiAcMD5yxRhzwVwIAz8) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:28 |
-| 72 | [No R&B](https://open.spotify.com/track/2SJgwPonGSJlFm0Wfjn8cj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:34 |
+| 71 | [No R&B](https://open.spotify.com/track/2SJgwPonGSJlFm0Wfjn8cj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:34 |
+| 72 | [Made In The U.S.A.](https://open.spotify.com/track/0WRxiAcMD5yxRhzwVwIAz8) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:28 |
 | 73 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
 | 74 | [To Do List](https://open.spotify.com/track/1U5yljiF4b2KwGvDLgt2rz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:26 |
 | 75 | [New Truck](https://open.spotify.com/track/3rPkYKoR924QmwcmaYjyfo) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:22 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 86 | [Just Beginning](https://open.spotify.com/track/2Y28t3gwCloTFI3pmZ84YW) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:00 |
 | 87 | [The Flood](https://open.spotify.com/track/78vhO9k0vcok9qm2ixTmUh) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:55 |
 | 88 | [Time](https://open.spotify.com/track/1fX5QlNmnqd8mqDGpaNihh) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:37 |
-| 89 | [Polaroid](https://open.spotify.com/track/09fsxyy179DPzPuE7rBfOG) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 4:02 |
-| 90 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 89 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 90 | [Polaroid](https://open.spotify.com/track/09fsxyy179DPzPuE7rBfOG) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 4:02 |
 | 91 | [Sweet Love](https://open.spotify.com/track/68QydKRMQZ1UXEhzpp7RWl) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Ain’t No Peace](https://open.spotify.com/album/1Rbika7sn7sLt2SGC7IxXf) | 3:20 |
 | 92 | [IYKYK \(with Muni Long\)](https://open.spotify.com/track/016w2jsHRyxcU74cnwSMOW) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:02 |
 | 93 | [Fade Away](https://open.spotify.com/track/3haG6HgBpcfEZ6UyiGJRsa) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Selah Sue](https://open.spotify.com/album/4QodEuQxjtrNR9htVuaUYr) | 3:27 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 125 | [Bodies](https://open.spotify.com/track/1TnVWDDJGj3ByXTKMslbtu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Bodies](https://open.spotify.com/album/5x8QENUinh1t7Qhe2JmvMl) | 2:35 |
 | 126 | [Revenge](https://open.spotify.com/track/6FLvm4tT3QcTSIA4thfbut) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 4:14 |
 | 127 | [Lease My Love](https://open.spotify.com/track/4cLT5APf2lMRZ5EOf6Zv6I) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
-| 128 | [Nuttin Like This](https://open.spotify.com/track/4PCN1dzVU2BLRlZb27Bctv) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:15 |
-| 129 | [30s](https://open.spotify.com/track/3tAMiFkUwQiFQZFE30D4BA) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:31 |
+| 128 | [30s](https://open.spotify.com/track/3tAMiFkUwQiFQZFE30D4BA) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:31 |
+| 129 | [Nuttin Like This](https://open.spotify.com/track/4PCN1dzVU2BLRlZb27Bctv) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:15 |
 | 130 | [Heart Speak](https://open.spotify.com/track/67UseCceVwy85F0WTVCJEH) | [PLTO](https://open.spotify.com/artist/6hwmVgDzlDpUNt6LkJBPvV) | [Heart Speak](https://open.spotify.com/album/0vzeJbAr57WxNMSPJvlv7D) | 4:22 |
 | 131 | [Brain on Love](https://open.spotify.com/track/72tEaxWcOKqryAVMatWYFs) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:27 |
 | 132 | [We Ain't Goin' Nowhere \(feat\. Dr\. Syntax\)](https://open.spotify.com/track/3FWdKvMUAMCqJJWI4Dgltf) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Dr\. Syntax](https://open.spotify.com/artist/2302CN9XlYXXYutCd4TsXn) | [Escape Music](https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH) | 2:30 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 145 | [Time to Move On](https://open.spotify.com/track/62tQqcU5KUIL8ES3T0Udxi) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [American Nights](https://open.spotify.com/album/04spQ6Xvmym46ohPvZlebg) | 3:03 |
 | 146 | [Plot Twist \(Interlude\)](https://open.spotify.com/track/5YMJz74nu9v0DNtv3YMTH8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 1:33 |
 | 147 | [Waste No Time](https://open.spotify.com/track/3seKCddphT37p1CwflkMjq) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:53 |
-| 148 | [Reverse \(Interlude\)](https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 1:18 |
-| 149 | [Things I Never Said](https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:49 |
+| 148 | [Things I Never Said](https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:49 |
+| 149 | [Reverse \(Interlude\)](https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 1:18 |
 | 150 | [Kiss and Make Up](https://open.spotify.com/track/4697oapmLUDJScrvSiU9PO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Think Like a Man Too \(Music from and Inspired by the Film\)](https://open.spotify.com/album/6Bvizrnjft6JCqMWSQbJTA) | 3:31 |
 | 151 | [Raindrops](https://open.spotify.com/track/5WCqzS7dZp9XLb5IdVGxqH) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:29 |
 | 152 | [I Miss Music](https://open.spotify.com/track/4saI1P80uZ3jn6fKJ122NK) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:13 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 186 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 187 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbpEvgAAAABKaLWanTok3vYg097PSZ/D`
+Snapshot ID: `AbpKXgAAAACFHp7cQuh8+Qd9inKRR7ph`

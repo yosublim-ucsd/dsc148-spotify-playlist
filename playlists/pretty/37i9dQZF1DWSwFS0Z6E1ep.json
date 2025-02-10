@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 274134,
+  "num_followers": 274171,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -187,8 +187,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
@@ -196,25 +196,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
         }
       ],
-      "duration_ms": 155506,
-      "name": "Hallelujah, I Love Her So",
-      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -263,6 +247,22 @@
       "duration_ms": 158253,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Hallelujah, I Love Her So",
+      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -339,8 +339,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -499,6 +499,38 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockin' With Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 118226,
+      "name": "C\u2019Mon Everybody",
+      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -535,38 +567,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' With Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 118226,
-      "name": "C\u2019Mon Everybody",
-      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sinatra And Swingin' Brass",
         "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -627,6 +611,22 @@
       "duration_ms": 143240,
       "name": "Maybellene",
       "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
         }
       ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Little Bitty Pretty One",
         "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 143066,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        },
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 131973,
-      "name": "Lotta Lovin'",
-      "url": "https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 169706,
       "name": "Get a Job",
       "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        },
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 131973,
+      "name": "Lotta Lovin'",
+      "url": "https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
-      },
-      "artists": [
-        {
-          "name": "The Chordettes",
-          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' & Rollin' (Volume 1)",
         "url": "https://open.spotify.com/album/3L5LMEk9l6WaSgBmIU0j2G"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 128011,
       "name": "Red River Rock",
       "url": "https://open.spotify.com/track/7EM1CeaWPjCdVY1vO0KiO4"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockin' with My Baby / It's Me Baby",
+        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 140984,
+      "name": "Rockin' with My Baby",
+      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
         "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' with My Baby / It's Me Baby",
-        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 140984,
-      "name": "Rockin' with My Baby",
-      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 121414,
-      "name": "Give Me some Love - Re-Recorded Version",
-      "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 121414,
+      "name": "Give Me some Love - Re-Recorded Version",
+      "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Sun Records Recording Artist - Rosco Gordon",
         "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 156088,
       "name": "Bop With Me Baby",
       "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "The Essential Little Richard (Remastered)",
+        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Frankie Lymon & The Teenagers Greatest Hits",
         "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 121133,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0SfreyN9i8MPgrtYS5PCjg"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Essential Little Richard (Remastered)",
-        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
     },
     {
       "added_at": "2022-06-07 05:25:13",

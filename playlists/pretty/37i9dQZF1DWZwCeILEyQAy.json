@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Megan Thee Stallion",
-  "num_followers": 484601,
+  "num_followers": 484615,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,38 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "No Statements",
+        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "No Statements",
+      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -231,38 +263,6 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "No Statements",
-        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "No Statements",
-      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 164074,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
         "name": "Don Who Leo (A\u00f1ejo Remix)",
         "url": "https://open.spotify.com/album/6ptsMHVB7xuclG8FKewffu"
       },
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -319,18 +319,18 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "Yeah Glo!",
-        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
+      "duration_ms": 164074,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -631,18 +631,22 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+        "name": "Come Here (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 171428,
-      "name": "I AIN\u2019T GOING",
-      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
+      "duration_ms": 194875,
+      "name": "Come Here (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -663,22 +667,18 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "Come Here (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 194875,
-      "name": "Come Here (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
+      "duration_ms": 171428,
+      "name": "I AIN\u2019T GOING",
+      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-01-31 05:00:41",
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Sexyy Love Money (feat. VonOff1700)",
-      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
         "name": "Running Late",
         "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
       },
@@ -791,6 +771,46 @@
       "duration_ms": 209261,
       "name": "Kash Kommandments",
       "url": "https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Sexyy Love Money (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": "2025-01-31 05:00:41",
+      "album": {
+        "name": "Finesse (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Finesse (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "added_at": "2025-01-31 05:00:41",
@@ -827,26 +847,6 @@
       "duration_ms": 175094,
       "name": "Ranchero",
       "url": "https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK"
-    },
-    {
-      "added_at": "2025-01-31 05:00:41",
-      "album": {
-        "name": "Finesse (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Finesse (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "added_at": "2025-01-31 05:00:41",

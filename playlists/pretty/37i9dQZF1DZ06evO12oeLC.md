@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,579 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,580 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 13 | [MTV](https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:34 |
 | 14 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 |
 | 15 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
-| 16 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
+| 16 | [5H](https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 3:46 |
 | 17 | [SUICIDE](https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:26 |
-| 18 | [5H](https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 3:46 |
+| 18 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
 | 19 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 |
 | 20 | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Trop peu de temps \- Souvenirs d'été](https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6) | 3:32 |
 | 21 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 30 | [Noir](https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 2:39 |
 | 31 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 |
 | 32 | [L’orage](https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:17 |
-| 33 | [PETIT <3](https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:12 |
-| 34 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 |
-| 35 | [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 |
+| 33 | [STUPID\(E\)](https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:14 |
+| 34 | [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 |
+| 35 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 |
 | 36 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
 | 37 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 |
 | 38 | [+ Mélange](https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:03 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 42 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
 | 43 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
 | 44 | [La vague](https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:03 |
-| 45 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
-| 46 | [BRUTAAL](https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ) | 4:06 |
+| 45 | [BRUTAAL](https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ) | 4:06 |
+| 46 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 47 | [A part être](https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Ouvre](https://open.spotify.com/album/29vu2ZfGbER9AnVw1kFMiU) | 4:38 |
 | 48 | [Pour l’impossible](https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:30 |
 | 49 | [Laisse aller \(feat\. Yseult\)](https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Drapeau blanc](https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW) | 3:04 |
 | 50 | [Le plus beau des astres](https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:05 |
 
-Snapshot ID: `Z6VNAAAAAACF56QYEERdWNKbH1Vf1TLe`
+Snapshot ID: `Z6aegAAAAAD3EcQOC+IrgVAxp2paOk5l`

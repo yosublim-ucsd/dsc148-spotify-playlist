@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,879 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,881 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Eye of the Storm \(with Willie Nelson\)](https://open.spotify.com/track/7zntn2S272qOfguB7JVlvN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:15 |
 | 51 | [Jody and the Kid](https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:05 |
 
-Snapshot ID: `Z6VNAAAAAAB7hSY53LU2nfuncU+fcqPR`
+Snapshot ID: `Z6aegAAAAABDW81k6miA/x836/txLP7x`

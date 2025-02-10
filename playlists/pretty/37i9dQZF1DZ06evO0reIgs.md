@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,752 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,750 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 32 | [Dançar Com Você](https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:53 |
 | 33 | [Ela Tá Que Tá](https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Felipe Flip](https://open.spotify.com/artist/233YXmma3OPL1trG1x3WpS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Ela Tá Que Tá](https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27) | 3:26 |
 | 34 | [Coração Bandido](https://open.spotify.com/track/6968Cmc4iBwpkaS1bKfPkW) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:44 |
-| 35 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
-| 36 | [Desencontro](https://open.spotify.com/track/5LF10fGtxei0RkdAqGGL1Y) | [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [DuaL021](https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH) | [Um Pé no Chão, outro no sonho](https://open.spotify.com/album/1fPCDOkbKP3SiHowx50ZWI) | 2:38 |
+| 35 | [Desencontro](https://open.spotify.com/track/5LF10fGtxei0RkdAqGGL1Y) | [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [DuaL021](https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH) | [Um Pé no Chão, outro no sonho](https://open.spotify.com/album/1fPCDOkbKP3SiHowx50ZWI) | 2:38 |
+| 36 | [Efeito Violeta](https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 3:59 |
 | 37 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
 | 38 | [Eu To Mudada](https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:55 |
 | 39 | [Por Aqui](https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [O Corre](https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [O Corre](https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx) | 3:03 |
 | 50 | [Dama da Noite](https://open.spotify.com/track/7B0HOg6L2vpFooDAls4Wed) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:20 |
 
-Snapshot ID: `Z6VNAAAAAADf0SlFcWXFloCbUNtjrOKz`
+Snapshot ID: `Z6aegAAAAAAU56rQfheoRGdr2xVt29pa`

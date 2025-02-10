@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 797552,
+  "num_followers": 797694,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+      "duration_ms": 254865,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Suena la Alarma",
-        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 254865,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
         "name": "Peluson Of Milk",
         "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 160866,
       "name": "Seguir Viviendo Sin Tu Amor",
       "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 248600,
       "name": "Esta Saliendo El Sol",
       "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 247000,
       "name": "Te Para 3 - MTV Unplugged",
       "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
+      "duration_ms": 188093,
+      "name": "Bonsai",
+      "url": "https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -739,18 +739,34 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 188093,
-      "name": "Bonsai",
-      "url": "https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn"
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -783,38 +799,6 @@
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -855,6 +839,22 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 313733,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
         "name": "Nota",
         "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 159482,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "En la Ciudad de la Furia - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0"
+    },
+    {
+      "added_at": "2025-02-07 01:07:46",
+      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 184546,
       "name": "Me haces bien",
       "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2025-02-07 01:07:46",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "En la Ciudad de la Furia - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0"
     },
     {
       "added_at": "2025-02-07 01:07:46",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-02-07 01:07:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 259592,
-      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
-      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     }
   ],
   "unique_name": "Mates y M\u00fasica",

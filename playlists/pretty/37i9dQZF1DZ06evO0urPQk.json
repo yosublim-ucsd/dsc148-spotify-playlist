@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAA+y1Z2eDSP2ire5ixNKw1y",
+  "snapshot_id": "Z6aegAAAAADo80I+doCW1yvXQ84vuygY",
   "tracks": [
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 222560,
-      "name": "PHANTOM MINDS",
-      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 324586,
-      "name": "BRAVE PHOENIX",
-      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
+      "duration_ms": 245626,
+      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 251400,
       "name": "BRIGHT STREAM",
       "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 324586,
+      "name": "BRAVE PHOENIX",
+      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 245626,
-      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
+      "duration_ms": 222560,
+      "name": "PHANTOM MINDS",
+      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny's Prelude",
-        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 267813,
-      "name": "Invisible Heat",
-      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 260201,
-      "name": "DAYBREAKERS",
-      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+      "duration_ms": 267813,
+      "name": "Invisible Heat",
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE&KICKING",
-        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Take a shot",
-      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERNAL LIBERTY",
         "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 284400,
       "name": "Vitalization-Aufwachen Form-",
       "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Take a shot",
+      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 306985,
-      "name": "\u604b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+      "duration_ms": 213194,
+      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
+      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
     },
     {
       "added_at": null,
@@ -780,25 +780,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 213194,
-      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
-      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "NEVER SURRENDER",
-      "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 266080,
       "name": "Trinity Cross",
       "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "NEVER SURRENDER",
+      "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
     }
   ],
   "unique_name": "This Is Nana Mizuki",

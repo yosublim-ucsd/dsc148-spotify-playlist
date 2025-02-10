@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-303 songs - 22 hr 9 min
+304 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Hajaruni \(Suray Remix\)](https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Suray](https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn), [Hossam wahab](https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C) | [Hajaruni \(Suray Remix\)](https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH) | 5:31 | 2024-05-17 |  |
 | [Hasat](https://open.spotify.com/track/2AozWD8d95Q39J740Ba070) | [Hey! Douglas](https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq) | [Hasat](https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux) | 3:15 | 2023-09-29 | 2023-11-11 |
 | [Hatiralar](https://open.spotify.com/track/2qL4uCMnilvl0uIHcwYyWv) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h) | [Hatiralar](https://open.spotify.com/album/53OVidFRRrLBKb9avHiIBf) | 5:09 | 2025-01-17 |  |
-| [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 | 2024-03-13 |  |
+| [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 | 2024-03-13 | 2025-02-10 |
 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 | 2023-07-03 |  |
 | [Hebele Hubulu](https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Hebele Hubulu & Belantash](https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj) | 8:04 | 2021-03-08 | 2024-06-30 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2020-10-18\* | 2023-04-24 |
@@ -168,6 +168,7 @@
 | [Letting Go \- Radio Edit](https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt) | [H.A.Z.E](https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh) | [Letting Go](https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4) | 3:28 | 2020-10-18\* |  |
 | [Lik \(Mashti & Polyesta Remix for Womex 14\)](https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Buddha Bar XVII](https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN) | 5:23 | 2022-06-27 | 2024-04-19 |
 | [Lik \- Mashti & Polyesta Remix for Womex 14](https://open.spotify.com/track/7AlDyIyHRVg5eeNiuJnJKn) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f), [Mashti & Polyesta](https://open.spotify.com/artist/5Ua1N3HlmmjliTsgsIuZu8) | [Buddha\-Bar XVII](https://open.spotify.com/album/2w0GpzgE6gMMdSND0hpPaE) | 5:23 | 2020-10-18\* | 2022-07-29 |
+| [Liya Snin \- Omerar Nanda Remix](https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Liya Snin \(Omerar Nanda Remix\)](https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz) | 6:35 | 2025-02-07 |  |
 | [Lost](https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Lost](https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi) | 3:39 | 2023-12-04 | 2024-04-19 |
 | [Lost](https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Lost](https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0) | 3:39 | 2021-02-12 | 2023-12-09 |
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ) | 2:40 | 2023-12-04 | 2024-04-19 |

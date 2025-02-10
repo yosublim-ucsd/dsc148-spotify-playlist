@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Pitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,664 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,667 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

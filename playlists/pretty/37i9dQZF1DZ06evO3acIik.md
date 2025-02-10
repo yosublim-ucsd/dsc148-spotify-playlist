@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,015 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,020 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 24 | [We Are Still In Love](https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9) | 3:35 |
 | 25 | [Wonderful God \(feat\. Jonathan Ogden\)](https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 3:47 |
 | 26 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 |
-| 27 | [You Changed on Me.](https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:04 |
+| 27 | [Is it a Crime?](https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:20 |
 | 28 | [Wars](https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:23 |
 | 29 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 30 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
-| 31 | [Is it a Crime?](https://open.spotify.com/track/7xSHbxyntE0RRVyTuFOgFL) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:20 |
+| 31 | [You Changed on Me.](https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:04 |
 | 32 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
 | 33 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
 | 34 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [A Piece Called Butterflies.](https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:07 |
 | 50 | [In the Ocean \(feat\. Montell Fish\)](https://open.spotify.com/track/6IoH81sosd6WHhoLgYODBH) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:45 |
 
-Snapshot ID: `Z6VNAAAAAAD6XR/o9ffyv8twJttAo5Mv`
+Snapshot ID: `Z6aegAAAAACSCV+mypaXclxOf5EYAoNl`

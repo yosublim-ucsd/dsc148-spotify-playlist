@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Indiomar
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,350 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,363 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

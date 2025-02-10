@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 28 min
+212 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Take You](https://open.spotify.com/track/4PXOSe2WbmFhmJDiqrDw6W) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:40 | 2024-02-27 |  |
 | [Taking Me Back](https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:14 | 2024-02-27 |  |
 | [Taste](https://open.spotify.com/track/7MeoVQJEZjI9WDFEm0VJ4U) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:22 | 2024-02-27 | 2024-07-06 |
-| [Taste](https://open.spotify.com/track/48qMFfVFpUa4DD6ghkFY7W) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:22 | 2024-07-05 |  |
+| [Taste](https://open.spotify.com/track/48qMFfVFpUa4DD6ghkFY7W) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:22 | 2024-07-05 | 2025-02-10 |
+| [Taste](https://open.spotify.com/track/5CkKPWFVh0eTOXGYwmaqU2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:22 | 2025-02-09 |  |
 | [Tattoo](https://open.spotify.com/track/1mxiMQWvsjMQKV0V7EAj3x) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:26 | 2024-02-27 |  |
 | [Temporary](https://open.spotify.com/track/77c7q9unffhRZdpZluP6xW) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Temporary](https://open.spotify.com/album/5FlZ1McXTK4DxVSGXWSdKS) | 3:01 | 2024-02-27 |  |
 | [Thankful](https://open.spotify.com/track/5eVNpfTi4H5h12p3LGFyWD) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Thankful \(Unwrapped\)](https://open.spotify.com/album/7vZ0uemkoDmG7tGC5qQ6uQ) | 3:35 | 2024-02-27 |  |

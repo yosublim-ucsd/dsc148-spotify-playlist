@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,801 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,811 likes - 46 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 45 | [iPhone 12](https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Trap de Quebra](https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0) | 2:47 |
 | 46 | [Notas](https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Piazza](https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR) | [Notas](https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY) | 3:21 |
 
-Snapshot ID: `Z6VNAAAAAADuZ4lok/gfB4PZA2G2e9Fq`
+Snapshot ID: `Z6aegAAAAAB+kp/pJ7XRYB5/9OxLaZ/T`

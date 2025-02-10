@@ -15414,7 +15414,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 166736,
       "name": "Departure Lane",
       "url": "https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi"
@@ -22608,7 +22608,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
@@ -38095,6 +38095,32 @@
     },
     {
       "album": {
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/6hyXqQ8F1sSTAYm15uVzYP"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/7mNv9DRLH2f5OIuj2929sZ"
+    },
+    {
+      "album": {
         "name": "Maxed Out",
         "url": "https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt"
       },
@@ -42632,7 +42658,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 109822,
       "name": "New Jeans - Jersey Club - Slowed Down",
       "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
@@ -48074,6 +48100,24 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
     },
     {
       "album": {
@@ -58624,7 +58668,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"

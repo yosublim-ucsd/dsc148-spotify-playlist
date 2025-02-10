@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,638 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,681 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 5 | [Like Exploding Stones](https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 7:18 |
 | 6 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 7 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/73zzUVGeD9dD7sLjNuAkpE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/1Cr9WO1e8w4lFDKl5zoDxj) | 5:11 |
-| 8 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
+| 8 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
 | 9 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 10 | [Partition](https://open.spotify.com/track/2zoJ9SMaicLiQc22enBTII) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 6:03 |
 | 11 | [Fear: Life In A Dozen Years](https://open.spotify.com/track/47n27sNyRKnnpFI36e9lUu) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:23 |
 | 12 | [Waiting for an Invitation](https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j) | [Benji Hughes](https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1) | [A Love Extreme](https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18) | 4:15 |
 | 13 | [Little White Dove](https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:49 |
-| 14 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
+| 14 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 15 | [Imma Let My Body Move](https://open.spotify.com/track/3SQjRTSwHPDqTeenwzSqHq) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:45 |
 | 16 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 17 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 24 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 25 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
 | 26 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
-| 27 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
-| 28 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
-| 29 | [Pretty Bird](https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 3:46 |
-| 30 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 27 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 28 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
+| 29 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
+| 30 | [Pretty Bird](https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 3:46 |
 | 31 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
 | 32 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
 | 33 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 49 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
 | 50 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 51 | [Went for a Ride](https://open.spotify.com/track/4SmAxBuCEOJDx1mbPSq1Kg) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Went for a Ride](https://open.spotify.com/album/1qih4iADyuiyL7HzN38v1h) | 4:49 |
-| 52 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
-| 53 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
+| 52 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
+| 53 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
 | 54 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 55 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
 | 56 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |

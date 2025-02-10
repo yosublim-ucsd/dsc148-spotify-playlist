@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB?si=q2nncdZ4RESat01b\_WK04w">Laudo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,143 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,150 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 23 | [P.S.](https://open.spotify.com/track/0VYXHmRB43dQgwcsDnqxLN) | [Pussy Heaven](https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK) | [P.S.](https://open.spotify.com/album/6WecdKLHTid2JHhtd4frwD) | 3:39 |
 | 24 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 25 | [Achilles' Heel](https://open.spotify.com/track/3IjaZvAjnvk8yRtlgfLMf3) | [Half Price](https://open.spotify.com/artist/5hhxRKw2vy8rZkBltFtb1y) | [Achilles' Heel](https://open.spotify.com/album/0E4TbFg34GVI5cNh2URGoD) | 2:54 |
-| 26 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
+| 26 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 27 | [Walking](https://open.spotify.com/track/0FwEcDBaCxjzZWhp1LY4Oo) | [Tyran Roy](https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF) | [Walking](https://open.spotify.com/album/1C6fA2HwKexJ5wV2bXOmua) | 3:56 |
-| 28 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
+| 28 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
 | 29 | [Sunrise on the River](https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA) | [Kayla The Crow](https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH) | [Sunrise on the River](https://open.spotify.com/album/51994iHGJIquxFw7z1fveh) | 2:49 |
 | 30 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 31 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
-| 32 | [BOSS](https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [BOSS](https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU) | 2:22 |
+| 32 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
 | 33 | [The Whiskey Gospel](https://open.spotify.com/track/5pcjW451nhhpUDQBkE1nPG) | [Nicole Ricardo & The Violet Flames](https://open.spotify.com/artist/3dpWv0p4o0zvgGnAka95zB) | [The Whiskey Gospel](https://open.spotify.com/album/62LS9FZ7AzEXLPIxuPCiYW) | 4:57 |
-| 34 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
+| 34 | [BOSS](https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [BOSS](https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU) | 2:22 |
 | 35 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 36 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 37 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 41 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 42 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
 | 43 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
-| 44 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
-| 45 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
-| 46 | [I Won't Come to Your Opening](https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [I Won't Come to Your Opening](https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE) | 2:30 |
+| 44 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
+| 45 | [I Won't Come to Your Opening](https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [I Won't Come to Your Opening](https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE) | 2:30 |
+| 46 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
 | 47 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 | 48 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
 | 49 | [ur so beautiful](https://open.spotify.com/track/0ASAyuTHB3TAxtJujVu0t9) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [adis.](https://open.spotify.com/artist/44EIiaDS5dA1xFse9TmbfW) | [ur so beautiful](https://open.spotify.com/album/6hnYGFbVJlFJjfT8roJeCm) | 3:07 |

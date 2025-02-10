@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3656,
+  "num_followers": 3657,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACAzUtSQ1ygbhulJXMDUyVc",
+  "snapshot_id": "Z6aegAAAAAAPDvF3w5Br+xYjQjnSapvr",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 186680,
-      "name": "Asalto Chido",
-      "url": "https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw"
+      "duration_ms": 213920,
+      "name": "Tiempo De Hibridos",
+      "url": "https://open.spotify.com/track/4Hf8kMwW4SEAm256nL6gbL"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Tiempo De Hibridos",
-      "url": "https://open.spotify.com/track/4Hf8kMwW4SEAm256nL6gbL"
+      "duration_ms": 186680,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 164226,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST"
+      "duration_ms": 266773,
+      "name": "Solares Baldios",
+      "url": "https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Solares Baldios",
-      "url": "https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc"
+      "duration_ms": 164226,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST"
     },
     {
       "added_at": null,
@@ -459,34 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
+        "name": "Get In",
+        "url": "https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef"
       },
       "artists": [
+        {
+          "name": "Mekane",
+          "url": "https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx"
+        },
         {
           "name": "Rodrigo Gonzalez",
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 323301,
-      "name": "Samambaila - Original Mix",
-      "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Make Me Feel - Original Mix",
-      "url": "https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v"
+      "duration_ms": 390236,
+      "name": "Get In - Bass In A Box Remix",
+      "url": "https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

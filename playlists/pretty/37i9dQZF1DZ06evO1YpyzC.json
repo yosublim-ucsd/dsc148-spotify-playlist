@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 261434,
+  "num_followers": 261461,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACuR++O3gffEV7on4UuHx5H",
+  "snapshot_id": "Z6aegAAAAAA01o00lYhwo9KlwMId9jtg",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
       },
@@ -159,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 228066,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+      "duration_ms": 182506,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
     },
     {
       "added_at": null,
@@ -195,26 +215,6 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 174960,
-      "name": "Start a Fire",
-      "url": "https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu"
+      "duration_ms": 249240,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 249240,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX"
+      "duration_ms": 174960,
+      "name": "Start a Fire",
+      "url": "https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 201730,
-      "name": "Like a Rodeo",
-      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 201730,
+      "name": "Like a Rodeo",
+      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 223922,
-      "name": "For My Daughter",
-      "url": "https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 203666,
       "name": "Go Around",
       "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 223922,
+      "name": "For My Daughter",
+      "url": "https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "See You Like I Do",
-      "url": "https://open.spotify.com/track/4UZvxMfQRMqj24WHj0VNEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapter 1 - EP",
         "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 164026,
       "name": "There Goes My Everything",
       "url": "https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "See You Like I Do",
+      "url": "https://open.spotify.com/track/4UZvxMfQRMqj24WHj0VNEf"
     },
     {
       "added_at": null,
@@ -943,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
       "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 204066,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL"
     }
   ],
   "unique_name": "This Is Kane Brown",

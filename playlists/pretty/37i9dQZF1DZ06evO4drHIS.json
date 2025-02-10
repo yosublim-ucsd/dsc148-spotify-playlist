@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 15265,
+  "num_followers": 15283,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABM4ZyAVi7R2blr8/ssjNQ8",
+  "snapshot_id": "Z6aegAAAAADBLGMOxK0lG47m46wCKawN",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo Rojo",
         "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 258048,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 203813,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
     },
     {
       "added_at": null,
@@ -531,6 +515,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 186880,
       "name": "As\u00ed Es La Vida",
       "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199973,
       "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
     },
     {
       "added_at": null,

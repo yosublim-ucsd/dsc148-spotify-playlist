@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover\- Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,004 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,208 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

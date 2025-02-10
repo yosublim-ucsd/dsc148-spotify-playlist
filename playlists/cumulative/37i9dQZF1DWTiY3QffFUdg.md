@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-250 songs - 13 hr 18 min
+251 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-03-15 |  |
 | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh) | [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Norman Alexander](https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts) | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI) | 2:15 | 2024-10-11 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-08-18 | 2023-09-20 |
+| [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-07 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
 | [Black Betty](https://open.spotify.com/track/3dXLhWGgGEigv2J5BANl0A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Black Betty](https://open.spotify.com/album/2efZWJtkWNhx224KzTTAaq) | 2:19 | 2025-01-31 |  |
 | [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 | 2024-03-15 |  |
@@ -73,7 +74,7 @@
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-11 | 2023-09-04 |
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 | 2024-08-20 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-15 |  |
-| [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 | 2024-07-19 |  |
+| [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 | 2024-07-19 | 2025-02-10 |
 | [FE!N](https://open.spotify.com/track/5RQyf6jnaZFt0PYoTzrVqZ) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [FE!N](https://open.spotify.com/album/55my3C0DNaGAIvARc07VWO) | 2:55 | 2024-05-24 | 2024-11-08 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-08-11 |  |
 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 | 2023-08-11 |  |

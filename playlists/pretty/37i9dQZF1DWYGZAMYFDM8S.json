@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2288376,
+  "num_followers": 2288391,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Show: The Encore",
         "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 242124,
       "name": "Something In The Orange - Live From Spotify Studios",
       "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -435,6 +419,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
-      },
-      "artists": [
-        {
-          "name": "Alexa Popov",
-          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
-        }
-      ],
-      "duration_ms": 138336,
-      "name": "Spring has sprung",
-      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "duration_ms": 138336,
+      "name": "Spring has sprung",
+      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1087,54 +1103,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 222567,
-      "name": "More",
-      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Colony of Bees",
-        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "On the Frame",
-      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Rolling On",
         "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
       },
@@ -1151,6 +1119,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 222567,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "On the Frame",
+      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1263,34 +1263,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Inside the stone",
-        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
-      },
-      "artists": [
-        {
-          "name": "lili may",
-          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
-        }
-      ],
-      "duration_ms": 124034,
-      "name": "Inside the stone",
-      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 244520,
       "name": "Whisper In Her Ear",
       "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Inside the stone",
+        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
+      },
+      "artists": [
+        {
+          "name": "lili may",
+          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
+        }
+      ],
+      "duration_ms": 124034,
+      "name": "Inside the stone",
+      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 292160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/3FJ46AfhOr2TyfhVTlK1sj"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Weeds",
         "url": "https://open.spotify.com/album/0LVnSz43dpZpF22CzpWZ56"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 253670,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/7k72bd7LDOOJSY0uIQgxE1"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "New Paint - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 162600,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "New Paint - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
     },
     {
       "added_at": "2024-11-08 05:00:00",

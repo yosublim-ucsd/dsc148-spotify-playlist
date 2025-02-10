@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Azevedo",
-  "num_followers": 132661,
+  "num_followers": 132656,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -407,42 +407,6 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 177144,
-      "name": "MANDRAKA DO MOMENTO",
-      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
         "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
       },
@@ -479,6 +443,42 @@
       "duration_ms": 157850,
       "name": "Cop\u00e3o",
       "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 177144,
+      "name": "MANDRAKA DO MOMENTO",
+      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -547,6 +547,26 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Sensa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
         "name": "Para Todas do Job",
         "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 255157,
       "name": "Seu Job",
       "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
-      },
-      "artists": [
-        {
-          "name": "Tribo da Periferia",
-          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
-        },
-        {
-          "name": "Duckjay",
-          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Sensa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -719,6 +719,30 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
+        "name": "\u00c1cido na Boca",
+        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "\u00c1cido na Boca",
+      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
         "name": "OTAFITA",
         "url": "https://open.spotify.com/album/5G5V9ggklYsLSVfg4bfVnT"
       },
@@ -747,30 +771,6 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "\u00c1cido na Boca",
-        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "\u00c1cido na Boca",
-      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
         "name": "PABLO",
         "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
       },
@@ -787,30 +787,6 @@
       "duration_ms": 150000,
       "name": "PABLO",
       "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
-        "name": "Nois T\u00e1 Pra Cima",
-        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Nois T\u00e1 Pra Cima",
-      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -835,6 +811,30 @@
       "duration_ms": 160000,
       "name": "Pra Se Entorpecer",
       "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
+        "name": "Nois T\u00e1 Pra Cima",
+        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Nois T\u00e1 Pra Cima",
+      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -887,6 +887,26 @@
       "duration_ms": 192379,
       "name": "Pr\u00f3ximo Milion\u00e1rio",
       "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 151797,
+      "name": "Macetinho Lento - B\u00f4nus",
+      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -951,26 +971,6 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "BAGD\u00c1",
-        "url": "https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 108648,
-      "name": "BAGD\u00c1",
-      "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
         "name": "DPP",
         "url": "https://open.spotify.com/album/36YP6TxFyh8MUyBPSwHzWn"
       },
@@ -999,22 +999,22 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+        "name": "BAGD\u00c1",
+        "url": "https://open.spotify.com/album/5jDZIxMARSU7iVOrzPqUGu"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 151797,
-      "name": "Macetinho Lento - B\u00f4nus",
-      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
+      "duration_ms": 108648,
+      "name": "BAGD\u00c1",
+      "url": "https://open.spotify.com/track/73bl3vBYytq1W3vJOT3hk5"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/2Om5zqxW0dA9BbMzHwY8wf"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "FamousKyo",
+          "url": "https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw"
+        },
+        {
+          "name": "Guiggow",
+          "url": "https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/6RyKsYR1gpWm9A9PTvtcqd"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
         "name": "Pool Party (REMIX)",
         "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
       },
@@ -1135,26 +1159,22 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/2Om5zqxW0dA9BbMzHwY8wf"
+        "name": "Viajando no Drink",
+        "url": "https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq"
       },
       "artists": [
         {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+          "name": "Denov",
+          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
         },
         {
-          "name": "FamousKyo",
-          "url": "https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw"
-        },
-        {
-          "name": "Guiggow",
-          "url": "https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN"
+          "name": "Real Wise",
+          "url": "https://open.spotify.com/artist/5TMDIE7J0fAia565qmD5x2"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/6RyKsYR1gpWm9A9PTvtcqd"
+      "duration_ms": 216320,
+      "name": "Viajando no Drink",
+      "url": "https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -1179,26 +1199,6 @@
       "duration_ms": 127200,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
-        "name": "Viajando no Drink",
-        "url": "https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq"
-      },
-      "artists": [
-        {
-          "name": "Denov",
-          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
-        },
-        {
-          "name": "Real Wise",
-          "url": "https://open.spotify.com/artist/5TMDIE7J0fAia565qmD5x2"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Viajando no Drink",
-      "url": "https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG"
     },
     {
       "added_at": "2025-02-07 03:01:19",

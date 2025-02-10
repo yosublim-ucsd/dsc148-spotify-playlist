@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14983,
+  "num_followers": 14985,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADWtK2a3UyONUy9741or+0S",
+  "snapshot_id": "Z6aegAAAAADAQEdiro3LMMmqm1g5SFLK",
   "tracks": [
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 188783,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/06IOHmRGlqKmHWXd3cKOKl"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 210070,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6lwJuS0Jk7x0L5TEAjlNeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 188783,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Independently Bizarre",
-        "url": "https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj"
-      },
-      "artists": [
-        {
-          "name": "Kiwini Vaitai",
-          "url": "https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Pina Colada",
-      "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Independently Bizarre",
+        "url": "https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj"
+      },
+      "artists": [
+        {
+          "name": "Kiwini Vaitai",
+          "url": "https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Pina Colada",
+      "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
     },
     {
       "added_at": null,

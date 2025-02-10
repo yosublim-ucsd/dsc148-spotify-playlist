@@ -1,6 +1,6 @@
 {
   "description": "bobeia pra vc v\u00ea se n\u00e3o \u00e9 nois cantando essa em Copa comendo um espetinho /Foto: Lady Gaga",
-  "num_followers": 401332,
+  "num_followers": 401343,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,26 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -147,26 +167,6 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -235,18 +219,18 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -263,6 +247,22 @@
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
         "name": "Speak for Yourself (Deluxe Version)",
         "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
       },
@@ -399,22 +383,6 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 171869,
-      "name": "Bed Chem",
-      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -459,6 +443,22 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -559,18 +575,26 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -723,30 +747,6 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "Born Again (feat. Doja Cat & RAYE)",
-        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 231174,
-      "name": "Born Again (feat. Doja Cat & RAYE)",
-      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2025-02-07 12:15:27",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-02-07 12:15:27",
       "album": {
+        "name": "Lost Your Faith",
+        "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Lost Your Faith",
+      "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
+    },
+    {
+      "added_at": "2025-02-07 12:15:27",
+      "album": {
         "name": "One of the Girls",
         "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 244684,
       "name": "One Of The Girls",
       "url": "https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK"
-    },
-    {
-      "added_at": "2025-02-07 12:15:27",
-      "album": {
-        "name": "Lost Your Faith",
-        "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Lost Your Faith",
-      "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
     },
     {
       "added_at": "2025-02-07 12:15:27",

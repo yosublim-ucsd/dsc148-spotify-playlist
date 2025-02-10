@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20049,
+  "num_followers": 20061,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -35,6 +35,26 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
+        "name": "Asop\u00f8",
+        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 195421,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -55,26 +75,6 @@
       "duration_ms": 202000,
       "name": "Ela Quer Fumar",
       "url": "https://open.spotify.com/track/2cYM45KrFyawEUL9uGfuXN"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
-        "name": "Asop\u00f8",
-        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 195421,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -295,6 +295,30 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
+        "name": "A Beira Mar",
+        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
+      },
+      "artists": [
+        {
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+        },
+        {
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        },
+        {
+          "name": "D3jav\u00fa",
+          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "A Beira Mar",
+      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
         "name": "Elite",
         "url": "https://open.spotify.com/album/1Qn7502SAltX9ciuK7FY7K"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 210526,
       "name": "Intens\u00e3o",
       "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
-        "name": "A Beira Mar",
-        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
-      },
-      "artists": [
-        {
-          "name": "Jhayam",
-          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
-        },
-        {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        },
-        {
-          "name": "D3jav\u00fa",
-          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "A Beira Mar",
-      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
         "name": "Cana de feira",
         "url": "https://open.spotify.com/album/1LNOMrnHbqYnpjTKhKjolI"
       },
@@ -519,46 +535,6 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
-        "name": "Ch\u00e1",
-        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 155512,
-      "name": "Ch\u00e1",
-      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
         "name": "Deixa Eu Te Contar",
         "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 193200,
       "name": "Deixa Eu Te Contar",
       "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+      },
+      "artists": [
+        {
+          "name": "THIFREE",
+          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -603,26 +603,26 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
       },
       "artists": [
         {
-          "name": "THIFREE",
-          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
         },
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "Afasta",
-        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "Afasta",
-      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
         "name": "Quem Me Guia",
         "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 149575,
       "name": "Quem Me Guia",
       "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
+        "name": "Afasta",
+        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "Afasta",
+      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -767,6 +767,26 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
         "name": "Desacelera",
         "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
@@ -783,6 +803,26 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -811,22 +851,18 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+        "name": "Saia Rodada",
+        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
       },
       "artists": [
         {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+      "duration_ms": 249600,
+      "name": "Saia Rodada",
+      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -855,38 +891,26 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+        "name": "Doce",
+        "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Dcan",
+          "url": "https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj"
         },
         {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
-        "name": "Saia Rodada",
-        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
-      },
-      "artists": [
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Saia Rodada",
-      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
+      "duration_ms": 155744,
+      "name": "Doce",
+      "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -915,26 +939,22 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "Doce",
-        "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
       "artists": [
         {
-          "name": "Dcan",
-          "url": "https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 155744,
-      "name": "Doce",
-      "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-02-07 03:01:18",
@@ -983,42 +1003,6 @@
     {
       "added_at": "2025-02-07 03:01:18",
       "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
-    },
-    {
-      "added_at": "2025-02-07 03:01:18",
-      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2025-02-07 03:01:18",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
       "added_at": "2025-02-07 03:01:18",

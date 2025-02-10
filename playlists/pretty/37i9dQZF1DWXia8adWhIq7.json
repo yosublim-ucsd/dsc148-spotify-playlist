@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Marcela Ta\u00eds",
-  "num_followers": 104059,
+  "num_followers": 104085,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "O Reino Vem",
         "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 198928,
       "name": "O Reino Vem",
       "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -379,30 +379,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Teu V\u00f4o",
-        "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
-      },
-      "artists": [
-        {
-          "name": "Felipe Vinii",
-          "url": "https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP"
-        },
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Teu V\u00f4o",
-      "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -423,6 +399,30 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Teu V\u00f4o",
+        "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Vinii",
+          "url": "https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP"
+        },
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Teu V\u00f4o",
+      "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -603,22 +623,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
       },
       "artists": [
         {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
         },
         {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
+      "duration_ms": 279191,
+      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
+      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -643,26 +663,6 @@
       "duration_ms": 196093,
       "name": "Agora",
       "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-        "url": "https://open.spotify.com/album/70uBNm3u0P9fnI4KrjSB6Q"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        }
-      ],
-      "duration_ms": 279191,
-      "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
-      "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 201971,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -947,22 +967,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Nossa Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
       },
@@ -975,6 +979,22 @@
       "duration_ms": 189154,
       "name": "Nossa Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 201971,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Ousado Amor (Releitura)",
         "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Selo do Perd\u00e3o (Legado)",
-        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Selo do Perd\u00e3o (Legado)",
-      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Me Chamar de Filho",
         "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 187565,
       "name": "Me Chamar de Filho",
       "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Selo do Perd\u00e3o (Legado)",
+        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Selo do Perd\u00e3o (Legado)",
+      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
       },
       "artists": [
         {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1291,6 +1287,26 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 139000,
       "name": "Testemunho",
       "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Deixa Esse Medo",
-        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        }
-      ],
-      "duration_ms": 125890,
-      "name": "Deixa Esse Medo",
-      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1375,6 +1359,38 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Deixa Esse Medo",
+        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        }
+      ],
+      "duration_ms": 125890,
+      "name": "Deixa Esse Medo",
+      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1483,22 +1499,6 @@
       "duration_ms": 168461,
       "name": "Deixar para Tr\u00e1s",
       "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2025-02-07 03:01:16",

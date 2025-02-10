@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Whatever The Weather on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,663 likes - 101 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,711 likes - 101 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-421 songs - 22 hr 9 min
+423 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-14 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-11 | 2024-04-19 |
 | [Bad Woman](https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Bad Woman](https://open.spotify.com/album/2AjNw7myEdHO8f2ZOm9A9W) | 2:44 | 2023-11-27 | 2023-12-04 |
+| [Beatrice](https://open.spotify.com/track/0En2k1h4ql8cmyFeSuqIIS) | [The Toxhards](https://open.spotify.com/artist/6LOm4xDQLq8kmcRaZIzB2s) | [Beatrice](https://open.spotify.com/album/4JNzKKGci7XpmIptgPoCic) | 2:43 | 2025-02-10 |  |
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2022-06-06 | 2022-07-29 |
 | [Best of Me](https://open.spotify.com/track/022KUgS0Q5c3MTePafMLai) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Best of Me](https://open.spotify.com/album/3oASV6tuBSN9tpImtPJO3U) | 3:33 | 2022-06-06 | 2022-07-29 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2022-06-06 | 2022-06-25 |
@@ -275,7 +276,7 @@
 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-01-16 | 2023-01-24 |
 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 | 2024-04-22 |  |
 | [No 1 Like U](https://open.spotify.com/track/0U5lak1skTwKoMi0BbRalS) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [No 1 Like U](https://open.spotify.com/album/6c9PeZsjgmMbNjLR6C0Ybn) | 2:47 | 2022-06-06 | 2022-06-13 |
-| [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2025-01-20 |  |
+| [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2025-01-20 | 2025-02-10 |
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-10-09 | 2025-01-27 |
 | [Not Your B](https://open.spotify.com/track/3DnBeUKpyH4mFtfSWlvQjQ) | [Vandetta](https://open.spotify.com/artist/2zJyoM4BKp0Aufq8QIpexd), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Chok Kerong](https://open.spotify.com/artist/1IOS1SiiBsCWWjebFzynOh), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D) | [Not Your B](https://open.spotify.com/album/6AOGxyQ5oWdQv7PP8K8EuC) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-14 |  |
@@ -371,7 +372,7 @@
 | [Team Sport](https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Team Sport](https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R) | 2:36 | 2023-06-26 | 2023-07-04 |
 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 | 2022-07-25 | 2023-05-12 |
 | [Teeth](https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:25 | 2022-11-07 | 2024-04-19 |
-| [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 | 2025-01-20 |  |
+| [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 | 2025-01-20 | 2025-02-10 |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2022-07-25 | 2022-08-02 |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-30 | 2023-12-11 |
 | [The Beautiful Victorious](https://open.spotify.com/track/0pnyP6O4khd5szq7H4Q2KU) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Beautiful Victorious](https://open.spotify.com/album/0sGGLKhuU52wVqA5oCVp0P) | 3:34 | 2023-01-16 | 2023-01-24 |
@@ -429,5 +430,6 @@
 | [You Signed Up For This](https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This / Brooklyn](https://open.spotify.com/album/1wa7AvqK1tUFSl5TTUNJ1e) | 3:15 | 2022-06-06 | 2022-07-29 |
 | [Young Like This](https://open.spotify.com/track/5yOc7LHI9HIBRTWcLbGXXi) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [Young Like This](https://open.spotify.com/album/5s1EtajkxRSQto3WT9WtHc) | 3:06 | 2022-07-04 | 2022-07-08 |
 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 | 2022-07-25 |  |
+| [ZORRO](https://open.spotify.com/track/4UW1QvhNCcd0a3qcgAh5sM) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF) | [ZORRO](https://open.spotify.com/album/2gGPj6ruoda3s78h1Z9wr1) | 2:35 | 2025-02-10 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

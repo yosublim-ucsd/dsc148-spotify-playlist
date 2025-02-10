@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 Out Of 10",
+        "url": "https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185901,
+      "name": "10 Out Of 10",
+      "url": "https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC"
+    },
+    {
+      "album": {
         "name": "50ft.",
         "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
       },

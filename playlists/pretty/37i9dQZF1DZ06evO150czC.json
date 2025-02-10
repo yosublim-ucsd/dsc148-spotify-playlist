@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21079,
+  "num_followers": 21085,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADl2TRTM7zD55yvcfKhj0eW",
+  "snapshot_id": "Z6aegAAAAAA1rElSpYFTeU677Rl6fiew",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 220589,
       "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
       "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 248035,
       "name": "Tira-me do Vale",
       "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
         "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 829691,
       "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
       "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": null,

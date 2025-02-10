@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 35729,
+  "num_followers": 35745,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADNpxHN2VxLhqZPqFtq1W0P",
+  "snapshot_id": "Z6aegAAAAAB771codElLeNUHYVDNauUr",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Aurelia",
-      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+      "duration_ms": 174133,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
     },
     {
       "added_at": null,

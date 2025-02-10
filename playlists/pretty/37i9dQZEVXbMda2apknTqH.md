@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,587 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,598 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
 | 50 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:34 |
 
-Snapshot ID: `LzrIoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LzwXyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

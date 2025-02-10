@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11917,
+  "num_followers": 11921,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABXJbs/TuUl0BhObEk8yWl4",
+  "snapshot_id": "Z6aegAAAAABHtmDl1jZE2ONwNCM8pSh1",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 127477,
-      "name": "Los Ojos De Pancha",
-      "url": "https://open.spotify.com/track/3yIJxZ1XFWgk80P3NwQGdA"
+      "duration_ms": 176979,
+      "name": "Aun Se Acuerda De Mi",
+      "url": "https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 176979,
-      "name": "Aun Se Acuerda De Mi",
-      "url": "https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3"
+      "duration_ms": 127477,
+      "name": "Los Ojos De Pancha",
+      "url": "https://open.spotify.com/track/3yIJxZ1XFWgk80P3NwQGdA"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguen En La Honda Nortena",
-        "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 148271,
-      "name": "Morena Mia",
-      "url": "https://open.spotify.com/track/4RN25DnLFUFJYh1Uqf7TR4"
+      "duration_ms": 172200,
+      "name": "La C\u00e1rcel De Cananea",
+      "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "La C\u00e1rcel De Cananea",
-      "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tesoros de Colecci\u00f3n - Los Mejores Duetos Rancheros de la Historia",
         "url": "https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 151746,
       "name": "Flor del R\u00edo",
       "url": "https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Valente Quintero",
+      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siguen En La Honda Nortena",
+        "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 148271,
+      "name": "Morena Mia",
+      "url": "https://open.spotify.com/track/4RN25DnLFUFJYh1Uqf7TR4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ca\u00f1onazos Norte\u00f1os",
         "url": "https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 152493,
       "name": "Cajita de Oro",
       "url": "https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Valente Quintero",
-      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
     },
     {
       "added_at": null,

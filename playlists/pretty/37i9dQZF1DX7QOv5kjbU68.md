@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,090,257 likes - 139 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,090,596 likes - 139 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

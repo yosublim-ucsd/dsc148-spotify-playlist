@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 627512,
+  "num_followers": 627818,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+        "name": "The Boy Is Mine",
+        "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        {
+          "name": "Rosalie",
+          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
         }
       ],
-      "duration_ms": 224124,
-      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+      "duration_ms": 201713,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -271,26 +275,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "The Boy Is Mine",
-        "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
       },
       "artists": [
         {
-          "name": "James Mac",
-          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         },
         {
-          "name": "Vall",
-          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
-        },
-        {
-          "name": "Rosalie",
-          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 201713,
-      "name": "The Boy Is Mine",
-      "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "TAKA",
         "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -955,26 +955,6 @@
       "duration_ms": 193710,
       "name": "Different Side",
       "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 202648,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1031,6 +1011,26 @@
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 158716,
       "name": "Fine Fine Baby (with Kah-Lo)",
       "url": "https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1467,6 +1467,30 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Rizzla",
+        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 217749,
+      "name": "Rizzla",
+      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 187142,
       "name": "You Take Me Higher",
       "url": "https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Rizzla",
-        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 217749,
-      "name": "Rizzla",
-      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Who's That Girl (JL & Afterman Mix)",
         "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
       },
@@ -1647,22 +1667,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Ready To Go (My Addiction)",
-        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         },
         {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
         }
       ],
-      "duration_ms": 144390,
-      "name": "Ready To Go (My Addiction)",
-      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+      "duration_ms": 214575,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1711,30 +1735,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 214575,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "1+1=11",
         "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
       },
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Bring The Heat",
-        "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Bring The Heat",
-      "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "(still) WON'T4GETU",
         "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 374116,
       "name": "(still) WON'T4GETU",
       "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Bring The Heat",
+        "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Bring The Heat",
+      "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Sunday Shoutin' (TSHA Remix)",
-        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Corporate",
-          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 216622,
-      "name": "Sunday Shoutin' - TSHA Remix",
-      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "The Cure (feat. Chloe Paige)",
         "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 234312,
       "name": "The Cure (feat. Chloe Paige)",
       "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Sunday Shoutin' (TSHA Remix)",
+        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Corporate",
+          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 216622,
+      "name": "Sunday Shoutin' - TSHA Remix",
+      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
     },
     {
       "added_at": "2024-09-26 23:00:00",

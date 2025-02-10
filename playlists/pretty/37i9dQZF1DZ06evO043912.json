@@ -1,29 +1,13 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 6033,
+  "num_followers": 6037,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABuroC7may0+wzdMgc039Nu",
+  "snapshot_id": "Z6aegAAAAABWe7Jbc7Ot2AS43RvIMREb",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Alashe L'Aiye",
-      "url": "https://open.spotify.com/track/7FKtCuNRSCxuEjBNHg7LKS"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 396933,
       "name": "Merciful God",
       "url": "https://open.spotify.com/track/2jZQ4tNLP0tgzYXbdtwPdi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Alashe L'Aiye",
+      "url": "https://open.spotify.com/track/7FKtCuNRSCxuEjBNHg7LKS"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "Let Them Say",
-      "url": "https://open.spotify.com/track/2htWAUV6T3rsTyfWS1i90N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Degrees North",
         "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 409026,
       "name": "Appreciation",
       "url": "https://open.spotify.com/track/5KKA2xfuxPgOpSlCuBpOAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "Let Them Say",
+      "url": "https://open.spotify.com/track/2htWAUV6T3rsTyfWS1i90N"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 51200,
-      "name": "Gbass Kelele",
-      "url": "https://open.spotify.com/track/44g9vIk0L30PigZAL7pJ6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Degrees North",
         "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 581400,
       "name": "Suku Suku Bam Bam",
       "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 51200,
+      "name": "Gbass Kelele",
+      "url": "https://open.spotify.com/track/44g9vIk0L30PigZAL7pJ6k"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 155457,
-      "name": "Oluwa Lo Yan Mi",
-      "url": "https://open.spotify.com/track/6oTnc25hMY8S8bcos2dNy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Degrees North",
         "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 228266,
       "name": "Odema Ti P'Ogidan S'oko",
       "url": "https://open.spotify.com/track/71y1uCM1llGeWRSdPVYSPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 155457,
+      "name": "Oluwa Lo Yan Mi",
+      "url": "https://open.spotify.com/track/6oTnc25hMY8S8bcos2dNy4"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 75011,
-      "name": "Mo Ti Gohun Oluwa",
-      "url": "https://open.spotify.com/track/5n5qWKCQ05N6DdkCQulO4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E Dide [Get Up]",
         "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 260000,
       "name": "Ara Ma Nfe Sinmi",
       "url": "https://open.spotify.com/track/2vna6VU41Yr5STFCbzgbVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 75011,
+      "name": "Mo Ti Gohun Oluwa",
+      "url": "https://open.spotify.com/track/5n5qWKCQ05N6DdkCQulO4P"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 175699,
-      "name": "Akanbi Ogun",
-      "url": "https://open.spotify.com/track/5IXuhMzqbcrmHZkoGamZOT"
+      "duration_ms": 166112,
+      "name": "Prince Adesanya",
+      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 166112,
-      "name": "Prince Adesanya",
-      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
+      "duration_ms": 175699,
+      "name": "Akanbi Ogun",
+      "url": "https://open.spotify.com/track/5IXuhMzqbcrmHZkoGamZOT"
     },
     {
       "added_at": null,

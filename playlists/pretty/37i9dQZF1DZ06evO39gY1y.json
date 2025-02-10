@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 237158,
+  "num_followers": 237191,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABceJpL54x2YWwbTkqPsvbb",
+  "snapshot_id": "Z6aegAAAAAAFvsMmQsEpfPbiAFERW7Li",
   "tracks": [
     {
       "added_at": null,
@@ -447,30 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Carita de \u00c1ngel",
-      "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Carita de \u00c1ngel",
+      "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,
@@ -1007,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
       "artists": [
         {
@@ -1016,13 +1016,13 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+      "duration_ms": 280487,
+      "name": "Vamos a Dar el Roll",
+      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
     },
     {
       "added_at": null,
@@ -1043,8 +1043,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
       },
       "artists": [
         {
@@ -1052,13 +1052,13 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
         }
       ],
-      "duration_ms": 280487,
-      "name": "Vamos a Dar el Roll",
-      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,

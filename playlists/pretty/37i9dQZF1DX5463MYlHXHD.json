@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Los Turros.",
-  "num_followers": 573252,
+  "num_followers": 573267,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
         "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
         "url": "https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 149504,
       "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
       "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -211,22 +211,22 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "DIME SI ERES FELIZ VOL.2",
-        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
+        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 171667,
-      "name": "DIME SI ERES FELIZ VOL.2",
-      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
+      "duration_ms": 163259,
+      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -247,22 +247,22 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
+        "name": "DIME SI ERES FELIZ VOL.2",
+        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 163259,
-      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
+      "duration_ms": 171667,
+      "name": "DIME SI ERES FELIZ VOL.2",
+      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -407,18 +407,22 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -471,18 +475,18 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -511,22 +515,18 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -591,6 +591,22 @@
       "duration_ms": 214120,
       "name": "La resaka",
       "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -679,22 +695,6 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
         "name": "Se te nota en la cara (Remix)",
         "url": "https://open.spotify.com/album/3J9EGVPFIor89QVGn3gJwZ"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -871,18 +855,18 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Tamo Chelo",
-        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 112507,
-      "name": "Tamo Chelo",
-      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+      "duration_ms": 248440,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -903,22 +887,18 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Sencillo",
-        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
+        "name": "Tamo Chelo",
+        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
         }
       ],
-      "duration_ms": 230243,
-      "name": "El Amor Se Fue",
-      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+      "duration_ms": 112507,
+      "name": "Tamo Chelo",
+      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -935,6 +915,26 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
+        "name": "Sencillo",
+        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "El Amor Se Fue",
+      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1039,34 +1039,18 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Una copa mas",
-      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
+      "duration_ms": 177815,
+      "name": "Chetos y Cumbieros",
+      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
         }
       ],
-      "duration_ms": 177815,
-      "name": "Chetos y Cumbieros",
-      "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Una copa mas",
+      "url": "https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1115,22 +1115,6 @@
       "duration_ms": 234863,
       "name": "Triste Palomita",
       "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1215,6 +1199,22 @@
       "duration_ms": 246240,
       "name": "Traigo Una Rosa",
       "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 263955,
+      "name": "Entre Vos Yo y el Cielo",
+      "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "El Retutu",
-        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
-      },
-      "artists": [
-        {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Hoy Volvi a Verte",
-      "url": "https://open.spotify.com/track/5DHaIx5bz44MidmwCs19mQ"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 223920,
       "name": "La cola less",
       "url": "https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 263955,
-      "name": "Entre Vos Yo y el Cielo",
-      "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1575,6 +1559,22 @@
       "duration_ms": 173465,
       "name": "Vamos A Amanecer - Remix",
       "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
+        "name": "El Retutu",
+        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
+      },
+      "artists": [
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Hoy Volvi a Verte",
+      "url": "https://open.spotify.com/track/5DHaIx5bz44MidmwCs19mQ"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1651,38 +1651,6 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Mata (Remix)",
-        "url": "https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Mata - Remix",
-      "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
-    },
-    {
-      "added_at": "2025-01-24 03:00:11",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 235506,
       "name": "Ricky Paum Paum",
       "url": "https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa"
+    },
+    {
+      "added_at": "2025-01-24 03:00:11",
+      "album": {
+        "name": "Mata (Remix)",
+        "url": "https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Mata - Remix",
+      "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
     },
     {
       "added_at": "2025-01-24 03:00:11",
@@ -1903,30 +1903,18 @@
     {
       "added_at": "2025-01-24 03:00:11",
       "album": {
-        "name": "Una Wacha Piola (REMIX)",
-        "url": "https://open.spotify.com/album/66oj0a0F2sSc3mnHJfnEZW"
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
       "artists": [
         {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "elaggume",
-          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 199484,
-      "name": "Una Wacha Piola - REMIX",
-      "url": "https://open.spotify.com/track/76GhnOdyvGQdD00x1qKasL"
+      "duration_ms": 201053,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
     }
   ],
   "unique_name": "Cumbia villera",

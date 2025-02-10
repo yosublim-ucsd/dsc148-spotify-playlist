@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Dom Dolla
 
-540 songs - 1 day 3 hr 33 min
+541 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 | 2024-08-29 | 2024-09-20 |
 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 | 2024-11-21 |  |
 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 | 2024-07-04 | 2024-08-02 |
-| [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-10-12 |  |
+| [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-10-12 | 2025-02-10 |
 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 | 2023-04-20 | 2023-05-05 |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-09-21 |  |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2023-03-16 | 2024-06-17 |
@@ -391,6 +391,7 @@
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-06 | 2023-10-15 |
 | [Pop Some Tags](https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Pop Some Tags](https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe) | 2:19 | 2023-12-28 | 2024-01-26 |
 | [Poppa di pop](https://open.spotify.com/track/5W9mWoO7zDViAskZheJCcw) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [Poppa di pop](https://open.spotify.com/album/78GR6DHrnun3mdtekyNi7N) | 3:34 | 2024-12-12 | 2025-01-17 |
+| [Postman](https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Postman](https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP) | 3:11 | 2025-02-10 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-24 |  |
 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2023-03-16 | 2023-06-30 |
 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 | 2023-03-16 | 2023-04-28 |

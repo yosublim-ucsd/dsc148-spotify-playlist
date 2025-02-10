@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,720 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,728 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 49 | [Savage Daughter](https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx) | [Sarah Hester Ross](https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI) | [Savage Daughter](https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi) | 2:58 |
 | 50 | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn) | 3:53 |
 | 51 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
-| 52 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
-| 53 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
+| 52 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
+| 53 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
 | 54 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
 | 55 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
 | 56 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |

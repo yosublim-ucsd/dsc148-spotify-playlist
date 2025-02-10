@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 422606,
+  "num_followers": 423011,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 269306,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Backstreet Boys",
         "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 287293,
       "name": "Everybody (Backstreet's Back) - Extended Version",
       "url": "https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "100% Pure Love",
+      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 211800,
       "name": "Two Can Play That Game - Radio Edit",
       "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/2xDEMlTlGMbTjZgpIcSfs5"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "100% Pure Love",
-      "url": "https://open.spotify.com/track/66X03EIfE1zm99rd4SfL71"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Too Blind To See It",
-        "url": "https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3"
-      },
-      "artists": [
-        {
-          "name": "Kym Sims",
-          "url": "https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Too Blind to See It",
-      "url": "https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 178880,
       "name": "Feel It - Radio Version",
       "url": "https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Too Blind To See It",
+        "url": "https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3"
+      },
+      "artists": [
+        {
+          "name": "Kym Sims",
+          "url": "https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Too Blind to See It",
+      "url": "https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG"
     },
     {
       "added_at": "2024-07-12 19:59:45",

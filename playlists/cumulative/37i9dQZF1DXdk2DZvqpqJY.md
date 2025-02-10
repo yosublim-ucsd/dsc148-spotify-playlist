@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-471 songs - 1 day 4 hr 53 min
+472 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Caçador de Mim](https://open.spotify.com/track/48ucmkpjZzAE3IFfFyugH7) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Caçador de Mim](https://open.spotify.com/album/1LFUqDNXFptjVWGr1AVtWD) | 3:50 | 2024-10-15 | 2024-11-19 |
 | [Celestial Greens](https://open.spotify.com/track/0oqwRRtDtk1QU4eiIPkmov) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [Celestial Greens](https://open.spotify.com/album/7cj9GeDDwhl4o4iAZ7OECO) | 5:30 | 2022-02-17 | 2023-03-21 |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2022-02-17 | 2023-05-05 |
-| [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2023-03-20 |  |
+| [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2023-03-20 | 2025-02-10 |
 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 | 2023-10-27 |  |
+| [Chelsea Bridge](https://open.spotify.com/track/3b9A019SlClHPQ6aQi7qiB) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Chelsea Bridge](https://open.spotify.com/album/2lAqufTyIWuxUWMtyFhCYW) | 3:40 | 2025-02-04 |  |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2023-03-20 | 2024-08-26 |
 | [Chopped Coriander](https://open.spotify.com/track/2ebCREZWTZhsP1l2Cxdgy9) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Chopped Coriander](https://open.spotify.com/album/3pZTq5HX11D5D2OazxpZG9) | 2:03 | 2022-06-02 | 2022-11-20 |
 | [Chris Dave](https://open.spotify.com/track/1XWnqOmEFGUplMu4le53rp) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 3:22 | 2022-02-17 | 2022-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,788 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,789 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 11 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
 | 12 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 |
 | 13 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
-| 14 | [Marido de Bandida](https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:43 |
-| 15 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
+| 14 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
+| 15 | [Marido de Bandida](https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:43 |
 | 16 | [Não Discuto por Telefone](https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [A Peça Final](https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ) | 2:27 |
 | 17 | [O Tipo de Garota](https://open.spotify.com/track/2HdViad1em77egtiCxsNiW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [O Tipo de Garota](https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y) | 3:23 |
 | 18 | [Tão Gostoso](https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 4:22 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 33 | [LIGAÇÃO DE BANDIDA](https://open.spotify.com/track/5uhNbbVioHel9R6LnBfWrW) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 3:46 |
 | 34 | [Fábrica de Jóia](https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 2:45 |
 
-Snapshot ID: `Z6VNAAAAAAAZ7n4mWEaiOiB65+wtc/jy`
+Snapshot ID: `Z6aegAAAAACYxuR1o3FFhC3Mj3pmiAzW`

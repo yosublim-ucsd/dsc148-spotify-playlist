@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,771 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,785 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 37 | [Romeo Y Julieta](https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Romeo Y Julieta](https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX) | 2:58 |
 | 38 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 39 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 |
-| 40 | [LAS SOLTERAS](https://open.spotify.com/track/3ggs4faDNokteDhi3Pbg4n) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:29 |
-| 41 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 |
+| 40 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 |
+| 41 | [LAS SOLTERAS](https://open.spotify.com/track/3ggs4faDNokteDhi3Pbg4n) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:29 |
 | 42 | [Lola Bunny](https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9) | [Lola Bunny](https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS) | 3:07 |
 | 43 | [Antes Que Salga el Sol](https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Antes Que Salga el Sol](https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV) | 3:16 |
 | 44 | [Maldición](https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:08 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 51 | [Fuerte](https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:03 |
 | 52 | [Chivirika \- Remix](https://open.spotify.com/track/0u8glMfKNxpiArg4YOlT9I) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika \(Remix\)](https://open.spotify.com/album/2hi0gHwba26cTJEY3YAko2) | 5:37 |
 
-Snapshot ID: `Z6VNAAAAAAC+X1lx7BaR4NTmk+4cyBeR`
+Snapshot ID: `Z6aegAAAAAB9W3StIcahFBkw4anqEsRN`

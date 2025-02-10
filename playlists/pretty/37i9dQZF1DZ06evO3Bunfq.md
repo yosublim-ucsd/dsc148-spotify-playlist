@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,455 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,572 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 29 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
 | 30 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
 | 31 | [Tony Montana \(feat\. Tornillo\)](https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:47 |
-| 32 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
-| 33 | [Todo El Barrio](https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Da Street Album](https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z) | 2:20 |
+| 32 | [Todo El Barrio](https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Da Street Album](https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z) | 2:20 |
+| 33 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
 | 34 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
 | 35 | [Si la muerte pregunta](https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:29 |
 | 36 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
 | 50 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 
-Snapshot ID: `Z6VNAAAAAABmfMjmiCRi56P8B9nGru2o`
+Snapshot ID: `Z6aegAAAAABeXHYC9A+gsA+r6uhvOL4n`

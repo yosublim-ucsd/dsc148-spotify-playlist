@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "album": {
         "name": "Angel Of My Dreams",
         "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
       },
@@ -11440,7 +11458,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 142504,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/6QeP8DvnHszvaCj4imGqS2"
@@ -12177,6 +12195,24 @@
     },
     {
       "album": {
+        "name": "Rays of Resistance",
+        "url": "https://open.spotify.com/album/3Vzs0KUEsEpel5mqNwnRjr"
+      },
+      "artists": [
+        {
+          "name": "Na\u00e2man",
+          "url": "https://open.spotify.com/artist/2Gkz5N7rWiCE3jlCgsw1yp"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228373,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3rmYRJfWYAdKDei4yegdk1"
+    },
+    {
+      "album": {
         "name": "Karma's A Bitch",
         "url": "https://open.spotify.com/album/6FnLYsxwTYRUqDq7hLiGbY"
       },
@@ -12236,7 +12272,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 168504,
       "name": "Keep Going Back to You",
       "url": "https://open.spotify.com/track/1WkhgWwNvLDfxz05nlcaCj"
@@ -15610,6 +15646,32 @@
       "duration_ms": 141314,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
+    },
+    {
+      "album": {
+        "name": "Money Pull Up",
+        "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "Money Pull Up",
+      "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
     },
     {
       "album": {
@@ -21648,7 +21710,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"

@@ -8292,7 +8292,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 128098,
       "name": "Old Money",
       "url": "https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK"
@@ -9140,6 +9140,36 @@
       "duration_ms": 173842,
       "name": "Requirement",
       "url": "https://open.spotify.com/track/178AWgKX1C424sDBUGI04L"
+    },
+    {
+      "album": {
+        "name": "Reshami Rumal",
+        "url": "https://open.spotify.com/album/6BinEWb7r68vOm0Q69VYWw"
+      },
+      "artists": [
+        {
+          "name": "Rohanpreet Singh",
+          "url": "https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8"
+        },
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Chandra Brar",
+          "url": "https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Reshami Rumal",
+      "url": "https://open.spotify.com/track/1hl4SS4AirxcDk7DAjFKQX"
     },
     {
       "album": {

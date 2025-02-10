@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 906753,
+  "num_followers": 906960,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAADfBWsbGmrutvfpXk+1tI+",
+  "snapshot_id": "Z6aegAAAAACSnJOS9tkZvqWtoqNGbJCh",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "Next To You (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 265813,
-      "name": "Next To You (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 211975,
-      "name": "Five More Hours",
-      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 211975,
+      "name": "Five More Hours",
+      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 197031,
-      "name": "Already Best Friends (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 197031,
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     },
     {
       "added_at": null,

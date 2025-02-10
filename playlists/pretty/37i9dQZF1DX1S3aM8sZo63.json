@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Este 2025 ponte cursi con las canciones m\u00e1s rom\u00e1nticas! La Arrolladora en portada.",
-  "num_followers": 1024449,
+  "num_followers": 1024548,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
         "name": "Ya Sup\u00e9rame (En Vivo)",
         "url": "https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669"
       },
@@ -319,6 +335,22 @@
       "duration_ms": 189050,
       "name": "Ya Sup\u00e9rame (En Vivo)",
       "url": "https://open.spotify.com/track/230KSxk14541umr44W2vCM"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -355,22 +387,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "Lo Tienes Todo",
-      "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -471,18 +455,34 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+      "duration_ms": 164386,
+      "name": "Lo Tienes Todo",
+      "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -503,6 +503,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -543,8 +559,24 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+        "name": "\u00bfQui\u00e9n?",
+        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 183315,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
@@ -552,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+      "duration_ms": 190773,
+      "name": "H\u00e1blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -591,22 +623,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 183315,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -639,6 +655,26 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -659,38 +695,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Historia sin fin",
-      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "H\u00e1blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -707,6 +711,38 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -743,18 +779,18 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -775,22 +811,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 156680,
       "name": "Deja",
       "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "Tengo Claro",
-        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 191681,
-      "name": "Tengo Claro",
-      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 192560,
       "name": "Con Ese Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 173226,
       "name": "Amantes Escondidos",
       "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
         "name": "No Paras de Hacerme Feliz",
         "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 151510,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 151510,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Canci\u00f3n",
         "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232178,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1183,22 +1199,6 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232178,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "El Seis",
-        "url": "https://open.spotify.com/album/4McH8wum4UQ96c5MIDZA1K"
+        "name": "Te Volver\u00eda A Elegir",
+        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 165482,
-      "name": "Tu Me Gustas",
-      "url": "https://open.spotify.com/track/00AkbbC4StYgfXzEBAljxD"
+      "duration_ms": 180400,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Te Volver\u00eda A Elegir",
-        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+        "name": "El Seis",
+        "url": "https://open.spotify.com/album/4McH8wum4UQ96c5MIDZA1K"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+      "duration_ms": 165482,
+      "name": "Tu Me Gustas",
+      "url": "https://open.spotify.com/track/00AkbbC4StYgfXzEBAljxD"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
       },
@@ -1643,6 +1627,54 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
+        "name": "Solo Los Tontos",
+        "url": "https://open.spotify.com/album/7Eip7DBiKbFr3PStlIheec"
+      },
+      "artists": [
+        {
+          "name": "El Chalinillo",
+          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Solo Los Tontos",
+      "url": "https://open.spotify.com/track/0HCppG6072QTQxh7J292CI"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "SIGO SIENDO ORIGINAL",
+        "url": "https://open.spotify.com/album/06h5kvydYpAcAu7SEGdqsV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "RINCONCITO EN EL CIELO",
+      "url": "https://open.spotify.com/track/2aFdS8mu5BARgkwHilLpw7"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
       },
@@ -1691,54 +1723,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Solo Los Tontos",
-        "url": "https://open.spotify.com/album/7Eip7DBiKbFr3PStlIheec"
-      },
-      "artists": [
-        {
-          "name": "El Chalinillo",
-          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Solo Los Tontos",
-      "url": "https://open.spotify.com/track/0HCppG6072QTQxh7J292CI"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "SIGO SIENDO ORIGINAL",
-        "url": "https://open.spotify.com/album/06h5kvydYpAcAu7SEGdqsV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "RINCONCITO EN EL CIELO",
-      "url": "https://open.spotify.com/track/2aFdS8mu5BARgkwHilLpw7"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Entre Golpes y Besos - En Vivo",
-      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -1751,22 +1735,6 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1819,6 +1787,38 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Entre Golpes y Besos - En Vivo",
+      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
       },
@@ -1851,34 +1851,18 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio",
-      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
+      "duration_ms": 191893,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o"
     },
     {
       "added_at": "2025-01-10 06:00:10",
@@ -1915,22 +1899,6 @@
     {
       "added_at": "2025-01-10 06:00:10",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Escondidos",
-      "url": "https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o"
-    },
-    {
-      "added_at": "2025-01-10 06:00:10",
-      "album": {
         "name": "El Traje Naranja",
         "url": "https://open.spotify.com/album/4YdGwD0VaJOr2tLYnxWvQ9"
       },
@@ -1959,6 +1927,38 @@
       "duration_ms": 163654,
       "name": "Mas Alla Del Sol",
       "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
+    },
+    {
+      "added_at": "2025-01-10 06:00:10",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2025-01-10 06:00:10",

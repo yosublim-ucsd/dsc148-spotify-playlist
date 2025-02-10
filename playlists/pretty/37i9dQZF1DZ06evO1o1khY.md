@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,120 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,189 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 12 | [All Dere \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:56 |
 | 13 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
 | 14 | [I LUV HER \(feat\. T\-Pain\)](https://open.spotify.com/track/6jQeSeqn9AdsCe0NMrylxH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:56 |
-| 15 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Renegade](https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ) | 2:17 |
-| 16 | [Lay Down \- Remix](https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Drifting Away](https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2) | 3:33 |
-| 17 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
+| 15 | [Lay Down \- Remix](https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Drifting Away](https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2) | 3:33 |
+| 16 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Renegade](https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ) | 2:17 |
+| 17 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 | 18 | [HOLLON](https://open.spotify.com/track/1Tt4m8l00BI85uOr5EqXUh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:08 |
-| 19 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
+| 19 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
 | 20 | [Shake Dat Ass \(Twerk Song\) \(feat\. GloRilla\)](https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:49 |
 | 21 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/6eHksHmETBULwFo0N3k562) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:39 |
 | 22 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
 | 50 | [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 |
 
-Snapshot ID: `Z6VNAAAAAAD+xk3EKLfRiUU29RYWh7Qy`
+Snapshot ID: `Z6aegAAAAADRRXOetuvJWkJxESexqNoG`

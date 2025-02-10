@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,941 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,942 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Poetisas No Topo 2](https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Poetisas No Topo 2](https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu) | 9:16 |
 | 50 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 
-Snapshot ID: `Z6VNAAAAAAAgADA1rYwDTtFFv0Xl/kMG`
+Snapshot ID: `Z6aegAAAAAAK2e/LCTIikeS5Taw1j7Tw`

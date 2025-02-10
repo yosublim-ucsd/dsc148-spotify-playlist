@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,811 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,813 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 6 | [Silver Bells](https://open.spotify.com/track/7GUIo9zlJ6pIm5bNwls9EH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silent Night](https://open.spotify.com/album/6rKpq3TVg2RtNCaMsfHscq) | 1:55 |
 | 7 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 8 | [I'll Be Home for Christmas](https://open.spotify.com/track/4w76VgK8polaFYWbdauE36) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Christmas In A Minor Key](https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C) | 2:10 |
-| 9 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
+| 9 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 10 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
-| 11 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
+| 11 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
 | 12 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 13 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 14 | [Silver Bells](https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silver Bells](https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou) | 1:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 47 | [Wrapping Presents For Myself](https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 3:44 |
 | 48 | [Let It Snow](https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Let It Snow](https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo) | 3:02 |
 | 49 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 |
-| 50 | [Christmas Alone \- Live](https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Christmas Alone \(Live from the Blue Room\)](https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn) | 3:30 |
+| 50 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 |
 
 Snapshot ID: `Z2W39QAAAACOhc5UifHwmL+qoP+uVHDC`

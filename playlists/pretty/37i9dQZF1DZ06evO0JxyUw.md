@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,334 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,379 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Obvious \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:12 |
 | 50 | [Fall On Me](https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Particles](https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB) | 4:22 |
 
-Snapshot ID: `Z6VNAAAAAACpgN7anDnNTvW2Ycnj/6Rz`
+Snapshot ID: `Z6aegAAAAABgSYEJQgE2094HAxNDY0Al`

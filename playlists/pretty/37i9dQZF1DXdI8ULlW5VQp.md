@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Macario Martínez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,821 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,058 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 33 | [aeropuerto](https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [aeropuerto](https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb) | 3:34 |
 | 34 | [Soledad y el Mar \(feat\. Omara Portuondo\) \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Natalia Lafourcade Live at Carnegie Hall](https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY) | 4:12 |
 | 35 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 |
-| 36 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 |
-| 37 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
-| 38 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 |
-| 39 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
-| 40 | [yo creo que todxs estamos mal](https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [yo creo que todxs estamos mal](https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx) | 3:16 |
+| 36 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
+| 37 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 |
+| 38 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 |
+| 39 | [yo creo que todxs estamos mal](https://open.spotify.com/track/3suD9pn0TYxok32F2VU7lO) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [yo creo que todxs estamos mal](https://open.spotify.com/album/2HXkcH9CJG5zhCFudV9QWx) | 3:16 |
+| 40 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
 | 41 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
 | 42 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 |
 | 43 | [TANTO PARA NADA](https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [RUBEDO](https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8) | 2:40 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 68 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
 | 69 | [Nunca Fuimos Al Mar](https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nunca Fuimos Al Mar](https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw) | 2:13 |
 | 70 | [Escuchado](https://open.spotify.com/track/49WZpJPbTNDSXOIrmXN2qY) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Las Cápsulas Del Tiempo Son Rosas](https://open.spotify.com/album/1EYtlVjlntnbVZQh0QLptu) | 3:03 |
-| 71 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
+| 71 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
 | 72 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
-| 73 | [La Calle de las Sirenas](https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle de las Sirenas](https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi) | 4:34 |
-| 74 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
+| 73 | [Solo Los Amantes Sobreviven](https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Solo Los Amantes Sobreviven](https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx) | 3:16 |
+| 74 | [La Calle de las Sirenas](https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle de las Sirenas](https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi) | 4:34 |
 | 75 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
 
 Snapshot ID: `Z6WhdQAAAADPkayeXiKEqaxt1eGt5d67`

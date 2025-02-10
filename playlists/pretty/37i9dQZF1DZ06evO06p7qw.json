@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 170510,
+  "num_followers": 170561,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADA5GoTZVxstq2wM4UbxZV3",
+  "snapshot_id": "Z6aegAAAAABW7vVu6AXVVUSeIu4coU2m",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Que Te Vi",
-        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
       },
       "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Desde Que Te Vi",
-      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": null,
@@ -379,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
       },
       "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+      "duration_ms": 171789,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
     },
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen (Spanglish Version)",
-        "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
       "artists": [
-        {
-          "name": "Stereo Jane",
-          "url": "https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 196619,
-      "name": "Amen - Spanglish Version",
-      "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
+      "duration_ms": 204493,
+      "name": "Aut\u00e9ntica",
+      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+        "name": "Amen (Spanglish Version)",
+        "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
       },
       "artists": [
+        {
+          "name": "Stereo Jane",
+          "url": "https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 204493,
-      "name": "Aut\u00e9ntica",
-      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
+      "duration_ms": 196619,
+      "name": "Amen - Spanglish Version",
+      "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
     },
     {
       "added_at": null,
@@ -731,6 +731,98 @@
       "duration_ms": 188933,
       "name": "Perfecto",
       "url": "https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Pueblo Natal",
+        "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
+      },
+      "artists": [
+        {
+          "name": "Juancho Valencia",
+          "url": "https://open.spotify.com/artist/2bptZEfEQ68RipspwZH40F"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Martina La Peligrosa",
+          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
+        },
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        },
+        {
+          "name": "Maria Mulata",
+          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
+        },
+        {
+          "name": "Puerto Candelaria",
+          "url": "https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni"
+        },
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
+        {
+          "name": "Jorge Villamizar",
+          "url": "https://open.spotify.com/artist/3zPWcnruZBNnrd22uS8UBy"
+        },
+        {
+          "name": "Crew Peligrosos",
+          "url": "https://open.spotify.com/artist/0Coet47KeEkkmyD64KeW2g"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        },
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+        }
+      ],
+      "duration_ms": 230662,
+      "name": "Mi Pueblo Natal",
+      "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
     }
   ],
   "unique_name": "This Is Manuel Medrano",

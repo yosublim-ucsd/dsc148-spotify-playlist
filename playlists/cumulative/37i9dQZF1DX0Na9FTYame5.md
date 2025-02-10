@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: badchieff
 
-175 songs - 7 hr 56 min
+176 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Daddy Issues](https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv) | [ANTHI](https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u) | [Daddy Issues](https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB) | 2:35 | 2024-10-24 | 2024-11-12 |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-06-28 |  |
 | [Die Sonne](https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 2:54 | 2024-06-28 |  |
+| [Dieses eine Lied](https://open.spotify.com/track/4eqjuxCylVKJykllp83972) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dieses eine Lied](https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r) | 2:22 | 2025-02-06 |  |
 | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce) | 2:46 | 2024-06-28 | 2024-08-27 |
 | [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-01-17 |
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2024-06-28 |  |
@@ -57,7 +58,7 @@
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-09-09 | 2025-01-17 |
 | [Family](https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [FAMILY & MONEY](https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS) | 2:28 | 2024-09-02 | 2024-10-25 |
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-09 |  |
-| [Feuer](https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Feuer](https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF) | 2:37 | 2024-06-28 |  |
+| [Feuer](https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Feuer](https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF) | 2:37 | 2024-06-28 | 2025-02-10 |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 |  |
 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 | 2024-06-28 | 2024-09-21 |
 | [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 | 2025-02-09 |

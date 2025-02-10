@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Grupo Firme y Los Tucanes De Tijuana",
-  "num_followers": 77755,
+  "num_followers": 77771,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -299,6 +299,26 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
       },
@@ -323,6 +343,38 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
         "name": "911 (En Vivo)",
         "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
@@ -343,42 +395,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "La Suma",
-        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 198976,
-      "name": "La Suma",
-      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "La Vieja Escuela",
         "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 171885,
       "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
       "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -947,22 +947,6 @@
       "duration_ms": 193840,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 232533,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
         "name": "SPOTIFY OUTSIDE",
         "url": "https://open.spotify.com/album/4W5Qu5GaVCuG2igJt2bKDN"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 198938,
       "name": "Por culpa de un tercero (Spotify OUTSIDE Version) - Live from Hermosillo, Sonora, MX",
       "url": "https://open.spotify.com/track/1w0nTizRgdMsoFwGAYhqRg"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "Despegando el Vuelo (En vivo)",
-        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 221675,
-      "name": "Que Me Falto - En vivo",
-      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1175,6 +1159,22 @@
       "duration_ms": 192480,
       "name": "Abrazado De Un Poste - En Vivo",
       "url": "https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 221675,
+      "name": "Que Me Falto - En vivo",
+      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "El Beneficio De La Duda (En Vivo)",
         "url": "https://open.spotify.com/album/7w82mNnGvXaO6XI728hz3a"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 274954,
       "name": "El Beneficio De La Duda (En Vivo)",
       "url": "https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 183842,
+      "name": "Mi Luna, Mi Estrella",
+      "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 183842,
-      "name": "Mi Luna, Mi Estrella",
-      "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "Lo Logramos (En Vivo)",
         "url": "https://open.spotify.com/album/7hU8Jhc2fl2f9P7vndvf5a"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 165693,
       "name": "Lo Logramos - En Vivo",
       "url": "https://open.spotify.com/track/78buVfizn1wTIsErkqv1K8"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1459,22 +1443,18 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "Cr\u00f3nicas de la Batalla",
-        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 209668,
-      "name": "Cr\u00f3nicas de la Batalla",
-      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1499,6 +1479,42 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
+        "name": "Cr\u00f3nicas de la Batalla",
+        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 209668,
+      "name": "Cr\u00f3nicas de la Batalla",
+      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
         "name": "Pisteando Con La Regida (Vol. 3)",
         "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
@@ -1511,6 +1527,22 @@
       "duration_ms": 137506,
       "name": "Aguanta Corazon",
       "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "Se Cans\u00f3 (En Vivo)",
+        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Se Cans\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
     },
     {
       "added_at": "2025-01-17 05:57:28",
@@ -1567,38 +1599,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
-        "name": "Se Cans\u00f3 (En Vivo)",
-        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Se Cans\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "Doble Llave",
         "url": "https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-01-17 05:57:28",
       "album": {
-        "name": "Gente Del Flaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 160501,
-      "name": "Gente Del Flaco (En Vivo)",
-      "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
-    },
-    {
-      "added_at": "2025-01-17 05:57:28",
-      "album": {
         "name": "En vivo desde El Potrero",
         "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "added_at": "2025-01-17 05:57:28",
+      "album": {
+        "name": "Gente Del Flaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 160501,
+      "name": "Gente Del Flaco (En Vivo)",
+      "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
     },
     {
       "added_at": "2025-01-17 05:57:28",

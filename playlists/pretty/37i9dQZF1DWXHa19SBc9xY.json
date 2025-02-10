@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 106113,
+  "num_followers": 106178,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Bateu",
         "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 206511,
       "name": "Bateu",
       "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
         "name": "Te Vi Na Rua",
         "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
       },
@@ -391,6 +371,26 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Banho de Mar",
         "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 145304,
       "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 180394,
-      "name": "Vem de L\u00e1",
-      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -479,42 +463,6 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -551,6 +499,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -583,6 +547,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "Vem de L\u00e1",
+      "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
@@ -599,18 +579,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -659,6 +643,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Mais Raro",
+        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mais Raro",
+      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Aroeira",
         "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
       },
@@ -699,38 +699,6 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
         "name": "Somos Instantes (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
       },
@@ -747,18 +715,18 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Mais Raro",
-        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Mais Raro",
-      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -775,6 +743,22 @@
       "duration_ms": 196546,
       "name": "Que Sorte",
       "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -835,6 +819,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Te Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
       },
@@ -863,46 +863,6 @@
       "duration_ms": 213066,
       "name": "Flor de Aruanda - Infus\u00e3o",
       "url": "https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "Rainha da Minha Bateria",
-        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Juliano Moreira",
-          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
-        }
-      ],
-      "duration_ms": 243850,
-      "name": "Rainha da Minha Bateria",
-      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -955,6 +915,46 @@
       "duration_ms": 192371,
       "name": "Conto as Horas",
       "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
+        "name": "Rainha da Minha Bateria",
+        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Juliano Moreira",
+          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+        }
+      ],
+      "duration_ms": 243850,
+      "name": "Rainha da Minha Bateria",
+      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Gilsons",
+        "url": "https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 170109,
+      "name": "V\u00e1rias Queixas",
+      "url": "https://open.spotify.com/track/18TXfDzDZptWGoim29fDry"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "samba do mo\u00e7o bonito",
         "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "Gilsons",
-        "url": "https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 170109,
-      "name": "V\u00e1rias Queixas",
-      "url": "https://open.spotify.com/track/18TXfDzDZptWGoim29fDry"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Amor das Minhas Vidas",
-        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 177343,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
         "name": "Lua Nova",
         "url": "https://open.spotify.com/album/77HrVoVJjktmHBy9XRfBIc"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 161250,
       "name": "Lua Nova",
       "url": "https://open.spotify.com/track/7gob58REjZ8OLz3sXwYKg4"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 177343,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
     },
     {
       "added_at": "2025-02-07 23:40:28",

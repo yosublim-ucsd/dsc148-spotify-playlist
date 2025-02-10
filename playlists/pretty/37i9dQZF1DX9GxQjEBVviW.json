@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 236004,
+  "num_followers": 236039,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
-      },
-      "artists": [
-        {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 116026,
       "name": "Yakety Yak - 2007 Remaster",
       "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "All the Hits and More",
         "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 148040,
       "name": "A Thousand Miles Away",
       "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
       "artists": [
         {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -375,38 +391,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Echoes Of A Rock Era",
-        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
-      },
-      "artists": [
-        {
-          "name": "The Crows",
-          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Gee",
-      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "The Best Of The Cleftones",
         "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 192106,
       "name": "Little Girl of Mine",
       "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Echoes Of A Rock Era",
+        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
+      },
+      "artists": [
+        {
+          "name": "The Crows",
+          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
         "name": "For Cool Grandkids Everywhere",
         "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 156266,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "Heart and Soul",
-      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -535,34 +535,18 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "The Best Of The Marcels",
-        "url": "https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa"
-      },
-      "artists": [
-        {
-          "name": "The Marcels",
-          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
+      "duration_ms": 113640,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -599,6 +583,38 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
+        "name": "The Best Of The Marcels",
+        "url": "https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa"
+      },
+      "artists": [
+        {
+          "name": "The Marcels",
+          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Down In The Alley: The Best Of The Clovers",
+        "url": "https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Devil or Angel - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
         "name": "Zoom Zoom Zoom - Single",
         "url": "https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 177893,
       "name": "When You Dance",
       "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
-        "name": "Down In The Alley: The Best Of The Clovers",
-        "url": "https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Devil or Angel - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Dubs Meet The Shells",
-        "url": "https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ"
-      },
-      "artists": [
-        {
-          "name": "The Dubs",
-          "url": "https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "Don't Ask Me to Be Lonely",
-      "url": "https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "The Original Hit Recording - Earth Angel",
         "url": "https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 178000,
       "name": "Earth Angel",
       "url": "https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "The Dubs Meet The Shells",
+        "url": "https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ"
+      },
+      "artists": [
+        {
+          "name": "The Dubs",
+          "url": "https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ"
+        }
+      ],
+      "duration_ms": 139746,
+      "name": "Don't Ask Me to Be Lonely",
+      "url": "https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6"
     },
     {
       "added_at": "2024-07-14 11:36:52",

@@ -6275,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Mensagem de Paz",
+        "url": "https://open.spotify.com/album/1KlIYSovjiRrtVMHyKMMPr"
+      },
+      "artists": [
+        {
+          "name": "Leo & Junior",
+          "url": "https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179856,
+      "name": "Mensagem de Paz",
+      "url": "https://open.spotify.com/track/7rs3fNdnkfNFoLZ7YiCVko"
+    },
+    {
+      "album": {
         "name": "Moagem Ac\u00fastico Vol. 2",
         "url": "https://open.spotify.com/album/5sLsm30yyAs5wLchk20uVM"
       },

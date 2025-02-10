@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 230602,
+  "num_followers": 230628,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Veneer",
@@ -323,6 +307,22 @@
       "duration_ms": 160240,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-08-14 10:00:14",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
     },
     {
+      "added_at": "2024-03-22 14:38:07",
+      "album": {
+        "name": "Is This What Love Is?",
+        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Is This What Love Is?",
+      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+    },
+    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Honey",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 260386,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
-      "added_at": "2024-03-22 14:38:07",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Is This What Love Is?",
-        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
         }
       ],
-      "duration_ms": 217002,
-      "name": "Is This What Love Is?",
-      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+      "duration_ms": 260386,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Atlas",
@@ -895,6 +879,22 @@
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
     },
     {
-      "added_at": "2024-05-31 19:59:04",
-      "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 256245,
-      "name": "People Always Change",
-      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
-    },
-    {
       "added_at": "2024-03-22 16:44:40",
       "album": {
         "name": "Wild",
@@ -991,6 +975,22 @@
       "duration_ms": 207353,
       "name": "Be Your Boy",
       "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
+    },
+    {
+      "added_at": "2024-05-31 19:59:04",
+      "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
-      "added_at": "2023-05-18 14:23:33",
-      "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "The Earth is a Very Small Dot",
@@ -1071,6 +1055,22 @@
       "duration_ms": 236100,
       "name": "The Earth is a Very Small Dot",
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "added_at": "2023-05-18 14:23:33",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Shakes",
-        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Shakes",
-      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
-    },
-    {
       "added_at": "2024-05-10 16:04:45",
       "album": {
         "name": "boys, bugs and men",
@@ -1119,6 +1103,22 @@
       "duration_ms": 186763,
       "name": "boys, bugs and men",
       "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Shakes",
+        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
+      "added_at": "2024-07-12 12:27:26",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
       "added_at": "2023-01-13 13:15:53",
       "album": {
         "name": "Flight Risk EP",
@@ -1375,22 +1391,6 @@
       "duration_ms": 282794,
       "name": "Headlands",
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
-    },
-    {
-      "added_at": "2024-07-12 12:27:26",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Manta Rays",
-        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Manta Rays",
-      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
-    },
-    {
       "added_at": "2024-08-08 19:46:47",
       "album": {
         "name": "Meet Cute",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Manta Rays",
+        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Manta Rays",
+      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "The Loved Ones",
         "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 214387,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Lover (Don\u2019t Let Me Down)",
-        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 250794,
-      "name": "Lover (Don't Let Me Down)",
-      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Lover (Don\u2019t Let Me Down)",
+        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 250794,
+      "name": "Lover (Don't Let Me Down)",
+      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "leave a light on",
         "url": "https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "is that all there is?",
-        "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
-      },
-      "artists": [
-        {
-          "name": "amy michelle",
-          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "welcome to the sidelines",
-      "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Me and My Friends",
         "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 200000,
       "name": "Me and My Friends",
       "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "is that all there is?",
+        "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
+      },
+      "artists": [
+        {
+          "name": "amy michelle",
+          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "welcome to the sidelines",
+      "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,399 likes - 58 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,492 likes - 58 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

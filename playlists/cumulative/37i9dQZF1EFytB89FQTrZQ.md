@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-519 songs - 1 day 5 hr 43 min
+520 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Foreign World \(feat\. Anne\-Marie\)](https://open.spotify.com/track/24t27lEozHfSSNbvtONlCz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:17 | 2022-09-08 |  |
 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 | 2023-12-13 |  |
 | [FOREVER ANYWAY](https://open.spotify.com/track/6t8IevRP0WqkrnvjVZM9FJ) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [INNOCENT](https://open.spotify.com/album/1a5UWR2OuViy3GPj71nSDX) | 3:47 | 2022-09-08 |  |
-| [Freak Like Me \(feat\. Katy B & MNEK\) \- Radio Edit](https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me \(feat\. Katy B & MNEK\) \[Radio Edit\]](https://open.spotify.com/album/2F8BracaDn8k2ysDmNCWQr) | 2:59 | 2022-09-08 |  |
+| [Freak Like Me \(feat\. Katy B & MNEK\) \- Radio Edit](https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me \(feat\. Katy B & MNEK\) \[Radio Edit\]](https://open.spotify.com/album/2F8BracaDn8k2ysDmNCWQr) | 2:59 | 2022-09-08 | 2025-02-10 |
+| [Freak Like Me \- Radio Edit](https://open.spotify.com/track/7xiDeb9QXhCjDjVtvlgSyJ) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me](https://open.spotify.com/album/4LCT9V99HjGlQ1BkTMsQFc) | 2:59 | 2025-02-09 |  |
 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 | 2022-09-08 |  |
 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 | 2023-06-22 |  |
 | [Freeze \- Instrumental](https://open.spotify.com/track/6AAsjoP9FCJ0euvLPDMDFT) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Instrumentals](https://open.spotify.com/album/3wxUnWgJGQizXLp17oHm8y) | 3:34 | 2022-12-15 | 2023-06-23 |

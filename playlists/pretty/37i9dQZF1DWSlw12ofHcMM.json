@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1365689,
+  "num_followers": 1366234,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,38 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "The Dull Drums - EP",
+        "url": "https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "All on My Mind",
+      "url": "https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -255,38 +287,6 @@
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "The Dull Drums - EP",
-        "url": "https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "All on My Mind",
-      "url": "https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz"
     },
     {
+      "added_at": "2024-08-23 15:42:05",
+      "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 178196,
+      "name": "Empire Now",
+      "url": "https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj"
+    },
+    {
       "added_at": "2024-08-23 15:39:31",
       "album": {
         "name": "Tell That Devil",
@@ -371,22 +387,6 @@
       "duration_ms": 197522,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3twEx52dboO1CqWu5x1i2h"
-    },
-    {
-      "added_at": "2024-08-23 15:42:05",
-      "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 178196,
-      "name": "Empire Now",
-      "url": "https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259253,
       "name": "NFWMB",
       "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Ain't No Angel",
         "url": "https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 237053,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
     },
     {
       "added_at": "2024-08-23 15:39:31",

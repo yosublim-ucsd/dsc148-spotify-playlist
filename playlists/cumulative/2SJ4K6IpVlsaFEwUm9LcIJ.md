@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-448 songs - 1 day 1 hr 9 min
+451 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 | 2024-08-05 | 2024-08-29 |
 | [Dolly](https://open.spotify.com/track/2d3nZMqS7BbTwbpiuDZqQ1) | [Microdisney](https://open.spotify.com/artist/38RLX1nwz4aF9CQPTizSXb) | [Everybody Is Fantastic](https://open.spotify.com/album/37FJhywrVWGEtF3XRXyZxO) | 3:20 | 2024-10-13 | 2024-11-14 |
 | [donatt gonatt](https://open.spotify.com/track/1KTUanjuON1WRpdAm7K0q6) | [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Dan Nicholls](https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW) | [Y\-OTIS TRE](https://open.spotify.com/album/5Ft7Z5wGzds53aw1ivIPAS) | 2:18 | 2025-01-21 | 2025-01-23 |
+| [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 | 2025-02-10 |  |
 | [Dream Alone](https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n) | [Artie Garr](https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv) | [Dream Alone / Beat Love](https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b) | 2:22 | 2024-02-21 | 2024-03-10 |
 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-19 | 2024-03-10 |
 | [Dribble Dribble](https://open.spotify.com/track/0gnJmxrfTJkUALVkMRyTTP) | [Amy O](https://open.spotify.com/artist/6CMJF0sfcDB4ohajYpE9jb) | [Dribble Dribble](https://open.spotify.com/album/1JWRaVRiOgvCGKOEhdW21v) | 3:16 | 2024-03-28 | 2024-05-16 |
@@ -213,6 +214,7 @@
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
 | [Japan](https://open.spotify.com/track/7gUexbkQ4hUsrdDxcIifAw) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Tauhid](https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt) | 3:24 | 2024-07-15 | 2024-09-08 |
 | [Jean \- Julie's Version](https://open.spotify.com/track/21TDHg1ZWYJAb50dagD4iq) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean \(Julie's Version\)](https://open.spotify.com/album/5OebiGZlzk428vcNtpkuZd) | 3:14 | 2024-11-14 | 2025-01-12 |
+| [Jesus Sandals](https://open.spotify.com/track/1PX7OTFrT9raDrni7D6hqU) | [Ditch Effort](https://open.spotify.com/artist/1jy0qPVR1NXcxqofegK8Je) | [Mixed Bag](https://open.spotify.com/album/04lW466iMxY4odpN22tsQm) | 1:51 | 2025-02-10 |  |
 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 | 2024-11-25 | 2025-01-12 |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-07-30 | 2024-09-08 |
 | [Just Like You](https://open.spotify.com/track/6NBgSY8GgkBSVufy6uPPim) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 4:26 | 2024-12-10 | 2025-01-12 |
@@ -272,6 +274,7 @@
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |
 | [Nature's Piano](https://open.spotify.com/track/2pvcbXdQlL8nbT8ooPxYLi) | [Earth Flower](https://open.spotify.com/artist/1sMC9m50SKAhuUvCYMES2E), [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Nature's Piano](https://open.spotify.com/album/5yy0rxUYWsS5Z57CUvIyMx) | 2:59 | 2024-03-09 | 2024-05-16 |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
+| [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 |  |
 | [No Ideology](https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM), [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [This Weather](https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt) | 3:49 | 2024-12-10 | 2025-01-12 |
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |
 | [Non, Ne Discutez Pas De La Vérité](https://open.spotify.com/track/55Xb3UoTvFEnkMv7WEmwpu) | [Taylor Alice](https://open.spotify.com/artist/3c9H7ekw3EUlGGjXb09ofN) | [Beautiful](https://open.spotify.com/album/0zXvKtxDgiT6qKAEq8SnVH) | 3:49 | 2024-10-02 | 2024-11-14 |

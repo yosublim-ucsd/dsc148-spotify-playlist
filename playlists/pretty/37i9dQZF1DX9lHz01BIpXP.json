@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3-KJ75hjpI0_Q\">21 Promo & Pengii</a> ",
-  "num_followers": 2229,
+  "num_followers": 2231,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -215,30 +215,6 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Kyk Uit",
-        "url": "https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
-        },
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Kyk Uit",
-      "url": "https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
         "name": "Die Lewe is 'n Lied",
         "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 239591,
       "name": "Die Lewe is 'n Lied",
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Kyk Uit",
+        "url": "https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Kulture Gang",
+          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+        },
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Kyk Uit",
+      "url": "https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -327,30 +327,6 @@
       "duration_ms": 184407,
       "name": "Moola",
       "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
-        "name": "Slat Los",
-        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Slat Los",
-      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -427,8 +403,8 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Gun Shots",
-        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
+        "name": "Slat Los",
+        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
       },
       "artists": [
         {
@@ -436,13 +412,17 @@
           "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
         }
       ],
-      "duration_ms": 158784,
-      "name": "Gun Shots",
-      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
+      "duration_ms": 176000,
+      "name": "Slat Los",
+      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -459,6 +439,62 @@
       "duration_ms": 245764,
       "name": "My testimony",
       "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Raak Taatie",
+        "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        }
+      ],
+      "duration_ms": 245969,
+      "name": "Raak Taatie",
+      "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Spitbraai",
+        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Spitbraai",
+      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Dubble G's",
+        "url": "https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "ceiling on tha deck",
+          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Dubble G's",
+      "url": "https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -499,94 +535,42 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Raak Taatie",
-        "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
+        "name": "Need Her",
+        "url": "https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A"
       },
       "artists": [
         {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
-        }
-      ],
-      "duration_ms": 245969,
-      "name": "Raak Taatie",
-      "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
-        "name": "Dubble G's",
-        "url": "https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+          "name": "Don Capo",
+          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
         },
         {
-          "name": "ceiling on tha deck",
-          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
         }
       ],
-      "duration_ms": 139415,
-      "name": "Dubble G's",
-      "url": "https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d"
+      "duration_ms": 107412,
+      "name": "Need Her",
+      "url": "https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq"
     },
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Spitbraai",
-        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
+        "name": "Gun Shots",
+        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
       },
       "artists": [
         {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
         },
         {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Spitbraai",
-      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
-        "name": "When days are dark",
-        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 170657,
-      "name": "When days are dark",
-      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
-        "name": "Lewe Soos 'n Laanie",
-        "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "GBOY",
-          "url": "https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1"
-        }
-      ],
-      "duration_ms": 201126,
-      "name": "Lewe Soos 'n Laanie",
-      "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
+      "duration_ms": 158784,
+      "name": "Gun Shots",
+      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -631,22 +615,38 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Praat meer bollie",
-        "url": "https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN"
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
       },
       "artists": [
         {
-          "name": "Brasse Vannie Kaap",
-          "url": "https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un"
-        },
-        {
-          "name": "DJ Azuhl",
-          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
         }
       ],
-      "duration_ms": 249945,
-      "name": "Praat meer bollie",
-      "url": "https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4"
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Lewe Soos 'n Laanie",
+        "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "GBOY",
+          "url": "https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1"
+        }
+      ],
+      "duration_ms": 201126,
+      "name": "Lewe Soos 'n Laanie",
+      "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -663,6 +663,26 @@
       "duration_ms": 190327,
       "name": "Stap Soldaat",
       "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Praat meer bollie",
+        "url": "https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN"
+      },
+      "artists": [
+        {
+          "name": "Brasse Vannie Kaap",
+          "url": "https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un"
+        },
+        {
+          "name": "DJ Azuhl",
+          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
+        }
+      ],
+      "duration_ms": 249945,
+      "name": "Praat meer bollie",
+      "url": "https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -703,26 +723,6 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Need Her",
-        "url": "https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A"
-      },
-      "artists": [
-        {
-          "name": "Don Capo",
-          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
-        },
-        {
-          "name": "CTT Beats",
-          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
-        }
-      ],
-      "duration_ms": 107412,
-      "name": "Need Her",
-      "url": "https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
         "name": "Onder Die Tafel",
         "url": "https://open.spotify.com/album/6lWnUsGCl8vcKLxdTcmJRq"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 143615,
       "name": "Onder Die Tafel",
       "url": "https://open.spotify.com/track/28PTDPuRk3hy0RtflAsAIC"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
-        "name": "Nooit Geweet",
-        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        },
-        {
-          "name": "Jemaine Julies",
-          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Nooit Geweet",
-      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -791,6 +771,42 @@
       "duration_ms": 164927,
       "name": "Hie Kom Ons",
       "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Nooit Geweet",
+        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        },
+        {
+          "name": "Jemaine Julies",
+          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Nooit Geweet",
+      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Gan Se Jou Mense",
+        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Wiggy",
+      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
     },
     {
       "added_at": "2025-02-06 22:00:26",
@@ -839,38 +855,6 @@
     {
       "added_at": "2025-02-06 22:00:26",
       "album": {
-        "name": "Gan Se Jou Mense",
-        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "Wiggy",
-      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
-        "name": "Nikes & Jordans (Original)",
-        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 194037,
-      "name": "Nikes & Jordans (Original)",
-      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
-    },
-    {
-      "added_at": "2025-02-06 22:00:26",
-      "album": {
         "name": "Fake Liefde",
         "url": "https://open.spotify.com/album/2kv98q0GUhH7MfDVZEC5nI"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 202175,
       "name": "COLOURED",
       "url": "https://open.spotify.com/track/6oRpIy7mSmAGpDGwEKligC"
+    },
+    {
+      "added_at": "2025-02-06 22:00:26",
+      "album": {
+        "name": "Nikes & Jordans (Original)",
+        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 194037,
+      "name": "Nikes & Jordans (Original)",
+      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
     },
     {
       "added_at": "2025-02-06 22:00:26",

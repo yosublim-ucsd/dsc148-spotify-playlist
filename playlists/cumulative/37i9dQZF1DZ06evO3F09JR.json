@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 257897,
       "name": "CORRI",
       "url": "https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 414738,
       "name": "Retta",
       "url": "https://open.spotify.com/track/6qITKTzGwoOE5BeRmsesvT"
@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Sonno",
+        "url": "https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452933,
+      "name": "Variabile",
+      "url": "https://open.spotify.com/track/5PsnswibVBgIH5OMTeTIqT"
+    },
+    {
+      "album": {
         "name": "SCURO CHIARO",
         "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 302834,
       "name": "VERDE",
       "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"

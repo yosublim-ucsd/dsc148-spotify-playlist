@@ -1,6 +1,6 @@
 {
   "description": "Cozy tunes for big winter chilling ",
-  "num_followers": 2066007,
+  "num_followers": 2066104,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 259253,
-      "name": "NFWMB",
-      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "She Calls Me Back (with Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 243962,
       "name": "She Calls Me Back (with Kacey Musgraves)",
       "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "NFWMB",
+      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
         "name": "What A Relief",
         "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 206543,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Honey I'm Hardly",
-        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Honey I'm Hardly",
-      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
+        "name": "Honey I'm Hardly",
+        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
       },
       "artists": [
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
         }
       ],
-      "duration_ms": 199758,
-      "name": "Dead Girl Walking",
-      "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
+      "duration_ms": 167733,
+      "name": "Honey I'm Hardly",
+      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "ellipsis",
-        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+        "name": "Are You Happy Now?",
+        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
       "artists": [
         {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 243314,
-      "name": "ellipsis",
-      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+      "duration_ms": 199758,
+      "name": "Dead Girl Walking",
+      "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -911,6 +895,22 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
       "artists": [
         {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
         }
       ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Game of Pretend",
-        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 259568,
-      "name": "Game of Pretend",
-      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "The Day My Father Died",
         "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+        "name": "Game of Pretend",
+        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+      "duration_ms": 259568,
+      "name": "Game of Pretend",
+      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1203,6 +1187,22 @@
       "duration_ms": 188468,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Traveller",
+          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+      "duration_ms": 192743,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
+        "name": "Right on Time (In Harmony)",
+        "url": "https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I"
       },
       "artists": [
         {
-          "name": "Traveller",
-          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 192743,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
+      "duration_ms": 187026,
+      "name": "Right on Time - In Harmony",
+      "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1387,22 +1403,6 @@
       "duration_ms": 205280,
       "name": "Could\u2019ve Been",
       "url": "https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
-        "name": "Right on Time (In Harmony)",
-        "url": "https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Right on Time - In Harmony",
-      "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Big Heart Manners",
-        "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
-      },
-      "artists": [
-        {
-          "name": "Atta Boy",
-          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
-        }
-      ],
-      "duration_ms": 221289,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Carolina Rolling By",
         "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 295380,
       "name": "Carolina Rolling By",
       "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Big Heart Manners",
+        "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
+      },
+      "artists": [
+        {
+          "name": "Atta Boy",
+          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
+        }
+      ],
+      "duration_ms": 221289,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Six Years",
-        "url": "https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS"
-      },
-      "artists": [
-        {
-          "name": "A Blaze of Feather",
-          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
-        }
-      ],
-      "duration_ms": 282146,
-      "name": "Six Years",
-      "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Wild Turkey",
         "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Six Years",
+        "url": "https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS"
+      },
+      "artists": [
+        {
+          "name": "A Blaze of Feather",
+          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
+        }
+      ],
+      "duration_ms": 282146,
+      "name": "Six Years",
+      "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
     }
   ],
   "unique_name": "Chill Folk",

@@ -5209,6 +5209,24 @@
     },
     {
       "album": {
+        "name": "Sun Spots",
+        "url": "https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292884,
+      "name": "Sun Spots",
+      "url": "https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg"
+    },
+    {
+      "album": {
         "name": "System Error",
         "url": "https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB"
       },

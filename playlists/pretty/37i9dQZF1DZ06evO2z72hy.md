@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,743 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,762 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 18 | [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 |
 | 19 | [Smile Souling](https://open.spotify.com/track/3asfbDhnzUpEvMuhPxWaXI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:33 |
 | 20 | [Ignorancia](https://open.spotify.com/track/0TzxVKHY0tpICeGNQQ2RLf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:36 |
-| 21 | [Keep The Faith](https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:08 |
-| 22 | [Alabanza](https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:21 |
+| 21 | [Alabanza](https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:21 |
+| 22 | [Keep The Faith](https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:08 |
 | 23 | [Guerra](https://open.spotify.com/track/6XkwfvohWsXv7B3GrDblaZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 3:47 |
 | 24 | [Nuestros Sueños](https://open.spotify.com/track/0xAwZZmo9w1Rl5gaMkQ2lx) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:35 |
 | 25 | [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 |
-| 26 | [Besándote](https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 3:24 |
-| 27 | [Pedigüeño](https://open.spotify.com/track/36Xd0R2zfa1r9Dk9z4Lcwd) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:50 |
+| 26 | [Pedigüeño](https://open.spotify.com/track/36Xd0R2zfa1r9Dk9z4Lcwd) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:50 |
+| 27 | [Besándote](https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 3:24 |
 | 28 | [Volver A Sentir](https://open.spotify.com/track/3KGbrHIDaY7KnLbx91QXY7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 3:38 |
 | 29 | [Defendamos](https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:14 |
 | 30 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 50 | [Jah Guide](https://open.spotify.com/track/49HlZ78uRJkjYvUIed53Ko) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:46 |
 | 51 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 |
 
-Snapshot ID: `Z6VNAAAAAADSEq9xkICM4KsS5WLB6dP+`
+Snapshot ID: `Z6aegAAAAAAW5vO92ZldEWp+7ojgVld7`

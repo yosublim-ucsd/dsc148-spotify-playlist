@@ -269,6 +269,32 @@
     },
     {
       "album": {
+        "name": "Balloons",
+        "url": "https://open.spotify.com/album/2lP6OqzWUHRpdzaKyrTL1c"
+      },
+      "artists": [
+        {
+          "name": "Bart Derylo",
+          "url": "https://open.spotify.com/artist/1mEfrWaDu40DnLLC6s9ofw"
+        },
+        {
+          "name": "Gjon's Tears",
+          "url": "https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA"
+        },
+        {
+          "name": "Szymon Justy\u0144ski",
+          "url": "https://open.spotify.com/artist/3bO4mpY93N6E0dFcsClKKi"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215445,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/1V47lbZfZhqeSHpj8I8rDU"
+    },
+    {
+      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
       },
@@ -2684,7 +2710,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 213494,
       "name": "Someone",
       "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"

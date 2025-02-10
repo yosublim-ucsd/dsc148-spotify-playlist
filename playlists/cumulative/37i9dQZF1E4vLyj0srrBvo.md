@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Cults, Mareux and more
+> With Pastel Ghost, Cults, Magdalena Bay and more
 
 1,791 songs - 4 day 14 hr 6 min
 
@@ -147,7 +147,7 @@
 | [Bad Friend](https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:28 | 2020-10-17 | 2022-02-19 |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2022-10-10 | 2025-02-07 |
 | [Bad Girls](https://open.spotify.com/track/3o6cyNUUVQ55klr7tswS1c) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Ritual In Repeat \(Deluxe\)](https://open.spotify.com/album/2qpspWmRrEI8EEEXqL1O5e) | 4:31 | 2022-03-14 | 2022-05-25 |
-| [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2021-08-06 | 2025-02-09 |
+| [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2021-08-06 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-15 | 2024-07-11 |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2024-01-13 |  |
 | [Baptism](https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 4:11 | 2020-11-17 | 2022-03-09 |
@@ -570,7 +570,7 @@
 | [Fill the Crown](https://open.spotify.com/track/3F2aFZiQ2YjIg3e50pqC6c) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:32 | 2020-10-18 | 2022-10-08 |
 | [Final Form](https://open.spotify.com/track/1qSNm5br36JmvwKDbxjZeI) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:57 | 2022-07-20 | 2023-12-26 |
 | [Fineshrine](https://open.spotify.com/track/5KeyVNymqfqac1wLDseK8v) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Shrines](https://open.spotify.com/album/7ppypgQppMf3mkRbZxYIFM) | 3:29 | 2020-10-16\* | 2020-12-06 |
-| [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2020-12-04 |  |
+| [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2020-12-04 | 2025-02-10 |
 | [Finish Him](https://open.spotify.com/track/2Dnd6d6qETLUJqNln7NpzO) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Joey LaBeija](https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:20 | 2022-09-09 | 2022-09-10 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-31 | 2022-09-10 |
 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-10-08 | 2022-10-25 |
@@ -715,7 +715,7 @@
 | [Heavy Metal Lover](https://open.spotify.com/track/5yhw9YeXOh3kYCn2NII9bW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:12 | 2022-10-02 | 2024-03-05 |
 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 | 2021-05-04 | 2022-03-09 |
 | [Hello Kitty](https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Hello Kitty](https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR) | 2:59 | 2020-10-20 | 2022-03-08 |
-| [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2023-09-26 |  |
+| [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2023-09-26 | 2025-02-10 |
 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 | 2024-01-03 | 2025-01-27 |
 | [Her](https://open.spotify.com/track/02KSPbKGTGn3bfrtediUWF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 2:08 | 2022-02-23 | 2022-10-11 |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2023-12-25 | 2024-01-03 |
@@ -1116,7 +1116,7 @@
 | [No Nightmares](https://open.spotify.com/track/0JlwmGK34Lbe62xPbpsmSb) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 4:06 | 2020-11-05 | 2020-12-19 |
 | [No Shadow](https://open.spotify.com/track/1kEHnkvaGmE1nfS6il75vs) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [No Shadow](https://open.spotify.com/album/3B1JyI2iR1HJ0zfJDtzHyN) | 3:18 | 2022-07-24 | 2022-08-04 |
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2022-03-09 | 2024-01-11 |
-| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2024-01-17 | 2025-01-31 |
+| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2024-01-17 |  |
 | [Nobody Asked Me \(If I Was Okay\)](https://open.spotify.com/track/0UOQdxiWOMJDAw8AHSslDr) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:05 | 2022-03-10 | 2023-07-01 |
 | [Noches](https://open.spotify.com/track/634IBwtWmFmJCwVnFG8gzG) | [Prince Innocence](https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV) | [Noches](https://open.spotify.com/album/08MGy8aiFy1Omd1UKoPvKy) | 3:13 | 2022-08-03 | 2023-08-26 |
 | [Noid](https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 3:29 | 2020-11-09 | 2022-07-30 |
@@ -1187,7 +1187,7 @@
 | [Paper Love](https://open.spotify.com/track/2QffgsYVZkvMQsZmQdgf2L) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:17 | 2020-10-16\* | 2022-03-05 |
 | [Paper or Plastic](https://open.spotify.com/track/1GZpq8sfBMomGyHoXtuHnN) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Paper or Plastic](https://open.spotify.com/album/70ZDIcjus3w1qWhjhuuf28) | 2:55 | 2022-03-10 | 2022-10-14 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2023-12-21 | 2024-03-20 |
-| [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 | 2024-04-23 |  |
+| [Paper Planes](https://open.spotify.com/track/3wnwq6OjbXRkmPaXy5blR6) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/5vbIuP9CUNilukfPqfKuCH) | 3:25 | 2024-04-23 | 2025-02-10 |
 | [Paradisin'](https://open.spotify.com/track/0e1yfIkdDkvhSo2dFYCZIL) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:06 | 2020-10-18 | 2021-01-13 |
 | [Paralysed](https://open.spotify.com/track/09GkI9oN1KSKig4wzERDPd) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO), [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Paralysed](https://open.spotify.com/album/3SfsT5wHEE7tF7Zhw5OuBB) | 2:51 | 2021-04-18 | 2021-04-19 |
 | [Paranoiac Intervals/Body Dysmorphia](https://open.spotify.com/track/1pWnBj0yhdVm9LmIDkq9Ow) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [White Is Relic/Irrealis Mood](https://open.spotify.com/album/5eEyUUEWLhSOoqgrwBKmtp) | 7:15 | 2023-02-15 | 2023-08-08 |
@@ -1240,7 +1240,7 @@
 | [Ponyboy](https://open.spotify.com/track/30lIB7UwSLy5qgkfYZEtB1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:14 | 2021-02-10 | 2022-08-18 |
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2022-03-09 | 2022-10-17 |
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2022-07-29 | 2022-07-30 |
-| [Pop Star](https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:04 | 2023-02-17 | 2025-02-09 |
+| [Pop Star](https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:04 | 2023-02-17 |  |
 | [Pop Star](https://open.spotify.com/track/3cIjeDpRUFiKU5tDXEY7Aw) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pop Star](https://open.spotify.com/album/3NQ8KvOzujCdmQYohAm4lS) | 3:04 | 2022-10-19 | 2022-10-20 |
 | [Posing in Bondage](https://open.spotify.com/track/45R3FO8qwZcc9PwssP8Kaf) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/6ns1P7lYWGBpQBWVAwIZzo) | 2:07 | 2022-05-21 | 2022-10-09 |
 | [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 | 2023-02-01 | 2023-09-26 |

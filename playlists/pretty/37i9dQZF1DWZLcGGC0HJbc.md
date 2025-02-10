@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,253 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,255 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 5 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
 | 6 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
 | 7 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 |
-| 8 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 |
-| 9 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
-| 10 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 11 | [Enough](https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Enough](https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat) | 2:52 |
-| 12 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
+| 8 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
+| 9 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
+| 10 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
+| 11 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 |
+| 12 | [Enough](https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Enough](https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat) | 2:52 |
 | 13 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 | 14 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
-| 15 | [Dead Man Walking.](https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 4: Atonement](https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD) | 2:54 |
-| 16 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
-| 17 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 |
-| 18 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
-| 19 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 |
+| 15 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
+| 16 | [Destruction](https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Destruction](https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C) | 2:29 |
+| 17 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
+| 18 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 |
+| 19 | [Dead Man Walking.](https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 4: Atonement](https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD) | 2:54 |
 | 20 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 | 21 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 22 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 32 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 |
 | 33 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 | 34 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
-| 35 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
-| 36 | [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 |
+| 35 | [No Kissing on a Sunday](https://open.spotify.com/track/52xqy8vF60rNRX8G48sGCD) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [No Kissing on a Sunday](https://open.spotify.com/album/1U8diSZXD0rFSG1HpHxVuh) | 2:44 |
+| 36 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
 | 37 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 |
 | 38 | [Not Like Yesterday](https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Not Like Yesterday](https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz) | 3:40 |
 | 39 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 45 | [Blue](https://open.spotify.com/track/0PSliKcrngN9atHRe9sy8s) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 4:07 |
 | 46 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
 | 47 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
-| 48 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 |
-| 49 | [Halloween](https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Halloween](https://open.spotify.com/album/2m92AKmD5b6AqMPOjZqSoK) | 2:40 |
+| 48 | [Halloween](https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Halloween](https://open.spotify.com/album/2m92AKmD5b6AqMPOjZqSoK) | 2:40 |
+| 49 | [My Deliverance](https://open.spotify.com/track/3gr32BoWQHCEVfDFCXSa7O) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Dust Chaser \(Deluxe Edition\)](https://open.spotify.com/album/29lQvTxeVSN6epZyHvk8HE) | 3:09 |
 | 50 | [Ceiling Stars](https://open.spotify.com/track/1oYhmvMDaObdrBG3USn3Mw) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:22 |
 
 Snapshot ID: `Z6fDSwAAAACdzPFBWS+Ql0Z3zj2ltqx9`

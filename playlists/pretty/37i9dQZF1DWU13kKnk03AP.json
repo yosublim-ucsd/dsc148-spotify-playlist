@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2168197,
+  "num_followers": 2168334,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -231,18 +231,18 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
-    },
-    {
       "added_at": "2025-01-07 17:42:41",
       "album": {
         "name": "Told You So",
@@ -739,6 +723,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2025-01-24 05:00:49",
@@ -785,20 +769,20 @@
       "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
-      "added_at": "2025-01-07 17:42:41",
+      "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
       "artists": [
         {
-          "name": "G3 GELO",
-          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -815,6 +799,22 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2025-01-07 17:42:41",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -895,6 +895,38 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "WE PRAY",
+        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "WE PRAY - Single Version",
+      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Stars Will Align",
         "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
       },
@@ -947,38 +979,6 @@
       "duration_ms": 159208,
       "name": "Run It",
       "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "WE PRAY",
-        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "WE PRAY - Single Version",
-      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 171165,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "For Life (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 175803,
-      "name": "For Life (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
       },
@@ -1327,6 +1303,30 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 163228,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1463,6 +1447,22 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
     },
     {
       "added_at": "2024-11-18 00:42:13",

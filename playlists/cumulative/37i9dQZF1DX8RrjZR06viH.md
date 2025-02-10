@@ -4,7 +4,7 @@
 
 > ☀️
 
-153 songs - 7 hr 52 min
+155 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 | 2024-06-27 | 2024-08-21 |
 | [Darkest Hour](https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Felt Cute Might Delete Later](https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL) | 2:11 | 2024-06-27 |  |
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-05 |  |
-| [December \(honey, honey\)](https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [December \(honey, honey\)](https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i) | 2:55 | 2024-06-27 |  |
+| [December \(honey, honey\)](https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [December \(honey, honey\)](https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i) | 2:55 | 2024-06-27 | 2025-02-10 |
 | [Demo](https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Demo](https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA) | 2:30 | 2024-11-28 | 2025-01-01 |
 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 | 2025-01-30 |  |
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
@@ -44,13 +44,14 @@
 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 | 2024-09-26 |  |
 | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI) | 2:22 | 2024-06-27 |  |
 | [Glimt i Øyet](https://open.spotify.com/track/6KkiKNruXUDQAIP43Ap9LG) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Glimt i Øyet](https://open.spotify.com/album/4De11wbb5m0QqyQTK4yOyr) | 2:20 | 2024-06-27 | 2024-07-18 |
+| [God Morgen](https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [God Morgen](https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ) | 2:51 | 2025-02-06 |  |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-06-27 | 2024-10-13 |
 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 | 2024-06-27 |  |
 | [Gåsehud](https://open.spotify.com/track/0dAy0Cq4PwkJ3wG0uOjwj6) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Gåsehud](https://open.spotify.com/album/5a00VOr6oBmZeFhHzz6qqt) | 2:32 | 2024-06-27 | 2024-07-06 |
 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 | 2024-06-27 |  |
 | [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2024-06-27 |  |
 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 | 2024-06-27 | 2024-08-31 |
-| [Head In My Hands](https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Head In My Hands](https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00) | 3:12 | 2024-10-17 |  |
+| [Head In My Hands](https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Head In My Hands](https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00) | 3:12 | 2024-10-17 | 2025-02-10 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 | 2024-06-27 |  |
 | [Heim te ståvo](https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heim te ståvo](https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi) | 3:16 | 2024-09-16 |  |
 | [Hellig](https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Hellig](https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv) | 3:39 | 2024-06-27 |  |
@@ -131,6 +132,7 @@
 | [Sommerfugl](https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Sommerfugl](https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu) | 2:52 | 2024-07-11 | 2024-09-14 |
 | [Sommerglød](https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [Sommerglød](https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7) | 2:13 | 2024-06-27 | 2024-09-03 |
 | [Sover du](https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t), [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Sover du](https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s) | 4:24 | 2025-01-23 |  |
+| [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 | 2025-02-06 |  |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-27 | 2024-10-11 |
 | [Summer Rain](https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Summer Rain](https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B) | 2:42 | 2024-06-27 |  |
 | [Synd synd synd](https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Synd synd synd](https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn) | 3:12 | 2024-06-27 | 2025-01-28 |

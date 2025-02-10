@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > LISA, Doja Cat et RAYE au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,823 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,816 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

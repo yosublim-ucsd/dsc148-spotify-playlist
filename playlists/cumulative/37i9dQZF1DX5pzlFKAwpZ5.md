@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-285 songs - 20 hr 57 min
+287 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blue Drizzling](https://open.spotify.com/track/2sMjaKpPoNabmStJizd2hw) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/5Jsb727GVJfMCuvQKaMOGO) | 8:16 | 2022-11-11 | 2022-11-14 |
 | [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 | 2024-04-19 |
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2025-01-25 |
+| [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 | 2025-02-09 |  |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 | 2023-09-09 |
 | [Breaking Dawn](https://open.spotify.com/track/36UIW0lRwokuSQHgkdraAI) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 2:43 | 2023-09-08 | 2024-04-19 |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 | 2025-02-01 |
@@ -113,6 +114,7 @@
 | [hue](https://open.spotify.com/track/2PRWUAyqmp0OA5i7VFseXl) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [hue](https://open.spotify.com/album/1iZPZAw6xNwXuQfRgx5EB4) | 2:36 | 2024-08-08 | 2025-01-27 |
 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 |  |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
+| [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 |  |
 | [In the Wind \- Moshimoss Rework](https://open.spotify.com/track/1UVQ4KZFm95FEjzgwZaQ6K) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [In the Wind \(Moshimoss Rework\)](https://open.spotify.com/album/1bf1hHXUcWG0jYe6Xzli1u) | 6:58 | 2022-12-20 |  |
 | [Infinitesimal](https://open.spotify.com/track/7eky2y76qSmzSBvCmguJ7h) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Infinitesimal](https://open.spotify.com/album/5HRjh0Oh2GDYaPaDbk5yFJ) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 | 2024-06-07 |  |
@@ -250,7 +252,7 @@
 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 | 2022-01-07 | 2023-08-19 |
 | [Twilight](https://open.spotify.com/track/7l8yPCXB66bLXVSBEjqWtO) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Hachirogata Lake](https://open.spotify.com/album/2mWRW0iRCW4p5y4664IIky) | 5:48 | 2023-09-01 |  |
 | [Twilight Glow Of The Sky](https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [The Long Night in Winter Light](https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3) | 3:55 | 2023-03-11 |  |
-| [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 | 2022-01-07 |  |
+| [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 | 2022-01-07 | 2025-02-10 |
 | [Twilight Sea](https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 6:05 | 2023-09-08 | 2024-04-19 |
 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 |  |
 | [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
@@ -274,7 +276,7 @@
 | [What It Means to Me](https://open.spotify.com/track/1i4DbSvqM0zwMv0Ik3Shap) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4Sv4vIH0WR5PF1g35XiBeA) | 3:46 | 2023-04-28 | 2023-11-02 |
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 | 2023-04-30 |
 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 |  |
-| [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 |  |
+| [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 | 2025-02-10 |
 | [Wrapped](https://open.spotify.com/track/2hP5fvJv3YlaHsKHauQo8g) | [Akira Noumi](https://open.spotify.com/artist/5tUffhZ8wsHXifLfzhwNPm) | [Wrapped](https://open.spotify.com/album/2NHnwthgoUZbyuddHdVamb) | 2:44 | 2024-06-15 |  |
 | [YACHIMATA\_160308](https://open.spotify.com/track/6PO1iv4vQLphE9rnjQAtqa) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA](https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl) | 3:22 | 2022-01-07 | 2022-07-29 |
 | [YACHIMATA\_170424](https://open.spotify.com/track/3qYxmTgoENg9azekCo3pzm) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 4](https://open.spotify.com/album/0UZWM1GVlAGgOzJM2j26xm) | 3:42 | 2022-01-07 | 2022-07-29 |

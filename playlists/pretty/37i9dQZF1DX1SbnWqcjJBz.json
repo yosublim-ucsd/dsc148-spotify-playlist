@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 122268,
+  "num_followers": 122315,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "Be the One",
+        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 274213,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
+      "duration_ms": 202914,
+      "name": "Be the One",
+      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -291,22 +307,6 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Be the One",
-        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 202914,
-      "name": "Be the One",
-      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Plastic Hearts",
+      "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Plastic Hearts",
-      "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "dANCE IN THE DARK",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "dANCE IN THE DARK",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Christina Milian",
         "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 219093,
       "name": "I Don't Need A Man",
       "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Teen Spirit",
-        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Joyful Noise",
         "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 211853,
       "name": "Move in the Right Direction",
       "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Teen Spirit",
+        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Welcome to the Jungle (Deluxe)",
-        "url": "https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v"
-      },
-      "artists": [
-        {
-          "name": "Neon Jungle",
-          "url": "https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Braveheart",
-      "url": "https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 331324,
       "name": "Froot",
       "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Welcome to the Jungle (Deluxe)",
+        "url": "https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v"
+      },
+      "artists": [
+        {
+          "name": "Neon Jungle",
+          "url": "https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Braveheart",
+      "url": "https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Dying to Say This to You (Premium Download Version)",
+        "url": "https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG"
+      },
+      "artists": [
+        {
+          "name": "The Sounds",
+          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Tony the Beat",
+      "url": "https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "A Public Affair",
         "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 251293,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Dying to Say This to You (Premium Download Version)",
-        "url": "https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG"
-      },
-      "artists": [
-        {
-          "name": "The Sounds",
-          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Tony the Beat",
-      "url": "https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO"
     },
     {
       "added_at": "2024-06-02 21:23:10",

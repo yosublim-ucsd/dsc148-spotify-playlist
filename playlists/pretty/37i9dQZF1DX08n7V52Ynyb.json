@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 61070,
+  "num_followers": 61113,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
-      },
-      "artists": [
-        {
-          "name": "Ksenia Parkhatskaya",
-          "url": "https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy"
-        }
-      ],
-      "duration_ms": 275687,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 310106,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
+      },
+      "artists": [
+        {
+          "name": "Ksenia Parkhatskaya",
+          "url": "https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy"
+        }
+      ],
+      "duration_ms": 275687,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -599,18 +579,22 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
       "artists": [
         {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 334933,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
+      "duration_ms": 223000,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -627,6 +611,54 @@
       "duration_ms": 216274,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 334933,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Embraceable You",
+        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "duration_ms": 288664,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -663,38 +695,6 @@
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Embraceable You",
-        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        }
-      ],
-      "duration_ms": 288664,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "SEED",
+        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
+      },
+      "artists": [
+        {
+          "name": "Yotam Ishay",
+          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
+        }
+      ],
+      "duration_ms": 328176,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "The Night and the Music",
         "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
       },
@@ -819,38 +835,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "SEED",
-        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
-      },
-      "artists": [
-        {
-          "name": "Yotam Ishay",
-          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
-        }
-      ],
-      "duration_ms": 328176,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Songs to Comfort",
-        "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
-      },
-      "artists": [
-        {
-          "name": "Marie M\u00f8rck",
-          "url": "https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7"
-        }
-      ],
-      "duration_ms": 338186,
-      "name": "Song to Comfort",
-      "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
         "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 371170,
       "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
       "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Songs to Comfort",
+        "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
+      },
+      "artists": [
+        {
+          "name": "Marie M\u00f8rck",
+          "url": "https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7"
+        }
+      ],
+      "duration_ms": 338186,
+      "name": "Song to Comfort",
+      "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -907,6 +907,30 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "Spring Can Really Hang You up the Most",
+        "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Ginsburg",
+          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
+        },
+        {
+          "name": "Filip Ekestubbe",
+          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
+        },
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        }
+      ],
+      "duration_ms": 326019,
+      "name": "Spring Can Really Hang You up the Most",
+      "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
         "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 317800,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Spring Can Really Hang You up the Most",
-        "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
-      },
-      "artists": [
-        {
-          "name": "Amanda Ginsburg",
-          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
-        },
-        {
-          "name": "Filip Ekestubbe",
-          "url": "https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX"
-        },
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        }
-      ],
-      "duration_ms": 326019,
-      "name": "Spring Can Really Hang You up the Most",
-      "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1079,34 +1079,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
-      },
-      "artists": [
-        {
-          "name": "Katrine Madsen",
-          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
-        },
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Mads La Cour",
-          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
-        }
-      ],
-      "duration_ms": 448640,
-      "name": "From a Mother to a Child",
-      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/7nnqCmDX4RMB54ANQFXfu1"
       },
@@ -1131,6 +1103,34 @@
       "duration_ms": 212866,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
+      },
+      "artists": [
+        {
+          "name": "Katrine Madsen",
+          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
+        },
+        {
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Mads La Cour",
+          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
+        }
+      ],
+      "duration_ms": 448640,
+      "name": "From a Mother to a Child",
+      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "There You Are",
-        "url": "https://open.spotify.com/album/12f8nBfTJsR7JYovTWFprd"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 256685,
-      "name": "There You Are",
-      "url": "https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "There You Are",
+        "url": "https://open.spotify.com/album/12f8nBfTJsR7JYovTWFprd"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 256685,
+      "name": "There You Are",
+      "url": "https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1579,6 +1579,34 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 207895,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "Let's Do It",
         "url": "https://open.spotify.com/album/1saHQW8pTxZJRntJQah8iY"
       },
@@ -1607,34 +1635,6 @@
       "duration_ms": 224120,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Some Other Time",
-        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 207895,
-      "name": "Some Other Time",
-      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "Neon Blue",
         "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1799,6 +1799,26 @@
       "duration_ms": 320250,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "April Fooled Me",
+        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "April Fooled Me",
+      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -1907,26 +1927,6 @@
       "duration_ms": 286370,
       "name": "Let's Make Believe",
       "url": "https://open.spotify.com/track/0Bfod0RloRfwS3gPx2UAAk"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "April Fooled Me",
-        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "April Fooled Me",
-      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -2143,6 +2143,38 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Paco Soto",
+          "url": "https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "The Sweetest Sounds",
+      "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "Makin' Whoopee",
         "url": "https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S"
       },
@@ -2179,6 +2211,26 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb"
       },
@@ -2211,38 +2263,6 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Musa",
-        "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Paco Soto",
-          "url": "https://open.spotify.com/artist/5WvleVXgt2bK1LRn1zlp4Q"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "The Sweetest Sounds",
-      "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555"
       },
@@ -2267,6 +2287,42 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/7kMzUihLu60fHLRIUCuw60"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/1SC7yyif78lqVKvfhyRQV8"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X"
+    },
+    {
+      "added_at": "2025-01-17 09:16:30",
+      "album": {
         "name": "Songs From Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
       },
@@ -2283,42 +2339,6 @@
       "duration_ms": 260746,
       "name": "Memories Of You - Special Edition",
       "url": "https://open.spotify.com/track/5T4yRU7ihxsaSQzpvCW6dU"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
-      },
-      "artists": [
-        {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/7kMzUihLu60fHLRIUCuw60"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/1SC7yyif78lqVKvfhyRQV8"
     },
     {
       "added_at": "2025-01-17 09:16:30",
@@ -2355,42 +2375,18 @@
     {
       "added_at": "2025-01-17 09:16:30",
       "album": {
-        "name": "Songs From Other Places",
-        "url": "https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP"
+        "name": "May I Come In",
+        "url": "https://open.spotify.com/album/6y82IM329PZUfWZ0HiFiup"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Art Hirahara",
-          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
         }
       ],
-      "duration_ms": 249453,
-      "name": "My Ship",
-      "url": "https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu"
-    },
-    {
-      "added_at": "2025-01-17 09:16:30",
-      "album": {
-        "name": "Try Your Wings",
-        "url": "https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5"
-      },
-      "artists": [
-        {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X"
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/51NfTuAXFJrNzIfaGsR5hD"
     }
   ],
   "unique_name": "Relaxing Vocal Jazz",

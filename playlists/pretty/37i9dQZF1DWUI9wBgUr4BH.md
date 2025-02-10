@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,133 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,137 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

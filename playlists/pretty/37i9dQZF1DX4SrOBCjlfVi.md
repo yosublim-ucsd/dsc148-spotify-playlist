@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Key Glock, GELO & Lil Wayne, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,146 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,224 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

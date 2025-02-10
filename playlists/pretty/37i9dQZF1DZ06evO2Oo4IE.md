@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,511 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,525 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 20 | [To Love Somebody](https://open.spotify.com/track/1hxrGuTfeq8ayjB7fbIfpN) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 5:13 |
 | 21 | [Call On Me \- Live](https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Raw Velvet \(Live '66\)](https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU) | 3:51 |
 | 22 | [A Woman Left Lonely](https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:29 |
-| 23 | ["Are We Taping Now?"](https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 0:46 |
+| 23 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
 | 24 | [One Good Man](https://open.spotify.com/track/6Evy14WwFHLIJNxvBMnoX6) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 4:09 |
-| 25 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
+| 25 | ["Are We Taping Now?"](https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 0:46 |
 | 26 | [Coo Coo](https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 1:56 |
 | 27 | [Ball and Chain \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin's Greatest Hits](https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN) | 7:59 |
 | 28 | [Misery'n](https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X) | 4:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 50 | [Talk, Pt.1 \- Live](https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:23 |
 | 51 | [Tell Mama \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/5cSLT6bJti7KpIQGEzA1Si) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 6:32 |
 
-Snapshot ID: `Z6VNAAAAAADOCD7P1lXwKK/1IL+d4xz4`
+Snapshot ID: `Z6aegAAAAADPS/nxqsWalI853z88H52j`

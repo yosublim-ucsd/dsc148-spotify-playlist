@@ -4,7 +4,7 @@
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-102 songs - 5 hr 57 min
+103 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 | 2025-02-04 |  |
 | [Everybody Wants To Be Famous](https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 3:04 | 2025-02-04 |  |
 | [Everything She Ain’t](https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 2:31 | 2025-02-04 |  |
+| [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 | 2025-02-04 |  |
 | [Fa\-Fa\-Fa](https://open.spotify.com/track/69jJtkqDBuF3n6yPnAvRjK) | [Datarock](https://open.spotify.com/artist/4foARo5aSfuIuDLupoxK4k) | [Datarock Datarock](https://open.spotify.com/album/1qwNBiFcleOs6H6sPWnywJ) | 5:08 | 2025-02-04 | 2025-02-06 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2025-02-05 |  |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2025-02-04 |  |
@@ -105,7 +106,7 @@
 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 | 2025-02-04 |  |
 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 | 2025-02-04 |  |
 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 | 2025-02-04 |  |
-| [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 | 2025-02-04 |  |
+| [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 | 2025-02-04 | 2025-02-10 |
 | [Whistle \(While You Work It\)](https://open.spotify.com/track/5zwwXMjE6OrqfVpYGnA9RW) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Whistle \(While You Work It\)](https://open.spotify.com/album/1C0txQpTvo2z5N6Rrm6Y9D) | 3:35 | 2025-02-04 | 2025-02-06 |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2025-02-05 |  |
 | [young dumb](https://open.spotify.com/track/70Zo6N1w5N2dYaFHOy2xb2) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [young dumb](https://open.spotify.com/album/2EF3xSuFYlY1fKopxlYxYw) | 2:02 | 2025-02-04 |  |

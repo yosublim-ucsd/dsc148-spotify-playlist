@@ -3150,10 +3150,40 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 179634,
       "name": "Freak Like Me (feat. Katy B & MNEK) - Radio Edit",
       "url": "https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz"
+    },
+    {
+      "album": {
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/4LCT9V99HjGlQ1BkTMsQFc"
+      },
+      "artists": [
+        {
+          "name": "Lee Walker",
+          "url": "https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP"
+        },
+        {
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179634,
+      "name": "Freak Like Me - Radio Edit",
+      "url": "https://open.spotify.com/track/7xiDeb9QXhCjDjVtvlgSyJ"
     },
     {
       "album": {

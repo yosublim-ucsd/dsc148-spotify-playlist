@@ -4856,7 +4856,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 165026,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
@@ -8268,6 +8268,24 @@
       "duration_ms": 227000,
       "name": "Casi oficial",
       "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134097,
+      "name": "CATFISH",
+      "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
     },
     {
       "album": {
@@ -19520,7 +19538,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -20472,7 +20490,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 165318,
       "name": "Hermanas de leche",
       "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
@@ -31356,7 +31374,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 197031,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
@@ -33058,7 +33076,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -33416,7 +33434,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -40252,7 +40270,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
@@ -42010,6 +42028,32 @@
       "duration_ms": 176326,
       "name": "Si La Mami",
       "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+    },
+    {
+      "album": {
+        "name": "Si Las Gatas Se Amotinan",
+        "url": "https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Si Las Gatas Se Amotinan",
+      "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
     },
     {
       "album": {
@@ -48250,6 +48294,24 @@
       "duration_ms": 166360,
       "name": "T\u00fa No Tienes La Culpa",
       "url": "https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu"
+    },
+    {
+      "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "T\u00fa Sabes Quien",
+      "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
     },
     {
       "album": {

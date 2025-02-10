@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,313 likes - 139 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,327 likes - 139 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 92 | [Shhh](https://open.spotify.com/track/33M2tDx9oB2YAbOUY4qcJV) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:22 |
 | 93 | [Black Church](https://open.spotify.com/track/54Sye3CCwl4EZobjBFrBon) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Black Church](https://open.spotify.com/album/4hepB0Ie62Tkphc4IqzF8i) | 3:43 |
 | 94 | [Walk On By](https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:23 |
-| 95 | [Last Summer](https://open.spotify.com/track/7K6H44x9AOkrt3PK6ig4w0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 |
+| 95 | [Last Summer](https://open.spotify.com/track/4EUCfaRRQQtiKEoGY5ACBy) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/6xkO0VLObgUL8o0ztpW0hT) | 2:55 |
 | 96 | [Player](https://open.spotify.com/track/6ZgrQlvRIPKVTCLV02hnMt) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [POWER](https://open.spotify.com/album/2XeDrhfE6hTcg1YD7kA5M7) | 3:17 |
 | 97 | [Fin.](https://open.spotify.com/track/7j7MArN6cotJVlbn5HOQ1t) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 0:30 |
 | 98 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 138 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 139 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbpEvgAAAABfAPsuj+Vai1g4/77VfK9f`
+Snapshot ID: `AbpKXgAAAABInuWUY8Xyzu7mcgTo+plj`

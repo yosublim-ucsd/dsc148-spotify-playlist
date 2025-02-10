@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-505 songs - 1 day 6 hr 55 min
+506 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [House Music \- Edit](https://open.spotify.com/track/1doxuytmXDBTUdYcIT0gCp) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Yellow Productions : A French Touch by Bob Sinclar & Dj Yellow Vol\. 2](https://open.spotify.com/album/1RkCmF3rQDxfFe8h97OBSR) | 4:37 | 2024-09-06 | 2024-12-05 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
 | [Hustle](https://open.spotify.com/track/0AIVZBiAQJDGmYLfDF2UDe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Hustle](https://open.spotify.com/album/4tSRDTghTctng45CrZ7bwx) | 2:20 | 2024-09-13 | 2024-11-13 |
-| [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-08-30 |  |
+| [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-08-30 | 2025-02-10 |
 | [I Believe In Miracles](https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [I Believe In Miracles](https://open.spotify.com/album/5CRmAnjCyw5GKRgIgddbRh) | 2:35 | 2025-01-10 |  |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2022-01-14 | 2024-07-13 |
 | [I DON'T MIND](https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [I DON'T MIND](https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz) | 2:58 | 2024-07-05 | 2024-11-17 |
@@ -270,6 +270,7 @@
 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 | 2022-06-09 | 2024-04-19 |
 | [Like a Woman](https://open.spotify.com/track/4joBpM6Rabmmpx02sx7gSJ) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Southwest Soul Club](https://open.spotify.com/album/55qp9zdHaOi4P9ULGOPtgZ) | 5:41 | 2022-04-06 | 2022-07-25 |
 | [Livin in Love \- Edit](https://open.spotify.com/track/2XbV9bZuQtfnHRWk25aJlg) | [Rubber People](https://open.spotify.com/artist/49PfL1Sec3mOlvxQdkAYvf), [Normada](https://open.spotify.com/artist/5akPLqaLaaoWjgQa3u9IC0) | [Livin in love](https://open.spotify.com/album/2XlFrFZmttBVUEem5VwEZh) | 3:05 | 2022-01-14 | 2022-07-02 |
+| [Lola's Theme \- Tripolism Remix](https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Lola's Theme \(Tripolism Remix\)](https://open.spotify.com/album/75NCYiWBnt9eptrKPv13NX) | 3:39 | 2025-02-07 |  |
 | [Loneliness \(feat\. Alison Crockett\) \- DJ Meme Remix](https://open.spotify.com/track/5828QTN983uyoKKdLMWuwo) | [Ch’i](https://open.spotify.com/artist/4SfaQ9G6Z0fuqCvf2nmy8g), [Alison Crockett](https://open.spotify.com/artist/6yPQ9WW3DAo34qMOBegR4d), [DJ Meme](https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9) | [Loneliness \(feat\. Alison Crockett\) \[DJ Meme Remix\]](https://open.spotify.com/album/6tHOBtRGJfWndhxU9xQ9FD) | 3:50 | 2024-05-10 | 2024-06-01 |
 | [Losers \- Purple Disco Machine Remix Edit](https://open.spotify.com/track/7M8RlfP8SviqaH4kCkOkyE) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Losers \(Purple Disco Machine Remix\)](https://open.spotify.com/album/1oSiIn6xeyDl5Ode3dHrU4) | 3:42 | 2022-01-14 | 2023-06-10 |
 | [Losing Touch](https://open.spotify.com/track/2ryXP4NxcAPXgE7KPoZ6x4) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Losing Touch](https://open.spotify.com/album/0GfYAzaPprg7myHy4OeemX) | 3:55 | 2022-01-14 | 2022-07-28 |

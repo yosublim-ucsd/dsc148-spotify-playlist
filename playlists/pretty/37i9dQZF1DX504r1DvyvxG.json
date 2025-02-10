@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2652617,
+  "num_followers": 2652647,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -315,6 +299,22 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
@@ -399,22 +383,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 308520,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Michelle - Remastered 2009",
-      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -511,22 +511,6 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -611,6 +595,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Indigo Girls (Expanded Edition)",
         "url": "https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x"
       },
@@ -655,22 +639,6 @@
       "duration_ms": 241600,
       "name": "Closer to Fine",
       "url": "https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "Songs Of Love And Hate",
-        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 310773,
-      "name": "Famous Blue Raincoat",
-      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -723,6 +691,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "In the Wind",
+        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "The Very Best of the Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 244226,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "In the Wind",
-        "url": "https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "Hickory Wind",
+        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Red Dirt Girl",
+      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "Alice's Restaurant",
         "url": "https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 279266,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "Hickory Wind",
-        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Red Dirt Girl",
-      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
+        "name": "Demo Tapes (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "Operator - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -1575,38 +1591,6 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Demo Tapes (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Operator - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
-    },
-    {
-      "added_at": "2025-01-07 16:46:50",
-      "album": {
         "name": "Terms of My Surrender",
         "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 252093,
       "name": "Long Time Comin'",
       "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
+    },
+    {
+      "added_at": "2025-01-07 16:46:50",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     }
   ],
   "unique_name": "Classic Acoustic",

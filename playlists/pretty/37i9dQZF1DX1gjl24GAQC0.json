@@ -1,6 +1,6 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: \nALL(H)OURS) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 799874,
+  "num_followers": 799812,
   "original_name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "HOP",
-        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 148810,
-      "name": "Walkin On Water",
-      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 204939,
       "name": "Run BTS",
       "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -267,18 +267,34 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "DARK BLOOD",
-        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 157531,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -315,34 +331,18 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "TWS 1st Mini Album 'Sparkling Blue'",
-        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 152400,
-      "name": "plot twist",
-      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "HOW?",
-        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Earth, Wind & Fire",
-      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -363,38 +363,6 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
-        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "MAESTRO",
-      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes)",
-      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
         "name": "The Name Chapter: TEMPTATION",
         "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
@@ -411,18 +379,18 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
+      "duration_ms": 198906,
+      "name": "MAESTRO",
+      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -459,6 +427,22 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 188332,
+      "name": "XO (Only If You Say Yes)",
+      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -491,50 +475,18 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -559,6 +511,54 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -607,6 +591,38 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 220716,
+      "name": "DARARI",
+      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
       },
@@ -623,34 +639,18 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "The Name Chapter: FREEFALL",
-        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+        "name": "WHY..",
+        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 182670,
-      "name": "Chasing That Feeling",
-      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 220716,
-      "name": "DARARI",
-      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+      "duration_ms": 175106,
+      "name": "But Sometimes",
+      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling",
+      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
         "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
         "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 205133,
       "name": "God of Music",
       "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "WHY..",
-        "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "But Sometimes",
-      "url": "https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -731,22 +731,6 @@
       "duration_ms": 191706,
       "name": "Last Festival",
       "url": "https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66"
-    },
-    {
-      "added_at": "2025-02-05 09:08:00",
-      "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -807,18 +791,18 @@
     {
       "added_at": "2025-02-05 09:08:00",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "added_at": "2025-02-05 09:08:00",
@@ -851,6 +835,22 @@
       "duration_ms": 191626,
       "name": "SLASH (From \u201cDeadpool & Wolverine\u201d)",
       "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
+    },
+    {
+      "added_at": "2025-02-05 09:08:00",
+      "album": {
+        "name": "THE WORLD EP.1 : MOVEMENT",
+        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 207921,
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     }
   ],
   "unique_name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",

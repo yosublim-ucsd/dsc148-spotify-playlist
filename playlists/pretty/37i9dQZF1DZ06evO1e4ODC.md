@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,713 likes - 49 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,749 likes - 49 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 18 | [Espérame](https://open.spotify.com/track/0nVAXr2tTHrFzx7ORvR6e1) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 5:10 |
 | 19 | [Tu Amistad Me Hace Bien \- En Vivo](https://open.spotify.com/track/7gUJ7lxBwciZpkohIRt5ph) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO), [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Lorelei Taron](https://open.spotify.com/artist/4BgKgow0sYMYbeCwch19Bo), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 4:08 |
 | 20 | [Tienen Tu Color](https://open.spotify.com/track/2ObrJKsc5W0Gqhnshj1Igs) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:01 |
-| 21 | [Al Taller del Maestro](https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Al Taller del Maestro](https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF) | 5:24 |
+| 21 | [Olvidé Cuidar Mi Huerto](https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:47 |
 | 22 | [Aqui Estoy](https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:16 |
-| 23 | [Olvidé Cuidar Mi Huerto](https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:47 |
+| 23 | [Al Taller del Maestro](https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Al Taller del Maestro](https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF) | 5:24 |
 | 24 | [El Brillo De Mis Ojos](https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:31 |
 | 25 | [¿Cómo Me Ves?](https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:03 |
 | 26 | [No Ha Sido En Vano](https://open.spotify.com/track/35CpjCNSI3vLdgaSwfHlNq) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [No Ha Sido En Vano](https://open.spotify.com/album/0ZykuWZYgNMqbvkECpIeom) | 3:31 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 48 | [Dame Este Monte](https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Daniel Santoy](https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 3:39 |
 | 49 | [Mundo Interior](https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:18 |
 
-Snapshot ID: `Z6VNAAAAAADgYd4Py9KgE4cWtY1w2Yiz`
+Snapshot ID: `Z6aegAAAAADGRh503txSP6Ay00F+qnmS`

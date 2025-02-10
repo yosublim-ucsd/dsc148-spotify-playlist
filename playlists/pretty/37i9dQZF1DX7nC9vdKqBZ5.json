@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1514995,
+  "num_followers": 1515025,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192933,
       "name": "Coisa Linda - Ao Vivo",
       "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189005,
       "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Onde A Gente Chegou",
         "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 160408,
       "name": "Onde A Gente Chegou",
       "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "\u00daltimo Romance",
-        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 257701,
-      "name": "\u00daltimo Romance",
-      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Alto Mar (Sessions)",
         "url": "https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 200658,
       "name": "Alto Mar - Sessions",
       "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "\u00daltimo Romance",
+        "url": "https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 257701,
+      "name": "\u00daltimo Romance",
+      "url": "https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Tudo no Sigilo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
+      },
+      "artists": [
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
+        }
+      ],
+      "duration_ms": 169745,
+      "name": "Tudo no Sigilo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Outra Vida",
         "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Tudo no Sigilo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
-      },
-      "artists": [
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 169745,
-      "name": "Tudo no Sigilo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
         "url": "https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 259058,
       "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
       "url": "https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
+        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "Certeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 222582,
       "name": "beira - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
-        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "Certeza - Ao Vivo",
-      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "N\u00f3s 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "N\u00f3s 3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N\u00f3s 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        }
-      ],
-      "duration_ms": 266250,
-      "name": "N\u00f3s 3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "O Sol",
         "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 216336,
-      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Peu Canta Ivete",
         "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 243179,
       "name": "Quando a Chuva Passar",
       "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 216336,
+      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
-      },
-      "artists": [
-        {
-          "name": "Eu, Trovador",
-          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Ainda Bem Que Chegou (Acoustic Version)",
         "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
       },
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
+      },
+      "artists": [
+        {
+          "name": "Eu, Trovador",
+          "url": "https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 203625,
       "name": "Porque Eu Sei Que \u00c9 Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/5CpvvfYzoepNsuO6gtl85B"
-      },
-      "artists": [
-        {
-          "name": "Ariane Villa Lobos",
-          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
-        }
-      ],
-      "duration_ms": 206375,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/6PdMs1R7JSYy2Xlh4EP4P1"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Morena (Acoustic Version)",
         "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
       },
@@ -1687,22 +1671,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Nois T\u00e1 Alto - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 215340,
-      "name": "Amar Amei - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5t9r2NifmP11xHoVa5kAVG"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
       },
@@ -1715,6 +1683,38 @@
       "duration_ms": 142857,
       "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/5CpvvfYzoepNsuO6gtl85B"
+      },
+      "artists": [
+        {
+          "name": "Ariane Villa Lobos",
+          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
+        }
+      ],
+      "duration_ms": 206375,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/6PdMs1R7JSYy2Xlh4EP4P1"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Nois T\u00e1 Alto - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 215340,
+      "name": "Amar Amei - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5t9r2NifmP11xHoVa5kAVG"
     },
     {
       "added_at": "2024-08-02 18:37:00",

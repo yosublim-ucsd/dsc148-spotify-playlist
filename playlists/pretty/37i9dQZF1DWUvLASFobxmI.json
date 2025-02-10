@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Receta, El Frizian en portada.",
-  "num_followers": 501970,
+  "num_followers": 502236,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 183315,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -199,18 +199,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+        "name": "\u00bfQui\u00e9n?",
+        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+      "duration_ms": 183315,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -327,6 +327,38 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -379,22 +411,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -479,6 +479,38 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
       },
@@ -499,22 +531,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Yo Ya Sabia Pa Donde Iba",
-        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Yo Ya Sabia Pa Donde Iba",
-      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Al Derecho Y Al Reverso",
         "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
@@ -531,18 +547,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+      "duration_ms": 213674,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -587,26 +607,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Ya No Vuelvas",
-        "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 213674,
-      "name": "Ya No Vuelvas",
-      "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Sin Pagar Renta",
         "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 202443,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -643,22 +659,6 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "AMOR PROPIO",
-        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172485,
-      "name": "AMOR PROPIO",
-      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "PARIENTON",
-        "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
-        },
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 149265,
-      "name": "PARIENTON",
-      "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -775,22 +755,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE"
+        "name": "PARIENTON",
+        "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
       },
       "artists": [
         {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 240561,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9"
+      "duration_ms": 149265,
+      "name": "PARIENTON",
+      "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -807,6 +787,26 @@
       "duration_ms": 227380,
       "name": "Mi Amor Por Ti",
       "url": "https://open.spotify.com/track/46oEwUHvlrd038HuB5EW8z"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 240561,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "Como En Los Viejos Tiempos",
         "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+      "duration_ms": 131754,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1087,6 +1087,22 @@
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1139,22 +1155,6 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Loko",
-        "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 131754,
-      "name": "Loko",
-      "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/2TY5w3eKXpLvtHni5Ny9lM"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
+      "duration_ms": 159602,
+      "name": "Mejores Tiempos",
+      "url": "https://open.spotify.com/track/2OQZNkUIdhyc10ysnM12bG"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1319,22 +1335,6 @@
       "duration_ms": 205531,
       "name": "Aqu\u00ed No Acaba El Brillo",
       "url": "https://open.spotify.com/track/2k62RkN51wO1kb38EKbuQi"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/2TY5w3eKXpLvtHni5Ny9lM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 159602,
-      "name": "Mejores Tiempos",
-      "url": "https://open.spotify.com/track/2OQZNkUIdhyc10ysnM12bG"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Y Tu",
-      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "El Seis",
         "url": "https://open.spotify.com/album/4McH8wum4UQ96c5MIDZA1K"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 165482,
       "name": "Tu Me Gustas",
       "url": "https://open.spotify.com/track/00AkbbC4StYgfXzEBAljxD"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Y Tu",
+      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 155885,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/3Yh0y714GOrQYyV0eZWAyE"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1687,46 +1687,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Neta Que No",
-        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164680,
-      "name": "Neta Que No",
-      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Cosas Claras, Cosas Buenas (En Vivo)",
-        "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Cosas Claras, Cosas Buenas (En Vivo)",
-      "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "El Sr. Guzm\u00e1n",
         "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
       },
@@ -1775,6 +1735,46 @@
       "duration_ms": 168552,
       "name": "Hay Unos Ojos (En Vivo)",
       "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164680,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Cosas Claras, Cosas Buenas (En Vivo)",
+        "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Cosas Claras, Cosas Buenas (En Vivo)",
+      "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 181984,
-      "name": "Chelas y Besos",
-      "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Paz en Este Amor",
         "url": "https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 209554,
       "name": "Quiero Darte (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 181984,
+      "name": "Chelas y Besos",
+      "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "No Mastico Culebras",
-        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 134975,
-      "name": "No Mastico Culebras",
-      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 160992,
       "name": "Lo Que Yo Necesitaba",
       "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 148050,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
       },
@@ -2087,38 +2103,6 @@
       "duration_ms": 235711,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 148050,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN"
-    },
-    {
-      "added_at": "2025-01-31 06:00:25",
-      "album": {
-        "name": "La Caguama (En Vivo)",
-        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 135585,
-      "name": "La Caguama - En Vivo",
-      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
     },
     {
       "added_at": "2025-01-31 06:00:25",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
+        "name": "La Caguama (En Vivo)",
+        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 135585,
+      "name": "La Caguama - En Vivo",
+      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
+    },
+    {
+      "added_at": "2025-01-31 06:00:25",
+      "album": {
         "name": "TE AMAR\u00c9",
         "url": "https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y"
       },
@@ -2203,22 +2203,18 @@
     {
       "added_at": "2025-01-31 06:00:25",
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 223125,
-      "name": "La Indicada",
-      "url": "https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85"
+      "duration_ms": 175496,
+      "name": "Paz En Este Amor",
+      "url": "https://open.spotify.com/track/6XqL9LBSTRGhLQFbvYJGYt"
     }
   ],
   "unique_name": "Norte\u00f1o 2025",

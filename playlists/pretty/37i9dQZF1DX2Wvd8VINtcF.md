@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > Doechii \- Our Grammy \(Swamp\) Princess!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,161 likes - 104 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,203 likes - 104 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

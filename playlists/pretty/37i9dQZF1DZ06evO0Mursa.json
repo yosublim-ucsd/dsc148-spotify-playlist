@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 9645,
+  "num_followers": 9648,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABK05iS3UWvll6LH1256Fx4",
+  "snapshot_id": "Z6aegAAAAAAg40pBya6068dvZO9Y1BMg",
   "tracks": [
     {
       "added_at": null,
@@ -523,82 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus IV - The Eternal Knot",
-        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "Adiemus Orchestra",
-          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
-        },
-        {
-          "name": "Miriam Stockley",
-          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
-        },
-        {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
-        },
-        {
-          "name": "Caryl Ebenezer",
-          "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
-        },
-        {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Davy Spillane",
-          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
-        }
-      ],
-      "duration_ms": 105706,
-      "name": "Hermit Of The Sea Rock",
-      "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
-        }
-      ],
-      "duration_ms": 85200,
-      "name": "Minuet",
-      "url": "https://open.spotify.com/track/1DdY7cX2fWo9cTmGixyJNh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
       },
@@ -655,6 +579,82 @@
       "duration_ms": 274480,
       "name": "Requiem: IX. Pie Jesu",
       "url": "https://open.spotify.com/track/6sxyG3aGLTP0kcXeLUK4N5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
+        }
+      ],
+      "duration_ms": 85200,
+      "name": "Minuet",
+      "url": "https://open.spotify.com/track/1DdY7cX2fWo9cTmGixyJNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus IV - The Eternal Knot",
+        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "Adiemus Orchestra",
+          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
+        },
+        {
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        },
+        {
+          "name": "Caryl Ebenezer",
+          "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
+        },
+        {
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        },
+        {
+          "name": "Davy Spillane",
+          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
+        }
+      ],
+      "duration_ms": 105706,
+      "name": "Hermit Of The Sea Rock",
+      "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karl Jenkins: Motets",
-        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
+        "name": "The Peacemakers",
+        "url": "https://open.spotify.com/album/3VeF83HSONBqXVcPh47sHA"
       },
       "artists": [
         {
@@ -884,17 +884,33 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         },
         {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+          "name": "CBSO Youth Chorus",
+          "url": "https://open.spotify.com/artist/7o08pP6LVtNAGSv22YsUvG"
+        },
+        {
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+        },
+        {
+          "name": "Rundfunkchor Berlin",
+          "url": "https://open.spotify.com/artist/4DqlvoyKHnvnT4lvFmTSkG"
+        },
+        {
+          "name": "Davy Spillane",
+          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
+        },
+        {
+          "name": "Laurence Cottle",
+          "url": "https://open.spotify.com/artist/065U816dIiVPXIXCle9k2u"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Requiem: Pie Jesu",
-      "url": "https://open.spotify.com/track/4VKxIHuFT2njess6gLOYaR"
+      "duration_ms": 321026,
+      "name": "The Peacemakers: VI. Healing Light: A Celtic Prayer",
+      "url": "https://open.spotify.com/track/2TdrRMgEeGDrP7H8EnSWfX"
     },
     {
       "added_at": null,
@@ -935,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Peacemakers",
-        "url": "https://open.spotify.com/album/3VeF83HSONBqXVcPh47sHA"
+        "name": "Karl Jenkins: Motets",
+        "url": "https://open.spotify.com/album/5RLRyOKImXIUHpdVdAOuO9"
       },
       "artists": [
         {
@@ -944,33 +960,17 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
         },
         {
-          "name": "CBSO Youth Chorus",
-          "url": "https://open.spotify.com/artist/7o08pP6LVtNAGSv22YsUvG"
-        },
-        {
-          "name": "Simon Halsey",
-          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
-        },
-        {
-          "name": "Rundfunkchor Berlin",
-          "url": "https://open.spotify.com/artist/4DqlvoyKHnvnT4lvFmTSkG"
-        },
-        {
-          "name": "Davy Spillane",
-          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
-        },
-        {
-          "name": "Laurence Cottle",
-          "url": "https://open.spotify.com/artist/065U816dIiVPXIXCle9k2u"
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
         }
       ],
-      "duration_ms": 321026,
-      "name": "The Peacemakers: VI. Healing Light: A Celtic Prayer",
-      "url": "https://open.spotify.com/track/2TdrRMgEeGDrP7H8EnSWfX"
+      "duration_ms": 188333,
+      "name": "Requiem: Pie Jesu",
+      "url": "https://open.spotify.com/track/4VKxIHuFT2njess6gLOYaR"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,30 @@
       "duration_ms": 320760,
       "name": "Amat\u00e9 Adea",
       "url": "https://open.spotify.com/track/7hQRQMiFa1b7aNR3SJMcQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Armed Man: A Mass For Peace",
+        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Mike Brewer",
+          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "The Armed Man - A Mass For Peace: VI. Hymn Before Action",
+      "url": "https://open.spotify.com/track/4KLFgcWOl5Ysk06pOiOwU3"
     },
     {
       "added_at": null,
@@ -1067,30 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Armed Man: A Mass For Peace",
-        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Mike Brewer",
-          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "The Armed Man - A Mass For Peace: VI. Hymn Before Action",
-      "url": "https://open.spotify.com/track/4KLFgcWOl5Ysk06pOiOwU3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonic Adiemus",
         "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
       },
@@ -1139,34 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
-        }
-      ],
-      "duration_ms": 306320,
-      "name": "Corrente (Courante)",
-      "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Armed Man: A Mass For Peace",
         "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
       },
@@ -1195,6 +1167,34 @@
       "duration_ms": 419880,
       "name": "The Armed Man - A Mass For Peace: V. Sanctus",
       "url": "https://open.spotify.com/track/2v9N95Rk2g6G2MZuxCJORL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
+        }
+      ],
+      "duration_ms": 306320,
+      "name": "Corrente (Courante)",
+      "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
     },
     {
       "added_at": null,
@@ -1271,6 +1271,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Armed Man: A Mass For Peace",
+        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Mike Brewer",
+          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "duration_ms": 492466,
+      "name": "The Armed Man - A Mass For Peace: III. Kyrie",
+      "url": "https://open.spotify.com/track/5NiWkDJNY1v6akaWhYIaaK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantata Memoria - For The Children",
         "url": "https://open.spotify.com/album/4zHB3ONEs1HF5AfIQIKDWO"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 278280,
       "name": "Cantata Memoria: Lament for the Valley",
       "url": "https://open.spotify.com/track/5xxiVh3axHSaY26gWx6F3c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Armed Man: A Mass For Peace",
-        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Mike Brewer",
-          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        }
-      ],
-      "duration_ms": 492466,
-      "name": "The Armed Man - A Mass For Peace: III. Kyrie",
-      "url": "https://open.spotify.com/track/5NiWkDJNY1v6akaWhYIaaK"
     },
     {
       "added_at": null,
@@ -1419,6 +1419,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Armed Man: A Mass For Peace",
+        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Mike Brewer",
+          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "duration_ms": 384240,
+      "name": "The Armed Man - A Mass For Peace: I. The Armed Man",
+      "url": "https://open.spotify.com/track/7xRO6wrjYqdtWSqTzJssAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crossing the Stone",
         "url": "https://open.spotify.com/album/3BgV8IdbhEKFeitGfUcNVm"
       },
@@ -1443,30 +1467,6 @@
       "duration_ms": 257200,
       "name": "Over the Stone: IV. Crossing the Stone",
       "url": "https://open.spotify.com/track/5yC2sG5JzmslSvpba82ixJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Armed Man: A Mass For Peace",
-        "url": "https://open.spotify.com/album/1CgJvRQcoKATvHRis0T3He"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Mike Brewer",
-          "url": "https://open.spotify.com/artist/7wc4HtSXmkO0eLcsHFq2Uz"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        }
-      ],
-      "duration_ms": 384240,
-      "name": "The Armed Man - A Mass For Peace: I. The Armed Man",
-      "url": "https://open.spotify.com/track/7xRO6wrjYqdtWSqTzJssAN"
     },
     {
       "added_at": null,
@@ -1543,8 +1543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
+        "name": "The Peacemakers",
+        "url": "https://open.spotify.com/album/3VeF83HSONBqXVcPh47sHA"
       },
       "artists": [
         {
@@ -1552,49 +1552,33 @@
           "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
         },
         {
-          "name": "Nicole Tibbels",
-          "url": "https://open.spotify.com/artist/1dTs8VFLLd9M4H6aBxizdE"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         },
         {
-          "name": "Serendipity",
-          "url": "https://open.spotify.com/artist/17XfY2Nn3lAxAdsi48ykI9"
+          "name": "Rundfunkchor Berlin",
+          "url": "https://open.spotify.com/artist/4DqlvoyKHnvnT4lvFmTSkG"
         },
         {
-          "name": "Cor Caerdydd & Cytgan",
-          "url": "https://open.spotify.com/artist/0Z8ThIGmQT3GgtF3c1o595"
+          "name": "CBSO Youth Chorus",
+          "url": "https://open.spotify.com/artist/7o08pP6LVtNAGSv22YsUvG"
         },
         {
-          "name": "West Kazakhstan Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/7hw6Pa90Qd9OaTezjNhjFg"
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
         },
         {
-          "name": "Marat Bisengaliev",
-          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
+          "name": "Ashwin Shrivanasan",
+          "url": "https://open.spotify.com/artist/1ozUrCMwQWInOBowRIQT2Y"
         },
         {
-          "name": "Clive Bell",
-          "url": "https://open.spotify.com/artist/4PpQjCDxZ1NkoZBC2DYCnX"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Tim Thorne",
-          "url": "https://open.spotify.com/artist/6RQi8sZbwBZbFtZ4TgRsw3"
-        },
-        {
-          "name": "Timothy Rhys-Evans",
-          "url": "https://open.spotify.com/artist/2u0pG2s2RyVzP9PgrGPLi4"
-        },
-        {
-          "name": "Gary Kettel",
-          "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
+          "name": "Jody K. Jenkins",
+          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
         }
       ],
-      "duration_ms": 175946,
-      "name": "Requiem: V. Confutatis",
-      "url": "https://open.spotify.com/track/7ClZQj7g08hFDNLc7naqqh"
+      "duration_ms": 192800,
+      "name": "The Peacemakers: IV. I Offer You Peace",
+      "url": "https://open.spotify.com/track/3FLSMtywRYzjtBTXoeZj0X"
     }
   ],
   "unique_name": "This Is Karl Jenkins",

@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 63758,
+  "num_followers": 63786,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -275,6 +255,42 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -287,6 +303,38 @@
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Y LLORO",
+      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -311,54 +359,6 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Y LLORO",
-      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -423,6 +423,38 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 240654,
+      "name": "Extssy Model",
+      "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Mi Nuevo Yo",
+        "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 221553,
+      "name": "Amor Tumbado",
+      "url": "https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -439,22 +471,6 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 162648,
-      "name": "TRES BOTELLAS",
-      "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -495,8 +511,24 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Mi Nuevo Yo",
-        "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 162648,
+      "name": "TRES BOTELLAS",
+      "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
         {
@@ -504,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 221553,
-      "name": "Amor Tumbado",
-      "url": "https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj"
+      "duration_ms": 188666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -587,22 +619,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 240654,
-      "name": "Extssy Model",
-      "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -631,6 +647,38 @@
       "duration_ms": 193568,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "LA CHERRY",
+      "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -667,38 +715,6 @@
       "duration_ms": 142469,
       "name": "Tu Coquette",
       "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "LA CHERRY",
-      "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -851,22 +867,6 @@
       "duration_ms": 181657,
       "name": "Ojitos Rojos",
       "url": "https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 168360,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Un Idiota",
-        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "Summer School Mixtape, Vol. 1",
         "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 194002,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 166086,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Aunque Digan",
-        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 142124,
-      "name": "Subete A Mi Troca",
-      "url": "https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "No Soy Como Tu (Remix)",
         "url": "https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 142124,
+      "name": "Subete A Mi Troca",
+      "url": "https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
         "name": "ME TODO",
         "url": "https://open.spotify.com/album/56HJIyM6FmOn1xEEDoJzz6"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 153000,
       "name": "ME TODO",
       "url": "https://open.spotify.com/track/3txgvzWrRcSBSp70btzMmG"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
-        "name": "Vestido Negro",
-        "url": "https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO"
-      },
-      "artists": [
-        {
-          "name": "Christian Lara",
-          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
-        }
-      ],
-      "duration_ms": 197551,
-      "name": "Vestido Negro",
-      "url": "https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
+        "name": "Vestido Negro",
+        "url": "https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO"
+      },
+      "artists": [
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "Vestido Negro",
+      "url": "https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
         "name": "No Hay Nadie Mas",
         "url": "https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu"
       },
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "CHULA",
-        "url": "https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "CHULA",
-      "url": "https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "Modo Cherry",
         "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
       },
@@ -1579,22 +1559,22 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Nuestras Vidas",
-        "url": "https://open.spotify.com/album/50sHLZrA8kqPy9Xw5bbj8C"
+        "name": "CHULA",
+        "url": "https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa"
       },
       "artists": [
         {
-          "name": "Christian Lara",
-          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 183111,
-      "name": "Nuestras Vidas",
-      "url": "https://open.spotify.com/track/2Hi7EbQELE4aJHLbP05v1P"
+      "duration_ms": 168253,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH"
     },
     {
       "added_at": "2024-12-26 19:13:24",
@@ -1695,6 +1675,26 @@
       "duration_ms": 170784,
       "name": "La Bebesita",
       "url": "https://open.spotify.com/track/4UAzgCrE77nyGWm2E2XxMq"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Nuestras Vidas",
+        "url": "https://open.spotify.com/album/50sHLZrA8kqPy9Xw5bbj8C"
+      },
+      "artists": [
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        },
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 183111,
+      "name": "Nuestras Vidas",
+      "url": "https://open.spotify.com/track/2Hi7EbQELE4aJHLbP05v1P"
     },
     {
       "added_at": "2024-12-26 19:13:24",

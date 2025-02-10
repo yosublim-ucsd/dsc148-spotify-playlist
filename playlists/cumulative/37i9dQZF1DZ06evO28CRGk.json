@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/2d559tVeYdwUOvA6rk91TT"
+      },
+      "artists": [
+        {
+          "name": "MindsOne",
+          "url": "https://open.spotify.com/artist/2dcR9flQrOV8SKge4zU5FT"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160682,
+      "name": "Blind Fury",
+      "url": "https://open.spotify.com/track/2l3qE9f4DEdCjjat6iBWWX"
+    },
+    {
+      "album": {
         "name": "A Breukelen Story",
         "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
@@ -1520,7 +1542,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 210867,
       "name": "Nie S\u0142ucha\u0107 Przed Trzydziestk\u0105",
       "url": "https://open.spotify.com/track/51rlx11tFsvWnQWGB3s9Tz"
@@ -1946,7 +1968,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 168698,
       "name": "Snitched On Me",
       "url": "https://open.spotify.com/track/5KRyGDmVEgrjZn7HYqUbVI"
@@ -2310,7 +2332,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 236626,
       "name": "War",
       "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"

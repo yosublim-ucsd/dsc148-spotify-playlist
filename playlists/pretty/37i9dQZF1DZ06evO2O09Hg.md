@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,630,970 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,133 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 55 | [From My Window](https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:07 |
 | 56 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 |
 
-Snapshot ID: `Z6VNAAAAAAALtCREcxuhRZVqPmr93p6G`
+Snapshot ID: `Z6aegAAAAABBWypZaw7iKeo4nsBa+Di5`

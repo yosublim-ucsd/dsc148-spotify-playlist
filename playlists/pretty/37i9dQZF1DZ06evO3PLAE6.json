@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11075,
+  "num_followers": 11076,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAAlTDmcLJWSSOdZVAIpaeHk",
+  "snapshot_id": "Z6aegAAAAAC/T7Lm5GqBi6ODqgyGVcwB",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 494360,
+      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wreck & Ruin",
         "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 155693,
       "name": "The Quiet Life",
       "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 494360,
-      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
-      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
     },
     {
       "added_at": null,
@@ -387,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Sweetest Waste Of Time",
-      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
     },
     {
       "added_at": null,
@@ -423,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+      "duration_ms": 177013,
+      "name": "Sweetest Waste Of Time",
+      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
     },
     {
       "added_at": null,
@@ -459,6 +459,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 171893,
+      "name": "On A Bad Day",
+      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "The Divorce Song",
+      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -475,38 +511,6 @@
       "duration_ms": 235600,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 171893,
-      "name": "On A Bad Day",
-      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
     },
     {
       "added_at": null,
@@ -558,15 +562,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 178200,
-      "name": "The Divorce Song",
-      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,

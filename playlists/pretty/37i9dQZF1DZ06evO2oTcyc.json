@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 214040,
+  "num_followers": 214070,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABa4P6/6PbAbZvVAYfpPxgJ",
+  "snapshot_id": "Z6aegAAAAADHQ5YAUR9efdKFLvyklyIF",
   "tracks": [
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gift For The Streets",
-        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
+        "name": "FEMA (Finesse Elevate Motivate Achieve)",
+        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         }
       ],
-      "duration_ms": 124235,
-      "name": "Nightmare Before Christmas",
-      "url": "https://open.spotify.com/track/64w8zS71nvU3JDQVIas4ND"
+      "duration_ms": 203840,
+      "name": "Heart Mind",
+      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
     },
     {
       "added_at": null,
@@ -475,22 +479,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "FEMA (Finesse Elevate Motivate Achieve)",
-        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
+        "name": "Gift For The Streets",
+        "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         }
       ],
-      "duration_ms": 203840,
-      "name": "Heart Mind",
-      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
+      "duration_ms": 124235,
+      "name": "Nightmare Before Christmas",
+      "url": "https://open.spotify.com/track/64w8zS71nvU3JDQVIas4ND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skrt",
+        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 224864,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shampoo",
+        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 196113,
+      "name": "There He Go",
+      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
     },
     {
       "added_at": null,
@@ -515,54 +563,6 @@
       "duration_ms": 165965,
       "name": "Shit Show (feat. Veeze & Lil Yachty)",
       "url": "https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shampoo",
-        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Shampoo",
-      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skrt",
-        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 224864,
-      "name": "Skrt",
-      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 196113,
-      "name": "There He Go",
-      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 183562,
-      "name": "Shake Back",
-      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 182833,
       "name": "Corrlinks and JPay",
       "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 183562,
+      "name": "Shake Back",
+      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Skii",
-        "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 183491,
-      "name": "7 AM in Munich (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/0gCyzW9xyAWSGtyHZ9g9bE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk/Spin",
         "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Skii",
+        "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 183491,
+      "name": "7 AM in Munich (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/0gCyzW9xyAWSGtyHZ9g9bE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trill Bill",
-        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 123941,
-      "name": "Dirty Revolver",
-      "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 198109,
       "name": "Patty Cake",
       "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 123941,
+      "name": "Dirty Revolver",
+      "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
     },
     {
       "added_at": null,

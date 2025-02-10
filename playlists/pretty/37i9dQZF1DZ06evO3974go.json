@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19784,
+  "num_followers": 19786,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABijjLv0FfRPGY9sE1FGPk9",
+  "snapshot_id": "Z6aegAAAAACs+0TzmLbQAciEZgKSMMx+",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luca Brasi 2: Gangsta Grillz",
-        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 191532,
-      "name": "Word Around Town (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 191532,
+      "name": "Word Around Town (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
     },
     {
       "added_at": null,
@@ -847,26 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Authentic (feat. Clever)",
-        "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
+        "name": "Life After Fame",
+        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
       "artists": [
         {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Matt Monaco",
-          "url": "https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Authentic (feat. Clever)",
-      "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
+      "duration_ms": 164622,
+      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
     },
     {
       "added_at": null,
@@ -891,38 +887,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life After Fame",
-        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+        "name": "Authentic (feat. Clever)",
+        "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
       },
       "artists": [
         {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         },
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Sinning",
-        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
-      },
-      "artists": [
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        },
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+          "name": "Matt Monaco",
+          "url": "https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax"
         }
       ],
-      "duration_ms": 176009,
-      "name": "Still Sinning",
-      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
+      "duration_ms": 192266,
+      "name": "Authentic (feat. Clever)",
+      "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
       "duration_ms": 144023,
       "name": "Krazy",
       "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Sinning",
+        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176009,
+      "name": "Still Sinning",
+      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

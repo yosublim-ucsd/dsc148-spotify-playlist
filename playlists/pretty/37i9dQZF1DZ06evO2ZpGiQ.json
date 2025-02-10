@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 448775,
+  "num_followers": 448907,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACsPp2XKLX/6SfAFR27YQCX",
+  "snapshot_id": "Z6aegAAAAADz5vSdxVDvRd3RB489i9Bd",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 288600,
       "name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
       "url": "https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
     },
     {
       "added_at": null,
@@ -540,7 +540,7 @@
       "added_at": null,
       "album": {
         "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
       "artists": [
         {
@@ -548,37 +548,13 @@
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        },
-        {
-          "name": "Kidd Kidd",
-          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 286906,
-      "name": "Mrs. Officer",
-      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
     },
     {
       "added_at": null,
@@ -603,32 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
-      "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
       "artists": [
         {
@@ -636,13 +588,13 @@
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
       "added_at": null,
@@ -663,6 +615,54 @@
       "duration_ms": 189600,
       "name": "Pop It Off",
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        },
+        {
+          "name": "Kidd Kidd",
+          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ],
+      "duration_ms": 286906,
+      "name": "Mrs. Officer",
+      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
+      "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
     },
     {
       "added_at": null,

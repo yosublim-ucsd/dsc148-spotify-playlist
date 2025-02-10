@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,683 likes - 295 songs - 15 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,393 likes - 295 songs - 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

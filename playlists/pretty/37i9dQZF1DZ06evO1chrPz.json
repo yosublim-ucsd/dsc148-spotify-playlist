@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 202700,
+  "num_followers": 202720,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADUq2fbXkX79ZdIsjTGi1lz",
+  "snapshot_id": "Z6aegAAAAAATVOD10MpastywcJciw8ug",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 366160,
       "name": "You Make Me Brave (Live)",
       "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "He Has Done Great Things (Live)",
-        "url": "https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 355706,
-      "name": "He Has Done Great Things - Live",
-      "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 294155,
       "name": "Surrounded By Holy",
       "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "He Has Done Great Things (Live)",
+        "url": "https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 355706,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
     },
     {
       "added_at": null,

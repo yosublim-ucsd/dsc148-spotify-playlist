@@ -4,7 +4,7 @@
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 36 min
+68 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 | 2024-01-10 |  |
 | [For the Rest of Your Life](https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 3:18 | 2024-01-10 | 2025-01-28 |
 | [Free Them \(feat\. Teddy Swims\)](https://open.spotify.com/track/0kdIxHnIj3Tk9tcj1fOUaH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:12 | 2024-01-10 | 2024-07-10 |
+| [Funeral](https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:54 | 2025-02-10 |  |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-15 | 2024-10-04 |
-| [Funeral](https://open.spotify.com/track/6BmqySE91w6AUWvIxDHtqc) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB) | 3:54 | 2024-10-04 |  |
+| [Funeral](https://open.spotify.com/track/6BmqySE91w6AUWvIxDHtqc) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB) | 3:54 | 2024-10-04 | 2025-02-10 |
 | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-08 |  |
 | [Goodbye's Been Good to You](https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:44 | 2024-01-10 |  |
 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 | 2024-04-29 |  |
@@ -45,7 +46,7 @@
 | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw) | 4:55 | 2024-01-10 |  |
 | [Hold Me](https://open.spotify.com/track/1o3kKSPLb3hLAlHfsWDrO1) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:18 | 2024-01-10 | 2025-01-29 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I Can't Make You Love Me](https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9) | 3:56 | 2024-01-10 |  |
-| [It Ain’t Easy](https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 4:05 | 2025-01-30 |  |
+| [It Ain’t Easy](https://open.spotify.com/track/38HVbWr4GEccBlstZYPUcA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 4:05 | 2025-01-30 | 2025-02-10 |
 | [L.I.F.E.](https://open.spotify.com/track/3QVlMl0HR3ltlbFpzKvBi4) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 2:34 | 2024-01-10 |  |
 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-01-10 |  |
 | [Lose Control \- Piano Version](https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Alt\. Versions\)](https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL) | 3:26 | 2024-07-01 |  |
@@ -72,7 +73,7 @@
 | [Til I Change Your Mind](https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:08 | 2024-01-10 |  |
 | [What More Can I Say](https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:21 | 2024-01-10 |  |
 | [What's Going On](https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What's Going On](https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N) | 3:49 | 2024-01-10 |  |
-| [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 | 2024-01-10 | 2025-01-27 |
+| [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 | 2024-01-10 |  |
 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 | 2024-01-10 |  |
 | [Your Kind of Crazy](https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:02 | 2025-01-27 |  |
 

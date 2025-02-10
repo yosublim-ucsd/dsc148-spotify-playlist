@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,345 likes - 42 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,386 likes - 42 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 10 | [Me Espera \- Ao Vivo](https://open.spotify.com/track/2v9uX8MdVInhpItltNILMD) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 3:23 |
 | 11 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 |
 | 12 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 |
-| 13 | [Se Não Chorar com Pagode \- Ao Vivo](https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 |
+| 13 | [Saudade da Gente \- Ao Vivo](https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:07 |
 | 14 | [Coração Deserto / Ninguém Merece Amar Sozinho / A Primeira Namorada \- Ao Vivo](https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 7:31 |
 | 15 | [Já Tentei \- Ao Vivo](https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Jogando em Casa \(Ao Vivo\)](https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK) | 3:39 |
 | 16 | [Perfume \- Ao Vivo](https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:01 |
-| 17 | [Saudade da Gente \- Ao Vivo](https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:07 |
+| 17 | [Se Não Chorar com Pagode \- Ao Vivo](https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 |
 | 18 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 |
 | 19 | [Paciência \(Participação especial de Ludmilla\) \- Ao vivo](https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:53 |
 | 20 | [Amor Difícil \- Ao vivo](https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 3:40 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 41 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
 | 42 | [Fora de Si \- Ao Vivo](https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:27 |
 
-Snapshot ID: `Z6VNAAAAAACkcRZ47rOvl4AdanswKizd`
+Snapshot ID: `Z6aegAAAAABVSs99kHPu6zGyrV3rtNaJ`

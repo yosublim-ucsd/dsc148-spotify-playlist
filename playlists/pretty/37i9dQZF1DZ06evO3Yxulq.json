@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40492,
+  "num_followers": 40497,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAAqu/3QnkrZ3c+wq7a3qgRo",
+  "snapshot_id": "Z6aegAAAAACzhqN+LlCK0a7Lx8GYpRnD",
   "tracks": [
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Sal",
-        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Por la Eternidad",
-      "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 245621,
       "name": "Cristo Es Necesario",
       "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 266253,
+      "name": "Por la Eternidad",
+      "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
     },
     {
       "added_at": null,

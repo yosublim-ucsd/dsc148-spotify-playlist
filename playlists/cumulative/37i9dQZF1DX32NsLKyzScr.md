@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,202 songs - 2 day 17 hr 17 min
+1,203 songs - 2 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [I Don't Wanna Wait \- Hypaton Remix](https://open.spotify.com/track/0fWEiUDScOulPx57WQk1Bo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [I Don't Wanna Wait \- Hypaton Remix](https://open.spotify.com/album/7269TmKPMOZsr5uAknL9AC) | 3:22 | 2024-05-17 | 2024-10-05 |
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2021-09-04 | 2022-03-12 |
 | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [DJ White Shadow](https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1), [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1) | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/album/0bGTfamwl2XVCrXcWAhx6P) | 2:36 | 2021-12-03 | 2022-07-09 |
+| [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 | 2025-02-07 |  |
 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2023-02-10 | 2024-07-13 |
 | [I Just Got 2](https://open.spotify.com/track/0v5I3HwpNzrwfl5ffI0RNZ) | [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [I Just Got 2](https://open.spotify.com/album/7f6eZI7qRX6LHzXiuYFqWY) | 2:22 | 2020-09-21\* | 2021-02-20 |
 | [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2023-01-13 | 2023-04-22 |
@@ -1116,7 +1117,7 @@
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-18 | 2022-05-19 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-01-21 | 2022-04-21 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 |  |
-| [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-06 |  |
+| [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-06 | 2025-02-10 |
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-06-26 | 2021-09-18 |
 | [Vibe \(If I Back It Up\) \- Majestic Remix](https://open.spotify.com/track/1NkZiKrhiBeqGrTeYz3QGs) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Vibe \(If I Back It Up\) \[Majestic Remix\]](https://open.spotify.com/album/29gbZxe1JARSl91Bz7s3db) | 4:08 | 2020-09-21\* | 2021-01-23 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-21 | 2024-07-13 |

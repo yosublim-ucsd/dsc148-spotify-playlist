@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,538 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,558 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 23 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 |
 | 24 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
 | 25 | [LAS BABYS](https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:33 |
-| 26 | [Berlín](https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Berlín](https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK) | 2:26 |
-| 27 | [La Electricidad](https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Likes y Cicatrices](https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO) | 3:55 |
+| 26 | [La Electricidad](https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Likes y Cicatrices](https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO) | 3:55 |
+| 27 | [Berlín](https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Berlín](https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK) | 2:26 |
 | 28 | [La última](https://open.spotify.com/track/3QMbspb1zO1XaREaQrRUh2) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 3:36 |
 | 29 | [24 Rosas](https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:47 |
 | 30 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 50 | [Coldplay](https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Coldplay](https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk) | 3:03 |
 | 51 | [Nada Sale Mal](https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:09 |
 
-Snapshot ID: `Z6VNAAAAAAD9QYIBQ0G0lNW0hbC6QXyf`
+Snapshot ID: `Z6aegAAAAABn326JphL1WAWIGCE8CrtT`

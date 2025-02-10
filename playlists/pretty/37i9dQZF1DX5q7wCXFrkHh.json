@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 115346,
+  "num_followers": 115412,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 429266,
-      "name": "Watermelon Man - Remastered 2007",
-      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -179,6 +163,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 429266,
+      "name": "Watermelon Man - Remastered 2007",
+      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "From Gagarin's Point of View",
         "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Plays Misty",
-        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Breakin' It Up",
         "url": "https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 236000,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Plays Misty",
+        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -271,6 +271,22 @@
       "duration_ms": 379533,
       "name": "Curves",
       "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 894733,
+      "name": "K\u00f6ln, January 24, 1975, Part II a - Live",
+      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -311,22 +327,6 @@
       "duration_ms": 349493,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "The K\u00f6ln Concert",
-        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 894733,
-      "name": "K\u00f6ln, January 24, 1975, Part II a - Live",
-      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "You Look Good To Me",
+      "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Explorations",
         "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
       },
@@ -435,18 +451,34 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+        "name": "Count 'Em 88",
+        "url": "https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 289226,
-      "name": "You Look Good To Me",
-      "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
+      "duration_ms": 232506,
+      "name": "Volga Boatman",
+      "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Gee Baby, Ain't I Good To You",
+      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -471,22 +503,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Count 'Em 88",
-        "url": "https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Volga Boatman",
-      "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 214440,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Gee Baby, Ain't I Good To You",
-      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Dave Brubeck's Greatest Hits",
         "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
       },
@@ -619,6 +603,38 @@
       "duration_ms": 244786,
       "name": "We Will Meet Again - Remastered",
       "url": "https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "My Spanish Heart",
         "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 319066,
       "name": "Armando's Rhumba",
       "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 273706,
+      "name": "Sometime Ago - Remastered",
+      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "This Here Is Bobby Timmons",
-        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
-      },
-      "artists": [
-        {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        }
-      ],
-      "duration_ms": 324160,
-      "name": "Dat Dere",
-      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Monk's Dream",
         "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
         }
       ],
-      "duration_ms": 273706,
-      "name": "Sometime Ago - Remastered",
-      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
+      "duration_ms": 324160,
+      "name": "Dat Dere",
+      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Jazz p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
+        }
+      ],
+      "duration_ms": 114693,
+      "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
+      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Some More Love Songs",
         "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 172600,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Jazz p\u00e5 svenska",
-        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 114693,
-      "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
-      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 378426,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 227323,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 378426,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Jazz Impressions Of New York",
-        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Theme From \"Mr. Broadway\"",
-      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Art Tatum Solo Masterpieces, Vol. 7",
         "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 235093,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Jazz Impressions Of New York",
+        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Theme From \"Mr. Broadway\"",
+      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
+      },
+      "artists": [
+        {
+          "name": "Michel Petrucciani",
+          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Memories Of Paris",
+      "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 278640,
       "name": "\u00datviklingssang",
       "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
-      },
-      "artists": [
-        {
-          "name": "Michel Petrucciani",
-          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Memories Of Paris",
-      "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Serenade To \"Laura\"",
+        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Serenade To \"Laura\"",
-        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
         }
       ],
-      "duration_ms": 160200,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
+      "duration_ms": 292333,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1307,38 +1323,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Tiger Rag",
-      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The John Lewis Piano",
         "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
       },
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Nightconcert",
-        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 333581,
-      "name": "No More Shadows",
-      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Eclypso",
         "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
@@ -1403,8 +1371,8 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
       "artists": [
         {
@@ -1412,9 +1380,25 @@
           "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
+      "duration_ms": 138306,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Nightconcert",
+        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 333581,
+      "name": "No More Shadows",
+      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1451,22 +1435,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Trio And Quintet",
-        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
-      },
-      "artists": [
-        {
-          "name": "Elmo Hope Trio",
-          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
       },
@@ -1479,6 +1447,22 @@
       "duration_ms": 494213,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Trio And Quintet",
+        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
+      },
+      "artists": [
+        {
+          "name": "Elmo Hope Trio",
+          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Written In The Stars",
-        "url": "https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S"
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
       },
       "artists": [
         {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 404666,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V"
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1555,6 +1539,22 @@
       "duration_ms": 423440,
       "name": "Now He Sings, Now He Sobs",
       "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Written In The Stars",
+        "url": "https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V"
     },
     {
       "added_at": "2024-07-08 06:57:40",

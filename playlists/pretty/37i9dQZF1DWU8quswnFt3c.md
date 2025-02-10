@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,688 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,151 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
 | 35 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 |
 | 36 | [Hartita de Llorar](https://open.spotify.com/track/0Mw0eiKbelPtJvN3WkLakf) | [Lachispa](https://open.spotify.com/artist/3HicHd9spplU6i1mYtRCHx) | [Hartita de Llorar](https://open.spotify.com/album/4Ri9HhBxUW8gPwfPq8qOUB) | 2:38 |
-| 37 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
-| 38 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 37 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 38 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
 | 39 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
 | 40 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
 | 41 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 |
 | 46 | [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 |
 | 47 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
-| 48 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 |
-| 49 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
+| 48 | [Best Lover](https://open.spotify.com/track/0uXLCWhlJnwPNccIezaaRK) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/4leDpd36PQv8xUhZGA06q3) | 2:32 |
+| 49 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 |
 | 50 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
 | 51 | [10 Things I Hate About You](https://open.spotify.com/track/38LgZDMTGl4l3xFmiXlgZx) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/4cYlVwJn4rgLeb1X8SrfAW) | 2:37 |
 | 52 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 58 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
 | 59 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
 | 60 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/4TVlo7hVwm2Gx37EqbC0Ds), [Pháo](https://open.spotify.com/artist/47CxuOSQXSPpW6oAy4UZec) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 |
-| 61 | [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 |
-| 62 | [Buttalo via](https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [GASSA D'AMANTE](https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw) | 4:07 |
+| 61 | [Buttalo via](https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [GASSA D'AMANTE](https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw) | 4:07 |
+| 62 | [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 |
 | 63 | [SORRY SORRY SO](https://open.spotify.com/track/11xetuoePB2rJVebU4pjV1) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:25 |
 | 64 | [New Energy](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [New Energy](https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW) | 2:58 |
 | 65 | [過期](https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [過期](https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp) | 2:03 |

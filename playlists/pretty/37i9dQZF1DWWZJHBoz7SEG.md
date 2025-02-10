@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Música fresca para el corazón con Yuridia y Alejandro Fernández en portada 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,796 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,051 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

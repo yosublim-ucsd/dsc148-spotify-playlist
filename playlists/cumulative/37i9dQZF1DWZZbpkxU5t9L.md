@@ -4,7 +4,7 @@
 
 > いま話題の曲を週末にまとめてチェック。Cover: Kendrick Lamar
 
-3,132 songs - 7 day 16 hr 17 min
+3,133 songs - 7 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1855,6 +1855,7 @@
 | [Take Me Maybe](https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut) | 3:27 | 2023-01-27 | 2023-02-04 |
 | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Take Me to the Beach \(feat\. Ado\)](https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ) | 2:47 | 2024-12-21 | 2024-12-28 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 | 2023-11-18 |
+| [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-07 |  |
 | [Talk 2 Me](https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:02 | 2024-12-13 | 2024-12-21 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-11-03 | 2023-11-11 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-14 | 2024-06-22 |

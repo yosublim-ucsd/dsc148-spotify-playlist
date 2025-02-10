@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: distraction4ever",
-  "num_followers": 6126,
+  "num_followers": 6131,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Cours, Cora, cours / Journal d'un loup-garou",
-        "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Journal d'un loup-garou",
-      "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Le th\u00e9 est pr\u00eat",
         "url": "https://open.spotify.com/album/5Pd99vuVYdne7PCZFIBvsh"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+        "name": "Cours, Cora, cours / Journal d'un loup-garou",
+        "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
       },
       "artists": [
         {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
         }
       ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+      "duration_ms": 219200,
+      "name": "Journal d'un loup-garou",
+      "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -547,6 +531,22 @@
       "duration_ms": 202996,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -599,22 +599,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
-        "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
       "artists": [
         {
-          "name": "Backxwash",
-          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
-        },
-        {
-          "name": "Ada Rook",
-          "url": "https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 298336,
-      "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
-      "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -635,6 +631,26 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
+        "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
+        "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
+      },
+      "artists": [
+        {
+          "name": "Backxwash",
+          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
+        },
+        {
+          "name": "Ada Rook",
+          "url": "https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY"
+        }
+      ],
+      "duration_ms": 298336,
+      "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
+      "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
         "name": "Quand la nuit tombe",
         "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
@@ -651,38 +667,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
-      },
-      "artists": [
-        {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Darl\u00e8ne",
         "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "L\u00e9o",
-        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
-      },
-      "artists": [
-        {
-          "name": "Alex Pic",
-          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "L\u00e9o",
-      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 286826,
       "name": "La hi\u00e9rarchill",
       "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "L\u00e9o",
+        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "L\u00e9o",
+      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "SIMULATION FREESTYLE",
         "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 150923,
       "name": "SIMULATION FREESTYLE",
       "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Demande sp\u00e9ciale",
-        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 175168,
-      "name": "Demande sp\u00e9ciale",
-      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Gants blancs",
         "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 214792,
       "name": "Gants blancs",
       "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Demande sp\u00e9ciale",
+        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 175168,
+      "name": "Demande sp\u00e9ciale",
+      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
       "artists": [
         {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     }
   ],
   "unique_name": "ALT_QC",

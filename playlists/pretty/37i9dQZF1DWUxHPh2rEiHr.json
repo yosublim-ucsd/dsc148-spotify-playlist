@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Ela Taubert & Joe Jonas ",
-  "num_followers": 498676,
+  "num_followers": 498689,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,18 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Tu Boda",
-        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 225880,
-      "name": "Tu Boda",
-      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -115,18 +111,22 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "Tu Boda",
+        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 225880,
+      "name": "Tu Boda",
+      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -283,26 +283,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "WE PRAY",
-        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "WE PRAY - Single Version",
-      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
         "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "WE PRAY",
+        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "WE PRAY - Single Version",
+      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
         "name": "WOLEDTO",
         "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 116492,
       "name": "Callin' U (Tamally Maak)",
       "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
     },
     {
       "added_at": "2025-01-31 09:27:20",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-01-31 09:27:20",
       "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "added_at": "2025-01-31 09:27:20",
+      "album": {
         "name": "X'CLUSIVO (REMIX)",
         "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 208133,
       "name": "X'CLUSIVO - REMIX",
       "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
-    },
-    {
-      "added_at": "2025-01-31 09:27:20",
-      "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
     },
     {
       "added_at": "2025-01-31 09:27:20",

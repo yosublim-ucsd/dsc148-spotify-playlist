@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622 likes - 210 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 623 likes - 210 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 67 | [bored](https://open.spotify.com/track/4J1O1ERHhqtkOfdF9L6zyG) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:56 |
 | 68 | [Tribe](https://open.spotify.com/track/471WEvxNMHIoybCV9lw64v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41) | [Pitch Perfect 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ghztb1E7auvrtaXmcRqbV) | 3:09 |
 | 69 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
-| 70 | [I Kinda Like It](https://open.spotify.com/track/5vrv1dNfzfIm2goUCCKYbt) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [I Kinda Like It](https://open.spotify.com/album/0p65p4f4r0riFim81Por6k) | 3:10 |
-| 71 | [What If It Doesn't End Well](https://open.spotify.com/track/7iAONiacXnWa66oZD0aVHh) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:41 |
+| 70 | [What If It Doesn't End Well](https://open.spotify.com/track/7iAONiacXnWa66oZD0aVHh) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:41 |
+| 71 | [I Kinda Like It](https://open.spotify.com/track/5vrv1dNfzfIm2goUCCKYbt) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [I Kinda Like It](https://open.spotify.com/album/0p65p4f4r0riFim81Por6k) | 3:10 |
 | 72 | [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 |
 | 73 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 74 | [the way i used to](https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:15 |
@@ -89,17 +89,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 79 | [Monster](https://open.spotify.com/track/1uQiAP6sqz81780Rp1JOO8) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Monster](https://open.spotify.com/album/5P5o7y3ogkS7dBlIZY8YjV) | 3:33 |
 | 80 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 |
 | 81 | [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 |
-| 82 | [Keep Up](https://open.spotify.com/track/6yrOS1fhNjS9QjhoixoLTl) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Keep Up](https://open.spotify.com/album/2I5SvGoQtN6gBaIRJqNuDH) | 3:52 |
-| 83 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 82 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 83 | [Keep Up](https://open.spotify.com/track/6yrOS1fhNjS9QjhoixoLTl) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Keep Up](https://open.spotify.com/album/2I5SvGoQtN6gBaIRJqNuDH) | 3:52 |
 | 84 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 |
-| 85 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 |
-| 86 | [Buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 |
+| 85 | [Buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 |
+| 86 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 |
 | 87 | [3am](https://open.spotify.com/track/5IhYE4xh3gyZ9uFqsp7SUK) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:39 |
 | 88 | [Nobody Fools Me Twice](https://open.spotify.com/track/15plYeh2zcYmW9CO1M9YzN) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Nobody Fools Me Twice](https://open.spotify.com/album/6rUA6B33RkZkjRJu2pEnAn) | 2:33 |
 | 89 | [Hair](https://open.spotify.com/track/20xJN09dBJBEImfp9NPdGb) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Hair](https://open.spotify.com/album/6aoeLVMwa68Mn1QVYqbSw2) | 2:34 |
 | 90 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
-| 91 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
-| 92 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 |
+| 91 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 |
+| 92 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
 | 93 | [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 |
 | 94 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 |
 | 95 | [Feels Like](https://open.spotify.com/track/2xW3wiXtNHUsENQLrHf4X0) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:19 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 209 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 210 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbpEyAAAAADFVtCZXD3+wmeoTx7u+na5`
+Snapshot ID: `AbpKXgAAAABA7tyAj0RS6auRrL2r9XQb`

@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 203595,
       "name": "Dream team",
       "url": "https://open.spotify.com/track/6WrM6GnzCkfv075p1KN6fi"
@@ -6838,6 +6838,28 @@
       "duration_ms": 283413,
       "name": "Striptease",
       "url": "https://open.spotify.com/track/5kILHrfMHQ4eFHZqnu4yY3"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Supernova (feat. Noah Carter)",
+      "url": "https://open.spotify.com/track/7lVulCaDsVV36C9IsaerEg"
     },
     {
       "album": {

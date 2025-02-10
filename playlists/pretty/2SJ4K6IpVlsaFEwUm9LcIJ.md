@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,702 likes - 39 songs - 2 hr 36 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,706 likes - 42 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Shoot](https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [Shoot](https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx) | 1:36 |
 | 38 | [Hewlett](https://open.spotify.com/track/2lXcKxWjdpdYq5ywSuO8kq) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [The Fascinating Chimera Project](https://open.spotify.com/album/5vXWQ39mAfzbsshrH7cAcb) | 1:32 |
 | 39 | [Winter in America](https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1) | [Doug Ashdown](https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ) | [No Cheap Grace](https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl) | 4:16 |
+| 40 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 |
+| 41 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 |
+| 42 | [Jesus Sandals](https://open.spotify.com/track/1PX7OTFrT9raDrni7D6hqU) | [Ditch Effort](https://open.spotify.com/artist/1jy0qPVR1NXcxqofegK8Je) | [Mixed Bag](https://open.spotify.com/album/04lW466iMxY4odpN22tsQm) | 1:51 |
 
-Snapshot ID: `AAAL0SqMQnLPgHjrZKZP9lhzLzXG9M7D`
+Snapshot ID: `AAAL1LJjMGOiYm01/GhSRBz7dKCRs8ve`

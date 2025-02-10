@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 112077,
+  "num_followers": 112097,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAAdS4nGWyphQkV46i4tD5QN",
+  "snapshot_id": "Z6aegAAAAADkcTWLQX+kbcTFFytGv9k4",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pato Nada",
         "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 164989,
       "name": "El Pato Nada",
       "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey Del Desierto",
         "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9"
     },
     {
       "added_at": null,

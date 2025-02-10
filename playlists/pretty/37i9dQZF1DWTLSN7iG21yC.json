@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 896738,
+  "num_followers": 896706,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200379,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 200379,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
     },
     {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 192317,
+      "name": "Hammer to the Heart",
+      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+    },
+    {
       "added_at": "2024-08-28 15:36:32",
       "album": {
         "name": "WE PRAY",
@@ -483,38 +499,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Hammer to the Heart",
-      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210251,
-      "name": "the 1",
-      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 210251,
+      "name": "the 1",
+      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Do It Like That",
-        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145065,
-      "name": "Do It Like That",
-      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 165619,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
       "url": "https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "working",
-        "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 210219,
-      "name": "working",
-      "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "working",
+        "url": "https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 210219,
+      "name": "working",
+      "url": "https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 164027,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 164027,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Love Back",
-        "url": "https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 185850,
-      "name": "Love Back",
-      "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Love Back",
+        "url": "https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "Love Back",
+      "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Sorry To Me Too",
         "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 172536,
       "name": "Alright",
       "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 175222,
       "name": "barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD"
     },
     {
       "added_at": "2024-08-12 14:52:05",

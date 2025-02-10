@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With LAVE, The Wild Wind, The Strike and more",
+  "description": "With The Wild Wind, LAVE, Laureline and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 204556,
       "name": "Call Me a Fool",
       "url": "https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj"
@@ -6038,7 +6038,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 216250,
       "name": "Dream",
       "url": "https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg"
@@ -10772,7 +10772,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/3ACAmxuzuT9cyKTtCZ4WGn"
@@ -11132,7 +11132,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
@@ -18400,7 +18400,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 217656,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs"
@@ -19580,7 +19580,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 133500,
       "name": "SEVENTIMES",
       "url": "https://open.spotify.com/track/731ASNzL6ClNT4UOYfEFEA"
@@ -20430,7 +20430,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 265506,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
@@ -22126,7 +22126,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 274892,
       "name": "The Getaway",
       "url": "https://open.spotify.com/track/0lPZOoUeMyRhnw5y8toFhS"
@@ -24438,7 +24438,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 293360,
       "name": "When It Hurts You",
       "url": "https://open.spotify.com/track/2K28PAjVBhB6jOUVyj7PLT"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 485387,
+  "num_followers": 485375,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABgv3PbCCK/EUWJ+0Aom96A",
+  "snapshot_id": "Z6aegAAAAAA+BVEF8PP5SuMB+s5uW5GM",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 143833,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 222800,
       "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 143833,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "W.E.R.K. Pt. II",
+      "url": "https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chill, dummy",
         "url": "https://open.spotify.com/album/1Jlt2mp0aew89zqL1S6l86"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 528480,
       "name": "Sleepdrone/Superposition",
       "url": "https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lizzobangers",
-        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "W.E.R.K. Pt. II",
-      "url": "https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn"
     },
     {
       "added_at": null,

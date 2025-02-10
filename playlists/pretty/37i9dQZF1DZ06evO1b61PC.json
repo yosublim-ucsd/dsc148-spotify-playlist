@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11144,
+  "num_followers": 11145,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAC7Ca8Ty7ThZp7GW0URXkHQ",
+  "snapshot_id": "Z6aegAAAAAA65L2iDCNNqaIRgKsTaaQ+",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like It's Over (feat. MNDR)",
         "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 318000,
       "name": "Like It's Over (feat. MNDR)",
       "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
     },
     {
       "added_at": null,

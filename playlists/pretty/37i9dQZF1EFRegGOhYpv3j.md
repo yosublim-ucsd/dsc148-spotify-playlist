@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 11 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
 | 12 | [WHAT I HAVE](https://open.spotify.com/track/6NQRyB65XYawngq6Cq1uKm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:58 |
 | 13 | [THE LITTLE THINGS](https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:57 |
-| 14 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 |
-| 15 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 14 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 15 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 |
 | 16 | [Interlude](https://open.spotify.com/track/0nkOSp2DLhgrElR8lPPteZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 0:45 |
 | 17 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 18 | [SUBJECT TO CHANGE](https://open.spotify.com/track/2JEWiDPkSPFc28NWLZoI9t) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 74 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 75 | [Space Traveler \- Lucy Remix](https://open.spotify.com/track/5ZeBGX6fqhzK237bzlvAi3) | [Florian Meindl](https://open.spotify.com/artist/3ifSx5yWok1sISs8J89omX), [Lucy](https://open.spotify.com/artist/7oVnuNTfcmObCIJ2DVvkk3) | [Time Illusion Remixes](https://open.spotify.com/album/2S56BIAz0orTVXIdGVTCzy) | 7:37 |
 
-Snapshot ID: `AbpEvgAAAADpujrtaZ3cgsUjn2WWtZZk`
+Snapshot ID: `AbpKXgAAAAAi5vkhDQxo3QZa+Y9m9Kwx`

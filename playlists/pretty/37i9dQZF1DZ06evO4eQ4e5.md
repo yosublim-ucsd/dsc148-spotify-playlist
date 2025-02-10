@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,836 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,857 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 47 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
 | 48 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 |
 | 49 | [A Punto](https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres De Manzanero](https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R) | 2:58 |
-| 50 | [Qué Sabe Nadie \- Versión Banda](https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:56 |
-| 51 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 |
+| 50 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 |
+| 51 | [Qué Sabe Nadie \- Versión Banda](https://open.spotify.com/track/7JDXtmBc3o0lUHNIHgniqf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:56 |
 | 52 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
 
-Snapshot ID: `Z6VNAAAAAADboX8E/mbkMALPEodCsRVB`
+Snapshot ID: `Z6aegAAAAAAPELGDMuisZ1TqcStFCnXt`

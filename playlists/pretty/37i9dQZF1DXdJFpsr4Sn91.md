@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Käärijä ja Hooja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,192 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,209 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

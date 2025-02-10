@@ -4,7 +4,7 @@
 
 > 100 canciones de la época nostálgica más reciente.
 
-147 songs - 9 hr 23 min
+148 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 | 2022-07-06 | 2024-04-19 |
 | [Asesíname](https://open.spotify.com/track/2NtS0rZ8MdnsJbLNRME6pg) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Rock And Roll Yo](https://open.spotify.com/album/3qPPzWHpuvFT0xHMyDrvS4) | 3:43 | 2024-03-25 |  |
 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 | 2022-07-06 |  |
-| [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 | 2024-03-25 |  |
+| [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 | 2024-03-25 | 2025-02-10 |
 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 | 2022-07-06 |  |
 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 | 2022-07-06 |  |
 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 | 2022-07-06 | 2024-09-27 |
@@ -127,6 +127,7 @@
 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 | 2022-07-06 |  |
 | [Sr\. Cobranza](https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 4:19 | 2022-07-06 |  |
 | [Tantas Escaleras](https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Las Pastillas del Abuelo](https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD) | 5:03 | 2022-07-06 | 2024-06-17 |
+| [Tesoro](https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Cuarto Creciente](https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8) | 4:50 | 2024-06-12 |  |
 | [Todo Sigue Igual](https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 3:34 | 2024-03-25 |  |
 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 | 2022-07-06 | 2024-04-19 |
 | [Tu Nombre \- Live](https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:20 | 2024-06-12 |  |

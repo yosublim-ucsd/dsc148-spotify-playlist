@@ -1,6 +1,6 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 99772,
+  "num_followers": 99790,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
         "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "El Mar No Cesa",
         "url": "https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 262706,
       "name": "La lluvia gris",
       "url": "https://open.spotify.com/track/3LWr1doKSH2hSfnE9kMX6U"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
       "added_at": "2024-01-25 15:55:50",

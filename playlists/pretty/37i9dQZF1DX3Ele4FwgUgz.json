@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 17476,
+  "num_followers": 17478,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Eutopia / EMOTION / stars we chase (\u9418 \u5d50\u73e0\u76e4)",
-        "url": "https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi"
-      },
-      "artists": [
-        {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Eutopia",
-      "url": "https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
@@ -215,6 +199,38 @@
       "duration_ms": 230693,
       "name": "EMOTION",
       "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u9418 \u5d50\u73e0\u76e4)",
+        "url": "https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Eutopia",
+      "url": "https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
+        "url": "https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "\u7e5a\u4e71\uff01\u30d3\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
-        "url": "https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T"
-      },
-      "artists": [
-        {
-          "name": "Nijigasaki High School Idol Club",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "\u7e5a\u4e71\uff01\u30d3\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
         "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 234240,
       "name": "\u6c7a\u610f\u306e\u5149",
       "url": "https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "NEO SKY, NEO MAP!",
+        "url": "https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "NEO SKY, NEO MAP!",
+      "url": "https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -379,6 +395,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
         "name": "ENJOY IT!",
         "url": "https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN"
       },
@@ -411,6 +443,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
+        "name": "\u8679\u8272Passions!",
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "\u8679\u8272Passions!",
+      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -423,38 +471,6 @@
       "duration_ms": 270040,
       "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "NEO SKY, NEO MAP!",
-        "url": "https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M"
-      },
-      "artists": [
-        {
-          "name": "Nijigasaki High School Idol Club",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "NEO SKY, NEO MAP!",
-      "url": "https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "Love U my friends",
         "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u8679\u8272Passions!",
-        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
-      },
-      "artists": [
-        {
-          "name": "Nijigasaki High School Idol Club",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "\u8679\u8272Passions!",
-      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -535,38 +519,6 @@
       "duration_ms": 253373,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "Infinity! Our wings!!",
-        "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
-      },
-      "artists": [
-        {
-          "name": "A\u30fbZU\u30fbNA",
-          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Infinity\uff01Our wings!!",
-      "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "\u5922\u3078\u306e\u4e00\u6b69",
-      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -596,9 +548,41 @@
           "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "\u5922\u3078\u306e\u4e00\u6b69",
+      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Infinity! Our wings!!",
+        "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Infinity\uff01Our wings!!",
+      "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -647,6 +631,22 @@
       "duration_ms": 257519,
       "name": "\u54c0\u6e29\u30ce\u8a69",
       "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
-        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
       "artists": [
         {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 252280,
-      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "PASTEL",
         "url": "https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 231440,
       "name": "PASTEL",
       "url": "https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
     },
     {
       "added_at": "2024-09-24 15:00:00",

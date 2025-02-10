@@ -1,6 +1,6 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 1569406,
+  "num_followers": 1569641,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
+      "added_at": "2024-11-27 22:58:49",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+    },
+    {
       "added_at": "2024-12-27 17:14:21",
       "album": {
         "name": "Flower Boy",
@@ -195,22 +215,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 233478,
-      "name": "Locked out of Heaven",
-      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "go steady",
         "url": "https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3"
       },
@@ -225,24 +229,20 @@
       "url": "https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r"
     },
     {
-      "added_at": "2024-11-27 22:58:49",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1103,38 +1119,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 116630,
-      "name": "Funny Thing",
-      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1157,20 +1141,20 @@
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
-      "added_at": "2024-11-27 23:04:09",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 215481,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+      "duration_ms": 116630,
+      "name": "Funny Thing",
+      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -1223,6 +1191,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2024-11-27 23:04:09",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
       "added_at": "2024-07-26 04:00:00",

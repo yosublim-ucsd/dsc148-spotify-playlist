@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 67395,
+  "num_followers": 67407,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 274560,
       "name": "It's My House",
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 355263,
       "name": "Dance (Disco Heat)",
       "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 362426,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Donna Summer (Re-Mastered & Expanded)",
         "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 262320,
       "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
       "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 362426,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "More, More, More",
-        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
-      },
-      "artists": [
-        {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
-        }
-      ],
-      "duration_ms": 197096,
-      "name": "What's Your Name, What's Your Number",
-      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Philadelphia International Records: The Tom Moulton Remixes",
         "url": "https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 750560,
       "name": "The Love I Lost - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "More, More, More",
+        "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 197096,
+      "name": "What's Your Name, What's Your Number",
+      "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     },
     {
       "added_at": "2024-09-07 16:02:33",

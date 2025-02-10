@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 275861,
+  "num_followers": 276020,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAABroLd+Uw6fftiabzEM1PG0",
+  "snapshot_id": "Z6aegAAAAABY7R46wRHLwtpkfDIUoha4",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 209038,
       "name": "Losers (Feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 159208,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 159208,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "Bottle and Mary Jane",
-      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "Bottle and Mary Jane",
+      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 199546,
       "name": "The Lost",
       "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,

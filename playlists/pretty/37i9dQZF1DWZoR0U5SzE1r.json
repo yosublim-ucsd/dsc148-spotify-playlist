@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Matt Redman",
-  "num_followers": 339770,
+  "num_followers": 339911,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -611,34 +611,34 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Run To The Father",
-        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
-      },
-      "artists": [
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Run To The Father",
-      "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
+      "duration_ms": 465744,
+      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
+      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -671,34 +671,74 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Move Your Heart",
-        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        },
-        {
-          "name": "Aaron Moses",
-          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 465744,
-      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
-      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Run To The Father",
+      "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/58triUtuAX5ZbfyOeogCJ6"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -735,46 +775,6 @@
       "duration_ms": 335906,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/58triUtuAX5ZbfyOeogCJ6"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 385053,
-      "name": "It Is Well (Live)",
-      "url": "https://open.spotify.com/track/7E3YInQ8ZQuZgQhu2Sfito"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 283964,
       "name": "Honey In The Rock - Live",
       "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 385053,
+      "name": "It Is Well (Live)",
+      "url": "https://open.spotify.com/track/7E3YInQ8ZQuZgQhu2Sfito"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "We Believe",
-      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 323866,
       "name": "Voice of Truth",
       "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "We Believe",
+      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 409986,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1131,18 +1147,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+        "name": "God Is Good! (Live)",
+        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 297640,
-      "name": "Praise You In This Storm",
-      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+      "duration_ms": 316250,
+      "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
+      "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1183,22 +1203,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "God Is Good! (Live)",
-        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
         }
       ],
-      "duration_ms": 316250,
-      "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
-      "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1215,22 +1231,6 @@
       "duration_ms": 257959,
       "name": "Build Your Kingdom Here",
       "url": "https://open.spotify.com/track/0yqWOXyvDtC2ol1Idz8r8J"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Battle Belongs",
+        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 287532,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 242160,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Battle Belongs",
-        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 287532,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 320026,
       "name": "You Are Holy (Prince Of Peace)",
       "url": "https://open.spotify.com/track/1gUoaZkPi7vMZdxMlGsGOw"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 568786,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+        "name": "Faithful God",
+        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 401760,
-      "name": "This I Believe (The Creed) - Live",
-      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
+      "duration_ms": 210013,
+      "name": "Faithful God",
+      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1671,18 +1667,38 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Faithful God",
-        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Faithful God",
-      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 401760,
+      "name": "This I Believe (The Creed) - Live",
+      "url": "https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1715,22 +1731,6 @@
       "duration_ms": 217000,
       "name": "Where The Spirit Of The Lord Is",
       "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "The Same Jesus",
         "url": "https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 253893,
       "name": "Christ Our Hope In Life And Death",
       "url": "https://open.spotify.com/track/2A8CedURGD092Wp2FfTnAC"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 326733,
-      "name": "Audience of One",
-      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Church Volume One (Live)",
         "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 516373,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 326733,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 383293,
-      "name": "Exalted Over All - Live",
-      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "The Darker The Night / The Brighter The Morning",
         "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 254840,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 383293,
+      "name": "Exalted Over All - Live",
+      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2303,6 +2303,26 @@
       "duration_ms": 314242,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Gold (Live)",
+        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 499053,
+      "name": "Gold - Live",
+      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2371,26 +2391,6 @@
       "duration_ms": 215426,
       "name": "Praise the Lord",
       "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
-        "name": "Gold (Live)",
-        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 499053,
-      "name": "Gold - Live",
-      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "spark. (Breakthrough) [Live]",
-        "url": "https://open.spotify.com/album/4lDc3WeiPnCgOdZubCaCIn"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 567093,
-      "name": "Breakthrough - Live",
-      "url": "https://open.spotify.com/track/2XhFEwJ2k9bPyfTwFbcu8k"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Maverick City Vol. 3 Part 1",
         "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 646239,
       "name": "Promises",
       "url": "https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "spark. (Breakthrough) [Live]",
+        "url": "https://open.spotify.com/album/4lDc3WeiPnCgOdZubCaCIn"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2XhFEwJ2k9bPyfTwFbcu8k"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "To Love a Fool",
-        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 280797,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 486944,
       "name": "Peace Be Still (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "To Love a Fool",
+        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 280797,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -3299,22 +3299,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "There Is More (Studio Sessions)",
-        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Who You Say I Am",
-      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -3327,6 +3311,22 @@
       "duration_ms": 300373,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "There Is More (Studio Sessions)",
+        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Who You Say I Am",
+      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -3383,26 +3383,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "A Beautiful Exchange",
-        "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Jad Gillies",
-          "url": "https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Forever Reign - Live",
-      "url": "https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Burning Lights",
         "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
@@ -3419,6 +3399,26 @@
       "duration_ms": 312963,
       "name": "Crown Him (Majesty)",
       "url": "https://open.spotify.com/track/23hpQH3gde7yxn89rBxksN"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "A Beautiful Exchange",
+        "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Jad Gillies",
+          "url": "https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Forever Reign - Live",
+      "url": "https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR"
     },
     {
       "added_at": "2024-12-11 10:16:32",

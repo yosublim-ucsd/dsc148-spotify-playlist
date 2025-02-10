@@ -1,6 +1,6 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 120599,
+  "num_followers": 120634,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 95466,
       "name": "Everybody Dies In Their Nightmares",
       "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "The Way Life Goes (feat. Oh Wonder)",
-      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
       },
@@ -455,18 +435,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 259146,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -487,6 +467,42 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "The Way Life Goes (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "deadroses",
         "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 245172,
       "name": "idfc",
       "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 119133,
-      "name": "Jocelyn Flores",
-      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -567,8 +567,8 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -599,62 +599,6 @@
       "duration_ms": 176971,
       "name": "Love Is Gone - Acoustic",
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Goodbyes (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 347226,
-      "name": "Marvins Room",
-      "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -683,6 +627,78 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 347226,
+      "name": "Marvins Room",
+      "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Goodbyes (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 183624,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Feel No Ways",
-      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -779,54 +763,6 @@
       "duration_ms": 116240,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 168684,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -847,6 +783,54 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 168684,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "The Perfect LUV Tape",
         "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 199993,
       "name": "Erase Your Social",
       "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     }
   ],
   "unique_name": "sad boy anthems",

@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 553570,
+  "num_followers": 553590,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -691,30 +691,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Heading Home",
         "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
       },
@@ -755,6 +731,50 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Higher (feat. iann dior)",
+        "url": "https://open.spotify.com/album/78MU91n8U1OTN0Co9OgQHw"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 203953,
+      "name": "Higher (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4OoYfejHABzYe2mG8p5s8b"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 170157,
       "name": "Dance with Me (feat. Thomas Rhett & Young Thug)",
       "url": "https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Higher (feat. iann dior)",
-        "url": "https://open.spotify.com/album/78MU91n8U1OTN0Co9OgQHw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 203953,
-      "name": "Higher (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4OoYfejHABzYe2mG8p5s8b"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -911,6 +911,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Believers",
+        "url": "https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 159077,
+      "name": "Believers",
+      "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Big (feat. Gunna)",
         "url": "https://open.spotify.com/album/4oAJhbdsokVDoLHMdbqtDP"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 156781,
       "name": "Big (feat. Gunna)",
       "url": "https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Believers",
-        "url": "https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 159077,
-      "name": "Believers",
-      "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Snacks (Supersize)",
+        "url": "https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Jacques (with \u202aTove Lo)",
+      "url": "https://open.spotify.com/track/79JqbyvbJ7Shub94aKID7P"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Another You (feat. The Vamps)",
         "url": "https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV"
       },
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Snacks (Supersize)",
-        "url": "https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Jacques (with \u202aTove Lo)",
-      "url": "https://open.spotify.com/track/79JqbyvbJ7Shub94aKID7P"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Nah (feat. Sinead Harnett)",
         "url": "https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk"
       },
@@ -1243,30 +1243,6 @@
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Wake Up With You",
-        "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Magnificence",
-          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Wake Up With You",
-      "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1311,6 +1287,30 @@
       "duration_ms": 157714,
       "name": "What If I Told You That I Love You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1J5ubGIOlUBT3t3WgfYidN"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Wake Up With You",
+        "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Magnificence",
+          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Wake Up With You",
+      "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Bend The Knee",
         "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 187402,
       "name": "Bend The Knee",
       "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1579,34 +1579,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 238245,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
       },
@@ -1663,6 +1635,34 @@
       "duration_ms": 141600,
       "name": "Be Okay (with HRVY)",
       "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 238245,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
     },
     {
       "added_at": "2025-02-07 03:01:15",

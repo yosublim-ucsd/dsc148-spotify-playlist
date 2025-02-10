@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: brkfstblend
 
-2,144 songs - 5 day 13 hr 55 min
+2,145 songs - 5 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [garden.](https://open.spotify.com/track/3FQGrW0IsZ0HKewjwq8bgQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER I: MEMENTO MOLLY](https://open.spotify.com/album/6D3UFoo05uS97YwuW8En48) | 3:35 | 2023-03-30 | 2023-04-28 |
 | [Gene](https://open.spotify.com/track/0Gh6U25xKdfiiPzNzAwsBM) | [Stone Flower Blooms](https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF) | [Gene](https://open.spotify.com/album/7MKF8cJtx42bxaFcEe0MI8) | 3:19 | 2023-09-26 | 2023-10-04 |
 | [Gene](https://open.spotify.com/track/1lx8OEz37PCZmcOkSYDbNV) | [Stone Flower Blooms](https://open.spotify.com/artist/4xrufp4lvhwz4DwmPNUICF) | [Gene](https://open.spotify.com/album/4gc5c2BtolLfv1Fii7cIZf) | 3:19 | 2023-09-26 | 2023-09-28 |
-| [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 | 2024-11-27 |  |
+| [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 | 2024-11-27 | 2025-02-10 |
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-04-13 |
 | [Getting Ready](https://open.spotify.com/track/5fCc8BqZJpPkVNZFXsMxDl) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Getting Ready](https://open.spotify.com/album/1jIMDnp4hR7eYZa1KzftSv) | 3:11 | 2023-12-07 | 2024-01-16 |
 | [ghost](https://open.spotify.com/track/4PnMehwWIc95zaEM3VF9Qw) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [ghost](https://open.spotify.com/album/4tAtPIxRdiS42KHFa4QIhA) | 3:48 | 2024-05-21 | 2024-05-29 |
@@ -1542,6 +1542,7 @@
 | [アンコール](https://open.spotify.com/track/1aS1dMvoCZVt0IPUSVVg2u) | [こがれ](https://open.spotify.com/artist/4hpoOuqcdqKGiQ8f7HUKlr) | [聴こえる](https://open.spotify.com/album/2hl5A9DhzrizbpUywoHvZo) | 3:43 | 2025-01-23 | 2025-01-29 |
 | [アンダーザサン](https://open.spotify.com/track/2DvpmT2AdkIYMzjLJtDE5N) | [鉄火](https://open.spotify.com/artist/22p4GZWnJAirONhy0SupZI) | [アンダーザサン](https://open.spotify.com/album/7a32W586FUM4q07jkJFM0V) | 2:26 | 2024-01-09 | 2024-01-17 |
 | [アンチクライマックス](https://open.spotify.com/track/1D845uRxF3MzpEGt7Ke40p) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [アンチクライマックス](https://open.spotify.com/album/6LAq9neMHi5Fo00hWmjhqx) | 3:47 | 2024-01-16 | 2024-01-24 |
+| [アンブレイラ](https://open.spotify.com/track/60uif2EvO1oRLFYrRImKvu) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [S'more](https://open.spotify.com/album/4Mm6hHkd1yrNWvBnHUuytQ) | 3:57 | 2025-02-05 |  |
 | [アーケード](https://open.spotify.com/track/6KYeNuXLUNIkctc8BHMpCB) | [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd), [LEAP](https://open.spotify.com/artist/4M9ZeqGRkEbvzhejyiDJjp), [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien) | [アーケード](https://open.spotify.com/album/7MzdppjZVQ8DQ303USurYR) | 3:36 | 2024-03-19 | 2024-03-27 |
 | [アーリーデイジー](https://open.spotify.com/track/3WgFhWsRcOUn3jE6ifdmHV) | [Ellipsick](https://open.spotify.com/artist/1jtFbKwxW3ZKJV5zvhWmiW) | [アーリーデイジー](https://open.spotify.com/album/5vG81LgUBNAzRdhlOfOQhI) | 3:29 | 2024-05-28 | 2024-06-05 |
 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 | 2024-01-04 | 2024-01-13 |

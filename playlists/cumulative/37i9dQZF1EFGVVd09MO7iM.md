@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-907 songs - 2 day 9 hr 51 min
+908 songs - 2 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,7 +572,7 @@
 | [Nigga Please](https://open.spotify.com/track/5ReE2XTaXTV3vmkEIAWJ7V) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Young Chris](https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:37 | 2024-06-20 |  |
 | [Niggy Nuts](https://open.spotify.com/track/1gVHT6x1gdFqO5JP6YFmu7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 3:40 | 2024-06-20 | 2024-06-22 |
 | [Night](https://open.spotify.com/track/26X50tiIvOem3M7pvJ2bm5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:13 | 2024-01-29 |  |
-| [Nightmares](https://open.spotify.com/track/2f2hbFjim051DVx0o8o4rU) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Can You Keep a Secret?](https://open.spotify.com/album/3tZMuGcIqKDhj2fTK7L3qS) | 2:24 | 2024-01-29 | 2025-02-09 |
+| [Nightmares](https://open.spotify.com/track/2f2hbFjim051DVx0o8o4rU) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Can You Keep a Secret?](https://open.spotify.com/album/3tZMuGcIqKDhj2fTK7L3qS) | 2:24 | 2024-01-29 |  |
 | [Nightmares \(feat\. Bilal & Pharrell Williams\)](https://open.spotify.com/track/37HUD7Mr1zOIDW1QuOgaZH) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 4:50 | 2024-01-29 |  |
 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 | 2025-01-09 |  |
 | [No Turning Back \(feat\. James Junior\)](https://open.spotify.com/track/53KjgbrsKcLqTW4cstj06g) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [James Junior](https://open.spotify.com/artist/3V4lVinkwdxxhWtT58RUkr) | [No Turning Back](https://open.spotify.com/album/5p1fhgKxJDSXZQy4u0r26a) | 4:14 | 2024-09-12 |  |
@@ -722,7 +722,8 @@
 | [Sing](https://open.spotify.com/track/6u0oHknFYrnUd42A6rvFly) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:55 | 2024-01-29 |  |
 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 | 2024-01-29 |  |
 | [Skinny Dippin'](https://open.spotify.com/track/0vJ9KaGcFgEW2xtzlQ46bE) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Wanderlust](https://open.spotify.com/album/4Y7tpOr9I0DwOwJe7CeTOe) | 3:19 | 2024-06-20 | 2024-06-22 |
-| [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-11 |  |
+| [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-11 | 2025-02-10 |
+| [Slave](https://open.spotify.com/track/2IzQ3rxa5bIOfesNCYCiMr) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:20 | 2025-02-09 |  |
 | [Slow Down](https://open.spotify.com/track/1FmeMRONpObCjib16FuG7P) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:30 | 2024-01-29 |  |
 | [Smile](https://open.spotify.com/track/1CtBWfrEodNcQNebJXK7lG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:46 | 2024-09-12 | 2025-01-29 |
 | [So Ambitious](https://open.spotify.com/track/0Oi1wJRbRy3ZP5phE9kNMC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:12 | 2024-01-29 |  |

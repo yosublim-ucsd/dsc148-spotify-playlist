@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAADcym9/3LzqneQGPh7BLO2A",
+  "snapshot_id": "Z6aegAAAAACea8epRN3PUUaONCbb1ZCI",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 246875,
       "name": "Oi, Sumido",
       "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 34 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,145 likes - 34 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 14 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C) | 4:01 |
 | 15 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
 | 16 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/6JeDB7vnShGrxmpBT3thpY) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:36 |
-| 17 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
-| 18 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
+| 17 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
+| 18 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
 | 19 | [Telepathy](https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:49 |
 | 20 | [Heaven Is Calling](https://open.spotify.com/track/7AQsECqHNK4QfO7LDKqiAm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:28 |
 | 21 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 33 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
 | 34 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/691WixUevM2PcSqt0hMTiH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:06 |
 
-Snapshot ID: `Z6VNAAAAAAC7Ca8Ty7ThZp7GW0URXkHQ`
+Snapshot ID: `Z6aegAAAAAA65L2iDCNNqaIRgKsTaaQ+`

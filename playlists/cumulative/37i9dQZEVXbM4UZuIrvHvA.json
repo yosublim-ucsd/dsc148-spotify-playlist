@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 267866,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 162834,
       "name": "Another Level",
       "url": "https://open.spotify.com/track/1YmY0HUm05BUpcHibc1bhB"
@@ -5175,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "WOLEDTO",
+        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116492,
+      "name": "Callin' U (Tamally Maak)",
+      "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -6234,7 +6252,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 228146,
       "name": "Close to You (Inst.)",
       "url": "https://open.spotify.com/track/6J48hy1freVjme4h7DFaDt"
@@ -9716,7 +9734,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 178838,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5jxuw4S5IDEY6CjjAHvRAt"
@@ -12328,7 +12346,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 177093,
       "name": "Heart on the Window (with WENDY)",
       "url": "https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa"
@@ -14312,7 +14330,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-10",
       "duration_ms": 156964,
       "name": "I will come to you",
       "url": "https://open.spotify.com/track/5s7flUAYsDmcUWtHsMCihv"
@@ -20294,7 +20312,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -23544,6 +23562,24 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
     },
     {
       "album": {
@@ -27904,7 +27940,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"

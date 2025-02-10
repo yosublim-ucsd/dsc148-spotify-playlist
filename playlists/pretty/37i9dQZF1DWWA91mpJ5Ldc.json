@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 130995,
+  "num_followers": 131020,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Banho de Folhas",
-        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 231017,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "Coisa de Acender",
         "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 347893,
       "name": "Boa Noite",
       "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -607,18 +607,18 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
       },
       "artists": [
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
         "name": "Curyman",
         "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 212573,
       "name": "Pra Vida",
       "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "A Pele do Futuro",
-        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 283137,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Quem Me Conhece Sabe",
-      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -1063,6 +1031,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
+        "name": "A Pele do Futuro",
+        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 283137,
+      "name": "Sublime",
+      "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
         "name": "Minha Cara",
         "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 237306,
       "name": "Entretanto",
       "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Quem Me Conhece Sabe",
+      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
     },
     {
       "added_at": "2025-01-02 14:44:47",

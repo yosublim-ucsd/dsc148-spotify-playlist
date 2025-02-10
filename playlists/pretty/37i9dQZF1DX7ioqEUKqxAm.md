@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: ラジオ知らねえ単語）
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 20 songs - 16 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 20 songs - 16 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

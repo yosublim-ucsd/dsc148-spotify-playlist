@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 230617,
+  "num_followers": 230631,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "From Bliss To Devestation",
         "url": "https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC"
       },
@@ -135,54 +151,6 @@
       "duration_ms": 153173,
       "name": "Pure Trauma",
       "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Start Today",
-        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Biscuits",
-          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
-        }
-      ],
-      "duration_ms": 123706,
-      "name": "Start Today",
-      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -219,18 +187,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
       },
       "artists": [
         {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+          "name": "Gorilla Biscuits",
+          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
         }
       ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+      "duration_ms": 123706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -247,6 +215,38 @@
       "duration_ms": 170453,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Friendship Loyalty Commitment",
-        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
-      },
-      "artists": [
-        {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "Over the Years",
-      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 210626,
       "name": "Get This Right!",
       "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Friendship Loyalty Commitment",
+        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
+      },
+      "artists": [
+        {
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "Over the Years",
+      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "God Loves Man Kills",
+        "url": "https://open.spotify.com/album/74mZMod95TaB70r5reWSdm"
+      },
+      "artists": [
+        {
+          "name": "One King Down",
+          "url": "https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "In The Blood",
+      "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Merciless",
         "url": "https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV"
       },
@@ -583,6 +599,22 @@
       "duration_ms": 220453,
       "name": "Shark Ethic",
       "url": "https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Words in Ink Don't Lie",
+        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
+      },
+      "artists": [
+        {
+          "name": "Endicott",
+          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Ransom Note",
+      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -619,22 +651,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "God Loves Man Kills",
-        "url": "https://open.spotify.com/album/74mZMod95TaB70r5reWSdm"
-      },
-      "artists": [
-        {
-          "name": "One King Down",
-          "url": "https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "In The Blood",
-      "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Get It Away",
         "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 153586,
       "name": "Caboose",
       "url": "https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Words in Ink Don't Lie",
-        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
-      },
-      "artists": [
-        {
-          "name": "Endicott",
-          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Ransom Note",
-      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Get It Away",
-        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
-      },
-      "artists": [
-        {
-          "name": "SS Decontrol",
-          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
-        }
-      ],
-      "duration_ms": 166190,
-      "name": "Get It Away",
-      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Few and Far Between",
         "url": "https://open.spotify.com/album/3Iq1fBUENsQ2PBGZ7MFvoh"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+        "name": "Get It Away",
+        "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
       },
       "artists": [
         {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+          "name": "SS Decontrol",
+          "url": "https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
+      "duration_ms": 166190,
+      "name": "Get It Away",
+      "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -791,6 +775,22 @@
       "duration_ms": 144413,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
     },
     {
       "added_at": "2024-02-07 16:33:52",

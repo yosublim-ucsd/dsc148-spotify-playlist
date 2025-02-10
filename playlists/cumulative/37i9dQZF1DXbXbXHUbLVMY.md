@@ -4,7 +4,7 @@
 
 > flusflusflus🚨
 
-284 songs - 12 hr 22 min
+285 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Hvor Som Helst](https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Tessas Hævn \(Igen Bitch\)](https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ) | 2:16 | 2023-09-21 | 2024-02-09 |
 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 | 2025-02-06 |  |
 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 | 2024-02-08 | 2024-06-01 |
+| [Hör Dig](https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Hör Dig](https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ) | 2:46 | 2025-02-06 |  |
 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 |  |
 | [IFA](https://open.spotify.com/track/7FR9RhaJnSnEywOJRxwJLv) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk) | [IFA](https://open.spotify.com/album/59rJFtuzmKx5TOgSfa2UMK) | 2:15 | 2024-10-17 | 2024-12-04 |
 | [Igjen](https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 2:29 | 2024-05-30 | 2024-10-12 |
@@ -248,7 +249,7 @@
 | [Sommerhus](https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sommerhus](https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y) | 2:21 | 2023-09-21 | 2024-08-16 |
 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 | 2024-09-26 |  |
 | [SOVA](https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:23 | 2024-02-08 | 2024-06-01 |
-| [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 | 2023-10-19 |  |
+| [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 | 2023-10-19 | 2025-02-10 |
 | [Stakken Pt\. II](https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Stakken Pt\. II](https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u) | 2:41 | 2023-11-09 | 2024-01-11 |
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 |  |
 | [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 | 2024-10-13 |

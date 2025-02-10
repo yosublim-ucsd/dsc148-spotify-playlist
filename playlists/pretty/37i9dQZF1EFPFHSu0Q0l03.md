@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,456 likes - 256 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,463 likes - 256 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,15 +103,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 93 | [Start a War](https://open.spotify.com/track/2Tk7IZ4XHXCGRFxSaP40qB) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:16 |
 | 94 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
 | 95 | [Vanderlyle Crybaby Geeks](https://open.spotify.com/track/66UByq6zEor86Vl3yjZXXK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 4:12 |
-| 96 | [You Had Your Soul With You](https://open.spotify.com/track/5cBrqDgmdbgH6ncuy1hGDs) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:26 |
-| 97 | [Full machine](https://open.spotify.com/track/6aLjt7QpLlVhqiMQulZcd1) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:15 |
+| 96 | [Full machine](https://open.spotify.com/track/6aLjt7QpLlVhqiMQulZcd1) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:15 |
+| 97 | [You Had Your Soul With You](https://open.spotify.com/track/5cBrqDgmdbgH6ncuy1hGDs) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:26 |
 | 98 | [This is what the drugs are for](https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 | 99 | [Good Luck Charlie](https://open.spotify.com/track/5VPx8XdiiTn5CoYNhTjMh4) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:56 |
 | 100 | [Carin at the Liquor Store](https://open.spotify.com/track/5nQJn8mJryraorVcTnIIOo) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:33 |
 | 101 | [Spark](https://open.spotify.com/track/26J3f0d3ZuN7g66xBdey8o) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:34 |
 | 102 | [Will you cry?](https://open.spotify.com/track/3UaaBFWIxrwDRc6pSisyuH) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:50 |
-| 103 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 |
-| 104 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
+| 103 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
+| 104 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 |
 | 105 | [Afraid of Everyone](https://open.spotify.com/track/2tke0O2wnNKYAZieWuG1ET) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 4:19 |
 | 106 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 |
 | 107 | [Mr\. November](https://open.spotify.com/track/6GmoLmBISzLomNjM18dFgz) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 4:00 |
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 166 | [The Geese of Beverly Road](https://open.spotify.com/track/6WunHEoxTFHMXeWYKrRhew) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 4:56 |
 | 167 | [Grease In Your Hair](https://open.spotify.com/track/5umWFm8z7wv3tPYc8Vw321) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 3:57 |
 | 168 | [Space Invader](https://open.spotify.com/track/5ce3o4fcZbZVdGCDkK6KN7) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 6:58 |
-| 169 | [Hymnostic](https://open.spotify.com/track/5IKfKPPzk7AFHTUGVVcD1B) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:02 |
-| 170 | [Think You Can Wait](https://open.spotify.com/track/0VTTTGSMwk4Q9Dw4L54SqR) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Win Win \(Music from the Motion Picture\)](https://open.spotify.com/album/5HwpeExZ99KUQr3Y69XIuk) | 4:37 |
+| 169 | [Think You Can Wait](https://open.spotify.com/track/0VTTTGSMwk4Q9Dw4L54SqR) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Win Win \(Music from the Motion Picture\)](https://open.spotify.com/album/5HwpeExZ99KUQr3Y69XIuk) | 4:37 |
+| 170 | [Hymnostic](https://open.spotify.com/track/5IKfKPPzk7AFHTUGVVcD1B) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:02 |
 | 171 | [Reese](https://open.spotify.com/track/4BQf6xntGFvZj7lPnJy3iG) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:12 |
 | 172 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
 | 173 | [Deep Green](https://open.spotify.com/track/4vvJPjHFnxpNIzWurp4rkW) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:59 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 255 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 256 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AbpEoAAAAADmDeFgbZzExuc9TLt7hlJS`
+Snapshot ID: `AbpKXgAAAACCDUPrhYOa5A5aPm3lA4Kw`

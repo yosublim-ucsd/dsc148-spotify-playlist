@@ -4,7 +4,7 @@
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 42 min
+96 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 | 2024-05-08 | 2024-07-06 |
 | [Waterfall](https://open.spotify.com/track/7pYFPMeK0TnaTGdS6qOtEr) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Waterfall](https://open.spotify.com/album/4j8Wr17zfsvxEpeTXHbrmL) | 3:20 | 2023-12-13 | 2023-12-30 |
 | [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2023-07-28 |  |
-| [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX) | 2:01 | 2024-12-08 |  |
+| [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/3SQ4TlJjloLCfiCvVYYN0J) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt) | 2:01 | 2025-02-10 |  |
+| [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX) | 2:01 | 2024-12-08 | 2025-02-10 |
 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\) \- Sped Up](https://open.spotify.com/track/7aUTVHluesNeM2KuZ7eEbb) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt) | 1:55 | 2025-01-12 | 2025-02-08 |
 | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/track/6x0v6SaLC9E4XY39efEeCs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:10 | 2024-04-30 | 2024-07-24 |
 

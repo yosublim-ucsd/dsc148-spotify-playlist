@@ -1,6 +1,6 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 66166,
+  "num_followers": 66171,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "From Elvis in Memphis",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -539,54 +539,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "When The Pawn...",
-        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 295133,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -607,6 +559,38 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
+        "name": "When The Pawn...",
+        "url": "https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 295133,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
     },
     {
       "added_at": "2023-10-19 16:59:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 157733,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up",
+      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Never, Never Gonna Give Ya Up",
-      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
     },
     {
       "added_at": "2023-08-14 15:33:44",

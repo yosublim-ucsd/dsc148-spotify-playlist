@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Amanda Reifer",
-  "num_followers": 645064,
+  "num_followers": 645060,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,38 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "You're Perfect",
+        "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "You're Perfect",
+      "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
       },
@@ -319,22 +351,6 @@
       "duration_ms": 198032,
       "name": "Higher Life",
       "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "You're Perfect",
-        "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "You're Perfect",
-      "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 175677,
       "name": "Toni-Ann Singh (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -487,6 +471,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Is This Love",
         "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 136318,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Talibhan",
-        "url": "https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Talibhan",
-      "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -583,6 +563,26 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "Talibhan",
+        "url": "https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Talibhan",
+      "url": "https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV"
       },
@@ -595,42 +595,6 @@
       "duration_ms": 222953,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -655,6 +619,42 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Bwoii Affi\" Watch Eh Style",
         "url": "https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 145794,
       "name": "Bwoii Affi\" Watch Eh Style",
       "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "History",
-      "url": "https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -723,22 +707,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        },
-        {
-          "name": "Dunw3ll",
-          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Third Time's The Charm",
         "url": "https://open.spotify.com/album/2twm4yeL6jW6SqZ2S0YaS7"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
     },
     {
       "added_at": "2024-07-16 11:23:58",

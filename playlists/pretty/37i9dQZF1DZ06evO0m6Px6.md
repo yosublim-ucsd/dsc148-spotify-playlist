@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 38 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 38 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 14 | [By Myself](https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Head Above the Waters](https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet) | 2:35 |
 | 15 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:55 |
 | 16 | [Cowboys](https://open.spotify.com/track/6TlPveqZiWf1o3dp3dsDeu) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:44 |
-| 17 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:21 |
-| 18 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
+| 17 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
+| 18 | [Holding Up The World \(feat\. Harrison & Albin Myers\)](https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [Neon Future II](https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W) | 3:21 |
 | 19 | [Believe In Love \(feat\. Aaron Tiem\)](https://open.spotify.com/track/2gM1dolKfhUzVyXiH4ZJ6A) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Aaron Tiem](https://open.spotify.com/artist/7jDrEieINdt1rQ1UFLnWhD) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 4:21 |
 | 20 | [7PM](https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:31 |
 | 21 | [Vertigo](https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:35 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 37 | [So Far From Home](https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:14 |
 | 38 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
 
-Snapshot ID: `Z6VNAAAAAAAovS+iee/6Dm1X7X4bnY+B`
+Snapshot ID: `Z6aegAAAAABSOeyG1KAijsh8uhGNnxjw`

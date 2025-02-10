@@ -4,7 +4,7 @@
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 49 min
+65 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Cobarde](https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 | 2023-03-10 |  |
 | [Como Tú](https://open.spotify.com/track/4uwQvY3meWjiwSjXbhydYA) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Como Tú](https://open.spotify.com/album/1bQWnxgPm6ORaX1UgOa60p) | 3:42 | 2023-03-10 | 2024-02-05 |
 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 | 2023-03-10 |  |
-| [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 | 2023-03-10 |  |
+| [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 | 2023-03-10 | 2025-02-10 |
 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 | 2023-05-22 |  |
 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 | 2023-03-10 | 2024-10-28 |
 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 | 2023-03-10 |  |
@@ -25,6 +25,7 @@
 | [En el Amor No Se Manda \(with Yuridia\)](https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Carlos Rivera](https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN) | 3:28 | 2023-03-10 |  |
 | [En Su Lugar \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:01 | 2023-03-10 |  |
 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 | 2023-03-10 |  |
+| [Evítame la Pena](https://open.spotify.com/track/5iit5JfhTCIXmTcxDYk3kG) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 2:43 | 2025-02-10 |  |
 | [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 | 2024-04-28 |  |
 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 | 2023-03-10 |  |
 | [La Duda \(Primera fila\) \- En Vivo](https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:23 | 2023-03-10 |  |

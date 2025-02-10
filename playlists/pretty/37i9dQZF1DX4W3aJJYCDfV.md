@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lady Gaga \(pictured\), LISA, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,585 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,622 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

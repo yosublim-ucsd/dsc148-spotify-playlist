@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 783787,
+  "num_followers": 783948,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAAC4ksMO0l4lxLnVmrI/qLUs",
+  "snapshot_id": "Z6aegAAAAABaICP0lhdQ7CG02zbeF4Fi",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
       },
       "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 188000,
-      "name": "LOU LOU",
-      "url": "https://open.spotify.com/track/3wtZAUizB7ReUKVuVsKWT7"
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
       "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+      "duration_ms": 188000,
+      "name": "LOU LOU",
+      "url": "https://open.spotify.com/track/3wtZAUizB7ReUKVuVsKWT7"
     },
     {
       "added_at": null,

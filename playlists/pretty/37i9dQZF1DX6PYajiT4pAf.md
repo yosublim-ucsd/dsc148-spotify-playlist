@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,088 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,126 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

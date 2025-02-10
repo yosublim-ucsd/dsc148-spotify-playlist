@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 206460,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "With A Lot O' Soul",
         "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
       },
@@ -511,50 +495,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Pray It Away",
-        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 156073,
-      "name": "Pray It Away",
-      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 359600,
-      "name": "So Much Things to Say - Live",
-      "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "NINA REVISITED: A Tribute to Nina Simone",
-        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        }
-      ],
-      "duration_ms": 399533,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+      "duration_ms": 206460,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -575,18 +527,50 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
       },
       "artists": [
         {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 207647,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0"
+      "duration_ms": 359600,
+      "name": "So Much Things to Say - Live",
+      "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Pray It Away",
+        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "Pray It Away",
+      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "NINA REVISITED: A Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        }
+      ],
+      "duration_ms": 399533,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Selah",
-      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
+      "duration_ms": 207647,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -675,22 +659,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 257776,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ"
       },
@@ -711,22 +679,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Passion Of The Christ: Songs",
-        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 345946,
-      "name": "The Passion",
-      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Nina with Strings",
         "url": "https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry"
       },
@@ -739,6 +691,22 @@
       "duration_ms": 243733,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Selah",
+      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -783,6 +751,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 257776,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 248466,
       "name": "Butterflyz",
       "url": "https://open.spotify.com/track/1TpATCBm9ex3N6q7b8rXgS"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Passion Of The Christ: Songs",
+        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 345946,
+      "name": "The Passion",
+      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
     },
     {
       "added_at": "2023-06-01 04:00:00",

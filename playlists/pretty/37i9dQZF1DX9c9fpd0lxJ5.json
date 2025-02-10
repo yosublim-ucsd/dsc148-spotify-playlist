@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 446683,
+  "num_followers": 446707,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Perreo Bonito",
-        "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 187561,
-      "name": "Perreo Bonito",
-      "url": "https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "to lo ke",
         "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
       },
@@ -439,6 +419,38 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Provincia",
+      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -455,6 +467,26 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Perreo Bonito",
+        "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 187561,
+      "name": "Perreo Bonito",
+      "url": "https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -491,38 +523,6 @@
       "duration_ms": 204193,
       "name": "Bailando mal",
       "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Provincia",
-      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Ritmo Natural",
-        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
       "artists": [
         {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Ritmo Natural",
-      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -863,22 +879,6 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
+        "name": "Un d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 202126,
+      "name": "Un d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Un d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Un d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
         "name": "Te Odio / Te Amo",
         "url": "https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
       },
       "artists": [
         {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
         }
       ],
-      "duration_ms": 168205,
-      "name": "Intr\u00e9pida",
-      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1479,22 +1463,6 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
         "name": "Hasta M\u00e1laga",
         "url": "https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx"
       },
@@ -1507,6 +1475,38 @@
       "duration_ms": 148229,
       "name": "Hasta M\u00e1laga",
       "url": "https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Intr\u00e9pida",
+      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+    },
+    {
+      "added_at": "2025-01-31 05:00:25",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2025-01-31 05:00:25",
@@ -1751,18 +1751,22 @@
     {
       "added_at": "2025-01-31 05:00:25",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
       "artists": [
         {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        },
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
         }
       ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+      "duration_ms": 178285,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
     }
   ],
   "unique_name": "indie feliz",

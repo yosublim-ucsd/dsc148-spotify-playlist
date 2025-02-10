@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,974 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,989 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 82 | [Old Fashion Love](https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Old Fashion Love](https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0) | 3:29 |
 | 83 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 |
 | 84 | [Moonlight](https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [oze](https://open.spotify.com/artist/629lX0tAfv9lHgedi8sJgL) | [Moonlight](https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw) | 2:49 |
-| 85 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
-| 86 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
-| 87 | [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 |
-| 88 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 |
+| 85 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
+| 86 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
+| 87 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 |
+| 88 | [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 |
 | 89 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
 | 90 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 |
 | 91 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 94 | [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 |
 | 95 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 |
 | 96 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 97 | [God Must Be Doing Cocaine](https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [God Must Be Doing Cocaine](https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7) | 3:14 |
-| 98 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
+| 97 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
+| 98 | [God Must Be Doing Cocaine](https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [God Must Be Doing Cocaine](https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7) | 3:14 |
 | 99 | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC) | [takeshi iwamoto](https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9) | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/album/2Es4yinpnkszumajLeesGb) | 3:42 |
 | 100 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 |
 

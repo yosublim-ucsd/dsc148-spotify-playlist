@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1418807,
+  "num_followers": 1418860,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6VNAAAAAACJGjtsa2HAZuw9ozoDPMKZ",
+  "snapshot_id": "Z6aegAAAAACzruIR6Zt7IiPjQ9pq1qrh",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MTG DA SIA - ANGEL BY THE WINGS",
         "url": "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 123187,
       "name": "MTG DA SIA - ANGEL BY THE WINGS",
       "url": "https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
     },
     {
       "added_at": null,
@@ -371,8 +371,28 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "Move Your Body - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX"
+        "url": "https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt"
       },
       "artists": [
         {
@@ -390,27 +410,7 @@
       ],
       "duration_ms": 121772,
       "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "Move Your Body - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+      "url": "https://open.spotify.com/track/3SQ4TlJjloLCfiCvVYYN0J"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 200645,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
       "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 252440,
-      "name": "Bird Set Free",
-      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
+      "duration_ms": 200645,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Bird Set Free",
+      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
     },
     {
       "added_at": null,

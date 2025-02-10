@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 45 | [lucky star](https://open.spotify.com/track/0Vmqffk8xvREgRCdUf3yfG) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 1:23 |
 | 46 | [No High](https://open.spotify.com/track/0IaqTay4n1JShXcfQBlVEJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 3:02 |
 | 47 | [Happiest Girl](https://open.spotify.com/track/1MzUTezJeXRqFRWBpa3U9m) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:47 |
-| 48 | [Distance](https://open.spotify.com/track/5HrHaeqSvIviQAmCZaPejd) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW) | 3:42 |
-| 49 | [Bite My Tongue](https://open.spotify.com/track/46H2plPamhaf0S64tdCEWK) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Neon From Now On](https://open.spotify.com/album/6yjozquVFNSroCrsOFwKQw) | 2:47 |
-| 50 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 |
-| 51 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 |
+| 48 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/47uY2r2IzVg8moQyAwmm83) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:12 |
+| 49 | [Distance](https://open.spotify.com/track/5HrHaeqSvIviQAmCZaPejd) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW) | 3:42 |
+| 50 | [Bite My Tongue](https://open.spotify.com/track/46H2plPamhaf0S64tdCEWK) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Neon From Now On](https://open.spotify.com/album/6yjozquVFNSroCrsOFwKQw) | 2:47 |
+| 51 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 |
 | 52 | [Five Past Ten](https://open.spotify.com/track/6iOQIQleZKnvWbPu9LZLnY) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Five Past Ten](https://open.spotify.com/album/0iEMgxSGCsUH77oJPtKFjT) | 3:31 |
 | 53 | [Strawberry Water](https://open.spotify.com/track/1VUDUqZizxZcgX6LZL8Mfp) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Problems](https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3) | 2:20 |
 | 54 | [GRUDGE](https://open.spotify.com/track/3F9lkDd91qdLnhkVtZxOGo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:12 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 59 | [Nail Gun](https://open.spotify.com/track/7CyrYDA2C74KHD6sFNmud1) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Far Too Loud](https://open.spotify.com/artist/6zL4UbVtrGZPjvTTeNKyAc) | [Squirm EP](https://open.spotify.com/album/3NhpQP1U1CmiALyZw7m4aH) | 4:07 |
 | 60 | [Teddy Bear](https://open.spotify.com/track/3iV7EY5EfDEtueI3sUGjon) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Teddy Bear](https://open.spotify.com/album/2tMxvr0VuZGMwCXqn4n8K6) | 2:59 |
 | 61 | [NEVER LOVED ANYONE BEFORE](https://open.spotify.com/track/4Ww8tuLk8Uc49Z6nCCdGVj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:54 |
-| 62 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 |
-| 63 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 |
+| 62 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 |
+| 63 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 |
 | 64 | [The Day Of The Locust](https://open.spotify.com/track/6BB80mPDvnkd5CceejCdXi) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 6:50 |
 | 65 | [Everything Forever](https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4) | 2:48 |
 | 66 | [Enter The Void](https://open.spotify.com/track/58xeEl5QLO0AGq7HoRV8Lt) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 5:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 89 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 90 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AbpEoAAAAABMk5po7TObe2D5QpWhYpa2`
+Snapshot ID: `AbpKXgAAAACaqjsSibjPDuHKQpljhEwA`

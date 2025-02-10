@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: 04 Limited Sazabys",
-  "num_followers": 126140,
+  "num_followers": 126180,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "MESSAGE",
+        "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "\u3042\u306a\u305f\u306b",
+      "url": "https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "BRING YOUR BOARD!!",
         "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "MESSAGE",
-        "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
-      },
-      "artists": [
-        {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "\u3042\u306a\u305f\u306b",
-      "url": "https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "DOOR",
         "url": "https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 301440,
       "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
       "url": "https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "Pepperoni Quattro",
-        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "Pepperoni Quattro",
+        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "\u66d6\u6627",
         "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
       },
@@ -527,6 +527,74 @@
       "duration_ms": 222125,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/6tsSfB8j7Au2BsfUAgnpza"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "\u30e9\u30ba\u30ea",
+      "url": "https://open.spotify.com/track/0TuWIRwex6d8rOJvdNoOO4"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
+        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
+      },
+      "artists": [
+        {
+          "name": "GING NANG BOYZ",
+          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
+      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "THE BAND STAR",
+        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "PEAK'D YELLOW",
+      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "RIOT ON THE GRILL",
+        "url": "https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -563,90 +631,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u30e9\u30ba\u30ea",
-        "url": "https://open.spotify.com/album/6tsSfB8j7Au2BsfUAgnpza"
-      },
-      "artists": [
-        {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
-        },
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "\u30e9\u30ba\u30ea",
-      "url": "https://open.spotify.com/track/0TuWIRwex6d8rOJvdNoOO4"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "RIOT ON THE GRILL",
-        "url": "https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "THE BAND STAR",
-        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "PEAK'D YELLOW",
-      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "\u721b\u3005\u30e9\u30d7\u30bd\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/0QwkSO5pRNQyDcHoygANkS"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "\u721b\u3005\u30e9\u30d7\u30bd\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/3D7PGdcyvB8IeMOeCqqO0H"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
-        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
-      },
-      "artists": [
-        {
-          "name": "GING NANG BOYZ",
-          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
-      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 182946,
       "name": "\u6625\u306e\u307e\u307e",
       "url": "https://open.spotify.com/track/3B2JxxWYdQ6ZnRhpWlDO1a"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u721b\u3005\u30e9\u30d7\u30bd\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/0QwkSO5pRNQyDcHoygANkS"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "\u721b\u3005\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/3D7PGdcyvB8IeMOeCqqO0H"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Dim The Lights",
-        "url": "https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU"
-      },
-      "artists": [
-        {
-          "name": "MONOEYES",
-          "url": "https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "GEAR BLUES",
         "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207773,
       "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
       "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "Dim The Lights",
+        "url": "https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU"
+      },
+      "artists": [
+        {
+          "name": "MONOEYES",
+          "url": "https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "A FORLORN HOPE",
         "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 213720,
       "name": "Stereoman",
       "url": "https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
-      },
-      "artists": [
-        {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "WOKE",
         "url": "https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
-      },
-      "artists": [
-        {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
         "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 187200,
       "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
       "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
-        "url": "https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 164696,
-      "name": "\u4f5c\u6226\u4f1a\u8b70",
-      "url": "https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 164696,
+      "name": "\u4f5c\u6226\u4f1a\u8b70",
+      "url": "https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
       },
@@ -1047,38 +1047,6 @@
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "Indian Burn",
-        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 174985,
-      "name": "These Magic Words",
-      "url": "https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 236839,
-      "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
-      "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1099,6 +1067,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 174985,
+      "name": "These Magic Words",
+      "url": "https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
         "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u30cb\u30e5\u30fc\u30de\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll"
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/7AotoltMCQTbLyVq73371i"
       },
       "artists": [
         {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+          "name": "Snail Ramp",
+          "url": "https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx"
         }
       ],
-      "duration_ms": 87853,
-      "name": "\u30d5\u30eb\u30a2\u30a4\u30d3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM"
+      "duration_ms": 220200,
+      "name": "HOTARU NO HIKARI featuring AIR",
+      "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 236839,
+      "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
+      "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "\u30cb\u30e5\u30fc\u30de\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "duration_ms": 87853,
+      "name": "\u30d5\u30eb\u30a2\u30a4\u30d3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
         "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 197269,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "GRAVITY",
-        "url": "https://open.spotify.com/album/7AotoltMCQTbLyVq73371i"
-      },
-      "artists": [
-        {
-          "name": "Snail Ramp",
-          "url": "https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "HOTARU NO HIKARI featuring AIR",
-      "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "DREAMS NEVER END",
-        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Sunfist",
-          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "The Dream Is Not Dead",
-      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "\u6c38\u9060\u885d\u52d5",
         "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 254130,
       "name": "\u6c38\u9060\u885d\u52d5",
       "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "DREAMS NEVER END",
+        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "The Dream Is Not Dead",
+      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u5927\u90fd\u4f1a\u306b\u544a\u3050",
-        "url": "https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0"
-      },
-      "artists": [
-        {
-          "name": "Blue Mash",
-          "url": "https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07"
-        }
-      ],
-      "duration_ms": 88440,
-      "name": "\u3053\u306e\u307e\u307e\u50d5\u3089\u304c\u5927\u4eba\u306b\u306a\u3063\u3066\u3082",
-      "url": "https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "\u9806\u98a8\u6e80\u5e06",
         "url": "https://open.spotify.com/album/3dHI35BTNzrvNAfmZyznmA"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 173893,
       "name": "\u9806\u98a8\u6e80\u5e06",
       "url": "https://open.spotify.com/track/7cYSocFWsJWv5RS0myvg0L"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u5927\u90fd\u4f1a\u306b\u544a\u3050",
+        "url": "https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0"
+      },
+      "artists": [
+        {
+          "name": "Blue Mash",
+          "url": "https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07"
+        }
+      ],
+      "duration_ms": 88440,
+      "name": "\u3053\u306e\u307e\u307e\u50d5\u3089\u304c\u5927\u4eba\u306b\u306a\u3063\u3066\u3082",
+      "url": "https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Goo Goo Goo",
-        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
       },
       "artists": [
         {
-          "name": "PAN",
-          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
         }
       ],
-      "duration_ms": 192453,
-      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
-      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
+      "duration_ms": 130225,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Indian Burn",
-        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+        "name": "Goo Goo Goo",
+        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
         }
       ],
-      "duration_ms": 130225,
-      "name": "Parasites",
-      "url": "https://open.spotify.com/track/7CJWvOBiVULjCGdElIkmNp"
+      "duration_ms": 192453,
+      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
+      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1615,22 +1615,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "Life is Full of Choices-Greatest Songs-",
-        "url": "https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT"
+        "name": "RAIDEN GO",
+        "url": "https://open.spotify.com/album/5j3F1WvgLBwTYl6F51Nj8B"
       },
       "artists": [
         {
-          "name": "SWANKY DANK",
-          "url": "https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt"
-        },
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5"
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
-      "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
+      "duration_ms": 128132,
+      "name": "RAIDEN GO",
+      "url": "https://open.spotify.com/track/1YaE5X1vpdDuG9Os6gknB6"
     }
   ],
   "unique_name": "Punk Japan",

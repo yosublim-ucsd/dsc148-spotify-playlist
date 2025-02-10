@@ -1,6 +1,6 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 425295,
+  "num_followers": 425546,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Love Is Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        }
-      ],
-      "duration_ms": 176971,
-      "name": "Love Is Gone - Acoustic",
-      "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -859,18 +839,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Love Is Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         }
       ],
-      "duration_ms": 297103,
-      "name": "Orange Juice",
-      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+      "duration_ms": 176971,
+      "name": "Love Is Gone - Acoustic",
+      "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 197160,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
     },
     {
       "added_at": "2024-03-28 13:00:00",

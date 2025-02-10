@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,701 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,715 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 14 | [あどけ泣く](https://open.spotify.com/track/30vZeqyMd3Z0mXL27h6X6O) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [あどけ泣く](https://open.spotify.com/album/4Or5Jnbcoksg4qHy90M4lx) | 2:16 |
 | 15 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 |
 | 16 | [lonely night](https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [lonely night](https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0) | 2:59 |
-| 17 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |
+| 17 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
 | 18 | [Mo\-so](https://open.spotify.com/track/1JFVLR77g81BBcpeBzMDQg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Mo\-so](https://open.spotify.com/album/3Tti8sKSYdkmRM3RuCOi9F) | 3:32 |
-| 19 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
+| 19 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 20 | [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 |
-| 21 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
+| 21 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |
 | 22 | [都会病](https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [都会病](https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls) | 2:06 |
 | 23 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
 | 24 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 36 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
 | 37 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 38 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
-| 39 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
-| 40 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 |
+| 39 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 |
+| 40 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
 | 41 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 42 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 |
 | 43 | [Strawberry](https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Strawberry](https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY) | 3:42 |
 | 44 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 |
 | 45 | [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 |
-| 46 | [融解sink](https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:03 |
-| 47 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |
+| 46 | [三文小説](https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [三文小説](https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G) | 4:40 |
+| 47 | [融解sink](https://open.spotify.com/track/1CC9gpmBhKRr9SzYEfStct) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:03 |
 | 48 | [12:45 \- Stripped](https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [12:45 \(Stripped\)](https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv) | 2:59 |
-| 49 | [三文小説](https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [三文小説](https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G) | 4:40 |
+| 49 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |
 | 50 | [孤独の音が聞こえる](https://open.spotify.com/track/58b3yoz6divbjfjlroSfOz) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [yeh](https://open.spotify.com/album/1tvg6oby6wPL2m9oJsbj4I) | 4:46 |
 
 Snapshot ID: `Z5mBIgAAAABXibl6sz70eAFbefv5l3h+`

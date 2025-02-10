@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 72428,
+  "num_followers": 72444,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
         "name": "No Time (feat. SadBoi)",
         "url": "https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe"
       },
@@ -819,42 +835,6 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
-      "added_at": "2024-10-25 00:00:00",
-      "album": {
         "name": "Pressure Makes Diamonds",
         "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 344593,
       "name": "Pressure Makes Diamonds",
       "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Fairground",
+          "url": "https://open.spotify.com/artist/4dQlpFhvkptuBBL8Suvp7E"
+        }
+      ],
+      "duration_ms": 197355,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH"
     }
   ],
   "unique_name": "The Dance Tent",

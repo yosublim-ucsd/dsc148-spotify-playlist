@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-552 songs - 1 day 2 hr 27 min
+553 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [OG OG](https://open.spotify.com/track/5qzdF5Egtyo19WwLuxaQ3l) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Crew 47](https://open.spotify.com/artist/5mrfuOKQRKcfj6lGIZAuPO) | [OG OG](https://open.spotify.com/album/1Eb1PMj67NH7XypDAm1nS9) | 3:42 | 2024-05-24 | 2024-06-11 |
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 | 2024-06-22 |
 | [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 | 2024-01-24 | 2024-02-06 |
-| [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-09 |  |
+| [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-09 | 2025-02-10 |
 | [Old Sinner](https://open.spotify.com/track/6TDstCmfJF2ajZIPrtE0Lc) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Old Sinner](https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT) | 2:50 | 2024-06-28 | 2024-07-09 |
 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 | 2024-06-10 |  |
 | [One of One](https://open.spotify.com/track/7HA6dcnMqMt9Th55jeo8EA) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 3:12 | 2024-05-09 |  |
@@ -425,6 +425,7 @@
 | [Reckless](https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:38 | 2025-01-23 |  |
 | [Reckless](https://open.spotify.com/track/2ffcSt4PuNL0OFCCXF3yUi) | [Sukhman Cheema](https://open.spotify.com/artist/5uIDwOqSyyH4CzNAk31sAZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Reckless](https://open.spotify.com/album/32fDSUrkwEgYV6zaia8SBi) | 2:27 | 2024-06-03 | 2024-06-11 |
 | [Requirement](https://open.spotify.com/track/178AWgKX1C424sDBUGI04L) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Mehraj Deep](https://open.spotify.com/artist/7nbT7stif3z27aRr8gSv35) | [Requirement](https://open.spotify.com/album/6NnGBBdfufKlUcYPOKhSOX) | 2:53 | 2024-08-28 |  |
+| [Reshami Rumal](https://open.spotify.com/track/1hl4SS4AirxcDk7DAjFKQX) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Reshami Rumal](https://open.spotify.com/album/6BinEWb7r68vOm0Q69VYWw) | 2:52 | 2025-02-09 |  |
 | [Responsible](https://open.spotify.com/track/50PVqUQXKUG5CvtJUowAfl) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Responsible](https://open.spotify.com/album/5eMbobEyAhvmwvJsK3k8qu) | 2:58 | 2024-08-14 |  |
 | [Rhyme Ain’t Done](https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:01 | 2024-08-05 |  |
 | [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 | 2024-08-23 | 2024-09-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,055 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,099 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 4 | [Love](https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Love](https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3) | 3:40 |
 | 5 | [Safety Pin](https://open.spotify.com/track/5Lvh16D0FEzm8MMo4qJb33) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:18 |
 | 6 | [icantbelieveiletyougetaway](https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4) | 2:15 |
-| 7 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 |
-| 8 | [Me has invitado a bailar](https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 3:12 |
+| 7 | [Me has invitado a bailar](https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 3:12 |
+| 8 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 |
 | 9 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 |
 | 10 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 |
 | 11 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 18 | [On The Floor](https://open.spotify.com/track/6PuqQXLHlsKM4f8NwE87r8) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [All Pleasure](https://open.spotify.com/album/5m12jRRk1yITUd7s6KfMCJ) | 3:50 |
 | 19 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
 | 20 | [I Wish I Never Loved You](https://open.spotify.com/track/15Y5h2JcW69wSP8Nz5cOVZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:43 |
-| 21 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
-| 22 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
+| 21 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
+| 22 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 | 23 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
 | 24 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
 | 25 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 54 | [Bardo](https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:24 |
 | 55 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
 | 56 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
-| 57 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 |
-| 58 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
-| 59 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
-| 60 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
-| 61 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 |
+| 57 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
+| 58 | [Adoringly Drunk](https://open.spotify.com/track/14cTaKkjwvw9nZFk7DC1UX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Adoringly Drunk](https://open.spotify.com/album/32xqQUt1BvPqxRjjdjts7C) | 3:05 |
+| 59 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
+| 60 | [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 |
+| 61 | [Chill Out](https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Chill Out](https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o) | 2:48 |
 | 62 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 63 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I Love You Too](https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF) | 3:15 |
 | 64 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 69 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 70 | [Unbelonging](https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Unbelonging](https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU) | 3:30 |
 | 71 | [Brighter Lights](https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Brighter Lights](https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx) | 3:49 |
-| 72 | [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 |
-| 73 | [Keys Down If You Stay](https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [The Gloss](https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD) | 3:46 |
+| 72 | [Keys Down If You Stay](https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [The Gloss](https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD) | 3:46 |
+| 73 | [purepurepure](https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [purepurepure](https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe) | 3:21 |
 | 74 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 |
 | 75 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 

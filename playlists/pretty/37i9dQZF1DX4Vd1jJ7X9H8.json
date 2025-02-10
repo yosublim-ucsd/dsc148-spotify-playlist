@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 327149,
+  "num_followers": 327198,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,18 @@
     {
       "added_at": "2025-01-28 19:16:40",
       "album": {
-        "name": "HIGHJACK",
-        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 190074,
-      "name": "HIGHJACK",
-      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": "2025-01-28 19:16:40",
@@ -135,22 +131,22 @@
     {
       "added_at": "2025-01-28 19:16:40",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "HIGHJACK",
+        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 190074,
+      "name": "HIGHJACK",
+      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
       "added_at": "2025-01-28 19:16:40",
@@ -187,18 +183,22 @@
     {
       "added_at": "2025-01-28 19:16:40",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2025-01-28 19:16:40",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-01-28 19:16:40",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 282728,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
-    },
-    {
-      "added_at": "2025-01-28 19:16:40",
-      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+    },
+    {
+      "added_at": "2025-01-28 19:16:40",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 282728,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
     },
     {
       "added_at": "2025-01-28 19:16:40",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-28 19:16:40",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
-    },
-    {
-      "added_at": "2025-01-28 19:16:40",
-      "album": {
         "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
         "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2025-01-28 19:16:40",
       "album": {
-        "name": "Catching Chickens EP",
-        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
       },
       "artists": [
         {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
         }
       ],
-      "duration_ms": 223986,
-      "name": "Hell of a Ride",
-      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
       "added_at": "2025-01-28 19:16:40",
@@ -887,6 +871,22 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2025-01-28 19:16:40",
+      "album": {
+        "name": "Catching Chickens EP",
+        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Hell of a Ride",
+      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
     }
   ],
   "unique_name": "Soir\u00e9e",

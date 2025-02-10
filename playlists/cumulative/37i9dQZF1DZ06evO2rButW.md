@@ -4,7 +4,7 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 45 min
+78 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 | 2023-03-24 |  |
 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 | 2023-03-24 |  |
 | [Celos](https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:20 | 2023-03-24 |  |
+| [Dispara Lentamente](https://open.spotify.com/track/5DIUcARVSW9dajJQYRc5sJ) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Dispara Lentamente](https://open.spotify.com/album/3fnnRo78d7x45n2pg8Urts) | 4:48 | 2025-02-10 |  |
 | [El Beso](https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 2:58 | 2023-03-24 |  |
 | [El Canto de Todos \- Bonus Track](https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt), [Tita Parra](https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru), [Francesca Gagnon](https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Roberto Marquez](https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw), [Pancho Sazo](https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Mapocho Orquesta](https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu) | [El Canto de Todos](https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO) | 0:41 | 2023-03-24 |  |
 | [El Cristal](https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:01 | 2023-03-24 |  |
@@ -76,7 +77,7 @@
 | [Te juro que volveré](https://open.spotify.com/track/4bmPfEteHUchMec3gCPmNT) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:30 | 2023-12-13 | 2025-02-07 |
 | [Te juro que volveré](https://open.spotify.com/track/4g9BWkumIqN1lbH3g0h24F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Te juro que volveré](https://open.spotify.com/album/6CmRyotLh0DawLADSy5mPQ) | 3:30 | 2023-08-21 | 2023-12-14 |
 | [Te Vi](https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:36 | 2023-03-24 | 2024-05-20 |
-| [Tenochtitlán](https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:13 | 2023-12-17 |  |
+| [Tenochtitlán](https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:13 | 2023-12-17 | 2025-02-10 |
 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 | 2023-08-27 | 2023-12-18 |
 | [Tormento](https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:36 | 2023-03-24 |  |
 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2023-03-24 | 2023-06-03 |

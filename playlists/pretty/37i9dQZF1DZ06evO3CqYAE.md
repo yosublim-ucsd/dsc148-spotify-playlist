@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,886 likes - 43 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,897 likes - 43 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 14 | [Amazing God](https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:56 |
 | 15 | [Oil on My Head \(Remix\)](https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oil on My Head \(Remix\)](https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU) | 3:37 |
 | 16 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
-| 17 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
-| 18 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 |
+| 17 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 |
+| 18 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
 | 19 | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:34 |
 | 20 | [Akamdinelu](https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:02 |
 | 21 | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832) | 5:54 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 28 | [Father](https://open.spotify.com/track/1LLNos2Ev8dPehkESiwNZn) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 3:40 |
 | 29 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
 | 30 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 |
-| 31 | [Suddenly](https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:51 |
+| 31 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
 | 32 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 |
-| 33 | [Jesus](https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus](https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR) | 6:15 |
+| 33 | [Suddenly](https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:51 |
 | 34 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
 | 35 | [Oyoyo Chukwu](https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8) | 5:17 |
 | 36 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 42 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
 | 43 | [Yesterday Today Forever](https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
 
-Snapshot ID: `Z6VNAAAAAADV/5J17fMZA+a25fLBYkqD`
+Snapshot ID: `Z6aegAAAAAAll4VkSVcG2hBYnwdm8m12`

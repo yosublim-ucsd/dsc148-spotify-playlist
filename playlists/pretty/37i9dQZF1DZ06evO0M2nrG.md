@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,766 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,775 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cuenta Conmigo \(feat\. Mozart La Para\)](https://open.spotify.com/track/3KvK89jd2onVdthF4hZNN4) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Cuenta Conmigo \(feat\. Mozart La Para\)](https://open.spotify.com/album/3kjw0eHhKKug5FEtGjW3BO) | 3:22 |
 | 2 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 |
 | 3 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
-| 4 | [De Qué Manera](https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:13 |
-| 5 | [Amor A Mitad](https://open.spotify.com/track/6bC64hNeOYigctbXJifxor) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:11 |
+| 4 | [Amor A Mitad](https://open.spotify.com/track/6bC64hNeOYigctbXJifxor) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:11 |
+| 5 | [De Qué Manera](https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:13 |
 | 6 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 7 | [Buscándote](https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Buscándote](https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz) | 4:01 |
-| 8 | [Mi Pecadito](https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:17 |
-| 9 | [La Indocumentada](https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:15 |
+| 8 | [La Indocumentada](https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:15 |
+| 9 | [Mi Pecadito](https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:17 |
 | 10 | [Serenata](https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:26 |
 | 11 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 |
 | 12 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 49 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 |
 | 50 | [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 |
 
-Snapshot ID: `Z6VNAAAAAABe/k2wBd5YGklkfIxv+EDQ`
+Snapshot ID: `Z6aegAAAAACp4kZ0m99O0YEZG4Z/nZT/`

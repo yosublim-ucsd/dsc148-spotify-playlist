@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 8 hr 51 min
+161 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 | 2025-02-09 |  |
 | [50ft.](https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [50ft.](https://open.spotify.com/album/029JHv262PSXojxqywHDwr) | 3:05 | 2021-12-27 |  |
 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 | 2023-12-13 |  |
 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 | 2022-07-11 |  |

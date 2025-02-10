@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-226 songs - 14 hr 59 min
+227 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2021-12-16 | 2024-04-19 |
 | [El Debilitao](https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [Historia Musical de los Nemus del Pacífico](https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv) | 4:31 | 2024-04-06 |  |
 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 | 2024-04-06 | 2024-09-21 |
-| [El Escorpión](https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q) | [Víctor Salamanca](https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI) | [Costa Alegre](https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo) | 2:43 | 2024-07-12 |  |
+| [El Escorpión](https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q) | [Víctor Salamanca](https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI) | [Costa Alegre](https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo) | 2:43 | 2024-07-12 | 2025-02-10 |
 | [El Forastero](https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:59 | 2021-12-16 | 2024-03-27 |
 | [El Hijo de Tuta](https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 4:00 | 2021-12-16 | 2024-04-19 |
 | [El Hijo de Tuta](https://open.spotify.com/track/5UcFBZjRxPH4fQbRrkGwjT) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [El Viaje Musical de Lisandro Meza, 60 Años, Vol\. 1](https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3) | 4:00 | 2021-12-16 | 2023-10-07 |
@@ -117,6 +117,7 @@
 | [La Danza de los Mirlos \- Instrumental](https://open.spotify.com/track/7HHFSKXG3UIaJDdVkkrI3c) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:54 | 2024-07-12 | 2025-02-02 |
 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 | 2021-12-16 | 2024-04-19 |
 | [La Lira](https://open.spotify.com/track/5iQLKcB8MT3TcgBk1qFscs) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 3:28 | 2021-12-16 | 2023-05-27 |
+| [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 | 2024-07-12 |  |
 | [La Marcha del Pato](https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 4:08 | 2024-04-06 |  |
 | [La Muy Indigna](https://open.spotify.com/track/3lVg1gybSX9ltUDga4joCD) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 4:01 | 2024-04-06 |  |
 | [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 | 2021-12-16 | 2023-07-30 |

@@ -1,6 +1,6 @@
 {
   "description": "Game time.",
-  "num_followers": 277916,
+  "num_followers": 278027,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2025-02-05 16:10:04",
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2025-02-05 16:10:04",
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2025-02-05 16:10:04",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "Luv Is Rage 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "20 Min",
-      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
-    },
-    {
-      "added_at": "2025-02-05 16:10:04",
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 219333,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "added_at": "2025-02-05 16:10:04",
+      "album": {
+        "name": "Luv Is Rage 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "20 Min",
+      "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
     },
     {
       "added_at": "2025-02-05 16:10:04",
@@ -347,26 +347,6 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "SAVAGE MODE II",
-        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 193591,
-      "name": "Glock In My Lap",
-      "url": "https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k"
-    },
-    {
-      "added_at": "2025-02-05 16:10:04",
-      "album": {
         "name": "Street Gossip",
         "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
       },
@@ -379,6 +359,22 @@
       "duration_ms": 154023,
       "name": "Pure Cocaine",
       "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
+    },
+    {
+      "added_at": "2025-02-05 16:10:04",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Big Poppa - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
     },
     {
       "added_at": "2025-02-05 16:10:04",
@@ -407,22 +403,6 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Big Poppa - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
-    },
-    {
-      "added_at": "2025-02-05 16:10:04",
-      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -439,18 +419,22 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+      "duration_ms": 193591,
+      "name": "Glock In My Lap",
+      "url": "https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k"
     },
     {
       "added_at": "2025-02-05 16:10:04",
@@ -467,6 +451,22 @@
       "duration_ms": 246213,
       "name": "Love Sosa",
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "added_at": "2025-02-05 16:10:04",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2025-02-05 16:10:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 167915,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
-    },
-    {
-      "added_at": "2025-02-05 16:10:04",
-      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "added_at": "2025-02-05 16:10:04",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
     },
     {
       "added_at": "2025-02-05 16:10:04",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-02-05 16:10:04",
       "album": {
-        "name": "The Best In The World Pack",
-        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Money In The Grave (Drake ft. Rick Ross)",
-      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
-    },
-    {
-      "added_at": "2025-02-05 16:10:04",
-      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2025-02-05 16:10:04",
+      "album": {
+        "name": "The Best In The World Pack",
+        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Money In The Grave (Drake ft. Rick Ross)",
+      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
     }
   ],
   "unique_name": "Laced Up",

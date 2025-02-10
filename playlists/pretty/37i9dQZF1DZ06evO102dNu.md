@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,314 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,407 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 15 | [Theme From New York, New York \- 2008 Remastered](https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:24 |
 | 16 | [Summer Wind](https://open.spotify.com/track/2cI7j96n1rfv4RNKuri4or) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:58 |
 | 17 | [Nice 'n' Easy \- Remastered 1999](https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:45 |
-| 18 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
-| 19 | [Theme From New York, New York](https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:26 |
+| 18 | [Theme From New York, New York](https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:26 |
+| 19 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
 | 20 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
 | 21 | [Young At Heart](https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 2:54 |
 | 22 | [Blue Moon \- 1999 Remastered](https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:51 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 38 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
 | 39 | [Summer Wind](https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 2:33 |
 | 40 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 |
-| 41 | [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 |
-| 42 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
+| 41 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
+| 42 | [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 |
 | 43 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
 | 44 | [Autumn Leaves \- 1999 Remastered](https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 2:52 |
 | 45 | [One Note Samba \(Samba de Uma Nota So\)](https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 49 | [Wave](https://open.spotify.com/track/4qY2AhtXXuWST74MrShHTu) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 3:21 |
 | 50 | [Cheek To Cheek \- 1998 Remastered](https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 3:06 |
 
-Snapshot ID: `Z6VNAAAAAAAPk+XNrw/KeJ6+B7RT5qGq`
+Snapshot ID: `Z6aegAAAAADHJAuSw0f5U3TOAruYyNqM`

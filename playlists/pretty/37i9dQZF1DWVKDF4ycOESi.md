@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lady Gaga in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,776 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,796 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

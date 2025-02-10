@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 112 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 112 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 17 | [Our Summer](https://open.spotify.com/track/1EjwugLrwb3kbcar1HKddN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/6nQZyPFtbKeTq6FZGb01FO) | 3:30 |
 | 18 | [First Love](https://open.spotify.com/track/01iyINEYgPQ7ThMZuHUsqS) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [First Love](https://open.spotify.com/album/7syMmofF2t1xI0RFCtrSG9) | 3:27 |
 | 19 | [Wanted](https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Wanted](https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb) | 2:40 |
-| 20 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
-| 21 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
+| 20 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
+| 21 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 |
 | 22 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
 | 23 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
 | 24 | [Ruin The Friendship](https://open.spotify.com/track/6VcOObtzWB2dopP4dC8G6x) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:53 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 40 | [Two people](https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:13 |
 | 41 | [My Man](https://open.spotify.com/track/5T2N2zNtnspdHNKe4badyR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:23 |
 | 42 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 |
-| 43 | [Waste](https://open.spotify.com/track/79cH8EYScu6oy4jchIKT5Z) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Waste](https://open.spotify.com/album/1u0G8aMkahjuKzDOjpZdPy) | 3:29 |
-| 44 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 43 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 44 | [Waste](https://open.spotify.com/track/79cH8EYScu6oy4jchIKT5Z) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Waste](https://open.spotify.com/album/1u0G8aMkahjuKzDOjpZdPy) | 3:29 |
 | 45 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 |
 | 46 | [Bad Guy](https://open.spotify.com/track/34LbYwWS8Vxr6dsdZ64OXd) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Starting Over](https://open.spotify.com/album/1ZWlheyrmKAaNoaa1dsq5T) | 3:33 |
 | 47 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 49 | [Can't Do It](https://open.spotify.com/track/6Qgt5VxVDiKX42nqdjnEuF) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Can't Do It](https://open.spotify.com/album/6QYml21FL6yAM90b4m4GnY) | 3:23 |
 | 50 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
 | 51 | [No One's Gonna Ever Love U](https://open.spotify.com/track/5J6yoBNlCTE7uCgXuv8NXK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:22 |
-| 52 | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/track/4dhCI327FFSWFYuU5uwqEe) | [Skrux](https://open.spotify.com/artist/6cwRqYSDYwWsLveCcDRhyY), [Delacey](https://open.spotify.com/artist/2GAvE8IRJsYcMuHcC8XkkD) | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/album/3hfAE8xs0kQgOt49Toe8Er) | 6:46 |
-| 53 | [No High](https://open.spotify.com/track/0IaqTay4n1JShXcfQBlVEJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 3:02 |
+| 52 | [No High](https://open.spotify.com/track/0IaqTay4n1JShXcfQBlVEJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 3:02 |
+| 53 | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/track/4dhCI327FFSWFYuU5uwqEe) | [Skrux](https://open.spotify.com/artist/6cwRqYSDYwWsLveCcDRhyY), [Delacey](https://open.spotify.com/artist/2GAvE8IRJsYcMuHcC8XkkD) | [My Love Is a Weapon \(feat\. Delacey\)](https://open.spotify.com/album/3hfAE8xs0kQgOt49Toe8Er) | 6:46 |
 | 54 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 |
 | 55 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 |
 | 56 | [Even When I’m Not](https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:05 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 111 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 112 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbpEvgAAAAAdKZUHgODxeN7d0cqPNIpF`
+Snapshot ID: `AbpKXgAAAADpnoZYK72mdLWe2e4Ec9fa`

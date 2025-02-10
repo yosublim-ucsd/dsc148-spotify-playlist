@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229462,
+      "name": "Walking Up The King's Highway",
+      "url": "https://open.spotify.com/track/6RRbT45pMJ54g3ewa9nOHP"
+    },
+    {
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },

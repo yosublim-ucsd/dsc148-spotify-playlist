@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,459 likes - 44 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,701 likes - 44 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,24 +33,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 23 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
 | 24 | [Commitment Issues](https://open.spotify.com/track/0UCKUJU94sx8XBQnaNsRkB) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:30 |
 | 25 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 |
-| 26 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
-| 27 | [Wave](https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:25 |
+| 26 | [Wave](https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:25 |
+| 27 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
 | 28 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 29 | [One Up](https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One Up](https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97) | 2:40 |
 | 30 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 |
 | 31 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
 | 32 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
 | 33 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
-| 34 | [Tension](https://open.spotify.com/track/1s2NSYZLIkUPhca8P5u1Vm) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:08 |
-| 35 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
+| 34 | [Chapters](https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 1:54 |
+| 35 | [Tension](https://open.spotify.com/track/1s2NSYZLIkUPhca8P5u1Vm) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:08 |
 | 36 | [Molly](https://open.spotify.com/track/5WO3QkGOymQew1hH2A6oNY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Molly](https://open.spotify.com/album/5pfYw1PMmQg5qJvmBgCKyQ) | 3:21 |
 | 37 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
-| 38 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 |
-| 39 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
+| 38 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
+| 39 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 |
 | 40 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 | 41 | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/track/1JeLx7sGn3LzHLwCzd6swY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/album/1FBhWfdHQnqphA5Dk1KFhx) | 4:38 |
 | 42 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 |
 | 43 | [West Connect \(feat\. Central Cee\)](https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 3:32 |
 | 44 | [Bumpy Johnson](https://open.spotify.com/track/1kxu6GYmdIdEATyPLBDAc0) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:41 |
 
-Snapshot ID: `Z6VNAAAAAADRw4k59y/gdThKtPDsm+I1`
+Snapshot ID: `Z6aegAAAAAB65hmDxjMn9H0bogcILwD0`

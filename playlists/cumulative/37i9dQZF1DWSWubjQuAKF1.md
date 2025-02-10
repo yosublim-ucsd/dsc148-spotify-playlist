@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Rocka
 
-323 songs - 15 hr 31 min
+324 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Gra Gra Gra](https://open.spotify.com/track/2KlqoFI1E2SM5BNYY8bjJW) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Gra Gra Gra](https://open.spotify.com/album/2o5S6SO44MfFHc5ZiMzTNC) | 3:03 | 2024-06-28 | 2024-09-07 |
 | [Grzesiu](https://open.spotify.com/track/6BDV4Or3MFnqKNN9EH8p91) | [Oliver Gigon](https://open.spotify.com/artist/2FlyaCEJbYuZumkoDuFs0M) | [Grzesiu](https://open.spotify.com/album/4FZltuAdipxeoWAR0kYwWD) | 2:33 | 2024-06-28 | 2024-07-27 |
 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 | 2025-01-23 | 2025-02-07 |
+| [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 | 2025-02-06 |  |
 | [Happy End](https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Happy End](https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 | 2025-01-30 |  |
 | [hold my hand \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/12mIstRUj9otCIpO6ZLXUa) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [hold my hand \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/5LbaE7Z96J1aNDz3gFUw4i) | 3:41 | 2025-01-23 |  |
@@ -230,7 +231,7 @@
 | [Polecę do gwiazd](https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2) | [Michell Siwak](https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q) | [Polecę do gwiazd](https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D) | 2:24 | 2024-09-13 | 2025-01-24 |
 | [POPSTAR](https://open.spotify.com/track/1HuCX4lQF59JjpoaGc82r0) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [POPSTAR](https://open.spotify.com/album/5TCgpSMekiz0v3n3r9caF7) | 2:28 | 2024-06-28 | 2024-08-31 |
 | [Poszukam](https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Pośród Snów EP](https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg) | 2:26 | 2024-07-11 | 2024-10-12 |
-| [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0) | [Marianna Kniat](https://open.spotify.com/artist/4msYBkpUbynxMz8FgyQxiX) | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/album/4IGAhWMLqLbCNUkJvqvEH3) | 3:33 | 2025-01-23 |  |
+| [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0) | [Marianna Kniat](https://open.spotify.com/artist/4msYBkpUbynxMz8FgyQxiX) | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/album/4IGAhWMLqLbCNUkJvqvEH3) | 3:33 | 2025-01-23 | 2025-02-10 |
 | [Powiedz](https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Powiedz](https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq) | 2:03 | 2024-09-27 | 2025-01-24 |
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 |  |
 | [PRETTY LIES](https://open.spotify.com/track/221vIAPfaaS1rN0l6TnrUg) | [Sally](https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A) | [PRETTY LIES](https://open.spotify.com/album/0Zx3pNSIZDJO341isoT8kf) | 2:44 | 2024-10-25 | 2025-01-24 |

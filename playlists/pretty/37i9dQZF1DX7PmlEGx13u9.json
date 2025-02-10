@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B Hits. Cover: Odeal",
-  "num_followers": 59092,
+  "num_followers": 59110,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -219,26 +203,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "FELIX!",
-          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 177899,
-      "name": "Upset (feat. Tommy Richman & FELIX!)",
-      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -263,6 +239,30 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 177899,
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+      "duration_ms": 215178,
+      "name": "Residuals",
+      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -335,22 +331,6 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 215178,
-      "name": "Residuals",
-      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -367,22 +347,6 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -395,6 +359,42 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -447,22 +447,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -483,6 +479,26 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -555,22 +571,6 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -795,6 +795,30 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
@@ -807,22 +831,6 @@
       "duration_ms": 181063,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
       "added_at": "2024-12-13 00:00:34",
@@ -851,26 +859,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Sensational (feat. Davido & Lojay)",
-        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 231109,
-      "name": "Sensational (feat. Davido & Lojay)",
-      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     }
   ],
   "unique_name": "Certi: R&B",
