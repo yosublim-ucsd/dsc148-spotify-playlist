@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,371 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,374 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 44 | [Riding Horses](https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:24 |
 | 45 | [Partida del Leprosario](https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:53 |
 | 46 | [Hope](https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:41 |
-| 47 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
+| 47 | [Seguir](https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 3:44 |
 | 48 | [Brokeback Mountain 2](https://open.spotify.com/track/56zGM574ZkZqiU4E2IVjJ3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:59 |
-| 49 | [Lago Frías](https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:19 |
-| 50 | [Seguir](https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 3:44 |
+| 49 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
+| 50 | [Lago Frías](https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:19 |
 
-Snapshot ID: `Z6aegAAAAAACBZI3NAeeUFS2jve3PHU9`
+Snapshot ID: `Z6fwAAAAAABjYvx2aWKjstOhR/nVmueL`

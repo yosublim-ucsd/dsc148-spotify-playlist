@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 937994,
+  "num_followers": 938027,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,26 @@
     {
       "added_at": "2025-02-07 05:00:41",
       "album": {
+        "name": "The Future Is Now - The Truth",
+        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
-        "name": "The Future Is Now - The Truth",
-        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
     },
     {
       "added_at": "2025-02-07 05:00:41",
@@ -995,58 +995,6 @@
     {
       "added_at": "2025-02-07 05:00:41",
       "album": {
-        "name": "Lipstick (feat. Robbie Rise)",
-        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Robbie Rise",
-          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
-        }
-      ],
-      "duration_ms": 226615,
-      "name": "Lipstick (feat. Robbie Rise)",
-      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1067,6 +1015,22 @@
     {
       "added_at": "2025-02-07 05:00:41",
       "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -1079,6 +1043,58 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
+        "name": "Lipstick (feat. Robbie Rise)",
+        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Robbie Rise",
+          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
+        }
+      ],
+      "duration_ms": 226615,
+      "name": "Lipstick (feat. Robbie Rise)",
+      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
+        "name": "Run It!",
+        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
+      },
+      "artists": [
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Run It!",
+      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
     },
     {
       "added_at": "2025-02-07 05:00:41",
@@ -1103,22 +1119,6 @@
       "duration_ms": 134624,
       "name": "Party All The Time - D.O.D Remix",
       "url": "https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
-        "name": "Run It!",
-        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
-      },
-      "artists": [
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "Run It!",
-      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
     },
     {
       "added_at": "2025-02-07 05:00:41",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2025-02-07 05:00:41",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/2NZj3cTwqgympXq4DLeq6r"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Hektor Mass",
-          "url": "https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce"
-        },
-        {
-          "name": "Carmelo",
-          "url": "https://open.spotify.com/artist/7CTFEDXwOSOCPCNWvvhg5u"
-        }
-      ],
-      "duration_ms": 182109,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/7Ig7sOUzR1Y2SShye9Pn1U"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/2NZj3cTwqgympXq4DLeq6r"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Hektor Mass",
+          "url": "https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce"
+        },
+        {
+          "name": "Carmelo",
+          "url": "https://open.spotify.com/artist/7CTFEDXwOSOCPCNWvvhg5u"
+        }
+      ],
+      "duration_ms": 182109,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/7Ig7sOUzR1Y2SShye9Pn1U"
     },
     {
       "added_at": "2025-02-07 05:00:41",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2025-02-07 05:00:41",
       "album": {
-        "name": "Not Alone (Don Diablo VIP Mix)",
-        "url": "https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Not Alone - Don Diablo VIP Mix",
-      "url": "https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:41",
-      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2025-02-07 05:00:41",
+      "album": {
+        "name": "Not Alone (Don Diablo VIP Mix)",
+        "url": "https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Not Alone - Don Diablo VIP Mix",
+      "url": "https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW"
     },
     {
       "added_at": "2025-02-07 05:00:41",

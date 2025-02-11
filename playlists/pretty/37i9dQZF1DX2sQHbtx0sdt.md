@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,649 likes - 98 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,429 likes - 98 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

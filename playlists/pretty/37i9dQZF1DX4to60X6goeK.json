@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 68223,
+  "num_followers": 68247,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -887,42 +887,6 @@
     {
       "added_at": "2025-01-31 00:00:24",
       "album": {
-        "name": "Polarity (VIP)",
-        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Polarity - VIP",
-      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2025-01-31 00:00:24",
-      "album": {
-        "name": "Relapse EP",
-        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 268285,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
-    },
-    {
-      "added_at": "2025-01-31 00:00:24",
-      "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
       },
@@ -959,6 +923,42 @@
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
+    },
+    {
+      "added_at": "2025-01-31 00:00:24",
+      "album": {
+        "name": "Polarity (VIP)",
+        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Polarity - VIP",
+      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
+    },
+    {
+      "added_at": "2025-01-31 00:00:24",
+      "album": {
+        "name": "Relapse EP",
+        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 268285,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
     },
     {
       "added_at": "2025-01-31 00:00:24",

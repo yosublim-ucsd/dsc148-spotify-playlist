@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMDyKd0qQIL.md) - [plain]
 
 > Lancez la playlist et jetez vous à l'eau !
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,883 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,920 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMDyKd0qQIL.md) - [plain]
 | 4 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 5 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 6 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 7 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
-| 8 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 7 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 8 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
 | 9 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 10 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 11 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMDyKd0qQIL.md) - [plain]
 | 18 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 19 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 20 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 21 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
-| 22 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 21 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 22 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 23 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
 | 24 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 |
 | 25 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
-| 26 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
-| 27 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
+| 26 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
+| 27 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 28 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 29 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 30 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |

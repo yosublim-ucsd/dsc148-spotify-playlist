@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259214,
+  "num_followers": 259216,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 214000,
       "name": "Thunder - Live/Acoustic",
       "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -944,22 +944,6 @@
       "added_at": "2024-11-22 15:03:16",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
       "artists": [
@@ -971,6 +955,22 @@
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 202482,
-      "name": "Stan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 191953,
       "name": "Blue",
       "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Stan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Nada Sei (Apneia)",
+        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 229785,
+      "name": "Nada Sei - Apneia, Ao Vivo",
+      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Nada Sei (Apneia)",
-        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 229785,
-      "name": "Nada Sei - Apneia, Ao Vivo",
-      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Eu Gosto Assim",
         "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me - Acoustic",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 183093,
       "name": "Us - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Blame It On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Blame It On Me - Acoustic",
+      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
     },
     {
       "added_at": "2024-11-22 15:03:16",

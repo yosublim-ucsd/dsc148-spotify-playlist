@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,745 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,755 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 9 | [Prelude 12/21](https://open.spotify.com/track/6hxa24dKfCoe1EA6g0RHNw) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 1:34 |
 | 10 | [The Leaving Song Pt\. II](https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:31 |
 | 11 | [Beautiful Thieves](https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
-| 12 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
+| 12 | [The Lost Souls](https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:42 |
 | 13 | [Summer Shudder](https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:06 |
 | 14 | [Dancing Through Sunday](https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:26 |
-| 15 | [The Lost Souls](https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:42 |
+| 15 | [Medicate](https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 4:20 |
 | 16 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
 | 17 | [The Killing Lights](https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 4:03 |
 | 18 | [This Celluloid Dream](https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
 | 50 | [Reivers' Music](https://open.spotify.com/track/5Xehf0ZANXeSk8rm5JnChA) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:21 |
 
-Snapshot ID: `Z6aegAAAAAB771codElLeNUHYVDNauUr`
+Snapshot ID: `Z6fwAAAAAADmlTPZeydlAFnXPqwlf33h`

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-482 songs - 1 day 3 hr 0 min
+483 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,13 +291,14 @@
 | [Meherma \(Unplugged Version\)](https://open.spotify.com/track/1u9da2w4atIsy7FMpl5zW3) | [Asit Tripathy](https://open.spotify.com/artist/0AMlMTeTAhah1zDPvkWRg0), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Meherma \(Unplugged Version\)](https://open.spotify.com/album/1HZG9FmM7ukBtZ98MrfGb8) | 3:19 | 2024-09-17 |  |
 | [Mein Aur Tum](https://open.spotify.com/track/2xb679KGUYTQUXeJK0IqMo) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Mein Aur Tum](https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm) | 2:49 | 2023-05-17 | 2023-05-26 |
 | [Mera Chaand](https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mera Chaand](https://open.spotify.com/album/5t0eb1ckENCqaz7DPkksRY) | 2:55 | 2024-02-09 | 2024-07-31 |
-| [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/track/6HyYz5H1gHiRk7ikTcuSDj) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/album/2MqEuClZB4dhf76DdmpWOw) | 2:29 | 2024-12-05 |  |
+| [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/track/6HyYz5H1gHiRk7ikTcuSDj) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/album/2MqEuClZB4dhf76DdmpWOw) | 2:29 | 2024-12-05 | 2025-02-11 |
 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 | 2024-10-25 | 2024-11-19 |
 | [Mere illahi](https://open.spotify.com/track/50qgHFvuH0zcdwGHdGcjaO) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Uberman](https://open.spotify.com/album/0DLgomZECPwZBKWx69qDE0) | 4:44 | 2024-08-19 | 2024-10-11 |
 | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 | 2024-04-08 | 2024-06-01 |
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 | 2023-06-10 |
 | [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 | 2023-12-14 |
 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 | 2024-10-01 |  |
+| [Mi Amore](https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Sunep A Jamir](https://open.spotify.com/artist/0CFC42AIQYwitBM9VnCtLB), [Hanu Dixit](https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5), [Gaia Meera](https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw), [Inga](https://open.spotify.com/artist/3xVqskuXhRRXOpBTA5PwrK), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Mi Amore](https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2) | 3:06 | 2025-02-10 |  |
 | [Miley Ho Jabse Tum](https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM) | [Mohit Pathak](https://open.spotify.com/artist/7JAb5WcSjSHwqFR1Pstmuz) | [Miley Ho Jabse Tum](https://open.spotify.com/album/6x4hATQjmDmL77YB03Xkdq) | 3:33 | 2024-12-21 | 2025-01-24 |
 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 | 2024-01-05 |
 | [Milke Jana](https://open.spotify.com/track/7wAwgWLLMxigAvV6paLAUN) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/6nqK1OgKuhp2I2fMTqOlz6) | 3:10 | 2024-01-04 | 2024-01-20 |

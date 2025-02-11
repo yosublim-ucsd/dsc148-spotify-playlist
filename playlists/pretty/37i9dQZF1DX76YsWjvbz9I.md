@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,376 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,465 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 46 | [The touch of your lips](https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:19 |
 | 47 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 48 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
-| 49 | [When I Fall In Love](https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae For Lovers](https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU) | 3:49 |
-| 50 | [All The Way](https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 3:29 |
+| 49 | [All The Way](https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 3:29 |
+| 50 | [When I Fall In Love](https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae For Lovers](https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU) | 3:49 |
 | 51 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 |
 | 52 | [Can't Help Lovin' That Man](https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 3:11 |
 | 53 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 81 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |
 | 82 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/1nYBShHiR5XZTqQTSmAfHA) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Baby Blue Eyes](https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw) | 2:52 |
 | 83 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
-| 84 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
-| 85 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
+| 84 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
+| 85 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
 | 86 | [Long Ago and Far Away](https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:49 |
 | 87 | [Easy Living](https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 5:37 |
 | 88 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |

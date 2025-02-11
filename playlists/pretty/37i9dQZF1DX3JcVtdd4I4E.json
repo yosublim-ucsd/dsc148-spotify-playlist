@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7254,
+  "num_followers": 7258,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
-      },
-      "artists": [
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 218454,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 171899,
       "name": "Pluto - Bonus Track",
       "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+      },
+      "artists": [
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Expiration Date_demo_V2.wav",
-        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "Expiration Date_demo_V2.wav",
-      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "I Should\u2019ve Danced More",
         "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201026,
       "name": "I Should\u2019ve Danced More",
       "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Expiration Date_demo_V2.wav",
+        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 162853,
+      "name": "Expiration Date_demo_V2.wav",
+      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "I\u2019ll Think of You",
-      "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176426,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "I\u2019ll Think of You",
+      "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
+        "name": "maserati",
+        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
         }
       ],
-      "duration_ms": 144051,
-      "name": "Wishing well",
-      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+      "duration_ms": 92133,
+      "name": "maserati",
+      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "maserati",
-        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 92133,
-      "name": "maserati",
-      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
+      "duration_ms": 144051,
+      "name": "Wishing well",
+      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
     },
     {
       "added_at": "2024-02-08 23:00:00",

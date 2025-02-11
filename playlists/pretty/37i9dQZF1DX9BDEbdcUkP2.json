@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 174670,
+  "num_followers": 174711,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "added_at": "2024-03-22 15:14:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 145533,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2024-03-22 15:14:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2024-03-22 15:14:09",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-22 15:14:09",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2024-03-22 15:14:09",
-      "album": {
         "name": "The Beat Goes On: Best Of",
         "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 193840,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
+    },
+    {
+      "added_at": "2024-03-22 15:14:09",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2024-03-22 15:14:09",

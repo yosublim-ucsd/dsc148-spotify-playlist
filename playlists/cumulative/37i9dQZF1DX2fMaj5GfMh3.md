@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: LISA, Doja Cat & RAYE
 
-835 songs - 1 day 18 hr 32 min
+836 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Only Place](https://open.spotify.com/track/5GFsYPZY1eebEMuO3gfVkG) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:25 | 2023-10-05 | 2023-11-18 |
 | [Open Hearts](https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:54 | 2025-02-03 |  |
 | [orange tree](https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.2](https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI) | 3:17 | 2024-06-24 | 2024-09-20 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-10 |  |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-10-17 | 2025-01-07 |
 | [Other Boys](https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Other Boys](https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ) | 2:17 | 2023-09-20 | 2024-01-05 |
 | [Other People](https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Other People](https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0) | 3:37 | 2024-08-29 | 2024-11-20 |

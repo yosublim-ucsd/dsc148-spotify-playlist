@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,394 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,387 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 41 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
 | 42 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 |
 | 43 | [It's Been a While](https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [It's Been a While](https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf) | 4:06 |
-| 44 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
-| 45 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
+| 44 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
+| 45 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 | 46 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
 | 47 | [Signs of Life](https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 5:00 |
 | 48 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 71 | [Good Time](https://open.spotify.com/track/5vKzUzEaNEH6iLfQAAXGcP) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Good Time](https://open.spotify.com/album/7ewBMKLhrJ21P2nlAgUuPW) | 5:33 |
 | 72 | [Holster](https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Holster](https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs) | 3:00 |
 | 73 | [Love At Your Convenience](https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Love At Your Convenience](https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt) | 3:33 |
-| 74 | [One Night Show](https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:48 |
-| 75 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
+| 74 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
+| 75 | [One Night Show](https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:48 |
 | 76 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 77 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
 | 78 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 81 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 82 | [Proximity](https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P) | [Blank Range](https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t) | [In Unison](https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w) | 3:17 |
 | 83 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
-| 84 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |
-| 85 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
+| 84 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
+| 85 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |
 | 86 | [Difference Of Opinion](https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Difference Of Opinion](https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI) | 3:40 |
 | 87 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
 | 88 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 |
 | 89 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
-| 90 | [Starting from Scratch](https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Starting from Scratch](https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk) | 3:09 |
-| 91 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
+| 90 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
+| 91 | [Starting from Scratch](https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Starting from Scratch](https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk) | 3:09 |
 | 92 | [Believer / Pretender](https://open.spotify.com/track/6JpqZqiJrWCgSOusAARV2Q) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw) | [Believer / Pretender](https://open.spotify.com/album/36HWMDvsEnHhas677pJhJh) | 4:52 |
-| 93 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
-| 94 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
+| 93 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
+| 94 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
 | 95 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 |
 | 96 | [Way Back](https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Way Back](https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q) | 4:18 |
 | 97 | [Tomorrow](https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Tomorrow](https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI) | 3:30 |
-| 98 | [Over Me](https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Over Me](https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz) | 2:55 |
-| 99 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
-| 100 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 |
+| 98 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
+| 99 | [On a Roll](https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [On A Roll](https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb) | 3:31 |
+| 100 | [Over Me](https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Over Me](https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz) | 2:55 |
 
 Snapshot ID: `Z6WTcAAAAAD1IGd2012Ipg2EdesiXMup`

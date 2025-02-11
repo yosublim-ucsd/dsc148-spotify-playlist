@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 500865,
+  "num_followers": 500904,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zl3XAwAAAACDp1EoIkmeG7yJIvuQnT/7",
   "tracks": [
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
-    },
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 339000,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "I Love The Way You Love",
-        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Clean up Woman",
-      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "The Best of Bread",
         "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 192200,
       "name": "Make It with You",
       "url": "https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "I Love The Way You Love",
+        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Clean up Woman",
+      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Lynyrd Skynyrd - Rock Legends",
+        "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Back to Front",
         "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 262600,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Lynyrd Skynyrd - Rock Legends",
-        "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 285346,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
     },
     {
       "added_at": "2024-06-03 14:45:23",

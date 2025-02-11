@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Dominic Fike & JENNIE
 
-2,109 songs - 4 day 17 hr 25 min
+2,110 songs - 4 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Black Boots And Leather Rebellion](https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Black Boots And Leather Rebellion](https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4) | 3:42 | 2021-12-01 | 2022-01-29 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-22 | 2023-12-23 |
 | [Black Swan](https://open.spotify.com/track/0Z20yeDEotfT3LX8e6kSpk) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [WELL WELL](https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc) | 3:09 | 2023-08-18 | 2023-09-16 |
-| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-07 |  |
+| [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-02-10 |  |
+| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-07 | 2025-02-11 |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-05-13 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-08-04 | 2023-11-18 |
 | [Bleach](https://open.spotify.com/track/0RPtYre1zqrPbQMSqJjwc1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Brightest Blue](https://open.spotify.com/album/7hCfgsycCFH4bBjEfUwh3S) | 3:17 | 2020-07-18 | 2020-08-21 |

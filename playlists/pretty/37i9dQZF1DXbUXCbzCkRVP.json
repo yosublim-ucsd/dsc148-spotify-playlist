@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 60753,
+  "num_followers": 60805,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 428680,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 158266,
       "name": "Whammer Jammer",
       "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 428680,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 157400,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 154506,
       "name": "Okie Dokie Stomp",
       "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 179440,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Sun Records Originals: Easy",
-        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Little Walter's Boogie",
-      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Paul Butterfield Blues Band",
         "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 245933,
       "name": "Thank You Mr. Poobah",
       "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Sun Records Originals: Easy",
+        "url": "https://open.spotify.com/album/7lNfgd8tQNOB4Of6cmOn4e"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Little Walter's Boogie",
+      "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -979,22 +979,18 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Gaslighter's Ball",
-        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
+        "name": "For Collectors Only (The Wham Of That Memphis Man)",
+        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
         }
       ],
-      "duration_ms": 190956,
-      "name": "Gaslighter's Ball",
-      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
+      "duration_ms": 132333,
+      "name": "Wham!",
+      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "For Collectors Only (The Wham Of That Memphis Man)",
-        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+        "name": "Gaslighter's Ball",
+        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
       "artists": [
         {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Wham!",
-      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+      "duration_ms": 190956,
+      "name": "Gaslighter's Ball",
+      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
     },
     {
       "added_at": "2024-05-29 07:23:14",

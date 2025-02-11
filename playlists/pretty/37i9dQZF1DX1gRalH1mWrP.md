@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,721,391 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,721,308 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 15 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 16 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
 | 17 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
-| 18 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
-| 19 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
+| 18 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
+| 19 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 20 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 21 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
 | 22 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |

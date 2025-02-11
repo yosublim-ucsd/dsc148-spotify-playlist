@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,248 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,268 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 10 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
 | 11 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 12 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
-| 13 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
-| 14 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
+| 13 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
+| 14 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 |
 | 15 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
 | 16 | [Gateway](https://open.spotify.com/track/6Y1cncfwOBrk97DSjoynJf) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Gateway](https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw) | 2:46 |
 | 17 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
 | 18 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
 | 19 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 |
 | 20 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
-| 21 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
-| 22 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
+| 21 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
+| 22 | [polaris](https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [polaris](https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm) | 2:00 |
 | 23 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
 | 24 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 25 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 35 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 36 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 |
 | 37 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
-| 38 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
-| 39 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
+| 38 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
+| 39 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
 | 40 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 41 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 |
 | 42 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 |

@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -4626,7 +4644,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 228146,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
@@ -6460,7 +6478,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
@@ -9730,7 +9748,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -10964,7 +10982,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/4MagTPnkPiDuIa4P8GtW1b"
@@ -18312,7 +18330,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -18330,7 +18348,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f"
@@ -22634,7 +22652,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -26018,7 +26036,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-06",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -26054,7 +26072,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -27590,7 +27608,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"

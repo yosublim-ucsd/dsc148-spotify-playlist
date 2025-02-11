@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 46222,
+  "num_followers": 46226,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cuatro Tigres",
-        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La Danza de los Simpsons",
-      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cuatro Tigres",
+        "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "La Danza de los Simpsons",
+      "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
-      "added_at": "2024-10-04 18:38:32",
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ"
-      },
-      "artists": [
-        {
-          "name": "Gia Fu",
-          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
-        }
-      ],
-      "duration_ms": 297468,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul"
-    },
-    {
       "added_at": "2024-08-23 00:44:14",
       "album": {
         "name": "Pa\u00f1uelo De Seda",
@@ -715,6 +699,22 @@
       "duration_ms": 183103,
       "name": "Pa\u00f1uelo De Seda",
       "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
+    },
+    {
+      "added_at": "2024-10-04 18:38:32",
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ"
+      },
+      "artists": [
+        {
+          "name": "Gia Fu",
+          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
+        }
+      ],
+      "duration_ms": 297468,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
     },
     {
-      "added_at": "2023-03-16 23:13:46",
-      "album": {
-        "name": "Mi Gran Dolor",
-        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 254908,
-      "name": "Mi Gran Dolor",
-      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
-    },
-    {
       "added_at": "2023-12-20 04:46:22",
       "album": {
         "name": "Mar Iguana",
@@ -1351,6 +1335,22 @@
       "duration_ms": 197821,
       "name": "Mar Iguana",
       "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
+    },
+    {
+      "added_at": "2023-03-16 23:13:46",
+      "album": {
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Infame Golpazo En Keroxen",
         "url": "https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 234603,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     }
   ],
   "unique_name": "TROPILOCO",

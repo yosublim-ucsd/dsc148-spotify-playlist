@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,752 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,792 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 25 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 26 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 27 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
-| 28 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
-| 29 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
+| 28 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
+| 29 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 30 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 31 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 32 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 43 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 44 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 45 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 |
-| 46 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
-| 47 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 46 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 47 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
 | 48 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 49 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 | 50 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 |

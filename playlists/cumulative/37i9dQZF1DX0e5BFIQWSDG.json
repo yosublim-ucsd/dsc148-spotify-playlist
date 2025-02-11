@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sigma, Light",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SNIK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "VERY RARE",
+        "url": "https://open.spotify.com/album/5DOZblhavobX4qd3Q7ollG"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "5 AM IN VANCOUVER",
+      "url": "https://open.spotify.com/track/3VwyRL8A1CkxCLWtWalb60"
+    },
+    {
+      "album": {
         "name": "9ARI",
         "url": "https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6"
       },
@@ -142,6 +160,24 @@
       "duration_ms": 172577,
       "name": "9ARI",
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "album": {
@@ -689,6 +725,28 @@
     },
     {
       "album": {
+        "name": "Boro Ki Ego",
+        "url": "https://open.spotify.com/album/2hKXyjSxMtoobIWn0w88wJ"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193821,
+      "name": "Boro Ki Ego",
+      "url": "https://open.spotify.com/track/4mo8SrFr4TmwTrj76DTwIA"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/4Z8qiQRAUDe72Fo4gTLExZ"
       },
@@ -1036,7 +1094,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -1384,7 +1442,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
@@ -3160,7 +3218,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 141176,
       "name": "Rabanne",
       "url": "https://open.spotify.com/track/5IEfvd0RtX7WITYPiM2cN4"
@@ -3190,6 +3248,28 @@
       "duration_ms": 137142,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3"
+    },
+    {
+      "album": {
+        "name": "VERY RARE",
+        "url": "https://open.spotify.com/album/5DOZblhavobX4qd3Q7ollG"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "ROLEX & BENZ",
+      "url": "https://open.spotify.com/track/4DSkK1XfAaO0qDfcoyqTXc"
     },
     {
       "album": {
@@ -3734,7 +3814,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 205202,
       "name": "To Viografiko",
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"

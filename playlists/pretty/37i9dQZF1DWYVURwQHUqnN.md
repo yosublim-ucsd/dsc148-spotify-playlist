@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Alonzo x Gazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,109 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,189 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

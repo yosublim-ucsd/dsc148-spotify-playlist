@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,951 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,989 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 50 | [Colorado \(feat\. HARDY\)](https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Whiskey On Whiskey](https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO) | 2:48 |
 | 51 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
 
-Snapshot ID: `Z6aegAAAAAC/wxnRv2LzkHNpv2xyNs9O`
+Snapshot ID: `Z6fwAAAAAACyuGTTq4uUTogB6LejwPf3`

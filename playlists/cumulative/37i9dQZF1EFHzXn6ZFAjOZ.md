@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 8 hr 58 min
+162 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,8 @@
 | [If I Get My Way](https://open.spotify.com/track/7nZfqSVjcyoKTv0fYFd8rb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:40 | 2023-12-30 |  |
 | [Just for One Night \(feat\. Astrid S\)](https://open.spotify.com/track/7AEV4oGvHPn1DtAE7pLCXR) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Just For One Night \(feat\. Astrid S\)](https://open.spotify.com/album/0RXOXEux1zPAhFcL8AkzJY) | 3:46 | 2023-12-30 |  |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2023-12-30 |  |
-| [Last Summer](https://open.spotify.com/track/7K6H44x9AOkrt3PK6ig4w0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 | 2023-12-30 | 2025-02-10 |
-| [Last Summer](https://open.spotify.com/track/4EUCfaRRQQtiKEoGY5ACBy) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/6xkO0VLObgUL8o0ztpW0hT) | 2:55 | 2025-02-09 |  |
+| [Last Summer](https://open.spotify.com/track/7K6H44x9AOkrt3PK6ig4w0) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:54 | 2023-12-30 |  |
+| [Last Summer](https://open.spotify.com/track/4EUCfaRRQQtiKEoGY5ACBy) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Swedish Summer Edition\)](https://open.spotify.com/album/6xkO0VLObgUL8o0ztpW0hT) | 2:55 | 2025-02-09 | 2025-02-11 |
 | [Let Love Go \(feat\. Lil Tecca\)](https://open.spotify.com/track/6Dfi1zryJF6c5DoW0JHl7u) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:53 | 2023-12-30 |  |
 | [Let Them Know](https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:28 | 2024-01-01 |  |
 | [Let Them Know](https://open.spotify.com/track/3hSe567EWQTIE1FMPhS9HZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/5yP4ApUADDkqRWnwxadFAY) | 3:02 | 2023-12-30 | 2024-02-02 |
@@ -120,7 +120,8 @@
 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 | 2023-12-30 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-12-30 |  |
 | [Proud](https://open.spotify.com/track/3oYTZa4MFZLQQMEjDqveWR) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Proud](https://open.spotify.com/album/1kmTJmV4YO6Du6zEBq061c) | 3:30 | 2023-12-30 |  |
-| [Put Your Phone Down \(Low\)](https://open.spotify.com/track/09UIve33faNNKL3Kzui0BH) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Survivor / Put Your Phone Down \(Low\)](https://open.spotify.com/album/2FY0KY4u0usEJHwR2gcXFN) | 2:57 | 2023-12-30 |  |
+| [Put Your Phone Down \(Low\)](https://open.spotify.com/track/09UIve33faNNKL3Kzui0BH) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Survivor / Put Your Phone Down \(Low\)](https://open.spotify.com/album/2FY0KY4u0usEJHwR2gcXFN) | 2:57 | 2023-12-30 | 2025-02-11 |
+| [Put Your Phone Down \(Low\)](https://open.spotify.com/track/1NRXDCj3U8pWY9VhGBWG9p) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Survivor / Put Your Phone Down \(Low\)](https://open.spotify.com/album/6ltTfTNyUeMSTDQtW0iUYy) | 2:57 | 2025-02-10 |  |
 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 | 2023-12-30 |  |
 | [Regardless](https://open.spotify.com/track/0gjZAHX4U38wVbexsyJ7Sz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Regardless](https://open.spotify.com/album/54hAW1dmZY3fomigBxwuae) | 3:18 | 2023-12-31 | 2024-02-01 |
 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 | 2023-12-30 |  |

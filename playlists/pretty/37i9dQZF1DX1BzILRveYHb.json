@@ -1,6 +1,6 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 759471,
+  "num_followers": 759651,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Mystery Girl",
-        "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "Now in a Minute",
         "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "Mystery Girl",
+        "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
         }
       ],
-      "duration_ms": 169373,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
+      "duration_ms": 292400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
     }
   ],
   "unique_name": "Sunny Day",

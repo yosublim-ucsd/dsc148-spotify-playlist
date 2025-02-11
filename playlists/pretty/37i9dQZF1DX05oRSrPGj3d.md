@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,413 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,446 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 58 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
 | 59 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
-| 61 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
-| 62 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
+| 61 | [Choices](https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Cold Hard Truth](https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3) | 3:26 |
+| 62 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 63 | [17](https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN) | [Cross Canadian Ragweed](https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0) | [Cross Canadian Ragweed](https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI) | 5:19 |
 | 64 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
 | 65 | [Interstate](https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY) | 4:41 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 78 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 | 79 | [Boots on a Dance Floor](https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 3:58 |
 | 80 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 |
-| 81 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
-| 82 | [One More Goodbye](https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 4:14 |
+| 81 | [One More Goodbye](https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 4:14 |
+| 82 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
 | 83 | [Mr\. Bojangles](https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Mr\. Bojangles](https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW) | 5:28 |
 | 84 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 85 | [Carry On](https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:57 |

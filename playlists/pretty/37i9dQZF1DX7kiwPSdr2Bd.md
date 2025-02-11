@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio, Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,838 likes - 80 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,893 likes - 80 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 40 | [Tudo Que Eu Mais Quero \- Ao Vivo](https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Tudo Que Eu Mais Quero \(Ao Vivo\)](https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu) | 4:15 |
 | 41 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
 | 42 | [Um Milhão de Vezes \- Ao Vivo](https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Um Milhão de Vezes \(Ao Vivo\)](https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I) | 4:18 |
-| 43 | [Vigor \(Ao Vivo\)](https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Vigor \(Ao Vivo\)](https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf) | 4:26 |
-| 44 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
+| 43 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
+| 44 | [Vigor \(Ao Vivo\)](https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Vigor \(Ao Vivo\)](https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf) | 4:26 |
 | 45 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
 | 46 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
 | 47 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 49 | [Não Temerei Jamais \- Ao Vivo](https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Temerei Jamais \(Ao Vivo\)](https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7) | 5:52 |
 | 50 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
 | 51 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi) | 5:12 |
-| 52 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
-| 53 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
+| 52 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
+| 53 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
 | 54 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
 | 55 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
 | 56 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 |

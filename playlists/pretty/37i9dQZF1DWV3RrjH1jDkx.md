@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,263 likes - 104 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,258 likes - 104 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

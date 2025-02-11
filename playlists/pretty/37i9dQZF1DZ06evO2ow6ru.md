@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,174 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,183 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 15 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 |
 | 16 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
 | 17 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 |
-| 18 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
-| 19 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 |
+| 18 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 |
+| 19 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 20 | [Six Feet Under The Stars](https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:36 |
 | 21 | [Lost In Stereo](https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:47 |
 | 22 | [Somewhere in Neverland](https://open.spotify.com/track/4RWAWUoPEcQk0QDj8JGmAz) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:45 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 31 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 32 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 |
 | 33 | [Favorite Place \(feat\. The Band CAMINO\)](https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:13 |
-| 34 | [Old Scars / Future Hearts](https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:26 |
-| 35 | [Coffee Shop Soundtrack](https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:01 |
+| 34 | [Coffee Shop Soundtrack](https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up Or Shut Up](https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt) | 3:01 |
+| 35 | [Old Scars / Future Hearts](https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:26 |
 | 36 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 37 | [Last Young Renegade](https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:34 |
 | 38 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 |
 | 50 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 |
 
-Snapshot ID: `Z6aegAAAAAAwk2jTZtB8vS0ey/GhzGmF`
+Snapshot ID: `Z6fwAAAAAACSuJss8ZqyrSZ6QkfsbFzE`

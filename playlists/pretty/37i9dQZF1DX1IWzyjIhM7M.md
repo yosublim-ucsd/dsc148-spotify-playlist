@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,598 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,603 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 17 | [Back To Your Place](https://open.spotify.com/track/5BzADVUCRuxiPz2ah64RLk) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Rebirth Of Marvin](https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo) | 3:22 |
 | 18 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 19 | [CEO of the friendship group](https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [CEO of the friendship group](https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1) | 1:48 |
-| 20 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
+| 20 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 |
 | 21 | [Even If It Kills Me](https://open.spotify.com/track/0vaLp7HL1NjFLcEQ66bz8X) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Even If It Kills Me](https://open.spotify.com/album/6dn7V9vlP36cwozlMRPoPJ) | 3:16 |
-| 22 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 |
+| 22 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 23 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 |
 | 24 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
 | 25 | [multiverse](https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN) | [Maya Manuela](https://open.spotify.com/artist/12bvlSCl69py9uRW9vMJyw), [PEMBROKE](https://open.spotify.com/artist/1WSqNCME0xEyefXll8SWkE) | [multiverse](https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC) | 2:59 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 51 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 |
 | 52 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
 | 53 | [All In My Head](https://open.spotify.com/track/3Bu9F59w6ubEnnLIcbJgfD) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [All In My Head](https://open.spotify.com/album/4xNvPi6XSLvxkNaeOJhfxF) | 5:07 |
-| 54 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 55 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
+| 54 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
+| 55 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
 | 56 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 57 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
 | 58 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 81 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
 | 82 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
 | 83 | [sunset blvd](https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 1:46 |
-| 84 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
-| 85 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
+| 84 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
+| 85 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 86 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 87 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
-| 88 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
-| 89 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
+| 88 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
+| 89 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 90 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 91 | [choose u everytime](https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [choose u everytime](https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV) | 3:36 |
 | 92 | [Relate](https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Relate](https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw) | 2:48 |

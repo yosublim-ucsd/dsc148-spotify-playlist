@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 200045,
       "name": "Arboreal Honor",
       "url": "https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY"
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Forest of Calm",
+        "url": "https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h"
+      },
+      "artists": [
+        {
+          "name": "Elvin Malm",
+          "url": "https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225555,
+      "name": "Forest of Calm",
+      "url": "https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX"
+    },
+    {
+      "album": {
         "name": "Forest Of The Mind",
         "url": "https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 197879,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV"
@@ -2402,6 +2420,24 @@
       "duration_ms": 190434,
       "name": "Rainbow's End",
       "url": "https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU"
+    },
+    {
+      "album": {
+        "name": "Rainforest Bliss",
+        "url": "https://open.spotify.com/album/0uqojhyuqsK5SDtgXGCInO"
+      },
+      "artists": [
+        {
+          "name": "Nebuu",
+          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148259,
+      "name": "Rainforest Bliss",
+      "url": "https://open.spotify.com/track/3gNmRr9fH0FxDThHCqGLmN"
     },
     {
       "album": {

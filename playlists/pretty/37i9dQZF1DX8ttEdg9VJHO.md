@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,143 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,168 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 38 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
 | 39 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 40 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
-| 41 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
-| 42 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 |
-| 43 | [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 |
-| 44 | [Over](https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Over](https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2) | 2:49 |
+| 41 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 |
+| 42 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
+| 43 | [Over](https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Over](https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2) | 2:49 |
+| 44 | [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 |
 | 45 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
 | 46 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
 | 47 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |

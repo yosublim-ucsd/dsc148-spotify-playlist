@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,733 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,807 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 60 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 61 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
 | 62 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
-| 63 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
-| 64 | [Oxford Comma](https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 3:15 |
+| 63 | [Oxford Comma](https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 3:15 |
+| 64 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
 | 65 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
 | 66 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
 | 67 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 70 | [Crooked Teeth](https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:23 |
 | 71 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
 | 72 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
-| 73 | [11th Dimension](https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF) | 4:03 |
-| 74 | [33°](https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [33°](https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX) | 4:30 |
+| 73 | [33°](https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [33°](https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX) | 4:30 |
+| 74 | [11th Dimension](https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF) | 4:03 |
 | 75 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
 | 76 | [Everlasting Light](https://open.spotify.com/track/50ruR1ueH4wroJBpJOnjQS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
 | 77 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAG63+s7AuYk+d/CpLCX7di0KSyHOI9",
+  "snapshot_id": "AAAG7Y4T1AP3clngF30IDnKNs+dj6zvp",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8851,6 +8851,38 @@
       "duration_ms": 93205,
       "name": "Do Not Fire! (demo)",
       "url": "https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql"
+    },
+    {
+      "added_at": "2025-02-10 05:23:11",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 215992,
+      "name": "endless",
+      "url": "https://open.spotify.com/track/0WxgcCdTvtOrAqfSDzBcDB"
+    },
+    {
+      "added_at": "2025-02-10 22:10:14",
+      "album": {
+        "name": "Cowards",
+        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/6gLaRcJnA7FqyEYpYJ4uPI"
     }
   ],
   "unique_name": "Zacklog",

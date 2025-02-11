@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,672 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,020 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 18 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 19 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
 | 20 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 |
-| 21 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
-| 22 | [Won't Go Home Without You](https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5) | 3:51 |
+| 21 | [Won't Go Home Without You](https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5) | 3:51 |
+| 22 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
 | 23 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
 | 24 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
 | 25 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 32 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
 | 33 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 |
 | 34 | [Stickwitu](https://open.spotify.com/track/2lgz3yy1AyoceOVOOBmiOS) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:27 |
-| 35 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
-| 36 | [Lucky](https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 3:09 |
+| 35 | [Lucky](https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 3:09 |
+| 36 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
 | 37 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
 | 38 | [When I Look At You](https://open.spotify.com/track/6ZfXA2xakAvphXOSOJ3u1W) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 4:08 |
 | 39 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 48 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 49 | [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 |
 | 50 | [Never Had A Dream Come True](https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | ["7"](https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ) | 4:00 |
-| 51 | [Better Man](https://open.spotify.com/track/4w2Yq2cklbssmUtUy5Vh6H) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 3:22 |
-| 52 | [All or Nothing](https://open.spotify.com/track/7pbNNVcFePJV3Wani6zH8q) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town 2](https://open.spotify.com/album/1MmcmLfKCDfdMKkv9VzftG) | 4:10 |
-| 53 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
-| 54 | [Best In Me](https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:13 |
+| 51 | [All or Nothing](https://open.spotify.com/track/7pbNNVcFePJV3Wani6zH8q) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town 2](https://open.spotify.com/album/1MmcmLfKCDfdMKkv9VzftG) | 4:10 |
+| 52 | [Better Man](https://open.spotify.com/track/4w2Yq2cklbssmUtUy5Vh6H) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 3:22 |
+| 53 | [Best In Me](https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:13 |
+| 54 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
 | 55 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift \(Deluxe Edition\)](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw) | 3:23 |
 | 56 | [If Tomorrow Never Comes](https://open.spotify.com/track/7tbJozWewwmFvTkXCUFtt0) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Destination](https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X) | 3:34 |
 | 57 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |

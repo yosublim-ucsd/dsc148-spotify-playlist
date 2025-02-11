@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,030 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,077 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 12 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 |
 | 13 | [Own It \(feat\. Ed Sheeran & Burna Boy\)](https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:36 |
 | 14 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
-| 15 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 |
-| 16 | [On the Low](https://open.spotify.com/track/1zIk8RJEKGvoH4FioFnGyJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:05 |
+| 15 | [On the Low](https://open.spotify.com/track/1zIk8RJEKGvoH4FioFnGyJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:05 |
+| 16 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 |
 | 17 | [23](https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 4:05 |
 | 18 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
 | 19 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 32 | [Talibans II \- Bonus Track](https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:56 |
 | 33 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 |
 | 34 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
-| 35 | [Wetin Man Go Do](https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
+| 35 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
 | 36 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
 | 37 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 |
 | 38 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
-| 39 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
+| 39 | [Wetin Man Go Do](https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
 | 40 | [Afrikan Star](https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU) | 3:14 |
 | 41 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 |
 | 42 | [On Form](https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 50 | [JA ARA E](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:10 |
 | 51 | [Pull Up](https://open.spotify.com/track/0MDeWV3cqVKEQ3rswH6Xea) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:07 |
 
-Snapshot ID: `Z6aegAAAAADseT3+eD3dTSBXjjZIh5MV`
+Snapshot ID: `Z6fwAAAAAACzzsV8SgX1AGJ7br/caBKH`

@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1480691,
+  "num_followers": 1481166,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 161765,
-      "name": "Fluxxwave (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Freddie's Inferno - Ghost Slowed",
         "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 183750,
       "name": "Limbo - Ghost Slowed",
       "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 161765,
+      "name": "Fluxxwave (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
     },
     {
       "added_at": "2024-05-24 04:38:40",

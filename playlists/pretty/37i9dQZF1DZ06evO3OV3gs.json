@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 677770,
+  "num_followers": 677831,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAB+4Lx1gNqYpR/9EnzVMUQX",
+  "snapshot_id": "Z6fwAAAAAAAxFX5kFvbjVbHIHvNTit6M",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 78293,
-      "name": "A Cinema in Buenos Aires, 26 July 1952",
-      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 238360,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 78293,
+      "name": "A Cinema in Buenos Aires, 26 July 1952",
+      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 315466,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+      "duration_ms": 335733,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 335733,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+      "duration_ms": 315466,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 260946,
-      "name": "Let It Will Be",
-      "url": "https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe"
+      "duration_ms": 211475,
+      "name": "Back That Up To The Beat - demo version",
+      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back That Up To The Beat",
-        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 211475,
-      "name": "Back That Up To The Beat - demo version",
-      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
+      "duration_ms": 260946,
+      "name": "Let It Will Be",
+      "url": "https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
       "duration_ms": 337840,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Candy Perfume Girl",
+      "url": "https://open.spotify.com/track/7crZfJQOb8QsLtn3LwwQLK"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Candy Perfume Girl",
-      "url": "https://open.spotify.com/track/7crZfJQOb8QsLtn3LwwQLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 262320,
       "name": "Forbidden Love",
       "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Drowned World / Substitute for Love",
-      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 279480,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/5EozWxc0G7mMAHgQdGDlHm"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 245706,
       "name": "Faz Gostoso (feat. Anitta)",
       "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 300600,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/5EozWxc0G7mMAHgQdGDlHm"
     }
   ],
   "unique_name": "This Is Madonna",

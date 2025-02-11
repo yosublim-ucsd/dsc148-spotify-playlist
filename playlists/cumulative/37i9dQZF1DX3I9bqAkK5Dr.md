@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-334 songs - 20 hr 7 min
+335 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,9 +127,10 @@
 | [Kshaminchu](https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kshaminchu](https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz) | 2:19 | 2023-06-19 | 2024-10-24 |
 | [Kshanam](https://open.spotify.com/track/3RoOO8Rmx5Wd9a9LrV5Btw) | [Gavenpride](https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS) | [Kshanam](https://open.spotify.com/album/4iYPR8cdYtPYuN2noncJ86) | 1:54 | 2023-10-04 | 2024-10-11 |
 | [Ku Koohu Koyila](https://open.spotify.com/track/3OwBhidXF0tDdojn0h67jg) | [Baloo Spicy](https://open.spotify.com/artist/5t1t4c1r5z1QuMaxIhVPh7) | [Ku Koohu Koyila](https://open.spotify.com/album/1nyHioOCsCpgajIZQqYwPl) | 4:34 | 2023-05-08 | 2024-09-19 |
-| [LABOUR \(Telugu\)](https://open.spotify.com/track/5a80e41LbpBreejyJlQTkY) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ananya Sritam Nanda](https://open.spotify.com/artist/5LEB7FszyBm9WvEwtbJeKS) | [LABOUR \(Telugu\)](https://open.spotify.com/album/07K6LgY8VG8guTJzrSwOkB) | 5:11 | 2024-11-20 |  |
+| [LABOUR \(Telugu\)](https://open.spotify.com/track/5a80e41LbpBreejyJlQTkY) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ananya Sritam Nanda](https://open.spotify.com/artist/5LEB7FszyBm9WvEwtbJeKS) | [LABOUR \(Telugu\)](https://open.spotify.com/album/07K6LgY8VG8guTJzrSwOkB) | 5:11 | 2024-11-20 | 2025-02-11 |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2022-07-18 | 2023-08-26 |
 | [Laya](https://open.spotify.com/track/74x8AK6doFpc9hXiPolBay) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Laya](https://open.spotify.com/album/5upnKToHtUzOuHz9BrbhIK) | 2:35 | 2023-02-03 | 2023-05-27 |
+| [Lokulu Kakulu](https://open.spotify.com/track/6ROzWTFZMRjzFwQrf19bmA) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [Lokulu Kakulu](https://open.spotify.com/album/05yU1IGH4XqBzwNSFgdep8) | 2:14 | 2025-02-10 |  |
 | [Lollipop](https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Lollipop](https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs) | 5:29 | 2022-07-18 | 2023-05-23 |
 | [London Bridge](https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX) | [London Bridge](https://open.spotify.com/album/5XOL1zvVGNrsQsIPmtZWUL) | 2:05 | 2023-05-18 | 2023-07-04 |
 | [Love Letter](https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH) | [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Love Letter](https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm) | 2:22 | 2023-11-16 | 2023-12-02 |

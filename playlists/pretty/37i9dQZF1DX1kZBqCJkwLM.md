@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,823 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,830 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 51 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
 | 52 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
 | 53 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
-| 54 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
-| 55 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
-| 56 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
+| 54 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
+| 55 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
+| 56 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
 | 57 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
 | 58 | [Bad Girls Behave](https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT) | 2:50 |
 | 59 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |

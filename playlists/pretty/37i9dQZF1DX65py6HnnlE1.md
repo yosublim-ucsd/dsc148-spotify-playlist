@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,813 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,890 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 15 | [Que Me Des Tu Cariño](https://open.spotify.com/track/3sMknNKJKr6GHIYpcRodyD) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/6wwBmLiZ1qX0FvnABZfNFM) | 3:28 |
 | 16 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
 | 17 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
-| 18 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
+| 18 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
 | 19 | [Si Estuvieras Aquí](https://open.spotify.com/track/5LaOePNL1J2kjhmj98xKif) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 3:54 |
 | 20 | [Dile A El](https://open.spotify.com/track/4RPa0ld3K8ZGjUcSPdYc4p) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 3:53 |
 | 21 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
 | 22 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 |
 | 23 | [Shorty, Shorty](https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 2:54 |
 | 24 | [Los Infieles](https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:17 |
-| 25 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
+| 25 | [La Carretera](https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:58 |
 | 26 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 |
 | 27 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 28 | [Nereyda](https://open.spotify.com/track/4GqF1OeM18jaUiCs56JR5s) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Regresa Amor](https://open.spotify.com/album/64PLhfXkELD6htYvIBb4gv) | 4:55 |

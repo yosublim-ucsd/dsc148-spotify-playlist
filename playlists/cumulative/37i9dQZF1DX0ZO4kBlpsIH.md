@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-221 songs - 10 hr 51 min
+222 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alone](https://open.spotify.com/track/1LLvGyC6OfyrE06zrdkZg2) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/3B9vXnaS3md9FibgkwyczM) | 3:30 | 2022-02-18 | 2023-05-04 |
 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 | 2023-05-03 | 2024-04-19 |
 | [Amarcord](https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9) | [Les Musettes de Montmartre](https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j) | [More Accordions Of Paris](https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r) | 3:32 | 2022-11-25 |  |
+| [Amis, Simplement](https://open.spotify.com/track/7uFbBGMifexy5Nb5GQ2NK9) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [Amis, Simplement](https://open.spotify.com/album/6hHgKgqFSXKSemkT8xdaVA) | 3:36 | 2025-02-10 |  |
 | [Amor del Bajo Corrales](https://open.spotify.com/track/1ULkKtUQyODQheFCYbuXHZ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:28 | 2022-11-25 |  |
 | [Amour, Mon Cher Amour](https://open.spotify.com/track/7je6JyunzZyZ0FSEfkpgMg) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Swinging with Jimmy Rosenberg](https://open.spotify.com/album/4z1txNSbOCoJNtujT6Z6GR) | 3:12 | 2023-03-07 | 2023-06-16 |
 | [Amusement](https://open.spotify.com/track/7eCbXJ0o1JUYQQ7jdJehNK) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [Amusement](https://open.spotify.com/album/2n3vXVojSN4OAbzC5mV67k) | 2:44 | 2024-08-07 |  |
@@ -213,7 +214,7 @@
 | [Un Jour Avec Toi](https://open.spotify.com/track/3cTYEYUszhYuIqCkfXTbqd) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Un Jour Avec Toi](https://open.spotify.com/album/0D3RyIOUJpzgLS6kTH8lgL) | 2:59 | 2023-08-03 |  |
 | [Under Paris Skies](https://open.spotify.com/track/1IT59rLa3oUTJ3FF9sOUAc) | [The Paris Musette](https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0) | [Café Francaise](https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh) | 2:08 | 2022-11-25 |  |
 | [une dernière question](https://open.spotify.com/track/0NP0mMjDlSx8PvfMu7UxEY) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Tarte aux pommes de maman](https://open.spotify.com/album/6OCCBuYKcK2rfvFwg8XugI) | 2:53 | 2023-05-11 | 2023-08-19 |
-| [Une Nuit Avec Toi](https://open.spotify.com/track/1XuznZ0644amUBzyeRgZNx) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [Une Nuit Avec Toi](https://open.spotify.com/album/0Fd1X2ENYfHvq0gkGCUy5i) | 3:33 | 2024-09-02 |  |
+| [Une Nuit Avec Toi](https://open.spotify.com/track/1XuznZ0644amUBzyeRgZNx) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [Une Nuit Avec Toi](https://open.spotify.com/album/0Fd1X2ENYfHvq0gkGCUy5i) | 3:33 | 2024-09-02 | 2025-02-11 |
 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:37 | 2022-08-05 | 2024-04-19 |
 | [Valse aux Champs\-Elysees](https://open.spotify.com/track/2tXsQnHFbOiEros8MUVLrj) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:37 | 2022-02-18 | 2022-11-08 |
 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/501iTeeBoE0l0lDoUUNO3R) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Cafe Paris \- French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/4m0sM2zsMv3DxOPPj5y4Es) | 2:37 | 2022-02-18 |  |

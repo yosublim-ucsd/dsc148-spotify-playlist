@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,340 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,359 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 23 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 24 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
 | 25 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
-| 26 | [Besame Mucho](https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 3:05 |
-| 27 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
+| 26 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
+| 27 | [Besame Mucho](https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 3:05 |
 | 28 | [Quiereme siempre \- Remastered](https://open.spotify.com/track/29fdJkJSmD4PoSJamszJQF) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Por siempre los 5 latinos, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/19eaIeTw3q3pWrN5q5R1R6) | 2:16 |
 | 29 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
 | 30 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 38 | [Perfídia](https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 2:53 |
 | 39 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
 | 40 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
-| 41 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
-| 42 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
+| 41 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
+| 42 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
 | 43 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
 | 44 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
 | 45 | ["Siboney"](https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1) | [Ernesto Lecuona](https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Karl\-Heinz Loges](https://open.spotify.com/artist/1VTpMc0kGScmCzqyur5D6c) | [Plácido Domingo \- Be My Love](https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW) | 3:37 |

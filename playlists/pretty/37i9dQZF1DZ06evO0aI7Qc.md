@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,979 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,072 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 22 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 |
 | 23 | [F\*%K U Baby](https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [F\*%K U Baby](https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg) | 2:33 |
 | 24 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
-| 25 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
-| 26 | [El Menos Visto](https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:03 |
+| 25 | [El Menos Visto](https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:03 |
+| 26 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
 | 27 | [Por Si Se Les Olvidaba](https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Por Si Se Les Olvidaba](https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck) | 2:40 |
 | 28 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 |
 | 29 | [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 50 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 |
 | 51 | [Volando Bajito](https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Volando Bajito](https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3) | 2:26 |
 
-Snapshot ID: `Z6aegAAAAAC/hdYai9eUMdrFXni2qlEZ`
+Snapshot ID: `Z6fwAAAAAACqEbu8NV1xHRCTYlLs6Lr0`

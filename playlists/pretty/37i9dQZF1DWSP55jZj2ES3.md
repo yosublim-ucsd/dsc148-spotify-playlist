@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,709 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,694 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 |
-| 2 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
+| 2 | [I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:03 |
 | 3 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 |
-| 4 | [I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:03 |
+| 4 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 5 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 6 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
 | 7 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 |

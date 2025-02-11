@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578654,
+  "num_followers": 578725,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "Abot Langit (Ricovered)",
-        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        },
-        {
-          "name": "Maris Racal",
-          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Abot Langit - Ricovered",
-      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
-    },
-    {
-      "added_at": "2024-12-16 05:11:53",
-      "album": {
         "name": "Sakote",
         "url": "https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 289083,
       "name": "Sakote",
       "url": "https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d"
+    },
+    {
+      "added_at": "2024-12-16 05:11:53",
+      "album": {
+        "name": "Abot Langit (Ricovered)",
+        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        },
+        {
+          "name": "Maris Racal",
+          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Abot Langit - Ricovered",
+      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
     },
     {
       "added_at": "2024-12-16 05:11:53",

@@ -4,7 +4,7 @@
 
 > mostly rock
 
-817 songs - 2 day 4 hr 21 min
+822 songs - 2 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Always](https://open.spotify.com/track/4qHBz5rc2KG7Ieegwj1koM) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Always](https://open.spotify.com/album/6NQjxylPSicKTphkMU0HRn) | 3:48 | 2024-05-18 |  |
 | [Always](https://open.spotify.com/track/5geOdYwUPxssyPKdT3Jt9M) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [EASTOKLAB](https://open.spotify.com/album/3Qp6pe8xzAgDXR6qgtIetg) | 3:52 | 2024-05-18 |  |
 | [Amen, I'm Going Somewhere](https://open.spotify.com/track/3j4k4vbBGRcplLBuIHgaCD) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [The Colors Within \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0w62lweFkC4DEqp1s96gaT) | 3:53 | 2024-10-20 |  |
+| [Another Ride](https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0) | [ippo.tsk](https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof), [Synthesizer V ANRI](https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0) | [Another Ride](https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC) | 3:28 | 2025-02-10 |  |
 | [ANSWER FROM MARZ](https://open.spotify.com/track/3KE2QOlWVqE10F6ixfbLj3) | [0.8Syooogeki](https://open.spotify.com/artist/2bQl2eVUqMrlo9oncfmwtF) | [Zoo&LENNON](https://open.spotify.com/album/49gFbYGFdg1Uc1sO3KG8Rl) | 1:36 | 2024-08-18 |  |
 | [Anxiety](https://open.spotify.com/track/0aW3dt6VKz9odmcBivryWe) | [nihosika](https://open.spotify.com/artist/7fUfK1XiSvJAVxIuqhjzL4) | [Present mind form](https://open.spotify.com/album/5x7AxLAqYj4zES2qHpqtlm) | 1:20 | 2024-09-01 |  |
 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-08-27 |  |
@@ -142,6 +143,7 @@
 | [Ex \(feat\. cat biscuit\)](https://open.spotify.com/track/6bkSNSUWSMwxNrvGC2QBiC) | [Nagase Yuka](https://open.spotify.com/artist/5Be1vE6B5W0fH1ZCd7lTtR), [SASAKRECT](https://open.spotify.com/artist/2DcBqvgOlMtC3K4uGQZ9v8), [cat biscuit](https://open.spotify.com/artist/1LFvesmXNYiqpicGZx3tio) | [Ex \(feat\. cat biscuit\)](https://open.spotify.com/album/5dJEv9W1QfoMUyqFfEhK0C) | 2:55 | 2024-06-30 |  |
 | [EXIT](https://open.spotify.com/track/5fyHa5mzJkU2naQOt3vYX8) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Fishing](https://open.spotify.com/album/4AH4mit2y1i7UgaRkGIfch) | 3:48 | 2023-08-18 |  |
 | [Faithlessness](https://open.spotify.com/track/7H4zZGCLNDp457svnrJdZB) | [Maison book girl](https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87) | [Image](https://open.spotify.com/album/2a1emqpuvhipzScdEBpkq7) | 4:16 | 2023-07-21 |  |
+| [fake flower](https://open.spotify.com/track/0oIlhZ7Qj4DC7dL4U1nuqr) | [lical](https://open.spotify.com/artist/4QXbaOKt3DNKEPgAUhpNuP) | [flowers of sentence, rebirth at sea](https://open.spotify.com/album/6XTXlroDpsHt8tAxIXdgia) | 3:21 | 2025-02-10 |  |
 | [Family Conclusion](https://open.spotify.com/track/6xxs8iFhoChPiPHIffZ0PT) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [Family Conclusion](https://open.spotify.com/album/3GXl7V8fBT8u9oc82LwO0G) | 3:37 | 2024-08-01 |  |
 | [farewell](https://open.spotify.com/track/4nhQgXGvIDZmQR5GG7urbF) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [farewell](https://open.spotify.com/album/3zI5YFsZPqgzexM8CJijQJ) | 3:40 | 2024-02-15 |  |
 | [Farewell](https://open.spotify.com/track/6lu3m2tgMh1rCIhLIUWJQH) | [Looprider](https://open.spotify.com/artist/4eS2bDxoiOAJKxQmd3gz7e) | [My Electric Fantasy](https://open.spotify.com/album/5i0YsYccN1qOw3Qt94peMJ) | 5:00 | 2024-05-18 |  |
@@ -353,6 +355,7 @@
 | [raison dale](https://open.spotify.com/track/6iwFjthGgRcyukvWhSEQ5l) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [moment l.p.](https://open.spotify.com/album/14JGvzgBLwYENuT7UnoeEe) | 4:51 | 2023-11-18 |  |
 | [Ramune River](https://open.spotify.com/track/37xK8GDg5SMwi3QMbeqOZA) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [Ramune River](https://open.spotify.com/album/0e14Wd86QXWafWYKeroONh) | 4:59 | 2024-04-30 |  |
 | [Read On](https://open.spotify.com/track/5oLoAySovh4L1RIJVUxDDL) | [Forbear](https://open.spotify.com/artist/2LaU8vZhn4592q8Yu0P8QO) | [4songs](https://open.spotify.com/album/3iy93B4ugKq6macsTjAplV) | 2:59 | 2024-07-04 |  |
+| [realism](https://open.spotify.com/track/4bwh3WoiGGq29sQWVxLaOv) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 1:52 | 2025-02-10 |  |
 | [rebirth and karma](https://open.spotify.com/track/27tLxH76IUICEvyG4zgiU2) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [shaman's daughter](https://open.spotify.com/album/7GYwD0h6YroMt5MZzFMNSZ) | 4:10 | 2023-10-01 |  |
 | [RED](https://open.spotify.com/track/4qFtMrmaF5q9vN9ckSJvVN) | [INUMOKUWANEEYO](https://open.spotify.com/artist/3a4KASWFtSw0PKhqoyZD1b) | [Vocaloid kei hommage only \~Animation ver\~](https://open.spotify.com/album/6kkvt5BVWFLWe9u432Nrof) | 2:19 | 2023-04-06 |  |
 | [Red Eyes Alternative Black Dragon](https://open.spotify.com/track/0sFFN81gBDRTZzrtN3wSTZ) | [kudaranai1nichi](https://open.spotify.com/artist/75E3iu2PfQXjKv4B6lyAIa) | [rebound](https://open.spotify.com/album/5CAQImKGNH4OaIBJXmA5l4) | 1:50 | 2023-09-05 |  |
@@ -388,6 +391,7 @@
 | [Shotgun](https://open.spotify.com/track/4Y97sz7nEs3sip2e7aqWiX) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [SPOOL](https://open.spotify.com/album/7tDWEtkcV4sS6UnpXTy7cM) | 3:26 | 2024-02-22 |  |
 | [shun\-ran](https://open.spotify.com/track/3fwHnVrs8X3I7jaxoBeifn) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/3sWobIbTGugakWItFl0lex) | 2:41 | 2023-09-24 |  |
 | [Signal](https://open.spotify.com/track/3JTnUV0tSnqNakt1GdMQMI) | [Citrobal](https://open.spotify.com/artist/1IPPbWefxSAcgfWHztfaIT) | [My Caution Line](https://open.spotify.com/album/2KkCy2STwQzZUHtuKmH7bN) | 3:48 | 2024-07-14 |  |
+| [signal](https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa) | [sora tob sakana](https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO) | [deep blue](https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o) | 4:02 | 2025-02-10 |  |
 | [silver ring](https://open.spotify.com/track/3Tt6r80Ew8GP51yJWJdvbp) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [bookmarks \(I can be \*\*\* with some chalky candys.\)](https://open.spotify.com/album/43ZRPyuX7FsWolN8XtMOyz) | 3:10 | 2024-04-25 |  |
 | [sister](https://open.spotify.com/track/3tEYIqoMFxgtR2CZdnmbQq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [ginghamcheck](https://open.spotify.com/album/2f1VhVdYM7AtbF43B79cDZ) | 3:54 | 2024-08-18 |  |
 | [six](https://open.spotify.com/track/6U8Lgn5GifhLvhwyuyLWQ4) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 3:17 | 2024-02-18 |  |
@@ -515,6 +519,7 @@
 | [Yuguleoneroom \(feat\. Chano\)](https://open.spotify.com/track/1QVZWK1ozjaK9uz3lvqQRv) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [Chano](https://open.spotify.com/artist/49MtPwwkVyamUmJ4oVtOCy) | [Utakatarelation CHUNITHM Original Sound Track](https://open.spotify.com/album/3sXgqO3oAGrAlEVzwQn6lF) | 2:25 | 2023-07-21 |  |
 | [yurikago kara hakaba made](https://open.spotify.com/track/4aeN3v10x1Pyb820XZ92pg) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [hades \(the nine stages of change at the deceased remains\)](https://open.spotify.com/album/4hBL8N0YTn1d8P1c0AZdLw) | 3:44 | 2023-12-22 |  |
 | [zaiakukan no nichiyoubi](https://open.spotify.com/track/7ETsnEl1i1SMiKdkPLO2TL) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [shaman's daughter](https://open.spotify.com/album/7GYwD0h6YroMt5MZzFMNSZ) | 4:30 | 2023-10-01 |  |
+| [zensekai](https://open.spotify.com/track/3CKPb29QSyXR2A9DoCjaRI) | [siraph](https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb) | [zensekai](https://open.spotify.com/album/7r3DsycMgzshhojy3QF1j6) | 2:26 | 2025-02-10 |  |
 | [˖嵐₊˚ˑ༄](https://open.spotify.com/track/2W7YL7TK4gm2vRaZNOwfkg) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 3:20 | 2024-04-19 |  |
 | [あなたの夜が明けるまで at I SCREAM LIVE \- Cover](https://open.spotify.com/track/5j1GkVkmeWuroBFk3jUSHW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [I SCREAM LIVE](https://open.spotify.com/album/5vyFD36aBJV4QMvQNAUQwM) | 5:17 | 2024-05-08 |  |
 | [あふれる](https://open.spotify.com/track/1DKv7Hq1hGJab5phHG3MKq) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [真っ黒](https://open.spotify.com/album/5doNaJuxzyiybQV0YswLBv) | 3:54 | 2024-07-13 |  |

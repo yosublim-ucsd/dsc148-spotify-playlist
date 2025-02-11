@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > are we okay? 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,203 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,375 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 11 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 12 | [Marry Me](https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:25 |
 | 13 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
-| 14 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
-| 15 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
-| 16 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
-| 17 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
+| 14 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
+| 15 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
+| 16 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
+| 17 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
 | 18 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
 | 19 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 |
 | 20 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 32 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
 | 33 | [Every Little Thing](https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:00 |
 | 34 | [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 |
-| 35 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
-| 36 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
+| 35 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
+| 36 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
 | 37 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 38 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 |
 | 39 | [Break Up in the End](https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [All of It](https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm) | 3:19 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 43 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
 | 44 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 45 | [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
-| 46 | [LILY](https://open.spotify.com/track/2wcifzaL5979mgXn4pIhiK) | [Christian Hayes](https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu) | [Last I Love You](https://open.spotify.com/album/6M1a9vvN4qMeSB0AwrtQuR) | 3:55 |
-| 47 | [I Got the Boy](https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [thirty one](https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9) | 3:21 |
+| 46 | [I Got the Boy](https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB) | [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [thirty one](https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9) | 3:21 |
+| 47 | [LILY](https://open.spotify.com/track/2wcifzaL5979mgXn4pIhiK) | [Christian Hayes](https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu) | [Last I Love You](https://open.spotify.com/album/6M1a9vvN4qMeSB0AwrtQuR) | 3:55 |
 | 48 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 49 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
 | 50 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |

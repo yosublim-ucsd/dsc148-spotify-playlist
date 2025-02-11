@@ -4,17 +4,17 @@
 
 > de skarpeste knive i dansk musik  📸  SOL & Emil Kruse
 
-150 songs - 7 hr 56 min
+151 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Dag Er Vi 1 Minde](https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [1 Dag Er Vi 1 Minde](https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y) | 3:30 | 2024-07-04 | 2024-07-29 |
 | [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 |  |
 | [Ambulance](https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Ambulance](https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4) | 3:03 | 2024-09-12 | 2024-10-29 |
-| [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 | 2024-08-30 |
+| [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 |  |
 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 | 2024-06-27 | 2024-09-12 |
 | [Bad Day](https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Bad Day](https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3) | 2:51 | 2024-08-23 | 2024-12-13 |
-| [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 | 2024-06-27 |  |
+| [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 | 2024-06-27 | 2025-02-11 |
 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 | 2024-06-27 | 2024-08-30 |
 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 | 2024-06-27 |  |
 | [Blød](https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Blød](https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O) | 2:21 | 2024-09-26 |  |
@@ -39,7 +39,7 @@
 | [DET VÆRSTE VED DIG \(feat\. Ida Laurberg\)](https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [JEG VIL IKKE VIDE DU FINDES](https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM) | 2:54 | 2024-09-12 |  |
 | [Det´ kun vigtigt, hvad det er](https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Det´ kun vigtigt, hvad det er](https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS) | 3:19 | 2024-06-27 |  |
 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 | 2024-06-27 | 2024-09-13 |
-| [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 |  |
+| [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 | 2025-02-11 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2024-11-16 |
 | [Don't Go](https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Don't Go](https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD) | 3:09 | 2025-01-30 |  |
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-23 |
@@ -101,6 +101,7 @@
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 |  |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-23 |  |
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
+| [Ned Fra Månen](https://open.spotify.com/track/0JprUaYDxtSqBqzrG0L0jG) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Ned Fra Månen](https://open.spotify.com/album/17QzIJjOJFtzwAZG6jvdUl) | 2:38 | 2025-02-06 |  |
 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 | 2024-10-03 | 2024-10-11 |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-09-05 | 2024-10-17 |
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |

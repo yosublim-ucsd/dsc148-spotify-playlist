@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,309 likes - 69 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,328 likes - 69 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 11 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
 | 12 | [Close to Me \- Acoustic](https://open.spotify.com/track/4UYzYk1EG7iP8PzL4seLRe) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Carried](https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw) | 5:52 |
 | 13 | [Tantos Mares](https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Gabriella Stehling](https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ) | [Tantos Mares](https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd) | 4:40 |
-| 14 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
-| 15 | [Highs & Lows \- Acoustic](https://open.spotify.com/track/5g4kuydmePUJAMYGNACvRy) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [III \(Acoustic\)](https://open.spotify.com/album/34C8jcy3TMTrrq0m07CYPX) | 5:51 |
+| 14 | [Highs & Lows \- Acoustic](https://open.spotify.com/track/5g4kuydmePUJAMYGNACvRy) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [III \(Acoustic\)](https://open.spotify.com/album/34C8jcy3TMTrrq0m07CYPX) | 5:51 |
+| 15 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 16 | [Bote o Pé](https://open.spotify.com/track/3KZPBw2GyCEbh2zdsmeisl) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe), [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Bote o Pé](https://open.spotify.com/album/3UOCHsSCEyPzusLJpZksqH) | 3:20 |
 | 17 | [Se Eu Cair](https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Se Eu Cair](https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv) | 5:35 |
 | 18 | [Deus sabe, Deus ouve, Deus vê](https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [sentido](https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH) | 4:49 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 35 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
 | 36 | [Simples Oração](https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Simples Oração](https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC) | 4:02 |
 | 37 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
-| 38 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
-| 39 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
+| 38 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
+| 39 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
 | 40 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
 | 41 | [Filho \- Acústico](https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Leidy Murilho Acústico](https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu) | 3:47 |
 | 42 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,734 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,757 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 19 | [Fingindo Maturidade \- Ao Vivo](https://open.spotify.com/track/3tU3UAasaDA9OixXGC3O33) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:09 |
 | 20 | [Letícia](https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Original](https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ) | 2:47 |
 | 21 | [Cabeça Voando](https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Agora Eu Pego Mesmo](https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l) | 3:03 |
-| 22 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
-| 23 | [Cena de Amor](https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Cena de Amor](https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y) | 3:42 |
+| 22 | [Cena de Amor](https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Cena de Amor](https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y) | 3:42 |
+| 23 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
 | 24 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Comunicação Falhou \(Ao Vivo\)](https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm) | 3:00 |
 | 25 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 26 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 56 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
 | 57 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 58 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |
-| 59 | [A Um Beijo \- Ao Vivo](https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [A Um Beijo \(Ao Vivo\)](https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd) | 2:36 |
-| 60 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
+| 59 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
+| 60 | [A Um Beijo \- Ao Vivo](https://open.spotify.com/track/4PbwSgOB9azMBS0eGO2tX7) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [A Um Beijo \(Ao Vivo\)](https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd) | 2:36 |
 
 Snapshot ID: `Z4o1FQAAAADtTUelQr4PMm9RuGZrU5p5`

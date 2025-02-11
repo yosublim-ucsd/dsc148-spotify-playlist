@@ -1629,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "ENAMEL",
+        "url": "https://open.spotify.com/album/3dpRnq3eAFPv1YffIkGkNI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC"
+        },
+        {
+          "name": "William Corduroy",
+          "url": "https://open.spotify.com/artist/7xRplBbf6mXxyN8oONkmRt"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86250,
+      "name": "ENAMEL",
+      "url": "https://open.spotify.com/track/5asJb7VIK9F3AqZPIwWiT4"
+    },
+    {
+      "album": {
         "name": "Euphoric Avenue",
         "url": "https://open.spotify.com/album/3og1e6r8gWEy5jgo1HTp5c"
       },
@@ -4390,7 +4412,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 204270,
       "name": "Slice",
       "url": "https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC"
@@ -4638,7 +4660,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 403954,
       "name": "Stalemate - Edit",
       "url": "https://open.spotify.com/track/1V7LkpiUuuECEEU80qUcl0"

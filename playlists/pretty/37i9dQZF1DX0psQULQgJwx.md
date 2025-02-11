@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Relaxing sounds for a pampering spa experience
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,988 likes - 188 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,031 likes - 188 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

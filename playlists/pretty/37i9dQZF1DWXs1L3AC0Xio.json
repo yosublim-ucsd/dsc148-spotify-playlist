@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 768482,
+  "num_followers": 768742,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "Broken Heart of Gold",
         "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 242306,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/1Q7Z7PQlHkuKF1F9fK5VOd"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "Light Me Up",
-        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
     },
     {
       "added_at": "2024-06-26 02:18:14",

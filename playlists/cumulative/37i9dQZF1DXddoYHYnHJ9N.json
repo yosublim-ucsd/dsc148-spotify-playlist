@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Majka",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Lady Gaga",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 156521,
       "name": "45 Primo",
       "url": "https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "album": {
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 186206,
       "name": "Mi\u00e9rt vonz jobban az \u0151sz",
       "url": "https://open.spotify.com/track/5Iggzehf27frKvnmEB2j5z"
@@ -1178,6 +1196,24 @@
       "duration_ms": 158325,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG"
+    },
+    {
+      "album": {
+        "name": "Orgonabokor (Part 3)",
+        "url": "https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Nosztalgia",
+      "url": "https://open.spotify.com/track/33FPGRObmoMXs2oWY9H9lk"
     },
     {
       "album": {
@@ -1320,6 +1356,24 @@
       "duration_ms": 147120,
       "name": "PANNONIA",
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
+    },
+    {
+      "album": {
+        "name": "Orgonabokor (Part 3)",
+        "url": "https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175637,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/3uSUgrz21jJtPGtDcyXBn8"
     },
     {
       "album": {
@@ -1756,7 +1810,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 203125,
       "name": "Tiara",
       "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
@@ -1836,7 +1890,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 154800,
       "name": "Voodoo Baba",
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"

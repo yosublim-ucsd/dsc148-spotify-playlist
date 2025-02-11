@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 45360,
+  "num_followers": 45388,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACqngC3bKvAl+G8S7SKR0Hz",
+  "snapshot_id": "Z6fwAAAAAAA1hdo4JTufg+BtPPksnA70",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como En El Cielo",
         "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 439786,
       "name": "Como En El Cielo",
       "url": "https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 433080,
+      "name": "Baut\u00edzame",
+      "url": "https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 446306,
       "name": "Con Brazos Abiertos",
       "url": "https://open.spotify.com/track/7ezrc86k2pnpDkAmvW7Trc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 433080,
-      "name": "Baut\u00edzame",
-      "url": "https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 359827,
+      "name": "Cristo Te Amo",
+      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 450186,
       "name": "Pr\u00f3digo",
       "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 359827,
-      "name": "Cristo Te Amo",
-      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 464320,
+      "name": "Despierta Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 276493,
       "name": "Cantar de Tu Amor",
       "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 464320,
-      "name": "Despierta Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        }
+      ],
+      "duration_ms": 349187,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 487160,
       "name": "Jes\u00fas, Eres el Centro",
       "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        }
-      ],
-      "duration_ms": 349187,
-      "name": "Encuentro Glorioso",
-      "url": "https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u"
     },
     {
       "added_at": null,
@@ -1063,18 +1063,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/4lLOWl526AEjbpvFi87NPJ"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 190056,
-      "name": "Mejores Tiempos",
-      "url": "https://open.spotify.com/track/2mxkTXQqJWpuAo0oZPhcQh"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria",
+      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     }
   ],
   "unique_name": "This Is Generaci\u00f3n 12",

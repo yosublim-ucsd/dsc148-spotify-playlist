@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Don Louis, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,343 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,364 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

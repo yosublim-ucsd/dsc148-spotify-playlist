@@ -4,7 +4,7 @@
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-98 songs - 10 hr 11 min
+99 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 | 2023-04-02 | 2024-11-27 |
 | [Hay Poder](https://open.spotify.com/track/3BYSqC25f995dg4Uqwzi9s) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 7:04 | 2024-11-27 |  |
 | [Jesús, Eres el Centro](https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 8:07 | 2023-12-13 |  |
+| [La Nube De Tu Gloria](https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 6:29 | 2025-02-11 |  |
 | [La Nube De Tu Gloria \(feat\. Grupo Barak\)](https://open.spotify.com/track/6XtLAdCKyP5BmXnjcDxjkD) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Grupo Barak](https://open.spotify.com/artist/5743Ce6Ev0jeNfXBxpiyQU) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:29 | 2023-04-02 | 2023-12-14 |
 | [Lo Perdí Todo](https://open.spotify.com/track/4OXbMqnvvDGC7skHJUgONt) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 3:34 | 2024-03-26 |  |
 | [Lo Perdí Todo](https://open.spotify.com/track/5TDc2nGu0vaXZaNO7CiDnE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 3:34 | 2023-04-02 | 2024-03-27 |
@@ -63,7 +64,7 @@
 | [Luz del Mundo](https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz) | 4:45 | 2024-12-07 |  |
 | [Me Decidí por Ti](https://open.spotify.com/track/7MlIR0VI0QOfqclPCmSqzg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 3:47 | 2024-11-25 |  |
 | [Me Vuelvo a Ti](https://open.spotify.com/track/7IhUvHVUMPpPqnt6wSSbGf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 4:34 | 2023-04-02 | 2023-11-11 |
-| [Mejores Tiempos](https://open.spotify.com/track/2mxkTXQqJWpuAo0oZPhcQh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mejores Tiempos](https://open.spotify.com/album/4lLOWl526AEjbpvFi87NPJ) | 3:10 | 2023-12-15 |  |
+| [Mejores Tiempos](https://open.spotify.com/track/2mxkTXQqJWpuAo0oZPhcQh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mejores Tiempos](https://open.spotify.com/album/4lLOWl526AEjbpvFi87NPJ) | 3:10 | 2023-12-15 | 2025-02-11 |
 | [Mientras Viva](https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 3:28 | 2024-11-25 |  |
 | [Mientras Viva](https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 3:28 | 2023-04-02 | 2024-11-25 |
 | [Milagros](https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 6:28 | 2024-11-29 | 2024-12-07 |

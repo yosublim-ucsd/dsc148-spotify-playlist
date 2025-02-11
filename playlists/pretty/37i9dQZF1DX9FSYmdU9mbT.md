@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Tim Maia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,484 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,870 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 12 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 |
 | 13 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 14 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
-| 15 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
+| 15 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
 | 16 | [Fé \- Ao Vivo](https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Fé \(Ao Vivo\)](https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ) | 3:32 |
 | 17 | [Nem um Dia](https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Malásia](https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa) | 5:46 |
-| 18 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
+| 18 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
 | 19 | [Não Sei Dançar](https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Lima](https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj) | 5:05 |
 | 20 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 |
 | 21 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 77 | [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 |
 | 78 | [A Palo Seco](https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn) | [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Gilvan de Oliveira](https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS) | [Belchior Acústico](https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC) | 2:35 |
 | 79 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 |
-| 80 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 |
-| 81 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
+| 80 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
+| 81 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 |
 | 82 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 |
 | 83 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |
 | 84 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta \(1970\)](https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4) | 4:12 |

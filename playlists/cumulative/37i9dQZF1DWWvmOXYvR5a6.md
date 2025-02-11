@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Skinny Brown\(스키니 브라운\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-743 songs - 1 day 16 hr 0 min
+744 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [BRUISE \(Feat\. Skinny Brown, Loopy\)](https://open.spotify.com/track/45pjYjmR1qekpLX5SviYXZ) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [루피 \(Loopy\)](https://open.spotify.com/artist/1m9RWAAMDiUdOo9WDW9JoP) | [BRUISE](https://open.spotify.com/album/7Ci64GT3vPXALHb9j7rEAh) | 4:17 | 2022-12-19 | 2023-01-11 |
 | [Brunch](https://open.spotify.com/track/2rCE9eozHmfoqFVPOPHtCe) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Eat it when u nneed it](https://open.spotify.com/album/5OiW24T1l7SUyerZnskqKN) | 2:59 | 2022-04-01 | 2022-05-18 |
 | [Bucket List \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0ZUa8tF0zbGNvnST6xKHUg) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Time Machine](https://open.spotify.com/album/5zKdvQXlzgQfpHtfinxUgZ) | 3:41 | 2022-11-10 | 2022-12-20 |
+| [Burning slow](https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP) | [Burning slow](https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5) | 2:48 | 2025-02-10 |  |
 | [bury\. \(Feat\. SOLE\)](https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [bury.](https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq) | 3:16 | 2023-11-21 | 2024-01-08 |
 | [Button](https://open.spotify.com/track/6sfWkp3iGGTSdsfE4EIgHp) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Last Waltz](https://open.spotify.com/album/68ZbbysYxUQsq7smjVaajg) | 3:36 | 2022-04-01 | 2022-07-27 |
 | [Bye](https://open.spotify.com/track/0TbWJKIdBaDgyc1GJqx4qF) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [Bye](https://open.spotify.com/album/66GVpzcJ6V8RVTuilOk8DB) | 3:20 | 2022-05-28 | 2022-07-22 |
@@ -178,7 +179,7 @@
 | [Dream](https://open.spotify.com/track/6gVtv8uLQgzSEu5pRu3jNP) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Dream](https://open.spotify.com/album/1phlVVm4LeVx4K6HKJ6BLk) | 2:20 | 2022-08-15 | 2022-10-09 |
 | [Dressed Up \(Feat\. The Quiett\)](https://open.spotify.com/track/4kWZJSbNXqEwNAr8ZNJ2Qo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 3:38 | 2022-07-04 | 2022-07-06 |
 | [DRESSING ROOM](https://open.spotify.com/track/15FzhopZc8cymsXc8B43qs) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [X](https://open.spotify.com/album/3DSuhTgKgeqFnGQRu05vIR) | 3:15 | 2022-04-01 | 2022-07-06 |
-| [Drive mE cRaZy](https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Drive mE cRaZy](https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA) | 2:51 | 2024-03-08 |  |
+| [Drive mE cRaZy](https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Drive mE cRaZy](https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA) | 2:51 | 2024-03-08 | 2025-02-11 |
 | [Drivin’ \(Feat\. Layone, BIG Naughty\)](https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Drivin'](https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL) | 2:42 | 2022-08-02 | 2024-11-28 |
 | [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 | 2023-03-28 |  |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-04 | 2022-07-28 |

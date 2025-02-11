@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,195 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,278 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 39 | [Black Jesus](https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 4:05 |
 | 40 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 41 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
-| 42 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
-| 43 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
+| 42 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
+| 43 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 44 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
 | 45 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
 | 46 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 90 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
 | 91 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 92 | [Rattlesnakes](https://open.spotify.com/track/6i0mXs6UJCtbC4o55uKUDP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 4:10 |
-| 93 | [Ocean Beat](https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe) | 4:32 |
+| 93 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/3xIG6Jdl7NHqyBc7YpXl6g) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM) | 6:20 |
 | 94 | [Until The Morning](https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Richest Man In Babylon](https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA) | 3:56 |
-| 95 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
-| 96 | [Edge of the Ocean](https://open.spotify.com/track/6KT2I8ZtIFLE8aFLBeF1pd) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/6RS3YuPEykwG5tpFjazZ0K) | 4:25 |
-| 97 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
-| 98 | [At the River](https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo) | 6:33 |
-| 99 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
-| 100 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
+| 95 | [Ocean Beat](https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe) | 4:32 |
+| 96 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
+| 97 | [Edge of the Ocean](https://open.spotify.com/track/6KT2I8ZtIFLE8aFLBeF1pd) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/6RS3YuPEykwG5tpFjazZ0K) | 4:25 |
+| 98 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
+| 99 | [At the River](https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo) | 6:33 |
+| 100 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
 
 Snapshot ID: `ZpFVWQAAAACTYTjehF8gHGZiPvxX5lc0`

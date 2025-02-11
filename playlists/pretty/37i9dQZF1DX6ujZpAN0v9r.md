@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,098 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,312 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 61 | [Guilt](https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:13 |
 | 62 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
 | 63 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
-| 64 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
-| 65 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
+| 64 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
+| 65 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
 | 66 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
 | 67 | [Something More](https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:18 |
 | 68 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 73 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 74 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
 | 75 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
-| 76 | [Landing](https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/1wYMTM3mpZLYsoGzl5OFvR) | 3:52 |
+| 76 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
 | 77 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
-| 78 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
+| 78 | [Landing](https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/1wYMTM3mpZLYsoGzl5OFvR) | 3:52 |
 | 79 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 80 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
 | 81 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |

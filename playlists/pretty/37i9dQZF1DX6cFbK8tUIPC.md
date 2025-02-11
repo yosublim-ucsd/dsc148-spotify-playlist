@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,248 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,188 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 43 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
 | 44 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
 | 45 | [Found](https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [Found](https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1) | 5:11 |
-| 46 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 |
-| 47 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
+| 46 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
+| 47 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 |
 | 48 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
 | 49 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
 | 50 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 72 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 73 | [Shiver](https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To](https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h) | 3:53 |
 | 74 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
-| 75 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
-| 76 | [Heaven in the Right Light](https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Heaven in the Right Light](https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA) | 3:40 |
+| 75 | [Heaven in the Right Light](https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Heaven in the Right Light](https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA) | 3:40 |
+| 76 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
 | 77 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 78 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 79 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 82 | [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 |
 | 83 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
 | 84 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 |
-| 85 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
-| 86 | [Cinnamon](https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 2:50 |
+| 85 | [Cinnamon](https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 2:50 |
+| 86 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 87 | [Giordano’s Dream, Pt\. I](https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5), [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Tarifa](https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG) | 3:43 |
 | 88 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
 | 89 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 91 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 |
 | 92 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 93 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
-| 94 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
-| 95 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 |
+| 94 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 |
+| 95 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 96 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 97 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
 | 98 | [Screamland](https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Screamland](https://open.spotify.com/album/1cWcuem4swWjrTCPnga6Wd) | 6:51 |

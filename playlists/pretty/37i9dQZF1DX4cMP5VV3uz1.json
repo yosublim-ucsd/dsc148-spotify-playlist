@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 162084,
+  "num_followers": 162089,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 222171,
       "name": "Pon Di Bill",
       "url": "https://open.spotify.com/track/0BMVmNzlAXSjrJGk2VcEYr"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -731,6 +731,26 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 146371,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Waited All Night (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 189249,
       "name": "Waited All Night - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Arctic",
-        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        }
-      ],
-      "duration_ms": 146371,
-      "name": "Arctic",
-      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -971,6 +971,46 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "If We Ever (Remixes)",
+        "url": "https://open.spotify.com/album/3yyGJtGzasr89dJ117h2ML"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        }
+      ],
+      "duration_ms": 367976,
+      "name": "If We Ever - Unglued VIP Remix",
+      "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Jungle Diva",
         "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
@@ -999,42 +1039,18 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
+        "name": "Abomination",
+        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
       },
       "artists": [
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         }
       ],
-      "duration_ms": 184457,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "If We Ever (Remixes)",
-        "url": "https://open.spotify.com/album/3yyGJtGzasr89dJ117h2ML"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        },
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        }
-      ],
-      "duration_ms": 367976,
-      "name": "If We Ever - Unglued VIP Remix",
-      "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
+      "duration_ms": 168017,
+      "name": "Abomination",
+      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1051,22 +1067,6 @@
       "duration_ms": 195348,
       "name": "Did I Forget Something",
       "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Abomination",
-        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 168017,
-      "name": "Abomination",
-      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "KNOCKIN",
-        "url": "https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "KNOCKIN",
-      "url": "https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "Call The Hurse",
         "url": "https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6"
       },
@@ -1143,18 +1127,38 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
+        "name": "KNOCKIN",
+        "url": "https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN"
       },
       "artists": [
         {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
         }
       ],
-      "duration_ms": 289371,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
+      "duration_ms": 137142,
+      "name": "KNOCKIN",
+      "url": "https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1183,6 +1187,22 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        },
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Home In That Bass",
-        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
-      },
-      "artists": [
-        {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Home In That Bass",
-      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "Told You (Soundboy)",
         "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
       },
@@ -1343,30 +1363,6 @@
       "duration_ms": 178971,
       "name": "Told You (Soundboy)",
       "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Jolie P",
-          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Stay In Your Lane",
-      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
     },
     {
       "added_at": "2025-02-07 00:00:25",
@@ -1463,6 +1459,30 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/3z7Y1mksmDZGk7Cvk3TVQl"
       },
@@ -1499,46 +1519,6 @@
     {
       "added_at": "2025-02-07 00:00:25",
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Out of Control",
-      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
-        "name": "CONTEXT",
-        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 137624,
-      "name": "CONTEXT",
-      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
-    },
-    {
-      "added_at": "2025-02-07 00:00:25",
-      "album": {
         "name": "99 Octane",
         "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 180147,
       "name": "99 Octane",
       "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
+    },
+    {
+      "added_at": "2025-02-07 00:00:25",
+      "album": {
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-453 songs - 1 day 13 hr 45 min
+454 songs - 1 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Seekers \- 2022 Remaster](https://open.spotify.com/track/6CXAqQPTDgwH03w1Ll5gBb) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Jeffrey Fayman](https://open.spotify.com/artist/7MbgIuNbvtFLdLZ1tTpcwt) | [Trance Spirits \(2022 Remaster\)](https://open.spotify.com/album/4GLYU9Ajjtqe9QwU8wOviJ) | 7:22 | 2022-05-06 | 2023-07-14 |
 | [Semiasian](https://open.spotify.com/track/3a7C503asAanhiSJqwdtKh) | [Andreas Tilliander](https://open.spotify.com/artist/53pOTwEk2tDTWd5tlaxZzO) | [Elit](https://open.spotify.com/album/4jNY6CU9vIaveYEVHtWPSi) | 5:29 | 2022-07-15 | 2022-07-23 |
 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 | 2025-01-17 |  |
+| [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 | 2025-02-07 |  |
 | [Shizumu \- Ambient Mix](https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 3:24 | 2023-08-31 | 2025-01-23 |
 | [Shortwave Memories](https://open.spotify.com/track/2XCBIIIzpn2dCWJG3uiNuf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/19qBP7vJMQXgn78B3LfqRN) | 7:53 | 2021-12-26 | 2023-05-27 |
 | [Shruti](https://open.spotify.com/track/0TgfYjPVPGuWIa3VURQsDL) | [Lobo Lawen](https://open.spotify.com/artist/6T5fcQ6WFoV1IjfcdU7hAJ) | [Shruti](https://open.spotify.com/album/3SaojN7o1djtTr1W3uXM1Q) | 4:51 | 2022-01-07 | 2023-02-04 |
@@ -375,7 +376,7 @@
 | [Subtle Bodies](https://open.spotify.com/track/4x9L4R5dxQsTEUcx4YgzU7) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Subtle Bodies](https://open.spotify.com/album/7Mbj1o3QhH7TppyRxXGza6) | 5:17 | 2022-01-28 | 2023-07-19 |
 | [Summer's End](https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 2:55 | 2025-01-09 |  |
 | [Swam](https://open.spotify.com/track/1HY1dI66ADkJfmAnVCZ6Dq) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Swam](https://open.spotify.com/album/3ySwNrkNcJPDT1GmwfCUOc) | 4:15 | 2021-12-26 | 2022-07-28 |
-| [System Verse](https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 4:33 | 2025-01-14 |  |
+| [System Verse](https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 4:33 | 2025-01-14 | 2025-02-11 |
 | [Tagtraum](https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6) | [Mareena](https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s), [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Atlas der Gedanken](https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe) | 5:22 | 2023-08-11 | 2025-01-15 |
 | [Tales From The Trash Stratum](https://open.spotify.com/track/4RsITL6IwjK34hVsaePr3O) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Tales From The Trash Stratum](https://open.spotify.com/album/74Hr3tpigXGfuJNWWcIgW4) | 3:09 | 2021-12-26 | 2023-02-02 |
 | [Tales From The Trash Stratum](https://open.spotify.com/track/6D7R7l2xdFKYkUL9nqEBVW) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:09 | 2023-01-20 | 2023-08-12 |

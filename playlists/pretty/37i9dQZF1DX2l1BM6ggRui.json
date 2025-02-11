@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6864,
+  "num_followers": 6865,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Cherry Pink",
-        "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Cherry Pink",
-      "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Crash Course in Romance OST Part 4",
         "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 172361,
       "name": "At Night",
       "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Cherry Pink",
+        "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Cherry Pink",
+      "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "WATCH ME !",
         "url": "https://open.spotify.com/album/32FwrQyrSpcjo8831ZzhLY"
       },
@@ -951,38 +967,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Room Vol.1",
-        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Reference",
-      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "flowerain",
         "url": "https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+        "name": "Room Vol.1",
+        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
       },
       "artists": [
         {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+      "duration_ms": 221760,
+      "name": "Reference",
+      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -1031,6 +1015,22 @@
       "duration_ms": 229320,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

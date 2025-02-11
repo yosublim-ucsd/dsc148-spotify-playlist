@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,334 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,342 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 19 | [Think About You](https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 3:15 |
 | 20 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 |
 | 21 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 |
-| 22 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
-| 23 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |
+| 22 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |
+| 23 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
 | 24 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 |
 | 25 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
 | 26 | [Hero Death \(Feat\. Sion\)](https://open.spotify.com/track/3hCNZGL794VRnTB20oEYp3) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Hero Death](https://open.spotify.com/album/1KBuWLHihKmsVALx8VA1XJ) | 2:59 |

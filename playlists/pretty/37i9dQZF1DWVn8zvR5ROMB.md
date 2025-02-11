@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Jordan Davis, Old Dominion, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,775 likes - 73 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,034 likes - 73 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

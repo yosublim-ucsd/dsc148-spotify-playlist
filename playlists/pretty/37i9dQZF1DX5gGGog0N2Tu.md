@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > What'd she do to get you off?????
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,728 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,702 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 | 48 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 49 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 |
 | 50 | [PITY PARTY](https://open.spotify.com/track/7FKr8rULW20OQspz0JzGNx) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [PITY PARTY](https://open.spotify.com/album/5q9KECUxTbDmQAvyvlAa9f) | 3:25 |
-| 51 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
+| 51 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
 | 52 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 53 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 |
 | 54 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 55 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 56 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
-| 57 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
+| 57 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 58 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
 | 59 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
 | 60 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 | 86 | [Truth or Dare](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:10 |
 | 87 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 |
 | 88 | [TT LE GIRLZ \(feat\. Niky Savage\)](https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:24 |
-| 89 | [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 |
-| 90 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
+| 89 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 |
+| 90 | [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 |
 | 91 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 92 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
 | 93 | [Ya No Te Hago Falta](https://open.spotify.com/track/4RIi1gNmKDzSH04Vvws2DK) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 2:41 |

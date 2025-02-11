@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,865 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,904 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
-| 2 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 1 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
+| 2 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 3 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 4 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 |
 | 5 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 28 | [I Can See Clearly Now](https://open.spotify.com/track/30SCXVFyQGOFMdKnbgJS18) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [The Best Of](https://open.spotify.com/album/0aBgqFsQmUQGw8emDAjNt4) | 2:46 |
 | 29 | [Fooled Around And Fell In Love](https://open.spotify.com/track/6BJTagJUFeUxHpVWxTmatw) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 4:34 |
 | 30 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 |
-| 31 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
-| 32 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
+| 31 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
+| 32 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 33 | [Kiss You All Over](https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Greatest Hits](https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo) | 3:34 |
 | 34 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 35 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Escape...The Best Of](https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8) | 4:35 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 64 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 |
 | 65 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
 | 66 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 |
-| 67 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 68 | [Solsbury Hill](https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Vanilla Sky \(Music from the Motion Picture\)](https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7) | 4:22 |
-| 69 | [Sweet Home Alabama](https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Lynyrd Skynyrd \- Rock Legends](https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC) | 4:45 |
+| 67 | [Sweet Home Alabama](https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Lynyrd Skynyrd \- Rock Legends](https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC) | 4:45 |
+| 68 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
+| 69 | [Solsbury Hill](https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Vanilla Sky \(Music from the Motion Picture\)](https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7) | 4:22 |
 | 70 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
 | 71 | [Let's Stay Together](https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR) | 3:19 |
 | 72 | [Dreadlock Holiday](https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL) | 4:27 |

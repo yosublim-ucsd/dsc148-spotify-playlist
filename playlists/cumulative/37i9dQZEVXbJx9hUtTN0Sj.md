@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-1,280 songs - 2 day 17 hr 37 min
+1,281 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [As Tears Go By](https://open.spotify.com/track/2EYXCRp63iQdmeKHXN8Rrg) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 2:37 | 2025-02-01 | 2025-02-09 |
 | [Assieds\-toi](https://open.spotify.com/track/6sLop4uEOLkrfNLfQMNq0q) | [Maks](https://open.spotify.com/artist/27y3Ud8v0SrHGx0uOYN34z) | [Assieds\-toi](https://open.spotify.com/album/42bh4l3dESYs5NwszT7bHP) | 2:45 | 2024-04-30 | 2024-05-08 |
 | [Auffe aufn Berg](https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz) | [Jägermeister DJ Alex](https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk), [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Auffe aufn Berg](https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr) | 3:51 | 2024-02-05 | 2025-01-04 |
-| [August 10](https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Broken Girl](https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI) | 2:58 | 2025-01-06 | 2025-01-31 |
+| [August 10](https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Broken Girl](https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI) | 2:58 | 2025-01-06 |  |
 | [AURA](https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [AURA](https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1) | 1:55 | 2024-09-05 | 2024-09-11 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 | 2024-04-27 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-22 | 2024-03-25 |
@@ -210,7 +210,7 @@
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2024-12-21 | 2024-12-31 |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-19 | 2024-06-26 |
 | [CELERY](https://open.spotify.com/track/18Y0ZCqkdAPBfsXqhmbaSM) | [Junior RCE](https://open.spotify.com/artist/5T8hdXoLNcWcnZ3OE3CRGP) | [CELERY](https://open.spotify.com/album/0m4i0JyF3W3Hz5H3huVHJH) | 2:08 | 2025-01-24 | 2025-02-01 |
-| [Certificat Médical](https://open.spotify.com/track/01DfFQUpI588WuJp9YTZKf) | [Busta Busty](https://open.spotify.com/artist/3CgP7354NipA6Ztyisdy8Q) | [Certificat Médical](https://open.spotify.com/album/36aWN4phif3tlhiAY7ZYGC) | 2:07 | 2025-01-07 |  |
+| [Certificat Médical](https://open.spotify.com/track/01DfFQUpI588WuJp9YTZKf) | [Busta Busty](https://open.spotify.com/artist/3CgP7354NipA6Ztyisdy8Q) | [Certificat Médical](https://open.spotify.com/album/36aWN4phif3tlhiAY7ZYGC) | 2:07 | 2025-01-07 | 2025-02-11 |
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-27 | 2024-03-24 |
 | [Cha Cha](https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cha Cha](https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l) | 2:37 | 2024-01-29 | 2024-01-31 |
 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 | 2024-07-07 | 2024-07-25 |
@@ -313,6 +313,7 @@
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-01-14 | 2025-02-02 |
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-01-17 | 2025-01-28 |
 | [DO NOT COPY MY FLOW](https://open.spotify.com/track/12CXDdYB8F138toCenq6Ev) | [174Domzy](https://open.spotify.com/artist/4Se2ViO6aaQgvjUpv5ikc6) | [DO NOT COPY MY FLOW](https://open.spotify.com/album/0u0hx57yVlOJJ55XNbXTjJ) | 1:52 | 2024-05-01 | 2024-05-10 |
+| [Do To Me](https://open.spotify.com/track/6ow9Iwh3H3ud5cRREiEX53) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82) | [Do To Me](https://open.spotify.com/album/5cpxWgaNFVxcfpByR8sIqr) | 2:24 | 2025-02-10 |  |
 | [Dominique \- Techno Edit](https://open.spotify.com/track/2sooPDnG9ldDE80SbAknqs) | [Michael Amani](https://open.spotify.com/artist/2NXXWnN62QbWBGoHCyKrTn) | [Dominique \(Techno Edit\)](https://open.spotify.com/album/22S3vRZXfVXSwDHO80mdoD) | 2:08 | 2024-02-06 | 2024-02-14 |
 | [Domino \- uit Liefde Voor Muziek](https://open.spotify.com/track/6ZOyy9qmYbgmItpUCEDh18) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/0Z3yvQOhwb6ltsRvIpOgqr) | 3:28 | 2024-04-16 | 2024-05-01 |
 | [Don't copy my flow](https://open.spotify.com/track/7CIp0EHN5hIaxF3Rm8JGeW) | [MysticMuse](https://open.spotify.com/artist/5Cj86vEA4D3pu0ImdbG7Va) | [Don't copy my flow](https://open.spotify.com/album/0qmxgZGvmj7JU9J6KgIBmz) | 1:19 | 2024-05-17 | 2024-05-22 |
@@ -349,7 +350,7 @@
 | [Elevator](https://open.spotify.com/track/3DQDIWoTNm44PdwNWaiu2c) | [Beachcrimes](https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [PM](https://open.spotify.com/album/6v08UujTzmpaZOUUq9IcYw) | 3:34 | 2024-03-14 | 2024-03-19 |
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-06-04 | 2024-06-19 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-10 | 2024-10-30 |
-| [Embrace Me](https://open.spotify.com/track/3aJ2t0KeBDx2sJALAzdNP7) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [You](https://open.spotify.com/album/1DbCnLJfPok7m00ZMZE0RU) | 3:46 | 2025-02-07 |  |
+| [Embrace Me](https://open.spotify.com/track/3aJ2t0KeBDx2sJALAzdNP7) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [You](https://open.spotify.com/album/1DbCnLJfPok7m00ZMZE0RU) | 3:46 | 2025-02-07 | 2025-02-11 |
 | [Empty Out Your Pockets](https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:15 | 2024-12-17 | 2024-12-20 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-15 | 2024-05-06 |
 | [ENIGE ECHTE](https://open.spotify.com/track/4PmcIRzpW13ukIM3SIsbbU) | [JR](https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN) | [ENIGE ECHTE](https://open.spotify.com/album/6alhJuqij8CP5v5MwXT6ob) | 2:00 | 2024-06-17 | 2024-06-26 |

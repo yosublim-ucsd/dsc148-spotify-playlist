@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,154 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,205 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 530248,
+  "num_followers": 530188,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "God Save The Animals",
-        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 174972,
-      "name": "Ain't It Easy",
-      "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Heaven in the Right Light",
         "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 174972,
+      "name": "Ain't It Easy",
+      "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 170315,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 248000,
       "name": "Sleeping Sickness",
       "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2024-10-03 23:15:00",

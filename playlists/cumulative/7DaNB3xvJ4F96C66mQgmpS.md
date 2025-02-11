@@ -4,7 +4,7 @@
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-265 songs - 14 hr 14 min
+266 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Don't Tell 'Em](https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:26 | 2022-06-09 | 2022-06-21 |
 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/4UvkQecqZuZfQIJ2DZrZcR) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:30 | 2024-01-31 | 2024-05-24 |
 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2023-12-11 | 2024-02-01 |
+| [Dreams and Nightmares](https://open.spotify.com/track/0WON7GUPcug0IX0tVtMDMV) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares](https://open.spotify.com/album/0JeT6s9dkjm4ZjIe6g4QHr) | 3:50 | 2025-02-10 |  |
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2024-05-23 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-01-09 | 2023-12-14 |
 | [Enemy](https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Cinematic Songs \(Vol\. 6\)](https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v) | 3:10 | 2022-10-24 | 2024-01-23 |

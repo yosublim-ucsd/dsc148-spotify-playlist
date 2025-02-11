@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,489 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,487 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 58 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
 | 59 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 |
 | 60 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 |
-| 61 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
-| 62 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 |
-| 63 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
+| 61 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 |
+| 62 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
+| 63 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 |
 | 64 | [Nasty](https://open.spotify.com/track/29FBmRrebixRofs0flcm4O) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Nasty](https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj) | 2:36 |
 | 65 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
 | 66 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |

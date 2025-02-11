@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🪩🪩🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,300 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,306 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 10 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
 | 11 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 12 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
-| 13 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
-| 14 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
+| 13 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
+| 14 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
 | 15 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 16 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
 | 17 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |

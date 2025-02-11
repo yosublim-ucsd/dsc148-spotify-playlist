@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,631 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,765 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 10 | [Después De La 1](https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg) | [MJ](https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp) | 2:57 |
 | 11 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 |
 | 12 | [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 |
-| 13 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
+| 13 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 14 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 |
 | 15 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 16 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 20 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 |
 | 21 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
 | 22 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
-| 23 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
+| 23 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 24 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 | 25 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 26 | [MIRAME REMIX](https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MIRAME REMIX](https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK) | 3:58 |

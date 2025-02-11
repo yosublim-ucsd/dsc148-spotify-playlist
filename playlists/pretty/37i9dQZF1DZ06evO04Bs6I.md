@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,475 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,508 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 42 | [Nem um Segundo](https://open.spotify.com/track/24ysyfP1NMECUqR99vxIPz) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem um Segundo](https://open.spotify.com/album/257FnV6wwMk9RJx9GTQ6te) | 5:49 |
 | 43 | [A Casa é Sua + Labareda](https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 8:07 |
 | 44 | [Bem Perto \- Ao Vivo](https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bem Perto \(Ao Vivo\)](https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq) | 7:06 |
-| 45 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 |
-| 46 | [Meu Filho \- Ao Vivo](https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN) | 6:42 |
+| 45 | [Meu Filho \- Ao Vivo](https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Meu Filho \(Ao Vivo\)](https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN) | 6:42 |
+| 46 | [Tranquilo](https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tranquilo](https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy) | 4:00 |
 | 47 | [Tu És Tudo](https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 12:53 |
 | 48 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
 | 49 | [Ela Brilha](https://open.spotify.com/track/1pqjV5tkr6KwMtKvcYcH2r) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ela Brilha](https://open.spotify.com/album/3GHxmt33mCzl9JDww1zsEY) | 2:41 |
 | 50 | [Espero Por Ti](https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Espero Por Ti](https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb) | 5:48 |
 
-Snapshot ID: `Z6aegAAAAACZiCr9UFZTwnYW30S/XLup`
+Snapshot ID: `Z6fwAAAAAABMjRh2w+aOnHAKwuXkX7+k`

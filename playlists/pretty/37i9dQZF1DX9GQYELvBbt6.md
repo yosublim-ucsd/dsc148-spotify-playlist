@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,715 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,729 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 25 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 |
 | 26 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 27 | [LOSER](https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:03 |
-| 28 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
-| 29 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
-| 30 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 |
-| 31 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
+| 28 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
+| 29 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
+| 30 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
+| 31 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 |
 | 32 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
 | 33 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 34 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 37 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 38 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
 | 39 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 |
-| 40 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
-| 41 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
+| 40 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
+| 41 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
 | 42 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 |
 | 43 | [Strawberry](https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Strawberry](https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY) | 3:42 |
 | 44 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,382 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,433 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 26 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 27 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
 | 28 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
-| 29 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
+| 29 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 |
 | 30 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
-| 31 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 |
+| 31 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
 | 32 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
 | 33 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
 | 34 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 |

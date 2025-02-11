@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACUILKiCnxrIZeO8Hxkjh34",
+  "snapshot_id": "Z6fwAAAAAAAZTr/jLphu0LpHgXmH/VSe",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheese (feat. PawPaw Rod & Valerie June)",
         "url": "https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 242840,
       "name": "Within You - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": null,

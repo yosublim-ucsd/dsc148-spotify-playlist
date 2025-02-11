@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 81364,
+  "num_followers": 81391,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1259,34 +1259,6 @@
     {
       "added_at": "2025-01-30 23:28:32",
       "album": {
-        "name": "Shuffle",
-        "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
-      },
-      "artists": [
-        {
-          "name": "Shuffle Muzik",
-          "url": "https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x"
-        },
-        {
-          "name": "Fire",
-          "url": "https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN"
-        },
-        {
-          "name": "Lynden X",
-          "url": "https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a"
-        },
-        {
-          "name": "Thabsoul",
-          "url": "https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT"
-        }
-      ],
-      "duration_ms": 375530,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
-    },
-    {
-      "added_at": "2025-01-30 23:28:32",
-      "album": {
         "name": "Utheni",
         "url": "https://open.spotify.com/album/11pOz6URJhP5HcMeJPRSYc"
       },
@@ -1303,6 +1275,42 @@
       "duration_ms": 468017,
       "name": "Utheni",
       "url": "https://open.spotify.com/track/0yrg1wjrSzgRprCfHdEUPU"
+    },
+    {
+      "added_at": "2025-01-30 23:28:32",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5"
+      },
+      "artists": [
+        {
+          "name": "Ney",
+          "url": "https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "Sthibo de Beat",
+          "url": "https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        }
+      ],
+      "duration_ms": 378214,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

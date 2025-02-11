@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,415 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,467 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 38 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:00 |
 | 39 | [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 |
 | 40 | [Jersey Girl \- Live at Meadowlands Arena, E\. Rutherford, NJ \- July 1981](https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band Live 1975\-85](https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD) | 6:30 |
-| 41 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:30 |
-| 42 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 |
+| 41 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 |
+| 42 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:30 |
 | 43 | [One Minute You're Here](https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 2:57 |
 | 44 | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG) | 4:24 |
 | 45 | [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Last Man Standing](https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:05 |
 | 50 | [Wrecking Ball](https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wrecking Ball](https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM) | 5:47 |
 
-Snapshot ID: `Z6aegAAAAADyJti8u9gYhhcQXgD86Npl`
+Snapshot ID: `Z6fwAAAAAACTNvqBNSf22meMPHX9cY6Z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,592 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,610 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 36 | [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 |
 | 37 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 |
 | 38 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
-| 39 | [Cherry Orchards](https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [Northern Lights](https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY) | 2:29 |
-| 40 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 |
+| 39 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 |
+| 40 | [Cherry Orchards](https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [Northern Lights](https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY) | 2:29 |
 | 41 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 |
 | 42 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 |
 | 43 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 46 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
 | 47 | [chime in](https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [chime in](https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca) | 2:14 |
 | 48 | [fika](https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [fika](https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq) | 1:44 |
-| 49 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 |
-| 50 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 |
-| 51 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 |
-| 52 | [Lack Of Emotions](https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl) | [thea harbor](https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg) | [Lack Of Emotions](https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr) | 2:27 |
-| 53 | [Eatme](https://open.spotify.com/track/6DnPJtIzURTDpvHts3tZaQ) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Eatme](https://open.spotify.com/album/48xcHcAqiNcaCdGlExb0jA) | 2:15 |
-| 54 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
+| 49 | [triple sun](https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [triple sun](https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV) | 1:53 |
+| 50 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 |
+| 51 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 |
+| 52 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
+| 53 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
+| 54 | [Eatme](https://open.spotify.com/track/6DnPJtIzURTDpvHts3tZaQ) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Eatme](https://open.spotify.com/album/48xcHcAqiNcaCdGlExb0jA) | 2:15 |
 | 55 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 |
-| 56 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 |
+| 56 | [Lack Of Emotions](https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl) | [thea harbor](https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg) | [Lack Of Emotions](https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr) | 2:27 |
 | 57 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 |
 | 58 | [Flower Lane](https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Flower Lane](https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp) | 2:44 |
 | 59 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Gabito Ballesteros y Tito Double P en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,016,818 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,017,683 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 20 | [Todo a Su Tiempo](https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Todo a Su Tiempo](https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh) | 3:58 |
 | 21 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 22 | [Pika Pika](https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pika Pika](https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt) | 2:27 |
-| 23 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 23 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 24 | [DOLCE](https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [DOLCE](https://open.spotify.com/album/0QJKGRAF89Fcgw2ho6oW6A) | 3:21 |
 | 25 | [Un Bendito Día](https://open.spotify.com/track/0SN8t32hU7C203Tnmzew1p) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Bendito Día](https://open.spotify.com/album/6tYRIeNLlDe8MxrU0rl48o) | 3:31 |
 | 26 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 261461,
+  "num_followers": 261468,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAA01o00lYhwo9KlwMId9jtg",
+  "snapshot_id": "Z6fwAAAAAABg/6Bjp6uiKwp0OpsRZO7E",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 216240,
-      "name": "What's Mine Is Yours",
-      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
+      "duration_ms": 194146,
+      "name": "Short Skirt Weather",
+      "url": "https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 194146,
-      "name": "Short Skirt Weather",
-      "url": "https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq"
+      "duration_ms": 216240,
+      "name": "What's Mine Is Yours",
+      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
     },
     {
       "added_at": null,

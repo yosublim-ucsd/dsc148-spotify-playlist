@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,836 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,933 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 64 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
 | 65 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
 | 66 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
-| 67 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
-| 68 | [Welcome To The Jungle](https://open.spotify.com/track/0eFvoRSTTaR2q8bSWVjwfp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/4a92B7gXZWKJopxs6gWgqb) | 4:31 |
+| 67 | [Welcome To The Jungle](https://open.spotify.com/track/0eFvoRSTTaR2q8bSWVjwfp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/4a92B7gXZWKJopxs6gWgqb) | 4:31 |
+| 68 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 69 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
-| 70 | [Stone Cold Killer](https://open.spotify.com/track/19upAEqeqyWplsN9UXcA12) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Stone Cold Killer](https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb) | 3:08 |
-| 71 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
+| 70 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
+| 71 | [Stone Cold Killer](https://open.spotify.com/track/19upAEqeqyWplsN9UXcA12) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Stone Cold Killer](https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb) | 3:08 |
 | 72 | [Leather Boyz With Electric Toyz](https://open.spotify.com/track/5FjNOCy01diVS2ikWHZ1Ik) | [Pretty Boy Floyd](https://open.spotify.com/artist/6wnbsasRwmhUld5BBDfbKa) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:08 |
 | 73 | [Paso Del Norte](https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv) | [Jenny Don't And The Spurs](https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk) | [Call of the Road](https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr) | 3:48 |
 | 74 | [I'm So Free](https://open.spotify.com/track/71T5P0hVVyAq871Ml864SX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I'm So Free](https://open.spotify.com/album/1dy58qBMnCNkv3QlQtuFgP) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,812 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,028 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 3 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 |
 | 4 | [All My Love \- Remaster](https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 5:53 |
 | 5 | [Over the Hills and Far Away \- Remaster](https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 4:50 |
-| 6 | [Rock and Roll \- Remaster](https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:40 |
+| 6 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
 | 7 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
-| 8 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 |
-| 9 | [Hey, Hey, What Can I Do \- Remaster](https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 3:56 |
-| 10 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
+| 8 | [Hey, Hey, What Can I Do \- Remaster](https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 3:56 |
+| 9 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 |
+| 10 | [Rock and Roll \- Remaster](https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:40 |
 | 11 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
 | 12 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 |
 | 13 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 49 | [Stairway to Heaven \- \(Live at MSG 1973\) \[Remaster\]](https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Song Remains the Same \(Remaster\)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk) | 10:53 |
 | 50 | [Hot Dog \- Remaster](https://open.spotify.com/track/5K2yYEoc9ljOlzoMnhQSgm) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 3:18 |
 
-Snapshot ID: `Z6aegAAAAADZZTn7vF251Xwg79NQUXG1`
+Snapshot ID: `Z6fwAAAAAABASC4ohUjc2zXilYjQaqUY`

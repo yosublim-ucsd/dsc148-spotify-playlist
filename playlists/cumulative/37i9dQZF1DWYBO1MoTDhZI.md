@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-943 songs - 2 day 2 hr 47 min
+944 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 | 2023-12-29 |  |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-31 | 2023-05-27 |
 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 | 2023-02-17 | 2023-03-18 |
-| [Can’t Read Your Mind](https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [The Child](https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL) | 4:29 | 2025-01-17 |  |
+| [Can’t Read Your Mind](https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [The Child](https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL) | 4:29 | 2025-01-17 | 2025-02-11 |
 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-04-05 | 2024-06-01 |
 | [Carousel](https://open.spotify.com/track/7njzY44c9xIbh8igjEd9K8) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Carousel / Cry Wolf](https://open.spotify.com/album/5WYTGmaZdHYMYCAitcQKqU) | 4:11 | 2019-09-05\* | 2021-08-28 |
 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 | 2025-01-10 | 2025-02-01 |
@@ -262,6 +262,7 @@
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-09 | 2024-10-05 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-01-05 | 2022-05-20 |
 | [Everybody Wants To Be Loved](https://open.spotify.com/track/1dS91GGSKkkpIwKnEM4n8j) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Everybody Wants To Be Loved](https://open.spotify.com/album/64cakk2x4TI3TvGbqaaJox) | 3:33 | 2019-09-11 | 2021-08-28 |
+| [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2025-02-10 |  |
 | [Everywhere \(BBC Children In Need\)](https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Everywhere \(BBC Children In Need\)](https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I) | 2:51 | 2021-11-20 | 2022-04-20 |
 | [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 | 2023-02-03 | 2023-03-25 |
 | [Eye Know](https://open.spotify.com/track/4sDXEltU35xgga78VFvmJe) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Eye Know](https://open.spotify.com/album/22t2IibRXLtbyPriEJgm41) | 4:12 | 2023-03-11 | 2024-05-04 |

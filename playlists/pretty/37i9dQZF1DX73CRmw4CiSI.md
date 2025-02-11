@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,542 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,570 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 23 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
 | 24 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 |
 | 25 | [Búscate un hombre que te quiera](https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh) | [El Arrebato](https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ) | [Que Salga El Sol Por Donde Quiera](https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya) | 3:48 |
-| 26 | [Veneno en la Piel](https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:45 |
+| 26 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
 | 27 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
-| 28 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
+| 28 | [Veneno en la Piel](https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:45 |
 | 29 | [Déjame](https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Los Secretos](https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17) | 2:40 |
 | 30 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
 | 31 | [Desde Brasil](https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:52 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 52 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
 | 53 | [Cómo Te Atreves](https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios..\. Y Unas Cuantas Cosas Más \(Edición Especial\)](https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR) | 4:00 |
 | 54 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
-| 55 | [La Lola](https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY) | 3:17 |
-| 56 | [Pokito a Poko](https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Chambao Caminando](https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5) | 3:27 |
+| 55 | [Pokito a Poko](https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Chambao Caminando](https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5) | 3:27 |
+| 56 | [La Lola](https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY) | 3:17 |
 | 57 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
 | 58 | [Romeo y Julieta](https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Un metro cuadrado](https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK) | 4:13 |
 | 59 | [Vivir \(with Estopa\)](https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 2:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 20890,
+  "num_followers": 20922,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
       "artists": [
         {
-          "name": "Alberto Barros Y Los Titanez De La Salsa",
-          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
         }
       ],
-      "duration_ms": 280493,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+      "duration_ms": 311520,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+          "name": "Alberto Barros Y Los Titanez De La Salsa",
+          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
         }
       ],
-      "duration_ms": 311520,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
+      "duration_ms": 280493,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
         "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 313120,
       "name": "Desesperado / T\u00fa No Le Amas Le Temes Medley - Live Version",
       "url": "https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
       "artists": [
         {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Dos Soneros... Una Historia",
-        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Que Manera De Quererte - Live Version",
-      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Un Sonido Bestial El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Dos Soneros... Una Historia",
+        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Que Manera De Quererte - Live Version",
+      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
     },
     {
       "added_at": "2024-09-24 20:35:55",

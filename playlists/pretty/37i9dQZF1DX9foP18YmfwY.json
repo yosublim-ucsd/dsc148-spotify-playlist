@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva",
-  "num_followers": 343334,
+  "num_followers": 343391,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -407,58 +407,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Estou Orando por Voc\u00ea",
-        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        },
-        {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
-        }
-      ],
-      "duration_ms": 337168,
-      "name": "Estou Orando por Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Aparecida",
-        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 293248,
-      "name": "Aparecida",
-      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
-      },
-      "artists": [
-        {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        }
-      ],
-      "duration_ms": 324268,
-      "name": "Levanta e Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Serei Tudo",
         "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
@@ -479,18 +427,54 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Eu Vou Anunciar",
-        "url": "https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9"
+        "name": "Aparecida",
+        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
       },
       "artists": [
         {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Eu Vou Anunciar",
-      "url": "https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS"
+      "duration_ms": 293248,
+      "name": "Aparecida",
+      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Estou Orando por Voc\u00ea",
+        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        },
+        {
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+        }
+      ],
+      "duration_ms": 337168,
+      "name": "Estou Orando por Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        }
+      ],
+      "duration_ms": 324268,
+      "name": "Levanta e Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Eu Vou Anunciar",
+        "url": "https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Eu Vou Anunciar",
+      "url": "https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 405000,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Cantai a Deus Com Alegria 2023",
+        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 308875,
+      "name": "Louvor dos Pequenos",
+      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -555,22 +571,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Ser Mais do Que Ter (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY"
       },
@@ -587,42 +587,6 @@
       "duration_ms": 446526,
       "name": "Ser Mais do Que Ter - Ao Vivo",
       "url": "https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2023",
-        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 308875,
-      "name": "Louvor dos Pequenos",
-      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "M\u00e3e, Me Defende do Mal",
-        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "M\u00e3e, Me Defende do Mal",
-      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -647,6 +611,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "O Primeiro a Ser Servido",
         "url": "https://open.spotify.com/album/3FqK6o3eXMtKzKCRU0JGuP"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 267428,
       "name": "O Primeiro a Ser Servido",
       "url": "https://open.spotify.com/track/3lhGqMkF0kFccKtjFYKFJ7"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "M\u00e3e, Me Defende do Mal",
+        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 300184,
+      "name": "M\u00e3e, Me Defende do Mal",
+      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+        }
+      ],
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -843,6 +843,26 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Gba Stage, Vol. 13",
+        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 294101,
+      "name": "Deixa Deus Sonhar em Ti",
+      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Seguir Viagem",
         "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Gba Stage, Vol. 13",
-        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 294101,
-      "name": "Deixa Deus Sonhar em Ti",
-      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 177322,
+      "name": "Cora\u00e7\u00e3o de M\u00e3e",
+      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "N\u00e3o H\u00e1 Deus Maior",
         "url": "https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 260209,
       "name": "Maior do Que a Vida",
       "url": "https://open.spotify.com/track/4xO7XKhySFQlzMJMCjb0v1"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 177322,
-      "name": "Cora\u00e7\u00e3o de M\u00e3e",
-      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
     },
     {
       "added_at": "2025-02-07 03:01:16",

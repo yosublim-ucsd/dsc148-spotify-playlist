@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,821 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,891 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 21 | [Qué Manera de Perder](https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:28 |
 | 22 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 23 | [Ya No Me Interesas](https://open.spotify.com/track/359vq12J0koGowGV9pxek4) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
-| 24 | [Vengo A Verte](https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:28 |
-| 25 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 |
+| 24 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 |
+| 25 | [Vengo A Verte](https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:28 |
 | 26 | [No Entiendo](https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:44 |
 | 27 | [Si No Piensas Cambiar](https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 4:17 |
 | 28 | [Cuatro Milpas](https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Alborada Ranchera](https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p) | 3:22 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 31 | [Cielo Rojo](https://open.spotify.com/track/3lwIGvc3nqAvHeTxFnTU1s) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:42 |
 | 32 | [Vámonos](https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 2:59 |
 | 33 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:24 |
-| 34 | [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 |
-| 35 | [Las Margaritas](https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:23 |
+| 34 | [Las Margaritas](https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:23 |
+| 35 | [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 |
 | 36 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
 | 37 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
 | 38 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 74 | [Échame A Mí La Culpa](https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Échame A Mí La Culpa](https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50) | 3:13 |
 | 75 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
 | 76 | [Quería Que Fueras Tú](https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Quería Que Fueras Tú](https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY) | 2:54 |
-| 77 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 |
+| 77 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
 | 78 | [La Feria de las Flores](https://open.spotify.com/track/4eMRomGN3VT0YXMrTqkWe7) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto \- 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF) | 3:07 |
 | 79 | [Cheque En Blanco](https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Paquita La Del Barrio En Vivo](https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4) | 2:37 |
 | 80 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 95 | [Caray](https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:32 |
 | 96 | [Llévate](https://open.spotify.com/track/4W1uNL0IaePT0GbbeKXn0G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:10 |
 | 97 | [Malamente](https://open.spotify.com/track/0dDqf0IqRVQRe9aQN80fWn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 2:56 |
-| 98 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
+| 98 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 |
 | 99 | [Paloma Negra](https://open.spotify.com/track/3WfouFwIhmo4p3tgZMUnXM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:27 |
 | 100 | [Amaneci En Tus Brazos](https://open.spotify.com/track/3JCkLjbaFahyuXWb1JUkLr) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lo Mejor De Lucha Villa](https://open.spotify.com/album/6jlvjCWDZxTKlePg8NrrX2) | 2:57 |
 

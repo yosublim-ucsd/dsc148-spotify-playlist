@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 93542,
+  "num_followers": 93555,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACqT1BRk7PS8qBBPeWzMsAo",
+  "snapshot_id": "Z6fwAAAAAABDh97LLprpaXpkVcK6pSHv",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 372035,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
         "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 271266,
       "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
       "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 372035,
-      "name": "Sana Nuestra Tierra",
-      "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 250462,
+      "name": "Acu\u00e9rdate Oh Se\u00f1or",
+      "url": "https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivir\u00e9",
         "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 241656,
       "name": "Es Posible",
       "url": "https://open.spotify.com/track/0uybu0niD36vI134J5nqNz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 250462,
-      "name": "Acu\u00e9rdate Oh Se\u00f1or",
-      "url": "https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Volver\u00e1",
         "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
       "artists": [
         {
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+      "duration_ms": 412708,
+      "name": "Sananos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 297638,
       "name": "Bendice Alma M\u00eda",
       "url": "https://open.spotify.com/track/53pDk8D79rvlUn8PRoyLuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 412708,
-      "name": "Sananos",
-      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 240953,
-      "name": "Heme Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     }
   ],
   "unique_name": "This Is Marcos Witt",

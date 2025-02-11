@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "The Maybe Man",
+        "url": "https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331546,
+      "name": "2085",
+      "url": "https://open.spotify.com/track/5WHwVdTQNWdI8MdLCaibgH"
+    },
+    {
+      "album": {
         "name": "26",
         "url": "https://open.spotify.com/album/3hmHy0AS9qU52yxcShZZIN"
       },
@@ -338,10 +356,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 257906,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
+    },
+    {
+      "album": {
+        "name": "Collective, Vol. I",
+        "url": "https://open.spotify.com/album/05QbQb88cqKzgWDKKpK2jJ"
+      },
+      "artists": [
+        {
+          "name": "The Nor'easters",
+          "url": "https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "715 \u2013 CR\u03a3\u03a3KS",
+      "url": "https://open.spotify.com/track/226zzEc8RBwMoni5pCfzbo"
     },
     {
       "album": {
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 224768,
       "name": "All That We Are",
       "url": "https://open.spotify.com/track/1QObOfaCBVJjvbWqKhpcwQ"
@@ -2178,7 +2214,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 430151,
       "name": "Apotheosis",
       "url": "https://open.spotify.com/track/6NlKpIgOeU0y4puwrTFI2w"
@@ -3044,7 +3080,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 221039,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5CN13QjYdc9s4aFg2wxwnE"
@@ -3900,6 +3936,24 @@
       "duration_ms": 257508,
       "name": "Blue Ridge June",
       "url": "https://open.spotify.com/track/4LGzTuuqc1cHHPiT5yqG0M"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265773,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/7bzzC7QIfflM9eEj2aqaYX"
     },
     {
       "album": {
@@ -5134,7 +5188,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 290826,
       "name": "Chances",
       "url": "https://open.spotify.com/track/5Vd7KrcmbEYs6ohyPeTVYp"
@@ -5524,7 +5578,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 217070,
       "name": "Chinese Satellite",
       "url": "https://open.spotify.com/track/1scaOnahzG7o8pfwfsL784"
@@ -5751,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "NieR:Automata Original Soundtrack",
+        "url": "https://open.spotify.com/album/6Nws2NAPuxaHzB7MfD1lhg"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u90e8\u5553\u4e00",
+          "url": "https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382800,
+      "name": "City Ruins (Rays of Light)",
+      "url": "https://open.spotify.com/track/6wH5Fx9Ux94OZMo8HNALXR"
+    },
+    {
+      "album": {
         "name": "Debussy: Clair De Lune and Other Piano Favourites",
         "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
       },
@@ -5766,7 +5838,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 268000,
       "name": "Clair de Lune, L. 32",
       "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
@@ -7001,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "Bank On The Funeral",
+        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237280,
+      "name": "Dancing After Death",
+      "url": "https://open.spotify.com/track/6FCWOKBTjzHsHpa0cF0br6"
+    },
+    {
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/4b9g5wVYBtpPIJQx1HpAra"
       },
@@ -7509,6 +7599,24 @@
     },
     {
       "album": {
+        "name": "Dear Wormwood",
+        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316071,
+      "name": "Dear Wormwood",
+      "url": "https://open.spotify.com/track/5QK2qYLoYyE0v45cbtBWEe"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -7621,6 +7729,32 @@
     },
     {
       "album": {
+        "name": "Destiny 2: Beyond Light (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2mXaNgF3DyeenLz96ZFlRr"
+      },
+      "artists": [
+        {
+          "name": "Michael Sechrist",
+          "url": "https://open.spotify.com/artist/0YMr3SSFvkcMYSP9UNBJx0"
+        },
+        {
+          "name": "Skye Lewin",
+          "url": "https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Deep Stone Lullaby",
+      "url": "https://open.spotify.com/track/6TlkF7n92ITZ9k7NcyL0aF"
+    },
+    {
+      "album": {
         "name": "Destiny 2: Beyond Light (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5uceuos2MGwHNtFskwv2rs"
       },
@@ -7662,7 +7796,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -8786,7 +8920,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 235794,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/4wvEacvHvKyEuqNUfPnJrj"
@@ -8844,6 +8978,24 @@
       "duration_ms": 237573,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
+    },
+    {
+      "album": {
+        "name": "Enemies to Lovers",
+        "url": "https://open.spotify.com/album/6qn65hSbikLPcfPl2iSXTj"
+      },
+      "artists": [
+        {
+          "name": "Joshua Kyan Aalampour",
+          "url": "https://open.spotify.com/artist/7A3EfKcEMZeHldRMXJmB45"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225177,
+      "name": "Enemies to Lovers",
+      "url": "https://open.spotify.com/track/0HzMD3JskQJGGVgEOfMeoA"
     },
     {
       "album": {
@@ -9446,7 +9598,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 277730,
       "name": "Eye of the Universe (Outer Wilds)",
       "url": "https://open.spotify.com/track/6is355kYR3V3nx2wHv4M7s"
@@ -9576,7 +9728,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 215293,
       "name": "Falling Colour",
       "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
@@ -9771,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188454,
+      "name": "Fare Well",
+      "url": "https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb"
+    },
+    {
+      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/2TMgRDkSHYqugBxj00G1t9"
       },
@@ -9934,7 +10104,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 237968,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1ZI607lJxi4P8RKtSHiYyd"
@@ -10100,6 +10270,24 @@
       "duration_ms": 213042,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/46s31ZgMsbN1FtTjPzwUn2"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92760,
+      "name": "FINAL FANTASY XIII - The Promise",
+      "url": "https://open.spotify.com/track/1W7TopfQm86rJLBWs8S6Gf"
     },
     {
       "album": {
@@ -10680,6 +10868,24 @@
       "duration_ms": 172048,
       "name": "Forgetful",
       "url": "https://open.spotify.com/track/49GbHcoGBub4YVdR4KX43i"
+    },
+    {
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/45IjAJ7REqGA1zXZe5we4w"
+      },
+      "artists": [
+        {
+          "name": "Kubbi",
+          "url": "https://open.spotify.com/artist/38dW24ZxoRfXGe1lJXXFNg"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458934,
+      "name": "Formed By Glaciers",
+      "url": "https://open.spotify.com/track/6c5FuVyNJkAobBsZa5L22X"
     },
     {
       "album": {
@@ -13874,7 +14080,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Horizons (feat. Siobhan Wilson)",
       "url": "https://open.spotify.com/track/5HW3TXhZpaBaNidviHYrrT"
@@ -14930,7 +15136,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 181280,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1na2MOlie83rN9sTNRuEOj"
@@ -14984,7 +15190,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 276466,
       "name": "I Of The Storm",
       "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
@@ -15476,6 +15682,24 @@
       "duration_ms": 227555,
       "name": "If Heaven Was A Sound",
       "url": "https://open.spotify.com/track/01JcINkUIdzHd3bn5kqFqt"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "If I Am With You",
+      "url": "https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC"
     },
     {
       "album": {
@@ -16689,6 +16913,32 @@
     },
     {
       "album": {
+        "name": "Destiny 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4OW58CdmJ2c0E6fqO9ktmE"
+      },
+      "artists": [
+        {
+          "name": "Skye Lewin",
+          "url": "https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437173,
+      "name": "Journey (feat. Kronos Quartet)",
+      "url": "https://open.spotify.com/track/2NTQaA3DbYKN6YuOJ0HDOO"
+    },
+    {
+      "album": {
         "name": "Baptized Imagination",
         "url": "https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE"
       },
@@ -17138,7 +17388,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 327173,
       "name": "Kids Will Be Skeletons",
       "url": "https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6"
@@ -17550,7 +17800,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 304117,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/7JqzV029PvaPKDhUiU4spi"
@@ -17633,6 +17883,24 @@
     },
     {
       "album": {
+        "name": "Batflowers",
+        "url": "https://open.spotify.com/album/7u2HyUsNMrtz5b1DShtl4Y"
+      },
+      "artists": [
+        {
+          "name": "Meg Washington",
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332985,
+      "name": "Lazarus Drug",
+      "url": "https://open.spotify.com/track/7xgKOjKT07LnUgvtbPK3nZ"
+    },
+    {
+      "album": {
         "name": "KINGDOM HEARTS -HD 2.5 ReMIX- (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6eVWdfj3yizOc8qtEmF00P"
       },
@@ -17648,6 +17916,24 @@
       "duration_ms": 191960,
       "name": "Lazy Afternoons",
       "url": "https://open.spotify.com/track/4HgbN75NCZVNKg4JVqY3sV"
+    },
+    {
+      "album": {
+        "name": "Go Farther In Lightness",
+        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231386,
+      "name": "Le symbolique",
+      "url": "https://open.spotify.com/track/3WLnF0VmtTa0HJM3YgOeYc"
     },
     {
       "album": {
@@ -18798,7 +19084,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
@@ -18928,6 +19214,24 @@
       "duration_ms": 231346,
       "name": "Losing the Lonely",
       "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
+    },
+    {
+      "album": {
+        "name": "Oxenfree",
+        "url": "https://open.spotify.com/album/3MsVFdknU6YMOcwo21SrIK"
+      },
+      "artists": [
+        {
+          "name": "scntfc",
+          "url": "https://open.spotify.com/artist/7vkhg0Rav27QjDgKgHTOSH"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102595,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6w5gJJiM6KN97SRw58y3Hr"
     },
     {
       "album": {
@@ -20873,6 +21177,24 @@
     },
     {
       "album": {
+        "name": "Moon and Star",
+        "url": "https://open.spotify.com/album/5yM7TuyOuw79uwaR6HONSK"
+      },
+      "artists": [
+        {
+          "name": "Wintergatan Soundtracks",
+          "url": "https://open.spotify.com/artist/0n5iJQfXlUNTrlJ374WGrv"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200142,
+      "name": "Moon and Star",
+      "url": "https://open.spotify.com/track/6BE9BahR3PqQCZqeesvii3"
+    },
+    {
+      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -21136,7 +21458,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 154600,
       "name": "Mr Blue",
       "url": "https://open.spotify.com/track/6ta5yavnnEfCE4faU0jebM"
@@ -21877,6 +22199,24 @@
     },
     {
       "album": {
+        "name": "Road 96 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5UPJ1PGNMdwSMvYewKQjXp"
+      },
+      "artists": [
+        {
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133067,
+      "name": "Night Home",
+      "url": "https://open.spotify.com/track/12FeoWq9Xe6q0tJPkyUNq6"
+    },
+    {
+      "album": {
         "name": "Naysayer",
         "url": "https://open.spotify.com/album/2b1Zqp6KlCIjwSHDzqyUIk"
       },
@@ -21996,7 +22336,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 195680,
       "name": "No Plans",
       "url": "https://open.spotify.com/track/3qjgMPGzM3dnRwoAG3Mv4t"
@@ -22036,6 +22376,28 @@
       "duration_ms": 435431,
       "name": "No Such Thing / Satellite Call - Live from the Hollywood Bowl",
       "url": "https://open.spotify.com/track/2ldLzfzFHepiolhvEJ3cH2"
+    },
+    {
+      "album": {
+        "name": "Piano Piano 2",
+        "url": "https://open.spotify.com/album/7JQSf3WvCov5K9oScX00XA"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257290,
+      "name": "No Surprises (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/24YZvIJzpw72dbDVmrDWms"
     },
     {
       "album": {
@@ -22436,7 +22798,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 699261,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i"
@@ -22688,7 +23050,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 291016,
       "name": "Oh the Bliss (Reinterpretation)",
       "url": "https://open.spotify.com/track/2e32odICy2AjX3gP52JPUJ"
@@ -22856,7 +23218,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 371746,
       "name": "On the Nature of Daylight",
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
@@ -23145,6 +23507,24 @@
     },
     {
       "album": {
+        "name": "only light",
+        "url": "https://open.spotify.com/album/4uack9901CvWMJFj2Ub2te"
+      },
+      "artists": [
+        {
+          "name": "Liv Romano",
+          "url": "https://open.spotify.com/artist/0880SwmMnloU70bjrwbdOa"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "only light",
+      "url": "https://open.spotify.com/track/56DAtFlDnmw9msvQAhpZvZ"
+    },
+    {
+      "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/3GyXvioodpElN76XJCO7Rg"
       },
@@ -23322,7 +23702,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 197900,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/2oyFkgt5lh7bQWBo5XQ4V4"
@@ -23630,6 +24010,24 @@
       "duration_ms": 247419,
       "name": "Palladium",
       "url": "https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I"
+    },
+    {
+      "album": {
+        "name": "Hyper Light Drifter",
+        "url": "https://open.spotify.com/album/5v5mSuw9o5DIHbA2qwFOUt"
+      },
+      "artists": [
+        {
+          "name": "Disasterpeace",
+          "url": "https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364273,
+      "name": "Panacea",
+      "url": "https://open.spotify.com/track/4Q0GOW23AmwKny0FQ7299N"
     },
     {
       "album": {
@@ -24644,7 +25042,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 442400,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/4BMHp3DkI8VLsuB9Kr0pzu"
@@ -24886,6 +25284,24 @@
       "duration_ms": 289500,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3vd1kGy66qEnvWJHGLeiRe"
+    },
+    {
+      "album": {
+        "name": "Year 6",
+        "url": "https://open.spotify.com/album/6k3iT10NGQRUWCWvPfaF1e"
+      },
+      "artists": [
+        {
+          "name": "insaneintherainmusic",
+          "url": "https://open.spotify.com/artist/62GoYifV4njTdvS8lD2yYT"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397455,
+      "name": "Rain (From \"Halo 3: ODST\")",
+      "url": "https://open.spotify.com/track/0YcR0TpHRry3FJPf7v0jKr"
     },
     {
       "album": {
@@ -25156,7 +25572,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 231573,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/6pDzUazSIrRhViOqiMMraX"
@@ -26576,7 +26992,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 240466,
       "name": "Show Me What I'm Looking For",
       "url": "https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5"
@@ -27850,7 +28266,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 409560,
       "name": "Spanish Sahara",
       "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
@@ -28962,7 +29378,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 456026,
       "name": "Sun Bleached Flies",
       "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS"
@@ -30335,6 +30751,24 @@
     },
     {
       "album": {
+        "name": "ELDEN RING ORIGINAL SOUND TRACK",
+        "url": "https://open.spotify.com/album/72oL3sD7toB7YvInNmrznf"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298444,
+      "name": "The Final Battle",
+      "url": "https://open.spotify.com/track/05CTZquJvcOZIyWlaOVBT0"
+    },
+    {
+      "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
       },
@@ -30404,6 +30838,24 @@
       "duration_ms": 186433,
       "name": "The Giving Tree",
       "url": "https://open.spotify.com/track/5NSmVuhSf3JxrCewijurpf"
+    },
+    {
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "The Gold",
+      "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
     },
     {
       "album": {
@@ -30988,7 +31440,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 474692,
       "name": "The Rain Formerly Known as Purple",
       "url": "https://open.spotify.com/track/5KEoPtv1mCNpF9Ne75kozY"
@@ -31010,7 +31462,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 287600,
       "name": "The Red Thread",
       "url": "https://open.spotify.com/track/19ZKAGRawnY8BrRB6bISr6"
@@ -31108,7 +31560,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 302095,
       "name": "The Secret History",
       "url": "https://open.spotify.com/track/5gC2gJLfv8VZjePQXWZh7j"
@@ -33826,7 +34278,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 250359,
       "name": "Way out There",
       "url": "https://open.spotify.com/track/1cS1SMKBkrqFGVIjUXbWAm"
@@ -33878,6 +34330,24 @@
       "duration_ms": 170400,
       "name": "we all believe",
       "url": "https://open.spotify.com/track/1Z7sB5i3Py8cRhPyXBFGGp"
+    },
+    {
+      "album": {
+        "name": "Mont Royal",
+        "url": "https://open.spotify.com/album/3tQq6LBizVXBa9QWkNDtYO"
+      },
+      "artists": [
+        {
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185526,
+      "name": "We Are Infinite",
+      "url": "https://open.spotify.com/track/2kthi1rIJiy6suXZyiBQYm"
     },
     {
       "album": {
@@ -34106,7 +34576,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 213474,
       "name": "What Could Have Been (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/6YB9jhzVEzw8CKeXD7Vx8j"
@@ -34562,6 +35032,28 @@
       "duration_ms": 168305,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/6MhSbUQF8Y0Yslw6E0ck1u"
+    },
+    {
+      "album": {
+        "name": "Cassette Beasts (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2d1MozX0uidsoqDqKhN96q"
+      },
+      "artists": [
+        {
+          "name": "Joel Baylis",
+          "url": "https://open.spotify.com/artist/47zuWf05KNFdr4yarpxUYl"
+        },
+        {
+          "name": "Shelby Harvey",
+          "url": "https://open.spotify.com/artist/5u55WA7B9vNytRhVAmbQFO"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226354,
+      "name": "Wherever We Are Now",
+      "url": "https://open.spotify.com/track/1krwC6JlERYRMFYOfN0cWV"
     },
     {
       "album": {

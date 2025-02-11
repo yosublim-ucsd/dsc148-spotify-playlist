@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60984,
+  "num_followers": 60982,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "added_at": "2025-02-10 01:00:03",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
-    },
-    {
-      "added_at": "2025-02-10 01:00:03",
-      "album": {
-        "name": "Good Side",
-        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Good Side",
-      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
     },
     {
       "added_at": "2025-02-10 01:00:03",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/785hSUKzozAGvKU8jQ6C0u"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "Optimist",
-      "url": "https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO"
-    },
-    {
-      "added_at": "2025-02-10 01:00:03",
-      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
-        "name": "My Head Is Not My Friend",
-        "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/785hSUKzozAGvKU8jQ6C0u"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
         }
       ],
-      "duration_ms": 236040,
-      "name": "My Head Is Not My Friend",
-      "url": "https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2"
+      "duration_ms": 153684,
+      "name": "Optimist",
+      "url": "https://open.spotify.com/track/5I1opogpl6oOEKmXRDXSEO"
     },
     {
       "added_at": "2025-02-10 01:00:03",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2025-02-10 01:00:03",
+      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+        "name": "My Head Is Not My Friend",
+        "url": "https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8"
       },
       "artists": [
         {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+      "duration_ms": 236040,
+      "name": "My Head Is Not My Friend",
+      "url": "https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2"
     },
     {
       "added_at": "2025-02-10 01:00:03",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 191963,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+    },
+    {
+      "added_at": "2025-02-10 01:00:03",
+      "album": {
         "name": "Already Over",
         "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-02-10 01:00:03",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
+        "name": "7 Minutes",
+        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 191963,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+      "duration_ms": 211453,
+      "name": "7 Minutes",
+      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
     },
     {
       "added_at": "2025-02-10 01:00:03",
@@ -1243,22 +1259,6 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2025-02-10 01:00:03",
-      "album": {
-        "name": "7 Minutes",
-        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "7 Minutes",
-      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

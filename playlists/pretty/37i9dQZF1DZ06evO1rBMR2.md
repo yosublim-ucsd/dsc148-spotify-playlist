@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 > This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,258 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,264 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 |
-| 2 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
-| 3 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
+| 2 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
+| 3 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 4 | [La Escuadra \(En Que Trabaja El Muchacho\)](https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:01 |
 | 5 | [El Gato De Chihuahua](https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:21 |
 | 6 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 24 | [La Ram Verde](https://open.spotify.com/track/15yHD5mVhHPk57HKJZneMu) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 2:53 |
 | 25 | [Amar A Mi Nivel](https://open.spotify.com/track/2PAm2dcoYb2A8XzBHK8e0Y) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Alma Bohemia](https://open.spotify.com/album/0TDShw4C1noAeuUoBfh1mG) | 2:57 |
 | 26 | [Medio Pueblo](https://open.spotify.com/track/5BLHGE5bPjXGaDaVnCM9CT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Vientos Huracanados](https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4) | 2:45 |
-| 27 | [Cero A La Izquierda](https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Como Un Huracán](https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9) | 2:53 |
+| 27 | [Paloma Querida](https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 2:57 |
 | 28 | [911](https://open.spotify.com/track/4YeaTpf0S4VB6uC0QvCCfr) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:00 |
-| 29 | [Paloma Querida](https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 2:57 |
+| 29 | [Cero A La Izquierda](https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Como Un Huracán](https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9) | 2:53 |
 | 30 | [Senor Cantinero](https://open.spotify.com/track/0JE7SeFEDRiUrRY5ENtHs7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 3:17 |
 | 31 | [Ujule](https://open.spotify.com/track/4VL3VPtfEPj7Sx8cNuFZYz) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:58 |
 | 32 | [El Profeta](https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 3:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 41 | [La Higuera](https://open.spotify.com/track/4LSjWECyl1hUIr2B6bD9R6) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:18 |
 | 42 | [La Sota Colorada](https://open.spotify.com/track/3Pp9mjfO0P1PkwPpd5HlYD) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:11 |
 | 43 | [Como Tu No Hay Dos](https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [\#](https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG) | 3:16 |
-| 44 | [El Dormilon](https://open.spotify.com/track/20l6LAb5mqBS7hodm871wV) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:47 |
+| 44 | [El Arrepentido](https://open.spotify.com/track/7diR6II5qYpMKEVSooEXKz) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Dejate Querer](https://open.spotify.com/album/5U7O4yUcT9DZTycloxy5zO) | 2:35 |
 | 45 | [Tu Ponte En Mi Lugar](https://open.spotify.com/track/5Myv2WxSsDqYtS0idcFnQn) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 3:46 |
-| 46 | [El Arrepentido](https://open.spotify.com/track/7diR6II5qYpMKEVSooEXKz) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Dejate Querer](https://open.spotify.com/album/5U7O4yUcT9DZTycloxy5zO) | 2:35 |
+| 46 | [El Dormilon](https://open.spotify.com/track/20l6LAb5mqBS7hodm871wV) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:47 |
 | 47 | [El Moro De Cumpas](https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 4:06 |
 | 48 | [Si Los Caminos Hablaran](https://open.spotify.com/track/3fqs5Bm6c0SxgWxzoxukWt) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [28 Huracanazos](https://open.spotify.com/album/051pj99hFiZmLKCoC9sAti) | 2:38 |
 | 49 | [Lincoln Negro](https://open.spotify.com/track/3xjJ2rd1zCVqWySklVnwuF) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [30 Nortenas Perronas](https://open.spotify.com/album/59YgyERllemGd1mRxZUGQh) | 2:30 |
 | 50 | [Doble Fondo Carga Pesada \(LIVE0](https://open.spotify.com/track/6TOAAPGzz2ZD59pBsO3Hau) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Nuevos Horizontes](https://open.spotify.com/album/6XYncu9rKiiMcrE2eCejpl) | 2:53 |
 
-Snapshot ID: `Z6aegAAAAAAlwocEaaC3yCyBkZMY9hCD`
+Snapshot ID: `Z6fwAAAAAAApE50nijdae1oA2aU+DOyP`

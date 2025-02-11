@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 54782,
+  "num_followers": 54787,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Humble",
-      "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 154666,
       "name": "BLINDFOLD (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
     },
     {
       "added_at": "2022-10-01 20:14:07",

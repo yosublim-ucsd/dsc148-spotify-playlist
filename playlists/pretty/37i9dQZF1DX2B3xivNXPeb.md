@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,150 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,152 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 71 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 |
 | 72 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
 | 73 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
-| 74 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 |
-| 75 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
+| 74 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
+| 75 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 |
 | 76 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
 | 77 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
 | 78 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 91 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 92 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 |
 | 93 | [Natural Disaster](https://open.spotify.com/track/49PxAddYDPWtMY1HcHAV8B) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations \(Deluxe Edition\)](https://open.spotify.com/album/4NT4YMnOYMc29uJqQjgS1p) | 3:23 |
-| 94 | [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 |
-| 95 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
-| 96 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |
-| 97 | [Javelin](https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Javelin](https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V) | 3:09 |
+| 94 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
+| 95 | [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 |
+| 96 | [Javelin](https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Javelin](https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V) | 3:09 |
+| 97 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |
 | 98 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
 | 99 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 |
-| 100 | [Bet On Beauty](https://open.spotify.com/track/2oX4mCEcN2oV6F48gtcHMe) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Bet On Beauty](https://open.spotify.com/album/2077zAocbofNbqEVimAIHV) | 4:22 |
+| 100 | [Take My Heart](https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw) | 4:18 |
 
 Snapshot ID: `Z2WFkAAAAABD+7kU+h5KfG0gjWuVT9bR`

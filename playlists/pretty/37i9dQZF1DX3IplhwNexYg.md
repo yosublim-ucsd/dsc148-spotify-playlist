@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Spacey Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,331 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,319 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 41 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
 | 42 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
 | 43 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
-| 44 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 |
-| 45 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
-| 46 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 |
-| 47 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 |
+| 44 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
+| 45 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 |
+| 46 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 |
+| 47 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 |
 | 48 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
 | 49 | [Holdup](https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Got Him!](https://open.spotify.com/album/6rBt5RO5Yb4sfMwGpWXjyU) | 2:35 |
 | 50 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 |
@@ -74,19 +74,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 64 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
 | 65 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
 | 66 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 |
-| 67 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
-| 68 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
+| 67 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
+| 68 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 69 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
-| 70 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
-| 71 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
+| 70 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
+| 71 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
 | 72 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
-| 73 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 |
-| 74 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
-| 75 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
+| 73 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
+| 74 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
+| 75 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 |
 | 76 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
 | 77 | [Windows](https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Windows](https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD) | 4:09 |
-| 78 | [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 |
-| 79 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
+| 78 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
+| 79 | [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 |
 | 80 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
 
 Snapshot ID: `Z4pWVAAAAADu1eIo1bm6kvCMS4V/LDYq`

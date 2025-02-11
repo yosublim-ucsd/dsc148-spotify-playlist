@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,652 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,660 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 44 | [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 |
 | 45 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 46 | [Aonde Quer Chegar](https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Aonde Quer Chegar](https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo) | 3:11 |
-| 47 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
+| 47 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Eu e Você Sempre](https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF) | 3:28 |
 | 48 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
-| 49 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Eu e Você Sempre](https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF) | 3:28 |
+| 49 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
 | 50 | [Que Se Chama Amor](https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Maxximum \- Só Pra Contrariar](https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4) | 4:00 |
 | 51 | [Carona do Amor / Shortinho Saint\-Tropez / Novos Tempos](https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Churrasquinho Menos É Mais, Vol\. 2](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 6:21 |
 | 52 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |

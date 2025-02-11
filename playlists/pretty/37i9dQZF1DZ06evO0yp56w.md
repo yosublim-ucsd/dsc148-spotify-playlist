@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,911 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,015 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 31 | [Survival](https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:17 |
 | 32 | [Interlude](https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 0:38 |
 | 33 | [The Dark Side](https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:47 |
-| 34 | [Compliance](https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:10 |
-| 35 | [Can't Take My Eyes off You](https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:31 |
+| 34 | [Can't Take My Eyes off You](https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:31 |
+| 35 | [Compliance](https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:10 |
 | 36 | [Neutron Star Collision \(Love Is Forever\) \- Soundtrack Version](https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Neutron Star Collision \[Love Is Forever\]](https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb) | 3:50 |
 | 37 | [The Handler](https://open.spotify.com/track/6xq3Bd7MvZVa7pda9tC4MW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:33 |
-| 38 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
-| 39 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
+| 38 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
+| 39 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 40 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 |
 | 41 | [Exo\-Politics](https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:53 |
-| 42 | [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 |
-| 43 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
+| 42 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
+| 43 | [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 |
 | 44 | [Animals](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:22 |
 | 45 | [MK Ultra](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 4:06 |
-| 46 | [Kill Or Be Killed](https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:59 |
-| 47 | [1685 \(feat\. Muse\)](https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [1685 \(feat\. Muse\)](https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e) | 3:56 |
+| 46 | [1685 \(feat\. Muse\)](https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [1685 \(feat\. Muse\)](https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e) | 3:56 |
+| 47 | [Kill Or Be Killed](https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:59 |
 | 48 | [Something Human](https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 49 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
 | 50 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 
-Snapshot ID: `Z6aegAAAAADZQRNce6pKNOaMQ/XZ/O2Q`
+Snapshot ID: `Z6fwAAAAAAC4aoJK76a21T0fXtQxBmGT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109,556 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,110,168 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 14 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 15 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 |
 | 16 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
-| 17 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
-| 18 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 17 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
+| 18 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 19 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 20 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 21 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 31 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 |
 | 32 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
 | 33 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 34 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
-| 35 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
+| 34 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
+| 35 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
 | 36 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 |
 | 37 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
 | 38 | [Art Deco](https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 88 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 89 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
 | 90 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
-| 91 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 |
-| 92 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
+| 91 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
+| 92 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 |
 | 93 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 94 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 95 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |

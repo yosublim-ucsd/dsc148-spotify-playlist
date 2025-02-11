@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,333 songs - 6 day 13 hr 16 min
+2,334 songs - 6 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/24fMHoWCFcyuuSDbHWzbPc) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/4QajQb50l0ry5S3dcl2SVo) | 4:24 | 2022-07-27 | 2023-03-21 |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/26mJwKuX1TfFxKWVizG7Mw) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Minyo Cumbiero \(From Tokyo to Bogota\)](https://open.spotify.com/album/28RiNeg11IzksYdPBwveWE) | 4:24 | 2022-10-31 | 2022-11-13 |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/2ErLVOXP9j8ziacqpz5JJr) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/75gyj3yKAFyATEEV2CtWVw) | 4:24 | 2022-06-09 | 2022-07-29 |
-| [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2023-03-17 |  |
+| [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2023-03-17 | 2025-02-11 |
 | [Cumbia del Puerto](https://open.spotify.com/track/1VYVGqHZxNMFHClLeqnzDX) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [The Original Sound of Cumbia](https://open.spotify.com/album/0zTVwdBig40AeSrBmI4NBy) | 2:43 | 2024-04-11 | 2024-06-04 |
 | [Cumbia Del Puerto](https://open.spotify.com/track/6GzE6gVVu35Bzpro5zRO11) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:43 | 2022-07-27 | 2023-09-19 |
 | [Cumbia del Puerto](https://open.spotify.com/track/6ID6ocPSSoxFLRi24vDCQQ) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:43 | 2022-06-09 | 2022-07-29 |
@@ -1636,6 +1636,7 @@
 | [Omar Gatlato \- Alternative Version](https://open.spotify.com/track/1BahHjxmjH3JXLYSbHBNr7) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ) | 2:31 | 2022-07-12 | 2022-11-20 |
 | [Omar Gatlato \- Alternative Version](https://open.spotify.com/track/7dzYaXqZia6DREhyasOsth) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 2:31 | 2022-10-31 | 2022-12-17 |
 | [Ominira](https://open.spotify.com/track/5ylffq5ppAHSXPyWQx6qta) | [West African Rhythm Brothers](https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj) | [London Is the Place for Me 2](https://open.spotify.com/album/17wJJfHgD2HJmM8YextErD) | 3:12 | 2022-07-12 | 2024-06-04 |
+| [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 | 2025-02-07 |  |
 | [On the Run](https://open.spotify.com/track/132BlGD0tL3dopglpqGXuY) | [Lake](https://open.spotify.com/artist/3QgPujizVSaI2sTn1vuNQ4) | [Lake](https://open.spotify.com/album/0zdg8ZhvtfrMmSDFpeSZjl) | 4:06 | 2022-06-09 | 2023-06-21 |
 | [Onda](https://open.spotify.com/track/2ufnnZAVCoEoShQjdRgwS1) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 7:44 | 2022-06-09 | 2024-06-04 |
 | [Onda](https://open.spotify.com/track/1dumnZ0E3WWpX81Rj2nENZ) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 1](https://open.spotify.com/album/43vTvRPfhVbwDZcFBPipjn) | 6:59 | 2022-06-09 | 2024-06-04 |

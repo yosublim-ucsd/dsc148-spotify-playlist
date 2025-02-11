@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 
 > Take the afternoon off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,655 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,669 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdK49S1DyoyG.md) - [plain]
 | 56 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
 | 57 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
 | 58 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
-| 59 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
-| 60 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
+| 59 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
+| 60 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 61 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 62 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
 | 63 | [Get the Party Started](https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:12 |

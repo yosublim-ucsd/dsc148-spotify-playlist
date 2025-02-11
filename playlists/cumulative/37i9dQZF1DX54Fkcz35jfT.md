@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: ASH DA HERO
 
-369 songs - 21 hr 11 min
+370 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Falling Down](https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Falling Down](https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ) | 2:40 | 2023-07-20 | 2024-06-22 |
 | [Fist for the New Era](https://open.spotify.com/track/2JrGuqTBMB9lxh1w3gICPl) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Fist for the New Era](https://open.spotify.com/album/63S1oYeHHKjODjMIMmHxUk) | 3:53 | 2024-07-09 |  |
 | [Flower Bed](https://open.spotify.com/track/04qHub06DBGakVjjIYq5Bd) | [Some Life](https://open.spotify.com/artist/3cO9bp3Hqyrk2Icc9ONk0J) | [Flower Bed](https://open.spotify.com/album/5CTmcgYjdFdRR7tAhKLnCZ) | 3:34 | 2024-02-27 | 2024-05-01 |
+| [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 |  |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2023-07-20 |  |
 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 | 2023-07-20 | 2023-10-11 |
 | [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2023-07-20 | 2023-07-28 |
@@ -250,7 +251,7 @@
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 | 2023-12-20 |
 | [Shussou](https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Shussou](https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2) | 3:55 | 2024-10-15 | 2024-12-10 |
 | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/album/38cEkAqmg13qoj9CnXRIX3) | 3:42 | 2024-06-03 | 2024-10-16 |
-| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 |  |
+| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 | 2025-02-11 |
 | [SKY PRAYER](https://open.spotify.com/track/26F9zTeLrSRGJlKD5EZSwG) | [STAMINA MAYONNAISE](https://open.spotify.com/artist/7Ma5W6ANNZt2pPMrt0lDXe) | [BATTLE CRY](https://open.spotify.com/album/4aoB4oMgk7i2HzsJhgyogJ) | 1:18 | 2024-01-02 | 2024-01-10 |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 |  |
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |

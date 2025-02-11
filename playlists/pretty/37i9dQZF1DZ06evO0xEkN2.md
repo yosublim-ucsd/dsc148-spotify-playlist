@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,550 likes - 51 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,595 likes - 51 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 30 | [Borracho Drunk Steady Beer](https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:47 |
 | 31 | [María \(feat\. Toño Lira\) \- En Vivo](https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Toño Lira](https://open.spotify.com/artist/3SzI0qa8RrThX1grtj1IaX) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 3:42 |
 | 32 | [No Me Digas Que Te Vas \(feat\. Liquits\)](https://open.spotify.com/track/3R6hm07kmnyFTKAqtjI6D0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 3:24 |
-| 33 | [Botellas](https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:07 |
-| 34 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 33 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 34 | [Botellas](https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:07 |
 | 35 | [Rojo](https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rojo](https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO) | 3:06 |
 | 36 | [El Lado Oscuro](https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 2:59 |
 | 37 | [Si Una Vez](https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Si Una Vez](https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0) | 3:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 50 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
 | 51 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
 
-Snapshot ID: `Z6aegAAAAAAT5+V9fMYQ4pL0Rz7Z1NpE`
+Snapshot ID: `Z6fwAAAAAAB9r0m+CHu42/z8qnXLV7j7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,265 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,285 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 2 | [A Veces A Besos \- Remix](https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [A Veces A Besos \(Remix\)](https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf) | 3:36 |
 | 3 | [¿Que Te Pasó?](https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [¿Que Te Pasó?](https://open.spotify.com/album/7aNA8T8Ycq3EG3tQJr1q9h) | 2:48 |
 | 4 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
-| 5 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 |
-| 6 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
+| 5 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
+| 6 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 |
 | 7 | [Los Besos](https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:22 |
 | 8 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 |
 | 9 | [2005](https://open.spotify.com/track/6hY6LMOTZOWUOZMk4wPW92) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 50 | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \- Remix](https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \[Remix\]](https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD) | 4:12 |
 | 51 | [I Try For You](https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:16 |
 
-Snapshot ID: `Z6aegAAAAADEyxbRsHxGY7rqMQSzGuR4`
+Snapshot ID: `Z6fwAAAAAAAtcOA8Dk+cbrBksSzfrxFh`

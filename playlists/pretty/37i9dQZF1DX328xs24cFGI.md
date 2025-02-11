@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,811 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,827 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 53 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:32 |
 | 54 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 55 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 |
-| 56 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
+| 56 | [恋をして](https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [恋をして](https://open.spotify.com/album/4fJN4wJDBWEVxRVTtdGjio) | 6:03 |
 | 57 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |
-| 58 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
-| 59 | [恋をして](https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [恋をして](https://open.spotify.com/album/4fJN4wJDBWEVxRVTtdGjio) | 6:03 |
+| 58 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
+| 59 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 60 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 |
-| 61 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 62 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
+| 61 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
+| 62 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 63 | [結](https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:24 |
 | 64 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
 | 65 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 |

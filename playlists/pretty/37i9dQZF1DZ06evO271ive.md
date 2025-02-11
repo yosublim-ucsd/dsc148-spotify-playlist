@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,266 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,295 likes - 52 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 29 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
 | 30 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 31 | [I’m The Shit](https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:31 |
-| 32 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 |
-| 33 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
+| 32 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
+| 33 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 |
 | 34 | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yonce Freestyle \(feat\. Sexyy Red & B.G.\)](https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm) | 3:44 |
 | 35 | [Don't Trust Em](https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Trust Em](https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV) | 3:30 |
-| 36 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 |
-| 37 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:58 |
+| 36 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:58 |
+| 37 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 |
 | 38 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
 | 39 | [I Might \(feat\. Summer Walker\)](https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 |
 | 40 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 51 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 |
 | 52 | [FYM](https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FYM](https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG) | 2:40 |
 
-Snapshot ID: `Z6aegAAAAABMbnPVYTp7flEJCS2t/l7c`
+Snapshot ID: `Z6fwAAAAAACfTl/T0wtl9BuvIxZqnnnE`

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-344 songs - 1 day 9 hr 1 min
+345 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Aa Vasant Rajni](https://open.spotify.com/track/2eiOOMb5V2tPY9VTmBbMME) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Aa Vasant Rajni](https://open.spotify.com/album/5KOiUoOwgiyLQdDQEwR8VW) | 4:49 | 2025-01-06 | 2025-02-10 |
 | [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 | 2023-10-27 | 2024-07-19 |
 | [Aaj Rang Hai \- Sufi Expressions](https://open.spotify.com/track/2MZiWzBGuyaiNDdry7Sxg8) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Aaj Rang Hai \(Sufi Expressions\)](https://open.spotify.com/album/31TAjuLbbBqGGXqkzdrCZY) | 3:58 | 2024-09-20 | 2025-01-08 |
-| [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 |  |
+| [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 | 2025-02-11 |
 | [Aan Milo Sajna](https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Aan Milo Sajna](https://open.spotify.com/album/2cj2Ig40zfQualDkWWI4Vj) | 3:37 | 2024-08-18 | 2024-09-21 |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 |  |
 | [Aaye Na Balam](https://open.spotify.com/track/7lVPuhH2BjjDEVzBZBPJaL) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Aaye Na Balam](https://open.spotify.com/album/00oSm4ubHzQkPJMRuobGky) | 3:00 | 2024-03-06 | 2024-09-10 |
@@ -203,6 +203,7 @@
 | [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2022-05-17 | 2023-03-09 |
 | [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 | 2023-08-01 | 2024-09-30 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-25 | 2024-09-21 |
+| [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-10 |  |
 | [Naina](https://open.spotify.com/track/1Qm4pSItUMDa0ROpSQ8ztj) | [Durba Banerjee](https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8), [Krishh Datta](https://open.spotify.com/artist/5GcmYWhvuXI2WHxtqcg5Ru) | [Naina](https://open.spotify.com/album/3daIlwFLqnqixreRQBMykM) | 5:16 | 2024-08-01 | 2025-01-07 |
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |
 | [Naina Kamaal](https://open.spotify.com/track/37oPANH2478NM6U2K5U2MU) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 3:52 | 2024-02-23 | 2025-01-07 |

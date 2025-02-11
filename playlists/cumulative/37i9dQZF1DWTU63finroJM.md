@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Sofie Royer.
 
-1,854 songs - 4 day 4 hr 18 min
+1,855 songs - 4 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [Handful of Water](https://open.spotify.com/track/4ieunk0Q7WADWYoZMSolwG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 2:31 | 2022-03-24 | 2022-12-15 |
 | [Hands Up](https://open.spotify.com/track/5fuxO5L5H6XfM4EELBludo) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [Hands Up](https://open.spotify.com/album/5Do2RA9wBpEplcVhebv6xH) | 4:19 | 2022-03-24 | 2022-05-08 |
 | [Hanggang sa Huli](https://open.spotify.com/track/3FGbfm2NLfCgdDXZTyUDVp) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hanggang sa Huli](https://open.spotify.com/album/4Yjs5ZMEZVyMxivzPfjjsl) | 4:49 | 2022-02-03 | 2022-09-16 |
+| [Hangman](https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Hangman](https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9) | 3:09 | 2025-02-07 |  |
 | [Happier](https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier](https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL) | 3:17 | 2024-03-15 | 2024-08-03 |
 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 | 2024-08-04 |
 | [Happy Birthday](https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Happy Birthday](https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ) | 2:54 | 2022-02-03 | 2022-12-15 |
@@ -1230,7 +1231,7 @@
 | [Proud of Me](https://open.spotify.com/track/4p3QFHlxOOJzE2dy9CL7WR) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Proud of Me](https://open.spotify.com/album/59io9pkWx8jRgV94SdZ4MR) | 3:32 | 2024-05-03 | 2024-06-17 |
 | [PROVOCAR](https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [MI FANTASY](https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0) | 2:46 | 2022-04-07 | 2022-04-21 |
 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 | 2023-08-18 | 2023-11-18 |
-| [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 |  |
+| [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 | 2025-02-11 |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-06-29 | 2022-08-02 |
 | [PUBLIC ENEMY](https://open.spotify.com/track/0imX3RvtPuZVoKvfi8PLPF) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [PUBLIC ENEMY](https://open.spotify.com/album/6nS4w1y5iAP1EuFhIph3Gr) | 3:46 | 2022-03-24 | 2022-04-18 |
 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 | 2023-01-20 | 2023-10-06 |

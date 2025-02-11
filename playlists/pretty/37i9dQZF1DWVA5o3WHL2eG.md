@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,456 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,455 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Rodeo](https://open.spotify.com/track/3AK1IvwhjvgOAWhl7wuhe6) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Rodeo](https://open.spotify.com/album/6RDWlOjG7KfF1vKnqXr77Z) | 3:48 |
 | 21 | [Self Sabotage](https://open.spotify.com/track/5DuItyhA0owD0xO9ZnAojo) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MADWOMAN](https://open.spotify.com/album/4NuuF6F3bzfTo9zG07r3q4) | 2:55 |
 | 22 | [2 Fledermäuse](https://open.spotify.com/track/6KbC7dIbZe6j9dM45W0PHu) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [2 Fledermäuse](https://open.spotify.com/album/3Sad6tKY9l8WavtnypZ5JO) | 3:19 |
-| 23 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
-| 24 | [Tränen gefroren](https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Tränen gefroren](https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM) | 2:32 |
+| 23 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
+| 24 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
 | 25 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 |
-| 26 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
-| 27 | [Raketendicht](https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Raketendicht](https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt) | 2:13 |
-| 28 | [Eines Tages](https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Eines Tages](https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2) | 2:16 |
-| 29 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
+| 26 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 |
+| 27 | [Tränen gefroren](https://open.spotify.com/track/1JAo9PLuPoez8pwt7K43wG) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Tränen gefroren](https://open.spotify.com/album/7vy4i1RPl2bjwTEbt743lM) | 2:32 |
+| 28 | [Raketendicht](https://open.spotify.com/track/33f1v9SQeiMLIa6F1J9z5G) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Raketendicht](https://open.spotify.com/album/5EtYWAAiAoFQVMwRcRWhYt) | 2:13 |
+| 29 | [Eines Tages](https://open.spotify.com/track/3Sh5PQYaMuzlRriU9b5WKo) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Eines Tages](https://open.spotify.com/album/3NMpeD6nzjGcOYUUb8gLp2) | 2:16 |
 | 30 | [Nichts tut gut](https://open.spotify.com/track/3u7owldWSaheL4MG4UKIcY) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS), [NIKRA](https://open.spotify.com/artist/4KMMyH96yGknUQZZ6MDFmt) | [Nichts tut gut](https://open.spotify.com/album/35Waw6VtY9cWLB8nENedzQ) | 2:33 |
 | 31 | [Verstand](https://open.spotify.com/track/132hYYFSQrvbEscKmAiMF4) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Verstand](https://open.spotify.com/album/4WiWDDdZkQBglxFem1EzC5) | 3:11 |
 | 32 | [silbertablett](https://open.spotify.com/track/3d5uy1dirx1L8zaNf2crD4) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [silbertablett](https://open.spotify.com/album/1qeNOzoSIRT9HcV728CBFh) | 3:15 |
-| 33 | [Haven](https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Haven](https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln) | 3:28 |
-| 34 | [Alrighter](https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Alrighter](https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW) | 2:18 |
+| 33 | [Alrighter](https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Alrighter](https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW) | 2:18 |
+| 34 | [Haven](https://open.spotify.com/track/3Ga9IAW9YXepKjjPe90QG2) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Haven](https://open.spotify.com/album/2awfGPTU1Hwk3PbT9vRuln) | 3:28 |
 | 35 | [ich würde dich nie bereuen](https://open.spotify.com/track/6713t6b4uZcp7GpIM0K5Mk) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [ich würde dich nie bereuen](https://open.spotify.com/album/3u7LxCDUx741Q0JLe991HL) | 2:44 |
 | 36 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
 | 37 | [rock n roll healing](https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [rock n roll healing](https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF) | 2:47 |

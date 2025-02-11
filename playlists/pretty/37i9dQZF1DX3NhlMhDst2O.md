@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > el primer tonto de tu vida quiero ser 🥺🥀😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,125 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,255 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 53 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
 | 54 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
 | 55 | [No Son Palabritas](https://open.spotify.com/track/5BrP7XLGGbMX75USSdsKsI) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
-| 56 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
-| 57 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
+| 56 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
+| 57 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
 | 58 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
 | 59 | [Eres Mi Mundo](https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Éxitos De Época \(De Colección\)](https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw) | 2:48 |
 | 60 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |

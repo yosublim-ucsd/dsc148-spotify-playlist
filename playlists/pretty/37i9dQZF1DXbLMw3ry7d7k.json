@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos m\u00e1s recientes aqu\u00ed.",
-  "num_followers": 610039,
+  "num_followers": 610221,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -303,8 +303,8 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
       "added_at": "2025-01-09 19:32:04",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
-        "name": "EL CL\u00faB",
-        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
-    },
-    {
-      "added_at": "2025-01-09 19:32:04",
-      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -387,8 +371,24 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "EL CL\u00faB",
+        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
+    },
+    {
+      "added_at": "2025-01-09 19:32:04",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2025-01-09 19:32:04",
@@ -443,30 +443,6 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 212878,
-      "name": "LADY GAGA",
-      "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
-    },
-    {
-      "added_at": "2025-01-09 19:32:04",
-      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "added_at": "2025-01-09 19:32:04",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "LADY GAGA",
+      "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
     },
     {
       "added_at": "2025-01-09 19:32:04",
@@ -919,6 +919,26 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "added_at": "2025-01-09 19:32:04",
+      "album": {
         "name": "BBY BOO (REMIX)",
         "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
-    },
-    {
-      "added_at": "2025-01-09 19:32:04",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 216327,
-      "name": "FINA",
-      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
     },
     {
       "added_at": "2025-01-09 19:32:04",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
-        "name": "Hasta Aqu\u00ed Llegu\u00e9",
-        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
-    },
-    {
-      "added_at": "2025-01-09 19:32:04",
-      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "added_at": "2025-01-09 19:32:04",
+      "album": {
+        "name": "Hasta Aqu\u00ed Llegu\u00e9",
+        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
     },
     {
       "added_at": "2025-01-09 19:32:04",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 183890,
+      "name": "UNA BALA",
+      "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
+    },
+    {
+      "added_at": "2025-01-09 19:32:04",
+      "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 206103,
       "name": "Pa Ti Estoy",
       "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
-    },
-    {
-      "added_at": "2025-01-09 19:32:04",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 183890,
-      "name": "UNA BALA",
-      "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
     },
     {
       "added_at": "2025-01-09 19:32:04",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2025-01-09 19:32:04",
       "album": {
-        "name": "HABLAME CLARO",
-        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
-    },
-    {
-      "added_at": "2025-01-09 19:32:04",
-      "album": {
         "name": "Buenas",
         "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 192954,
       "name": "Buenas",
       "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "added_at": "2025-01-09 19:32:04",
+      "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
       "added_at": "2025-01-09 19:32:04",

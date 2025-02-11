@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14495,
+  "num_followers": 14496,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAAOPbT4+r/a21Cpzz4gSmTB",
+  "snapshot_id": "Z6fwAAAAAABJC+3c07SV8YuciIYDoJRv",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JERUSALEMA",
-        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 329189,
-      "name": "JERUSALEMA",
-      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 193278,
       "name": "Milambi",
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JERUSALEMA",
+        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 329189,
+      "name": "JERUSALEMA",
+      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
     },
     {
       "added_at": null,
@@ -539,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
       "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Do Yourself",
-      "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
+      "duration_ms": 285619,
+      "name": "Itarafo",
+      "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
     },
     {
       "added_at": null,
@@ -591,42 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 285619,
-      "name": "Itarafo",
-      "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
       "artists": [
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
+      "duration_ms": 242906,
+      "name": "Do Yourself",
+      "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 229293,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Cages",
         "url": "https://open.spotify.com/album/0nISni6H22mYUDNtmlrH2J"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 221573,
       "name": "Africa Nangadef",
       "url": "https://open.spotify.com/track/1bcdYsNISTkYpnbuAXp9Le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
     },
     {
       "added_at": null,

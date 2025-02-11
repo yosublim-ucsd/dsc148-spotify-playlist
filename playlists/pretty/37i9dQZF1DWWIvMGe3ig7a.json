@@ -1,6 +1,6 @@
 {
   "description": "A sad playlist for when the buildup to summer ends up being a bummer, ft d4vd",
-  "num_followers": 88794,
+  "num_followers": 88885,
   "original_name": "bummer summer",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2024-05-10 17:49:10",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2024-05-10 17:49:10",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-05-10 17:49:10",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-05-10 17:49:10",

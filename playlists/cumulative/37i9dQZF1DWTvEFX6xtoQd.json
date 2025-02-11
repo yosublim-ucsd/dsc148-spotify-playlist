@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "417 Hz Sleeplume",
+        "url": "https://open.spotify.com/album/2vqLnvSfkfzF3YY8SEPoR0"
+      },
+      "artists": [
+        {
+          "name": "Whispering Zephyr",
+          "url": "https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "417 Hz Sleeplume",
+      "url": "https://open.spotify.com/track/0pGG3NSvfE7vwb6SnYH2Vc"
+    },
+    {
+      "album": {
+        "name": "432 Hz Tuning into Peace",
+        "url": "https://open.spotify.com/album/1Bk9tOvYdIoEnRjgJpZ6iG"
+      },
+      "artists": [
+        {
+          "name": "Celestros",
+          "url": "https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "432 Hz Tuning into Peace",
+      "url": "https://open.spotify.com/track/5Tlr3Qd45LVieEsNZQKUJ5"
+    },
+    {
+      "album": {
         "name": "Solfeggio #2",
         "url": "https://open.spotify.com/album/0hFVXILa2hJgT8aVZIlhya"
       },
@@ -322,7 +358,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 172800,
       "name": "528 Hz Angelic Morning",
       "url": "https://open.spotify.com/track/3rPXQBQQ8LazrVuOI0X7d6"
@@ -560,6 +596,24 @@
       "duration_ms": 154000,
       "name": "528 Hz Clearing Mind",
       "url": "https://open.spotify.com/track/49WSWGHxpUYNpa4wb0JXzN"
+    },
+    {
+      "album": {
+        "name": "528 Hz Cosmic Force",
+        "url": "https://open.spotify.com/album/39TKT1ECPUwPmVWPbBpEKC"
+      },
+      "artists": [
+        {
+          "name": "Sky Anthus",
+          "url": "https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199245,
+      "name": "528 Hz Cosmic Force",
+      "url": "https://open.spotify.com/track/5jvFawEboT2AxRviSZVvEp"
     },
     {
       "album": {
@@ -3119,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Liminal 528 Hz",
+        "url": "https://open.spotify.com/album/4z8bx5Adx0lG5VVz5PTTpM"
+      },
+      "artists": [
+        {
+          "name": "Hain Sona",
+          "url": "https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155734,
+      "name": "Liminal 528 Hz",
+      "url": "https://open.spotify.com/track/4MoH9bUy636u0h4Y5LoZJy"
+    },
+    {
+      "album": {
         "name": "Luminescence 528 Hz",
         "url": "https://open.spotify.com/album/0o3L25PzgLANGchIjqsAwW"
       },
@@ -3764,7 +3836,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 150000,
       "name": "Soothing 528 Hz",
       "url": "https://open.spotify.com/track/3CnPZ2U4fQ4CxjDLY9StX0"
@@ -4052,7 +4124,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 173942,
       "name": "Undiscovered",
       "url": "https://open.spotify.com/track/1528QDxI81F3Da9QGtilHD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lia Kali, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,446 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,551 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 28 | [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 |
 | 29 | [Reggaeton](https://open.spotify.com/track/6wqreX8dJEvH5UadXoYx6y) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [LowFlyer \(Deluxe Edition\)](https://open.spotify.com/album/1FrWQryCHNC95W7JwpKKiK) | 2:16 |
 | 30 | [7:00 AM](https://open.spotify.com/track/0MIzFYAeWoY0DGsUXnQP5q) | [Albert Diamond](https://open.spotify.com/artist/4mhdzOqGkzXjckKkBvZ5wA), [Believe Records Mundial LLC](https://open.spotify.com/artist/0n5jry9iuYip5qrlNAvwmB), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Gemas](https://open.spotify.com/album/1oZ3QyFPDK3YpbSCenGNRH) | 2:23 |
-| 31 | [Atrevete](https://open.spotify.com/track/1rwW2LDhMlDS8vC4laQJ3O) | [Chavita Borja](https://open.spotify.com/artist/7pcloDfSWs9Zu6qpfhdqwm), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Atrevete](https://open.spotify.com/album/3YxQYHWwSkFnVjQHJI0PLT) | 3:24 |
+| 31 | [Atrevete](https://open.spotify.com/track/1rwW2LDhMlDS8vC4laQJ3O) | [Chavita Borja](https://open.spotify.com/artist/7pcloDfSWs9Zu6qpfhdqwm), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV), [Manny S.](https://open.spotify.com/artist/7g9P45UJ1hgAg76ZhIuOhe) | [Atrevete](https://open.spotify.com/album/3YxQYHWwSkFnVjQHJI0PLT) | 3:24 |
 | 32 | [Guao Guao](https://open.spotify.com/track/230T4LWoFiM2qOTU1Q4ygT) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Guao Guao](https://open.spotify.com/album/3S5vRWGMHqn3zjSSNQhWST) | 2:06 |
 | 33 | [Ropita Europea](https://open.spotify.com/track/1Mm8wiKEBryswVSnI6bEkb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Ropita Europea](https://open.spotify.com/album/5IakfukxkOh2OlVEAN4OUM) | 2:49 |
 | 34 | [SENTIDO COMÚN](https://open.spotify.com/track/43gQjpu2eXUsbDhW8UPjYA) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SENTIDO COMÚN](https://open.spotify.com/album/7Gjl4Unb6gNKMXDjyANuxJ) | 3:23 |

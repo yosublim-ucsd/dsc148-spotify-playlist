@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > The best in new alternative pop\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,448 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,467 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 47 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 |
 | 48 | [Running Around \(feat\. Fousheé\)](https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:34 |
 | 49 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 |
-| 50 | [4eva](https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:20 |
-| 51 | [So Fast](https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:30 |
-| 52 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 |
+| 50 | [So Fast](https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:30 |
+| 51 | [Wildflowers](https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wildflowers](https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR) | 3:25 |
+| 52 | [4eva](https://open.spotify.com/track/6c0Vmwoz6Dgn0sZP3ZMO07) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:20 |
 | 53 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
-| 54 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 |
-| 55 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
-| 56 | [Fakest Bitch](https://open.spotify.com/track/0REo0vbZOgwJ7efhYEXy6J) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 4:19 |
+| 54 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
+| 55 | [Fakest Bitch](https://open.spotify.com/track/0REo0vbZOgwJ7efhYEXy6J) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 4:19 |
+| 56 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 |
 | 57 | [ur special to me](https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [ur special to me](https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L) | 1:54 |
 | 58 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 |
 | 59 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 77 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
 | 78 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 79 | [The Conflict Of The Mind](https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict Of The Mind](https://open.spotify.com/album/3IcTqH3eggpX1ODT8l535d) | 4:15 |
-| 80 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 |
+| 80 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 |
 
 Snapshot ID: `ZwhjeAAAAACloVjL/Six9Eoy8HUnD1r4`

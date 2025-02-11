@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,201 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,221 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 | 33 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 34 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 |
 | 35 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
-| 36 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
+| 36 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 37 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
-| 38 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
+| 38 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
 | 39 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
 | 40 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 | 41 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 | 47 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
 | 48 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |
 | 49 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 50 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
-| 51 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
+| 50 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
+| 51 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 |
 | 52 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
 | 53 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
-| 54 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
-| 55 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
+| 54 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
+| 55 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 
 Snapshot ID: `Z5C1VgAAAAAtaZbBsBWj1HtcheuzFWhE`

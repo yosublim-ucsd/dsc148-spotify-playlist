@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,124 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,203 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 47 | [Heaven's Well \- Live](https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Heaven's Well \(Live\)](https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv) | 4:13 |
 | 48 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
 | 49 | [Jesus, Come Be the Center \(feat\. Meredith Mauldin\)](https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 8:08 |
-| 50 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
-| 51 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
+| 50 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
+| 51 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 52 | [Be With Me](https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 3:46 |
 | 53 | [Wait Upon the Lord \(Spontaneous\) \- Live](https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 7:02 |
 | 54 | [Worthy \(Live\)](https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II](https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ) | 8:29 |
 | 55 | [Stand in Awe](https://open.spotify.com/track/7DICHSYQHM0J4uLoevN0hB) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s), [Tom Young](https://open.spotify.com/artist/2Y4ohL1lkOM3IABqtkZpvq) | [Stand in Awe](https://open.spotify.com/album/5D6qslrsW2qUZcdAZztpXP) | 5:10 |
-| 56 | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/track/11jWJHIPj97VsZlCk72KDF) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Joel Gerdis](https://open.spotify.com/artist/0MxGkBtPVUt3OcFXkj3j3B) | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/album/4WTT13R6XQ9LmrvKvoRUWY) | 5:36 |
-| 57 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
+| 56 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
+| 57 | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/track/11jWJHIPj97VsZlCk72KDF) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Joel Gerdis](https://open.spotify.com/artist/0MxGkBtPVUt3OcFXkj3j3B) | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/album/4WTT13R6XQ9LmrvKvoRUWY) | 5:36 |
 | 58 | [Set My Heart \- Live](https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:12 |
 | 59 | [Come Through \- Live](https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 10:10 |
 | 60 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 70 | [Wonder of Our God](https://open.spotify.com/track/2FN1eGxJVWU7bixnwIqy5P) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Wonder of Our God](https://open.spotify.com/album/4YTJdZrAc9uy5eOYhCVSCC) | 6:02 |
 | 71 | [Forgiveness](https://open.spotify.com/track/7f86ZiTvk6rNvJLme8BK9f) | [Bread & Wine](https://open.spotify.com/artist/2aabKw2SudelzKpyMjPNv7), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Forgiveness](https://open.spotify.com/album/5uFLZgja9bmsXyAOCF1iXz) | 5:12 |
 | 72 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
-| 73 | [Yeshua \(Spontaneous\) \- Live](https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78) | [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3) | [Yeshua \(Spontaneous\) \[Live\]](https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj) | 6:57 |
-| 74 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
+| 73 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
+| 74 | [Yeshua \(Spontaneous\) \- Live](https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78) | [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3) | [Yeshua \(Spontaneous\) \[Live\]](https://open.spotify.com/album/5euI6yTA3skQd2vQiVepMj) | 6:57 |
 | 75 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
 
 Snapshot ID: `Zq3mVAAAAADWg1rLaM/FF0C0yAKXUsEr`

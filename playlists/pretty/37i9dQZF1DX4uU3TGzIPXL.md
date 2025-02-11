@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,738 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,800 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 10 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
 | 11 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 12 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
-| 13 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 14 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
+| 13 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
+| 14 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 15 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 16 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 17 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 77 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
 | 78 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
 | 79 | [Sweet Dreams](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Greatest Hits](https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo) | 3:24 |
-| 80 | [Bailamos \- From "Wild Wild West"](https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:32 |
-| 81 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
+| 80 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
+| 81 | [Bailamos \- From "Wild Wild West"](https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:32 |
 | 82 | [Never Ever](https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Saints](https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF) | 6:27 |
 | 83 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 84 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
 | 85 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
-| 86 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
-| 87 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 |
+| 86 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 |
+| 87 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 |
 | 88 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 |
 | 89 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 90 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 126265,
+  "num_followers": 126285,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADEyxbRsHxGY7rqMQSzGuR4",
+  "snapshot_id": "Z6fwAAAAAAAtcOA8Dk+cbrBksSzfrxFh",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 235424,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
     },
     {
       "added_at": null,

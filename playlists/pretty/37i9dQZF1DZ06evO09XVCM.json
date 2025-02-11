@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 33911,
+  "num_followers": 33914,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACAaoiG09+ILws3FGRV42vo",
+  "snapshot_id": "Z6fwAAAAAABGXufe5Sl0WZuWAZeuxlBL",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#7DJ (7 D\u00edas En Jamaica)",
         "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 343995,
       "name": "War - Live",
       "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "A Lifetime",
-      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "A Lifetime",
+      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Rainbow in the Sky",
+      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbiana",
         "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Rainbow in the Sky",
-      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "High On Life",
-      "url": "https://open.spotify.com/track/4goc7AKZBLAuvHU7kA9TnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -591,22 +575,6 @@
       "duration_ms": 242466,
       "name": "Never Deny You",
       "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 256978,
-      "name": "Positive Vibration - Live",
-      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
     },
     {
       "added_at": null,
@@ -627,6 +595,38 @@
       "duration_ms": 143400,
       "name": "Raindrops Keep Falling On My Head",
       "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 256978,
+      "name": "Positive Vibration - Live",
+      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "High On Life",
+      "url": "https://open.spotify.com/track/4goc7AKZBLAuvHU7kA9TnJ"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly Rasta",
         "url": "https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC"
       },
@@ -703,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
       "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Sedjedo",
-      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
       "duration_ms": 267306,
       "name": "Weekend's Long",
       "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Sedjedo",
+      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
     },
     {
       "added_at": null,

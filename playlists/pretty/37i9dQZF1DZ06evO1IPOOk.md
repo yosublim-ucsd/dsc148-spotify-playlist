@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,173 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,694,065 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 45 | [untitled 08 \| 09.06.2014.](https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:55 |
 | 46 | [Backseat Freestyle](https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 3:32 |
 | 47 | [The Greatest \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
-| 48 | [Chapter Six](https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:41 |
-| 49 | [Mona Lisa \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 5:24 |
+| 48 | [Mona Lisa \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 5:24 |
+| 49 | [Chapter Six](https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:41 |
 | 50 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
 | 51 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 |
 
-Snapshot ID: `Z6aegAAAAAC48R+4AoZ2JF98p5xJd/dj`
+Snapshot ID: `Z6fwAAAAAACpb+5wbum+gbRnjogrZma0`

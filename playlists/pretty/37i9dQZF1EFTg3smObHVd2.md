@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 25 | [Paper Doll](https://open.spotify.com/track/5QRq7LMDHVdCuIo1uys02H) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Not An Apology](https://open.spotify.com/album/1ukpF3eKewIjkKGpu70sKm) | 3:36 |
 | 26 | [30 Days](https://open.spotify.com/track/49QuascxmAg436Kx2GNyr4) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:04 |
 | 27 | [Collect My Love \(feat\. Alex Newell\)](https://open.spotify.com/track/0vKHq50iizaMQivSaItLf3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 3:15 |
-| 28 | [Hush Hush](https://open.spotify.com/track/7bHbeVr1NXf8m4BUpVn6Dn) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Party Hits 2](https://open.spotify.com/album/1FKn2Ip89a2XbQQYWbXzuM) | 3:42 |
+| 28 | [Hush Hush \- Radio Edit](https://open.spotify.com/track/4izQvPd4e6AUniUEDEWl0X) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [100% Dance Hits \- Best Of 2011](https://open.spotify.com/album/2xF8OgRUvFpPYDOULlQHPn) | 3:41 |
 | 29 | [Only Ones To Know \(feat\. Leona Lewis\)](https://open.spotify.com/track/64XOpjIAmHElXLV1OqhaOH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:50 |
 | 30 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 |
 | 31 | [Sexy Love](https://open.spotify.com/track/5ZEm9wX8MwWLARMOwlarWD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:31 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 82 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 83 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 |
 
-Snapshot ID: `AbpKXgAAAAAXoJcmZxq52ccQJDqEUadd`
+Snapshot ID: `AbpP1gAAAAAqzwRDjr9rO0qiSFgU8uZ/`

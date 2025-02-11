@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,388 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,473 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 41 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
 | 42 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 43 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
-| 44 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
-| 45 | [Agüita De Melón](https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Se Nos Paso La Mano En Sabor](https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs) | 3:05 |
+| 44 | [Agüita De Melón](https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Se Nos Paso La Mano En Sabor](https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs) | 3:05 |
+| 45 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 46 | [El Negro José](https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2) | [El Combo Palacio](https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7), [Los Virtuosos De La Salsa](https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub) | [Nuevamente! Salsas y Cumbias](https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ) | 4:12 |
 | 47 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 |
 | 48 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 58 | [Pero Tu No Estas](https://open.spotify.com/track/00c81raDwIJa803nmAgcU3) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [20 Joyas de la Historia Musical](https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B) | 2:34 |
 | 59 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
 | 60 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
-| 61 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
-| 62 | [¡Ay! El Amor](https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:31 |
+| 61 | [¡Ay! El Amor](https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:31 |
+| 62 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
 | 63 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
 | 64 | [Acapulco Tropical](https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [Ritmo, Sol y Arena](https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H) | 2:27 |
 | 65 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Perez](https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj) | [Cumbias de Oro: 16 Grandes Éxitos](https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY) | 2:35 |

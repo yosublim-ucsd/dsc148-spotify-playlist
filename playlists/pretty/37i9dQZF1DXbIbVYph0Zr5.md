@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,228 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,554 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 48 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
 | 49 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 50 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
-| 51 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
+| 51 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
 | 52 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
-| 53 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
+| 53 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 54 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 55 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 56 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 89 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 90 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 91 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
-| 92 | [Bigger Houses](https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:17 |
+| 92 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
 | 93 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 |
-| 94 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
+| 94 | [Bigger Houses](https://open.spotify.com/track/7dyjQ4rUIHw3OI8Nl3kdJk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:17 |
 | 95 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
 | 96 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 | 97 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |

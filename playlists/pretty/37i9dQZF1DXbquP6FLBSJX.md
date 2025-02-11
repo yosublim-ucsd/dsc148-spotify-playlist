@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,675 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,688 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 13 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 14 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 |
 | 15 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
-| 16 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 17 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
+| 16 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
+| 17 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 18 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
 | 19 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 20 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |

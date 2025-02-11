@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 32653,
+  "num_followers": 32674,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABicDLns4xLK9jf7oaI40vz",
+  "snapshot_id": "Z6fwAAAAAAAqK9ZVybky88l/REzuGkBa",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 276629,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
         "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 292040,
-      "name": "Silver and Gold - Live",
-      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -799,18 +799,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
       "artists": [
         {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 404600,
-      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
+      "duration_ms": 202117,
+      "name": "Melodies From Heaven (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
     },
     {
       "added_at": null,
@@ -847,30 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 202117,
-      "name": "Melodies From Heaven (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
+      "duration_ms": 404600,
+      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
     },
     {
       "added_at": null,
@@ -891,54 +891,6 @@
       "duration_ms": 265693,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Rance Allen",
-          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
-      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 391695,
-      "name": "Father Knows Best",
-      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
     },
     {
       "added_at": null,
@@ -971,6 +923,54 @@
       "duration_ms": 647024,
       "name": "The One You Love/One Thing Remains (feat. Brandon Lake & Dante Bowe)",
       "url": "https://open.spotify.com/track/6BnHuqER7ETLtTWMy4017Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
     },
     {
       "added_at": null,

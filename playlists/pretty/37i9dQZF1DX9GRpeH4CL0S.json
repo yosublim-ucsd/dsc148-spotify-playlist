@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 767127,
+  "num_followers": 767244,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 235053,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "We Started Nothing",
         "url": "https://open.spotify.com/album/1aWIPcWf3fDEZT6geXjCfU"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 310573,
       "name": "That's Not My Name",
       "url": "https://open.spotify.com/track/2DNdEpV9UnsYjL6w1Dp1aS"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/3X36TxPDnlK0Ie61NLMYwy"
       },
       "artists": [
         {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Cold Hard Bitch",
-      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
+      "duration_ms": 165520,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/5RsafHN45Azq79aJ6IG9Ck"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Myths Of The Near Future",
-        "url": "https://open.spotify.com/album/3X36TxPDnlK0Ie61NLMYwy"
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
       "artists": [
         {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
         }
       ],
-      "duration_ms": 165520,
-      "name": "Golden Skans",
-      "url": "https://open.spotify.com/track/5RsafHN45Azq79aJ6IG9Ck"
+      "duration_ms": 243200,
+      "name": "Cold Hard Bitch",
+      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Tell All Your Friends (Re-Issue)",
         "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 211546,
       "name": "Cute Without the \"E\" (Cut From the Team)",
       "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3087,6 +3087,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "Oh, Inverted World",
         "url": "https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie"
       },
@@ -3115,22 +3131,6 @@
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
     },
     {
       "added_at": "2025-01-14 01:55:30",

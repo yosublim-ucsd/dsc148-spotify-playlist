@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1654401,
+  "num_followers": 1654748,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "I Am The Club Rocker",
+        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Sun Is Up - Play & Win Radio Edit",
+      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 201413,
       "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
       "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "I Am The Club Rocker",
-        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Sun Is Up - Play & Win Radio Edit",
-      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         }
       ],
-      "duration_ms": 281516,
-      "name": "Day 'N' Night - Club Mix",
-      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1663,50 +1659,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
       "artists": [
         {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
         }
       ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
+      "duration_ms": 281516,
+      "name": "Day 'N' Night - Club Mix",
+      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1723,6 +1691,38 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
     },
     {
       "added_at": "2024-07-12 15:40:20",

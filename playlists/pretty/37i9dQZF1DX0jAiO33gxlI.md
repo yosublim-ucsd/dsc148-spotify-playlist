@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,883 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,901 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

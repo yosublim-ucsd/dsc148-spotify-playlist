@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 499406,
+  "num_followers": 499481,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
         "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 193293,
       "name": "12:32 (A to T)",
       "url": "https://open.spotify.com/track/4gQJFhPYEVLuxyriyUubzD"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -291,22 +275,6 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "What are we",
-      "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "What are we",
+      "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "ordinary.",
-        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 217510,
-      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
-      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
         "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 213000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "ordinary.",
+        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 217510,
+      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
+      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
     },
     {
       "added_at": "2025-02-06 08:02:11",

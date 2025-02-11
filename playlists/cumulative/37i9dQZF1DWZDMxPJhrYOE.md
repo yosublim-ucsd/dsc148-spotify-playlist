@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-406 songs - 20 hr 45 min
+407 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2025-01-24 | 2025-01-31 |
 | [Knust](https://open.spotify.com/track/3wqRHnczOsKvn43w5d0YDQ) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Knust](https://open.spotify.com/album/5AGzft7HTMrun5vjPK03oo) | 2:15 | 2024-10-03 | 2024-10-25 |
 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 | 2024-08-22 | 2024-08-30 |
+| [Koldblodet Killer](https://open.spotify.com/track/1kOMrUv9xczMmR6hCmPMzR) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [Koldblodet Killer](https://open.spotify.com/album/4dWDbcViP22VJEBNn4RC57) | 2:11 | 2025-02-10 |  |
 | [Kongen Af Danmark](https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Kongen Af Danmark](https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi) | 3:57 | 2024-07-31 | 2024-08-18 |
 | [Kærlighed](https://open.spotify.com/track/3MIwXofeyDvXoYn7GQACCS) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Kærlighed](https://open.spotify.com/album/2U17zdpU7xUfWYDhfKzD2e) | 3:28 | 2024-11-07 | 2025-02-09 |
 | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/album/2Dj8zC44xsrq1HtjSVGN4o) | 2:44 | 2024-07-31 | 2024-08-30 |
@@ -271,7 +272,7 @@
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-07-01 | 2024-08-01 |
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-07-01 | 2024-08-01 |
 | [Never the same](https://open.spotify.com/track/1mc9ZGd7tFDCdYS8EP6PqC) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Never the same](https://open.spotify.com/album/3GqagQDa9ynKUhlc5DNlr0) | 2:22 | 2024-07-01 | 2024-08-02 |
-| [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 | 2025-01-24 |  |
+| [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 | 2025-01-24 | 2025-02-11 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2025-01-10 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-07-01 | 2024-08-22 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-07 |  |

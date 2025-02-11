@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25873,
+  "num_followers": 25874,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABh7X1W7ZZd5umgspiDuaJeRd04uMY2",
+  "snapshot_id": "AABh9QYMi5rX2yzFoY3Lip/5T9lkYfYJ",
   "tracks": [
     {
       "added_at": "2025-02-06 14:10:20",
@@ -363,6 +363,22 @@
       "duration_ms": 184454,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/4BwvMzrOHja5ZCEeDqOYij"
+    },
+    {
+      "added_at": "2025-02-10 15:55:18",
+      "album": {
+        "name": "Mothership",
+        "url": "https://open.spotify.com/album/6hK5BuRlRNsN3lgn2nSYSD"
+      },
+      "artists": [
+        {
+          "name": "Rakiri",
+          "url": "https://open.spotify.com/artist/0OzW6VVLMa2kEzCUcGEfbK"
+        }
+      ],
+      "duration_ms": 208827,
+      "name": "Mothership",
+      "url": "https://open.spotify.com/track/2K2EVLhu00pjtfwMqDeEcH"
     },
     {
       "added_at": "2025-02-07 13:08:34",
@@ -795,26 +811,6 @@
     {
       "added_at": "2025-02-06 14:10:20",
       "album": {
-        "name": "In My Dreams (Dmitriy Kuznetsov Uplifting Mix)",
-        "url": "https://open.spotify.com/album/0W7WzZWTj622M41C2K3jz0"
-      },
-      "artists": [
-        {
-          "name": "Michael Milov",
-          "url": "https://open.spotify.com/artist/6ZYC9twqzolp7DNVCVVc4C"
-        },
-        {
-          "name": "Dmitriy Kuznetsov",
-          "url": "https://open.spotify.com/artist/54ozPQbB8qxbqvHfvZMWa0"
-        }
-      ],
-      "duration_ms": 258857,
-      "name": "In My Dreams - Dmitriy Kuznetsov Uplifting Mix",
-      "url": "https://open.spotify.com/track/6RBmB84MfHENysxA9fWAfX"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
         "name": "La La",
         "url": "https://open.spotify.com/album/4rghUgwSsXAi9OVW7ye2Pn"
       },
@@ -939,86 +935,6 @@
     {
       "added_at": "2025-02-06 14:10:20",
       "album": {
-        "name": "Now We're Found",
-        "url": "https://open.spotify.com/album/5FUPyargZZQpupSdcsiTmE"
-      },
-      "artists": [
-        {
-          "name": "Roman Messer",
-          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
-        },
-        {
-          "name": "ThoBa",
-          "url": "https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Now We're Found",
-      "url": "https://open.spotify.com/track/1zrW5wKxZ5oWlsufXFE6ED"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
-        "name": "Lead Us Astray",
-        "url": "https://open.spotify.com/album/4pONzuMUYac08MKJQOVlBK"
-      },
-      "artists": [
-        {
-          "name": "Ryan K",
-          "url": "https://open.spotify.com/artist/21A9FwdwDcwfINLJPCtLQ5"
-        },
-        {
-          "name": "Sean Truby",
-          "url": "https://open.spotify.com/artist/3U0MFc3qvb2G98uMSEMBDG"
-        }
-      ],
-      "duration_ms": 208805,
-      "name": "Lead Us Astray",
-      "url": "https://open.spotify.com/track/4CbMQPiYAwSwJwP71yiQGR"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
-        "name": "MINE",
-        "url": "https://open.spotify.com/album/2iFUV9fDTe6bw1OsZ1iiwp"
-      },
-      "artists": [
-        {
-          "name": "Shae District",
-          "url": "https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX"
-        },
-        {
-          "name": "Veltri",
-          "url": "https://open.spotify.com/artist/25qVrLR9oAoSw6cebHZnBS"
-        }
-      ],
-      "duration_ms": 177727,
-      "name": "MINE",
-      "url": "https://open.spotify.com/track/6JGNlLpu176J7bc5CvVbbV"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
-        "name": "Final Call",
-        "url": "https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Final Call",
-      "url": "https://open.spotify.com/track/79OlaXxTge9eY0eizS7iyj"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
@@ -1071,26 +987,6 @@
       "duration_ms": 202285,
       "name": "Stronger Together",
       "url": "https://open.spotify.com/track/5B1Mu4kNiuKjnGmF6TVL30"
-    },
-    {
-      "added_at": "2025-02-06 14:10:20",
-      "album": {
-        "name": "Need Me",
-        "url": "https://open.spotify.com/album/6yKE1KJ6kHx5LO6JhNBg5K"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/5KRWE8f2yC0SIn1aMmaYff"
     }
   ],
   "unique_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",

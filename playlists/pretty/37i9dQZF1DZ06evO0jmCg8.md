@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,150 likes - 51 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,167 likes - 51 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 50 | [Despicable Heroes](https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 2:12 |
 | 51 | [Snow Bound](https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 1:32 |
 
-Snapshot ID: `Z6aegAAAAAB2gz/yftPxxjQb8Lj2DFy+`
+Snapshot ID: `Z6fwAAAAAAC10LmNSibV7ac0QN37htB7`

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Amis, Simplement",
+        "url": "https://open.spotify.com/album/6hHgKgqFSXKSemkT8xdaVA"
+      },
+      "artists": [
+        {
+          "name": "Nocturne des \u00eeles",
+          "url": "https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Amis, Simplement",
+      "url": "https://open.spotify.com/track/7uFbBGMifexy5Nb5GQ2NK9"
+    },
+    {
+      "album": {
         "name": "Dancing On the Moon",
         "url": "https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x"
       },
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 213124,
       "name": "Une Nuit Avec Toi",
       "url": "https://open.spotify.com/track/1XuznZ0644amUBzyeRgZNx"

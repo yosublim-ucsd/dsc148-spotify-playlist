@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: iiso\(이소\)\)
 
-217 songs - 12 hr 17 min
+218 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2024-06-28 |  |
 | [Algorithm \(IMLAY Remix\)](https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [\[Algorithm \(Remixes\)\]](https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0) | 2:28 | 2024-09-24 |  |
 | [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 | 2024-09-01 |
+| [All I Wanna Do](https://open.spotify.com/track/4ScfjW8eccBGFqmoaOKfND) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Point of Hue](https://open.spotify.com/album/3gNzDusqD0Fdjt1FyDVEoF) | 6:58 | 2025-02-11 |  |
 | [Always with You](https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP) | [Aseul](https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo) | [Always with You](https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q) | 3:59 | 2024-04-05 |  |
 | [Amazing](https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 2:42 | 2024-04-05 | 2024-06-29 |
 | [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 | 2025-02-07 |
@@ -172,7 +173,7 @@
 | [Ridin' \- IMLAY Remix](https://open.spotify.com/track/2oQmOWx2DCkYm8uKuk5iVG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:34 | 2024-04-05 | 2024-06-29 |
 | [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 | 2024-04-05 |  |
 | [Rule The World](https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Mbush](https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Rule The World](https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59) | 2:26 | 2024-06-28 |  |
-| [Safe & Sound](https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Safe & Sound](https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z) | 2:42 | 2024-06-28 |  |
+| [Safe & Sound](https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Safe & Sound](https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z) | 2:42 | 2024-06-28 | 2025-02-11 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-07 |  |
 | [Samduck](https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR) | [D\-Steal](https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j), [Castle J](https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Samduck](https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7) | 2:19 | 2024-04-05 | 2024-05-16 |
 | [Savior](https://open.spotify.com/track/41cXhwBfE4UFfEeB0YYrLY) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:45 | 2024-09-01 | 2024-12-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,460 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,816 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 16 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 17 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 18 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
-| 19 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 |
+| 19 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
 | 20 | [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 |
-| 21 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
+| 21 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 |
 | 22 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 23 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 |
 | 24 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |

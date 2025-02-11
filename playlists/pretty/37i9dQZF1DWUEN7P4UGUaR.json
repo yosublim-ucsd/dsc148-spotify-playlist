@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13619,
+  "num_followers": 13623,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,18 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+        "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+      "duration_ms": 200161,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
     },
     {
       "added_at": "2025-01-31 00:01:02",
@@ -519,18 +511,26 @@
     {
       "added_at": "2025-01-31 00:01:02",
       "album": {
-        "name": "Amen (Live)",
-        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
       },
       "artists": [
         {
-          "name": "FRA!",
-          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Amen - Live",
-      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
       "added_at": "2025-01-31 00:01:02",

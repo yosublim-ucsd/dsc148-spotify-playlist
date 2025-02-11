@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > Let these country songs get your tailgate going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,930 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,035 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 38 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 39 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 40 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 |
-| 41 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 |
+| 41 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
 | 42 | [Heartache On The Dance Floor](https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:25 |
 | 43 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
-| 44 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
+| 44 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 |
 | 45 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 46 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 |
 | 47 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 61 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 |
 | 62 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
 | 63 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
-| 64 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
-| 65 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 64 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 65 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 66 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
 | 67 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 |
 | 68 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |

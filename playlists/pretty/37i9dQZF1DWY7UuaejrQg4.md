@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,951 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,950 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 22 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 |
 | 23 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 24 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 |
-| 25 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 |
-| 26 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
+| 25 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
+| 26 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 |
 | 27 | [Tranz](https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 2:42 |
 | 28 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
 | 29 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 88 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 |
 | 89 | [Shelter](https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Shelter](https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU) | 3:59 |
 | 90 | [Get Out](https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF) | 3:51 |
-| 91 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
-| 92 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 |
+| 91 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 |
+| 92 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
 | 93 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 |
 | 94 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 |
 | 95 | [Swimming Pool Summer](https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:33 |
 | 96 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
-| 97 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 |
-| 98 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |
-| 99 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
+| 97 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |
+| 98 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
+| 99 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 |
 | 100 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 |
 
 Snapshot ID: `ZfhARQAAAAB8uiNJ2tYP9U7x3wXkyLR8`

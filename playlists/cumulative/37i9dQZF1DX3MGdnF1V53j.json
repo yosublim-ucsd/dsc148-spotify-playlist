@@ -1205,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "JNSP",
+        "url": "https://open.spotify.com/album/6ANhqRi0RLAi0xZzhT1pW6"
+      },
+      "artists": [
+        {
+          "name": "Karim",
+          "url": "https://open.spotify.com/artist/1Ug8yMRic9wUFTBDhzTgxH"
+        },
+        {
+          "name": "AG BLAXX",
+          "url": "https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147027,
+      "name": "JNSP",
+      "url": "https://open.spotify.com/track/2JcX0Jv7nfWb8GxHNRmHqd"
+    },
+    {
+      "album": {
         "name": "Narcopop",
         "url": "https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98"
       },
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 182970,
       "name": "M\u00e9t\u00e9o",
       "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"

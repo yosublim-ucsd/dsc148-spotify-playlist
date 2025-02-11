@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-107 songs - 8 hr 2 min
+108 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [SWEET HURT（ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～）](https://open.spotify.com/track/6unZbT8gJBqsqSzFBv8L9S) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～](https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na) | 4:34 | 2023-09-21 | 2023-10-02 |
 | [Till the End](https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 6:04 | 2022-06-09 |  |
 | [time](https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [time](https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj) | 3:58 | 2022-09-10 |  |
-| [Toxic](https://open.spotify.com/track/27iSnUm2CYYMsqrmyMxPWQ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Toxic](https://open.spotify.com/album/2IIxB26THi3u2TvOKpBxRe) | 3:47 | 2024-11-25 |  |
+| [Toxic](https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:47 | 2025-02-11 |  |
+| [Toxic](https://open.spotify.com/track/27iSnUm2CYYMsqrmyMxPWQ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Toxic](https://open.spotify.com/album/2IIxB26THi3u2TvOKpBxRe) | 3:47 | 2024-11-25 | 2025-02-11 |
 | [VITA](https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [VITA](https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE) | 5:06 | 2023-01-31 |  |
 | [VITA \-The Days\-](https://open.spotify.com/track/57cU3nbUkPzdbQ6RdDQjjy) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.\(Special Edition\)](https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO) | 9:40 | 2023-12-13 | 2024-10-03 |
 | [Weaker](https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:40 | 2023-03-11 |  |

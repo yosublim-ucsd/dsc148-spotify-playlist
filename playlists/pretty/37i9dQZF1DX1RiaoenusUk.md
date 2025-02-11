@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,243 likes - 94 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,270 likes - 94 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 42 | [Negra Monamour](https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:32 |
 | 43 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
 | 44 | [Croto](https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Especies](https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7) | 3:13 |
-| 45 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
-| 46 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
+| 45 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
+| 46 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
 | 47 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
 | 48 | [Liviano Como el Viento](https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR) | [De Kiruza](https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX) | [Musica Pa'l Mundo](https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv) | 4:53 |
 | 49 | [Can't Fight The Funk](https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE) | 4:01 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 71 | [Pretérito Mujer](https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [De Reviente](https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS) | 3:25 |
 | 72 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
 | 73 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
-| 74 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
-| 75 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
+| 74 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
+| 75 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
 | 76 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
 | 77 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
 | 78 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 90 | [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 |
 | 91 | [Polvo Cósmico \- Remix](https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Polvo Cósmico \(Remix\)](https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx) | 3:27 |
 | 92 | [Cariñoso Calificativo](https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd) | 3:47 |
-| 93 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 |
-| 94 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
+| 93 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
+| 94 | [Una Vez Más](https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl) | [Sophie Sobral & Factor Paracaídas](https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl) | [Una Vez Más](https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G) | 3:30 |
 
 Snapshot ID: `Zzc5pwAAAACJ+6msCeEzk/xUIh2AoBRo`

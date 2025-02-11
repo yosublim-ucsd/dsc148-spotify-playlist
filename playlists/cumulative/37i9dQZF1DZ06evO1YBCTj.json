@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Requiem (Deluxe)",
+        "url": "https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168208,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/41EnM4giX9PJYZIBUCPmiI"
+    },
+    {
+      "album": {
         "name": "THE REAPER",
         "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
       },

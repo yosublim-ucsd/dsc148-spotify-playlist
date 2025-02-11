@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,908 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,350 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 49 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 |
 | 50 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 |
 | 51 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
-| 52 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
-| 53 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 |
+| 52 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 |
+| 53 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
 | 54 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
 | 55 | [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:47 |
 | 56 | [Femme Fatale](https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 |
 | 70 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 |
 
-Snapshot ID: `Z6WTdQAAAACjR2mWOq+Szl1eHMOjaOsr`
+Snapshot ID: `Z6o97wAAAABl0Om0LcVchhTNqkv2fKZ5`

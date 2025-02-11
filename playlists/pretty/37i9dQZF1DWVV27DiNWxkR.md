@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring SASAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,951,244 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951,204 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 28 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 29 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
 | 30 | [Sarah](https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:56 |
-| 31 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 32 | [Lejos de Ti](https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:59 |
+| 31 | [Lejos de Ti](https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:59 |
+| 32 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 33 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
-| 34 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
-| 35 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
+| 34 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
+| 35 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 | 36 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
 | 37 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 |
 | 38 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |

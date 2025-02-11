@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Dreams and Nightmares",
+        "url": "https://open.spotify.com/album/0JeT6s9dkjm4ZjIe6g4QHr"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "Dreams and Nightmares",
+      "url": "https://open.spotify.com/track/0WON7GUPcug0IX0tVtMDMV"
+    },
+    {
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },

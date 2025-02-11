@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 38 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 | 39 | [Mercy](https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 5:49 |
 
-Snapshot ID: `Z6aegAAAAAB/VC6b1XnobAdR85NxTFnK`
+Snapshot ID: `Z6fwAAAAAACdPOzcK54aPp6xQFQFX16u`

@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Krauss & Union Station
 
-362 songs - 21 hr 31 min
+363 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Holdin' On, Holdin’ Out](https://open.spotify.com/track/7Ll9iAtguHDUp3c0aWiv4r) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Holdin' On, Holdin' Out](https://open.spotify.com/album/0VQfMEFRUdU2h6bSkBS4lV) | 3:25 | 2024-08-16 | 2024-12-07 |
 | [Home Is Where the Heart Is](https://open.spotify.com/track/0UC2bb1TlnBx6PzYgAQsme) | [The Dirty Grass Players](https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X) | [Home Is Where the Heart Is](https://open.spotify.com/album/7jCMYs4oH79FbPTmqzrex9) | 2:12 | 2024-06-28 | 2024-08-03 |
 | [Home Sweet Home \- Live AF Version](https://open.spotify.com/track/2RNVKW9Fw5hluE85M4DtPL) | [Johnny Mullenax](https://open.spotify.com/artist/1s0eJIdyhnU64T7fxTjV95), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [Johnny Mullenax Live AF Session \(Live AF Version\)](https://open.spotify.com/album/2Oxn3NwYr9zK0TvS1nMjxZ) | 3:05 | 2025-02-07 |  |
+| [Hook and Line](https://open.spotify.com/track/5d3AerGUgExCxJOSze68ME) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Justin Robinson](https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw) | [Hook and Line](https://open.spotify.com/album/0NcHfCfGMkv90GpkMEGoRu) | 2:30 | 2025-02-10 |  |
 | [How Long Gone \(with The Earls of Leicester\)](https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [The Earls Of Leicester](https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:56 | 2024-11-15 |  |
 | [Hubbardville Store](https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Hubbardville Store](https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS) | 4:12 | 2024-06-28 | 2024-07-13 |
 | [Human](https://open.spotify.com/track/2cjF04SUgaLuRxJZ6IDEop) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [The Banjo Record](https://open.spotify.com/album/0VNakD7jVTYOx15czi8JJ6) | 3:44 | 2024-09-13 | 2024-12-14 |

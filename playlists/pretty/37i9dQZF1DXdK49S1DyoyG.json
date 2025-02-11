@@ -1,6 +1,6 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 83655,
+  "num_followers": 83669,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-07-15 20:01:56",
       "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "added_at": "2024-07-15 20:01:56",
+      "album": {
         "name": "Despacito Feat. Justin Bieber (Remix)",
         "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 228826,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
-    },
-    {
-      "added_at": "2024-07-15 20:01:56",
-      "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Glamorous",
-      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
     },
     {
       "added_at": "2024-07-15 20:01:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,700 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,712 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 22 | [Renegades \- Live Session / Acoustic Version](https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [This is Acoustic \(Live Session / Acoustic Version\)](https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84) | 3:01 |
 | 23 | [Bad Husband \(feat\. X Ambassadors\)](https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:47 |
 | 24 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
-| 25 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
-| 26 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
+| 25 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
+| 26 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
 | 27 | [Blinding Lights](https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Blinding Lights](https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7) | 2:57 |
 | 28 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
-| 29 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 |
-| 30 | [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 |
+| 29 | [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 |
+| 30 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 |
 | 31 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 32 | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 |
 | 33 | [American Oxygen](https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [American Oxygen](https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0) | 5:05 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 39 | [Alcohol \(with BRELAND\)](https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Alcohol \(with BRELAND\)](https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch) | 3:38 |
 | 40 | [Love Songs Drug Songs](https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:39 |
 | 41 | [Great Unknown \- From The Motion Picture “The Call Of The Wild"](https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Great Unknown \(From The Motion Picture “The Call Of The Wild”\)](https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu) | 3:06 |
-| 42 | [give me hell](https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:04 |
-| 43 | [Low Life](https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 4:40 |
+| 42 | [Low Life](https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 4:40 |
+| 43 | [give me hell](https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:04 |
 | 44 | [Unconsolable](https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:36 |
 | 45 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
 | 46 | [Hoping](https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Hoping](https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9) | 3:13 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Sticks and Stones](https://open.spotify.com/track/0QBR1dAYhg9dugYCiUWpeR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC), [SAINT KID](https://open.spotify.com/artist/6wNRpXdQs13mKyXxyVFvxP) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 2:18 |
 | 52 | [Fallout](https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:18 |
 
-Snapshot ID: `Z6aegAAAAAA5AqP+G3E61vT7hPj42HpT`
+Snapshot ID: `Z6fwAAAAAAB6SkF7twiUBYNsOA/oX8W2`

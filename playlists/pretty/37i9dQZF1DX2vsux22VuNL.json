@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Hungria",
-  "num_followers": 293072,
+  "num_followers": 293079,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,18 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+        "name": "Sabores",
+        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
       },
       "artists": [
         {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "N\u00fabia",
+          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+      "duration_ms": 267000,
+      "name": "Sabores",
+      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -803,18 +795,26 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Mina Sereia",
-        "url": "https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn"
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
       "artists": [
         {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
-      "duration_ms": 165568,
-      "name": "Mina Sereia",
-      "url": "https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI"
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -855,38 +855,18 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Sabores",
-        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
+        "name": "Mina Sereia",
+        "url": "https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn"
       },
       "artists": [
         {
-          "name": "N\u00fabia",
-          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Sabores",
-      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+      "duration_ms": 165568,
+      "name": "Mina Sereia",
+      "url": "https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -907,6 +887,26 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "n\u00e3o te amo mais",
-        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
-      },
-      "artists": [
-        {
-          "name": "Isa Guerra",
-          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 133921,
-      "name": "n\u00e3o te amo mais",
-      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 92960,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "n\u00e3o te amo mais",
+        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
+      },
+      "artists": [
+        {
+          "name": "Isa Guerra",
+          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 133921,
+      "name": "n\u00e3o te amo mais",
+      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1455,6 +1431,30 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1475,6 +1475,30 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Naquele Pique",
+        "url": "https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn"
+      },
+      "artists": [
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190735,
+      "name": "Naquele Pique",
+      "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1587,30 +1611,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Naquele Pique",
-        "url": "https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn"
-      },
-      "artists": [
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190735,
-      "name": "Naquele Pique",
-      "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "Seu Z\u00e9",
         "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
@@ -1675,22 +1659,18 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Naturalmente",
-        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
       "artists": [
         {
-          "name": "Sagaz",
-          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
-        },
-        {
-          "name": "Du10",
-          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
         }
       ],
-      "duration_ms": 115763,
-      "name": "Naturalmente",
-      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1715,6 +1695,26 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Naturalmente",
+        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        },
+        {
+          "name": "Du10",
+          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
+        }
+      ],
+      "duration_ms": 115763,
+      "name": "Naturalmente",
+      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
     },
     {
       "added_at": "2025-02-07 03:00:05",

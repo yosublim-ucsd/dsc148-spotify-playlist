@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,890 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,960 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 40 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 41 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 42 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
-| 43 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
-| 44 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
+| 43 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
+| 44 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 45 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
-| 46 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
-| 47 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 46 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 47 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
 | 48 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 | 49 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 50 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 63 | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY) | [Bluey Thomas](https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Colorado \(feat\. Carlie Hanson\)](https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO) | 3:22 |
 | 64 | [Instinct](https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F) | [Josh Cashman](https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m) | [Instinct](https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW) | 4:44 |
 | 65 | [One](https://open.spotify.com/track/6y6EFX5MsSaRYrQpOOOVTW) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0YAlCsMw5XUBLugLwlg654) | 3:59 |
-| 66 | [Lost in a Love Song](https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Down and Out in the Garden of Earthly Delights](https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY) | 2:21 |
-| 67 | [Feels Like Lightning](https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Gathering](https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi) | 3:02 |
+| 66 | [Feels Like Lightning](https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Gathering](https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi) | 3:02 |
+| 67 | [Lost in a Love Song](https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Down and Out in the Garden of Earthly Delights](https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY) | 2:21 |
 | 68 | [Moment in Time](https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 2:47 |
 | 69 | [Maybe I Should Go \(feat\. Jay Nash, Tony Lucca & Matt Duke\)](https://open.spotify.com/track/59sMueQV9xmGFYbhsm9tS3) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif), [Jay Nash](https://open.spotify.com/artist/0c4o7xzZw62JwRpACfEV6P), [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC), [Matt Duke](https://open.spotify.com/artist/1mGfXwS6yIvwZOPLQ8sdEL) | [Beggars & Ballers \(feat\. Jay Nash, Tony Lucca & Matt Duke\)](https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34) | 3:17 |
 | 70 | [Low \(Acoustic\)](https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0) | 3:26 |

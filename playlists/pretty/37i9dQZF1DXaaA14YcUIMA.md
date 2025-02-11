@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,997 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,209 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 73 | [Juguete Caro \- Remastered](https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT) | [Organización Genesis](https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H) | [Todo..\. Vol\. 1 \(Remastered\)](https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz) | 3:02 |
 | 74 | [Limosnero De Cariño](https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs) | 3:12 |
 | 75 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
-| 76 | [Dos Enamorados](https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [20 Aniversario](https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi) | 3:41 |
-| 77 | [El primer tonto](https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:03 |
+| 76 | [El primer tonto](https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:03 |
+| 77 | [Dos Enamorados](https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [20 Aniversario](https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi) | 3:41 |
 | 78 | [Es Que Te Amo](https://open.spotify.com/track/201DoWLysj5vR8va945CCW) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:04 |
 | 79 | [Muñeca de Ojos de Miel](https://open.spotify.com/track/7DhWwtEQDFvl6Fw3v3YcKN) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Desde El Corazon](https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5) | 3:19 |
 | 80 | [Paraiso Terrenal](https://open.spotify.com/track/1j24uoQ72zDdXKnYdY1QSo) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [La Más Completa Colección \(Disc 1 \- Mexico\)](https://open.spotify.com/album/4pM16t7igU0K9eE4AHMuHG) | 3:36 |

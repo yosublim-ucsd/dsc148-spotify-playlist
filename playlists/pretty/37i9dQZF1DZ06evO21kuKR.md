@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,809 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,825 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 13 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 |
 | 14 | [All Dere \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:56 |
 | 15 | [Quickie](https://open.spotify.com/track/2kQJCELd0jWCTOgCDAauvj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 3:07 |
-| 16 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 |
+| 16 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
 | 17 | [Certified Dripper 2 \(with MoneyBagg Yo\)](https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:04 |
 | 18 | [Love It Here](https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:29 |
 | 19 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 |
-| 20 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
+| 20 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 |
 | 21 | [PTPOM 2.0](https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb) | [Mohead Mike](https://open.spotify.com/artist/79Sxz4bJeibdabevi9PAVi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [PTPOM 2.0](https://open.spotify.com/album/6Cb1ZozVRmOw4HlD4UY92u) | 2:42 |
 | 22 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
 | 23 | [Scorpio](https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [SPEAK](https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:19 |
 | 51 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
 
-Snapshot ID: `Z6aegAAAAABya1o2Xz75H6kgPf1Eh35n`
+Snapshot ID: `Z6fwAAAAAAA2XJLvV+CDimiK7Eui6Y9t`

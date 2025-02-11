@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-188 songs - 10 hr 1 min
+190 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 | 2022-11-22 |  |
 | [Ancient Rainforest](https://open.spotify.com/track/6MjrUU71pjTyp1khZr0ZVh) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Ancient Rainforest](https://open.spotify.com/album/00rkvNXq3KIytVhbEVWIpY) | 2:00 | 2022-09-15 | 2022-12-03 |
 | [Angelic Waves](https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Angelic Waves](https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY) | 4:17 | 2022-10-07 | 2024-06-04 |
-| [Arboreal Honor](https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY) | [Andrea Forejtek](https://open.spotify.com/artist/7yITKvbdNPCTDbF5Uzd9NW) | [Arboreal Honor](https://open.spotify.com/album/5hW2eMTTdFCkXJWGC7VLjr) | 3:20 | 2024-05-01 |  |
+| [Arboreal Honor](https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY) | [Andrea Forejtek](https://open.spotify.com/artist/7yITKvbdNPCTDbF5Uzd9NW) | [Arboreal Honor](https://open.spotify.com/album/5hW2eMTTdFCkXJWGC7VLjr) | 3:20 | 2024-05-01 | 2025-02-11 |
 | [Arcane](https://open.spotify.com/track/1Xigm4SFXMQWr2cbnvL3Px) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [Arcane](https://open.spotify.com/album/07tBVsAAVA7Z7yLMabbAXl) | 2:43 | 2024-11-18 |  |
 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 | 2024-03-06 |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2022-09-15 | 2024-08-24 |
@@ -70,6 +70,7 @@
 | [Forest Feeling](https://open.spotify.com/track/41jO0LxXpcFW53o17WbzO9) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Forest Feeling](https://open.spotify.com/album/0lxsBxNPACAbLVRJORjgWz) | 3:00 | 2024-09-06 |  |
 | [Forest Healing](https://open.spotify.com/track/0wjq5TtW5Jhu51pOUhrtws) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Forest Healing](https://open.spotify.com/album/50AvolQYUeaklEvFcWfJAS) | 3:19 | 2024-06-03 |  |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-09-15 | 2024-06-04 |
+| [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2024-11-28 |  |
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |
 | [Forest Retreat](https://open.spotify.com/track/2nwXJsVdoGX0HLhWhs1TPH) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Forest Retreat](https://open.spotify.com/album/6bAVs5tz1Egkv8hD5RV3zT) | 2:50 | 2023-11-24 | 2024-08-24 |
@@ -83,7 +84,7 @@
 | [Grounded](https://open.spotify.com/track/7nfHmWeBJ3ATMUmjA1ZrIS) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Grounded](https://open.spotify.com/album/4hWKZH2YvQZgixKHJ6TOUI) | 2:21 | 2024-09-06 |  |
 | [Healing Countryside](https://open.spotify.com/track/5BbLgkV7B13HtQe4NQkQRl) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Healing Countryside](https://open.spotify.com/album/1cG1utR9gvZ4j6fSJzOhC2) | 3:02 | 2024-05-01 |  |
 | [Hidden Glade](https://open.spotify.com/track/2reVKly5i3r3bz9TDXRhcV) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Hidden Glade](https://open.spotify.com/album/5pTdbtol1R5cKmikqPnnxB) | 2:46 | 2024-08-23 |  |
-| [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2022-09-15 |  |
+| [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2022-09-15 | 2025-02-11 |
 | [Hum of Nature](https://open.spotify.com/track/6xZZPNVplKrbBbummb1VrS) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Hum of Nature](https://open.spotify.com/album/3oHGle3A4HHKCOtR7FcMgG) | 2:57 | 2025-01-31 |  |
 | [In Early Autumn](https://open.spotify.com/track/5JqHpCJecMueZXSzgCPzQp) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [In Early Autumn](https://open.spotify.com/album/1vvGTNlVzcxZ51VPjr8pIz) | 3:06 | 2022-11-11 | 2024-07-19 |
 | [In Rhythm](https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [In Terra](https://open.spotify.com/album/45CJ4LhQDf4eHyfyrFvo29) | 2:45 | 2022-09-15 | 2023-08-25 |
@@ -140,6 +141,7 @@
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 | 2024-05-02 |
 | [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
 | [Rainbow's End](https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Rainbow's End](https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD) | 3:10 | 2024-06-03 |  |
+| [Rainforest Bliss](https://open.spotify.com/track/3gNmRr9fH0FxDThHCqGLmN) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Rainforest Bliss](https://open.spotify.com/album/0uqojhyuqsK5SDtgXGCInO) | 2:28 | 2025-02-10 |  |
 | [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-13 | 2024-08-24 |
 | [Reverie in the Trees \(Sound Bath\)](https://open.spotify.com/track/5RWb9UQffYkIRJplHoZnQ5) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Reverie in the Trees \(Sound Bath\)](https://open.spotify.com/album/6DEyaXzlZ8i2RhisVMLSdo) | 2:53 | 2023-12-01 | 2025-01-16 |
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-01-15 |  |

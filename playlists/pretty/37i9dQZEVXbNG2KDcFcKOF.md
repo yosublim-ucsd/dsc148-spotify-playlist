@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561,916 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562,435 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 45 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
 | 46 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 |
 | 47 | [Reflections Laughing \(feat\. Travis Scott, Florence + The Machine\)](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
-| 48 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
+| 48 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 49 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 50 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
 
-Snapshot ID: `LzwXyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lz1pSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

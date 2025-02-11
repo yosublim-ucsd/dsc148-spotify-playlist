@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd5c\uc2e0 \ud31d \uc74c\uc545\ub4e4\uc744 \ucd94\ucc9c\ud574 \ub4dc\ub9bd\ub2c8\ub2e4.",
-  "num_followers": 49969,
+  "num_followers": 50055,
   "original_name": "Pop \ud130\uc9c0\ub294 \ud31d\ucf58 \ud55c \uc785",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-08-14 01:09:28",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2024-08-14 01:09:28",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "added_at": "2024-08-14 01:09:28",
@@ -259,22 +259,18 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
     },
     {
       "added_at": "2024-08-14 01:09:28",
@@ -295,18 +291,22 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2024-08-14 01:09:28",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-08-14 01:09:28",
-      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2024-08-14 01:09:28",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-08-14 01:09:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2024-08-14 01:09:28",
-      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2024-08-14 01:09:28",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2024-08-14 01:09:28",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2024-08-14 01:09:28",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2024-08-14 01:09:28",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "added_at": "2024-08-14 01:09:28",

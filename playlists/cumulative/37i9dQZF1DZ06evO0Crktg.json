@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
+    },
+    {
+      "album": {
         "name": "Addiction Kills",
         "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 136253,
       "name": "Over You",
       "url": "https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 
 > Clásicos del rock en inglés y en español\. Foto: Radiohead
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,870 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,896 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 | 14 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 | 15 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 16 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
-| 17 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
-| 18 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
+| 17 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
+| 18 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 19 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 | 20 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 21 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 | 27 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
 | 28 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 29 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
-| 30 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
+| 30 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 | 31 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
-| 32 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
+| 32 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 33 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 34 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 35 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 | 72 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 |
 | 73 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 74 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
-| 75 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
-| 76 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
-| 77 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
+| 75 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
+| 76 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
+| 77 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 78 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 79 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 80 | [The Unforgiven](https://open.spotify.com/track/4aYLAF6ckQ5ooGGGM7sWAa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:26 |

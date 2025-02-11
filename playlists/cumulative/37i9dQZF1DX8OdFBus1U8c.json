@@ -2351,6 +2351,28 @@
     },
     {
       "album": {
+        "name": "Malayali",
+        "url": "https://open.spotify.com/album/6OgRrPH79D7VKuz7ML3S5X"
+      },
+      "artists": [
+        {
+          "name": "DJSHA",
+          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
+        },
+        {
+          "name": "MBL_",
+          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162147,
+      "name": "Malayali",
+      "url": "https://open.spotify.com/track/5xSrhrOexy757MV3h0J4YO"
+    },
+    {
+      "album": {
         "name": "Malayali Da",
         "url": "https://open.spotify.com/album/7lvX9NhbhLIvIX7HRdBzDt"
       },

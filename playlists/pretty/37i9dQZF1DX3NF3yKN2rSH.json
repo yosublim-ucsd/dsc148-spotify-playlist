@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54756,
+  "num_followers": 54769,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "I Shall Know Him",
+        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Cleophus Robinson",
+          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "I Shall Know Him",
-        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Cleophus Robinson",
-          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 229753,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2024-07-02 01:22:00",

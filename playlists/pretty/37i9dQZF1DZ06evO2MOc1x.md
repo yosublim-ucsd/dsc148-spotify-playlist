@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,114 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,119 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 32 | [Nothing in Rambling \(ft\. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood\)](https://open.spotify.com/track/56jJMIHBDFXxYGOgZImEFC) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Struck Down](https://open.spotify.com/album/11aQjI3ljmhxZgN8TpY2PQ) | 3:55 |
 | 33 | [Runaway \- 2008 Remaster](https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:55 |
 | 34 | [Papa Come Quick \(Jody And Chico\)](https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 2:43 |
-| 35 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 |
-| 36 | [Need You Tonight](https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:19 |
+| 35 | [Need You Tonight](https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:19 |
+| 36 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 |
 | 37 | [I Will Not Be Broken](https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:38 |
 | 38 | [Nobody's Girl](https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:14 |
 | 39 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
 | 40 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 |
 | 41 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 |
-| 42 | [Baby Mine](https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [Stay Awake \(Various Interpretations Of Music From Vintage Disney Films\)](https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0) | 3:14 |
-| 43 | [Silver Lining \- Radio Edit](https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Best Of Bonnie Raitt On Capitol 1989\-2003](https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4) | 3:37 |
+| 42 | [Silver Lining \- Radio Edit](https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Best Of Bonnie Raitt On Capitol 1989\-2003](https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4) | 3:37 |
+| 43 | [Baby Mine](https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [Stay Awake \(Various Interpretations Of Music From Vintage Disney Films\)](https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0) | 3:14 |
 | 44 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
 | 45 | [Real Man](https://open.spotify.com/track/7Fu24Eo9nj8dNIlsA2bWDI) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:27 |
 | 46 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 50 | [Can't Find My Way Home \- Live](https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Songs from the Rainbow Room 1972 \(Live\)](https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c) | 3:07 |
 | 51 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 
-Snapshot ID: `Z6aegAAAAACkjq1qBE3wDWmnse9GsE0f`
+Snapshot ID: `Z6fwAAAAAAAeQmO2IQr2lfuGILzUSjAR`

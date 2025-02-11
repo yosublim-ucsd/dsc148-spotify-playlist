@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929,819 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929,911 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 51 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
 | 52 | [Hold Me](https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hold Me](https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS) | 2:52 |
 | 53 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
-| 54 | [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 |
-| 55 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 54 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 55 | [Brother To You](https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:34 |
 | 56 | [Five More Minutes](https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:43 |
 | 57 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
 | 58 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 62 | [Where Love Goes](https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX) | [Kai Mata](https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny) | [Where Love Goes](https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c) | 4:13 |
 | 63 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
 | 64 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
-| 65 | [Boris](https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Boris](https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1) | 4:06 |
+| 65 | [New Girl](https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 3:27 |
 | 66 | [Give Me The Reason](https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason \(Stripped Acoustic\)](https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn) | 3:54 |
-| 67 | [In The Water](https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [In The Water](https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb) | 3:01 |
-| 68 | [New Girl](https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 3:27 |
+| 67 | [Boris](https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Boris](https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1) | 4:06 |
+| 68 | [In The Water](https://open.spotify.com/track/1gq13nAWtFTKpxPSBvm1Wi) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [In The Water](https://open.spotify.com/album/17LJ7wEjb59hRhH822AzIb) | 3:01 |
 | 69 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
-| 70 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 |
-| 71 | [Wild Spirit](https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wild Spirit](https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf) | 2:59 |
-| 72 | [Man of the Year](https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Man of the Year](https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq) | 2:42 |
+| 70 | [Wild Spirit](https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wild Spirit](https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf) | 2:59 |
+| 71 | [Man of the Year](https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Man of the Year](https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq) | 2:42 |
+| 72 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 |
 | 73 | [Happiness](https://open.spotify.com/track/1umsEZHhI6z8EjgDJClZne) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Happiness](https://open.spotify.com/album/6mlDT2RKrcKS9diif79eHI) | 3:08 |
 | 74 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
 | 75 | [Half Your Love \(with The Secret Sisters\)](https://open.spotify.com/track/0g4u514UEj6kGOAanCaD2d) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Half Your Love](https://open.spotify.com/album/6k8jU0hWDAPJTSZybkUTC4) | 2:23 |
-| 76 | [Love Love Love](https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S) | [Avalanche City](https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A) | [Love Love Love](https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ) | 3:12 |
-| 77 | [High & Unsteady](https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [High & Unsteady](https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57) | 3:43 |
-| 78 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
-| 79 | [hello my son](https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [hello my son](https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9) | 3:24 |
+| 76 | [High & Unsteady](https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [High & Unsteady](https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57) | 3:43 |
+| 77 | [Love Love Love](https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S) | [Avalanche City](https://open.spotify.com/artist/1PX8bguYn6ba8NaBOJuu8A) | [Love Love Love](https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ) | 3:12 |
+| 78 | [hello my son](https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [hello my son](https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9) | 3:24 |
+| 79 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
 | 80 | [Morse Code](https://open.spotify.com/track/4Nmt48bjfu4mSQXfo0v3xM) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Hinterland](https://open.spotify.com/album/2qfLY3wlteM0YmxHJjncVb) | 3:09 |
 | 81 | [Too Late Babe](https://open.spotify.com/track/0CKT4fraX6cV2T0HeGGIJm) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Too Late Babe](https://open.spotify.com/album/06yhTY9ImZzxXoJdcxokg5) | 4:49 |
 | 82 | [Summer Bird](https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Headlights / Summer Bird](https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ) | 3:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 96 | [I Should've Danced More](https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Nobody Owns You](https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd) | 3:56 |
 | 97 | [Sometimes \(with Ben Abraham\)](https://open.spotify.com/track/7cWgxFcVh7ppU0CgCfZ9qE) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE), [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Sometimes \(with Ben Abraham\)](https://open.spotify.com/album/3Vz6utsS6MCzevTtvOiPQx) | 2:55 |
 | 98 | [pop the placebo](https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [pop the placebo](https://open.spotify.com/album/1FMdg3rDTUp8Dutv7djgM3) | 4:10 |
-| 99 | [Underground](https://open.spotify.com/track/0imvDJe1YTOJ0rslCEqxME) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/1XogUM1lbgNl7yivlrcD2L) | 3:56 |
-| 100 | [Weird Environment](https://open.spotify.com/track/5VoyKmmCf5Xf58I3G2gv3g) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Weird Environment](https://open.spotify.com/album/28Kc1QH4wNwqnyjzCjVRYl) | 3:55 |
+| 99 | [Weird Environment](https://open.spotify.com/track/5VoyKmmCf5Xf58I3G2gv3g) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Weird Environment](https://open.spotify.com/album/28Kc1QH4wNwqnyjzCjVRYl) | 3:55 |
+| 100 | [Underground](https://open.spotify.com/track/0imvDJe1YTOJ0rslCEqxME) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/1XogUM1lbgNl7yivlrcD2L) | 3:56 |
 
 Snapshot ID: `Z5OtLwAAAAA6u48BFqBYntfu50BeBHQ/`

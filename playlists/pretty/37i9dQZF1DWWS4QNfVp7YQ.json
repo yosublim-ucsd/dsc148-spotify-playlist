@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 86158,
+  "num_followers": 86195,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -727,18 +727,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Obscure Tribal",
-        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
+        "name": "La Ni\u00f1a (Remixes)",
+        "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
       "artists": [
         {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+          "name": "Meketrefe",
+          "url": "https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874"
+        },
+        {
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj"
         }
       ],
-      "duration_ms": 168829,
-      "name": "Tambor Azteca",
-      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+      "duration_ms": 264005,
+      "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
+      "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -763,22 +767,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "La Ni\u00f1a (Remixes)",
-        "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
+        "name": "Obscure Tribal",
+        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
       },
       "artists": [
         {
-          "name": "Meketrefe",
-          "url": "https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874"
-        },
-        {
-          "name": "Priscila",
-          "url": "https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj"
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
         }
       ],
-      "duration_ms": 264005,
-      "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
-      "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
+      "duration_ms": 168829,
+      "name": "Tambor Azteca",
+      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -815,42 +815,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Teneloa Kuikayotl",
-        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
-      },
-      "artists": [
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        },
-        {
-          "name": "Klpuyi",
-          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
-        }
-      ],
-      "duration_ms": 174423,
-      "name": "Teneloa Kuikayotl",
-      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Tribal Evolution",
         "url": "https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b"
       },
@@ -863,6 +827,22 @@
       "duration_ms": 158240,
       "name": "World 2014 - Original Mix",
       "url": "https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 212097,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -899,6 +879,30 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Nalga Bass",
+        "url": "https://open.spotify.com/album/2Gn3gyqQqTUfsMITUljv6e"
+      },
+      "artists": [
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        },
+        {
+          "name": "Erick Rinc\u00f3n",
+          "url": "https://open.spotify.com/artist/2JqCXO2jqKZvw1SeX393LY"
+        },
+        {
+          "name": "Miss Sound",
+          "url": "https://open.spotify.com/artist/4xhusodSTta5v3WZRt4RuS"
+        }
+      ],
+      "duration_ms": 194063,
+      "name": "Pr\u00e9ndelo",
+      "url": "https://open.spotify.com/track/54ztKHl4Hv6jSmTeaqJdEU"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -919,22 +923,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "El \u00daltimo",
-        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
+        "name": "Teneloa Kuikayotl",
+        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
       },
       "artists": [
         {
-          "name": "El Catorce",
-          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
-        },
-        {
           "name": "Syztema",
           "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        },
+        {
+          "name": "Klpuyi",
+          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
         }
       ],
-      "duration_ms": 300522,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
+      "duration_ms": 174423,
+      "name": "Teneloa Kuikayotl",
+      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
     }
   ],
   "unique_name": "Fiesta Tribal",

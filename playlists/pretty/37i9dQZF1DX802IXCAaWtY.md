@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,799 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,179 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 2 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
 | 3 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
-| 4 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
-| 5 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
+| 4 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
+| 5 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
 | 6 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
 | 7 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 |
 | 8 | [Pump Up The Jam](https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Pump Up The Jam](https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4) | 5:20 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 29 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
 | 30 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:37 |
 | 31 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
-| 32 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
+| 32 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
 | 33 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
-| 34 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
+| 34 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
 | 35 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 36 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
 | 37 | [Never Alone](https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 5:51 |

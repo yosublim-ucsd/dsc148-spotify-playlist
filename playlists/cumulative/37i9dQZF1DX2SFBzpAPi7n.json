@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "as i am",
+        "url": "https://open.spotify.com/album/58ow6rHsDW2tyYxkdU8A83"
+      },
+      "artists": [
+        {
+          "name": "Swideh",
+          "url": "https://open.spotify.com/artist/6UF8XLjh5BvuCVJsBkD9vv"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "as i am",
+      "url": "https://open.spotify.com/track/3XrKWschEZssuno9OfKAz9"
+    },
+    {
+      "album": {
         "name": "Ask Me",
         "url": "https://open.spotify.com/album/14DqNNH26yfE0nFUUJrW1Y"
       },
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 213000,
       "name": "Circle",
       "url": "https://open.spotify.com/track/3VLeNf2S2bHwxFMgvYJCLW"
@@ -4335,6 +4353,28 @@
     },
     {
       "album": {
+        "name": "FULL MOON (with NAM WOO HYUN)",
+        "url": "https://open.spotify.com/album/60cdyydHGHG8cj8HTfU4xX"
+      },
+      "artists": [
+        {
+          "name": "Kwon Soonkwan",
+          "url": "https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7"
+        },
+        {
+          "name": "Nam Woo-hyun",
+          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "FULL MOON (with NAM WOO HYUN)",
+      "url": "https://open.spotify.com/track/26gNGFadZKRyaYCbsORUE5"
+    },
+    {
+      "album": {
         "name": "kin",
         "url": "https://open.spotify.com/album/6wFw220zFDwivl2i8sONE5"
       },
@@ -4686,6 +4726,28 @@
       "duration_ms": 195600,
       "name": "Good for you",
       "url": "https://open.spotify.com/track/3AkesXd1KP7jPnoaY5Zkk6"
+    },
+    {
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/3xX3GaWNCoQ6HihmaWCxFg"
+      },
+      "artists": [
+        {
+          "name": "Millionboy",
+          "url": "https://open.spotify.com/artist/0Wuo8gMMrvWCgOgIG6zToT"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "good memories (Feat. ADORA)",
+      "url": "https://open.spotify.com/track/213w7ByCEFekKf7zHN3wM4"
     },
     {
       "album": {
@@ -7329,6 +7391,24 @@
     },
     {
       "album": {
+        "name": "LIE YOUR HEAD",
+        "url": "https://open.spotify.com/album/3BmPFpG5ishCz7rlCeN8uk"
+      },
+      "artists": [
+        {
+          "name": "Wid",
+          "url": "https://open.spotify.com/artist/64j1Cyv3QG0bLd3l4WA6QU"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223693,
+      "name": "Lie your head",
+      "url": "https://open.spotify.com/track/1YQCsiZEo9b5PoDdHaM0eR"
+    },
+    {
+      "album": {
         "name": "CEREMONIA (Complete Edition)",
         "url": "https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE"
       },
@@ -8005,6 +8085,24 @@
     },
     {
       "album": {
+        "name": "KickKickKickKick (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/3gMXpnk3yImBnut57xTF92"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266040,
+      "name": "Magic Lily",
+      "url": "https://open.spotify.com/track/2idifx4BoD1a2O3Tksl2h1"
+    },
+    {
+      "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
       },
@@ -8128,7 +8226,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 165587,
       "name": "Melt Down",
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
@@ -8802,7 +8900,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 320000,
       "name": "Night, night",
       "url": "https://open.spotify.com/track/2mWKLDnwAgvBooII1wUS7k"
@@ -11324,6 +11422,24 @@
       "duration_ms": 161133,
       "name": "Secret Diary",
       "url": "https://open.spotify.com/track/495QLv4XTKlMgcfKXmyuwZ"
+    },
+    {
+      "album": {
+        "name": "Motel California OST Part.9",
+        "url": "https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Seems Like I Like You",
+      "url": "https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC"
     },
     {
       "album": {
@@ -13896,7 +14012,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 215240,
       "name": "Voice",
       "url": "https://open.spotify.com/track/6EI51Hq3Q4BYELSDUhdTwA"
@@ -14224,7 +14340,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 295429,
       "name": "we never turn cold",
       "url": "https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T"
@@ -14390,7 +14506,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 256764,
       "name": "When seasons go by",
       "url": "https://open.spotify.com/track/529TocrwavR2122OfhPdHL"

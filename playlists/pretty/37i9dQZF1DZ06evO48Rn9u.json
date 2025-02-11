@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 146070,
+  "num_followers": 146099,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACApV8GvQjlXsJ25wYSHCSP",
+  "snapshot_id": "Z6fwAAAAAAA8bh9WZpBz11UESeExt0vk",
   "tracks": [
     {
       "added_at": null,
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 166320,
-      "name": "keep lookin\u2019 up",
-      "url": "https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw"
+      "duration_ms": 139653,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
     },
     {
       "added_at": null,
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 139653,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
+      "duration_ms": 166320,
+      "name": "keep lookin\u2019 up",
+      "url": "https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw"
     }
   ],
   "unique_name": "This Is Kacey Musgraves",

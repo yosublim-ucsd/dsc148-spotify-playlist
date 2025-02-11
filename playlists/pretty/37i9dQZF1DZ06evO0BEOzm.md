@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,940 likes - 53 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,002 likes - 53 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 19 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 3:02 |
 | 20 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |
 | 21 | [Like a Freak](https://open.spotify.com/track/5xTmKnPWXX4FcYgpxjXTrD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:16 |
-| 22 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
-| 23 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
+| 22 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
+| 23 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
 | 24 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 25 | [Kitty Kat](https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:05 |
 | 26 | [BOA](https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:34 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
 | 53 | [I DID IT \(feat\. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby\)](https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:45 |
 
-Snapshot ID: `Z6aegAAAAABAkPO8IhCHgathVMXMSxet`
+Snapshot ID: `Z6fwAAAAAAC954vp15F741vRHNOclM10`

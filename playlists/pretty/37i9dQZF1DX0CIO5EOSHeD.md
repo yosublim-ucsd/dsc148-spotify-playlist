@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,911 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,929 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 80 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
 | 81 | [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 |
 | 82 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 |
-| 83 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
-| 84 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
+| 83 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
+| 84 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 | 85 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
-| 86 | [we never made it to glasgow](https://open.spotify.com/track/4LOm8NL8DYw7v7ZbO8b9ST) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [you look lovely when you're living](https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW) | 2:49 |
-| 87 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |
-| 88 | [Fuzzy](https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fuzzy](https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW) | 2:56 |
-| 89 | [Dreams of Losing Teeth](https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dreams of Losing Teeth](https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w) | 3:22 |
+| 86 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |
+| 87 | [we never made it to glasgow](https://open.spotify.com/track/4LOm8NL8DYw7v7ZbO8b9ST) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [you look lovely when you're living](https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW) | 2:49 |
+| 88 | [Dreams of Losing Teeth](https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dreams of Losing Teeth](https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w) | 3:22 |
+| 89 | [Fuzzy](https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fuzzy](https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW) | 2:56 |
 | 90 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
 | 91 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
 | 92 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 93 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
-| 94 | [Surprise](https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN) | 1:33 |
-| 95 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
-| 96 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
+| 94 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
+| 95 | [Surprise](https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN) | 1:33 |
+| 96 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 97 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
 | 98 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 |
 | 99 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
-| 100 | [Start Somewhere](https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:11 |
+| 100 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 |
 
 Snapshot ID: `Zp+fsQAAAACWApsxLmH8qXlOQvJK3O7H`

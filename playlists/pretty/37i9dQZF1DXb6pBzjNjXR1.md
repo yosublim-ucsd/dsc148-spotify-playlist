@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,046 likes - 53 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,058 likes - 53 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Azevedo",
-  "num_followers": 132656,
+  "num_followers": 132645,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,26 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+        "name": "\u00c1cido na Boca",
+        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
       },
       "artists": [
         {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
         },
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
+      "duration_ms": 170624,
+      "name": "\u00c1cido na Boca",
+      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -683,6 +683,30 @@
       "duration_ms": 160000,
       "name": "RANDANDAN",
       "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -715,30 +739,6 @@
       "duration_ms": 201290,
       "name": "4K",
       "url": "https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
-        "name": "\u00c1cido na Boca",
-        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "\u00c1cido na Boca",
-      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 151797,
+      "name": "Macetinho Lento - B\u00f4nus",
+      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 192379,
       "name": "Pr\u00f3ximo Milion\u00e1rio",
       "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 151797,
-      "name": "Macetinho Lento - B\u00f4nus",
-      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
     },
     {
       "added_at": "2025-02-07 03:01:19",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2025-02-07 03:01:19",
       "album": {
-        "name": "Dialeto Delinquente",
-        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 142784,
-      "name": "Santo de Casa",
-      "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
-    },
-    {
-      "added_at": "2025-02-07 03:01:19",
-      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/2Om5zqxW0dA9BbMzHwY8wf"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 152000,
       "name": "Pause",
       "url": "https://open.spotify.com/track/6RyKsYR1gpWm9A9PTvtcqd"
+    },
+    {
+      "added_at": "2025-02-07 03:01:19",
+      "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 142784,
+      "name": "Santo de Casa",
+      "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
     },
     {
       "added_at": "2025-02-07 03:01:19",

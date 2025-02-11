@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 686727,
+  "num_followers": 686893,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "GGUM",
-        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 151689,
-      "name": "GGUM",
-      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "GGUM",
+        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "duration_ms": 151689,
+      "name": "GGUM",
+      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "GOLDEN HOUR : Part.1",
-        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 172381,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b"
+        "name": "GOLDEN HOUR : Part.1",
+        "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN"
+      "duration_ms": 172381,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160044,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160044,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2024-10-21 05:35:09",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-21 05:35:09",
       "album": {
-        "name": "TAP - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "TAP",
-      "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
-    },
-    {
-      "added_at": "2024-10-21 05:35:09",
-      "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2024-10-21 05:35:09",
+      "album": {
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "TAP",
+      "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
     },
     {
       "added_at": "2024-10-21 05:35:09",

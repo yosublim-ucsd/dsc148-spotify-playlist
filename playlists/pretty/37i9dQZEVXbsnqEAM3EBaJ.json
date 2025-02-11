@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD+/w2os8DHdT409cSGh1Q7",
+  "snapshot_id": "AAAAAAAAAADeMX+qI/9oPYADP2AKBW3I",
   "tracks": [
     {
       "added_at": "2025-02-07 03:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Punk Rock Valentines",
+        "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sea Of Love - Party Outtake 1981",
+      "url": "https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
@@ -95,38 +111,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Punk Rock Valentines",
-        "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sea Of Love - Party Outtake 1981",
-      "url": "https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 212163,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 313167,
       "name": "Who Believes In Angels?",
       "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 212163,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Cross The Divide",
-        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 258209,
-      "name": "Cross the Divide",
-      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "The Prodigal Ones",
-        "url": "https://open.spotify.com/album/3fTCl3lz6B08gV5WO8a2sI"
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
       },
       "artists": [
         {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 224093,
-      "name": "The Prodigal Ones",
-      "url": "https://open.spotify.com/track/4Wu5bEby9DaBGBypEfQN8g"
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -311,18 +295,18 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Symphonies of Doom & Battalions of Fear (Lucifer's Heritage)",
-        "url": "https://open.spotify.com/album/7ebZBSWQcEejQglRnb74IU"
+        "name": "The Prodigal Ones",
+        "url": "https://open.spotify.com/album/3fTCl3lz6B08gV5WO8a2sI"
       },
       "artists": [
         {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 284708,
-      "name": "Lucifer's Heritage",
-      "url": "https://open.spotify.com/track/6dW828m12lLN06VSO0Omy8"
+      "duration_ms": 224093,
+      "name": "The Prodigal Ones",
+      "url": "https://open.spotify.com/track/4Wu5bEby9DaBGBypEfQN8g"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -343,6 +327,22 @@
       "duration_ms": 281800,
       "name": "Against The Wind",
       "url": "https://open.spotify.com/track/1PNW6bmWU7pKdrWv5bymSY"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Symphonies of Doom & Battalions of Fear (Lucifer's Heritage)",
+        "url": "https://open.spotify.com/album/7ebZBSWQcEejQglRnb74IU"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 284708,
+      "name": "Lucifer's Heritage",
+      "url": "https://open.spotify.com/track/6dW828m12lLN06VSO0Omy8"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Stand By Me",
-        "url": "https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 190749,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Nod",
         "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 190749,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "AntiFragile",
-        "url": "https://open.spotify.com/album/3IFjSlXvV4NUaT8oj4jfS2"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 263622,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/7zt0lB2yZxjkfr2T224gHZ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Astro (Y Que El Mundo Espere) [B-side]",
         "url": "https://open.spotify.com/album/1Fnbk82nypEADTWeEgkWYx"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "AntiFragile",
+        "url": "https://open.spotify.com/album/3IFjSlXvV4NUaT8oj4jfS2"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 263622,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/7zt0lB2yZxjkfr2T224gHZ"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "big change",
         "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
       },
@@ -487,26 +487,6 @@
       "duration_ms": 174560,
       "name": "big change",
       "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 282873,
-      "name": "The Abyss (feat. Lana Del Ray)",
-      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -547,6 +527,26 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 282873,
+      "name": "The Abyss (feat. Lana Del Ray)",
+      "url": "https://open.spotify.com/track/4cYllEeJVH7dWKwQxpbk42"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "The Gift (Extended Mix)",
         "url": "https://open.spotify.com/album/29snRJ4onFOKhKbi4VkNsf"
       },
@@ -583,58 +583,6 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
-        "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
-        "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 152456,
-      "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
-      "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Hot For You Baby",
-        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 283103,
-      "name": "Hot For You Baby",
-      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "Tiquitimporta",
-        "url": "https://open.spotify.com/album/3kXU6xsPKIMQ51aTx1Hvtz"
-      },
-      "artists": [
-        {
-          "name": "Nosecuenta",
-          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
-        }
-      ],
-      "duration_ms": 223948,
-      "name": "Una vez al amanecer",
-      "url": "https://open.spotify.com/track/7IQhT0BKvimBIwiLRLwqoF"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
         "name": "Artificial Gods",
         "url": "https://open.spotify.com/album/2m9BtKQVtxIDvyrqpeyrRx"
       },
@@ -659,6 +607,42 @@
       "duration_ms": 178746,
       "name": "Artificial Gods",
       "url": "https://open.spotify.com/track/24hBbnLgfHxVbIUbtPYR6E"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
+        "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 152456,
+      "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
+      "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Tiquitimporta",
+        "url": "https://open.spotify.com/album/3kXU6xsPKIMQ51aTx1Hvtz"
+      },
+      "artists": [
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
+        }
+      ],
+      "duration_ms": 223948,
+      "name": "Una vez al amanecer",
+      "url": "https://open.spotify.com/track/7IQhT0BKvimBIwiLRLwqoF"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -695,6 +679,22 @@
     {
       "added_at": "2025-02-07 03:00:00",
       "album": {
+        "name": "Hot For You Baby",
+        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 283103,
+      "name": "Hot For You Baby",
+      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
         "name": "Brain Tissue",
         "url": "https://open.spotify.com/album/4UNI3TGMueOJisBKwhj4Zd"
       },
@@ -707,6 +707,34 @@
       "duration_ms": 237886,
       "name": "Brain Tissue",
       "url": "https://open.spotify.com/track/3akArKnQKVVXgUB9B8nOUe"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "Fuera de Casa",
+        "url": "https://open.spotify.com/album/03MogqU59znbLPj8ny2Kcp"
+      },
+      "artists": [
+        {
+          "name": "Niel Brown",
+          "url": "https://open.spotify.com/artist/6RugsUanaXiMwuBjzSEXM2"
+        },
+        {
+          "name": "MC Billeta",
+          "url": "https://open.spotify.com/artist/58KYre2g7s5J5U9ECk08An"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "JAMBRO",
+          "url": "https://open.spotify.com/artist/7u1VTRpxocp3EPB7dpSgM4"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "No Me Hagan Reir",
+      "url": "https://open.spotify.com/track/1J6DYoPyMg7h5sgQX77NrQ"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -735,6 +763,26 @@
       "duration_ms": 210099,
       "name": "Vuelvas",
       "url": "https://open.spotify.com/track/526bt099ofAqChPe72dG5Q"
+    },
+    {
+      "added_at": "2025-02-07 03:00:00",
+      "album": {
+        "name": "It's My Ego (3mix)",
+        "url": "https://open.spotify.com/album/4ShJe9chOSEQWZEkc1MxeX"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "duration_ms": 165631,
+      "name": "It's My Ego - 3mix",
+      "url": "https://open.spotify.com/track/4fx2mGAwYCaxkZQjUTOxXj"
     },
     {
       "added_at": "2025-02-07 03:00:00",
@@ -799,26 +847,6 @@
       "duration_ms": 205183,
       "name": "If You Don't Know Me by Now",
       "url": "https://open.spotify.com/track/3F7uCOvNMjhkRlq1O4AjQQ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:00",
-      "album": {
-        "name": "It's My Ego (3mix)",
-        "url": "https://open.spotify.com/album/4ShJe9chOSEQWZEkc1MxeX"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
-        }
-      ],
-      "duration_ms": 165631,
-      "name": "It's My Ego - 3mix",
-      "url": "https://open.spotify.com/track/4fx2mGAwYCaxkZQjUTOxXj"
     },
     {
       "added_at": "2025-02-07 03:00:00",

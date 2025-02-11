@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 
 > Just good energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,130 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,265 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 61 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
 | 62 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 63 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
-| 64 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 |
-| 65 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 |
+| 64 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 |
+| 65 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 |
 | 66 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
 | 67 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
 | 68 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TriA5Rm2k8.md) - [plain]
 | 95 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
 | 96 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 97 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
-| 98 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
-| 99 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 |
+| 98 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 |
+| 99 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 100 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 |
 
 Snapshot ID: `Z4UOWgAAAAC2y2i1s6yXrbkG0qOWaIL1`

@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1141073,
+  "num_followers": 1141257,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "As Time Goes By...The Great American Songbook: Volume II",
         "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 179026,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
-        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+        "name": "Fly Me To The Moon...The Great American Songbook Volume V",
+        "url": "https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+      "duration_ms": 230466,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
     },
     {
       "added_at": "2024-06-03 14:41:08",

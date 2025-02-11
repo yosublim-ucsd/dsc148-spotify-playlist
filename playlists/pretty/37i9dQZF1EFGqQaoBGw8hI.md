@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,523 likes - 590 songs - 1 day 17 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,522 likes - 590 songs - 1 day 17 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,8 +280,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 270 | [The Power](https://open.spotify.com/track/4Rwhsr1QuY8gKgNF1Z9x6T) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 6:24 |
 | 271 | [Vero Amore](https://open.spotify.com/track/6L9L1Dnqn97mwVmHOm2iv3) | [Jonathan & Charlotte](https://open.spotify.com/artist/2haot4oxbeveqxow85SbTa) | [Together](https://open.spotify.com/album/1FGOPK6ULN88ECEPrTbiNM) | 3:18 |
 | 272 | [Amazes Me](https://open.spotify.com/track/0fgEhBOKV3hluxYnoEB5bZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:35 |
-| 273 | [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 |
-| 274 | [Stronger Than I Ever Was](https://open.spotify.com/track/2yqifXIF2bc7pIrbB7AfY5) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Sherlock Gnomes \(Music From The Motion Picture\)](https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3) | 3:39 |
+| 273 | [Stronger Than I Ever Was](https://open.spotify.com/track/2yqifXIF2bc7pIrbB7AfY5) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Sherlock Gnomes \(Music From The Motion Picture\)](https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3) | 3:39 |
+| 274 | [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 |
 | 275 | [Grow Some Funk Of Your Own](https://open.spotify.com/track/2N7GESlJ6Wf5ZhgmpbCn4c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:47 |
 | 276 | [Lady Samantha](https://open.spotify.com/track/7xDvlkYaXpq8c8WjG83YQS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:02 |
 | 277 | [All That I'm Allowed \(I'm Thankful\)](https://open.spotify.com/track/4BGm0moYOGolRz97B93HrH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:52 |
@@ -312,8 +312,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 302 | [Into The Old Man's Shoes](https://open.spotify.com/track/4UhrY4619OAy9Kg76Bdrli) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 4:17 |
 | 303 | [Grimsby \- Remastered 1995](https://open.spotify.com/track/0v7vqcby8CF7tSlh7GAYId) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:46 |
 | 304 | [I've Seen The Saucers \- Remastered 1995](https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:48 |
-| 305 | [It's Me That You Need](https://open.spotify.com/track/6fprMrT0pdkqjmuWQsMqDo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:04 |
-| 306 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
+| 305 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
+| 306 | [It's Me That You Need](https://open.spotify.com/track/6fprMrT0pdkqjmuWQsMqDo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:04 |
 | 307 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 |
 | 308 | [The Captain and The Kid](https://open.spotify.com/track/1dUO9PDSYxb1UERmWYycPi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:01 |
 | 309 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
@@ -419,8 +419,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 409 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 |
 | 410 | [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 |
 | 411 | [Keep It A Mystery](https://open.spotify.com/track/1AARvQLoXfnQstTo6eHJ8a) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:15 |
-| 412 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
-| 413 | [C'est ta chanson](https://open.spotify.com/track/6hiMle7MaA0Om0oZNfNGi1) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:58 |
+| 412 | [C'est ta chanson](https://open.spotify.com/track/6hiMle7MaA0Om0oZNfNGi1) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [5000 Kilomètres](https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz) | 3:58 |
+| 413 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
 | 414 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 |
 | 415 | [The Fox \- Remastered 2003](https://open.spotify.com/track/6lOCElinpBuk7uwvSEdaGo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:20 |
 | 416 | [Fat Boys And Ugly Girls](https://open.spotify.com/track/14sADwg78MbJw9dDL62iRR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:14 |
@@ -450,8 +450,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 440 | [I Can't Steer My Heart Clear Of You](https://open.spotify.com/track/6m82xAYcFLVjQ4kSpcZI2K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:07 |
 | 441 | [My Heart Dances \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/79TcSmbYhqqZBHskcui5oN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:51 |
 | 442 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
-| 443 | [Paris](https://open.spotify.com/track/1XkI2Cz8LneDIXOwGclVDX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:00 |
-| 444 | [Seasons \- From “Friends” Soundtrack](https://open.spotify.com/track/3YOkHFf9pxsvd649JYKNqh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:56 |
+| 443 | [Seasons \- From “Friends” Soundtrack](https://open.spotify.com/track/3YOkHFf9pxsvd649JYKNqh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:56 |
+| 444 | [Paris](https://open.spotify.com/track/1XkI2Cz8LneDIXOwGclVDX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:00 |
 | 445 | [Give Me The Love](https://open.spotify.com/track/45yhLSiMoYvz8rfSke939Z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:30 |
 | 446 | [Billy Bones And The White Bird](https://open.spotify.com/track/6vhdFKCPjLBcMvfrBEGRu4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:25 |
 | 447 | [Restless](https://open.spotify.com/track/73nYjLyEtNZHRyDtIFFQIC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 5:16 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 589 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 | 590 | [Driving To Universal](https://open.spotify.com/track/040KoSuQEPnxcuOoEYJVVI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:17 |
 
-Snapshot ID: `AbpKXgAAAAASzWbU8zqHtwTORVL4xuNC`
+Snapshot ID: `AbpP4QAAAABGX9Sxxx+1g0VEhZBnoDJZ`

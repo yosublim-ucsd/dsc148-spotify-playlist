@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 178950,
       "name": "Hoe Heet Je",
       "url": "https://open.spotify.com/track/0iWZVj23pIypIYVEVwczGi"
@@ -3550,6 +3550,24 @@
       "duration_ms": 188181,
       "name": "Verliefd, Verloofd, Getrouwd",
       "url": "https://open.spotify.com/track/5SuMvsdeGAXZGvwUaqGlRX"
+    },
+    {
+      "album": {
+        "name": "Vette Boeren",
+        "url": "https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE"
+      },
+      "artists": [
+        {
+          "name": "Jorieke Sterken",
+          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Vette Boeren",
+      "url": "https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 533 songs - 1 day 11 hr 53 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 535 songs - 1 day 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -541,5 +541,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 531 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 532 | [Persona](https://open.spotify.com/track/6zl3FkdpbmNwsvCqWkcEze) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 0:32 |
 | 533 | [Do Not Fire! \(demo\)](https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 1:33 |
+| 534 | [endless](https://open.spotify.com/track/0WxgcCdTvtOrAqfSDzBcDB) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:35 |
+| 535 | [Crispy Skin](https://open.spotify.com/track/6gLaRcJnA7FqyEYpYJ4uPI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 6:19 |
 
-Snapshot ID: `AAAG63+s7AuYk+d/CpLCX7di0KSyHOI9`
+Snapshot ID: `AAAG7Y4T1AP3clngF30IDnKNs+dj6zvp`

@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 866791,
+  "num_followers": 867206,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -1695,6 +1695,42 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
+        "name": "Let\u2019s Go (feat. Tom Enzy, Juany Bravo & Sami Brielle) [HUGEL Remix]",
+        "url": "https://open.spotify.com/album/6qCYuLsIIPfjROPwX9QxGc"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "Let\u2019s Go (feat. Tom Enzy, Juany Bravo & Sami Brielle) [HUGEL Remix]",
+      "url": "https://open.spotify.com/track/5jde2vTSXmrIAKaZYmhqSF"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
         "name": "COLLECT THE COMMAS",
         "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
       },
@@ -1795,42 +1831,6 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Let\u2019s Go (feat. Tom Enzy, Juany Bravo & Sami Brielle) [HUGEL Remix]",
-        "url": "https://open.spotify.com/album/6qCYuLsIIPfjROPwX9QxGc"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
-        },
-        {
-          "name": "Sami Brielle",
-          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "Let\u2019s Go (feat. Tom Enzy, Juany Bravo & Sami Brielle) [HUGEL Remix]",
-      "url": "https://open.spotify.com/track/5jde2vTSXmrIAKaZYmhqSF"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Pressure (feat. Tove Lo)",
-        "url": "https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "Pressure (feat. Tove Lo)",
-      "url": "https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN"
-    },
-    {
-      "added_at": "2025-02-07 18:56:05",
-      "album": {
         "name": "This Is My Life (Bontan Remix)",
         "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 202500,
       "name": "This Is My Life - Bontan Remix",
       "url": "https://open.spotify.com/track/6CqPGAoMqPoOGCfxSKuKtC"
+    },
+    {
+      "added_at": "2025-02-07 18:56:05",
+      "album": {
+        "name": "Pressure (feat. Tove Lo)",
+        "url": "https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "Pressure (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN"
     },
     {
       "added_at": "2025-02-07 18:56:05",
@@ -2123,18 +2123,30 @@
     {
       "added_at": "2025-02-07 18:56:05",
       "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
+        "name": "Jolie Fille",
+        "url": "https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Layefa",
+          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
         }
       ],
-      "duration_ms": 272253,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+      "duration_ms": 194442,
+      "name": "Jolie Fille",
+      "url": "https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB"
     }
   ],
   "unique_name": "Tulum Party",

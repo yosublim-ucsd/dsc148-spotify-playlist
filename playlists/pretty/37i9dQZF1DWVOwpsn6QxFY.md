@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,464 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,490 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 25 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 26 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 27 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
-| 28 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
-| 29 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
+| 28 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
+| 29 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
 | 30 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 31 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 32 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 64 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 65 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 |
 | 66 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
-| 67 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
+| 67 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 |
 | 68 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
-| 69 | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/track/0Zd9Nub5lwmzSBoWaVOWrP) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Unconditional I \(Lookout Kid\)](https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG) | 4:33 |
+| 69 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
 | 70 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 |
 | 71 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
-| 72 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
-| 73 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
-| 74 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
-| 75 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
+| 72 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
+| 73 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
+| 74 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
+| 75 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
 | 76 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
 | 77 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 78 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |

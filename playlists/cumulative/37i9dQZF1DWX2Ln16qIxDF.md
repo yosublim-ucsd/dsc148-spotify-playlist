@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo que más suena, con ustedes..\. Emilia & Gordo.
 
-693 songs - 1 day 11 hr 17 min
+694 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-05-12 | 2023-06-24 |
 | [De Repente](https://open.spotify.com/track/2rdIwRAiQUigchIXOCzshk) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [De Repente](https://open.spotify.com/album/0YnFmayvcgCGZlaXjGsaKq) | 3:34 | 2024-06-28 | 2024-08-24 |
 | [DE REPENTE](https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:59 | 2024-11-15 | 2024-12-14 |
-| [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-05 |  |
+| [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-05 | 2025-02-11 |
 | [Decime cuál fue](https://open.spotify.com/track/0bRDBNVBszuxoxTyEjpa4e) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [ARA](https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff) | [Decime cuál fue](https://open.spotify.com/album/6vWqTZWOH11IP1aE05ZjJ7) | 2:36 | 2024-10-15 | 2024-11-30 |
 | [DEFINITIVA](https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [DEFINITIVA](https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI) | 3:12 | 2023-11-14 | 2024-02-17 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Deja de Llorar \(Remix\)](https://open.spotify.com/album/3ZCFRZG7ZPYRhbMrid7BR5) | 3:17 | 2024-07-19 |  |
@@ -381,6 +381,7 @@
 | [Me Voy](https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Me Voy](https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT) | 2:11 | 2024-11-08 |  |
 | [Me Vuelvo Cada Día Más Loca \- Spotify Singles](https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Spotify Singles](https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W) | 2:40 | 2024-11-07 | 2024-12-14 |
 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 | 2023-10-03 | 2023-10-14 |
+| [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 | 2025-02-10 |  |
 | [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 | 2024-02-23 | 2024-03-23 |
 | [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 | 2023-12-01 | 2024-11-16 |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-05-12 | 2023-06-03 |

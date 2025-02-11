@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
@@ -878,6 +878,24 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "Dillo Solo Al Buio",
+        "url": "https://open.spotify.com/album/5DaUWuCz3CUye1DFBaD25T"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Dillo Solo Al Buio",
+      "url": "https://open.spotify.com/track/2Om8fOpJjFtSn7MGdj3aen"
     },
     {
       "album": {
@@ -2200,6 +2218,44 @@
       "duration_ms": 159200,
       "name": "PEZZI DA 100 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k"
+    },
+    {
+      "album": {
+        "name": "WE THE SQUAD Vol.2",
+        "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "PEZZI DA NOVANTA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza)",
+      "url": "https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu"
     },
     {
       "album": {

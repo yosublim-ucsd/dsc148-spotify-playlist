@@ -4,10 +4,11 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 6 min
+101 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adrenaline](https://open.spotify.com/track/0KCeHr5HbTyj3GQ4mzCXgW) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:12 | 2025-02-11 |  |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2023-06-07 |  |
 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 | 2023-06-07 |  |
 | [Ayy Macarena](https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ayy Macarena](https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh) | 2:11 | 2023-06-07 |  |
@@ -71,7 +72,7 @@
 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 | 2023-07-23 | 2024-07-24 |
 | [Make It Nasty](https://open.spotify.com/track/71Wf5qK9wdtjOfMgujlN6A) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:08 | 2024-11-12 | 2024-12-02 |
 | [Mmphh](https://open.spotify.com/track/6bdz8PY44T1qIVIcU6s6qd) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 2:47 | 2024-11-29 | 2025-01-12 |
-| [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 | 2023-06-07 |  |
+| [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 | 2023-06-07 | 2025-02-11 |
 | [Nasty XXX Remix \(feat\. Tyga\)](https://open.spotify.com/track/5OHxVP5lTk1ZdKEXORPyIA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Nasty XXX Remix \(feat\. Tyga\)](https://open.spotify.com/album/7wYSM5P3myPWOSoTao1a2n) | 2:36 | 2024-07-21 | 2024-08-18 |
 | [No Question](https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [No Question](https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO) | 2:22 | 2024-07-14 | 2024-11-12 |
 | [Ooweee](https://open.spotify.com/track/7lolahAdwNt6QXm2nVkeiG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ooweee](https://open.spotify.com/album/5dO4VmJHVX6pICgk65GV8M) | 3:05 | 2025-01-12 |  |

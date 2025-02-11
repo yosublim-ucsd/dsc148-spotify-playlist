@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 
 > A metal soundtrack for headbangers of all ages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,317 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,354 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 31 | [Let There Be Rock](https://open.spotify.com/track/753KutoAy00apPsplMRetG) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 6:06 |
 | 32 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
 | 33 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 |
-| 34 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
-| 35 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
+| 34 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
+| 35 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
 | 36 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I) | 4:35 |
 | 37 | [Eruption \- 2015 Remaster](https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 1:42 |
 | 38 | [Living After Midnight](https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:30 |

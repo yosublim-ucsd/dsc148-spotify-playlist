@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> BLASE, Jay Park, Coogie, oygli\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> ASH ISLAND\)
 
-1,450 songs - 3 day 6 hr 51 min
+1,452 songs - 3 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/track/3bZewrcZbZYf7h6udWoDsr) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BUM \(feat\. Chillin Homie & Kid Milli\)](https://open.spotify.com/album/7w9mPTFLGn8yGp1CwKNEAO) | 3:06 | 2022-03-26 | 2022-05-06 |
 | [Burn](https://open.spotify.com/track/1XcedEIfAAVwV6RS0iDuOj) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [RAP:PUBLIC Episode.2](https://open.spotify.com/album/2EnJRg31hBB44HTbl7MpA4) | 4:17 | 2024-12-04 |  |
 | [Burn Up \(Feat\. Dynamicduo\) \(Prod\. R.Tee\)](https://open.spotify.com/track/6tQEQqw6LInoszJ1k19v8k) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:18 | 2022-12-19 | 2023-07-18 |
+| [Burning slow](https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP) | [Burning slow](https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5) | 2:48 | 2025-02-10 |  |
 | [bury\. \(Feat\. SOLE\)](https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [bury.](https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq) | 3:16 | 2023-11-21 | 2024-03-09 |
 | [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 | 2022-08-20 | 2023-03-01 |
 | [By accident \(Feat\. Mesani, Nucksal\)](https://open.spotify.com/track/0AJ42CWDhQyyVDA5DWHCVx) | [Conda](https://open.spotify.com/artist/5JmsoI6wkkNkgJDsMheitH), [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Where is my Invitation?](https://open.spotify.com/album/6jzwFZGiLUsT6rSI9tZLtW) | 3:02 | 2023-01-10 | 2023-07-18 |
@@ -446,6 +447,7 @@
 | [Ghost \(Feat\. Gaeko, viceversa\)](https://open.spotify.com/track/4HM22JAZV3nf9RI6PLgpdz) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 4:24 | 2023-06-20 | 2023-11-04 |
 | [Ghost Buster](https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Minamdang \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i) | 3:00 | 2022-07-07 | 2022-07-15 |
 | [Ghost K!D](https://open.spotify.com/track/5W58ZBcZAORm1aNM4XRUWA) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 3:53 | 2024-01-23 | 2024-06-05 |
+| [Ghost of You](https://open.spotify.com/track/5rFOzYdjlRgKlFImcFmtTC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Ghost of You](https://open.spotify.com/album/2RNogyfqI3BX1MMgPKYr1k) | 2:55 | 2025-02-10 |  |
 | [Gifted \(Feat\. Jambino\)](https://open.spotify.com/track/55x91XUPidv3zAn9sDrvAj) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 3:37 | 2022-11-07 | 2022-11-17 |
 | [GIOTL](https://open.spotify.com/track/1Tj8jpYF0fSS3k0Q2LYUk1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [KCTAPE, Vol\. 1](https://open.spotify.com/album/5HOAYUSRwCgV0SVxcug4l3) | 3:17 | 2024-05-24 | 2024-10-15 |
 | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/track/1N8Qy5DhiBHE1WTJniYM1m) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [T₩OTUK](https://open.spotify.com/artist/3iAOHQi9GKQ8ARxHfD6YFt), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/album/0qGqRlZPFPDjoZULwItlXn) | 3:33 | 2023-01-02 | 2023-03-28 |

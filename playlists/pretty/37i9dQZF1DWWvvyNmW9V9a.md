@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Our girls ❤️❤️❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132,896 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,132,807 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 2 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 |
 | 3 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 4 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
-| 5 | [I Like Me Better](https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG) | 3:17 |
-| 6 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 4 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 5 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
+| 6 | [I Like Me Better](https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG) | 3:17 |
 | 7 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 8 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 |
 | 9 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 |
 | 10 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 |
 | 11 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
 | 12 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
-| 13 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
-| 14 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
-| 15 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
-| 16 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 13 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 14 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
+| 15 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
+| 16 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
 | 17 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 |
 | 18 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 |
 | 19 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 102 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 |
 | 103 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 
-Snapshot ID: `Z6WTawAAAAA9yANQtqRYaUcva1ZISKzs`
+Snapshot ID: `Z6oiBQAAAAAdpMl4GjJEjfRPEU5vNGuC`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Dora Jar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,904 likes - 109 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,895 likes - 109 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 |
 | 2 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
-| 3 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
-| 4 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
-| 5 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 |
+| 3 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
+| 4 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
+| 5 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
 | 6 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 |
 | 7 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 | 8 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 108 | [Let Me Go!](https://open.spotify.com/track/72vbQiZdPWaLMXaHjRUpiJ) | [Leila Lamb](https://open.spotify.com/artist/2n3aUuffTp4GLAVEcqILwp) | [Let Me Go!](https://open.spotify.com/album/4z21RHl8jWa0ohHXpO37wD) | 2:04 |
 | 109 | [did i tell u that i miss u](https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/5mw5lqpHiII2dtNFjWfKTd) | 1:55 |
 
-Snapshot ID: `Z6WTfgAAAACTWvsQMH/kQhGMKkWiJxhB`
+Snapshot ID: `Z6oobwAAAACCpmD142jFkmYE+5DvCQdR`

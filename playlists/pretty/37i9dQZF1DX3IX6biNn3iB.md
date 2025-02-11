@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. ERRE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 18 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 19 | [Paloma](https://open.spotify.com/track/74rvVpcia4jfUDBafy0WEt) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:31 |
 | 20 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
-| 21 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
-| 22 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 |
+| 21 | [Parcera](https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:32 |
+| 22 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 | 23 | [cuida](https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6) | [csndra](https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe), [Jvndro](https://open.spotify.com/artist/7e9EzUSlZ35veKoHzpa1P0) | [cuida](https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8) | 2:46 |
 | 24 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 25 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 36 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 |
 | 37 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |
 | 38 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
-| 39 | [Tanto Arriba Como Abajo](https://open.spotify.com/track/518ruJoGWraifuVpTBKr5a) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Tanto Arriba Como Abajo](https://open.spotify.com/album/59xL5wvprBCyIgj0b0j1nS) | 3:41 |
-| 40 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
+| 39 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
+| 40 | [Tanto Arriba Como Abajo](https://open.spotify.com/track/518ruJoGWraifuVpTBKr5a) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Tanto Arriba Como Abajo](https://open.spotify.com/album/59xL5wvprBCyIgj0b0j1nS) | 3:41 |
 | 41 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
 | 42 | [Amor De Verano](https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Amor De Verano](https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957) | 2:10 |
 | 43 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |

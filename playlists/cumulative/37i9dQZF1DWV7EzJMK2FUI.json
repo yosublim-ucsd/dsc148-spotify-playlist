@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "A Gentle Dance",
+        "url": "https://open.spotify.com/album/7t9II5fo3wnF7JVF2UJ2JV"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "A Gentle Dance",
+      "url": "https://open.spotify.com/track/5QThUMas55VatkQW8gKj2a"
+    },
+    {
+      "album": {
         "name": "Lonesome Road",
         "url": "https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C"
       },
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 233946,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 245000,
       "name": "Autumn Lake",
       "url": "https://open.spotify.com/track/3iQ8NiCjIU4ESKeluIanyw"
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 204038,
       "name": "Dancing Shadows",
       "url": "https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C"
@@ -6660,7 +6678,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 208517,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/0yv5XE5mqOVI81gek2HqWG"
@@ -7117,6 +7135,24 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/2MIwlBMtyzbSahQtjzzyQo"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199585,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/75rAzGJDXFM1pFxgP4vNyS"
+    },
+    {
+      "album": {
         "name": "Forgetful",
         "url": "https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast"
       },
@@ -7470,7 +7506,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 296582,
       "name": "Getting Lazy",
       "url": "https://open.spotify.com/track/2iMDmVHOkkzFGbAXlighpd"
@@ -8162,7 +8198,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 216778,
       "name": "High and Lows",
       "url": "https://open.spotify.com/track/2hvTciIotYmHTzJuOW0vxJ"
@@ -9239,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "I'll Be By Your Side",
+        "url": "https://open.spotify.com/album/2rQ4yaFUnel87kfcp6D1U6"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Edmonstone Trio",
+          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233106,
+      "name": "I'll Be By Your Side",
+      "url": "https://open.spotify.com/track/01ieWrlGp2YpHxV8lnXUnK"
+    },
+    {
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU"
       },
@@ -9888,7 +9942,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 178374,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8"
@@ -10112,7 +10166,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 201279,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/7EtNoLrxsmfFxXTgVdEpPo"
@@ -10782,6 +10836,24 @@
       "duration_ms": 214635,
       "name": "I\u2019ll pass it on",
       "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll See You Someday",
+        "url": "https://open.spotify.com/album/6tZ181FtDphzYBkOJGThLa"
+      },
+      "artists": [
+        {
+          "name": "Jon Belle",
+          "url": "https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I\u2019ll See You Someday",
+      "url": "https://open.spotify.com/track/4kzaL38T1gdsBvxNkzPqHY"
     },
     {
       "album": {
@@ -12514,7 +12586,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 231500,
       "name": "Lost in Love",
       "url": "https://open.spotify.com/track/4KoFvy8i0E8OZUZWu2oWel"
@@ -12586,7 +12658,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 150233,
       "name": "Lost in Your Gaze",
       "url": "https://open.spotify.com/track/4iAqW3CUYfSAzSfVLqT8wp"
@@ -14078,7 +14150,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 185781,
       "name": "Moonbows",
       "url": "https://open.spotify.com/track/3fSSeOXRH2QUynHAUyJu1i"
@@ -14798,7 +14870,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 211079,
       "name": "Mystic Moonlight Groove",
       "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
@@ -15302,7 +15374,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 221277,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair"
@@ -15446,7 +15518,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 238562,
       "name": "November Fall",
       "url": "https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad"
@@ -15687,6 +15759,24 @@
     },
     {
       "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/445g95wiQjWRCMntxXr0qS"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276928,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/64KGP5Prm4UmpDvKXKHhW6"
+    },
+    {
+      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/0Yity9ANXFtlj79efJGZuL"
       },
@@ -15824,7 +15914,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 204006,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC"
@@ -18525,6 +18615,24 @@
     },
     {
       "album": {
+        "name": "Slow Shave",
+        "url": "https://open.spotify.com/album/7oyd6tPEq0MPXJhFdjP3G1"
+      },
+      "artists": [
+        {
+          "name": "Belmont Central",
+          "url": "https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Slow Shave",
+      "url": "https://open.spotify.com/track/2QsksFbSSVu950eCmcZabL"
+    },
+    {
+      "album": {
         "name": "Small Steps",
         "url": "https://open.spotify.com/album/1GI9Bz7hFaoAn9Ugy9D0hA"
       },
@@ -19508,7 +19616,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 194704,
       "name": "State Of Reverie",
       "url": "https://open.spotify.com/track/12oPfo4JKn8WdVNEe4Xp1i"
@@ -19580,7 +19688,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 202051,
       "name": "Steps Ahead",
       "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
@@ -21279,6 +21387,24 @@
     },
     {
       "album": {
+        "name": "The Sky Is Not the Limit",
+        "url": "https://open.spotify.com/album/2NllSlpsJOB9iy4lFMLMqf"
+      },
+      "artists": [
+        {
+          "name": "Nordic Quartet",
+          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209812,
+      "name": "The Sky Is Not the Limit",
+      "url": "https://open.spotify.com/track/1pwgaTFDXIp1SB3rvb5U9G"
+    },
+    {
+      "album": {
         "name": "The Sparkle in Your Eyes",
         "url": "https://open.spotify.com/album/4NUdzaHTQQq8w2oYLBBgc2"
       },
@@ -22014,7 +22140,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 268850,
       "name": "Tickets for Two Please",
       "url": "https://open.spotify.com/track/4ym6wFwd1wwT23sdBZQp1I"
@@ -23782,7 +23908,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 266192,
       "name": "When in Kreuzberg",
       "url": "https://open.spotify.com/track/1mITPUG6KO1uOXH2bJG0lt"
@@ -24221,6 +24347,24 @@
     },
     {
       "album": {
+        "name": "Willow Weep for Me",
+        "url": "https://open.spotify.com/album/5RSyLZK5Wbcuy82M1Rk3cu"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/6OFXeI0ygKYiOdgpGfOboX"
+    },
+    {
+      "album": {
         "name": "Wilting",
         "url": "https://open.spotify.com/album/4l6gsWTnT9BqIKcTQOyu4B"
       },
@@ -24430,7 +24574,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 199000,
       "name": "Wondering",
       "url": "https://open.spotify.com/track/219BW1JC4d4VumSTIYpUUW"

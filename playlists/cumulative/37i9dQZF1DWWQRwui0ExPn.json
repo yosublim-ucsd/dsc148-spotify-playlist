@@ -49912,7 +49912,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 122789,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/7kMMiLUe4vBChQSNxlIlwR"
@@ -56848,7 +56848,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 197763,
       "name": "If These Streets Could Talk (T.A.X.I)",
       "url": "https://open.spotify.com/track/2zOuDVOuHUhzIQmdVtTw2t"
@@ -71110,6 +71110,28 @@
       "duration_ms": 143720,
       "name": "lotus",
       "url": "https://open.spotify.com/track/22dXmd0KmGPtj5Q0Q25yrU"
+    },
+    {
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/2paC2xkR5fHXKSh4AdA5T2"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        },
+        {
+          "name": "Kylan",
+          "url": "https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130015,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/626uDYzL00EWwr92rTREz3"
     },
     {
       "album": {
@@ -126488,6 +126510,24 @@
       "duration_ms": 169600,
       "name": "Tranquil",
       "url": "https://open.spotify.com/track/6uxHwqAtyBpQDjBuF7rydF"
+    },
+    {
+      "album": {
+        "name": "Tranquil",
+        "url": "https://open.spotify.com/album/23LDgMFt3UFpIhn7p3fTZy"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Tranquil",
+      "url": "https://open.spotify.com/track/1yZDGH6ufJ0t9cf65di8Ri"
     },
     {
       "album": {

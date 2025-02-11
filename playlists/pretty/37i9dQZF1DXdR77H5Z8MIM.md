@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: SEVENTEEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,740 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,752 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 57 | [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
 | 58 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 |
 | 59 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
-| 60 | [ON](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
-| 61 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
+| 60 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
+| 61 | [ON](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 62 | [Gone](https://open.spotify.com/track/2ayIgfvWo3SfYP2pVOr4pC) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/52MYcZ4Hzvy9vJcPicjfHZ) | 3:27 |
 | 63 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 64 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |

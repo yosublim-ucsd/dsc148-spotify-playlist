@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,622 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,655 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 26 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
 | 27 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
 | 28 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
-| 29 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
-| 30 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
-| 31 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
-| 32 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
+| 29 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
+| 30 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
+| 31 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
+| 32 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
 | 33 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 |
 | 34 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 35 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 72 | [Homesick](https://open.spotify.com/track/5E5MqaS6eOsbaJibl3YeMZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:50 |
 | 73 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 |
 | 74 | [Consequences](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:58 |
-| 75 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
-| 76 | [When I Get There](https://open.spotify.com/track/24dotUzOINUEH3iTUlhDXX) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:20 |
-| 77 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
+| 75 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
+| 76 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
+| 77 | [When I Get There](https://open.spotify.com/track/24dotUzOINUEH3iTUlhDXX) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:20 |
 | 78 | [Summertime Sadness](https://open.spotify.com/track/33CeM8NI7tfrNgciVOFMoo) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \(Deluxe Version\)](https://open.spotify.com/album/4F5dVhgk569Du5cLfal3t5) | 4:24 |
 | 79 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 80 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,985 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,987 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
 | 50 | [Pennies From Heaven](https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pennies From Heaven](https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W) | 2:43 |
 
-Snapshot ID: `Z6aegAAAAADAQEdiro3LMMmqm1g5SFLK`
+Snapshot ID: `Z6fwAAAAAAAGL0UKaAggUxiu2GeZIbn9`

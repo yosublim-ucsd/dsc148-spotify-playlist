@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "i'm in love, believe it",
+        "url": "https://open.spotify.com/album/7b5KQTF6C0vrUMdSzjQmA2"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156086,
+      "name": "i'm in love, believe it",
+      "url": "https://open.spotify.com/track/06qR4ao8CrVOHqUj30ZYJi"
+    },
+    {
+      "album": {
         "name": "Aftershock",
         "url": "https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw"
       },

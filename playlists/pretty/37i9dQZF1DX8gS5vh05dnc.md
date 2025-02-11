@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,912 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,922 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 17 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 | 18 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 19 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
-| 20 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
-| 21 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 20 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
+| 21 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 22 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 |
 | 23 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 24 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
 | 25 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
-| 26 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
-| 27 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
+| 26 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
+| 27 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
 | 28 | [Count on Me](https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:17 |
 | 29 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 30 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 |

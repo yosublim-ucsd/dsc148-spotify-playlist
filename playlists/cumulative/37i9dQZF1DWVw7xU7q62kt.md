@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-393 songs - 18 hr 53 min
+394 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Ibiza](https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Ibiza](https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw) | 4:16 | 2025-01-24 |  |
 | [Ice Cold Coolers](https://open.spotify.com/track/32YuJrtLLVAMjskLgAfZKg) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T) | [Good Vibes](https://open.spotify.com/album/6ow7Sf2iH1b8Q50hjBfSVo) | 2:05 | 2023-10-13 | 2024-08-30 |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2023-08-22 | 2024-09-18 |
-| [Imaginary](https://open.spotify.com/track/2w6LzuwyGCAV75dlAPcNBN) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Imaginary](https://open.spotify.com/album/4JJpW8XDzme7pqCiyZjyKN) | 2:02 | 2024-11-08 |  |
+| [Imaginary](https://open.spotify.com/track/2w6LzuwyGCAV75dlAPcNBN) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Imaginary](https://open.spotify.com/album/4JJpW8XDzme7pqCiyZjyKN) | 2:02 | 2024-11-08 | 2025-02-11 |
 | [In the Backseat](https://open.spotify.com/track/4vI1kjJ48bbpIf7ByHFzUu) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [In the Backseat](https://open.spotify.com/album/06C0oK1SNXafHXh9HqeNHo) | 2:33 | 2024-08-23 |  |
 | [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 | 2024-09-08 |
 | [Indica Badu](https://open.spotify.com/track/283WNLow8l5Opa1q1VmLVQ) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Indica Badu](https://open.spotify.com/album/0RrAnODx9ARkS8gHBVnyYB) | 2:08 | 2024-11-29 |  |
@@ -342,6 +342,7 @@
 | [Surf](https://open.spotify.com/track/4UfwdU3IjjV3rLJwp2jMUz) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Waves](https://open.spotify.com/album/2cJ2yIgwJe6RdHsnfWHRqc) | 1:57 | 2024-08-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-08-25 | 2024-09-07 |
 | [swing side](https://open.spotify.com/track/4PO8A3EPanNbkx7Q3Wi2a3) | [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX), [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [swing side](https://open.spotify.com/album/2TDburFMSfxZB2wGzfaHSZ) | 2:03 | 2024-12-13 |  |
+| [Symmetry](https://open.spotify.com/track/0x4BB9JufJVOwHKw7GyVlG) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Symmetry](https://open.spotify.com/album/1cEdRSasoQkzL2IhIPxy9h) | 2:26 | 2025-02-07 |  |
 | [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 | 2024-09-28 |
 | [synergy](https://open.spotify.com/track/2mobc4qTowSU1xom2svdwr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [synergy](https://open.spotify.com/album/2pVgWKlYMy76JdQ2thPsDg) | 2:35 | 2024-09-27 |  |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-08-22 |  |

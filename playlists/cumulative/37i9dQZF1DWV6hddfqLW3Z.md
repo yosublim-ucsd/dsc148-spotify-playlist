@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-182 songs - 10 hr 57 min
+183 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 | 2022-08-19 |  |
 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 | 2022-08-19 |  |
 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 | 2024-08-23 |  |
+| [Disritmia / Ex\-Amor](https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Disritmia / Ex\-Amor](https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j) | 4:59 | 2025-02-07 |  |
 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 | 2022-10-14 | 2024-04-19 |
 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 | 2022-08-19 | 2022-10-15 |
 | [Dona Cila](https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:31 | 2022-08-19 |  |
@@ -86,7 +87,7 @@
 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 | 2022-08-19 |  |
 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 | 2024-04-05 |  |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2022-08-19 | 2025-02-08 |
-| [Logo agora](https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Logo agora](https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC) | 3:07 | 2024-04-05 |  |
+| [Logo agora](https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Logo agora](https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC) | 3:07 | 2024-04-05 | 2025-02-11 |
 | [Lua de Garrafa](https://open.spotify.com/track/4bqLjdIEdMMBUFLrTFDJVa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 2:34 | 2023-03-13 | 2023-04-02 |
 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 | 2022-08-19 |  |
 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 | 2022-08-19 |  |

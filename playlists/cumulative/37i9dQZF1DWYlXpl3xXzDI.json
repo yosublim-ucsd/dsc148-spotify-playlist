@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 236193,
       "name": "if i wasn't made for love",
       "url": "https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr"
@@ -5008,6 +5008,24 @@
       "duration_ms": 201288,
       "name": "Till The Sun Comes Up",
       "url": "https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/4QXTS74M6q3erVpK4uumPX"
+      },
+      "artists": [
+        {
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/5tKOOwcF7wdfNGTQGsXXzy"
     },
     {
       "album": {

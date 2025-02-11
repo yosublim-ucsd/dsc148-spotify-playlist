@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 330582,
+  "num_followers": 330598,
   "original_name": "Party 2025",
   "owner": {
     "name": "Spotify",
@@ -119,8 +119,8 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -275,8 +275,8 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2025-01-14 16:07:05",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2025-01-14 16:07:05",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2025-01-14 16:07:05",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2025-01-14 16:07:05",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+    },
+    {
+      "added_at": "2025-01-14 16:07:05",
+      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2025-01-14 16:07:05",
-      "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
-    },
-    {
-      "added_at": "2025-01-14 16:07:05",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2025-01-14 16:07:05",
+      "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2025-01-14 16:07:05",
-      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2025-01-14 16:07:05",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2025-01-14 16:07:05",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2025-01-14 16:07:05",
-      "album": {
         "name": "Friendships (Lost My Love)",
         "url": "https://open.spotify.com/album/6AVjuEsz5TVQrOoRGIaicN"
       },
@@ -2007,6 +1991,22 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2025-01-14 16:07:05",
+      "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2025-01-14 16:07:05",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+        "name": "I Am Armando - Armando Reloaded",
+        "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
       },
       "artists": [
         {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
+      "duration_ms": 205186,
+      "name": "Guantanamera (She's Hot)",
+      "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
     },
     {
       "added_at": "2025-01-14 16:07:05",

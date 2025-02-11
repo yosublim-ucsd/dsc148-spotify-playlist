@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,854 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,868 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 33 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 |
 | 34 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 |
 | 35 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
-| 36 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 |
+| 36 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
 | 37 | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU) | 2:41 |
-| 38 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
+| 38 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 |
 | 39 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 |
 | 40 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 |
 | 41 | [Zorra](https://open.spotify.com/track/0OP1RzrglC008kj79Httv3) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Zorra](https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3) | 3:06 |

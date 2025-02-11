@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,939 likes - 280 songs - 19 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,946 likes - 280 songs - 19 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

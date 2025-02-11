@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,893 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,862 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 29 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
 | 30 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
 | 31 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
-| 32 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
-| 33 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
+| 32 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
+| 33 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
 | 34 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 35 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
 | 36 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 52 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
 | 53 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
 | 54 | [White Frost \(Acoustic\)](https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [White Frost \(Acoustic\)](https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr) | 3:25 |
-| 55 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
-| 56 | [Patchwork Heart](https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Patchwork Heart](https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk) | 3:59 |
-| 57 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
+| 55 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
+| 56 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
+| 57 | [Patchwork Heart](https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Patchwork Heart](https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk) | 3:59 |
 | 58 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
 | 59 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
 | 60 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 70 | [Cherry In Tacoma](https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Cherry In Tacoma](https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR) | 3:42 |
 | 71 | [Love You Blind \- Windowsill Version](https://open.spotify.com/track/2CDPoedvXCCnPuzZe5KB8W) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Love You Blind \(Windowsill Version\)](https://open.spotify.com/album/7MQfEwXY0TuMvHGxGjJFhy) | 3:44 |
 | 72 | [And You Evade Him/Born in the Blood](https://open.spotify.com/track/3QPb4YCMslM3omndws57Cr) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [And You Evade Him / Born in the Blood](https://open.spotify.com/album/6oHSZUOpJDThDiHdLQbskr) | 4:57 |
-| 73 | [Two Sons](https://open.spotify.com/track/0rGLTBQ2CKQubPEznIEyFt) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [Two Sons](https://open.spotify.com/album/27WcPIFcazGvtat19XtncT) | 3:20 |
-| 74 | [Stop Your Tears](https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz) | 5:38 |
+| 73 | [Stop Your Tears](https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz) | 5:38 |
+| 74 | [Two Sons](https://open.spotify.com/track/0rGLTBQ2CKQubPEznIEyFt) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [Two Sons](https://open.spotify.com/album/27WcPIFcazGvtat19XtncT) | 3:20 |
 | 75 | [Does Not Heal \- Christian Lee Hutson Version](https://open.spotify.com/track/74NaeSFbUmYIeaRYlqwvrv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Does Not Heal \(Christian Lee Hutson Version\)](https://open.spotify.com/album/23noaeLrXaiLBRVOyalN1a) | 4:26 |
 | 76 | [Bad Dream](https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Bad Dream](https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD) | 4:10 |
 | 77 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 |

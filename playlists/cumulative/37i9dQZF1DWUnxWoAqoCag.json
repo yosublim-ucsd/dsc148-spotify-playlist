@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208294,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn"
+    },
+    {
+      "album": {
         "name": "BABY CHAOS",
         "url": "https://open.spotify.com/album/5iE0UUNuhxeIUqRo8rrpKe"
       },
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 235693,
       "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
       "url": "https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke"
@@ -3852,7 +3870,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 248613,
       "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
       "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
@@ -4162,7 +4180,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 196226,
       "name": "\u602a\u76d7",
       "url": "https://open.spotify.com/track/014Dp0tBp4d9uuFAvH1mlc"

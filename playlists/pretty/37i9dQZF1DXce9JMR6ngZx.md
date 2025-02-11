@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,646 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,656 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 60 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
 | 61 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 62 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
-| 63 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |
-| 64 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 63 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
+| 64 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |
 | 65 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 |
 | 66 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 |
 | 67 | [Eduardo E Mônica](https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:31 |

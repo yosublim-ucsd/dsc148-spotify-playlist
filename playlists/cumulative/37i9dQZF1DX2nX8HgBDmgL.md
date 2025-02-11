@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Ali Sethi
 
-299 songs - 16 hr 8 min
+300 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-08-09 |  |
 | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC) | 3:15 | 2024-12-12 |  |
 | [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-04-14 |  |
+| [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 | 2025-02-10 |  |
 | [After Party](https://open.spotify.com/track/1xzXdnoVhFLNVIFSxxfDCI) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [After Party](https://open.spotify.com/album/3VnubNDl7WjNDmXTjOdyXG) | 3:10 | 2021-11-11 | 2022-07-19 |
 | [Alisha](https://open.spotify.com/track/2MSRhHRe3BFYp7l8J4G2Yz) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Love Affair](https://open.spotify.com/album/6qc1s6JcXgstR90BfA6VQy) | 2:59 | 2021-11-11 | 2022-07-19 |
 | [ALL WE HAD \(feat\. Asim Azhar & Annural Khalid\)](https://open.spotify.com/track/1s3R9uVmrUaqiWluVc1RR6) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:00 | 2024-04-26 | 2024-08-10 |

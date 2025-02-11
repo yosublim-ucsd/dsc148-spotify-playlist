@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,826 likes - 113 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,881 likes - 113 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

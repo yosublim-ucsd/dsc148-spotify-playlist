@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,934 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,970 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [Goodnight Sweetheart](https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:10 |
 | 50 | [Fugue For Tinhorns](https://open.spotify.com/track/25AH3SYPABuo5xXNs1qiRn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 1:30 |
 
-Snapshot ID: `Z6aegAAAAABreLeTlclB2xK191W01RkR`
+Snapshot ID: `Z6fwAAAAAACosIFqdIG3f3ILJz0FaBXV`

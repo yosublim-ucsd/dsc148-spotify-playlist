@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,513 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,503 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 10 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 |
 | 11 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 |
 | 12 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
-| 13 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 |
-| 14 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
+| 13 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
+| 14 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 |
 | 15 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 |
 | 16 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/114461rbzcgTriw8n4FOPW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:38 |
 | 17 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 |

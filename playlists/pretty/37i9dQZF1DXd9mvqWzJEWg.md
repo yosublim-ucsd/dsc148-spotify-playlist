@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > Get ready for After 5 with this <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=XwrW3IilSpi1gtISAgvPaA">Surreal Sessions</a> take over.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,922 likes - 47 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,925 likes - 47 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

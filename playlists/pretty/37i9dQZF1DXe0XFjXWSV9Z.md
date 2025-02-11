@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,222 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,226 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 12 | [Cumbia de la Montaña](https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0) | [Sabor Sónico](https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ) | 6:26 |
 | 13 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 |
 | 14 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 15 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
-| 16 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
+| 15 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
+| 16 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 |
 | 17 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 18 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 |
 | 19 | [Vampiro Sabanero](https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:42 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 36 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 |
 | 37 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
 | 38 | [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 |
-| 39 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 |
-| 40 | [Pañuelo De Seda](https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Pañuelo De Seda](https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY) | 3:03 |
+| 39 | [Pañuelo De Seda](https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Pañuelo De Seda](https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY) | 3:03 |
+| 40 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 |
 | 41 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 |
 | 42 | [Guadalupe](https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Guadalupe](https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS) | 3:24 |
 | 43 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 74 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 |
 | 75 | [Churro Vs\. Crow](https://open.spotify.com/track/3heeKBALUEBIlOBO6JZIWt) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Churro Vs\. Crow](https://open.spotify.com/album/2NoB2gHEQ3w0eqPhk9w16B) | 3:22 |
 | 76 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 |
-| 77 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
-| 78 | [Mar Iguana](https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj) | [É Arenas](https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC) | [Mar Iguana](https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn) | 3:17 |
+| 77 | [Mar Iguana](https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj) | [É Arenas](https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC) | [Mar Iguana](https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn) | 3:17 |
+| 78 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
 | 79 | [Invasión](https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Jacinto y La Cumbia](https://open.spotify.com/artist/23IL1fbbI60l5k6fWuPk5W), [Yawarana Orquesta](https://open.spotify.com/artist/21QWbz8AInxH5PPteJwmDf), [Héctor Hernández](https://open.spotify.com/artist/2RMGPGcbneXvxE2fweAXja) | [Invasión](https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI) | 4:08 |
 | 80 | [La Era del GigaHertz](https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [La Era del GigaHertz](https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ) | 5:06 |
 | 81 | [La Camisola](https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y) | [Carmelo Torres & Los Toscos](https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ) | [El Chacho](https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn) | 4:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 96 | [Dios](https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Dios](https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w) | 3:13 |
 | 97 | [Porrovía](https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Porrovía](https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g) | 3:27 |
 | 98 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
-| 99 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
-| 100 | [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 |
+| 99 | [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 |
+| 100 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
 
 Snapshot ID: `Z6U/IQAAAAAJ8o5vhzBHH9NIf/7+gx/M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,142 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,244 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 7 | [What A Shame](https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:57 |
 | 8 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
 | 9 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
-| 10 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
-| 11 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 10 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 11 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 12 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 13 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 14 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:13 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 17 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
 | 18 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 19 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 |
-| 20 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
-| 21 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
+| 20 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
+| 21 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 22 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
 | 23 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 24 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 66 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 67 | [Bust Your Windows](https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:26 |
 | 68 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
-| 69 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
-| 70 | [Fuck You](https://open.spotify.com/track/4XE98WRGbBGRZ7jQ9wIwFt) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:39 |
+| 69 | [Fuck You](https://open.spotify.com/track/4XE98WRGbBGRZ7jQ9wIwFt) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:39 |
+| 70 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 |
 | 71 | [Confident](https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:25 |
 | 72 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2PneNdtypG6XcgmWmGd9FI) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/4qyuqoJb1ffoE11trJgsXc) | 2:47 |
 | 73 | [Your New Boyfriend](https://open.spotify.com/track/4vLBnQtece15fFhqWxZvJP) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your New Boyfriend](https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F) | 3:59 |

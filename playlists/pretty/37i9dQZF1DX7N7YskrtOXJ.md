@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,600 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,641 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 52 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
 | 53 | [Así Fue / Tu Cárcel / Estos Celos](https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Así Fue / Tu Cárcel / Estos Celos](https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX) | 5:19 |
 | 54 | [Soy Feo Pero Rico](https://open.spotify.com/track/1m7CrLaLdBBVIHIdCOwzYT) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [De Amor y Vacilón](https://open.spotify.com/album/3zq884kL6akUG3fcsIdyWV) | 3:07 |
-| 55 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
+| 55 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
 | 56 | [Después de Ti](https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [20 Años No Es Nada Todavia Estoy Vivo](https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG) | 3:39 |
-| 57 | [Mujeres y Cerveza](https://open.spotify.com/track/0u8Xjs6MaShfUSZ5XAEoaO) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Somos Parte de Tu Vida](https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K) | 4:24 |
+| 57 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
 | 58 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
 | 59 | [La Vecina](https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 2:59 |
 | 60 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
-| 61 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 |
-| 62 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 |
-| 63 | [Entre el Odio y el Amor](https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy) | 3:52 |
+| 61 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 |
+| 62 | [Entre el Odio y el Amor](https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy) | 3:52 |
+| 63 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 |
 | 64 | [La Tortuga Vacilona](https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:41 |
 | 65 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 |
 | 66 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 68 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
 | 69 | [Me Vas a Extrañar](https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vive El Momento](https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4) | 3:43 |
 | 70 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
-| 71 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
-| 72 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
+| 71 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
+| 72 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
 | 73 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 74 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
 | 75 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |

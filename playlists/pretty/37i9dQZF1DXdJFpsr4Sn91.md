@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Käärijä ja Hooja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,209 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,220 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 2 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
-| 3 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 |
-| 4 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
+| 3 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
+| 4 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 |
 | 5 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
-| 6 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
-| 7 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
-| 8 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
-| 9 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
-| 10 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
+| 6 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
+| 7 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
+| 8 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
+| 9 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
+| 10 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
 | 11 | [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 |
 | 12 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
 | 13 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 89 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
 | 90 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 
-Snapshot ID: `Z6e+5AAAAAAXxebvXA+hqs2KX14SUr7a`
+Snapshot ID: `Z6pSSgAAAAA3pk5IZchD/3kh7p3aMMST`

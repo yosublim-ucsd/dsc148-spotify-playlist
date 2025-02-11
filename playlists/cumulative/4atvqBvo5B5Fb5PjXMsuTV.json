@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Feb 19:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Feb 23:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -4701,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
+    },
+    {
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU"
       },
@@ -7344,6 +7362,24 @@
       "duration_ms": 205733,
       "name": "BEST FRIEND ONLY",
       "url": "https://open.spotify.com/track/6v6q61HjwVxlBO2GEWzUwd"
+    },
+    {
+      "album": {
+        "name": "Best Guess",
+        "url": "https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV"
     },
     {
       "album": {
@@ -10518,7 +10554,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 215380,
       "name": "Brushstrokes of Reunion",
       "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
@@ -12709,6 +12745,24 @@
     },
     {
       "album": {
+        "name": "check",
+        "url": "https://open.spotify.com/album/6dphkeOi9tQENLM3mHT53m"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122037,
+      "name": "check",
+      "url": "https://open.spotify.com/track/1Fm2XQcm6PCa8FWfeR2HOZ"
+    },
+    {
+      "album": {
         "name": "Check",
         "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
       },
@@ -14792,7 +14846,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 169013,
       "name": "Coraline",
       "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
@@ -41168,7 +41222,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 192946,
       "name": "LOVE LOOKS PRETTY ON YOU",
       "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
@@ -58782,7 +58836,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 172952,
       "name": "Shadowboxing",
       "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
@@ -74584,6 +74638,24 @@
       "duration_ms": 214956,
       "name": "Weight in Gold",
       "url": "https://open.spotify.com/track/1Ne8sEdwD8cVXjFZI19wgs"
+    },
+    {
+      "album": {
+        "name": "Weight Of Desire",
+        "url": "https://open.spotify.com/album/3OfDT5SPGGrLO5mw3Wg76F"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "Weight Of Desire",
+      "url": "https://open.spotify.com/track/1frM1ZmtPdJRgFNnRnwCyR"
     },
     {
       "album": {

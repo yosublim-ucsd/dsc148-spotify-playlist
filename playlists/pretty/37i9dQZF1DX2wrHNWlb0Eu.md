@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,099 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,156 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 31 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 |
 | 32 | [รอยยิ้ม](https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [clean](https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2) | 4:18 |
 | 33 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 |
-| 34 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 |
-| 35 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 |
+| 34 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 |
+| 35 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 |
 | 36 | [คืนที่ดาวเต็มฟ้า](https://open.spotify.com/track/5JoSLllHkOdE56kpHU4fi6) | [Pramote Vilepana](https://open.spotify.com/artist/5ymrPYlQszvpBHwIVHGPcQ) | [ร้องนำ](https://open.spotify.com/album/0zDHoE9lv0a9BNP9F2YtRf) | 3:45 |
 | 37 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
 | 38 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
-| 39 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 |
-| 40 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 |
+| 39 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 |
+| 40 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 |
 | 41 | [ตั้งใจรัก](https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ตั้งใจรัก](https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3) | 2:35 |
 | 42 | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF) | 3:32 |
 | 43 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 |

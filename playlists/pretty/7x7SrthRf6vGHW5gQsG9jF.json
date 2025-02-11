@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAEvnTMACBi+qG891ix52bZ8AtneQix",
+  "snapshot_id": "AAAEw8/r5VOUD0ZcyOriZ3ha+wPcqIlI",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -13515,6 +13515,90 @@
       "duration_ms": 180962,
       "name": "\u30d7\u30e9\u30ba\u30de",
       "url": "https://open.spotify.com/track/5YSf3oqSAWx1D5gWvjAYwK"
+    },
+    {
+      "added_at": "2025-02-10 12:46:04",
+      "album": {
+        "name": "flowers of sentence, rebirth at sea",
+        "url": "https://open.spotify.com/album/6XTXlroDpsHt8tAxIXdgia"
+      },
+      "artists": [
+        {
+          "name": "lical",
+          "url": "https://open.spotify.com/artist/4QXbaOKt3DNKEPgAUhpNuP"
+        }
+      ],
+      "duration_ms": 201130,
+      "name": "fake flower",
+      "url": "https://open.spotify.com/track/0oIlhZ7Qj4DC7dL4U1nuqr"
+    },
+    {
+      "added_at": "2025-02-10 12:46:24",
+      "album": {
+        "name": "Sour Salty Realism",
+        "url": "https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9"
+      },
+      "artists": [
+        {
+          "name": "Limon\u00e8ne",
+          "url": "https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss"
+        }
+      ],
+      "duration_ms": 112680,
+      "name": "realism",
+      "url": "https://open.spotify.com/track/4bwh3WoiGGq29sQWVxLaOv"
+    },
+    {
+      "added_at": "2025-02-10 12:46:37",
+      "album": {
+        "name": "zensekai",
+        "url": "https://open.spotify.com/album/7r3DsycMgzshhojy3QF1j6"
+      },
+      "artists": [
+        {
+          "name": "siraph",
+          "url": "https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb"
+        }
+      ],
+      "duration_ms": 146712,
+      "name": "zensekai",
+      "url": "https://open.spotify.com/track/3CKPb29QSyXR2A9DoCjaRI"
+    },
+    {
+      "added_at": "2025-02-10 12:46:42",
+      "album": {
+        "name": "deep blue",
+        "url": "https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o"
+      },
+      "artists": [
+        {
+          "name": "sora tob sakana",
+          "url": "https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "signal",
+      "url": "https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa"
+    },
+    {
+      "added_at": "2025-02-10 12:46:57",
+      "album": {
+        "name": "Another Ride",
+        "url": "https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC"
+      },
+      "artists": [
+        {
+          "name": "ippo.tsk",
+          "url": "https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof"
+        },
+        {
+          "name": "Synthesizer V ANRI",
+          "url": "https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0"
+        }
+      ],
+      "duration_ms": 208437,
+      "name": "Another Ride",
+      "url": "https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0"
     }
   ],
   "unique_name": "japan",

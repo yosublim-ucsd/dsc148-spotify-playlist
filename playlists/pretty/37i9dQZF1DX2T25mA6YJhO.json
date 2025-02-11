@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: shego.",
-  "num_followers": 24382,
+  "num_followers": 24387,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6U/DgAAAACLnaitGUuowz3T2fLN4qJ7",
+  "snapshot_id": "Z6ofDgAAAAA4jWOi4baLy+iFh89NzETG",
   "tracks": [
     {
       "added_at": "2025-02-06 23:00:30",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-02-06 23:00:30",
       "album": {
-        "name": "No lo volver\u00e9 a hacer",
-        "url": "https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Manifesting",
-      "url": "https://open.spotify.com/track/3Lqygn1Bx76OdUwcWABT7t"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 152762,
       "name": "La Vida Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
+    },
+    {
+      "added_at": "2025-02-06 23:00:30",
+      "album": {
+        "name": "No lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/51unLLaXe9KFEEiQ8gI3Ip"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Manifesting",
+      "url": "https://open.spotify.com/track/3Lqygn1Bx76OdUwcWABT7t"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-02-06 23:00:30",
       "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+    },
+    {
+      "added_at": "2025-02-06 23:00:30",
+      "album": {
         "name": "Perdiendo el tiempo",
         "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 166528,
       "name": "Perdiendo el tiempo",
       "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
-        "name": "BOCARRIBA",
-        "url": "https://open.spotify.com/album/454Jw8XR7LdygHcbqYlWdz"
-      },
-      "artists": [
-        {
-          "name": "CANTEO!",
-          "url": "https://open.spotify.com/artist/5wuRxXOBRZ1Zt0EvCi7xis"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "BOCARRIBA",
-      "url": "https://open.spotify.com/track/6YCUCIY5O2AswUtBgx96KZ"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -1403,34 +1403,18 @@
     {
       "added_at": "2025-02-06 23:00:30",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+        "name": "BOCARRIBA",
+        "url": "https://open.spotify.com/album/454Jw8XR7LdygHcbqYlWdz"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "CANTEO!",
+          "url": "https://open.spotify.com/artist/5wuRxXOBRZ1Zt0EvCi7xis"
         }
       ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
-        "name": "Club Social",
-        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Yo-me-mi",
-      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
+      "duration_ms": 197111,
+      "name": "BOCARRIBA",
+      "url": "https://open.spotify.com/track/6YCUCIY5O2AswUtBgx96KZ"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -1447,6 +1431,22 @@
       "duration_ms": 163405,
       "name": "En tu portal",
       "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "added_at": "2025-02-06 23:00:30",
+      "album": {
+        "name": "Club Social",
+        "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Yo-me-mi",
+      "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-02-06 23:00:30",
       "album": {
-        "name": "Nadie Se Muere De Amor",
-        "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
-      },
-      "artists": [
-        {
-          "name": "Talleres Molina",
-          "url": "https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Nadie Se Muere De Amor",
-      "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
         "name": "Torreznos y Larios",
         "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 163694,
       "name": "Torreznos y Larios",
       "url": "https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy"
+    },
+    {
+      "added_at": "2025-02-06 23:00:30",
+      "album": {
+        "name": "Nadie Se Muere De Amor",
+        "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
+      },
+      "artists": [
+        {
+          "name": "Talleres Molina",
+          "url": "https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Nadie Se Muere De Amor",
+      "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-02-06 23:00:30",
       "album": {
-        "name": "Los Malos Mueren",
-        "url": "https://open.spotify.com/album/5o5cVXJ1mOCbPL8OCg8iiE"
-      },
-      "artists": [
-        {
-          "name": "PELIGRO!",
-          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
-        }
-      ],
-      "duration_ms": 116800,
-      "name": "Los Malos Mueren",
-      "url": "https://open.spotify.com/track/5y5cVgUfKvAOAlrF15x4ck"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
         "name": "Romance Extremo",
         "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 144179,
       "name": "Romance Extremo",
       "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
+    },
+    {
+      "added_at": "2025-02-06 23:00:30",
+      "album": {
+        "name": "Los Malos Mueren",
+        "url": "https://open.spotify.com/album/5o5cVXJ1mOCbPL8OCg8iiE"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "duration_ms": 116800,
+      "name": "Los Malos Mueren",
+      "url": "https://open.spotify.com/track/5y5cVgUfKvAOAlrF15x4ck"
     },
     {
       "added_at": "2025-02-06 23:00:30",

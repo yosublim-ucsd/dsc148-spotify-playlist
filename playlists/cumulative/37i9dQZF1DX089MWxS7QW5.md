@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 시우\(SIWOO\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: t024\)
 
-474 songs - 1 day 1 hr 45 min
+475 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Lychee Lime Juice](https://open.spotify.com/track/03IxmjvEqfzHCw9ivFX3pm) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [SUMMER FREAK: Sun, Rain, Love](https://open.spotify.com/album/0rawyUTz3wjP4gVFYAloIM) | 4:30 | 2024-08-01 | 2024-09-14 |
 | [Magnolia](https://open.spotify.com/track/7gIeUVYUGkXX6qKyfhSvCT) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4) | [Magnolia](https://open.spotify.com/album/47VCVcsD6bPIYiIqosclMh) | 3:24 | 2024-09-13 | 2024-11-30 |
+| [Make the vibe](https://open.spotify.com/track/0pzxdQ001Rot9Ll5MilQmP) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [TRACE](https://open.spotify.com/album/00kDMNQFXyx8iSGSXjsSl7) | 2:33 | 2025-02-10 |  |
 | [Malibu](https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS) | [KIND](https://open.spotify.com/artist/1gWxpQhTiJXSFMRnwDZ7LO), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Malibu](https://open.spotify.com/album/5AI1aMZ3MZQAjr3EMVGrUv) | 3:18 | 2024-09-02 | 2025-01-19 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-20 |  |
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |

@@ -1647,6 +1647,42 @@
     },
     {
       "album": {
+        "name": "Good Old Green Days",
+        "url": "https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Good Old Green Days",
+      "url": "https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah"
+    },
+    {
+      "album": {
+        "name": "Good Old Green Days",
+        "url": "https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Good Old Green Days (Slappy Hours Mix)",
+      "url": "https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof"
+    },
+    {
+      "album": {
         "name": "Green N Purple",
         "url": "https://open.spotify.com/album/5WU4D4OuWWQuEi1wGhAfON"
       },

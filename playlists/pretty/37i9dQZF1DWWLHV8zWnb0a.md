@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,877 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,973 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 58 | [You Look Like Rain](https://open.spotify.com/track/5QH3pNXpDzSIMziqX9lL1l) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Good](https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy) | 3:40 |
 | 59 | [Stop!](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 |
 | 60 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
-| 61 | [Descent](https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 4:36 |
-| 62 | [Diane](https://open.spotify.com/track/7xcdm6MybPgVeYgGewJzdE) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Infernal Love](https://open.spotify.com/album/31KNGmbreLRbNfmEXRnXTl) | 4:59 |
+| 61 | [Diane](https://open.spotify.com/track/7xcdm6MybPgVeYgGewJzdE) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Infernal Love](https://open.spotify.com/album/31KNGmbreLRbNfmEXRnXTl) | 4:59 |
+| 62 | [Descent](https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 4:36 |
 | 63 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 64 | [Good Morning, Captain](https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 7:39 |
 | 65 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
 | 66 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
 | 67 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
 | 68 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
-| 69 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |
-| 70 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
-| 71 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
-| 72 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 |
+| 69 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
+| 70 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
+| 71 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 |
+| 72 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |
 | 73 | [Pictures Of You \- Remastered](https://open.spotify.com/track/72gg0bqrLCCyomkfunyiuU) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 7:28 |
 | 74 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 75 | [Romeo Had Juliette](https://open.spotify.com/track/6tM8cMX9S4AyRd5sDDrzhN) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:10 |
+| 75 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
 
 Snapshot ID: `ZpHCugAAAAAFTa9hMbti0wAT53adMGM5`

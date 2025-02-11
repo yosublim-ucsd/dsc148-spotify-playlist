@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Turf y Conociendo Rusia
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,769 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,768 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

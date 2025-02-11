@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,872 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,941 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 59 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 60 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
 | 61 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
-| 62 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
-| 63 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
+| 62 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
+| 63 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
 | 64 | [There's No Other Place](https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn) | 7:33 |
 | 65 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
 | 66 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 71 | [Time to Wander](https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Gilgamesh](https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI) | 3:54 |
 | 72 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 |
 | 73 | [Julia](https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 3:25 |
-| 74 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
-| 75 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 |
+| 74 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 |
+| 75 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 | 76 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 | 77 | [Simple Pleasures](https://open.spotify.com/track/3SFyR2ii2zKh4BU0QJuJ1G) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Shangri La](https://open.spotify.com/album/5b5kAlhPPxiMrSd12RzEDI) | 5:01 |
 | 78 | [The Woods](https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod) | 3:11 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 81 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
 | 82 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 83 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 |
-| 84 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
-| 85 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
+| 84 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
+| 85 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
 | 86 | [Love Letter \- At Home](https://open.spotify.com/track/289CYS8Ws26XGrg1dbeY6d) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Love Letter \(At Home\)](https://open.spotify.com/album/5rarhRbEr3haebB2GT02rT) | 3:20 |
 | 87 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
 | 88 | [Trembling hands](https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [The Temper Trap](https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv) | 4:39 |

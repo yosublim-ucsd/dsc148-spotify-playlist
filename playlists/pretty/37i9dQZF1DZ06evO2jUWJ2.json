@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 293326,
+  "num_followers": 293405,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAAooe1Cwlrq+ZtUfXFHHn4w",
+  "snapshot_id": "Z6fwAAAAAADesg2UJYGF7ObHMD3qXO2f",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
       "artists": [
         {
@@ -664,17 +664,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
+      "duration_ms": 236735,
+      "name": "Echo (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
     },
     {
       "added_at": null,
@@ -703,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
       "artists": [
         {
@@ -712,13 +708,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 236735,
-      "name": "Echo (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
+      "duration_ms": 509977,
+      "name": "Talking To Jesus (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     },
     {
       "added_at": null,

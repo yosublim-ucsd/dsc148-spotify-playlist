@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,201 likes - 248 songs - 11 hr 42 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,202 likes - 248 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Final Call](https://open.spotify.com/track/79OlaXxTge9eY0eizS7iyj) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Final Call](https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk) | 2:31 |
 | 2 | [Love Me Now](https://open.spotify.com/track/3mtzh5163ltjqu4J5gLwSV) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Love Me Now](https://open.spotify.com/album/1oYfAY7ppfDpOVUK2cgodg) | 3:31 |
 | 3 | [Want It](https://open.spotify.com/track/4enwReslov5NVsfyExJkTN) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Final Call](https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk) | 2:15 |
-| 4 | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
+| 4 | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
 | 5 | [MAMI](https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [MAMI](https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu) | 1:50 |
 | 6 | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/track/1qaajTYMmyFJWeP6Ze535N) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Alisa](https://open.spotify.com/artist/3V64tT9rVD9R0DaA4XKt3K) | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/album/2GdaVuxuvnbvB1FxZtToO7) | 2:55 |
 | 7 | [Pecadora](https://open.spotify.com/track/4zDcTEkfMzfoca4Ddo4lRe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Pecadora](https://open.spotify.com/album/58lHkFd6stmMU1v2Bz3Fro) | 2:50 |

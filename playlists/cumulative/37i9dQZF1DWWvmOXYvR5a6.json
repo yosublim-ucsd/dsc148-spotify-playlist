@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Burning slow",
+        "url": "https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5"
+      },
+      "artists": [
+        {
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Burning slow",
+      "url": "https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK"
+    },
+    {
+      "album": {
         "name": "bury.",
         "url": "https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq"
       },
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 171866,
       "name": "Drive mE cRaZy",
       "url": "https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6"

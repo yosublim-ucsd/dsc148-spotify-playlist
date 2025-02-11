@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,379 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 34 | [First Of Many](https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:24 |
 | 35 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
 | 36 | [Your Beauty Conquered Me](https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 1:07 |
-| 37 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 |
+| 37 | [To Have Adventures](https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:22 |
 | 38 | [Shame On You](https://open.spotify.com/track/6fG5oXUVHyg8xq7yGznSPH) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 0:59 |
-| 39 | [To Have Adventures](https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:22 |
+| 39 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 |
 | 40 | [There Is No Justice In Law](https://open.spotify.com/track/7lDUIo9A8BIlbLeDq5d1S5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 1:18 |
-| 41 | [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 |
-| 42 | [A Different Set of Rules](https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:21 |
+| 41 | [A Different Set of Rules](https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:21 |
+| 42 | [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 |
 | 43 | [Tiangong](https://open.spotify.com/track/2yImRJOeJ6r7STCWs1xfal) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 6:28 |
 | 44 | [One Bad Apple](https://open.spotify.com/track/7d0tFACa1vdGzVt5HdOLXy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 4:36 |
 | 45 | [A Good Choice](https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:43 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 47 | [Moon Phases](https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:12 |
 | 48 | [Wolfblood](https://open.spotify.com/track/4MMNVs1Xg1pQ9mdDBNNV4V) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 2:41 |
 | 49 | [Imagining the Future \- Instrumental](https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:40 |
-| 50 | [67481 Lesley Brown](https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 3:34 |
-| 51 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 |
+| 50 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 |
+| 51 | [67481 Lesley Brown](https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 3:34 |
 
-Snapshot ID: `Z6aegAAAAACRbTKcHqvaUrqXm+Zpzkly`
+Snapshot ID: `Z6fwAAAAAADDcakHiEsaLiQemfZQIcvM`

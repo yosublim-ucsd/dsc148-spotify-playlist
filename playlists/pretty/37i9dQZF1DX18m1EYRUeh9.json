@@ -1,12 +1,12 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Rooskin",
-  "num_followers": 100067,
+  "num_followers": 100140,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WTcwAAAADy2qz5OvPiAdw/8+8PL99p",
+  "snapshot_id": "Z6mbfAAAAAA7klBVfQAjsDalBfiKQNm9",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:35",
@@ -43,6 +43,26 @@
       "duration_ms": 192464,
       "name": "Make Way For The Sun",
       "url": "https://open.spotify.com/track/4qRnz706aq9y1QOxmR4XwA"
+    },
+    {
+      "added_at": "2025-02-10 06:23:56",
+      "album": {
+        "name": "ENAMEL",
+        "url": "https://open.spotify.com/album/3dpRnq3eAFPv1YffIkGkNI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC"
+        },
+        {
+          "name": "William Corduroy",
+          "url": "https://open.spotify.com/artist/7xRplBbf6mXxyN8oONkmRt"
+        }
+      ],
+      "duration_ms": 86250,
+      "name": "ENAMEL",
+      "url": "https://open.spotify.com/track/5asJb7VIK9F3AqZPIwWiT4"
     },
     {
       "added_at": "2025-02-07 05:00:35",
@@ -1879,22 +1899,6 @@
     {
       "added_at": "2025-02-07 05:00:35",
       "album": {
-        "name": "Stalemate (Edit)",
-        "url": "https://open.spotify.com/album/5ZNGeIk9sgQfgNBikHrFU8"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 403954,
-      "name": "Stalemate - Edit",
-      "url": "https://open.spotify.com/track/1V7LkpiUuuECEEU80qUcl0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:35",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -1923,22 +1927,6 @@
       "duration_ms": 284862,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU"
-    },
-    {
-      "added_at": "2025-02-07 05:00:35",
-      "album": {
-        "name": "Slice",
-        "url": "https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r"
-      },
-      "artists": [
-        {
-          "name": "O.",
-          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
-        }
-      ],
-      "duration_ms": 204270,
-      "name": "Slice",
-      "url": "https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC"
     }
   ],
   "unique_name": "Rarities",

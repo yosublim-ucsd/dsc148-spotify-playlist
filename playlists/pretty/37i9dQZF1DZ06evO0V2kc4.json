@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 68189,
+  "num_followers": 68222,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAALSuBjpThC8enrdwlrGLOJ",
+  "snapshot_id": "Z6fwAAAAAAAakkS8n34fxQD53bBuh592",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sacco e Vanzetti (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 188826,
       "name": "Here's to you (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y"
     },
     {
       "added_at": null,

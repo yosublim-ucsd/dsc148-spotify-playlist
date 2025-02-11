@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: 04 Limited Sazabys",
-  "num_followers": 126180,
+  "num_followers": 126214,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
+        "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
         }
       ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+      "duration_ms": 187200,
+      "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
+      "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
-        "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
       "artists": [
         {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
         }
       ],
-      "duration_ms": 187200,
-      "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
-      "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
-        "url": "https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30e9\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
-      "url": "https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "illuminate",
         "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 203024,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
+        "url": "https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
+      "url": "https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "\u9806\u98a8\u6e80\u5e06",
+        "url": "https://open.spotify.com/album/3dHI35BTNzrvNAfmZyznmA"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "\u9806\u98a8\u6e80\u5e06",
+      "url": "https://open.spotify.com/track/7cYSocFWsJWv5RS0myvg0L"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "TRAIN-TRAIN",
         "url": "https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "\u9806\u98a8\u6e80\u5e06",
-        "url": "https://open.spotify.com/album/3dHI35BTNzrvNAfmZyznmA"
-      },
-      "artists": [
-        {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "\u9806\u98a8\u6e80\u5e06",
-      "url": "https://open.spotify.com/track/7cYSocFWsJWv5RS0myvg0L"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
         "name": "\u5927\u90fd\u4f1a\u306b\u544a\u3050",
         "url": "https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 88440,
       "name": "\u3053\u306e\u307e\u307e\u50d5\u3089\u304c\u5927\u4eba\u306b\u306a\u3063\u3066\u3082",
       "url": "https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
+        "name": "illuminate",
+        "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
+      },
+      "artists": [
+        {
+          "name": "SHADOWS",
+          "url": "https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "BEK",
+      "url": "https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1451,22 +1467,6 @@
       "duration_ms": 228296,
       "name": "\u3055\u3089\u3070\u9752\u6625\u306e\u5149 feat. \u30b6\u30fb\u68ee\u6771",
       "url": "https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "illuminate",
-        "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
-      },
-      "artists": [
-        {
-          "name": "SHADOWS",
-          "url": "https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "BEK",
-      "url": "https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
+        "name": "GOLD YOUTH",
+        "url": "https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe"
+      },
+      "artists": [
+        {
+          "name": "FUNNY THINK",
+          "url": "https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "GOLD YOUTH",
+      "url": "https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK"
+    },
+    {
+      "added_at": "2025-01-28 15:00:22",
+      "album": {
         "name": "Rest In Punk",
         "url": "https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
-    },
-    {
-      "added_at": "2025-01-28 15:00:22",
-      "album": {
-        "name": "GOLD YOUTH",
-        "url": "https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe"
-      },
-      "artists": [
-        {
-          "name": "FUNNY THINK",
-          "url": "https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "GOLD YOUTH",
-      "url": "https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK"
     },
     {
       "added_at": "2025-01-28 15:00:22",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2025-01-28 15:00:22",
       "album": {
-        "name": "RAIDEN GO",
-        "url": "https://open.spotify.com/album/5j3F1WvgLBwTYl6F51Nj8B"
+        "name": "Life is Full of Choices-Greatest Songs-",
+        "url": "https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT"
       },
       "artists": [
         {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+          "name": "SWANKY DANK",
+          "url": "https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt"
+        },
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5"
         }
       ],
-      "duration_ms": 128132,
-      "name": "RAIDEN GO",
-      "url": "https://open.spotify.com/track/1YaE5X1vpdDuG9Os6gknB6"
+      "duration_ms": 268826,
+      "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
+      "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
     }
   ],
   "unique_name": "Punk Japan",

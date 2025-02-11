@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 82857,
+  "num_followers": 82859,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAAPELGDMuisZ1TqcStFCnXt",
+  "snapshot_id": "Z6fwAAAAAAB724kcWsmTLTZFCUqaoY/W",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 183733,
       "name": "Es Complicado",
       "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
+      "duration_ms": 226000,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k"
+      "duration_ms": 214000,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
     },
     {
       "added_at": null,

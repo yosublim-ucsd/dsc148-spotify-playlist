@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 83728,
+  "num_followers": 83832,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACESduEbyblE91W1arxPuub",
+  "snapshot_id": "Z6fwAAAAAACq7qM3UVR8/bPMXMsrv5rv",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terri Clark: Take Two",
-        "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },
       "artists": [
-        {
-          "name": "Terri Clark",
-          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 195302,
-      "name": "Poor, Poor Pitiful Me",
-      "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+        "name": "Terri Clark: Take Two",
+        "url": "https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v"
       },
       "artists": [
+        {
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Tougher",
-      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+      "duration_ms": 195302,
+      "name": "Poor, Poor Pitiful Me",
+      "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
     },
     {
       "added_at": null,

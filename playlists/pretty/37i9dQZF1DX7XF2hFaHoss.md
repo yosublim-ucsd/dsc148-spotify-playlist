@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,048 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,041 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 43 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 | 44 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 45 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
-| 46 | [On Your Own Love Again](https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7) | 1:33 |
+| 46 | [Call My Name \- Acoustic](https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:17 |
 | 47 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
-| 48 | [Call My Name \- Acoustic](https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:17 |
+| 48 | [On Your Own Love Again](https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7) | 1:33 |
 | 49 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
 | 50 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 51 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: WizTheMc
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,846 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,848 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

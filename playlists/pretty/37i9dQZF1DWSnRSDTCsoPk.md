@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,727 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,893 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 17 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
 | 18 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 19 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
-| 20 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 |
-| 21 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
+| 20 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
+| 21 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 |
 | 22 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 23 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |
 | 24 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 45 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
 | 46 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 |
 | 47 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
-| 48 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 |
+| 48 | [You & Me](https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b) | 2:59 |
 | 49 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 |
-| 50 | [You & Me](https://open.spotify.com/track/6xXCn7H2Yl8SDD6jxo5SpN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/2Joq37Cjv3ZL7M2faHWe3b) | 2:59 |
+| 50 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 |
 | 51 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 |
 | 52 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
 | 53 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 76 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 77 | [Klaxon](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I SWAY](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) | 2:55 |
 | 78 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
-| 79 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
-| 80 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 |
+| 79 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 |
+| 80 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
 | 81 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 |
 | 82 | [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 |
 | 83 | [GOOD BOY](https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP) | [GD X TAEYANG](https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am) | [GOOD BOY](https://open.spotify.com/album/2rhq834A24z7ucY39moYdb) | 4:05 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 86 | [Fate](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:41 |
 | 87 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
 | 88 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 |
-| 89 | [TAP](https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 2:37 |
-| 90 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 89 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 90 | [TAP](https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 2:37 |
 | 91 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
 | 92 | [Pretty Savage](https://open.spotify.com/track/28tufPkTcXmdNqTvi9hsoG) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:19 |
 | 93 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 |

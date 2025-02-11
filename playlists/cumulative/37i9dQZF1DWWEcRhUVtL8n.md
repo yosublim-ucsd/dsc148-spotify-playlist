@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Biig Piig
 
-2,037 songs - 4 day 11 hr 46 min
+2,038 songs - 4 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-05-03 | 2022-04-20 |
 | [best u ever had <3](https://open.spotify.com/track/4hRZhP4YuDU44uv6SLodJ6) | [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [best u ever had <3](https://open.spotify.com/album/54OU5EKjpz9XjbnnzqJOg5) | 2:57 | 2021-07-19 | 2022-04-15 |
 | [bestfriends girl](https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [bestfriends girl](https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE) | 2:31 | 2023-06-09 | 2023-06-24 |
-| [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-09-13 |  |
+| [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-09-13 | 2025-02-11 |
 | [Besties Only](https://open.spotify.com/track/6ZIYgVQeQthFwBi3IcBdLE) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Besties Only](https://open.spotify.com/album/0BWZzqXrUcUD9yNcG6w5tD) | 3:34 | 2024-02-09 | 2024-02-28 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-03 | 2021-10-11 |
 | [Better](https://open.spotify.com/track/1tQrrq5hXEfS22tricqxlD) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Better](https://open.spotify.com/album/48VFHdF37YoHLh0p4hiovu) | 4:42 | 2020-11-13 | 2021-05-28 |
@@ -932,6 +932,7 @@
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2021-01-15 | 2021-03-02 |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-06-17 | 2022-12-07 |
 | [If Nobody Likes U](https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [If Nobody Likes U](https://open.spotify.com/album/1BjzbpWTiPQQchpat72gCH) | 3:33 | 2022-10-28 | 2022-11-12 |
+| [If Only With You](https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [If Only With You](https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ) | 3:14 | 2025-02-07 |  |
 | [If You Ever Leave, I'm Coming with You \- Roosevelt Remix](https://open.spotify.com/track/30k5z3e9VqlkfJuW4cYqvW) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [If You Ever Leave, I'm Coming with You \(Roosevelt Remix\)](https://open.spotify.com/album/08Y1kohczdii3C0YCiBQh5) | 3:30 | 2021-09-24 | 2022-07-29 |
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2020-10-20 | 2021-05-24 |
 | [IF YOU WANT IT](https://open.spotify.com/track/2ZZ0ITwRqitCvddi2CGfgq) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:07 | 2022-03-18 | 2022-04-20 |

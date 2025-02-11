@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-902 songs - 1 day 20 hr 38 min
+903 songs - 1 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2022-05-04 | 2022-05-06 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-01-18 | 2023-06-17 |
 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 | 2022-03-25 | 2022-04-19 |
-| [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-03-26 |  |
+| [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-03-26 | 2025-02-11 |
 | [Dancin \- Krono Remix](https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB) | [Ibiza 2019](https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj) | 4:16 | 2022-04-14 | 2023-12-16 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-03-18 | 2022-12-25 |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2023-03-20 | 2023-09-29 |
@@ -296,6 +296,7 @@
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-02-16 | 2024-08-06 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-21 |  |
 | [FUNCTIONING ALCOHOLIC](https://open.spotify.com/track/6vB0VGQhnd1Qvkmrt8kNmr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [FUNCTIONING ALCOHOLIC](https://open.spotify.com/album/4Hcfj9PreOzF6kIQMR9M5F) | 1:57 | 2023-06-30 | 2023-07-27 |
+| [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 | 2025-01-17 |  |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-03-22 |  |
 | [GANG GANG \(with Lil Wayne\)](https://open.spotify.com/track/4VW44pawoOHPUjlN7DX5vk) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [GANG GANG \(with Lil Wayne\)](https://open.spotify.com/album/6btRTjUy9a9qSSqgJ8a38S) | 2:58 | 2021-08-20 | 2022-03-19 |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2021-12-02 | 2022-01-12 |

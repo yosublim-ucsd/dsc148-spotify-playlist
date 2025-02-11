@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011,260 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,011,506 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 21 | [Don't Tread On Me](https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 4:00 |
 | 22 | [Blackened](https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:40 |
 | 23 | [Ride The Lightning \- Remastered](https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:36 |
-| 24 | [Whiplash \- Remastered](https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:08 |
-| 25 | [Lux Æterna](https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 3:21 |
+| 24 | [Lux Æterna](https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 3:21 |
+| 25 | [Whiplash \- Remastered](https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:08 |
 | 26 | [King Nothing](https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 5:29 |
 | 27 | [Welcome Home \(Sanitarium\) \- Remastered](https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Deluxe Box Set / Remastered\)](https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm) | 6:27 |
 | 28 | [I Disappear](https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [I Disappear](https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Jump In The Fire \- Remastered](https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:41 |
 | 50 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
 
-Snapshot ID: `Z6aegAAAAAAT/8QGP5HsV7IcjhgWr9SN`
+Snapshot ID: `Z6fwAAAAAACRC0kQZ5vxQNUYoac163Ch`

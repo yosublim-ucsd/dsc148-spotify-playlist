@@ -1,6 +1,6 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2724837,
+  "num_followers": 2724715,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Scared to Be Lonely",
         "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 220883,
       "name": "Scared to Be Lonely",
       "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
+    },
+    {
       "added_at": "2024-10-23 16:49:48",
       "album": {
         "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
@@ -887,22 +903,6 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
       "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1275,18 +1271,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2024-05-02 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,780 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,794 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 21 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
 | 22 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE) | 3:18 |
 | 23 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
-| 24 | [Tequila y Miel](https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB) | 3:31 |
-| 25 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 |
+| 24 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 |
+| 25 | [Tequila y Miel](https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB) | 3:31 |
 | 26 | [Malvada](https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Malvada](https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I) | 5:21 |
 | 27 | [Ya No Quiero Verte](https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ya No Quiero Verte](https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8) | 3:25 |
 | 28 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 50 | [Ladrón](https://open.spotify.com/track/275p97u74jV8pl7yODx3z0) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ladrón](https://open.spotify.com/album/5bSdirth1rYHmxVQ1CTEbr) | 3:33 |
 
-Snapshot ID: `Z6aegAAAAACrtALDLotA1TFVYQeNKluM`
+Snapshot ID: `Z6fwAAAAAABU4jgFZg54VkmPR0tTRPmi`

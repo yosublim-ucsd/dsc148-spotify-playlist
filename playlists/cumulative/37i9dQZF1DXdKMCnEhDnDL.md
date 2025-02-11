@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Roxy Dekker
 
-324 songs - 16 hr 46 min
+325 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Have Fun](https://open.spotify.com/track/0TMRAlLGfejAdDUZKtA3n6) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Have Fun](https://open.spotify.com/album/550zId70EEaGEsnQirUO11) | 2:41 | 2025-01-28 |  |
 | [Hee Joh Jip](https://open.spotify.com/track/5c5cD2VQJcc7VScwW6Ra4k) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Hee Joh Jip](https://open.spotify.com/album/2h9lK42gs4W4NM9EgLUbxI) | 3:00 | 2023-02-24 | 2024-02-14 |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-24 | 2023-06-15 |
-| [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 | 2023-09-01 |  |
+| [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 | 2023-09-01 | 2025-02-11 |
 | [Het Is Oké](https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Het Is Oké](https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu) | 2:34 | 2023-09-14 | 2023-12-22 |
 | [Het Is Voorbij](https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:23 | 2024-10-03 |  |
 | [Het Komt Wel Goed](https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Het Komt Wel Goed](https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H) | 3:55 | 2023-12-21 | 2024-02-14 |
@@ -295,6 +295,7 @@
 | [Vlammen](https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 3:51 | 2024-11-28 |  |
 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 | 2024-10-24 |  |
 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 | 2023-02-24 |  |
+| [voor alles bang](https://open.spotify.com/track/0lC1IUZXQ6ukTQfSVqCJa3) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:02 | 2025-02-10 |  |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-05-02 |  |
 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 | 2024-04-16 | 2024-11-22 |
 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 | 2023-02-24 | 2024-02-14 |

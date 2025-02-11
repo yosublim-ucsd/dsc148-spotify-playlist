@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепла музика в прохолодні дні ☕ ❄️🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,545 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,552 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 10 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 |
 | 11 | [моменти](https://open.spotify.com/track/3vWXpZ1xGI8gi14JunlmUc) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [моменти](https://open.spotify.com/album/2xBr5aCarnvgIpwANLekHC) | 3:24 |
 | 12 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove \(with MARO\)](https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9) | 3:34 |
-| 13 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
-| 14 | [Young Blood](https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq) | 3:38 |
+| 13 | [Young Blood](https://open.spotify.com/track/0HVnaML1M41ACk570JuGK8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/0U7AFwPDmrvgthIFj7DQWq) | 3:38 |
+| 14 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 | 15 | [Сніг](https://open.spotify.com/track/0XKdC9BEMZyzPodYOyrhfH) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Сніг](https://open.spotify.com/album/22aNgAsBDS5I1TTL1gXwCH) | 3:18 |
 | 16 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 |
 | 17 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 |
@@ -35,24 +35,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 25 | [Відлюбилося](https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF) | [Averin](https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx), [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Відлюбилося](https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw) | 2:33 |
 | 26 | [Бути простим](https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Бути простим](https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S) | 2:31 |
 | 27 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
-| 28 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
-| 29 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
+| 28 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
+| 29 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
 | 30 | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/track/4Co67jPlW5wF3vW5gye8cO) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi) | 3:51 |
 | 31 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 32 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 |
 | 33 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 |
 | 34 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 |
 | 35 | [Ти сонце я сніг](https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти сонце я сніг](https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM) | 3:53 |
-| 36 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
+| 36 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
 | 37 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
-| 38 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
+| 38 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 39 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 | 40 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
 | 41 | [любов сильніша](https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [любов сильніша](https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p) | 2:55 |
 | 42 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
 | 43 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
-| 44 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |
-| 45 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
+| 44 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
+| 45 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |
 | 46 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
 | 47 | [Тебе \- собі](https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тебе \- собі](https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r) | 2:02 |
 | 48 | [вальс під вибухи](https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [вальс під вибухи](https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw) | 3:30 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 53 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
 | 54 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
 | 55 | [Моя земля](https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI) | [Богдан Купер](https://open.spotify.com/artist/7oVQRtkKW1oTAe6m6yjW7K) | [Моя земля](https://open.spotify.com/album/2BLs5G4LBAleDOpWZwwfQu) | 2:46 |
-| 56 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 |
-| 57 | [Босі](https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Босі](https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU) | 2:24 |
-| 58 | [Не засну](https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Не засну](https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR) | 2:27 |
-| 59 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
+| 56 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
+| 57 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 |
+| 58 | [Босі](https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Босі](https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU) | 2:24 |
+| 59 | [Не засну](https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Не засну](https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR) | 2:27 |
 | 60 | [Циклон](https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Циклон](https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0) | 2:38 |
 
 Snapshot ID: `Z5ektwAAAACh5FrG+wI40qAkaMDz982D`

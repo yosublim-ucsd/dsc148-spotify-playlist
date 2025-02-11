@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Featuring Ede\. Artwork by Rewina Beshue
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,275 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,300 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

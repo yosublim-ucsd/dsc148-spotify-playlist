@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 352886,
+  "num_followers": 352928,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACkDoV6aphrG2Qr5iQYvhRU",
+  "snapshot_id": "Z6fwAAAAAADw7chmJ8OFV5SYdStK9LpA",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pensabas",
+        "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Pensabas",
+      "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -403,34 +431,6 @@
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensabas",
-        "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Pensabas",
-      "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chulx",
+        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Chulx",
+      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 194941,
       "name": "Sigo Enamorau'",
       "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papi Arca",
-        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 191655,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/02hz9U9L9TmnTLm4iFP7ub"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papi Arca",
+        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 191655,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/02hz9U9L9TmnTLm4iFP7ub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -823,6 +843,66 @@
       "duration_ms": 215745,
       "name": "77",
       "url": "https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/6VuCXhevMLsLMCrCPTVWWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 156295,
+      "name": "Caras Vemos",
+      "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
     },
     {
       "added_at": null,
@@ -855,42 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 156295,
-      "name": "Caras Vemos",
-      "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUMETEO (Remix)",
         "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
@@ -911,30 +955,6 @@
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/6VuCXhevMLsLMCrCPTVWWF"
     },
     {
       "added_at": null,
@@ -1011,26 +1031,6 @@
       "duration_ms": 164776,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chulx",
-        "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
-      },
-      "artists": [
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Chulx",
-      "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
     },
     {
       "added_at": null,

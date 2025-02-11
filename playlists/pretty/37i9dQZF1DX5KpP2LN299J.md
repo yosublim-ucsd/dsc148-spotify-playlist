@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145,246 likes - 179 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,145,603 likes - 179 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |
-| 2 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
-| 3 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 |
+| 2 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 |
+| 3 | [Look What You Made Me Do](https://open.spotify.com/track/5troof8mcGO3AafoDbk1gc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/4fW1sFeE43nuZlAw2xtmC3) | 3:31 |
 | 4 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 |
-| 5 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
-| 6 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 7 | [I Knew You Were Trouble \(Taylor's Version\)](https://open.spotify.com/track/6tNSmBKSjFV1366ASuULfZ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:39 |
-| 8 | [So High School](https://open.spotify.com/track/1GP8VW5Wk2w2obkWjGCGXd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/1d8W5sDOh6xY7y6UYp2rcg) | 3:48 |
-| 9 | [Look What You Made Me Do](https://open.spotify.com/track/5troof8mcGO3AafoDbk1gc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/4fW1sFeE43nuZlAw2xtmC3) | 3:31 |
+| 5 | [So High School](https://open.spotify.com/track/1GP8VW5Wk2w2obkWjGCGXd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/1d8W5sDOh6xY7y6UYp2rcg) | 3:48 |
+| 6 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 7 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
+| 8 | [I Knew You Were Trouble \(Taylor's Version\)](https://open.spotify.com/track/6tNSmBKSjFV1366ASuULfZ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:39 |
+| 9 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 10 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/4P7LVHDbzn7aI6wWRh5AHc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor’s Version\): The I Remember What You Said Last Night Chapter](https://open.spotify.com/album/0XCoR1j5Sa2su9uDS9AScR) | 3:51 |
 | 11 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 12 | [Bad Blood \(feat\. Kendrick Lamar\) \(Taylor's Version\)](https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:19 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KpP2LN299J.md) - [plain]
 | 178 | [Bye Bye Baby \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:02 |
 | 179 | [closure](https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:00 |
 
-Snapshot ID: `Z24AngAAAACcMmDn8+9uiXjLJ9mSpdzP`
+Snapshot ID: `Z6p5+gAAAAAcE9/lBpZfIw7fBAskTfch`

@@ -4,7 +4,7 @@
 
 > Stormy f la cover dial akbar playlist dial rap maghribi.
 
-361 songs - 19 hr 13 min
+362 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-01-03 | 2024-07-13 |
 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 | 2023-08-30 | 2024-06-19 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 | 2023-12-16 |
+| [GALÈRE](https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [GALÈRE](https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd) | 3:17 | 2025-02-10 |  |
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |
 | [Gelato](https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Gelato](https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo) | 2:58 | 2024-12-19 |  |
 | [GHALTAN](https://open.spotify.com/track/7lBNVJiEh3YTyGNsgFR5dy) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [GHALTAN](https://open.spotify.com/album/5QnlDrWrr0MWV9N2qnpyT4) | 2:44 | 2024-05-25 | 2024-09-14 |
@@ -279,7 +280,7 @@
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
 | [Sality Wla Ba91](https://open.spotify.com/track/6qEennteH7K9g4Lw1sb9Hn) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Sality Wla Ba91](https://open.spotify.com/album/15pDNMHadZGbwQBwev9SwP) | 3:09 | 2024-10-02 | 2024-10-23 |
 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 | 2024-04-26 | 2024-10-03 |
-| [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-10-02 |  |
+| [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-10-02 | 2025-02-11 |
 | [Sentiment](https://open.spotify.com/track/4Z1yWm77qsMwDmbbPqycFP) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Sentiment](https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd) | 3:12 | 2023-02-26 | 2023-06-02 |
 | [Sherine Freestyle](https://open.spotify.com/track/4WqVVQdQJRFScttAyDsxiq) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Bridge Life](https://open.spotify.com/album/5kzfldQGBcvYgzuWLZNH2N) | 2:44 | 2025-01-14 |  |
 | [Shlag](https://open.spotify.com/track/5FyeA0EnhjpTT850pGeOUq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 2:59 | 2024-12-29 |  |

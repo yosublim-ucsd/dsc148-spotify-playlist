@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Rascal Flatts & The Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,723 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,781 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,11 +91,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 81 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 |
 | 82 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 83 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
-| 84 | [Plot Twist](https://open.spotify.com/track/25fIiL4WV2XKkuADOot9sA) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Play Responsibly](https://open.spotify.com/album/5NZwNMoH9QxJr6g7f090Ia) | 3:01 |
-| 85 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
+| 84 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
+| 85 | [Plot Twist](https://open.spotify.com/track/25fIiL4WV2XKkuADOot9sA) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Play Responsibly](https://open.spotify.com/album/5NZwNMoH9QxJr6g7f090Ia) | 3:01 |
 | 86 | [Guess We'll Never Know \(feat\. Colbie Caillat\)](https://open.spotify.com/track/2R294ks6upD1fBEVidGnNH) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [The 3rd](https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N) | 3:19 |
-| 87 | [California Rain](https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [California Rain](https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh) | 3:35 |
-| 88 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
+| 87 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
+| 88 | [California Rain](https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [California Rain](https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh) | 3:35 |
 | 89 | [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 |
 | 90 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 |
 | 91 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 |

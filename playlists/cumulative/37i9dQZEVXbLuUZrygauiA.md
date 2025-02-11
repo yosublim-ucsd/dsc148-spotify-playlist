@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,630 songs - 5 day 22 hr 51 min
+2,631 songs - 5 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Convéncete](https://open.spotify.com/track/5UyH584f99c7qErZifyaHy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Convéncete](https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP) | 3:36 | 2023-12-03 | 2023-12-31 |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-03-25 | 2022-04-10 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-01-07 | 2025-01-22 |
-| [Coqueta](https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Coqueta](https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm) | 3:55 | 2025-01-05 |  |
+| [Coqueta](https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Coqueta](https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm) | 3:55 | 2025-01-05 | 2025-02-11 |
 | [Coqueta \- Remix](https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Coqueta \(Remix\)](https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs) | 3:46 | 2025-01-01 |  |
 | [CORA DE HIELO](https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q) | [CORA DE HIELO](https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5) | 2:44 | 2024-10-12 | 2024-11-20 |
 | [CORA DE HIELO](https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q) | [CORA DE HIELO](https://open.spotify.com/album/2ktxw6j04fB9NmqOv5ck0z) | 2:44 | 2024-12-24 | 2025-01-13 |
@@ -1693,6 +1693,7 @@
 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-18 | 2024-09-15 |
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-06-11 | 2023-06-15 |
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-22 | 2022-02-25 |
+| [Otra Vez](https://open.spotify.com/track/1aItRmef9tVb6aUICU37AX) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Cuando Fuimos Felices](https://open.spotify.com/album/4mrI3jYN5lu8qFIDnevkDw) | 3:50 | 2025-02-10 |  |
 | [Otra Vez](https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Otra Vez](https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE) | 4:00 | 2024-11-26 | 2024-12-04 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-31 | 2022-08-11 |
 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2023-09-26 | 2023-12-06 |

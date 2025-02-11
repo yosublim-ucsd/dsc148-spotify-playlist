@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Aynur Aydın x Yasir Miy
 
-210 songs - 10 hr 26 min
+211 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 | 2024-12-22 |
 | [Bizden Olmaz](https://open.spotify.com/track/0xdFiVaZwbkJlar6bHjCAF) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Bizden Olmaz](https://open.spotify.com/album/65Jp9aA1HSGAzttr8Xayj6) | 2:17 | 2024-09-05 | 2024-10-14 |
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 | 2024-11-29 |
-| [Bu Aşk](https://open.spotify.com/track/04IZuGEpJ6u1CZfwzGnGtj) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşk](https://open.spotify.com/album/42LQvEF6eV6CPVQDuy9t5V) | 2:21 | 2025-01-23 |  |
+| [Bu Aşk](https://open.spotify.com/track/04IZuGEpJ6u1CZfwzGnGtj) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşk](https://open.spotify.com/album/42LQvEF6eV6CPVQDuy9t5V) | 2:21 | 2025-01-23 | 2025-02-11 |
 | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/track/3X9TAWJhrQtpQHqDoCLv76) | [Rober Hatemo](https://open.spotify.com/artist/3aYxHPDvu8SETLVJBEUqld), [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/album/7BgY2YD3RX33jCY6LYqWD4) | 3:05 | 2024-12-19 | 2025-01-14 |
 | [Bu Ne Bela](https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Bu Ne Bela](https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT) | 2:35 | 2025-01-23 | 2025-02-10 |
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-10-25 |
@@ -140,6 +140,7 @@
 | [Mevzu Derin](https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Mevzu Derin](https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV) | 2:55 | 2024-10-24 | 2024-12-12 |
 | [Müdavim](https://open.spotify.com/track/53VNTMgC3ERPW8k4rgXYE4) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Müdavim](https://open.spotify.com/album/1nnTqKDTO9fQjkFyzxnv5j) | 3:34 | 2024-11-28 | 2024-12-04 |
 | [Müptelanım Bilgine](https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Müptelanım Bilgine](https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka) | 3:44 | 2024-11-28 | 2025-01-11 |
+| [N'olur Anla](https://open.spotify.com/track/6qqJLxM3RLQvdINY39LFlr) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [N'olur Anla](https://open.spotify.com/album/6CEmCMIgMRC8xpscUgE8if) | 3:40 | 2025-02-06 |  |
 | [Nadide](https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Nadide](https://open.spotify.com/album/3j5e1mWKw37259eLdXPJYh) | 2:49 | 2024-07-04 | 2024-08-16 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
 | [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 |  |

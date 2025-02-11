@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "A Veces A Besos (Remix)",
+        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "A Veces A Besos - Remix",
+      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
+    },
+    {
+      "album": {
         "name": "Abajito",
         "url": "https://open.spotify.com/album/3sANLBZnUFkmGCe2FV2QLY"
       },
@@ -284,7 +306,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 236448,
       "name": "Amarte Tanto",
       "url": "https://open.spotify.com/track/0cnb2iNrenKOGosJzKKE1p"
@@ -530,7 +552,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 180000,
       "name": "B\u00e9same Bonito (Micro TDH Remix)",
       "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
@@ -708,7 +730,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 176807,
       "name": "Carta de Amor",
       "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
@@ -748,7 +770,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 244245,
       "name": "Cielo Eterno - Spotify Singles",
       "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
@@ -792,6 +814,28 @@
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/2P58XhyNkacK1LHSCk5O2t"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Committed",
+      "url": "https://open.spotify.com/track/7xdRj1wA4XzYnXynPmtmnq"
     },
     {
       "album": {
@@ -908,7 +952,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -1086,7 +1130,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
@@ -1206,7 +1250,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
@@ -1640,7 +1684,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
@@ -2294,7 +2338,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 132788,
       "name": "La Que Yo Amo",
       "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
@@ -2316,10 +2360,32 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 175840,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn"
+    },
+    {
+      "album": {
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "album": {
@@ -2686,7 +2752,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 123406,
       "name": "Me gustas full",
       "url": "https://open.spotify.com/track/6TSnaLOkFpatPdVXFCUjFT"
@@ -2730,6 +2796,28 @@
       "duration_ms": 188893,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "me late",
+      "url": "https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K"
     },
     {
       "album": {
@@ -2922,6 +3010,28 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "album": {
+        "name": "Mi Refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Mi Refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
       "album": {
@@ -3162,7 +3272,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
@@ -3318,7 +3428,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 225599,
       "name": "No Tengo Nada",
       "url": "https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n"
@@ -3445,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "Otro Atardecer",
+      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
       },
@@ -3518,7 +3650,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 155406,
       "name": "Paraca\u00eddas",
       "url": "https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao"
@@ -3700,7 +3832,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 188220,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/4tedENnmJQTVp64e8XGUCm"
@@ -3824,7 +3956,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 171280,
       "name": "Querer Mejor",
       "url": "https://open.spotify.com/track/5Yp4UtIwEHfHXEowSan061"
@@ -4024,6 +4156,24 @@
       "duration_ms": 207179,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/1JZ7KB7UgswWPrcKM6R9pO"
+    },
+    {
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/612fj3QrB4483OomTwgmnH"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "SE BUSCA",
+      "url": "https://open.spotify.com/track/34ouHKuJQERGLd7aeg2QO7"
     },
     {
       "album": {
@@ -4242,7 +4392,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 204454,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
@@ -4514,7 +4664,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 289866,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
@@ -4731,6 +4881,28 @@
     },
     {
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "J Abecia",
+          "url": "https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147451,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
+    },
+    {
+      "album": {
         "name": "Te Vuelvo A Besar",
         "url": "https://open.spotify.com/album/0fbqOGQoGNx3568GZD698o"
       },
@@ -4851,6 +5023,32 @@
     },
     {
       "album": {
+        "name": "Tiroteo (Remix)",
+        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321555,
+      "name": "Tiroteo - Remix",
+      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
       },
@@ -4862,7 +5060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
@@ -4924,7 +5122,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
@@ -5083,6 +5281,28 @@
     },
     {
       "album": {
+        "name": "Un Beso Menos",
+        "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220702,
+      "name": "Un Beso Menos",
+      "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
+    },
+    {
+      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -5188,6 +5408,24 @@
       "duration_ms": 224066,
       "name": "Underneath Your Clothes",
       "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
+    },
+    {
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "album": {
@@ -5420,7 +5658,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 231796,
       "name": "yo tuya, t\u00fa m\u00edo",
       "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"

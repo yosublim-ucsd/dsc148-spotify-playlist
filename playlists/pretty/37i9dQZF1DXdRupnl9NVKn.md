@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,187 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,242 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

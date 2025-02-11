@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,572 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,579 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 36 | [気まぐれロマンティック \- Cover](https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 37 | [新しい季節に](https://open.spotify.com/track/0a8N9Mf1zsfNTGFMpTZFlD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/2SzMaaGrYJUaEMsuDdDi7U) | 3:31 |
 | 38 | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミを れっつ・はぶ・ふぁん♪](https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH) | 3:55 |
-| 39 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 |
+| 39 | [Floral Haven](https://open.spotify.com/track/25CbX0dHAeQq8HUwSSLyfC) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:41 |
 | 40 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 41 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 |
 | 42 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 70 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |
 | 71 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
 | 72 | [端程山](https://open.spotify.com/track/2nnjzOHmlZnQ7RW8ZcjiuJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 4:20 |
-| 73 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 |
-| 74 | [Floral Haven](https://open.spotify.com/track/25CbX0dHAeQq8HUwSSLyfC) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:41 |
-| 75 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
+| 73 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 |
+| 74 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
+| 75 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 |
 
 Snapshot ID: `Z31BlQAAAAD2k/IehE47kdsO/3T9mHqK`

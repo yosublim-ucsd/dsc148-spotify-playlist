@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Dominic Fike & JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,823,123 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,823,073 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 10 | [Stephanie](https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk) | 2:06 |
 | 11 | [Won't Be Long](https://open.spotify.com/track/7FUhfnNPBB7xZUAougxPUJ) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Won't Be Long](https://open.spotify.com/album/5DcTe15NEkFhVrX171TYuU) | 2:41 |
 | 12 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 |
-| 13 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 |
+| 13 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 14 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 |
 | 15 | [Dive In](https://open.spotify.com/track/1VUhLrBErkwHoS0vGEfpzm) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Dive In](https://open.spotify.com/album/6dcwju1Kh5LlhyhlUoyWNd) | 2:19 |
 | 16 | [BUTTERFLY EFFECT](https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 100 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
 
-Snapshot ID: `Z6WTaAAAAACaeat3xV+orK4+yFRO+EbS`
+Snapshot ID: `Z6pMWQAAAACPKqt9A7yxU3Z+oGq8lxla`

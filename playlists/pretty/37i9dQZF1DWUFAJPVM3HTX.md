@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q"> Kennedy Ryon</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,307 likes - 155 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,357 likes - 155 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

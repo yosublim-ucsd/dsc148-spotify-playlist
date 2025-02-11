@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-436 songs - 23 hr 23 min
+437 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-02-11 | 2023-05-26 |
 | [Maalabalich](https://open.spotify.com/track/6O7AbZ5y4dJY2BUspC9jRe) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Maalabalich](https://open.spotify.com/album/6yXcj13AGTgEeDzfJp6BRh) | 3:10 | 2024-08-28 | 2024-10-22 |
 | [Mab9itich Chérie](https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mab9itich Chérie](https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR) | 4:05 | 2025-01-01 |  |
-| [Machi Bedala](https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Machi Bedala](https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60) | 3:44 | 2024-09-01 |  |
+| [Machi Bedala](https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Machi Bedala](https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60) | 3:44 | 2024-09-01 | 2025-02-11 |
 | [MACHI SAHEL \(feat\. Tagne\)](https://open.spotify.com/track/1svrReBKFrNhVMjlT9NOT5) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:25 | 2024-10-22 | 2024-12-13 |
 | [Madama](https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Madama](https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m) | 2:23 | 2024-02-07 | 2024-08-29 |
 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 | 2024-05-22 |  |
@@ -365,6 +365,7 @@
 | [Sid Lghram](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Sid Lghram](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2022-12-25 | 2023-02-22 |
 | [Sidi Moulay](https://open.spotify.com/track/4c9jl25zLUam4QYE2DaOYd) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Sidi Moulay](https://open.spotify.com/album/1tLltIgWzoTlkG51BTOJrL) | 3:21 | 2021-12-25 | 2022-01-14 |
 | [Skati](https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Skati](https://open.spotify.com/album/5KDd8Sv0z9yKzEvfNSh8am) | 4:12 | 2023-04-17 | 2024-01-04 |
+| [Slahi](https://open.spotify.com/track/6lZFFlcjp7inSNs7j5GVp2) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Slahi](https://open.spotify.com/album/6OVVUX1DvBtnsMtCF0UvqB) | 3:15 | 2025-02-10 |  |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2022-03-23 | 2022-07-14 |
 | [Sobri](https://open.spotify.com/track/3J6d3h5gnxP0PxnzWhJuGy) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Sobri](https://open.spotify.com/album/15S3x4PY3e43R5QdxzehKB) | 2:39 | 2024-08-28 | 2024-10-11 |
 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 | 2024-02-17 | 2024-08-29 |

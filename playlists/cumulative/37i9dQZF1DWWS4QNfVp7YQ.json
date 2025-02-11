@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 300522,
       "name": "Kombat",
       "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
@@ -1198,6 +1198,32 @@
       "duration_ms": 140720,
       "name": "Pompi Cadera",
       "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+    },
+    {
+      "album": {
+        "name": "Nalga Bass",
+        "url": "https://open.spotify.com/album/2Gn3gyqQqTUfsMITUljv6e"
+      },
+      "artists": [
+        {
+          "name": "Chico Sonido",
+          "url": "https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS"
+        },
+        {
+          "name": "Erick Rinc\u00f3n",
+          "url": "https://open.spotify.com/artist/2JqCXO2jqKZvw1SeX393LY"
+        },
+        {
+          "name": "Miss Sound",
+          "url": "https://open.spotify.com/artist/4xhusodSTta5v3WZRt4RuS"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194063,
+      "name": "Pr\u00e9ndelo",
+      "url": "https://open.spotify.com/track/54ztKHl4Hv6jSmTeaqJdEU"
     },
     {
       "album": {

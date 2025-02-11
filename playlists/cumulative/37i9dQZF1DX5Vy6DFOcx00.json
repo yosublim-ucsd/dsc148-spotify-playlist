@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 215064,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2"
@@ -3572,6 +3572,24 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "Blow The Whistle",
+        "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Blow the Whistle",
+      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
     },
     {
       "album": {
@@ -9628,7 +9646,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -11472,7 +11490,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
@@ -15410,6 +15428,24 @@
       "duration_ms": 247600,
       "name": "Love Is A Long Road",
       "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
+    },
+    {
+      "album": {
+        "name": "LOVE LOOKS PRETTY ON YOU",
+        "url": "https://open.spotify.com/album/1pSTx7qVqjTypzJFZyEUxr"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "LOVE LOOKS PRETTY ON YOU",
+      "url": "https://open.spotify.com/track/5S48exJMllV1UZfluzUpbp"
     },
     {
       "album": {
@@ -27022,7 +27058,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 189544,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"

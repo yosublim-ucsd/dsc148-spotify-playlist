@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 262794,
+  "num_followers": 262733,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Another Sappy Xmas Love Song",
-        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 144654,
-      "name": "Another Sappy Xmas Love Song",
-      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
         "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 222560,
       "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
       "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Another Sappy Xmas Love Song",
+        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Another Sappy Xmas Love Song",
+      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -1107,22 +1091,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 95760,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Christmas (live from a restaurant in downtown Los Angeles)",
         "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 95760,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Purple Snowflakes / This Wintertime",
         "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 253066,
       "name": "This Wintertime",
       "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     }
   ],
   "unique_name": "Indie Christmas",

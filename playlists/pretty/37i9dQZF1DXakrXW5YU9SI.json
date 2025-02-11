@@ -1,6 +1,6 @@
 {
   "description": "W oczekiwaniu na wiosn\u0119, daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 334897,
+  "num_followers": 334872,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-02-07 09:30:29",
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2025-02-07 09:30:29",
+      "album": {
         "name": "Wynalazek Filipa Golarza",
         "url": "https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 228000,
       "name": "Wynalazek Filipa Golarza",
       "url": "https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG"
-    },
-    {
-      "added_at": "2025-02-07 09:30:29",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "added_at": "2025-02-07 09:30:29",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-02-07 09:30:29",
       "album": {
-        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
-    },
-    {
-      "added_at": "2025-02-07 09:30:29",
-      "album": {
         "name": "Latawce",
         "url": "https://open.spotify.com/album/7c8U6QYolAJGd58eCMd0k3"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2025-02-07 09:30:29",
       "album": {
-        "name": "Orlando in Love",
-        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
+        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Orlando in Love",
-      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
+      "duration_ms": 182173,
+      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
     },
     {
       "added_at": "2025-02-07 09:30:29",
@@ -667,18 +651,18 @@
     {
       "added_at": "2025-02-07 09:30:29",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+        "name": "Orlando in Love",
+        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
+      "duration_ms": 145093,
+      "name": "Orlando in Love",
+      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
     },
     {
       "added_at": "2025-02-07 09:30:29",
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-02-07 09:30:29",
       "album": {
-        "name": "PLAYHOUSE",
-        "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },
       "artists": [
         {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 191346,
-      "name": "SALTY",
-      "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2025-02-07 09:30:29",
@@ -727,6 +711,22 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2025-02-07 09:30:29",
+      "album": {
+        "name": "PLAYHOUSE",
+        "url": "https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "SALTY",
+      "url": "https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ"
     },
     {
       "added_at": "2025-02-07 09:30:29",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-02-07 09:30:29",
       "album": {
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Mleczna droga",
+      "url": "https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB"
+    },
+    {
+      "added_at": "2025-02-07 09:30:29",
+      "album": {
         "name": "Colourblind (feat. Loyle Carner)",
         "url": "https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 235684,
       "name": "Colourblind (feat. Loyle Carner)",
       "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
-    },
-    {
-      "added_at": "2025-02-07 09:30:29",
-      "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Mleczna droga",
-      "url": "https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB"
     },
     {
       "added_at": "2025-02-07 09:30:29",

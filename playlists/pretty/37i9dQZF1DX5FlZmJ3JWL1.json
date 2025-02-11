@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 774617,
+  "num_followers": 774659,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
-        "name": "All of the Lights",
-        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
       },
       "artists": [
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 120000,
-      "name": "All of the Lights",
-      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
+      "duration_ms": 155070,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -451,18 +447,22 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
+        "name": "All of the Lights",
+        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
         }
       ],
-      "duration_ms": 155070,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
+      "duration_ms": 120000,
+      "name": "All of the Lights",
+      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -547,6 +547,26 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "duration_ms": 158161,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
       },
@@ -803,18 +819,22 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
+        "name": "She The Last One",
+        "url": "https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ"
       },
       "artists": [
         {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 158161,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
+      "duration_ms": 202204,
+      "name": "She The Last One",
+      "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -835,26 +855,6 @@
       "duration_ms": 175856,
       "name": "More Baby",
       "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
-        "name": "She The Last One",
-        "url": "https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "She The Last One",
-      "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
     },
     {
       "added_at": "2025-02-05 18:41:55",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-02-05 18:41:55",
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2025-02-05 18:41:55",
+      "album": {
         "name": "Sound of da Police (with DES3ETT)",
         "url": "https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 127200,
       "name": "Sound of da Police (with DES3ETT)",
       "url": "https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ"
-    },
-    {
-      "added_at": "2025-02-05 18:41:55",
-      "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2025-02-05 18:41:55",

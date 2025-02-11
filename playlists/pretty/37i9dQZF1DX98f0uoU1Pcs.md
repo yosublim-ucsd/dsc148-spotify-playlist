@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a unique mix of rock, punk, alt & indie\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,865 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,894 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 59 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 | 60 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 |
 | 61 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
-| 62 | [We Make Hits](https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [We Make Hits](https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v) | 3:02 |
-| 63 | [I Saw Another Bird](https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [I Saw Another Bird](https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X) | 2:12 |
-| 64 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
-| 65 | [Cleopatras](https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Cleopatras](https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N) | 3:38 |
+| 62 | [I Saw Another Bird](https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [I Saw Another Bird](https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X) | 2:12 |
+| 63 | [We Make Hits](https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [We Make Hits](https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v) | 3:02 |
+| 64 | [Cleopatras](https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Cleopatras](https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N) | 3:38 |
+| 65 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
 | 66 | [Snow Angel](https://open.spotify.com/track/3pLNigogHJEzbFqldwdwPK) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Snow Angel](https://open.spotify.com/album/1lNCRuJXcpk5NPtHQWPF7f) | 3:08 |
 | 67 | [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 |
 | 68 | [Birthday Song](https://open.spotify.com/track/4447tbia1NdEojI4JsxCRX) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [Birthday Song](https://open.spotify.com/album/7ipV6YkeGj8xl8dufnslLZ) | 3:31 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 79 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 80 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 |
 | 81 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 |
-| 82 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
-| 83 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
+| 82 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
+| 83 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
 | 84 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
 | 85 | [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 |
 | 86 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
 | 87 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
-| 88 | [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 |
-| 89 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
+| 88 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
+| 89 | [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 |
 | 90 | [Big Dogs](https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Big Dogs](https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX) | 5:31 |
 | 91 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 | 92 | [Big Air](https://open.spotify.com/track/6iwhvpSBLm0xBWxd0Vgmjg) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/5jSK4jeCpxMxhuySk8EOBI) | 3:26 |

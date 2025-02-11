@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
@@ -5482,7 +5482,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 192053,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS"
@@ -6034,7 +6034,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 165178,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -6751,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "Hijo En La Disco 2",
+        "url": "https://open.spotify.com/album/0EEDXynsm5ARIeFjXsIdmA"
+      },
+      "artists": [
+        {
+          "name": "J-King y Maximan",
+          "url": "https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198052,
+      "name": "Hijo En La Disco 2",
+      "url": "https://open.spotify.com/track/66lMdZ6IQsCbqTo9aV80M5"
+    },
+    {
+      "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
@@ -7436,7 +7454,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -11298,7 +11316,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 141115,
       "name": "Nos Duele Tanto",
       "url": "https://open.spotify.com/track/5Qpe34hyuUgb83zeNk3q5u"
@@ -16832,7 +16850,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 301441,
       "name": "T\u00fa Con El",
       "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"

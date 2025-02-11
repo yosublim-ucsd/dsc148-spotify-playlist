@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,662 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,715 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 21 | [I Believe In Love Again](https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:56 |
 | 22 | [Thinking Of You](https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 6:24 |
 | 23 | [Where Are We Runnin'?](https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:41 |
-| 24 | [Something Beautiful](https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Backatown](https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a) | 3:41 |
-| 25 | [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 |
+| 24 | [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 |
+| 25 | [Something Beautiful](https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Backatown](https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a) | 3:41 |
 | 26 | [Paralyzed](https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:28 |
 | 27 | [If You Can't Say No](https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 5:17 |
 | 28 | [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [I'm a Believer](https://open.spotify.com/track/2NBAFaRMHIXArp5MTQPGg9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 3:16 |
 | 50 | [Here to Love](https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:42 |
 
-Snapshot ID: `Z6aegAAAAADVKnSkqSfhaN2RKcMcj5LF`
+Snapshot ID: `Z6fwAAAAAABpjzWgBZDjtDsOHy12Mqaf`

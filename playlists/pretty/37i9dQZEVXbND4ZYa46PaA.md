@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,545 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 10 | [SOIS PAS TIMIDE](https://open.spotify.com/track/0yyFAbTlOk7DFhh6RSug9S) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 2:45 |
 | 11 | [Bad Dreams](https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:04 |
 | 12 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
-| 13 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
+| 13 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
 | 14 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 15 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
 | 16 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7) | 2:18 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 23 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
 | 24 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 25 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 26 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
+| 26 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 |
 | 27 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 |
 | 28 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 29 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
 | 50 | [Het Midden](https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Het Midden](https://open.spotify.com/album/1eYh1llwQaIEZz3EowQFGS) | 2:41 |
 
-Snapshot ID: `LzwXyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lz1pSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

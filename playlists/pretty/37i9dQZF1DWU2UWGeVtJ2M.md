@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,989 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,017 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 54 | [Take A Sip](https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg) | [Take A Sip](https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG) | 2:57 |
 | 55 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 |
 | 56 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
-| 57 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
-| 58 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
+| 57 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
+| 58 | [at least i look cool](https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [at least i look cool](https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB) | 2:51 |
 | 59 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
 | 60 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 61 | [Distractions](https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:16 |
@@ -95,14 +95,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 85 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
 | 86 | [ELEVATED LOVE](https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw) | [KAMOBii](https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1) | [ELEVATED LOVE](https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP) | 3:28 |
 | 87 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 |
-| 88 | [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 |
-| 89 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
-| 90 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 |
-| 91 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
+| 88 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
+| 89 | [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 |
+| 90 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
+| 91 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 |
 | 92 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 | 93 | [Easy \(feat\. 6LACK\)](https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Easy \(feat\. 6LACK\)](https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb) | 3:24 |
-| 94 | [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 |
-| 95 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 |
+| 94 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 |
+| 95 | [Moments Like These](https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO) | [Beauty's Confusion](https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi) | [Breathe In](https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND) | 4:54 |
 | 96 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 97 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 98 | [God Must Be Doing Cocaine](https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [God Must Be Doing Cocaine](https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7) | 3:14 |

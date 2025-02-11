@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92737,
+  "num_followers": 92739,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "After All The Bars Are Closed",
         "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -375,18 +375,22 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         }
       ],
-      "duration_ms": 117000,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+      "duration_ms": 155616,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -407,22 +411,18 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 155616,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 212163,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 210687,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 212163,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
@@ -975,8 +975,8 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Zoe",
-        "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
+        "name": "Hver Gang Vi M\u00f8tes 2025",
+        "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
       },
       "artists": [
         {
@@ -988,9 +988,25 @@
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 191379,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
+      "duration_ms": 180677,
+      "name": "Mamma sa",
+      "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1059,18 +1075,38 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
         }
       ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+      "duration_ms": 200655,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Zoe",
+        "url": "https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1087,22 +1123,6 @@
       "duration_ms": 172838,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1155,26 +1175,6 @@
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Hver Gang Vi M\u00f8tes 2025",
-        "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 180677,
-      "name": "Mamma sa",
-      "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Ge En Sol",
-        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Ge En Sol",
-      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 213905,
       "name": "Will You Run Away With Me",
       "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Ge En Sol",
+        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Ge En Sol",
+      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
     },
     {
       "added_at": "2025-02-06 23:00:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,904 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,925 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 32 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 33 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 34 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
-| 35 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 36 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
+| 35 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
+| 36 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 37 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 38 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 39 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 46 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
 | 47 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 48 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
-| 49 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
-| 50 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
-| 51 | [Mabel](https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Mabel](https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn) | 2:40 |
-| 52 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
+| 49 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
+| 50 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
+| 51 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
+| 52 | [Mabel](https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Mabel](https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn) | 2:40 |
 | 53 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
 | 54 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 55 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |

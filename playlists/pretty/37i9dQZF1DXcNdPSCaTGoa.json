@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 20 years of <a href=\"https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz-5Qg9RJSvtysyXHAJxw\">Zamajobe's</a> phenomenal \"Ndawo Yami\".",
-  "num_followers": 80195,
+  "num_followers": 80273,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,38 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Ngeke Ndiphinde",
+      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Ndawo Yami",
+        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+      },
+      "artists": [
+        {
+          "name": "Zamajobe",
+          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Hey, Hey, Hey",
+      "url": "https://open.spotify.com/track/3kxNpZmC8x1fFcBjz1Pv7Z"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
@@ -83,38 +115,6 @@
       "duration_ms": 258105,
       "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "Ndawo Yami",
-        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
-      },
-      "artists": [
-        {
-          "name": "Zamajobe",
-          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Hey, Hey, Hey",
-      "url": "https://open.spotify.com/track/3kxNpZmC8x1fFcBjz1Pv7Z"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Brothers",
-          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Ngeke Ndiphinde",
-      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 229586,
       "name": "Kaptein",
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "Nkalakatha",
-        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
-      },
-      "artists": [
-        {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Nkalakatha",
-      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -291,6 +275,22 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
+        "name": "Nkalakatha",
+        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+      },
+      "artists": [
+        {
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Nkalakatha",
+      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
         "name": "M'du Or Die",
         "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
@@ -303,26 +303,6 @@
       "duration_ms": 336666,
       "name": "Siya Jola (Ok'Salayo)",
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
-        "name": "Sound Revival",
-        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
-      },
-      "artists": [
-        {
-          "name": "DJ Sbu",
-          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
-        }
-      ],
-      "duration_ms": 436960,
-      "name": "Lengoma",
-      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -371,6 +351,26 @@
       "duration_ms": 265773,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "Sound Revival",
+        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
+      },
+      "artists": [
+        {
+          "name": "DJ Sbu",
+          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
+        }
+      ],
+      "duration_ms": 436960,
+      "name": "Lengoma",
+      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
       "added_at": "2024-11-12 12:17:09",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-12 12:17:09",
       "album": {
-        "name": "House Player",
-        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
-      },
-      "artists": [
-        {
-          "name": "DJ Mbuso",
-          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
-        }
-      ],
-      "duration_ms": 370906,
-      "name": "Mbuso's Revenge",
-      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
-    },
-    {
-      "added_at": "2024-11-12 12:17:09",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 314772,
       "name": "Free",
       "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
+    },
+    {
+      "added_at": "2024-11-12 12:17:09",
+      "album": {
+        "name": "House Player",
+        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
+      },
+      "artists": [
+        {
+          "name": "DJ Mbuso",
+          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
+        }
+      ],
+      "duration_ms": 370906,
+      "name": "Mbuso's Revenge",
+      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
     },
     {
       "added_at": "2024-11-12 12:17:09",

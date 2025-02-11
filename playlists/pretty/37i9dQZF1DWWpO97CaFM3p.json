@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1020860,
+  "num_followers": 1020876,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "We'll Never Have Sex",
-        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 99620,
-      "name": "We'll Never Have Sex",
-      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "We'll Never Have Sex",
+        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 99620,
+      "name": "We'll Never Have Sex",
+      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "She Wants To Go Dancing",
         "url": "https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO"
       },
@@ -835,34 +835,34 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
       },
       "artists": [
         {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Tear It All Apart",
-        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
         }
       ],
-      "duration_ms": 186342,
-      "name": "Tear It All Apart",
-      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Sierra Vista",
         "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 155000,
       "name": "Sierra Vista",
       "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Overtime (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Apple Tree Blues",
-        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Apple Tree Blues",
-      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Apple Tree Blues",
+        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Apple Tree Blues",
+      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "Drugstore Houses",
+        "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Drugstore Houses",
+      "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 240000,
       "name": "Feel - with Kyson",
       "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "Drugstore Houses",
-        "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Drugstore Houses",
-      "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Lightning Of July",
-        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Lightning Of July",
-      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
     },
     {
       "added_at": "2025-01-10 05:00:40",

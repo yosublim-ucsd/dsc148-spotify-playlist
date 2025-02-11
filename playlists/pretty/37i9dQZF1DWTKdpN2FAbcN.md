@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 
 > When you're thinking of the one who gives you the butterflies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,502 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,618 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 16 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 17 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 18 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
-| 19 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
-| 20 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
+| 19 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
+| 20 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 21 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 22 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 23 | [Love You Like A Love Song](https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:08 |
 | 24 | [Love Me Harder](https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:56 |
 | 25 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
-| 26 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
-| 27 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 |
+| 26 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 |
+| 27 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
 | 28 | [Line Without a Hook](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 4:09 |
 | 29 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 30 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |

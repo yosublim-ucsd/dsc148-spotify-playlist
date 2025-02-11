@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-169 songs - 15 hr 22 min
+170 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alegre](https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Alegre](https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX) | 2:49 | 2024-03-20 |  |
 | [Aleluya](https://open.spotify.com/track/0NckqVt6yKJ783QiWWCDTb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 10:23 | 2023-04-09 | 2025-01-05 |
 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 | 2023-04-09 |  |
-| [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2020-09-18 |  |
+| [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2020-09-18 | 2025-02-11 |
 | [Aquella Cruz](https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 5:27 | 2024-03-20 |  |
 | [Aquella Cruz \- Live](https://open.spotify.com/track/2frJRTzJyf8wid4vV2T8Vp) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 5:27 | 2023-04-09 | 2023-04-12 |
 | [Atrae Mi Corazón](https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Toma Tu Lugar](https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo) | 7:05 | 2020-09-18 |  |
@@ -24,6 +24,7 @@
 | [Bendita Cruz](https://open.spotify.com/track/3dxkHi0MsMO9iObgGSQzyP) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8) | [Bendita Cruz](https://open.spotify.com/album/13kfZj86Kz2C8pp1ETWhFK) | 4:44 | 2024-03-20 |  |
 | [Beso Tus Pies](https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 4:48 | 2020-09-18 |  |
 | [Brilla Tu Amor](https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Love Shines \- EP](https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO) | 5:21 | 2023-04-09 | 2024-12-14 |
+| [Calvario](https://open.spotify.com/track/3KyYP6N1HqfR00s9Locjzm) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 4:12 | 2024-07-01 |  |
 | [Cantaré de Tu Amor](https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY) | 6:00 | 2024-03-20 |  |
 | [Cantaré de Tu Amor](https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7) | 6:00 | 2020-09-18 | 2024-04-19 |
 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 | 2024-03-20 |  |

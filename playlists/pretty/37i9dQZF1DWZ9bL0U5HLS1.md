@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,133 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,135 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 12 | [Sinä 4ever \- Vain elämää kausi 14](https://open.spotify.com/track/6wRn01AkSyG40RIGUtKbWk) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sinä 4ever \(Vain elämää kausi 14\)](https://open.spotify.com/album/7yovvwfChdq1VC4GZKomLH) | 3:21 |
 | 13 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
 | 14 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
-| 15 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
-| 16 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
+| 15 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
+| 16 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 17 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 | 18 | [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 |
 | 19 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 31 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 32 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 33 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
-| 34 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 35 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
+| 34 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
+| 35 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 36 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
 | 37 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 |
 | 38 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 54 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
 | 55 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 56 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
-| 57 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 |
-| 58 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
+| 57 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
+| 58 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 |
 | 59 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 60 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 |
 | 61 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |

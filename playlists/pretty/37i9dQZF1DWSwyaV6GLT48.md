@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,005 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,997 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 29 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
 | 30 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 31 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 32 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 33 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
+| 32 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
+| 33 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 34 | [Stolen Dance](https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1iCwsK0jUzBPQx7XEpumbz) | 5:13 |
 | 35 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 36 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |

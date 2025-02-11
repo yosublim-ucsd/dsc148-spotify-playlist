@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABfnIZmqg1ratcvfk20G1Au",
+  "snapshot_id": "Z6fwAAAAAAAomse7GizhhIg8d1jAIj11",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
-      },
-      "artists": [
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -744,13 +744,13 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         },
         {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 253714,
-      "name": "Riding On 6's",
-      "url": "https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4"
+      "duration_ms": 142415,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
     },
     {
       "added_at": null,
@@ -791,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESERVADO",
-        "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
       "artists": [
-        {
-          "name": "JR Reyes",
-          "url": "https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 151071,
-      "name": "RESERVADO",
-      "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
+      "duration_ms": 30459,
+      "name": "BBS Interlude",
+      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
     },
     {
       "added_at": null,
@@ -820,13 +816,13 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         },
         {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
         }
       ],
-      "duration_ms": 142415,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+      "duration_ms": 253714,
+      "name": "Riding On 6's",
+      "url": "https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4"
     },
     {
       "added_at": null,
@@ -847,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+        "name": "RESERVADO",
+        "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
       },
       "artists": [
+        {
+          "name": "JR Reyes",
+          "url": "https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 30459,
-      "name": "BBS Interlude",
-      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
+      "duration_ms": 151071,
+      "name": "RESERVADO",
+      "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,319 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,313 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 32 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 |
 | 33 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 34 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
-| 35 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
-| 36 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
+| 35 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
+| 36 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 37 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
 | 38 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
 | 39 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 97 | [Live And Let Die](https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Live And Let Die \(Soundtrack\)](https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O) | 3:14 |
 | 98 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
 | 99 | [Substitute](https://open.spotify.com/track/5po2HCMZvJ0aPSxRRGKm3p) | [Clout](https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P) | [Since We've Been Gone](https://open.spotify.com/album/7zRC8iLx8ixniN0rfJwdzc) | 3:29 |
-| 100 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
+| 100 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 |
 
 Snapshot ID: `ZpFDWwAAAABia96d/kSKLtuxVfw4F4Cx`

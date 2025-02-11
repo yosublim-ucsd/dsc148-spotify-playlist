@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,542 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,559 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 47 | [Square Hammer](https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:59 |
 | 48 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
 | 49 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
-| 50 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
-| 51 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
+| 50 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
+| 51 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
 | 52 | [In Between](https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disgusting](https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV) | 3:33 |
 | 53 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
 | 54 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 61 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 62 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
 | 63 | [Face to the Floor](https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Hats Off to the Bull](https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV) | 3:38 |
-| 64 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
-| 65 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
-| 66 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
+| 64 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
+| 65 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
+| 66 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 | 67 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 68 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 69 | [Thunderstruck](https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Iron Man 2](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv) | 4:52 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 84 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 |
 | 85 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
 | 86 | [Crawl](https://open.spotify.com/track/2G1xOn9PhRgi63XWp2ToZx) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 3:58 |
-| 87 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
-| 88 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
+| 87 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
+| 88 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 89 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
 | 90 | [Rats](https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:21 |
 | 91 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 93 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
 | 94 | [No Giving Up](https://open.spotify.com/track/7M7VUNhN51Fjsu58dLv0EY) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:34 |
 | 95 | [Never Again](https://open.spotify.com/track/07huQEWGQAe7aJaeR08Cag) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:43 |
-| 96 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 |
-| 97 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
-| 98 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
-| 99 | [Phenomenon](https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 2:59 |
+| 96 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
+| 97 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 |
+| 98 | [Phenomenon](https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 2:59 |
+| 99 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
 | 100 | [Devil on My Shoulder](https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 3:49 |
 
 Snapshot ID: `ZtXAQQAAAAAHb/sGbASdvpDtalzOXH3u`

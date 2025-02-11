@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,475 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,510 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 21 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 | 22 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
 | 23 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
-| 24 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
-| 25 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 24 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 25 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 26 | [Fuiste Tú \(feat\. Gaby Moreno\)](https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Independiente + Demos](https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy) | 4:25 |
 | 27 | [Creo en Ti](https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF) | 2:43 |
 | 28 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
 | 29 | [Labios Compartidos](https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 5:17 |
 | 30 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 31 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
-| 32 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
+| 31 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
+| 32 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
 | 33 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
 | 34 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 35 | [Tan Enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 69 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |
 | 70 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
 | 71 | [Enséñame A Vivir Sin Ti](https://open.spotify.com/track/59f765mlM08j2POCl3zPvd) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 3:32 |
-| 72 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
-| 73 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
+| 72 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
+| 73 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 74 | [La Llamada](https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [La Llamada](https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q) | 4:00 |
 | 75 | [Ya No Vuelvas](https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS) | 2:24 |
 | 76 | [Seré](https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 4:09 |

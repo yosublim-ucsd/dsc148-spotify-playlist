@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
 
-543 songs - 1 day 0 hr 37 min
+544 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-01-11 | 2024-09-20 |
 | [DUNYA](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [DUNYA](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 | 2024-01-11 | 2024-03-01 |
 | [Durma](https://open.spotify.com/track/5VQdi4PLP9lmAgrI7t2IUb) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Durma](https://open.spotify.com/album/3wwdHNwrDdXK7X4mnQgK9g) | 2:29 | 2023-12-12 | 2024-01-12 |
+| [DURULDUM](https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [KERO](https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2) | [DURULDUM](https://open.spotify.com/album/2ISMOqiabzIjxSzaZCFNAL) | 2:04 | 2025-02-10 |  |
 | [DÖNME EVE](https://open.spotify.com/track/0fhDDNj4in3NuQZw0Y48QO) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [DÖNME EVE](https://open.spotify.com/album/5AqvpPvetWNcNcBenHkOUC) | 2:24 | 2023-12-12 | 2024-01-19 |
 | [Dünya](https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dünya](https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7) | 2:20 | 2023-03-23 | 2023-04-28 |
 | [Dünya Fani](https://open.spotify.com/track/0zryFWOTwY1BDcED6t27Sl) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Dünya Fani](https://open.spotify.com/album/64V9p8p4BqCA08eZRolk9l) | 1:56 | 2023-01-10 | 2023-04-14 |
@@ -398,7 +399,7 @@
 | [Pelerin](https://open.spotify.com/track/7CFOAqExFoOQ1M6Nrvi3Y0) | [Taladro](https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ) | [Pelerin](https://open.spotify.com/album/6gXrskn2L7Cs28U8JDe5vl) | 3:01 | 2025-02-06 |  |
 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 | 2023-06-02 |
 | [PINGUI](https://open.spotify.com/track/07vrGaaEPkbGTz0TBXvNFN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [BAO](https://open.spotify.com/artist/2A8LFuPVMXU66LuCPtgOEo), [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [PINGUI](https://open.spotify.com/album/13pw6ciJ5osIvs38U0pKo7) | 5:12 | 2025-01-30 |  |
-| [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-04 |  |
+| [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 | 2024-10-04 | 2025-02-11 |
 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-10 | 2023-10-01 |
 | [POP](https://open.spotify.com/track/1UWEafiPTYY6Ym2GKxTCGg) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [POP](https://open.spotify.com/album/0EZoxOrmBvdaYl7IY6LBW7) | 2:57 | 2023-11-16 | 2023-12-14 |
 | [PRENSES](https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [PRENSES](https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX) | 2:09 | 2024-10-24 | 2024-11-29 |

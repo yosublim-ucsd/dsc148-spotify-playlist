@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 117572,
+  "num_followers": 117685,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABeXHYC9A+gsA+r6uhvOL4n",
+  "snapshot_id": "Z6fwAAAAAADh+PNFc9k0KTt0RenENuVH",
   "tracks": [
     {
       "added_at": null,
@@ -419,34 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Troca Mamalona (feat. Eme Malafe)",
-        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
-      },
-      "artists": [
-        {
-          "name": "Cricket",
-          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 223565,
-      "name": "Troca Mamalona (feat. Eme Malafe)",
-      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 3",
         "url": "https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy"
       },
@@ -479,6 +451,34 @@
       "duration_ms": 371162,
       "name": "Liga Malandra 3",
       "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Troca Mamalona (feat. Eme Malafe)",
+        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
+      },
+      "artists": [
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 223565,
+      "name": "Troca Mamalona (feat. Eme Malafe)",
+      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
     },
     {
       "added_at": null,

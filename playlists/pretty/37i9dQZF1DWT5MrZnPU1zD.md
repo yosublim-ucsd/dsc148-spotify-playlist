@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,798 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,834 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 91 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 92 | [Slide](https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:29 |
 | 93 | [Wock N Red](https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Wock N Red](https://open.spotify.com/album/2pBaG0rquEzCXDXyF56S6f) | 3:18 |
-| 94 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
-| 95 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
+| 94 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
+| 95 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
 | 96 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 97 | [Deep End](https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9) | 2:26 |
 | 98 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 |

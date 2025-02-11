@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,681 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,730 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 55 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
 | 56 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 57 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 |
-| 58 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
-| 59 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
-| 60 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
+| 58 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 |
+| 59 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
+| 60 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
 
 Snapshot ID: `ZohOOwAAAABz+9O441RhpluXXVhe9u9J`

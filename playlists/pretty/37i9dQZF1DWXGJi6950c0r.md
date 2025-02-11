@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 
 > Con esfuerzo y dedicación, viene la celebración.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,635 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,643 likes - 30 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGJi6950c0r.md) - [plain]
 | 23 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
 | 24 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 25 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
-| 26 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
-| 27 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
+| 26 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
+| 27 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 |
 | 28 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 29 | [No Se Me Quita \(feat\. Ricky Martin\)](https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:39 |
 | 30 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |

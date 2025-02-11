@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,407 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,709 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 20 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 21 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 22 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
-| 23 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
-| 24 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
+| 23 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
+| 24 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 25 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 |
 | 26 | [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 |
 | 27 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |

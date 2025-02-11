@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,559 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,560 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 26 | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 |
 | 27 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 28 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 |
-| 29 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
+| 29 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 30 | [Angelito](https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Angelito](https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o) | 2:10 |
 | 31 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 32 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 36 | [EL CLúB](https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:42 |
 | 37 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 38 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
-| 39 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
+| 39 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 40 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 41 | [GRAN VÍA](https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:33 |
 | 42 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |

@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 100013,
+  "num_followers": 100041,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -211,8 +211,8 @@
     {
       "added_at": "2025-02-07 09:11:52",
       "album": {
-        "name": "Never Letting Go (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
+        "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
+        "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
       },
       "artists": [
         {
@@ -220,17 +220,25 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Tazi",
+          "url": "https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Samuele Sartini",
+          "url": "https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
         }
       ],
-      "duration_ms": 122839,
-      "name": "Never Letting Go",
-      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
+      "duration_ms": 150869,
+      "name": "Seek Love (On The Beach)",
+      "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
     },
     {
       "added_at": "2025-02-07 09:11:52",
@@ -323,8 +331,8 @@
     {
       "added_at": "2025-02-07 09:11:52",
       "album": {
-        "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
-        "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
+        "name": "Never Letting Go (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
       },
       "artists": [
         {
@@ -332,25 +340,17 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Tazi",
-          "url": "https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Samuele Sartini",
-          "url": "https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
-        },
-        {
-          "name": "YORK",
-          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 150869,
-      "name": "Seek Love (On The Beach)",
-      "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
+      "duration_ms": 122839,
+      "name": "Never Letting Go",
+      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
     },
     {
       "added_at": "2025-02-07 09:11:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-02-07 09:11:52",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
-    },
-    {
-      "added_at": "2025-02-07 09:11:52",
-      "album": {
         "name": "Still Fall",
         "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 209102,
       "name": "Still Fall",
       "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
+    },
+    {
+      "added_at": "2025-02-07 09:11:52",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
     },
     {
       "added_at": "2025-02-07 09:11:52",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-02-07 09:11:52",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 159411,
-      "name": "Lifted",
-      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
-    },
-    {
-      "added_at": "2025-02-07 09:11:52",
-      "album": {
         "name": "Got That",
         "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+    },
+    {
+      "added_at": "2025-02-07 09:11:52",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 159411,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
     },
     {
       "added_at": "2025-02-07 09:11:52",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-02-07 09:11:52",
       "album": {
+        "name": "A2",
+        "url": "https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR"
+    },
+    {
+      "added_at": "2025-02-07 09:11:52",
+      "album": {
         "name": "Slowly Going Crazy (feat. EKE)",
         "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 147187,
       "name": "Slowly Going Crazy (feat. EKE)",
       "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
-    },
-    {
-      "added_at": "2025-02-07 09:11:52",
-      "album": {
-        "name": "A2",
-        "url": "https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP"
-      },
-      "artists": [
-        {
-          "name": "MANIBA",
-          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "A2",
-      "url": "https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR"
     },
     {
       "added_at": "2025-02-07 09:11:52",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-02-07 09:11:52",
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
+    },
+    {
+      "added_at": "2025-02-07 09:11:52",
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 199107,
       "name": "Out Of The Dark",
       "url": "https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr"
-    },
-    {
-      "added_at": "2025-02-07 09:11:52",
-      "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 163155,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
     },
     {
       "added_at": "2025-02-07 09:11:52",

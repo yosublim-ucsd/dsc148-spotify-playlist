@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2288391,
+  "num_followers": 2288401,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
+        "name": "IN AND THROUGH THE BODY",
+        "url": "https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a"
       },
       "artists": [
         {
-          "name": "Alexa Popov",
-          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 138336,
-      "name": "Spring has sprung",
-      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
+      "duration_ms": 227816,
+      "name": "never gonna break your heart",
+      "url": "https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "IN AND THROUGH THE BODY",
-        "url": "https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a"
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
         }
       ],
-      "duration_ms": 227816,
-      "name": "never gonna break your heart",
-      "url": "https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD"
+      "duration_ms": 138336,
+      "name": "Spring has sprung",
+      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Meet The Moonlight",
         "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Apple Tree Blues",
-        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Apple Tree Blues",
-      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "I Know You Know Me (With Matt Berninger)",
-        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
+        "name": "Apple Tree Blues",
+        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 199123,
-      "name": "I Know You Know Me (With Matt Berninger)",
-      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+      "duration_ms": 212680,
+      "name": "Apple Tree Blues",
+      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Ash & Clay",
         "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Inside the stone",
         "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 124034,
       "name": "Inside the stone",
       "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "No One's Gonna Love You - Live from Spotify Sweden",
+      "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "No One's Gonna Love You - Live from Spotify Sweden",
-      "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Loving Takes This Course - a Tribute to the Songs of Kath Bloom",
         "url": "https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 383066,
       "name": "The Breeze / My Baby Cries",
       "url": "https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Day Plan",
         "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 226033,
       "name": "Day Plan",
       "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Moss",
-          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
-        }
-      ],
-      "duration_ms": 151172,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 195850,
       "name": "Real Peach - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Moss",
+          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
+        }
+      ],
+      "duration_ms": 151172,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
-      },
-      "artists": [
-        {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Doubles",
         "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 264866,
       "name": "The Bear (Trio)",
       "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+      },
+      "artists": [
+        {
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
     },
     {
       "added_at": "2024-11-08 05:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1080956,
+  "num_followers": 1080968,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,30 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "added_at": "2025-02-07 02:00:33",
+      "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
       },
@@ -487,22 +511,6 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
-    },
-    {
-      "added_at": "2025-02-07 02:00:33",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2025-02-07 02:00:33",
@@ -623,6 +631,22 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2025-02-07 02:00:33",
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2025-02-07 02:00:33",
-      "album": {
-        "name": "Born Again (feat. Doja Cat & RAYE)",
-        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 231174,
-      "name": "Born Again (feat. Doja Cat & RAYE)",
-      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
       "added_at": "2025-02-07 02:00:33",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 161007,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
+    },
+    {
+      "added_at": "2025-02-07 02:00:33",
+      "album": {
         "name": "Happy Ever After You",
         "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 161007,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
-    },
-    {
-      "added_at": "2025-02-07 02:00:33",
-      "album": {
         "name": "Spot a Fake",
         "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 144588,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
-    },
-    {
-      "added_at": "2025-02-07 02:00:33",
-      "album": {
         "name": "Touching Toes",
         "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 132000,
       "name": "Touching Toes",
       "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+    },
+    {
+      "added_at": "2025-02-07 02:00:33",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 144588,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
     },
     {
       "added_at": "2025-02-07 02:00:33",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-02-07 02:00:33",
-      "album": {
         "name": "Breathe In, Breathe Out",
         "url": "https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 144915,
       "name": "Breathe In, Breathe Out",
       "url": "https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa"
+    },
+    {
+      "added_at": "2025-02-07 02:00:33",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-02-07 02:00:33",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-02-07 02:00:33",
       "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+      "duration_ms": 188863,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV"
     },
     {
       "added_at": "2025-02-07 02:00:33",
@@ -1615,6 +1615,22 @@
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
+    },
+    {
+      "added_at": "2025-02-07 02:00:33",
+      "album": {
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "added_at": "2025-02-07 02:00:33",
@@ -1695,26 +1711,6 @@
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
-    },
-    {
-      "added_at": "2025-02-07 02:00:33",
-      "album": {
-        "name": "Talk talk featuring troye sivan",
-        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Talk talk featuring troye sivan",
-      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
     }
   ],
   "unique_name": "Pop Right Now",

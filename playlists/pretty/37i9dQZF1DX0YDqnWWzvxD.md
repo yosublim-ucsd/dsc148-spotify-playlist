@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,133 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,650 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 12 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 |
 | 13 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
 | 14 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
-| 15 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
+| 15 | [In This Moment](https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o) | 2:46 |
 | 16 | [Forest Temple](https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Temple](https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR) | 3:54 |
-| 17 | [In This Moment](https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o) | 2:46 |
+| 17 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
 | 18 | [Heart Chakra \- Breath of Love](https://open.spotify.com/track/0AvQspmvZCDfbTAJVphhwW) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Jonathan Kramer](https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO) | [Chakra Healing](https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O) | 7:45 |
 | 19 | [Healing Shores \- Bonus Track](https://open.spotify.com/track/4TrYTLqm1nNLP7bHJuum7V) | [Ty Burhoe](https://open.spotify.com/artist/3hmDfMtcGx9Nydb395MyxZ), [Bill Douglas](https://open.spotify.com/artist/6Q59EZh3Nb2urfj82a8XFK) | [Horizon](https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr) | 5:33 |
 | 20 | [Land of the Medicine Buddha \(Instrumental Meditation With Bamboo Flute, Singing Bowls & Nature Sounds\)](https://open.spotify.com/track/4JSl7jspo0pnnh4iy3z2NQ) | [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Call Within](https://open.spotify.com/album/3hWS8n1PFg2GUGScBKvjQU) | 7:13 |

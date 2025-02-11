@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 
 > This is Khruangbin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,247 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,311 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 44 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
 | 45 | [Cómo Te Quiero](https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:02 |
 
-Snapshot ID: `Z6aegAAAAABgxnfbq8qQSsE2AGRR2tPh`
+Snapshot ID: `Z6fwAAAAAABnwXb2pIhEajDQ9mCBIHo0`

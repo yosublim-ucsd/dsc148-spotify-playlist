@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152374,
+  "num_followers": 152375,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABE0tOmJ6CUySqsYL/6ejSb",
+  "snapshot_id": "Z6fwAAAAAAA2x387KYxsuvl6X7IXiukO",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+        "name": "Yuri y Sus Amigos del Regional Mexicano",
+        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
       "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+      "duration_ms": 226032,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
     },
     {
       "added_at": null,
@@ -487,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
       "artists": [
         {
@@ -496,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yuri y Sus Amigos del Regional Mexicano",
-        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
       },
       "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226032,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": null,

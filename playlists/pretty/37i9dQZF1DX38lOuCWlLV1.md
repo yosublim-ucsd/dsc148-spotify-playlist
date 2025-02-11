@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > When you know, you know\. Eclectic love songs with delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,892 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,975 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 34 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
 | 35 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
 | 36 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
-| 37 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 |
+| 37 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 38 | [Love song](https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:49 |
-| 39 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 39 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 |
 | 40 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
 | 41 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 |
-| 42 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 |
-| 43 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 |
+| 42 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 |
+| 43 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 |
 | 44 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 45 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
 | 46 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 67 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
 | 68 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
 | 69 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
-| 70 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
-| 71 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
+| 70 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
+| 71 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
 | 72 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 73 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 74 | [Bonnie And Clyde](https://open.spotify.com/track/358jMpTqOfIOYjpcg2Ig2j) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 4:16 |
 | 75 | [Swallowed in the Sea](https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 3:59 |
 
-Snapshot ID: `Z5f8XQAAAAB/HdZtYq+qFnDkSU7FPpdK`
+Snapshot ID: `Z6pRkwAAAABVFm7UPShhcRa2rG3Gibxm`

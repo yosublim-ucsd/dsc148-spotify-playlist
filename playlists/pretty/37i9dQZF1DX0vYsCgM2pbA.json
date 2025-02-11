@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 141849,
+  "num_followers": 141848,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -191,30 +191,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
-        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+        "name": "Love Tonight (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         },
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 274141,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+      "duration_ms": 184783,
+      "name": "Love Tonight (Robin Schulz Remix)",
+      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -239,6 +231,34 @@
       "duration_ms": 160116,
       "name": "Oh My (feat. Moby)",
       "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -275,26 +295,6 @@
       "duration_ms": 175676,
       "name": "Burn Dem Bridges",
       "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Love Tonight (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "Love Tonight (Robin Schulz Remix)",
-      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "After Five EP",
+        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 469905,
+      "name": "Day Dreams of Beaches",
+      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "A.M",
         "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 172657,
       "name": "I Want You (feat. Darren Hayes)",
       "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "After Five EP",
-        "url": "https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 469905,
-      "name": "Day Dreams of Beaches",
-      "url": "https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -903,18 +903,18 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
         }
       ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+      "duration_ms": 259424,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -935,22 +935,6 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 259424,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -979,6 +963,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Suzuka",
         "url": "https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98"
       },
@@ -991,26 +991,6 @@
       "duration_ms": 236919,
       "name": "Suzuka",
       "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Do You Want Me",
-        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 272523,
-      "name": "Do You Want Me",
-      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1031,6 +1011,26 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 272523,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 202253,
       "name": "Can't Do Without (My Baby)",
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 182869,
+      "name": "Wrong Again",
+      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Gimme Some More (feat. Shungudzo)",
         "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 225558,
       "name": "Gimme Some More (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "Blue Desert",
-        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 182869,
-      "name": "Wrong Again",
-      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Alone Again (feat. PEPTALK)",
-        "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
-      },
-      "artists": [
-        {
-          "name": "L D R U",
-          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
-        },
-        {
-          "name": "PEPTALK",
-          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
-        }
-      ],
-      "duration_ms": 195522,
-      "name": "Alone Again (feat. PEPTALK)",
-      "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "My Vibe",
         "url": "https://open.spotify.com/album/4QrIXQCRIPqx2jLqUykSrY"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 161484,
       "name": "My Vibe",
       "url": "https://open.spotify.com/track/7HFkxGzL9Opf1vMlaokRqC"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Alone Again (feat. PEPTALK)",
+        "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
+      },
+      "artists": [
+        {
+          "name": "L D R U",
+          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
+        },
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        }
+      ],
+      "duration_ms": 195522,
+      "name": "Alone Again (feat. PEPTALK)",
+      "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 153461,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/2QyYJpfGdEtHFunrVZmuHx"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2025-02-05 05:00:15",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2025-02-05 05:00:15",
       "album": {
+        "name": "girl EDM",
+        "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Ice u out",
+      "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
+    },
+    {
+      "added_at": "2025-02-05 05:00:15",
+      "album": {
         "name": "Our Friends (with Zoe from The Buoys)",
         "url": "https://open.spotify.com/album/3xX6NxHuFpxkTtul7OWczm"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 206250,
       "name": "Touch (feat. Rromarin)",
       "url": "https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK"
-    },
-    {
-      "added_at": "2025-02-05 05:00:15",
-      "album": {
-        "name": "girl EDM",
-        "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Kota Banks",
-          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Ice u out",
-      "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
     }
   ],
   "unique_name": "Sunday Sessions",

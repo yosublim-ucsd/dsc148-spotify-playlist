@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,411 likes - 100 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,414 likes - 100 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 54 | [Motoring](https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Toy](https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s) | 4:33 |
 | 55 | [Schwebebahn](https://open.spotify.com/track/6vaycV6nN0pRo9lSZLPKLI) | [Hoelderlin](https://open.spotify.com/artist/6KdRTV8GYYhX8hhPWbTZk3) | [Hoelderlin](https://open.spotify.com/album/37rnY9C3CxIq0c1YLSHCcR) | 7:22 |
 | 56 | [C.Rock](https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X) | [Krisma](https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb) | [Chinese Restaurant](https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X) | 5:29 |
-| 57 | [Nearby Shiras](https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q) | [Kalacakra](https://open.spotify.com/artist/2wMzAdkaTbo0PwKvXhJ94X) | [Crawling to Lhasa](https://open.spotify.com/album/0j47nvtM2sdo6mULT3tf1C) | 9:13 |
+| 57 | [Nearby Shiras](https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q) | [Kalacakra](https://open.spotify.com/artist/4boGEDgw8Kuy07kWFiuIls) | [Crawling to Lhasa](https://open.spotify.com/album/0j47nvtM2sdo6mULT3tf1C) | 9:13 |
 | 58 | [Doors Unlocked and Open](https://open.spotify.com/track/3f4jwbmw35TF2Wx9y47GuW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 5:37 |
 | 59 | [Ich geh den Weg mit dir](https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz) | [Musiccargo](https://open.spotify.com/artist/3PfsferIgZ7wACP0HcP329) | [Future Sounds Of Kraut Vol\. 1 \- compiled by Fred und Luna](https://open.spotify.com/album/1UDLKtbsdX65ZQVW5rPfx4) | 6:18 |
 | 60 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 96 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 |
 | 97 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
 | 98 | [La Luna](https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51) | [Plank!](https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH) | [Plank!](https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ) | 4:36 |
-| 99 | [Strange Waves](https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Songs of Love and Revolution](https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU) | 3:27 |
+| 99 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
 | 100 | [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 |
 
 Snapshot ID: `Z3xDVwAAAAC3sZZE3xG42eTximZKk4nw`

@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1260144,
+  "num_followers": 1260451,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Runaround Sue",
         "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 171600,
       "name": "Runaround Sue",
       "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
       "artists": [
         {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Most of the Animals",
         "url": "https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
       "artists": [
         {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1415,22 +1431,6 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Twistin' the Night Away",
-        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Twistin' the Night Away",
-      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Twistin' the Night Away",
+        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Twistin' the Night Away",
+      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 157173,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1819,8 +1819,8 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
       },
       "artists": [
         {
@@ -1828,9 +1828,9 @@
           "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Here Are the Sonics",
-        "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Have Love Will Travel",
-      "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sings Top Ten",
         "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+        "name": "Here Are the Sonics",
+        "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
       },
       "artists": [
         {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
         }
       ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+      "duration_ms": 160400,
+      "name": "Have Love Will Travel",
+      "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1959,6 +1943,22 @@
       "duration_ms": 194600,
       "name": "We Gotta Get Out Of This Place - UK Single Version",
       "url": "https://open.spotify.com/track/5geF5xzPGHxpmk9BDBHphZ"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
     },
     {
       "added_at": "2024-07-12 06:11:58",

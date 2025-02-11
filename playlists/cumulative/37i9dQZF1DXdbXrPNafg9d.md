@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Sharon Van Etten
 
-8,281 songs - 20 day 3 hr 0 min
+8,282 songs - 20 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,7 +858,8 @@
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 | 2024-09-07 |
 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 | 2022-11-25 | 2023-01-21 |
 | [Blackwhite](https://open.spotify.com/track/5XDZHOgN9nZO8nITVaFszs) | [Mesita](https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z) | [Blackwhite](https://open.spotify.com/album/0nqYFkiRuyE8s6e8xKtb7h) | 5:09 | 2019-05-26\* | 2019-06-28 |
-| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-07 |  |
+| [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-02-10 |  |
+| [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-07 | 2025-02-11 |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-21 | 2023-06-03 |
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2021-09-25 | 2021-11-20 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-05-05 | 2023-06-10 |

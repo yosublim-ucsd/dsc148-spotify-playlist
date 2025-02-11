@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,407 likes - 75 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,417 likes - 75 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 40 | [Bad Girls \- 12" Version](https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 4:55 |
 | 41 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
 | 42 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
-| 43 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
-| 44 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
+| 43 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
+| 44 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
 | 45 | [Wear It Out](https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO) | [Stargard](https://open.spotify.com/artist/5ZvV5BO4R5dwEUPfRKXdUI) | [The Changing Of The Gard](https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto) | 5:17 |
 | 46 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 |
 | 47 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 62 | [Changin'](https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE) | [Ms\. \(Sharon\) Ridley](https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz) | [Full Moon](https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp) | 6:28 |
 | 63 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
 | 64 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
-| 65 | [Time Waits for No One](https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:15 |
-| 66 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
+| 65 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
+| 66 | [Time Waits for No One](https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:15 |
 | 67 | [Make Love To Me](https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Reddy](https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI) | 6:39 |
 | 68 | [24 Hours a Day](https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN) | [Barbara Pennington](https://open.spotify.com/artist/4RREsGLwQNfpiQQ6cID4KR) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:12 |
 | 69 | [I'll Bake Me A Man](https://open.spotify.com/track/4YG1dGmuVc3akaUEKknn5x) | [Barbara Acklin](https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A) | [20 Greatest Hits](https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH) | 3:19 |

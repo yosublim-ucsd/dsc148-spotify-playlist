@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 5475,
+  "num_followers": 5478,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACeaeivmwDErT65dFdPwasT",
+  "snapshot_id": "Z6fwAAAAAAB10+FzOW883Bw0+EWu/G4U",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+        "name": "A Miracle In Harlem",
+        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
       },
       "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
         {
           "name": "Shirley Caesar",
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 357600,
-      "name": "Caught Up - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ"
+      "duration_ms": 340200,
+      "name": "Strong Man",
+      "url": "https://open.spotify.com/track/226jnN4L43ACMq1CdP96py"
     },
     {
       "added_at": null,
@@ -163,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Miracle In Harlem",
-        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Strong Man",
-      "url": "https://open.spotify.com/track/226jnN4L43ACMq1CdP96py"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus I Love Calling Your Name",
         "url": "https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy"
       },
@@ -191,22 +171,6 @@
       "duration_ms": 206893,
       "name": "No Charge",
       "url": "https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Yes Lord, Yes - Live",
-      "url": "https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB"
     },
     {
       "added_at": null,
@@ -224,9 +188,25 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 281573,
-      "name": "911 - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk"
+      "duration_ms": 357600,
+      "name": "Caught Up - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Yes Lord, Yes - Live",
+      "url": "https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB"
     },
     {
       "added_at": null,
@@ -259,6 +239,26 @@
       "duration_ms": 223000,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 281573,
+      "name": "911 - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can Make It",
         "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
       },
@@ -375,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
       },
       "artists": [
         {
@@ -384,25 +368,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Satan, You're a Liar",
-      "url": "https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailin'",
-        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Sailin' On the Sea of Your Love",
-      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
+      "duration_ms": 232626,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
     },
     {
       "added_at": null,
@@ -439,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Gospel Classics",
-        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
       },
       "artists": [
         {
@@ -448,9 +416,25 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 187695,
-      "name": "Teach Me Master",
-      "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
+      "duration_ms": 230266,
+      "name": "Satan, You're a Liar",
+      "url": "https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailin'",
+        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Sailin' On the Sea of Your Love",
+      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 207960,
       "name": "Steal Away to Jesus",
       "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Gospel Classics",
+        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 187695,
+      "name": "Teach Me Master",
+      "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
     },
     {
       "added_at": null,
@@ -584,15 +584,15 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 381933,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
+      "duration_ms": 291586,
+      "name": "Jesus Is Everywhere",
+      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All of the Glory (Radio Edit)",
-        "url": "https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel"
+        "name": "Harvest Collection: Shirley Caesar",
+        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 236404,
-      "name": "All of the Glory - Radio Edit",
-      "url": "https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB"
+      "duration_ms": 623976,
+      "name": "Don't Drive Your Mama Away",
+      "url": "https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harvest Collection: Shirley Caesar",
-        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
+        "name": "All of the Glory (Radio Edit)",
+        "url": "https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 623976,
-      "name": "Don't Drive Your Mama Away",
-      "url": "https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi"
+      "duration_ms": 236404,
+      "name": "All of the Glory - Radio Edit",
+      "url": "https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 291586,
-      "name": "Jesus Is Everywhere",
-      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
+      "duration_ms": 381933,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Jesus Makes the Difference In Me",
-      "url": "https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 372407,
       "name": "Fill This House",
       "url": "https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Jesus Makes the Difference In Me",
+      "url": "https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Lord Let Your Spirit Fall On Me",
-      "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 178333,
       "name": "There Is Power in the Blood",
       "url": "https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Lord Let Your Spirit Fall On Me",
+      "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
     },
     {
       "added_at": null,

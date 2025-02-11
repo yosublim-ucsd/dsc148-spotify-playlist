@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,706 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,840 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 59 | [Salt In The Wound](https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:11 |
 | 60 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
 | 61 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
-| 62 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
-| 63 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 |
+| 62 | [Pines](https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:42 |
+| 63 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 64 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 |
 | 65 | [Beige](https://open.spotify.com/track/5bs5GopDitBx9xjoHHRDoo) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0rwRaoJxFBwrVzdGFMXYQ8) | 3:24 |
 | 66 | [Fuzzybrain](https://open.spotify.com/track/5sVXCez77vrBgDoeJKfv4U) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:39 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 76 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
 | 77 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/0dagxop90zpA32LDwjAGVk) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:06 |
 | 78 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 |
-| 79 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
-| 80 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
+| 79 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
+| 80 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
 | 81 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 |
 | 82 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 83 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 |

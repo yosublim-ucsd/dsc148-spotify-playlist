@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gabriel Brito, Kaique e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,987 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,003 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 26 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 27 | [Noites Traiçoeiras](https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Noites Traiçoeiras](https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s) | 4:12 |
 | 28 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
-| 29 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 29 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 |
 | 30 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 |
 | 31 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 32 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 34 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 35 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
 | 36 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
-| 37 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 |
+| 37 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
 | 38 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
 | 39 | [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 |
 | 40 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |

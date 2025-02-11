@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > your daily dose of dopamine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,641 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,569,857 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 39 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 40 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 41 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 42 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
-| 43 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
+| 42 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
+| 43 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 44 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 45 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
 | 46 | [Breathe](https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Take Shelter](https://open.spotify.com/album/2dzxJbiJKhQo2aqUrtjZP0) | 3:53 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 58 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
 | 59 | [Naive](https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:23 |
 | 60 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 61 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
-| 62 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
+| 61 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
+| 62 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
 | 63 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
 | 64 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
 | 65 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 |

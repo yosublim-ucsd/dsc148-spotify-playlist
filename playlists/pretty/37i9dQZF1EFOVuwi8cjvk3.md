@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332 likes - 240 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 240 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 50 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 |
 | 51 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 |
 | 52 | [WHO? WHAT!](https://open.spotify.com/track/4KYS9GK68yeuUJ8vJfPxrq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:56 |
-| 53 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
-| 54 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 |
+| 53 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 |
+| 54 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
 | 55 | [Privilege](https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 2:50 |
 | 56 | [Attention](https://open.spotify.com/track/6pDVjCUA3B1vg9waKutAsv) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:17 |
 | 57 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 |
@@ -175,8 +175,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 165 | [Drama Never Ends](https://open.spotify.com/track/6814K8HVe6Kof32m54iFMf) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Southpaw \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru) | 3:16 |
 | 166 | [I Lie Awake Every Night](https://open.spotify.com/track/1a5jmqiiVfoNmAjy9Y0F6h) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/0ogfX6dIoYgTRhgnwrkaEn) | 3:19 |
 | 167 | [Bish Bounce](https://open.spotify.com/track/20HlDD6s3Twz0cslCXUxZJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:59 |
-| 168 | [Anyone Else](https://open.spotify.com/track/1eODKJsDYI8nIiRDYRP4IO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [These Days](https://open.spotify.com/album/2kNenbLKTv6Ip65v6nWmF0) | 3:43 |
-| 169 | [The Hearse](https://open.spotify.com/track/4m5FWGEd8DfUc07FvXxfeU) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 2:04 |
+| 168 | [The Hearse](https://open.spotify.com/track/4m5FWGEd8DfUc07FvXxfeU) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 2:04 |
+| 169 | [Anyone Else](https://open.spotify.com/track/1eODKJsDYI8nIiRDYRP4IO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [These Days](https://open.spotify.com/album/2kNenbLKTv6Ip65v6nWmF0) | 3:43 |
 | 170 | [Street Knowledge](https://open.spotify.com/track/6rmiFKRnGUHt7zpWxC3Jf1) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Tree](https://open.spotify.com/artist/7zRkv1elKzGjCaW8Hpj9Qp) | [Sour Soul](https://open.spotify.com/album/4aTYhHG0A0MX8iBQ4UTgoN) | 3:24 |
 | 171 | [GHETTO GODS](https://open.spotify.com/track/0EocJQHVyGDM5vrf0CNhS7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 2:46 |
 | 172 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 239 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 | 240 | [Get Krazy](https://open.spotify.com/track/2O3YgsmoPyKvbHCNmRFEOA) | [Bigg Dogg](https://open.spotify.com/artist/2Fsd7VeBkpjuYnPk87X57g) | [The Vaccine](https://open.spotify.com/album/2Uky9NSAp1e9ILVPIBqoLE) | 4:11 |
 
-Snapshot ID: `AbpKXgAAAADQYRMg3AKraLyLqV1W6bt2`
+Snapshot ID: `AbpP9AAAAAAtr5YJSOVrkIyA6g/UMSuI`

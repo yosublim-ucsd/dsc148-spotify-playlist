@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,662 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,668 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 22 | [Tribal Skank \- Radio Mix](https://open.spotify.com/track/1o8waXzOEeUIAlsApWyLEp) | [Fr3e](https://open.spotify.com/artist/6sezwfsYnNgPPKvmv9FmoF) | [Tribal Skank](https://open.spotify.com/album/2waOIVyj1rWWRyBssmfAbt) | 3:44 |
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 24 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
-| 25 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
-| 26 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 25 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 26 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
 | 28 | [Dancing](https://open.spotify.com/track/264HgVS2eKtoZHdaFX0JTR) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Dancing](https://open.spotify.com/album/1R8N5B7aVcATm5utF5UYsr) | 5:23 |
 | 29 | [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 44 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 |
 | 45 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
 | 46 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
-| 47 | [Chantes](https://open.spotify.com/track/5B4mII2vIgWjlZAOxOdrt1) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
-| 48 | [Work Out](https://open.spotify.com/track/2njzmMIjznNhysCSKwRZVa) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Work Out](https://open.spotify.com/album/3UCiLwvnSvW38fgxPAMZtY) | 3:03 |
-| 49 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
+| 47 | [Work Out](https://open.spotify.com/track/2njzmMIjznNhysCSKwRZVa) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Work Out](https://open.spotify.com/album/3UCiLwvnSvW38fgxPAMZtY) | 3:03 |
+| 48 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
+| 49 | [Chantes](https://open.spotify.com/track/5B4mII2vIgWjlZAOxOdrt1) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
 | 50 | [Don't Panic](https://open.spotify.com/track/6Xcem9wf3z6U2HIFmsQgxH) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR) | [Don't Panic](https://open.spotify.com/album/0qC2J401k1gPRdroCS5x2c) | 8:48 |
 | 51 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 | 52 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |

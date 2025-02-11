@@ -4,7 +4,7 @@
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 5 min
+94 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Get By](https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:40 | 2024-10-31 |  |
 | [Glitter](https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:49 | 2023-12-13 | 2024-10-15 |
 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2023-12-13 |  |
+| [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 | 2025-02-11 |  |
 | [Hate Goes On](https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:43 | 2023-12-13 |  |
 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 | 2025-01-27 |  |
 | [Heart of Stone](https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:01 | 2024-10-14 |  |
@@ -70,7 +71,7 @@
 | [Nothing Left At All](https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:23 | 2023-12-13 |  |
 | [Only](https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 3:18 | 2023-12-13 |  |
 | [Outlaw Classics](https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Waylon & Willie III](https://open.spotify.com/album/138S8GterIlZRtIQCzMeml) | 3:11 | 2023-12-13 | 2024-08-06 |
-| [Over You](https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:16 | 2023-12-13 |  |
+| [Over You](https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:16 | 2023-12-13 | 2025-02-11 |
 | [Past Yesterday \(with Skylar Grey\)](https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:13 | 2024-10-17 |  |
 | [Problem Wit It \(feat\. DJ Paul\)](https://open.spotify.com/track/3E99aSAFKvgFAK4CtOoZVd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [DJ Paul](https://open.spotify.com/artist/6T9QVklRmYwXCCesJI0T54) | [No Filter 2](https://open.spotify.com/album/0tQHA4lZ8voLMIJ4W9wcVA) | 4:20 | 2023-12-13 | 2024-01-07 |
 | [Really Gone \(with Russ\)](https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:05 | 2024-10-29 |  |

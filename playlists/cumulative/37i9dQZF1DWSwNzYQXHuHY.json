@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "name": "\uc378 (Something)",
+  "name": "\uc378 !",
   "tracks": [
     {
       "album": {
@@ -38,6 +38,24 @@
       "duration_ms": 191133,
       "name": "100%",
       "url": "https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "album": {
@@ -252,6 +270,46 @@
       "duration_ms": 230651,
       "name": "At the Cinema",
       "url": "https://open.spotify.com/track/1fVdYz0JuL3p2petdaDGkP"
+    },
+    {
+      "album": {
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+    },
+    {
+      "album": {
+        "name": "bright #4",
+        "url": "https://open.spotify.com/album/39B1ZrREuZZ1U0W70xFUAh"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "Bashfulness",
+      "url": "https://open.spotify.com/track/65xSudQzn6jM0QRXcSMcXU"
     },
     {
       "album": {
@@ -1212,7 +1270,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 241544,
       "name": "Friends to lovers",
       "url": "https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4"
@@ -1299,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
+    },
+    {
+      "album": {
         "name": "ACT 1, SCENE 1",
         "url": "https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH"
       },
@@ -1314,6 +1390,24 @@
       "duration_ms": 185786,
       "name": "GGBB",
       "url": "https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176532,
+      "name": "Give Love",
+      "url": "https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa"
     },
     {
       "album": {
@@ -1466,7 +1560,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
@@ -1654,7 +1748,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 230293,
       "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
       "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
@@ -2168,7 +2262,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 230853,
       "name": "Love Diary (Back to You X Lee MinHyuk)",
       "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
@@ -2186,7 +2280,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 187853,
       "name": "Love me Again",
       "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
@@ -2244,6 +2338,28 @@
       "duration_ms": 200077,
       "name": "Love to Hate You",
       "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
+    },
+    {
+      "album": {
+        "name": "Love(Prod.Rocoberry)",
+        "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "LEE SUNG KYOUNG",
+          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Love(Prod.Rocoberry)",
+      "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
     },
     {
       "album": {
@@ -2750,7 +2866,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 212840,
       "name": "On You (feat. 1ho & Mabinc)",
       "url": "https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc"
@@ -3202,7 +3318,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 219813,
       "name": "Should Not Love You",
       "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
@@ -3264,6 +3380,28 @@
       "duration_ms": 227986,
       "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
       "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
+    },
+    {
+      "album": {
+        "name": "So silly (Feat. YUJU)",
+        "url": "https://open.spotify.com/album/1CwPs3IcIi9Bzzl8xb91FJ"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197472,
+      "name": "So silly (Feat. YUJU)",
+      "url": "https://open.spotify.com/track/4SHdsjl8A0wg7xgosRqU2s"
     },
     {
       "album": {
@@ -3470,7 +3608,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
@@ -3692,7 +3830,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 216520,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
@@ -3859,6 +3997,28 @@
     },
     {
       "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        },
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Thinkin' bout you",
+      "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
+    },
+    {
+      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -3936,7 +4096,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 201238,
       "name": "Traffic Accident",
       "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
@@ -4204,7 +4364,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 156857,
       "name": "What's On Your Mind? (Feat. UNE)",
       "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
@@ -4672,6 +4832,24 @@
       "duration_ms": 259346,
       "name": "\uc774\ub807\uac8c \uc88b\uc544\ud574 \ubcf8 \uc801\uc774 \uc5c6\uc5b4\uc694",
       "url": "https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0"
+    },
+    {
+      "album": {
+        "name": "\uc5f0\uc560 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 OST Part.2",
+        "url": "https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207987,
+      "name": "\uc788\uc796\uc544",
+      "url": "https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho"
     },
     {
       "album": {

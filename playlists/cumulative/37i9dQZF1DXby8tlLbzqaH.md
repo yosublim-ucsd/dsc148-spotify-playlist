@@ -4,7 +4,7 @@
 
 > White noise to help babies fall asleep.
 
-394 songs - 18 hr 18 min
+395 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Deep Blue Noise](https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Under The Ocean](https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq) | 2:13 | 2022-03-21 |  |
 | [Deep Phase Noise 1](https://open.spotify.com/track/5MOWBRtP53q5yNOtHaMVTh) | [Milli Hughes](https://open.spotify.com/artist/5qq6C4dNld3AWHbh2WaNAR) | [Deep Phase Noise](https://open.spotify.com/album/2jiaVZwVTy1c1lmu1ifoud) | 2:23 | 2023-06-28 |  |
 | [Deep Space Voyage](https://open.spotify.com/track/6PvAlp8pKy23Bff6tUjhl0) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2022-10-27 | 2023-12-09 |
+| [Delicate White Noise](https://open.spotify.com/track/6sUY8p4taLXxhqoo3JbOhR) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Delicate White Noise](https://open.spotify.com/album/4PwZOVcCvo0QkWtgTVEEIw) | 2:42 | 2025-02-04 |  |
 | [Do You Mind?](https://open.spotify.com/track/3uN5SegBAYYuoDEDYIU1lw) | [HOLISTIK](https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4) | [Do You Mind?](https://open.spotify.com/album/5mkGpRwDHBuQsTtzeexCDy) | 1:35 | 2022-03-21 | 2023-06-28 |
 | [Doze Off](https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:57 | 2022-04-28 |  |
 | [Doze Off \- Seamless](https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:48 | 2022-04-28 |  |
@@ -237,7 +238,7 @@
 | [Snowy Serenity](https://open.spotify.com/track/6dgZEk3lBngRHrUodnCY3y) | [Lavender Balm](https://open.spotify.com/artist/4N8OrA1MLAkEU05eVyYyFa) | [Gentle White Noise](https://open.spotify.com/album/5xkCmZcbrEmogpsAgwHXd8) | 2:44 | 2024-02-05 |  |
 | [Snowy White \- Seamless](https://open.spotify.com/track/1XbejRRbXi8WWanFV7YkVp) | [Ambient Eclipse](https://open.spotify.com/artist/5kfu1YGIiPo81N6z7ipvOB) | [Snowy White](https://open.spotify.com/album/7l219ezfavIhBYbU03LsGe) | 2:58 | 2023-12-04 | 2025-02-05 |
 | [Soft Blast](https://open.spotify.com/track/7fn5ya7NmgMuuOJbIgPAfy) | [Bits & Noise](https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ) | [Soft Blast](https://open.spotify.com/album/5FabJyxm47hPSwUrJkJLx8) | 2:13 | 2022-03-21 |  |
-| [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2022-03-21 | 2025-02-05 |
+| [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2022-03-21 |  |
 | [Soft Noise](https://open.spotify.com/track/4fsfEiFvQfE29jOV2PSCJW) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Baby Bedtime Noise](https://open.spotify.com/album/5LEScikAzc9W54vqrtENDq) | 2:30 | 2022-03-21 |  |
 | [Softening Frequencies Part 1](https://open.spotify.com/track/7K1ciXDc24y19ZiDB0UTGy) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Softening Frequencies](https://open.spotify.com/album/3klP1gEXHQAoOoXxoMW3ov) | 2:30 | 2022-03-21 | 2025-02-05 |
 | [Sonido Sonora](https://open.spotify.com/track/2XW35SHWNOv15kYLwbeCcn) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ondas de Sonido Blancas](https://open.spotify.com/album/763mIagaLoDTcpWcVwmgSR) | 2:54 | 2023-12-04 | 2025-02-05 |
@@ -281,7 +282,7 @@
 | [Underneath the Stars](https://open.spotify.com/track/1oFhAF9AP4kV7uimscgcyn) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Sleep Sleep Sleep](https://open.spotify.com/album/5mLxtlBQ1Yl9wZGTySvIvK) | 3:36 | 2022-03-21 | 2025-02-05 |
 | [Velara \(White Noise\)](https://open.spotify.com/track/3LdVk4lYL4OgNINqmHSbJp) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:36 | 2022-10-27 | 2023-04-13 |
 | [Verby Brown Noise](https://open.spotify.com/track/6JsQZv4ESmDGB7NpuKkSjt) | [noiZzz in the dark](https://open.spotify.com/artist/6vB7nFsvEuozFD6z9WLaO3) | [Brown Noise = Baby Sleep](https://open.spotify.com/album/4rZbMOTW58WcrC9DgpNdvM) | 3:37 | 2022-03-21 | 2022-06-10 |
-| [Vliegtuiglawaai](https://open.spotify.com/track/5YuFQoMrfSG3o4Hn2Gn2m1) | [Volgorde](https://open.spotify.com/artist/4An4kwjdOiPnaT77Z2v8YA) | [Vliegtuiglawaai](https://open.spotify.com/album/3BOt4O4LVbT9NNTXH98iIL) | 2:47 | 2022-03-21 |  |
+| [Vliegtuiglawaai](https://open.spotify.com/track/5YuFQoMrfSG3o4Hn2Gn2m1) | [Volgorde](https://open.spotify.com/artist/4An4kwjdOiPnaT77Z2v8YA) | [Vliegtuiglawaai](https://open.spotify.com/album/3BOt4O4LVbT9NNTXH98iIL) | 2:47 | 2022-03-21 | 2025-02-11 |
 | [W\-Noise FX](https://open.spotify.com/track/3DgC6dMvMSU72n4D3SSPMF) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Calmed By The White Noise](https://open.spotify.com/album/3yNmTVNqVdF3cR5Rg2vnqU) | 2:04 | 2022-04-28 | 2022-06-10 |
 | [Waterfall Frequencies Part 3](https://open.spotify.com/track/7iXOGEf9zvaMXIuUvzB7Eu) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Waterfall Frequencies](https://open.spotify.com/album/4EAqpA6NyIVyO6ZJEbvmrz) | 2:30 | 2022-03-21 | 2025-02-05 |
 | [waterfall noise](https://open.spotify.com/track/4fYskLkVHdV2rHHV9IQ0cQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [waterfall noise](https://open.spotify.com/album/4iZSwPLWwbpK5RaD64KyaB) | 2:02 | 2022-03-21 | 2022-06-10 |
@@ -366,7 +367,7 @@
 | [White Noise Serenity](https://open.spotify.com/track/3VT93pLmRKPooOTKRwicia) | [Sit Back Relax](https://open.spotify.com/artist/3SKwyv6qJSexnm9ZKpmOR6) | [White Turbulance](https://open.spotify.com/album/2vbBriEzgFY0ntdu5rOY2A) | 2:30 | 2022-03-21 | 2022-06-10 |
 | [White Noise Sleep](https://open.spotify.com/track/0mp86m7umohVThhgzDP0SE) | [Ataxis](https://open.spotify.com/artist/6l7o2ZM0uTohKUfkiY0U40) | [White Noise Break](https://open.spotify.com/album/1L30zTWLgrcJFO7FMprfy8) | 3:35 | 2022-03-21 | 2023-04-13 |
 | [White Noise Sleep](https://open.spotify.com/track/6Oar5mozlNjPh7KMRzbm5O) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [White Noise Dreams](https://open.spotify.com/album/2IgLfPehI7ZodVkxhdIQit) | 3:44 | 2022-03-21 | 2022-07-02 |
-| [White Noise Sleep Bliss](https://open.spotify.com/track/5ipn0B4aBdx59PJrbMZjL2) | [Dreamy White Noise](https://open.spotify.com/artist/3fphHcubpPIVJ80z5uBgyA) | [White Noise Dream State](https://open.spotify.com/album/4MVN2QQAwJJY6gliY1N7Ya) | 2:27 | 2023-12-04 |  |
+| [White Noise Sleep Bliss](https://open.spotify.com/track/5ipn0B4aBdx59PJrbMZjL2) | [Dreamy White Noise](https://open.spotify.com/artist/3fphHcubpPIVJ80z5uBgyA) | [White Noise Dream State](https://open.spotify.com/album/4MVN2QQAwJJY6gliY1N7Ya) | 2:27 | 2023-12-04 | 2025-02-11 |
 | [White Noise Sleep Loop](https://open.spotify.com/track/6irWdPUfpOG6vQEoEhMKZO) | [Sleepmaker](https://open.spotify.com/artist/3CF8OnWwmF5oA7yGT4OJog) | [Drifting In White Noise](https://open.spotify.com/album/7yOaI3gPDYiNy7SPmfpQXV) | 3:42 | 2022-03-21 |  |
 | [White Noise Sleep Therapy](https://open.spotify.com/track/5v4T9PTde3pOI3KoMsUOYs) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise Sleep Therapy](https://open.spotify.com/album/4nl27rfAgJZyWeOdFm1lTg) | 5:10 | 2024-02-05 |  |
 | [White Noise Sleeping Pill](https://open.spotify.com/track/37EoUoGfIfSEprR0UboDNp) | [Atmosphere of Calm](https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09) | [White Noise Sleeping Pill](https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ) | 4:14 | 2022-10-27 |  |

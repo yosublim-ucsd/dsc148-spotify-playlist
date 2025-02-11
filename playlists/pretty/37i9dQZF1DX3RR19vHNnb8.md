@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,406 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,417 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 25 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 |
 | 26 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
 | 27 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
-| 28 | [Born In Hell](https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Born in Hell](https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG) | 2:15 |
-| 29 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
+| 28 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
+| 29 | [Born In Hell](https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Born in Hell](https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG) | 2:15 |
 | 30 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 |
 | 31 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 |
 | 32 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |

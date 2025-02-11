@@ -4,7 +4,7 @@
 
 > The best uptempo pop for the workout girlies
 
-386 songs - 20 hr 26 min
+387 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2022-01-28 | 2023-12-08 |
 | [Dress](https://open.spotify.com/track/19VgR6RNUxPlZdQm08CZIs) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Dress](https://open.spotify.com/album/2bA8pSmmynuphsrxb6SKqw) | 2:23 | 2022-01-28 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/5oyHgqf93ZcAZPjCgRyEd7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Drive](https://open.spotify.com/album/3sMzUHaEAZDFunQuKf8KlT) | 3:08 | 2022-01-28 | 2022-07-29 |
-| [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2022-05-26 |  |
+| [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2022-05-26 | 2025-02-11 |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2022-01-28 | 2022-05-26 |
 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2022-03-24 |  |
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 | 2022-03-24 | 2022-04-21 |
@@ -290,6 +290,7 @@
 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2022-07-28 | 2022-10-12 |
 | [Raise Your Glass](https://open.spotify.com/track/05qq6mwIbG1ZsQhlMKyDwN) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:23 | 2022-03-24 | 2022-04-21 |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2023-09-23 |  |
+| [REBEL HEART](https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/7wDskR5Q6K1qqLPEG8W8kB) | 3:08 | 2025-01-24 |  |
 | [Remedy](https://open.spotify.com/track/5JVA0t7r2Y7m9NaHmgaeiC) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/4nKguZWie1WQuxFspIwHOY) | 2:27 | 2022-03-24 | 2022-04-20 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-01-28 |  |
 | [Replay](https://open.spotify.com/track/5cAKmfCaqnYUnXqvTK8RxU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Replay](https://open.spotify.com/album/014sL3c9p52nmazlOZYInd) | 2:50 | 2024-08-23 | 2024-10-05 |

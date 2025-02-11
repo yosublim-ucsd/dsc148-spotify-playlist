@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,136 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,141 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 48 | [White Claw \(with Shania Twain\)](https://open.spotify.com/track/6kTrNSRH9qE3g4eiJslGL5) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 3:23 |
 | 49 | [If You Wanna Touch Her, Ask!](https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:03 |
 | 50 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
-| 51 | [Last Day of Summer](https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Last Day of Summer](https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo) | 3:10 |
+| 51 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 
-Snapshot ID: `Z6aegAAAAABhK8pBm1VfAEhY9pNEZW+J`
+Snapshot ID: `Z6fwAAAAAAD2w68Vf3AyA1fPHrIq19s8`

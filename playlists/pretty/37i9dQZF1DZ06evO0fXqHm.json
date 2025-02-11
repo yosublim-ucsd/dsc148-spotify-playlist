@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1653,
+  "num_followers": 1654,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADHSkHSWaNQ/d+bgnP3BUEH",
+  "snapshot_id": "Z6fwAAAAAACJP+7fNlweclR517grRiOP",
   "tracks": [
     {
       "added_at": null,
@@ -607,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEIO (BLACKMIX)",
-        "url": "https://open.spotify.com/album/6k4Hko1VGP1Vpz8ueq7MHX"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "MEIO - BLACKMIX",
-      "url": "https://open.spotify.com/track/0V3hyPKNypLf73OCVxegAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -711,22 +687,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+        "name": "MEIO (BLACKMIX)",
+        "url": "https://open.spotify.com/album/6k4Hko1VGP1Vpz8ueq7MHX"
       },
       "artists": [
         {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
         }
       ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+      "duration_ms": 149571,
+      "name": "MEIO - BLACKMIX",
+      "url": "https://open.spotify.com/track/0V3hyPKNypLf73OCVxegAO"
     },
     {
       "added_at": null,
@@ -755,26 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
       },
       "artists": [
         {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
     },
     {
       "added_at": null,
@@ -823,46 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
       "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        },
-        {
-          "name": "DJ 2w",
-          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 131374,
-      "name": "Minha Cara Metade",
-      "url": "https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
-        }
-      ],
-      "duration_ms": 134206,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
+      "duration_ms": 168960,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -895,6 +851,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "duration_ms": 134206,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        },
+        {
+          "name": "DJ 2w",
+          "url": "https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq"
+        }
+      ],
+      "duration_ms": 131374,
+      "name": "Minha Cara Metade",
+      "url": "https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "$IMBIO$E",
         "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
@@ -911,30 +911,6 @@
       "duration_ms": 157000,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Garoto",
-          "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
-        },
-        {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Eu Vou Te Levar pro C\u00e9u",
-      "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
     },
     {
       "added_at": null,
@@ -979,22 +955,6 @@
       "duration_ms": 155889,
       "name": "Ranger Preta",
       "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": null,
@@ -1051,6 +1011,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 170000,
       "name": "Avenida Brasil",
       "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Garoto",
+          "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Eu Vou Te Levar pro C\u00e9u",
+      "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
     },
     {
       "added_at": null,

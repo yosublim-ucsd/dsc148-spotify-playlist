@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Bariere (Remix)",
+        "url": "https://open.spotify.com/album/2nlmZMdJKuKoCPTHOxXXUI"
+      },
+      "artists": [
+        {
+          "name": "Sebi Chelbea",
+          "url": "https://open.spotify.com/artist/5TXd5kgWVwGQgnW0H1F2dL"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133142,
+      "name": "Bariere (Remix)",
+      "url": "https://open.spotify.com/track/6FUZd6fQkxNb3zXSuD18aJ"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -736,7 +754,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 145001,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
@@ -907,6 +925,24 @@
     },
     {
       "album": {
+        "name": "COMBINA\u021aII",
+        "url": "https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "COMBINA\u021aII",
+      "url": "https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu"
+    },
+    {
+      "album": {
         "name": "Como El Agua",
         "url": "https://open.spotify.com/album/3y0N6BewyYnCKSCcnxXLVb"
       },
@@ -944,7 +980,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 167865,
       "name": "Complicat",
       "url": "https://open.spotify.com/track/0RMLTuBPTlGE6iYLyO1glA"
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 194000,
       "name": "Grinch",
       "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
@@ -3165,6 +3201,28 @@
     },
     {
       "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/48NqxG3c6KNTtS97htLiRK"
+      },
+      "artists": [
+        {
+          "name": "Morandi",
+          "url": "https://open.spotify.com/artist/1oiZoULxUJDYGOKMgVefP4"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155278,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/75sGNpidmjIEHDaILUPhjZ"
+    },
+    {
+      "album": {
         "name": "Noaptea ne fur\u0103 iubiri",
         "url": "https://open.spotify.com/album/6w8ToTBQfwsY7NqNgDUmHP"
       },
@@ -3516,6 +3574,24 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "album": {
@@ -3910,7 +3986,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 204094,
       "name": "Show Paris Worldwide",
       "url": "https://open.spotify.com/track/40Gf6OGR4hJ57uvkcDR6Ml"

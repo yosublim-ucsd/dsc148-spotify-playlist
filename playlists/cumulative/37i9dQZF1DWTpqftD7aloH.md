@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-386 songs - 1 day 13 hr 40 min
+387 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH) | 6:26 | 2023-02-10 |  |
 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 | 2022-09-09 |  |
 | [Comigo Estás \- Ao Vivo](https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Comigo Estás \(Ao Vivo\)](https://open.spotify.com/album/140QPFhB1nbMMbpW5jHXvn) | 4:49 | 2023-03-24 | 2023-04-16 |
+| [Como Flecha \- Ao Vivo](https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA) | [Como Flecha \(Ao Vivo\)](https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd) | 5:56 | 2025-02-07 |  |
 | [Como Na Primeira Vez](https://open.spotify.com/track/15fLtBpGonhnP1Lxd6fq6v) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:21 | 2024-01-05 | 2024-02-25 |
 | [Como Na Primeira Vez](https://open.spotify.com/track/3M6mO126G6yqgT1bpTjrfo) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:21 | 2023-11-03 | 2023-12-17 |
 | [Como Quem Sonha](https://open.spotify.com/track/5zqfSkS19yHJpr3pXRGzJg) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Como Quem Sonha](https://open.spotify.com/album/5p82oqIzgnjMdU29kpMH9i) | 7:04 | 2023-10-20 | 2023-10-25 |
@@ -76,7 +77,7 @@
 | [Dame Tus Ojos \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 3:34 | 2022-09-09 | 2023-02-25 |
 | [De Dentro Pra Fora](https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora](https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI) | 5:07 | 2022-09-09 | 2024-12-21 |
 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 | 2024-09-06 |  |
-| [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 | 2023-08-07 |  |
+| [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 | 2023-08-07 | 2025-02-11 |
 | [Declare o Nome Dele](https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp) | [Thuanny Carvalho](https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU) | [Declare O Nome Dele](https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury) | 4:00 | 2024-09-06 | 2024-12-13 |
 | [Deixar para Trás](https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Deixar para Trás](https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ) | 2:48 | 2024-09-06 | 2024-11-23 |
 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 | 2023-11-03 | 2023-11-25 |

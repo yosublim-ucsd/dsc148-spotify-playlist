@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "A Job Promotion",
+        "url": "https://open.spotify.com/album/65qefGoRuealN5t4RdiRlJ"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186259,
+      "name": "A Job Promotion",
+      "url": "https://open.spotify.com/track/5tu555JJdfnt5xc1by9bbJ"
+    },
+    {
+      "album": {
         "name": "A look of confusion",
         "url": "https://open.spotify.com/album/0T4R4FUftoMBkd7FJmkvYL"
       },
@@ -1479,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Noir",
+        "url": "https://open.spotify.com/album/6c8jnG3x8kdC3cREKhwIS5"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "Caf\u00e9 Noir",
+      "url": "https://open.spotify.com/track/38T9nUFlxryuvuhQA6fTuN"
+    },
+    {
+      "album": {
         "name": "Calm Seas Ahead",
         "url": "https://open.spotify.com/album/3O9zTrL5NB7xexJ7Mh7SMC"
       },
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 243890,
       "name": "Cameron Highlands",
       "url": "https://open.spotify.com/track/3wGFSUEf91QvBd3Gd4ogCa"
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 262000,
       "name": "Evening In New York",
       "url": "https://open.spotify.com/track/6i1udzdP4HRmjVDo4LPZF1"
@@ -3844,7 +3880,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 203888,
       "name": "I Can Always Tell",
       "url": "https://open.spotify.com/track/5PWDSQk8KukXxtUoclRCYf"
@@ -4792,6 +4828,24 @@
       "duration_ms": 269175,
       "name": "I\u00b4m Glad There Is You",
       "url": "https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll See You Someday",
+        "url": "https://open.spotify.com/album/6tZ181FtDphzYBkOJGThLa"
+      },
+      "artists": [
+        {
+          "name": "Jon Belle",
+          "url": "https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I\u2019ll See You Someday",
+      "url": "https://open.spotify.com/track/4kzaL38T1gdsBvxNkzPqHY"
     },
     {
       "album": {
@@ -10494,7 +10548,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 171549,
       "name": "To Be Home",
       "url": "https://open.spotify.com/track/5RYRbcxKPad0oYn4FUA1n0"

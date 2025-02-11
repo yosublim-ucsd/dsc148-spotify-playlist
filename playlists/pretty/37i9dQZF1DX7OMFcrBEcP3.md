@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,609 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,653 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 72 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
 | 73 | [Domingo Corrales](https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/1lbo0iXFRYTxv5RVFEDEvv) | 2:42 |
 | 74 | [Sucedio en el Aguaje](https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:25 |
-| 75 | [Kilómetro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
+| 75 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
 | 76 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
 | 77 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
 | 78 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
-| 79 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
-| 80 | [Paso del norte](https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:54 |
+| 79 | [Paso del norte](https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:54 |
+| 80 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
 | 81 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
-| 82 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
+| 82 | [Kilómetro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
 | 83 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
 | 84 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
 | 85 | [El Jardinero](https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Historia De Los Exitos \(Mexico\)](https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91) | 3:08 |

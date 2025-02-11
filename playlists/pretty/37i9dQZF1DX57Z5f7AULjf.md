@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 
 > we outside all summer 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,064 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 9 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 10 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 11 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
-| 12 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
-| 13 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
+| 12 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
+| 13 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 14 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
 | 15 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 16 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 28 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 29 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 30 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
-| 31 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
-| 32 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
+| 31 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
+| 32 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 33 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 |
 | 34 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 35 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |

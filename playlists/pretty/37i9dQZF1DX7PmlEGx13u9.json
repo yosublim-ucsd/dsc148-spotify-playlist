@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B Hits. Cover: Odeal",
-  "num_followers": 59110,
+  "num_followers": 59136,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     }
   ],
   "unique_name": "Certi: R&B",

@@ -4,7 +4,7 @@
 
 > Soolking & GIMS on the cover of Habibi Gang Gang
 
-137 songs - 6 hr 35 min
+138 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 | 2024-02-29 |  |
 | [Jelaba](https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Jelaba](https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM) | 3:06 | 2024-04-18 | 2025-01-21 |
 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2024-02-29 | 2024-06-28 |
+| [JNSP](https://open.spotify.com/track/2JcX0Jv7nfWb8GxHNRmHqd) | [Karim](https://open.spotify.com/artist/1Ug8yMRic9wUFTBDhzTgxH), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [JNSP](https://open.spotify.com/album/6ANhqRi0RLAi0xZzhT1pW6) | 2:27 | 2025-02-10 |  |
 | [JNTP](https://open.spotify.com/track/5PRJiN6g7yEpvN9E01K9Cj) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:40 | 2024-02-29 |  |
 | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ) | 3:14 | 2024-02-29 | 2024-06-28 |
 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 | 2024-02-29 | 2025-02-09 |
@@ -92,7 +93,7 @@
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2024-02-29 |  |
 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2024-02-29 |  |
 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 | 2024-07-18 |  |
-| [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2024-02-29 |  |
+| [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2024-02-29 | 2025-02-11 |
 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 | 2024-02-29 |  |
 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 | 2024-02-29 |  |
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2024-02-29 | 2024-06-28 |

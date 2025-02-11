@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "AVARE.",
+        "url": "https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk"
+      },
+      "artists": [
+        {
+          "name": "Baran Meng\u00fc\u00e7",
+          "url": "https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162899,
+      "name": "\u00e7aykaram",
+      "url": "https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF"
+    },
+    {
+      "album": {
         "name": "\u00c7ileke\u015f",
         "url": "https://open.spotify.com/album/5Syb0Bg2H2EHUgPPM2UZto"
       },

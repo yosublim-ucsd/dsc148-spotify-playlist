@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > The Black Keys au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,871 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,857 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

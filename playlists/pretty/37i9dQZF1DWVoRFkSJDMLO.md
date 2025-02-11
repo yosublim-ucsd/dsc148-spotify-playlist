@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Rema 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,271 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,294 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

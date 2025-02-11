@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,033 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,078 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 29 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
 | 30 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 |
 | 31 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
-| 32 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 |
-| 33 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 |
-| 34 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
+| 32 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 |
+| 33 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
+| 34 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 |
 | 35 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 |
 | 36 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
 | 37 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 |

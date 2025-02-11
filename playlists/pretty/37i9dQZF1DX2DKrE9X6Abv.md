@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,136 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,222 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 74 | [Mum](https://open.spotify.com/track/3dSkr1cDkKdSZDYCTrnFKf) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:50 |
 | 75 | [Me](https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:35 |
 | 76 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
-| 77 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 |
-| 78 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 77 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 78 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 |
 | 79 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 80 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 | 81 | [Cutting Thru The Country](https://open.spotify.com/track/01g05Ii7fj7F8V1UlYFf1q) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:24 |

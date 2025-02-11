@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 55 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
 | 56 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
 | 57 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 |
-| 58 | [Hey Stupid, I Love You](https://open.spotify.com/track/7pJA5B7t0k5wObMPxFth0v) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together \(Deluxe\)](https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ) | 3:01 |
-| 59 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
+| 58 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
+| 59 | [Hey Stupid, I Love You](https://open.spotify.com/track/7pJA5B7t0k5wObMPxFth0v) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together \(Deluxe\)](https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ) | 3:01 |
 | 60 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 |
 | 61 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/17Efhyf4A96n0EFXKeB7Ya) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:50 |
 | 62 | [Fast Times](https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:54 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 287 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 288 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbpKXgAAAADxdH/jDoe87oRvYpNwMqb5`
+Snapshot ID: `AbpPzAAAAABixmry4O2VbTMBP4zqT7gg`

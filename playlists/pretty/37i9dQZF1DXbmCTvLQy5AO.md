@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,112 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,132 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 63 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 |
 | 64 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
 | 65 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 |
-| 66 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 |
-| 67 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
+| 66 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
+| 67 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 |
 | 68 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
 | 69 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 70 | [Finally \(Cannot Hide It\)](https://open.spotify.com/track/24gGzXklm7S16b9rcYUpGm) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally \(Cannot Hide It\)](https://open.spotify.com/album/4W1lA9h8HeDNOLdDxupSHl) | 3:24 |

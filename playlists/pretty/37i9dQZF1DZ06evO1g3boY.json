@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 172096,
+  "num_followers": 172105,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADlkTU7ySNESbYjTLVeCMkh",
+  "snapshot_id": "Z6fwAAAAAABM29PG9wLKqRQ9AQ3eQecS",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 237108,
+      "name": "Seu Jogo",
+      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Identidade Preta",
         "url": "https://open.spotify.com/album/5Wtbc24c9VciTVTlEwTKWT"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 195130,
       "name": "Identidade Preta",
       "url": "https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Essa \u00c9 a Nossa M\u00fasica",
-        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
-      },
-      "artists": [
-        {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 237108,
-      "name": "Seu Jogo",
-      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pantera Negra",
+        "url": "https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Pantera Negra",
+      "url": "https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 205440,
       "name": "Sobe junto",
       "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pantera Negra",
-        "url": "https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "Pantera Negra",
-      "url": "https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3"
     },
     {
       "added_at": null,
@@ -803,18 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
       "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     },
     {
       "added_at": null,
@@ -843,26 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
       },
       "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
     },
     {
       "added_at": null,

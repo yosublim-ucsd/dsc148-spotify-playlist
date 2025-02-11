@@ -1,12 +1,12 @@
 {
   "description": "Whenever you need a soulful boost. Cover: Marvin Gaye",
-  "num_followers": 1334359,
+  "num_followers": 1334379,
   "original_name": "Uplifting Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zowg+wAAAACFDdNfZXq81AfWKVks66R/",
+  "snapshot_id": "Z6pFBwAAAADxhOWMr0N3OLR3dInB2J5Z",
   "tracks": [
     {
       "added_at": "2023-07-19 20:17:55",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
+      "added_at": "2023-07-20 14:15:44",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+    },
+    {
       "added_at": "2022-05-11 12:27:31",
       "album": {
         "name": "Up-Tight Everything's Alright",
@@ -807,22 +823,6 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
-    },
-    {
-      "added_at": "2023-07-20 14:15:44",
-      "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     }
   ],
   "unique_name": "Uplifting Soul Classics",

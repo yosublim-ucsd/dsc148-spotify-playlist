@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Bandalos Chinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,873 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,881 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 29 | [Arena](https://open.spotify.com/track/6nN7T3jfgM9PttuXVDqjro) | [Constantino](https://open.spotify.com/artist/7JXB79cwLMZDYTwbDe7lfb) | [Arena](https://open.spotify.com/album/4cvZPjLYqA5aiUq8Xhe4hL) | 3:44 |
 | 30 | [Casa](https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Casa](https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry) | 3:23 |
 | 31 | [Terminar Mal](https://open.spotify.com/track/7JyELzKIPeuFWPZEJ6Xvtt) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Donde Duele](https://open.spotify.com/album/3BiIJ3UNYkwnhcb0Zmd8Bo) | 3:38 |
-| 32 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 32 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 33 | [ETERNO RESPLANDOR](https://open.spotify.com/track/3CZBERnMlSszfxH5I4SGQS) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [ETERNO RESPLANDOR](https://open.spotify.com/album/3xjKxy9YtsQ5wbcwGy7cqf) | 3:09 |
 | 34 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
 | 35 | [hawaii en invierno](https://open.spotify.com/track/4Q16s0BoPTTprvzFbWTIR8) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [hawaii en invierno](https://open.spotify.com/album/06DQ2FyP8pmLVQiDyrrpS3) | 3:33 |

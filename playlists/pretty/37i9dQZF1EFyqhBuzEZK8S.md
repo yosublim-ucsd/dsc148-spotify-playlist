@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 328 songs - 20 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 328 songs - 20 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 90 | [I Can Fix Him \(No Really I Can\)](https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 2:36 |
 | 91 | [Glitch](https://open.spotify.com/track/6RJBrG3VHz2hPITjv88chh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 2:28 |
 | 92 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
-| 93 | [Suburban Legends \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:51 |
-| 94 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 |
+| 93 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 |
+| 94 | [Suburban Legends \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:51 |
 | 95 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 96 | [Hard Feelings/Loveless](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 6:07 |
-| 97 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 |
-| 98 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
+| 97 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
+| 98 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 |
 | 99 | [You Are In Love \(Taylor's Version\)](https://open.spotify.com/track/4UwqOWDpdeIDVQDuKT6iza) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:27 |
 | 100 | [I Wish You Would \(Taylor's Version\)](https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:27 |
 | 101 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 133 | [Sight of the Sun \- Single Version](https://open.spotify.com/track/4orHVYvdG5v4G4bmp2Lwdg) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Sight of the Sun](https://open.spotify.com/album/1yAMkQJYPLZY7kY4DXHjpl) | 3:30 |
 | 134 | [Georgia](https://open.spotify.com/track/3XukKy28kqKFl52GiCUSFo) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:39 |
 | 135 | [Entropy](https://open.spotify.com/track/5li3FHS5s9V3l4xWsUcmQa) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Entropy](https://open.spotify.com/album/4KL4FiVZkya6twUbXgVkMF) | 3:03 |
-| 136 | [All Loved Up](https://open.spotify.com/track/6914ZWSnIGPlQkNgQldTmT) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 3:30 |
-| 137 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
+| 136 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
+| 137 | [All Loved Up](https://open.spotify.com/track/6914ZWSnIGPlQkNgQldTmT) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 3:30 |
 | 138 | [Not All Who Wander Are Lost](https://open.spotify.com/track/0Z3JiHn6mhcObPmKhV9WRW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:05 |
 | 139 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 |
 | 140 | [Let's Get Married](https://open.spotify.com/track/4PKorFhOq9YfwOGJx0cOiJ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:06 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 327 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 328 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AbpKNgAAAABS4Jxzvbhr4JzEb9uF9fzZ`
+Snapshot ID: `AbpP9AAAAACuI9UAlsS64Q6bCO02Knoq`

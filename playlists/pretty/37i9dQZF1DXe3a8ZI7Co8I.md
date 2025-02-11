@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 
 > Temitas chulos para acompañarte cuando vas de un sitio a otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,076 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,074 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 | 36 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 |
 | 37 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
 | 38 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
-| 39 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
+| 39 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 40 | [La Old Skul](https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:34 |
-| 41 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
+| 41 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
 | 42 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
 | 43 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 |
 | 44 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 | 47 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 48 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 |
 | 49 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
-| 50 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
+| 50 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 |
 
 Snapshot ID: `ZIxVGgAAAACg9jJiVzPQdG4jojS/Jewb`

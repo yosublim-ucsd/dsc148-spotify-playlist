@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 149984,
+  "num_followers": 150022,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Nem Ouro Nem Prata",
-        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
       "artists": [
         {
-          "name": "Ruy Maurity",
-          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
+          "name": "Marquinho Art'Samba",
+          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+        },
+        {
+          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
+          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
         }
       ],
-      "duration_ms": 221960,
-      "name": "Nem Ouro Nem Prata",
-      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
+      "duration_ms": 271453,
+      "name": "Hist\u00f3ria Para Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -583,22 +587,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Sambas De Enredo Das Escolas De Samba 2019",
-        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+        "name": "Nem Ouro Nem Prata",
+        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
       },
       "artists": [
         {
-          "name": "Marquinho Art'Samba",
-          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
-        },
-        {
-          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
-          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+          "name": "Ruy Maurity",
+          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Hist\u00f3ria Para Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+      "duration_ms": 221960,
+      "name": "Nem Ouro Nem Prata",
+      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
+      "duration_ms": 225546,
+      "name": "Portela Na Avenida",
+      "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
     }
   ],
   "unique_name": "carnavalizar",

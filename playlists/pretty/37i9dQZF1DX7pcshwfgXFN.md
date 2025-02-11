@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,709 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,707 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 24 | [Duaa 02](https://open.spotify.com/track/7eB8WROspSKY1nfhKxHWIw) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 02](https://open.spotify.com/album/6h36haaIPA4sHxrt6viYag) | 2:01 |
 | 25 | [Duaa 07](https://open.spotify.com/track/1crJtPUs6JClhwiUhuUr7e) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 07](https://open.spotify.com/album/38Dfhk8B62t8Pt9P9HzCvU) | 2:06 |
 | 26 | [اعينا على طاعتك](https://open.spotify.com/track/4b9ePeY7n2SSPUqU2hVXqI) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:41 |
-| 27 | [\( Live \) اللهم أصلح لنا ديننا](https://open.spotify.com/track/5n5cx2fWiuQM4oInnKmuBT) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
+| 27 | [\( Live \) اللهم صلي على جميع الملائكة والمرسلين](https://open.spotify.com/track/36LZfcKCa9dIatXNNrP7ck) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 28 | [Duaa 03](https://open.spotify.com/track/1kvFQLIRqdjC7mLlGeSxTL) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 03](https://open.spotify.com/album/5opMjcbsUJaBWcfplJt7pt) | 2:33 |
 | 29 | [يا ذا العزة والجبروت](https://open.spotify.com/track/7tRYG3bVGBOWjxBOEXl7tS) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [يا ذا العزة والجبروت](https://open.spotify.com/album/4hrSh96yW1b065Cwssg8og) | 1:51 |
 | 30 | [Duaa 13](https://open.spotify.com/track/5bCvtfbE6Rbz92WqqS5c2s) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 13](https://open.spotify.com/album/4gbUx4AiwZOzGu5M0dlX4J) | 3:03 |
 | 31 | [الحمد لله الذي هدانا لهذا](https://open.spotify.com/track/5Dzjoi4D3XphLfyXmMGVQF) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:17 |
-| 32 | [\( Live \) اللهم صلي على جميع الملائكة والمرسلين](https://open.spotify.com/track/36LZfcKCa9dIatXNNrP7ck) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
+| 32 | [\( Live \) اللهم أصلح لنا ديننا](https://open.spotify.com/track/5n5cx2fWiuQM4oInnKmuBT) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 33 | [الحمد لله الذي فضلنا على كثير من عباده](https://open.spotify.com/track/6UGM6qnYm0z3AI61YFPNT9) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:24 |
 | 34 | [الحمد لله رب العالمين ..\. اللهم انت ربي](https://open.spotify.com/track/7iji8hIa2jkYy0UxbSZP2N) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:37 |
 | 35 | [دعاء لأموات المسلمين](https://open.spotify.com/track/1kdnIvqcahooMtVpVuFKP4) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء لأموات المسلمين](https://open.spotify.com/album/4ki0bEvYcj30ky4CytwUNw) | 16:26 |

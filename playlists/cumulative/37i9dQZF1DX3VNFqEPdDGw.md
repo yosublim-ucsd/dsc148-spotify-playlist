@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-225 songs - 11 hr 50 min
+226 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chitta Kurta](https://open.spotify.com/track/7mUuarQfB0E0Xs80Vzd2gw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Chitta Kurta](https://open.spotify.com/album/6BNtWTI4thL4DO6vpVz7vZ) | 3:37 | 2025-01-08 |  |
 | [Clash](https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:56 | 2025-01-08 | 2025-02-07 |
 | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/track/5SzPs3C9TLb7CGDwlB5kaZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/album/16T7F58qWvIfjLri9fotfN) | 4:07 | 2021-12-18 | 2022-01-11 |
+| [Cobra](https://open.spotify.com/track/5yBnT2ltrfE0RqKgdf2iL9) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:23 | 2025-02-10 |  |
 | [Dabde Ni](https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Dabde Ni](https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO) | 3:27 | 2021-12-18 |  |
 | [Darling Jatt Di](https://open.spotify.com/track/7fgGw2QclbAi9zTJzYoctE) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Darling Jatt Di](https://open.spotify.com/album/2cERsCCY4i2erGlka8b0AX) | 2:56 | 2025-01-08 |  |
 | [Daru Sambh Di](https://open.spotify.com/track/2ULlDmMknqnJZyf5w4s59B) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Sahil Thapar](https://open.spotify.com/artist/3bze3etaYqANIcGf6y6ohD) | [Alcholic](https://open.spotify.com/album/2vK8de8FlB9OTiTVGl8Zxv) | 2:42 | 2025-01-08 |  |
@@ -181,7 +182,7 @@
 | [Risk](https://open.spotify.com/track/2GCwJozOloUTJSGJDVXcam) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Risk](https://open.spotify.com/album/0t5pMUgOK5i9p2dOdMjtJB) | 3:44 | 2025-01-08 |  |
 | [Rohab Te Round](https://open.spotify.com/track/1DVtRbRYScXQwJVcZhcmqE) | [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV), [Alam Chatha](https://open.spotify.com/artist/6QD7yIIxirmaHmp3Ukn6Ch) | [Rohab Te Round](https://open.spotify.com/album/2sR59f1t58nnfn6wx8i8pu) | 3:09 | 2024-11-11 | 2025-01-09 |
 | [Sada Daur](https://open.spotify.com/track/1eoGuijJpFd6Txwp0pys4l) | [Dhira Gill](https://open.spotify.com/artist/2FQhpGbpOq4z3dz4oHmB7G), [Aman Hayer](https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus), [Saab Pangota](https://open.spotify.com/artist/1HjAS2d6YUCo2m9JdiiHU4) | [Sada Daur](https://open.spotify.com/album/1vxY1JwVD6qDeBCKI2bwvR) | 3:09 | 2024-11-15 | 2025-01-09 |
-| [Salama](https://open.spotify.com/track/6ufJkAWIc0GJN5RtnrJ3X7) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Salama](https://open.spotify.com/album/537alo5lmWIz56TDovYIHY) | 3:26 | 2025-01-08 |  |
+| [Salama](https://open.spotify.com/track/6ufJkAWIc0GJN5RtnrJ3X7) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Salama](https://open.spotify.com/album/537alo5lmWIz56TDovYIHY) | 3:26 | 2025-01-08 | 2025-02-11 |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2023-07-26 |  |
 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 | 2025-01-08 |  |
 | [Sanjay Dutt](https://open.spotify.com/track/6IN08l8EkriTzXQ1KFCb9Y) | [Vadda Grewal](https://open.spotify.com/artist/0l25Af4xjrqTYCHUxkrs0c), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Sanjay Dutt](https://open.spotify.com/album/6UHTNreKfTn9Mr7Wyh3Ptv) | 2:37 | 2025-01-08 | 2025-01-29 |

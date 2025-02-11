@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1369716,
+  "num_followers": 1369672,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
+        "name": "Media Hora",
+        "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 123157,
+      "name": "Media Hora",
+      "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 360960,
       "name": "Pa M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
-        "name": "Media Hora",
-        "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 123157,
-      "name": "Media Hora",
-      "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
-        "name": "Indeciso",
-        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Indeciso",
-      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
         "name": "HOLA PERDIDA REMIX",
         "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
       },
@@ -1859,6 +1835,30 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
+        "name": "Indeciso",
+        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Indeciso",
+      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
-        "name": "JACKPOT",
-        "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/23W44WWCP8SibyP292TWo5"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/23W44WWCP8SibyP292TWo5"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -2119,26 +2119,6 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
-        "name": "Goteras",
-        "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 216450,
-      "name": "Goteras",
-      "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -2159,6 +2139,26 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
+        "name": "Goteras",
+        "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 216450,
+      "name": "Goteras",
+      "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
         "name": "MIRALA",
         "url": "https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 146633,
       "name": "MIRALA",
       "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
-        "name": "Dale 2",
-        "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        }
-      ],
-      "duration_ms": 148850,
-      "name": "Dale 2",
-      "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
-    },
-    {
-      "added_at": "2025-01-31 09:31:34",
-      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -2355,22 +2335,22 @@
     {
       "added_at": "2025-01-31 09:31:34",
       "album": {
-        "name": "LYKE MIIKE",
-        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+        "name": "Dale 2",
+        "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
         }
       ],
-      "duration_ms": 190432,
-      "name": "LOS DEPURO (feat. L-Gante)",
-      "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
+      "duration_ms": 148850,
+      "name": "Dale 2",
+      "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
     },
     {
       "added_at": "2025-01-31 09:31:34",
@@ -2395,6 +2375,26 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2025-01-31 09:31:34",
+      "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 190432,
+      "name": "LOS DEPURO (feat. L-Gante)",
+      "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
     },
     {
       "added_at": "2025-01-31 09:31:34",

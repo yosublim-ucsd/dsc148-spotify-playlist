@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Robert van Hemert
 
-223 songs - 10 hr 55 min
+224 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Het Regent Pijpenstelen](https://open.spotify.com/track/1MhoNw8jlaZs6ItTGREl7X) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Het Regent Pijpenstelen](https://open.spotify.com/album/4CzGuGHyT7rjwlnkHB9Szp) | 3:08 | 2025-01-06 |  |
 | [Hobbel Hobbel](https://open.spotify.com/track/1I3SaCDWwpP6ecFRv9URsW) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Hobbel Hobbel](https://open.spotify.com/album/7zFB1p8TevtJViAZwexvY6) | 2:32 | 2025-01-16 |  |
 | [Hoe Heet Dat Liedje?](https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Hoe Heet Dat Liedje?](https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD) | 3:15 | 2025-02-07 |  |
-| [Hoe Heet Je](https://open.spotify.com/track/0iWZVj23pIypIYVEVwczGi) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Hoe Heet Je](https://open.spotify.com/album/1WpqIFIywitTybloFfBw8C) | 2:58 | 2024-09-26 |  |
+| [Hoe Heet Je](https://open.spotify.com/track/0iWZVj23pIypIYVEVwczGi) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Hoe Heet Je](https://open.spotify.com/album/1WpqIFIywitTybloFfBw8C) | 2:58 | 2024-09-26 | 2025-02-11 |
 | [Hoe Ik Leven Moet](https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr) | [Jan van Est](https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE) | [Hoe Ik Leven Moet](https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11) | 2:58 | 2024-07-04 | 2024-11-15 |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-08-01 | 2025-01-11 |
 | [Hou me vast](https://open.spotify.com/track/1W6FvzWv11decQuYPkHPyB) | [Quincy](https://open.spotify.com/artist/4fRfbdOrNz7rMisq8Ff78c) | [Hou me vast](https://open.spotify.com/album/7jVSueTIpVROWGqkyAa0gU) | 3:36 | 2024-06-13 | 2024-07-19 |
@@ -196,6 +196,7 @@
 | [Vergeef Me](https://open.spotify.com/track/27737JQ5rhBTJyYGLQZkBs) | [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Vergeef Me](https://open.spotify.com/album/5D2U4wDovo9O3j57QOjQVD) | 3:01 | 2024-06-13 | 2024-09-13 |
 | [Vergeef Me](https://open.spotify.com/track/2kxH1XMnceTTSNQLexMxnb) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Vergeef Me](https://open.spotify.com/album/4YiGU14kyBhle7EwUD5fv0) | 3:17 | 2024-11-07 |  |
 | [Verliefd, Verloofd, Getrouwd](https://open.spotify.com/track/5SuMvsdeGAXZGvwUaqGlRX) | [Rudy de Wit](https://open.spotify.com/artist/39dlRB5uIsJsdUDGSj74AH) | [Verliefd, Verloofd, Getrouwd](https://open.spotify.com/album/4qT3cXHAkPO56wxdHjlkWn) | 3:08 | 2024-06-13 | 2024-10-19 |
+| [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-10 |  |
 | [Vier Het Leven](https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Vier Het Leven](https://open.spotify.com/album/4yTIeSkw9df9ZRKGC4NBhM) | 3:20 | 2024-06-13 | 2024-10-11 |
 | [Voel je dan niet](https://open.spotify.com/track/3ZKoKdBxP6vDbXh0D2rR6U) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Voel je dan niet](https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk) | 2:43 | 2024-06-13 | 2024-08-30 |
 | [Voel Voel Voel](https://open.spotify.com/track/2erib8JNK3cb4PiYk1cHvo) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Voel Voel Voel](https://open.spotify.com/album/0dGdbc1Ua6BwzLZkSllywO) | 2:42 | 2024-06-13 | 2024-11-05 |

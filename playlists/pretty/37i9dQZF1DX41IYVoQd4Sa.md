@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ג׳ירפות
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,417 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,419 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 29 | [סבתא חנה](https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Shlomi Saranga](https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti) | [שמש וענן](https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8) | 3:07 |
 | 30 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
 | 31 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
-| 32 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 |
+| 32 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 |
 | 33 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 |
-| 34 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 |
+| 34 | [אם זה גדול עלי](https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אם זה גדול עלי](https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy) | 2:33 |
 | 35 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
-| 36 | [Doing So Much Better](https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Doing So Much Better](https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W) | 3:07 |
-| 37 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
+| 36 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 |
+| 37 | [Doing So Much Better](https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Doing So Much Better](https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W) | 3:07 |
 | 38 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 |
 | 39 | [נשמה יקרה](https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [נשמה יקרה](https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk) | 3:26 |
 | 40 | [נשמה](https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3) | [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [נשמה](https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ) | 3:48 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 44 | [בסוף אני מגן דוד](https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בסוף אני מגן דוד](https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW) | 3:54 |
 | 45 | [כל זה היה נכון](https://open.spotify.com/track/0BhB8dOpl7STuLZOMYvfHb) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY) | [כל זה היה נכון](https://open.spotify.com/album/2ummjP9nMAduQFBjtQoF6P) | 3:43 |
-| 46 | [אני משם](https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [אני משם](https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi) | 3:30 |
-| 47 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 46 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 47 | [אני משם](https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [אני משם](https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi) | 3:30 |
 | 48 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
 | 49 | [שלושת הקופים](https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שלושת הקופים](https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4) | 2:39 |
 | 50 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 57 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
 | 58 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
 | 59 | [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 |
-| 60 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
+| 60 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 
 Snapshot ID: `Z6Uw9wAAAAA5ncFWPJ50pAv4NS6rQSGi`

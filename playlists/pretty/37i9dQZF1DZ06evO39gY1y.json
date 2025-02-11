@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 237191,
+  "num_followers": 237253,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAAFvsMmQsEpfPbiAFERW7Li",
+  "snapshot_id": "Z6fwAAAAAAAH6P/gpFQTMBWEDj+kMzxE",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nico Male\u00f3n",
+          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Aqu\u00ed Todo Esta Bien",
+      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #9",
         "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 188387,
       "name": "LQRA Session #9",
       "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nico Male\u00f3n",
-          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Aqu\u00ed Todo Esta Bien",
-      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 246100,
       "name": "Penitencia",
       "url": "https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cleopatra / \u201cGobernante\u201d",
-        "url": "https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        }
-      ],
-      "duration_ms": 179507,
-      "name": "Cleopatra / \u201cGobernante\u201d",
-      "url": "https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 166499,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cleopatra / \u201cGobernante\u201d",
+        "url": "https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        }
+      ],
+      "duration_ms": 179507,
+      "name": "Cleopatra / \u201cGobernante\u201d",
+      "url": "https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML"
     },
     {
       "added_at": null,

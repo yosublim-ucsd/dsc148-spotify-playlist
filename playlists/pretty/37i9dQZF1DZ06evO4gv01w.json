@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 29350,
+  "num_followers": 29360,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADUWeJosaib2RigXPfX80vo",
+  "snapshot_id": "Z6fwAAAAAACiQNabum/beFDmaUd+SyvV",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4EawAVDF7WBbWj7gGLSjP3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/7AZTHka2MiNr13j68b0Qun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4EawAVDF7WBbWj7gGLSjP3"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 220941,
       "name": "Nights In White Satin",
       "url": "https://open.spotify.com/track/1dVLQBgBkC8PEt4vd8xVOy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
     },
     {
       "added_at": null,
@@ -667,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+        "name": "Electrified",
+        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
       },
       "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 210040,
-      "name": "Sucker Puncher",
-      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
+      "duration_ms": 163758,
+      "name": "One and Lonely",
+      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electrified",
-        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
       },
       "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 163758,
-      "name": "One and Lonely",
-      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
+      "duration_ms": 210040,
+      "name": "Sucker Puncher",
+      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/6uMLaQcGvs5Jv9Cgiq3nWo"
+      "duration_ms": 131052,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/4qaFnbqfIeIBSSFX9YNRe2"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 131052,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/4qaFnbqfIeIBSSFX9YNRe2"
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/6uMLaQcGvs5Jv9Cgiq3nWo"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Acoustic Companion",
-        "url": "https://open.spotify.com/album/4xY9iSCmjCYFeMkBbfuaiV"
+        "name": "Jam in the Van - Larkin Poe (Live Session, Atlanta, GA, 2014)",
+        "url": "https://open.spotify.com/album/6IiQavkinbWNCXhvI6mWM9"
       },
       "artists": [
+        {
+          "name": "Jam in the Van",
+          "url": "https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 217968,
-      "name": "Stubborn Love - Acoustic",
-      "url": "https://open.spotify.com/track/6oqPKcmGKibcIjmS2VZAu6"
+      "duration_ms": 235258,
+      "name": "Stubborn Love - Live Session, Atlanta, GA, 2014",
+      "url": "https://open.spotify.com/track/2pDQuQwIrnJHXBgv0DCPNe"
     }
   ],
   "unique_name": "This Is Larkin Poe",

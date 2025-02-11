@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,356 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,374 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 33 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 34 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
 | 35 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
-| 36 | [Parte & Choke](https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r) | 3:25 |
-| 37 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
+| 36 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
+| 37 | [Parte & Choke](https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Parte & Choke](https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r) | 3:25 |
 | 38 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 39 | [Coqueta](https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Coqueta](https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm) | 3:55 |
 | 40 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |

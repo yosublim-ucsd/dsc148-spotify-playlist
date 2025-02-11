@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237 likes - 240 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238 likes - 240 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 34 | [Fire](https://open.spotify.com/track/3NjnjF26CQer9yRTNDfvqQ) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 3:51 |
 | 35 | [Sting](https://open.spotify.com/track/1KA2L49RNYQzMe3LJJs7Tj) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:07 |
 | 36 | [Doing Better](https://open.spotify.com/track/1k7jAhbUihs1zx3rbhWgj0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:33 |
-| 37 | [Problems](https://open.spotify.com/track/51TeC7QD7g4pyDz8FQDXdS) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Problems](https://open.spotify.com/album/6ZU7bZOKWg6qfn2FFaq3K0) | 2:35 |
-| 38 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 |
+| 37 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 |
+| 38 | [Problems](https://open.spotify.com/track/51TeC7QD7g4pyDz8FQDXdS) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Problems](https://open.spotify.com/album/6ZU7bZOKWg6qfn2FFaq3K0) | 2:35 |
 | 39 | [Can I Get Your Number](https://open.spotify.com/track/6jrjTqvniDSdk0jQPrdPIu) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:20 |
 | 40 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
 | 41 | [Great Escape](https://open.spotify.com/track/0yApo58nPL6UVpkWfc01j8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 4:07 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 97 | [Disintegration \- Memtrix Remix](https://open.spotify.com/track/58rw1aBngMLC7bh6fOZYfO) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Memtrix](https://open.spotify.com/artist/3bffaBH7akOhsSLsVJcJug) | [Prophication \(Remixes\)](https://open.spotify.com/album/118lzP3BexBAS4HzhwLxtz) | 4:33 |
 | 98 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
 | 99 | [roses in the rain \(lullaby\)](https://open.spotify.com/track/6LYBomYZljvsHKV2rLA3Vs) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:26 |
-| 100 | [Free](https://open.spotify.com/track/4xTg0C2hbt19hlRA7HFWqU) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:27 |
-| 101 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
+| 100 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
+| 101 | [Free](https://open.spotify.com/track/4xTg0C2hbt19hlRA7HFWqU) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:27 |
 | 102 | [smile](https://open.spotify.com/track/0XIcnB5ioyvvc4VWZHrRsB) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:17 |
 | 103 | [Feel For You](https://open.spotify.com/track/2d9459rCOb4K0xypqo3qK8) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:39 |
 | 104 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 121 | [home](https://open.spotify.com/track/6M4m465yvuv1js4qpxyRWd) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:39 |
 | 122 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 |
 | 123 | [Mr\. Diva](https://open.spotify.com/track/0aItLBbKuK6DXwUL7v46Tq) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Mr\. Diva \- EP](https://open.spotify.com/album/6QRuYRIVmLpS1YZGcPChYh) | 4:07 |
-| 124 | [Slide](https://open.spotify.com/track/7HJ86cmPozGoxEFjntcMzp) | [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Slide](https://open.spotify.com/album/4JXMgekPtqjDcnrlERWiGS) | 4:13 |
-| 125 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
+| 124 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
+| 125 | [Slide](https://open.spotify.com/track/7HJ86cmPozGoxEFjntcMzp) | [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Slide](https://open.spotify.com/album/4JXMgekPtqjDcnrlERWiGS) | 4:13 |
 | 126 | [Dance To The Music](https://open.spotify.com/track/2945XgGPQwoDP2ZM69af4h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:31 |
 | 127 | [The End](https://open.spotify.com/track/2b9knIEU8i2rFHNUC6QWMp) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [The Throes Of Winter](https://open.spotify.com/album/4fGt5oUlTWgA2Yn3HrOoD2) | 4:52 |
 | 128 | [Flowers for Anna](https://open.spotify.com/track/47U7lFNFG9T3zH7eWaUUry) | [Ames](https://open.spotify.com/artist/4oDmrxjcmdVRXErxCTDFZA) | [Flowers for Anna](https://open.spotify.com/album/6byTecwER6LeUzKXGldAhH) | 3:30 |
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 187 | [4 Letter Word](https://open.spotify.com/track/58uR3kZLQecc31yol8Ryqq) | [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Dedicated To:](https://open.spotify.com/album/25VjYN3RwJfVIfF9r83tuZ) | 3:23 |
 | 188 | [The Hard Way](https://open.spotify.com/track/1z9bo6t4Cml4e4SN7yYSMZ) | [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [The Hard Way](https://open.spotify.com/album/5pASbfhqQxkXzdtOvJaA3R) | 3:11 |
 | 189 | [Changes](https://open.spotify.com/track/2GM6Ru5A11mm9hS8mXPWCS) | [Sam Johnson](https://open.spotify.com/artist/4FePLXv9OD4k0vOfZLBn43) | [Changes](https://open.spotify.com/album/4XUzTI1B64yofW2gjB8mAW) | 3:23 |
-| 190 | [fighter](https://open.spotify.com/track/2KmHqsepzTNqD7lA3fl45j) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:45 |
-| 191 | [Infinite Roses](https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj) | 3:15 |
+| 190 | [Infinite Roses](https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj) | 3:15 |
+| 191 | [fighter](https://open.spotify.com/track/2KmHqsepzTNqD7lA3fl45j) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:45 |
 | 192 | [time of our lives](https://open.spotify.com/track/31Vfan2nGIHQiAhJDEXLFM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:23 |
 | 193 | [Save Me](https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 3:43 |
 | 194 | [Hit It Again](https://open.spotify.com/track/40aA9N1KJVaQigqU4tp8VF) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:56 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 239 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 240 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbpKXgAAAABGblc0+U01VRIBHuhEINo0`
+Snapshot ID: `AbpP9AAAAAAEnFzd/nRH7lNUGdrD+rwo`

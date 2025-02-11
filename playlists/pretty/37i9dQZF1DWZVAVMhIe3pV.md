@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,093 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,132 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 53 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:58 |
 | 54 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
 | 55 | [Gumshield](https://open.spotify.com/track/7dC1ODfFU31b77PQWgQ21M) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |
-| 56 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
-| 57 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
+| 56 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
+| 57 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
 | 58 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
 | 59 | [Screamager](https://open.spotify.com/track/6AXZm9PDOhrG99M1dDBAbp) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:36 |
 | 60 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 68 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
 | 69 | [Gushin' Blood](https://open.spotify.com/track/3AQzefqzIKZFzzIZEtBXIj) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:29 |
 | 70 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
-| 71 | [in my blood](https://open.spotify.com/track/6UCtr0AtfQz1F911AFgbI6) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:28 |
-| 72 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
-| 73 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
+| 71 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
+| 72 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
+| 73 | [in my blood](https://open.spotify.com/track/6UCtr0AtfQz1F911AFgbI6) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:28 |
 | 74 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 |
 | 75 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 76 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 |

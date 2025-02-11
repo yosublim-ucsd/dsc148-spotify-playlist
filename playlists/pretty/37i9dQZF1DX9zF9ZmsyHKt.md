@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,958 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,012 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 42 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
 | 43 | [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 |
 | 44 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
-| 45 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
+| 45 | [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 |
 | 46 | [Paixão no Lendário Rubi](https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Paixão no Lendário Rubi](https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3) | 4:23 |
-| 47 | [É Tudo pra Mim](https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm) | [Banda Paixão do Calypso](https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m) | [É Tudo pra Mim](https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f) | 4:11 |
+| 47 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
 | 48 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
 | 49 | [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 |
 | 50 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |

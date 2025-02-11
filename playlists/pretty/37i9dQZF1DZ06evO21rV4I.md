@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,760 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,827 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [G Love](https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 2:45 |
 | 50 | [Energy](https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:01 |
 
-Snapshot ID: `Z6aegAAAAAAruqHYfPNiarOwvIXmZJMz`
+Snapshot ID: `Z6fwAAAAAABtfF/6MiB7ysNJQUGOHBSJ`

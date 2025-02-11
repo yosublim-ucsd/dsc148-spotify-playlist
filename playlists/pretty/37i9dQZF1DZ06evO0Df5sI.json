@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21550,
+  "num_followers": 21556,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAB8qz8FgqKD738EPRPQZodE",
+  "snapshot_id": "Z6fwAAAAAAA6qfxVeTtPKeRcabz9T8ge",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Hell Yes",
-      "url": "https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 227026,
       "name": "This Could Be Love",
       "url": "https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Hell Yes",
+      "url": "https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 238973,
-      "name": "Shake With Me",
-      "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
+      "duration_ms": 193986,
+      "name": "Versions Of You",
+      "url": "https://open.spotify.com/track/1mjnFCE5vwFOJqe4PCsoMH"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 193986,
-      "name": "Versions Of You",
-      "url": "https://open.spotify.com/track/1mjnFCE5vwFOJqe4PCsoMH"
+      "duration_ms": 238973,
+      "name": "Shake With Me",
+      "url": "https://open.spotify.com/track/4rRFTcNXhp2y2thpIoItHR"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "My Standard Break from Life",
-      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 198893,
       "name": "Every Thug Needs a Lady",
       "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,477 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,643 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 13 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
 | 14 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
 | 15 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
-| 16 | [Bewafa Tera Masoom Chehra](https://open.spotify.com/track/2plj6f8TqOF0YNuHd2VzJD) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bewafa Tera Masoom Chehra](https://open.spotify.com/album/5u8vmQ2Y0KRf5cYMa1VwV4) | 4:02 |
-| 17 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
+| 16 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
+| 17 | [Bewafa Tera Masoom Chehra](https://open.spotify.com/track/2plj6f8TqOF0YNuHd2VzJD) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bewafa Tera Masoom Chehra](https://open.spotify.com/album/5u8vmQ2Y0KRf5cYMa1VwV4) | 4:02 |
 | 18 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 |
 | 19 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 |
 | 20 | [Kaash Aisa Hota](https://open.spotify.com/track/32IjXlRFxNtJ4eMhKAUrSX) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kaash Aisa Hota](https://open.spotify.com/album/6sp5v7jZvHZBZUqCasMTNj) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,545 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,554 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,15 +129,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 119 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 |
 | 120 | [Love Someone](https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH) | 3:25 |
 | 121 | [Malay Mo, Tayo](https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw) | 4:34 |
-| 122 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
-| 123 | [Lost Without You](https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7) | 3:45 |
-| 124 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
-| 125 | [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 |
+| 122 | [Lost Without You](https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7) | 3:45 |
+| 123 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 124 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
+| 125 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 |
 | 126 | [Heaven](https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 |
-| 127 | [Fade Away](https://open.spotify.com/track/6Yc24vrmfEwFqX1TfC7ccJ) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 DAYS MY PRINCE \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0C8Pu2s6MgnlIwl0GMwUMX) | 3:52 |
-| 128 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
-| 129 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 |
-| 130 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 |
+| 127 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
+| 128 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 |
+| 129 | [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 |
+| 130 | [Fade Away](https://open.spotify.com/track/6Yc24vrmfEwFqX1TfC7ccJ) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 DAYS MY PRINCE \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0C8Pu2s6MgnlIwl0GMwUMX) | 3:52 |
 | 131 | [Your Song \- My One and Only You](https://open.spotify.com/track/311a0P87ZiMjjCaoQSZEfh) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Your Song \(My One and Only You\)](https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU) | 3:42 |
 | 132 | [unlasting](https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [unlasting](https://open.spotify.com/album/6KX3psH1IKf8fNaz65uqRP) | 4:55 |
 | 133 | [Asal Mein](https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein \- Single](https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV) | 3:44 |

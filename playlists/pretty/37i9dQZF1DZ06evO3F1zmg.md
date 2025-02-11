@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,888 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,895 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 29 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 |
 | 30 | [Back Seat](https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 3:03 |
 | 31 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
-| 32 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/2sOnlJG7pZXYM7s1z8S5Qk) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 3:39 |
-| 33 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
+| 32 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
+| 33 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/2sOnlJG7pZXYM7s1z8S5Qk) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 3:39 |
 | 34 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 |
 | 35 | [Move \(feat\. Saweetie\)](https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:34 |
 | 36 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [SHE PRETTY \- WITH SAWEETIE](https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:36 |
 | 50 | [Bussin 2.0](https://open.spotify.com/track/7f6IbVQGsCVocy1n1Amp9t) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Blockedt](https://open.spotify.com/album/0yOjdUvQxbkIHZGwvCDXMe) | 2:16 |
 
-Snapshot ID: `Z6aegAAAAAArmx7Vg5sxuR8dhEc2o5aM`
+Snapshot ID: `Z6fwAAAAAADpkkRYj+Cvn7T/xfG2lsBD`

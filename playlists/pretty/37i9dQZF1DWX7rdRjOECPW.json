@@ -1,6 +1,6 @@
 {
   "description": "Das war der Sommer 2024 \u2600\ufe0f",
-  "num_followers": 1522987,
+  "num_followers": 1522889,
   "original_name": "Sommerhits 2024",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "Black Friday (pretty like the sun)",
-        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
-      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "daf\u00fcr bin ich frei EP",
         "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 159357,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 159357,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "No Heroes",
-        "url": "https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Luca Schreiner",
-          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
-        },
-        {
-          "name": "ANY",
-          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
-        }
-      ],
-      "duration_ms": 121135,
-      "name": "No Heroes",
-      "url": "https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 123870,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "No Heroes",
+        "url": "https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+        }
+      ],
+      "duration_ms": 121135,
+      "name": "No Heroes",
+      "url": "https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO"
     },
     {
       "added_at": "2024-08-29 14:50:12",

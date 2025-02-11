@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-223 songs - 18 hr 5 min
+224 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 | 2024-10-28 |
 | [Galbi Datah](https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1) | [Cheb Reda](https://open.spotify.com/artist/4Dv4xd6O64eglhzxOCQDcb), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Datah](https://open.spotify.com/album/6u1mr4vKlPuFnAzUnWpUR8) | 4:36 | 2023-05-01 | 2023-08-26 |
 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 |  |
-| [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 |  |
+| [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 | 2025-02-11 |
 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 | 2024-08-07 |  |
 | [Gariha Tebred](https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Gariha Tebred](https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ) | 4:36 | 2024-08-20 |  |
 | [Ghazali](https://open.spotify.com/track/3LhtZaCJX2Z5pGFQGK6nP0) | [Artisan Dz](https://open.spotify.com/artist/1v8wfWfx4RqBm2Mqy1v9o9) | [Ghazali](https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG) | 5:04 | 2022-10-03 | 2022-10-09 |
@@ -124,6 +124,7 @@
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 | 2023-05-19 |
 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 | 2023-02-01 | 2023-08-29 |
 | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/track/7oVMXlkx5zpbOg6rTCK6bj) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A) | 3:54 | 2022-09-20 | 2022-12-27 |
+| [Ma msagma ma cheba ma Hnina](https://open.spotify.com/track/11HB3Toz6I1l7zXQ0RQpuL) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Ma msagma ma cheba ma Hnina](https://open.spotify.com/album/2AXP0Z8CA36mMmff32VoGK) | 4:55 | 2025-02-10 |  |
 | [Ma Tzawjet Ma Walet](https://open.spotify.com/track/53srYeUEKA5rplVgSWhnRP) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma Tzawjet Ma Walet](https://open.spotify.com/album/3zCuPox0tptwvUu5ePP1HM) | 7:12 | 2021-10-19 | 2022-02-01 |
 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 | 2021-10-19 | 2024-07-05 |
 | [Ma3lich Ya 9albi](https://open.spotify.com/track/7yckIvJtO4FII0703PgoQ2) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch) | [Ma3lich Ya 9albi](https://open.spotify.com/album/1Qa47e6uVzfW8iOzjOOO0e) | 5:46 | 2024-05-13 |  |

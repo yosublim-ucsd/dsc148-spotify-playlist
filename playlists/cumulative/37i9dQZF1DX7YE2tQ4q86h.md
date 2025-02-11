@@ -4,7 +4,7 @@
 
 > Our maximalist queen returns 🆘  Cover: Ava Max
 
-1,200 songs - 2 day 12 hr 11 min
+1,201 songs - 2 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [HOW TO RUIN EVERYTHING](https://open.spotify.com/track/5la3wv8OeqvdP8vxKLXHfC) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [HOW TO RUIN EVERYTHING](https://open.spotify.com/album/17Ffbtd43DVCRkkhQ6Ry7N) | 2:53 | 2023-09-29 | 2023-10-14 |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-02-15 | 2022-06-18 |
 | [How Will I Know](https://open.spotify.com/track/2vVeBAHVpohT92j4mfz9C9) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [How Will I Know](https://open.spotify.com/album/7zuQgnQnVGNyz5Lndojf8V) | 3:39 | 2023-06-02 | 2023-08-12 |
-| [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 |  |
+| [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 | 2025-02-11 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-07 | 2025-01-25 |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2022-09-16 | 2022-10-09 |
 | [Hush Hush](https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Hush Hush](https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN) | 2:53 | 2025-02-03 |  |
@@ -596,6 +596,7 @@
 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 | 2022-06-17 | 2022-08-13 |
 | [Just Two](https://open.spotify.com/track/5v87abdR3eU3shVkq1agjK) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:22 | 2025-01-24 |  |
 | [Just Watch Us](https://open.spotify.com/track/00i7oYgWiBm1PXOaoX3Q7G) | [Bonsai Mammal](https://open.spotify.com/artist/13iDdIpwM4TXBNgdEEc5MK), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Just Watch Us](https://open.spotify.com/album/5nRshbEKgMKrC8D1WxsA8I) | 1:54 | 2024-06-07 | 2024-07-06 |
+| [Kant](https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [Kant](https://open.spotify.com/album/4szjsBraAhoWG3XNHednZK) | 2:59 | 2025-02-10 |  |
 | [Karaoke](https://open.spotify.com/track/6zSOlBFpuyqlgnfcz28BqE) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Karaoke](https://open.spotify.com/album/7pcvh3a56G6Sfv5O7lBh1I) | 2:59 | 2024-01-19 | 2024-02-03 |
 | [Karaoke](https://open.spotify.com/track/0FbnT1LTk18JN1Uy2KfufE) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Karaoke](https://open.spotify.com/album/5tFMQoak42d3e8tOC4Ksgb) | 3:14 | 2022-05-06 | 2022-05-20 |
 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 | 2024-04-05 | 2024-08-10 |

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: PLAVE
+> Future K\-Pop hits! Cover: RESCENE
 
-1,199 songs - 2 day 17 hr 6 min
+1,200 songs - 2 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2020-12-09 | 2021-04-22 |
 | [GLASSY](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [GLASSY](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) | 3:09 | 2021-10-13 | 2021-11-24 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-07-30 |
+| [Glow Up](https://open.spotify.com/track/12tWYSmupB8x0B4HyalBAm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Glow Up](https://open.spotify.com/album/0Ka3xa6oOWmW1hIjjjxEW0) | 2:28 | 2025-02-10 |  |
 | [Go Back](https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Go Back](https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH) | 3:06 | 2022-10-27 | 2023-01-05 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2021-10-13 | 2021-11-19 |
 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 | 2022-09-24 | 2022-11-25 |
@@ -619,7 +620,7 @@
 | [Losing You](https://open.spotify.com/track/4OJJ48xIvpbP3lHaCkEIbA) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Losing You](https://open.spotify.com/album/2pA5upussFvf8eQoMUATmI) | 2:58 | 2020-10-13\* | 2020-11-11 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-12 | 2022-03-25 |
 | [LOVE and FEAR](https://open.spotify.com/track/3v2fpbBTm5m0uPU15qnQ36) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.2](https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH) | 3:07 | 2024-07-08 | 2024-10-02 |
-| [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 | 2024-09-27 |  |
+| [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 | 2024-09-27 | 2025-02-11 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-08-05 | 2023-04-21 |
 | [Love Effect](https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [LOVE EFFECT](https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz) | 2:52 | 2023-10-05 | 2023-11-08 |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-02 | 2022-05-25 |

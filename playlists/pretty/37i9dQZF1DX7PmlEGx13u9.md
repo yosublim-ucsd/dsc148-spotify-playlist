@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 
 > Certified R&B Hits\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,110 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,136 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 | 46 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 47 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
 | 48 | [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 |
-| 49 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
-| 50 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
+| 49 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 |
+| 50 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
 
 Snapshot ID: `Z1t5IgAAAAAITZyz242YV29L44krtxWv`

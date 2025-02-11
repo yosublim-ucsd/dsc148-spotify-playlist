@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 171113,
+  "num_followers": 171131,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAC3j0ZM1gU+N0G1YFDTzUhq",
+  "snapshot_id": "Z6fwAAAAAAAj664ge9yQThnzou2syuvQ",
   "tracks": [
     {
       "added_at": null,
@@ -159,34 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay Mi Dios",
-        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
-      },
-      "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 252003,
-      "name": "Ay Mi Dios",
-      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) [Remix]",
         "url": "https://open.spotify.com/album/4BQBdbRNXOJAV580HH1mr2"
       },
@@ -215,6 +187,34 @@
       "duration_ms": 395666,
       "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) - Remix",
       "url": "https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay Mi Dios",
+        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 252003,
+      "name": "Ay Mi Dios",
+      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Como Antes (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -579,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Como Antes (feat. Wisin)",
-      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA MAYBACH",
         "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
       },
@@ -623,6 +623,34 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
+        "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 315440,
+      "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
+      "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
     },
     {
       "added_at": null,
@@ -655,34 +683,6 @@
       "duration_ms": 179093,
       "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
       "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
-        "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 315440,
-      "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
-      "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "La Calle Me Lo Pidio",
-      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) [Remix]",
         "url": "https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 270869,
       "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) - Remix",
       "url": "https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,
@@ -1163,22 +1163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+        "name": "En Cero",
+        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 222693,
-      "name": "La Ocasi\u00f3n Perfecta",
-      "url": "https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg"
+      "duration_ms": 223586,
+      "name": "En Cero",
+      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
     }
   ],
   "unique_name": "This Is Yandel",

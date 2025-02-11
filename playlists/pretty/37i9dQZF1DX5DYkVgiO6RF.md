@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > all cruise, no breaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,455 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,028 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 28 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 |
 | 29 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 30 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 |
-| 31 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
+| 31 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
 | 32 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 |
-| 33 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
+| 33 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
 | 34 | [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 |
 | 35 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
 | 36 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 41 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 42 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 |
 | 43 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
-| 44 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
-| 45 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
+| 44 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
+| 45 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 46 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 47 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 |
 | 48 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |

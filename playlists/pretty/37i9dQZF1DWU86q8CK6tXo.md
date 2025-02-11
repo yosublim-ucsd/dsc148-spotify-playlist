@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,946 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,949 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 16 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
 | 17 | [Those Kind Of Women](https://open.spotify.com/track/4vLfibmz6FuED8xU2uL1q9) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Those Kind Of Women](https://open.spotify.com/album/4YJcPufQPQIeRaVO59Fmj7) | 3:12 |
 | 18 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
-| 19 | [Runner](https://open.spotify.com/track/5k3G0MgnPBooPAxOkns8Nq) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Runner](https://open.spotify.com/album/2hzfsXvPd05ugr6pqH2di3) | 3:03 |
-| 20 | [First](https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [First](https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj) | 2:44 |
+| 19 | [First](https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [First](https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj) | 2:44 |
+| 20 | [Runner](https://open.spotify.com/track/5k3G0MgnPBooPAxOkns8Nq) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Runner](https://open.spotify.com/album/2hzfsXvPd05ugr6pqH2di3) | 3:03 |
 | 21 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
 | 22 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 23 | [Ain't Enough Cowboy Songs](https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Ain't Enough Cowboy Songs](https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,877 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,906 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 53 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
 | 54 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
 | 55 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
-| 56 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
-| 57 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
+| 56 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
+| 57 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
 | 58 | [Giving It All \(To You\)](https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Giving It All \(To You\)](https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc) | 3:54 |
 | 59 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 | 60 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |

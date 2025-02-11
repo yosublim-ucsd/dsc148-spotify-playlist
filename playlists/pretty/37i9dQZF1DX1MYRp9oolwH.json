@@ -1,13 +1,33 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Thandel",
-  "num_followers": 147992,
+  "description": "Bringing out the best of latest love tracks\nCover : Mazaka",
+  "num_followers": 148111,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6S9MAAAAADWSvPldhJAGlf4DcwdA8EJ",
+  "snapshot_id": "Z6nncQAAAACaZ0gx82DoyVirg0T2ATzV",
   "tracks": [
+    {
+      "added_at": "2025-02-10 11:48:01",
+      "album": {
+        "name": "Baby Ma (From \"Mazaka\")",
+        "url": "https://open.spotify.com/album/5KVbCe6VDSHdi3HjSU6WlN"
+      },
+      "artists": [
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Baby Ma - From \"Mazaka\"",
+      "url": "https://open.spotify.com/track/00lfaZSIlyf4OaTviPrnhG"
+    },
     {
       "added_at": "2025-01-24 05:54:39",
       "album": {
@@ -181,6 +201,30 @@
       "url": "https://open.spotify.com/track/4Y7HrZc3nnfzWYt26eJBgJ"
     },
     {
+      "added_at": "2025-02-10 10:55:56",
+      "album": {
+        "name": "Neevalle (From \"Tribanadhari Barbarik\")",
+        "url": "https://open.spotify.com/album/4FOjl0l5lE9eRnzYRHqwit"
+      },
+      "artists": [
+        {
+          "name": "Infusion Band",
+          "url": "https://open.spotify.com/artist/5JpukMWHPhTtRQwve1nMiv"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Raghu Ram",
+          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Neevalle (From \"Tribanadhari Barbarik\")",
+      "url": "https://open.spotify.com/track/7ofELpRhlYIm2G31KGSUpe"
+    },
+    {
       "added_at": "2025-02-06 13:46:24",
       "album": {
         "name": "Na Manasey Needani (From \"Guard\")",
@@ -259,6 +303,42 @@
       "duration_ms": 197052,
       "name": "Anandamaaye (From \"BrahmaAnandam\")",
       "url": "https://open.spotify.com/track/6WJqlkbb3VTi5g1hCUZ6Br"
+    },
+    {
+      "added_at": "2025-02-10 10:55:56",
+      "album": {
+        "name": "Rhythm of Love",
+        "url": "https://open.spotify.com/album/6xbRmSFTVnBGyzozSIedut"
+      },
+      "artists": [
+        {
+          "name": "Anudeep Dev",
+          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
+        }
+      ],
+      "duration_ms": 131962,
+      "name": "Po Ve Po",
+      "url": "https://open.spotify.com/track/1q9Wz4tvaO5L59NcoTDRgC"
+    },
+    {
+      "added_at": "2025-02-10 10:55:56",
+      "album": {
+        "name": "Sasi Nuvvai (From \"Mounamelanoyi\")",
+        "url": "https://open.spotify.com/album/1QtCBfA59eDiPrwpKusxY4"
+      },
+      "artists": [
+        {
+          "name": "Bhavya Tumuluru",
+          "url": "https://open.spotify.com/artist/6KxBHFq8PcNIO6wfOe9dOR"
+        },
+        {
+          "name": "PVLN Murthy",
+          "url": "https://open.spotify.com/artist/3Vs1EbmnphYpKXI8WkssbN"
+        }
+      ],
+      "duration_ms": 295572,
+      "name": "Sasi Nuvvai (From \"Mounamelanoyi\")",
+      "url": "https://open.spotify.com/track/4b1FJv1R7GeQDDlZLzFkl5"
     },
     {
       "added_at": "2025-01-31 10:08:27",
@@ -853,46 +933,6 @@
       "url": "https://open.spotify.com/track/5TPk8DtFRiSo8ZJwThyFbU"
     },
     {
-      "added_at": "2023-12-07 04:51:29",
-      "album": {
-        "name": "Idhe Idhe (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/6lBRZkJAa2tOGgPXeYuoUK"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 215175,
-      "name": "Idhe Idhe (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/7681Ik3vkdgdwlNpABKtfa"
-    },
-    {
-      "added_at": "2023-12-13 13:10:44",
-      "album": {
-        "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
-        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
-      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
-    },
-    {
       "added_at": "2024-02-07 10:49:22",
       "album": {
         "name": "Nandanandanaa (From \"The Family Star\")",
@@ -987,30 +1027,6 @@
       "duration_ms": 267682,
       "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
       "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
-    },
-    {
-      "added_at": "2023-11-06 09:56:31",
-      "album": {
-        "name": "Ammaadi (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
-      },
-      "artists": [
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 219018,
-      "name": "Ammaadi (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
     },
     {
       "added_at": "2024-03-18 10:53:06",
@@ -1151,30 +1167,6 @@
       "duration_ms": 211295,
       "name": "Inka Inka (From \"Naa Saami Ranga\")",
       "url": "https://open.spotify.com/track/3Tmry3mvrMXSQDxqkFezqC"
-    },
-    {
-      "added_at": "2023-12-11 14:06:21",
-      "album": {
-        "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
-        "url": "https://open.spotify.com/album/69tu5JQzhjbk0uNMdzurjU"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 218842,
-      "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
-      "url": "https://open.spotify.com/track/7vhRfB1xkdItr7e6ilLYxS"
     },
     {
       "added_at": "2023-12-30 11:13:33",

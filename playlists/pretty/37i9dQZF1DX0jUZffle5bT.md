@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 
 > The Latin soundtrack of the 2020s! Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,211 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,239 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jUZffle5bT.md) - [plain]
 | 42 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 43 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
 | 44 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
-| 45 | [Idiota](https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:03 |
-| 46 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
+| 45 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
+| 46 | [Idiota](https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:03 |
 | 47 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
 | 48 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
 | 49 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 |

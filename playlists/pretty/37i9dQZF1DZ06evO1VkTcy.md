@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,942 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,943 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 25 | [Deixa Ir](https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav) | 2:32 |
 | 26 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
 | 27 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
-| 28 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 |
-| 29 | [Tira minha paz](https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:00 |
+| 28 | [Tira minha paz](https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:00 |
+| 29 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 |
 | 30 | [Avião](https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Avião](https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P) | 4:01 |
 | 31 | [O Seu Grande Amor](https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS) | 3:31 |
 | 32 | [Segredos](https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Negrotte](https://open.spotify.com/artist/1iFANtb8wijR3ooWPdYER5) | [Segredos](https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Poetisas No Topo 2](https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Poetisas No Topo 2](https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu) | 9:16 |
 | 50 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 |
 
-Snapshot ID: `Z6aegAAAAAAK2e/LCTIikeS5Taw1j7Tw`
+Snapshot ID: `Z6fwAAAAAADuLGheuRGsLCmguStcJJ+y`

@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 146600,
       "name": "Andvaka",
       "url": "https://open.spotify.com/track/7qG2vQ0m5YmuyavrpMZM7Q"
@@ -5984,7 +5984,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 160858,
       "name": "B\u00ed\u00f3mynd",
       "url": "https://open.spotify.com/track/0gxq2ErkNoTu1mPx9NFn1j"
@@ -11812,7 +11812,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -22516,7 +22516,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd"
@@ -24024,7 +24024,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -24546,7 +24546,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -28880,7 +28880,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 183231,
       "name": "Nor\u00f0urlj\u00f3s",
       "url": "https://open.spotify.com/track/70ZMNzmVafC9uAXnEUGaIT"
@@ -34544,7 +34544,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -39566,7 +39566,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -39812,6 +39812,24 @@
       "duration_ms": 186040,
       "name": "S\u00f3linni",
       "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
+    },
+    {
+      "album": {
+        "name": "SERESTA LATINA",
+        "url": "https://open.spotify.com/album/49TPHMUjDPWkTpdP3LC2Os"
+      },
+      "artists": [
+        {
+          "name": "Beto Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/3JURWaPUQ3YLnjE5olVgxf"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "S\u00f3lo Fe",
+      "url": "https://open.spotify.com/track/1g1V28sjnIyG5c3Y8aMUOs"
     },
     {
       "album": {

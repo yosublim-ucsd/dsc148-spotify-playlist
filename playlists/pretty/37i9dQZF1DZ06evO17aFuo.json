@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 296595,
+  "num_followers": 296647,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACxg0MiP1IZG9MouhxsbIEW",
+  "snapshot_id": "Z6fwAAAAAADQ059Ts23kt6Ijjlgwv2ou",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Wake Up Dead - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Wake Up Dead - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "Countdown To Extinction",
-      "url": "https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 213480,
       "name": "Conquer Or Die",
       "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "Countdown To Extinction",
+      "url": "https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warchest",
-        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 231200,
       "name": "The Killing Road - Remastered 2004",
       "url": "https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warchest",
+        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
     },
     {
       "added_at": null,

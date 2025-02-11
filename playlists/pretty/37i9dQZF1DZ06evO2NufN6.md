@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,638 likes - 43 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,869 likes - 43 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 4 | [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 |
 | 5 | [Weekend \(feat\. Miguel\)](https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:28 |
 | 6 | [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 |
-| 7 | [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 |
+| 7 | [5 Dollar Pony Rides](https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:42 |
 | 8 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 |
 | 9 | [Come Back to Earth](https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 2:41 |
 | 10 | [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 |
-| 11 | [5 Dollar Pony Rides](https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:42 |
+| 11 | [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 |
 | 12 | [Woods](https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 4:46 |
 | 13 | [Self Care](https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
 | 14 | [Missed Calls](https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 2:58 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 42 | [Ayye](https://open.spotify.com/track/78844Rxxkl8STQUVbp4vXi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 2:45 |
 | 43 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 |
 
-Snapshot ID: `Z6aegAAAAADQKNg4vCx6dOvdD4qJhH0J`
+Snapshot ID: `Z6fwAAAAAADHyccgeUL9pS9CBr0bOQrb`

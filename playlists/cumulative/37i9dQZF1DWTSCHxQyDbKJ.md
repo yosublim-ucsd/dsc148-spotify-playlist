@@ -2,9 +2,9 @@
 
 ### [GLOW UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ)
 
-> Necessities from LGBTQIA+ artists\. Cover: jasmine.4.t
+> Necessities from LGBTQIA+ artists\. Cover: Shura
 
-209 songs - 11 hr 28 min
+212 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,17 +22,19 @@
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-06-14 |  |
 | [B.I.L.L.S.](https://open.spotify.com/track/1doyPSKlfeIyA6s4NSwXPn) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 2:14 | 2024-12-04 | 2025-01-14 |
 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-06-10 | 2024-09-10 |
-| [Babette](https://open.spotify.com/track/7dy1W1fBRAeQlcUdsL6ZeF) | [Katie Malco](https://open.spotify.com/artist/5t9yM2ABZVQrUXJqa7HTSt), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Babette](https://open.spotify.com/album/7yk5DxilcuZft3NG3ZjzvY) | 4:00 | 2024-10-07 |  |
+| [Babette](https://open.spotify.com/track/7dy1W1fBRAeQlcUdsL6ZeF) | [Katie Malco](https://open.spotify.com/artist/5t9yM2ABZVQrUXJqa7HTSt), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Babette](https://open.spotify.com/album/7yk5DxilcuZft3NG3ZjzvY) | 4:00 | 2024-10-07 | 2025-02-11 |
 | [Babyface](https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH) | 3:26 | 2024-06-10 |  |
 | [Balcony Floor](https://open.spotify.com/track/5nrEBwM2iNBj62MLnC2HIY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 3:13 | 2024-12-04 | 2025-01-14 |
 | [Be Good](https://open.spotify.com/track/1W9d86MctMM8Hh76tWoGlS) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Be Good](https://open.spotify.com/album/1kkGfY3iZn6H43PFmRE3Nl) | 6:33 | 2024-11-19 | 2024-12-05 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 |  |
+| [BETTER](https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [BETTER](https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy) | 3:25 | 2025-02-11 |  |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-08-12 |  |
 | [Better Off](https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB) | [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Better Off](https://open.spotify.com/album/0gF03DYa7rRpGuSS6jx66Q) | 2:15 | 2024-07-08 | 2024-08-13 |
 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 | 2024-06-14 | 2024-08-26 |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-12-04 | 2025-01-14 |
 | [Bite The Hand](https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Bite The Hand / Kind of Love](https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T) | 2:38 | 2024-06-10 |  |
 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 | 2024-06-10 |  |
+| [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 | 2025-02-11 |  |
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-06-10 | 2024-10-15 |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-12-04 | 2025-01-14 |
 | [breakdown.](https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown\. \(Underworld Rework\)](https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4) | 2:43 | 2024-08-12 |  |
@@ -62,7 +64,7 @@
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-06-10 |  |
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2024-06-10 | 2024-09-10 |
 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2024-06-10 |  |
-| [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-12-04 |  |
+| [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-12-04 | 2025-02-11 |
 | [Empire](https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Empire](https://open.spotify.com/album/5oS0HZVqZCNhoTV3yxNfpU) | 3:05 | 2024-06-10 | 2024-08-13 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2024-06-10 |  |
 | [Ever New](https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 5:44 | 2024-12-04 | 2025-01-14 |
@@ -128,7 +130,7 @@
 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 | 2024-12-04 | 2025-01-14 |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-06-10 | 2024-09-10 |
 | [Liturgies \- Vocal](https://open.spotify.com/track/28Bo2XHXDGMc4Un7WBzfMG) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [H.Sinno](https://open.spotify.com/artist/4CHgPgNTFsIWy4F5xzoLhB) | [Liturgies](https://open.spotify.com/album/33AyhiYscx93hiCjFJL3yA) | 6:14 | 2024-11-19 | 2024-12-05 |
-| [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 | 2025-01-14 |  |
+| [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 | 2025-01-14 | 2025-02-11 |
 | [Love Second Music First](https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Love Second Music First](https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe) | 4:05 | 2024-10-07 |  |
 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 | 2024-12-04 | 2025-01-14 |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2024-06-10 |  |
@@ -168,6 +170,7 @@
 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-06-10 | 2024-12-05 |
 | [Real With You](https://open.spotify.com/track/0ariASxZ4I9lPUecXSEu1O) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [Stop Before It Starts](https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp) | 3:56 | 2024-06-10 |  |
 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm) | 3:52 | 2024-09-09 |  |
+| [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 | 2025-02-11 |  |
 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 | 2024-09-09 | 2025-01-14 |
 | [Right Here](https://open.spotify.com/track/0S9laeO22k8rgM1PqZtgAA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:59 | 2024-12-04 | 2025-01-14 |
 | [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-06-10 |  |

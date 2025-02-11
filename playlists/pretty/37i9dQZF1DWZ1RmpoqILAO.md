@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Black Country, New Road 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,819 likes - 144 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,845 likes - 144 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

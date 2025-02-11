@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,017 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,090 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 41 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
 | 42 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
 | 43 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 |
-| 44 | [Muchacha Encantadora](https://open.spotify.com/track/1OyzfeMIehp64SBzyKHNZ8) | [Los Chiches Vallenatos, Osmar Perez](https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:17 |
-| 45 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
+| 44 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
+| 45 | [Muchacha Encantadora](https://open.spotify.com/track/1OyzfeMIehp64SBzyKHNZ8) | [Los Chiches Vallenatos, Osmar Perez](https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:17 |
 | 46 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 |
 | 47 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
 | 48 | [Sólo para Ti](https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:48 |
-| 49 | [Que No Me Faltes Tu](https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:43 |
+| 49 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
 | 50 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |
 
 Snapshot ID: `ZlYukAAAAABe3wO2BkwM3DTrTAEiG+hv`

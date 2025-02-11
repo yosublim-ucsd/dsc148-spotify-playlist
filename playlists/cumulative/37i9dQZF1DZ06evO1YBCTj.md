@@ -4,7 +4,7 @@
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 15 min
+67 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [goes to waste](https://open.spotify.com/track/3bPoXD94h9nopjEUeqdb97) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:16 | 2024-01-29 | 2024-09-17 |
 | [good days](https://open.spotify.com/track/6P0jAi154fKuksoKN6ePcR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:48 | 2024-01-29 |  |
 | [HELL/HEAVEN](https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:40 | 2024-01-29 |  |
+| [I Choose You](https://open.spotify.com/track/41EnM4giX9PJYZIBUCPmiI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:48 | 2025-02-11 |  |
 | [i swear i'll never leave again](https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 2:53 | 2024-01-29 |  |
 | [if you're not the one for me who is](https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:50 | 2024-01-29 | 2024-09-16 |
 | [Inside Out](https://open.spotify.com/track/5BaQraXvq640QScFPMYoEz) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/1Flt7AQr1HDhdWuZVF26d4) | 3:57 | 2025-02-09 |  |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
-  "name": "Westside Story",
+  "name": "Westside",
   "tracks": [
     {
       "album": {
@@ -10592,7 +10592,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 216046,
       "name": "Imported Couches",
       "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
@@ -16863,6 +16863,32 @@
     },
     {
       "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239345,
+      "name": "Pressured Up - feat. Vince Staples & ScHoolboy Q",
+      "url": "https://open.spotify.com/track/4shkQPDGzL90bX3OUTIwSA"
+    },
+    {
+      "album": {
         "name": "Private Valet",
         "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
       },
@@ -17312,7 +17338,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 160310,
       "name": "RESCUE ME - WITH TY DOLLA $IGN",
       "url": "https://open.spotify.com/track/3s0zPWfdRaa1unEtdWktRT"
@@ -17516,7 +17542,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "rock your hips",
       "url": "https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA"

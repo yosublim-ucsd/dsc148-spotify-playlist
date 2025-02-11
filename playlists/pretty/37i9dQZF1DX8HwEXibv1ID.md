@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,268 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,294 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 26 | [After You](https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:50 |
 | 27 | [Night and Day \- Take 1](https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:57 |
 | 28 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
-| 29 | [Mind If I Make Love To You](https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Great Songs From Stage And Screen](https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV) | 3:41 |
+| 29 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY) | [The Al Cohn \- Zoot Sims Quintet](https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM) | [You 'N Me](https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G) | 4:51 |
 | 30 | [I've Got My Eyes On You](https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:57 |
 | 31 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
-| 32 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY) | [The Al Cohn \- Zoot Sims Quintet](https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM) | [You 'N Me](https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G) | 4:51 |
+| 32 | [Mind If I Make Love To You](https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Great Songs From Stage And Screen](https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV) | 3:41 |
 | 33 | [My Heart Belongs To Daddy](https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 2:54 |
 | 34 | [At Long Last Love](https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 3:27 |
 | 35 | [True Love](https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 3:23 |

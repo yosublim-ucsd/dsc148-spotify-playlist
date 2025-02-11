@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 195600,
       "name": "Duero",
       "url": "https://open.spotify.com/track/1lH3KG2MVPqXp6QmSevMb2"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 230595,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/3vIwdAaJmIrETc7k98gaTg"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 137750,
       "name": "Faithful In Paradise",
       "url": "https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg"
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 251902,
       "name": "From The Moment (When We Kissed)",
       "url": "https://open.spotify.com/track/3CuXYUD4I9WUUremPavOWb"
@@ -4768,7 +4768,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 201413,
       "name": "Insomnia Again",
       "url": "https://open.spotify.com/track/1hLwDHkHZ6agcA71glq6n9"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 154527,
       "name": "Love on a Lonely Street",
       "url": "https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct"
@@ -9970,7 +9970,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 230647,
       "name": "The Same Thing Every Time",
       "url": "https://open.spotify.com/track/3s5SX295VXRSkSvPUmhkX4"
@@ -11597,6 +11597,24 @@
     },
     {
       "album": {
+        "name": "You Will Know",
+        "url": "https://open.spotify.com/album/0HQO14pHpQ6F1BKqZswVxh"
+      },
+      "artists": [
+        {
+          "name": "Kim Lawrence",
+          "url": "https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180022,
+      "name": "You Will Know",
+      "url": "https://open.spotify.com/track/2ZngRv9BqllWISiBPcHdr4"
+    },
+    {
+      "album": {
         "name": "You're not alone",
         "url": "https://open.spotify.com/album/7r0aLaUkVEBT1BXzf1yvKq"
       },
@@ -11626,7 +11644,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 174124,
       "name": "Young and Foolish",
       "url": "https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn"

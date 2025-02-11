@@ -5183,6 +5183,28 @@
     },
     {
       "album": {
+        "name": "MOTINHA 2.0 (Mete Marcha)",
+        "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118081,
+      "name": "MOTINHA 2.0 (Mete Marcha)",
+      "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+    },
+    {
+      "album": {
         "name": "Samba Pro Meu Povo: Bloco Rua Mariana (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Jw7pcAoIG4Yy7RX1dGe0m"
       },
@@ -5508,6 +5530,28 @@
       "duration_ms": 191967,
       "name": "No Som do Pared\u00e3o",
       "url": "https://open.spotify.com/track/4g4Saf3cpS10gQ7W86rYby"
+    },
+    {
+      "album": {
+        "name": "Nossas Fotos",
+        "url": "https://open.spotify.com/album/3aVb56y4Uwa70qqEnlq4yi"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170847,
+      "name": "Nossas Fotos",
+      "url": "https://open.spotify.com/track/7fW5TnCdNFhdPw7C2QakEO"
     },
     {
       "album": {
@@ -8408,7 +8452,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 158790,
       "name": "Tu Xera",
       "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
@@ -9186,7 +9230,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 167007,
       "name": "\u00c9 Pra Balan\u00e7ar - Ao Vivo",
       "url": "https://open.spotify.com/track/0dbua0xFYs12lDZjdbDi97"

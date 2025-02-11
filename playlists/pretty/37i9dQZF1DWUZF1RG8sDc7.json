@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 145310,
+  "num_followers": 145356,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -51,26 +51,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "T\u00fa Eres La Reina",
-      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 317893,
       "name": "Ay Hombe",
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "T\u00fa Eres La Reina",
+      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -163,6 +163,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Version Original",
         "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
       },
@@ -203,22 +223,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Seguimos Por Lo Alto",
-        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Hoy Me Di Cuenta",
-      "url": "https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "La 9a Batalla",
         "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
       },
@@ -239,22 +243,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+      "duration_ms": 294400,
+      "name": "Hoy Me Di Cuenta",
+      "url": "https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -319,6 +319,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 318133,
+      "name": "No Podr\u00e1n Separarnos",
+      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Ave Libre",
         "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
       },
@@ -367,26 +387,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
-        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 318133,
-      "name": "No Podr\u00e1n Separarnos",
-      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -427,22 +427,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
       },
       "artists": [
         {
-          "name": "Jorge O\u00f1ate",
-          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
-          "name": "\u00c1lvaro L\u00f3pez",
-          "url": "https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG"
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 282920,
-      "name": "No Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+      "duration_ms": 283186,
+      "name": "Te Perdone",
+      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -463,6 +463,26 @@
       "duration_ms": 287346,
       "name": "Te Amo y Te Amo",
       "url": "https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
+      },
+      "artists": [
+        {
+          "name": "Jorge O\u00f1ate",
+          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
+        },
+        {
+          "name": "\u00c1lvaro L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "No Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -503,22 +523,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Cinco Estrellas",
-        "url": "https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kvrass",
-          "url": "https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k"
-        }
-      ],
-      "duration_ms": 277106,
-      "name": "Cuando lleguen los millones",
-      "url": "https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -539,28 +543,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/1BJm4d0jiwVsh5DhfYONtX"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 310400,
-      "name": "Sirena Encantada",
-      "url": "https://open.spotify.com/track/0hjgPmqi7IzcWnSiJYm2OL"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+        "name": "\u00a1Juepa Je!",
+        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
       },
       "artists": [
         {
@@ -572,9 +556,25 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 283186,
-      "name": "Te Perdone",
-      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+      "duration_ms": 294466,
+      "name": "El Invierno Pasado",
+      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Cinco Estrellas",
+        "url": "https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kvrass",
+          "url": "https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "Cuando lleguen los millones",
+      "url": "https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -595,6 +595,26 @@
       "duration_ms": 275186,
       "name": "El Amor M\u00e1s Grande del Planeta",
       "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/1BJm4d0jiwVsh5DhfYONtX"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+        }
+      ],
+      "duration_ms": 310400,
+      "name": "Sirena Encantada",
+      "url": "https://open.spotify.com/track/0hjgPmqi7IzcWnSiJYm2OL"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -699,22 +719,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
-        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
-      },
-      "artists": [
-        {
-          "name": "Rafael Escalona",
-          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Jaime Molina",
-      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
       },
@@ -735,22 +739,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "\u00a1Juepa Je!",
-        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
         }
       ],
-      "duration_ms": 294466,
-      "name": "El Invierno Pasado",
-      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
+      "duration_ms": 248226,
+      "name": "Jaime Molina",
+      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Son los Gigantes",
-        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Vivo por Ti",
-      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Son los Gigantes",
+        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Vivo por Ti",
+      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
     },
     {
       "added_at": "2024-03-28 01:45:52",

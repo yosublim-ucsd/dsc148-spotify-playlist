@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXT8uSSn6PRy.md) - [plain]
 
 > The hottest tracks in the North\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,971 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,006 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

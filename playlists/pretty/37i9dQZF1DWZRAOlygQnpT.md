@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,189 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,211 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 36 | [Satisfacción](https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 3:30 |
 | 37 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 |
 | 38 | [Los locos adams](https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ) | [Los Belmonts](https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 1:56 |
-| 39 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Disco de Oro](https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g) | 3:02 |
-| 40 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
-| 41 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
+| 39 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
+| 40 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Disco de Oro](https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g) | 3:02 |
+| 41 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
 | 42 | [Adios A Jamaica \[Album Version\]](https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
 | 43 | [Polvora](https://open.spotify.com/track/1Vy1yzb5ktmDwPO5TYiqPW) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:56 |
 | 44 | [Chica Ye Ye](https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 46 | [La Última Vez](https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:44 |
 | 47 | [La Carrera Del Oso](https://open.spotify.com/track/1HxmciCZuRwYfoCkUT8iQK) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:08 |
 | 48 | [Rock De La Cárcel](https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Se Habla Español](https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB) | 3:06 |
-| 49 | [Magia Blanca \(Devil Woman\)](https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:24 |
-| 50 | [A Través De Los Años](https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:42 |
+| 49 | [A Través De Los Años](https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:42 |
+| 50 | [Magia Blanca \(Devil Woman\)](https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:24 |
 | 51 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/7yPAsPa7EOp1w3PT6ng0l8) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:14 |
 | 52 | [Matilda](https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:46 |
 | 53 | [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 |

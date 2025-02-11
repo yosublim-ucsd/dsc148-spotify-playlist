@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,350 songs - 6 day 21 hr 48 min
+4,351 songs - 6 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3158,6 +3158,7 @@
 | [Sail](https://open.spotify.com/track/2UoBC0BW1IAylLqjoFcb8X) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Sail](https://open.spotify.com/album/39oKw9IrGpEpBmDT0HOZDE) | 2:36 | 2022-06-23 | 2022-07-15 |
 | [Sailing](https://open.spotify.com/track/01IIKtN9jq8zK29nhgcL8m) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Sailing](https://open.spotify.com/album/5w0JXSOyjwTqoGfXxhRRxg) | 1:36 | 2019-05-26\* | 2019-08-13 |
 | [Sailing Again](https://open.spotify.com/track/1MKt41aRnc3WPsgBsDnsJw) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Sailing Again](https://open.spotify.com/album/2nZAMDS4D0pnSRr73vniCn) | 2:45 | 2022-01-27 | 2022-09-09 |
+| [Sakura](https://open.spotify.com/track/2r26Lz065fusSQ80STF956) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Sakura](https://open.spotify.com/album/1mRUvZ2MtJtGscdGiWHwJq) | 2:23 | 2025-02-06 |  |
 | [Sal das Ondas \- Low Leaf's Nu Modes Mix](https://open.spotify.com/track/2I9cVBi0Rg3WqUdkMOJUS3) | [Tiago Frúgoli Ensemble](https://open.spotify.com/artist/11Ku3eY1HwO1rJQQisJtzh), [Low Leaf](https://open.spotify.com/artist/3pUAjygihAaYNGd8vcmlQW) | [Sal das Ondas \(Casa Remixes\)](https://open.spotify.com/album/4Nyr6l614XRtD7tACixDao) | 3:03 | 2020-11-03 | 2020-12-04 |
 | [Salacia](https://open.spotify.com/track/78xZY4HHoTSExoEpLjSmaE) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Salacia](https://open.spotify.com/album/1nl9INTWDldCSy1UMHOcBh) | 2:10 | 2022-09-08 | 2022-09-23 |
 | [Salgueiro](https://open.spotify.com/track/0LZRpusDMPYej0JgvAvPka) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Salgueiro](https://open.spotify.com/album/4x5BfG0SqAqTgXFYULlpmj) | 1:45 | 2021-10-16 | 2022-05-13 |
@@ -4182,7 +4183,7 @@
 | [Wavy](https://open.spotify.com/track/7oT7NDlXx5xpteinixhpQo) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Wavy](https://open.spotify.com/album/2u9XgbMHjorMCmKW0H8kqQ) | 3:24 | 2023-02-23 | 2023-04-14 |
 | [Wax](https://open.spotify.com/track/3Zcyk6cGjOpIhWceeSJnPv) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Wax](https://open.spotify.com/album/1dKOZDInIO3mK551bp0XdU) | 2:00 | 2019-05-26\* | 2019-08-17 |
 | [Way Back When](https://open.spotify.com/track/57B4YiWoBYdlfaoqhXUx0s) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Way Back When](https://open.spotify.com/album/0iqgkhHvnqVIJHuocun8kU) | 1:56 | 2021-03-14 | 2021-08-19 |
-| [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 | 2024-08-01 |  |
+| [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 | 2024-08-01 | 2025-02-11 |
 | [Way Too Much](https://open.spotify.com/track/4Mcx4sqOg4HgUahsmyF2Z6) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Way Too Much](https://open.spotify.com/album/34p5m3u2O645MSOAs8pBbG) | 2:28 | 2021-09-10 | 2021-09-11 |
 | [We Callin'](https://open.spotify.com/track/57UoXJs8Fab3J1buHiXi0j) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [We Callin'](https://open.spotify.com/album/3WGlGmdIUN6INBwN5l9ARi) | 2:34 | 2020-07-28 | 2020-12-11 |
 | [We Lost Ourselves For No Reason](https://open.spotify.com/track/6bcWlANzUtlBb1bnPIgsCw) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 012](https://open.spotify.com/album/2cUqKhaVa68Uu9xZ4zJAM9) | 2:16 | 2021-03-19 | 2021-04-02 |

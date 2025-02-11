@@ -1375,6 +1375,32 @@
     },
     {
       "album": {
+        "name": "Late Nights",
+        "url": "https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Tough Love",
+          "url": "https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG"
+        },
+        {
+          "name": "Saint Wilder",
+          "url": "https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192020,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB"
+    },
+    {
+      "album": {
         "name": "Late Nights (feat. Saint Wilder)",
         "url": "https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M"
       },
@@ -1394,7 +1420,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 192020,
       "name": "Late Nights (feat. Saint Wilder)",
       "url": "https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL"

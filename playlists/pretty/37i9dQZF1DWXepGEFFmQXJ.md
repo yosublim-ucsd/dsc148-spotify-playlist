@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,987 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,996 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

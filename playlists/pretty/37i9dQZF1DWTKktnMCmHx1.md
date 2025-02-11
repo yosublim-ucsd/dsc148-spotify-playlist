@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,360 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,353 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 34 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 |
 | 35 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 |
 | 36 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
-| 37 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
-| 38 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
+| 37 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
+| 38 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
 | 39 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 40 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 |
 | 41 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 74 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
 | 75 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 3:03 |
 | 76 | [BETRAYED](https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gully \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN) | 3:12 |
-| 77 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 |
+| 77 | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr) | 3:45 |
 | 78 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
-| 79 | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Look Back at It \(feat\. CAPO PLAZA\)](https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr) | 3:45 |
+| 79 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 |
 | 80 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
 
 Snapshot ID: `Z1Lz3QAAAAAvvUQT5M7MMVf5/Gw3lHzT`

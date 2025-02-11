@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 337950,
+  "num_followers": 337962,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6W25wAAAAC5NmoNBWA6xhd/8PqoH3C9",
+  "snapshot_id": "Z6nfsAAAAACQHGwBQuXCcpgZ7QhphgG0",
   "tracks": [
     {
       "added_at": "2025-02-06 23:00:48",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Daydate",
-        "url": "https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie"
-      },
-      "artists": [
-        {
-          "name": "G1ocatore",
-          "url": "https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE"
-        }
-      ],
-      "duration_ms": 149370,
-      "name": "Daydate",
-      "url": "https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Min Risk",
         "url": "https://open.spotify.com/album/2gwdJhD1G6e0HTXHoWRGQB"
       },
@@ -75,6 +59,78 @@
       "duration_ms": 180000,
       "name": "Min Risk",
       "url": "https://open.spotify.com/track/3Ns1lcJWmW0PRWJOUP2CPI"
+    },
+    {
+      "added_at": "2025-02-07 07:31:51",
+      "album": {
+        "name": "VINNARE",
+        "url": "https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "VINNARE",
+      "url": "https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "STORSTAD",
+        "url": "https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        }
+      ],
+      "duration_ms": 121200,
+      "name": "STORSTAD",
+      "url": "https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/4bU83gSkplvSgivTYK0Yzu"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/3MH6phj8eg7ofHeutNjAom"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "H\u00f6r Dig",
+        "url": "https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ"
+      },
+      "artists": [
+        {
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        },
+        {
+          "name": "Kayen",
+          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "H\u00f6r Dig",
+      "url": "https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -111,26 +167,34 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "H\u00f6r Dig",
-        "url": "https://open.spotify.com/album/34rdOQElQWrgWuR7Uj6HKQ"
+        "name": "Daydate",
+        "url": "https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie"
       },
       "artists": [
         {
-          "name": "25",
-          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
-        },
-        {
-          "name": "Pablo Paz",
-          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
-        },
-        {
-          "name": "Kayen",
-          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
+          "name": "G1ocatore",
+          "url": "https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE"
         }
       ],
-      "duration_ms": 166315,
-      "name": "H\u00f6r Dig",
-      "url": "https://open.spotify.com/track/4tBwUEzSVknmjZ3XfC1VO4"
+      "duration_ms": 149370,
+      "name": "Daydate",
+      "url": "https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "BAKOM RID\u00c5N",
+        "url": "https://open.spotify.com/album/6js8vFldrfLMrOX6QbB8lQ"
+      },
+      "artists": [
+        {
+          "name": "G3B",
+          "url": "https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4"
+        }
+      ],
+      "duration_ms": 167222,
+      "name": "BAKOM RID\u00c5N",
+      "url": "https://open.spotify.com/track/0EzphQ33z0B0o8BAloapjI"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -167,38 +231,6 @@
       "duration_ms": 130709,
       "name": "Land Till Land",
       "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "STORSTAD",
-        "url": "https://open.spotify.com/album/6aIHMKiQOKXcFlDLLZxM8D"
-      },
-      "artists": [
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
-        }
-      ],
-      "duration_ms": 121200,
-      "name": "STORSTAD",
-      "url": "https://open.spotify.com/track/59LPXzVSMbC2QXixBJoMN5"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "BAKOM RID\u00c5N",
-        "url": "https://open.spotify.com/album/6js8vFldrfLMrOX6QbB8lQ"
-      },
-      "artists": [
-        {
-          "name": "G3B",
-          "url": "https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4"
-        }
-      ],
-      "duration_ms": 167222,
-      "name": "BAKOM RID\u00c5N",
-      "url": "https://open.spotify.com/track/0EzphQ33z0B0o8BAloapjI"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -247,26 +279,6 @@
       "duration_ms": 121666,
       "name": "HER PERSPECTIVE",
       "url": "https://open.spotify.com/track/3ngMJlDJZrYfwcUApLnzAZ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "QURBANI (KOM TBX)",
-        "url": "https://open.spotify.com/album/2jlobVYL62mvN3Wm4XvJJQ"
-      },
-      "artists": [
-        {
-          "name": "Y4ska",
-          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
-        },
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "QURBANI (KOM TBX)",
-      "url": "https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -325,20 +337,24 @@
       "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
     },
     {
-      "added_at": "2025-02-07 07:31:51",
+      "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "VINNARE",
-        "url": "https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg"
+        "name": "QURBANI (KOM TBX)",
+        "url": "https://open.spotify.com/album/2jlobVYL62mvN3Wm4XvJJQ"
       },
       "artists": [
         {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        },
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         }
       ],
-      "duration_ms": 149333,
-      "name": "VINNARE",
-      "url": "https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S"
+      "duration_ms": 191278,
+      "name": "QURBANI (KOM TBX)",
+      "url": "https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -371,22 +387,6 @@
       "duration_ms": 111470,
       "name": "G & P",
       "url": "https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/4bU83gSkplvSgivTYK0Yzu"
-      },
-      "artists": [
-        {
-          "name": "Nineb Youk",
-          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/3MH6phj8eg7ofHeutNjAom"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/1E0VuMZ62J4ga44UZ559HD"
-      },
-      "artists": [
-        {
-          "name": "PALUZ",
-          "url": "https://open.spotify.com/artist/36lWmZhYl2t0MLEPfQeiot"
-        },
-        {
-          "name": "Tior",
-          "url": "https://open.spotify.com/artist/6KaTv7Raj8MjHxOkVrO6d5"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3Cw3cbweBOafJuvsATiU5x"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "V\u00e4gen in",
         "url": "https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 121757,
       "name": "VART SKA VI?",
       "url": "https://open.spotify.com/track/2aNb5z6abPZflm5xd3ZaYo"
+    },
+    {
+      "added_at": "2025-02-06 23:00:48",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/1E0VuMZ62J4ga44UZ559HD"
+      },
+      "artists": [
+        {
+          "name": "PALUZ",
+          "url": "https://open.spotify.com/artist/36lWmZhYl2t0MLEPfQeiot"
+        },
+        {
+          "name": "Tior",
+          "url": "https://open.spotify.com/artist/6KaTv7Raj8MjHxOkVrO6d5"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3Cw3cbweBOafJuvsATiU5x"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "Livet som vi lever",
-        "url": "https://open.spotify.com/album/2Xv0PeG88k1K2KnQgPlqlc"
-      },
-      "artists": [
-        {
-          "name": "XXD Polo",
-          "url": "https://open.spotify.com/artist/73F0IkJHMvDUg9uuTzxxNW"
-        },
-        {
-          "name": "Arre",
-          "url": "https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Livet som vi lever",
-      "url": "https://open.spotify.com/track/3LyEb19wwvZumQE50pUGWB"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/0ZwxFcngGogibQmTSoN4A8"
       },
@@ -1155,54 +1135,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "\u00d6verallt",
-        "url": "https://open.spotify.com/album/331CBgwWEH7dcZs5TSWQZj"
-      },
-      "artists": [
-        {
-          "name": "boel",
-          "url": "https://open.spotify.com/artist/7wxpnOJg1AdfbmVlQYiKZh"
-        }
-      ],
-      "duration_ms": 177735,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/7a9Ih8PEHlXOyu637YvWoE"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Din hand",
-        "url": "https://open.spotify.com/album/4UljWdxLfI9TXCI8Z1jja9"
-      },
-      "artists": [
-        {
-          "name": "Luc1ano",
-          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Din Hand",
-      "url": "https://open.spotify.com/track/6gc11BwQ1SmRHSfQTmsF9U"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Zai Thai",
-        "url": "https://open.spotify.com/album/6G9dUhyCRfh5ZMnzIU4PVe"
-      },
-      "artists": [
-        {
-          "name": "Arre",
-          "url": "https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Zai Thai",
-      "url": "https://open.spotify.com/track/1Ok7zEVEnAxiFwMKnS1FG5"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/6fmX0TZxl74Z41IWUefj7M"
       },
@@ -1279,54 +1211,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "AKHIRELLI",
-        "url": "https://open.spotify.com/album/1A4AO0bckzybna3MHNZG1d"
-      },
-      "artists": [
-        {
-          "name": "SHEKO",
-          "url": "https://open.spotify.com/artist/2pWoxtfTw1z2Eg5fMvuEyj"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "AKHIRELLI",
-      "url": "https://open.spotify.com/track/0LAdzBTGSi7csMiGhO4PhH"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "MER \u00c4N RAP",
-        "url": "https://open.spotify.com/album/1Tz0eHxD9n8WEzH0cVNnrb"
-      },
-      "artists": [
-        {
-          "name": "Sticky",
-          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "DURK FLOW",
-      "url": "https://open.spotify.com/track/4fL88AYsbm2kDItiujrwmw"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Motg\u00e5ng",
-        "url": "https://open.spotify.com/album/6jbBOQPQZP24lzGRvIy22P"
-      },
-      "artists": [
-        {
-          "name": "Ravin",
-          "url": "https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm"
-        }
-      ],
-      "duration_ms": 121977,
-      "name": "Motg\u00e5ng",
-      "url": "https://open.spotify.com/track/6fjZJyK4tPuzibBRKamdeC"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "Blunda",
         "url": "https://open.spotify.com/album/5flX744gppUbEqAzftaro3"
       },
@@ -1355,66 +1239,6 @@
       "duration_ms": 170666,
       "name": "Take 2",
       "url": "https://open.spotify.com/track/15zXIXUzIHKvcucZBGWCNe"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "T\u00e5rar",
-        "url": "https://open.spotify.com/album/6x8wft9zYkBdnOyZm1IuGP"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        },
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
-        },
-        {
-          "name": "Masse",
-          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "T\u00e5rar",
-      "url": "https://open.spotify.com/track/5EbnKSZ5Z3iNsGXDg0vKE3"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Ord",
-        "url": "https://open.spotify.com/album/0AaP6Qw4Ovku76I3PQ6pLb"
-      },
-      "artists": [
-        {
-          "name": "Ravin",
-          "url": "https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm"
-        }
-      ],
-      "duration_ms": 109321,
-      "name": "Ord",
-      "url": "https://open.spotify.com/track/76BSmyzhM8E2O6p8YwkLN9"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "DUBBELTRUMMA",
-        "url": "https://open.spotify.com/album/1u2tByXnPMeJdg4UvnDzZl"
-      },
-      "artists": [
-        {
-          "name": "Lelo",
-          "url": "https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw"
-        },
-        {
-          "name": "JMK",
-          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "DUBBELTRUMMA",
-      "url": "https://open.spotify.com/track/4rg68e1WxuAy8Cp04QnbQz"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -2195,38 +2019,6 @@
     {
       "added_at": "2025-02-06 23:00:48",
       "album": {
-        "name": "INGEN VILA",
-        "url": "https://open.spotify.com/album/1xoHKNgvq7DozZNB4Eq1Tt"
-      },
-      "artists": [
-        {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "INGEN VILA",
-      "url": "https://open.spotify.com/track/05HOlWlep1D7Fx5xtkXbNb"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Brevet",
-        "url": "https://open.spotify.com/album/62V2IR1rPM4EAiN097uyU6"
-      },
-      "artists": [
-        {
-          "name": "Romeo",
-          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
-        }
-      ],
-      "duration_ms": 127035,
-      "name": "Brevet",
-      "url": "https://open.spotify.com/track/4AGlnts8kEFKyE3B4LjchZ"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
         "name": "I Might",
         "url": "https://open.spotify.com/album/0BV35xKFmcMBLRuQqnB78d"
       },
@@ -2239,98 +2031,6 @@
       "duration_ms": 158378,
       "name": "I Might",
       "url": "https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "D\u00f6r f\u00f6r oss",
-        "url": "https://open.spotify.com/album/5iAXOi2m8FZfZYgRJ3CxiZ"
-      },
-      "artists": [
-        {
-          "name": "Luc1ano",
-          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
-        },
-        {
-          "name": "SHYDE",
-          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
-        }
-      ],
-      "duration_ms": 155761,
-      "name": "D\u00f6r f\u00f6r oss",
-      "url": "https://open.spotify.com/track/6XefQa6vfcvAHl2iHzBhQO"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Konstigt",
-        "url": "https://open.spotify.com/album/5GZcVKTEopwQP4dXqeIozu"
-      },
-      "artists": [
-        {
-          "name": "Deso",
-          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
-        }
-      ],
-      "duration_ms": 129319,
-      "name": "Konstigt",
-      "url": "https://open.spotify.com/track/73uCYgd93fE8z9zIctYIKD"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Aiko",
-        "url": "https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 146260,
-      "name": "Aiko",
-      "url": "https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Popcorn",
-        "url": "https://open.spotify.com/album/5DodLYY4UcnFWPeEBEgxry"
-      },
-      "artists": [
-        {
-          "name": "Tasha17k",
-          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
-        },
-        {
-          "name": "Viktor Ax",
-          "url": "https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84"
-        }
-      ],
-      "duration_ms": 135918,
-      "name": "Popcorn",
-      "url": "https://open.spotify.com/track/25z8RJhqfqcS17K0v7eX0L"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "Italien",
-        "url": "https://open.spotify.com/album/566wa077XLx6FqMV0NSOIR"
-      },
-      "artists": [
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Italien",
-      "url": "https://open.spotify.com/track/3d1tnJsmQEi01ZMNZ7dkGn"
     },
     {
       "added_at": "2025-02-06 23:00:48",
@@ -2403,22 +2103,6 @@
       "duration_ms": 127200,
       "name": "Lover",
       "url": "https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd"
-    },
-    {
-      "added_at": "2025-02-06 23:00:48",
-      "album": {
-        "name": "fucka upp igen",
-        "url": "https://open.spotify.com/album/2nVQ7uKZ4XjnTIojVOouJI"
-      },
-      "artists": [
-        {
-          "name": "Chris Taylor",
-          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
-        }
-      ],
-      "duration_ms": 144264,
-      "name": "fucka upp igen",
-      "url": "https://open.spotify.com/track/1OeAa8fpGJgxRUIamcFI1P"
     },
     {
       "added_at": "2025-02-06 23:00:48",

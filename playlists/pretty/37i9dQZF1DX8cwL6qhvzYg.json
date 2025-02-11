@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 410227,
+  "num_followers": 410220,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,38 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "GOET",
+        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "GOET",
+      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "ES EL AMOR",
+        "url": "https://open.spotify.com/album/4DudCZWhCksvU55qJ4SJPL"
+      },
+      "artists": [
+        {
+          "name": "Los gatos mojados",
+          "url": "https://open.spotify.com/artist/0ibSNu8s3dD6H7oW9frGqn"
+        }
+      ],
+      "duration_ms": 289738,
+      "name": "ES EL AMOR",
+      "url": "https://open.spotify.com/track/6OfZTJqKYJ4QM8WNJt0ky3"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -63,38 +95,6 @@
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "ES EL AMOR",
-        "url": "https://open.spotify.com/album/4DudCZWhCksvU55qJ4SJPL"
-      },
-      "artists": [
-        {
-          "name": "Los gatos mojados",
-          "url": "https://open.spotify.com/artist/0ibSNu8s3dD6H7oW9frGqn"
-        }
-      ],
-      "duration_ms": 289738,
-      "name": "ES EL AMOR",
-      "url": "https://open.spotify.com/track/6OfZTJqKYJ4QM8WNJt0ky3"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "GOET",
-        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "GOET",
-      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 181968,
-      "name": "Sal con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Que lo baile bien",
         "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 242586,
       "name": "El baile del gavil\u00e1n",
       "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 254862,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/4AYa0dTYxhA4sULGJfQux7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 264832,
+      "name": "Pideme (En Vivo)",
+      "url": "https://open.spotify.com/track/08UJJvH04cXmkZCbjEFjCX"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
         "url": "https://open.spotify.com/album/3trKivETlD5qX29DhLNOa9"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 226600,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/13xVmEV4G5jh8zDIFTZeIy"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/4AYa0dTYxhA4sULGJfQux7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 264832,
-      "name": "Pideme (En Vivo)",
-      "url": "https://open.spotify.com/track/08UJJvH04cXmkZCbjEFjCX"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1955,22 +1955,6 @@
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Grandes Temas Latinos para Bailar y Alegrar",
-        "url": "https://open.spotify.com/album/41zzdhXHDQ7RnY7mGsE0ud"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/1XZVhSjF9rbiKgcqsuTQmj"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2075,6 +2059,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Grandes Temas Latinos para Bailar y Alegrar",
+        "url": "https://open.spotify.com/album/41zzdhXHDQ7RnY7mGsE0ud"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1XZVhSjF9rbiKgcqsuTQmj"
     },
     {
       "added_at": "2024-10-04 20:34:22",

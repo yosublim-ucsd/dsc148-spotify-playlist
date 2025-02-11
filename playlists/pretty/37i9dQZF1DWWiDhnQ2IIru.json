@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3229826,
+  "num_followers": 3230225,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
+      "duration_ms": 214080,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
       "artists": [
         {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Easter",
         "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 189386,
       "name": "Get Back - Remastered 2009",
       "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-04-14 15:08:02",
       "album": {
-        "name": "Starland Vocal Band",
-        "url": "https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk"
-      },
-      "artists": [
-        {
-          "name": "Starland Vocal Band",
-          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Afternoon Delight",
-      "url": "https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua"
-    },
-    {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -1501,6 +1485,22 @@
       "url": "https://open.spotify.com/track/7uPmQttafLiJyju14JREY4"
     },
     {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Starland Vocal Band",
+        "url": "https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk"
+      },
+      "artists": [
+        {
+          "name": "Starland Vocal Band",
+          "url": "https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Afternoon Delight",
+      "url": "https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua"
+    },
+    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Ultimate Collection: Dobie Gray",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/53fiDqcEt0sEdbXF5gDetJ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 226066,
       "name": "Never Been To Spain - Single Version",
       "url": "https://open.spotify.com/track/61OQuSzsom6geFCA18JwO6"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2021-02-10 18:00:33",

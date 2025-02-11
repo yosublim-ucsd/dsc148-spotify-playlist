@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Alexsander Lucio
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,036 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,055 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 17 | [Ele Vem](https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Ele Vem](https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT) | 5:59 |
 | 18 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
 | 19 | [Majestade](https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Abra os Céus](https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb) | 6:10 |
-| 20 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |
-| 21 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
+| 20 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
+| 21 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |
 | 22 | [Espírito, Enche a Minha Vida](https://open.spotify.com/track/6R1M5uAD1qsv5T8MIZVnFy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Espírito, Enche a Minha Vida](https://open.spotify.com/album/4qhBI2wJM9qlIoMsGLAuJU) | 4:08 |
 | 23 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
 | 24 | [Pra Que Eu Fosse Livre](https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH) | [Klev](https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC) | [Pra Que Eu Fosse Livre](https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ) | 4:48 |
-| 25 | [Te Queremos Mais](https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf) | [Victoria Brandão](https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d) | [Te Queremos Mais](https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa) | 5:21 |
-| 26 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
+| 25 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
+| 26 | [Te Queremos Mais](https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf) | [Victoria Brandão](https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d) | [Te Queremos Mais](https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa) | 5:21 |
 | 27 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |
 | 28 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
 | 29 | [Eterno](https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr) | [Casa Aberta](https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me) | [Eterno](https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ) | 3:29 |

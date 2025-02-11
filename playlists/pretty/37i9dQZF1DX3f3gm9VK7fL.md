@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 
 > The hottest Anime hits of the 20s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,994 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,193 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 | 30 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 31 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 32 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
-| 33 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
-| 34 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
+| 33 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
+| 34 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 | 35 | [Black Catcher](https://open.spotify.com/track/5RXmLhscstsdvWPN0XtUa0) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Black Catcher](https://open.spotify.com/album/55JDu3ogkzlmUKgJt3nSd3) | 3:15 |
 | 36 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 |
 | 37 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f3gm9VK7fL.md) - [plain]
 | 47 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
 | 48 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
 | 49 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
-| 50 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
+| 50 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
 
 Snapshot ID: `Z5uUEgAAAAAN00ufNWrL9G3/gSkKk5+s`

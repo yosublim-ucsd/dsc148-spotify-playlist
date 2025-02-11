@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,162 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,254 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 94 | [Sin Tanto Royo](https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Sin Tanto Royo](https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc) | 2:28 |
 | 95 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
 | 96 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
-| 97 | [7x7](https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:45 |
-| 98 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/0A0lNzbQOBESKUSog1vHXS) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt) | 4:10 |
+| 97 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/0A0lNzbQOBESKUSog1vHXS) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt) | 4:10 |
+| 98 | [7x7](https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:45 |
 | 99 | [La Rabia](https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [El Favorito](https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4) | 3:13 |
 | 100 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 

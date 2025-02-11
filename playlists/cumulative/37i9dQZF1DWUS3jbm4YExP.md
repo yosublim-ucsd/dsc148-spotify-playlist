@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-750 songs - 2 day 5 hr 31 min
+751 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Men Awel Marra](https://open.spotify.com/track/7r5Xtqdy4TvpHRjMnWukjl) | [The Free Music](https://open.spotify.com/artist/0I2ig8kucQMSWCNr8rHuY9), [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Free Music \(Part 1\) \(Habibi Funk 021\)](https://open.spotify.com/album/2jyIpT41M6bEcDVsriGKSr) | 3:50 | 2023-03-22 | 2023-05-25 |
 | [Menina Mulher da Pele Preta](https://open.spotify.com/track/7AY5KbUVj1Osxwl54sWhp9) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Leonardo Marques](https://open.spotify.com/artist/1D0MIo5N8QMrSB0Ek1iHPH) | [Good Good Things](https://open.spotify.com/album/4DrDC7qQ4CKorEXtSZyS1N) | 2:46 | 2021-10-06 | 2022-07-21 |
 | [Metaphors](https://open.spotify.com/track/3VKv346IPntZiz24FT9aK4) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Metaphors](https://open.spotify.com/album/2SK7bkRYmMLyI5qHQ3DvME) | 3:11 | 2024-10-04 |  |
+| [Meu Balanço](https://open.spotify.com/track/5XT5YRzZKfZJiiGa93P7rG) | [Waltel Branco](https://open.spotify.com/artist/7xTnElN1hw1D3tPHy1axOw) | [Meu Balanço](https://open.spotify.com/album/438qLiFxIdKhMT1BRLPDqN) | 3:18 | 2025-01-31 |  |
 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 | 2021-10-06 | 2022-07-02 |
 | [Microdosing](https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [A Trip To Bolgatanga](https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14) | 3:43 | 2024-05-22 |  |
 | [Mientras Unos Mueren](https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Mientras Unos Mueren](https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ) | 3:44 | 2021-10-06 | 2022-07-21 |
@@ -510,7 +511,7 @@
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2021-10-06 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2021-10-06 | 2023-04-29 |
 | [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2021-10-06 | 2024-02-10 |
-| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 |  |
+| [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-10-06 | 2025-02-11 |
 | [OOO](https://open.spotify.com/track/7CAPcvPlTnrqR6KhOV23fD) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OOO](https://open.spotify.com/album/1reeT3XDZMo9uiXLuBUKZd) | 3:03 | 2022-01-12 | 2024-07-05 |
 | [Open the Gates](https://open.spotify.com/track/31RxSGS6KMoMfVIOISvVFy) | [Irreversible Entanglements](https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89) | [Open the Gates](https://open.spotify.com/album/7tTmhBfHBSUJWHIygHlX31) | 2:39 | 2022-02-12 | 2022-06-12 |
 | [Osè](https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [No Be Today](https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV) | 3:59 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-246 songs - 11 hr 56 min
+247 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aeroplane Deep White Noise](https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [Aeroplane Deep White Noise](https://open.spotify.com/album/4suN8JpqLQuK476GSOyRDW) | 3:00 | 2023-09-11 |  |
 | [Airplane Sleep Pt.1](https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2023-09-11 |  |
 | [Airplane Sleep Pt.2](https://open.spotify.com/track/1ndKFw4DNNeLUnoHlwaVWo) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2023-09-11 |  |
-| [Ambient White Noise Sound](https://open.spotify.com/track/0JURM6CUrrINb497LZCmZm) | [Better Sleep FX](https://open.spotify.com/artist/7dOdXBOM3O9jPWDBTIXSMD) | [White Noise Clouds](https://open.spotify.com/album/0qC2rrmdhyNBmDhte47QqV) | 2:26 | 2023-12-04 |  |
+| [Ambient White Noise Sound](https://open.spotify.com/track/0JURM6CUrrINb497LZCmZm) | [Better Sleep FX](https://open.spotify.com/artist/7dOdXBOM3O9jPWDBTIXSMD) | [White Noise Clouds](https://open.spotify.com/album/0qC2rrmdhyNBmDhte47QqV) | 2:26 | 2023-12-04 | 2025-02-11 |
 | [Astral](https://open.spotify.com/track/1DwgYQe1dhKTwUxAU1gkdz) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [White Windy Waves](https://open.spotify.com/album/6gPlw0quMHMsFv6zzHQe9Q) | 3:00 | 2023-12-04 | 2024-06-08 |
 | [Baby Sleep Noise 5](https://open.spotify.com/track/5GQqp24qVLaCWzxa6de1AE) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Noise](https://open.spotify.com/album/2ClgRK6O3Z0qdoHrMWE3Kf) | 2:08 | 2023-09-11 |  |
 | [Barely There White Noise](https://open.spotify.com/track/11MLDtbj0LZubMid56ye2M) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 2:49 | 2024-02-05 |  |
@@ -43,6 +43,7 @@
 | [Deep Blue Noise](https://open.spotify.com/track/1St21ut6MLUzjMC8mlo4aK) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Under The Ocean](https://open.spotify.com/album/7A5dn3ZlAKpqcG33Nio3Hq) | 2:13 | 2023-09-11 |  |
 | [Deep Phase Noise 1](https://open.spotify.com/track/5MOWBRtP53q5yNOtHaMVTh) | [Milli Hughes](https://open.spotify.com/artist/5qq6C4dNld3AWHbh2WaNAR) | [Deep Phase Noise](https://open.spotify.com/album/2jiaVZwVTy1c1lmu1ifoud) | 2:23 | 2023-09-11 | 2025-02-05 |
 | [Deep Space Voyage](https://open.spotify.com/track/6PvAlp8pKy23Bff6tUjhl0) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2023-09-11 | 2023-12-05 |
+| [Delicate White Noise](https://open.spotify.com/track/6sUY8p4taLXxhqoo3JbOhR) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Delicate White Noise](https://open.spotify.com/album/4PwZOVcCvo0QkWtgTVEEIw) | 2:42 | 2025-02-04 |  |
 | [Doze Off](https://open.spotify.com/track/4pU7rgTDiVrCGwFhM4u3Rm) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:57 | 2023-09-11 |  |
 | [Doze Off \- Seamless](https://open.spotify.com/track/1L3BdJ2gxTUFHfaWF1Vtwl) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Doze Off](https://open.spotify.com/album/4884o4Sx8RfATgCaBeezkB) | 2:48 | 2023-09-11 |  |
 | [Dozy White Noise](https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:09 | 2023-09-11 |  |

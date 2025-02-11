@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-792 songs - 2 day 5 hr 1 min
+794 songs - 2 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Couldn’t Be Done \(feat\. Kelly Price\)](https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:31 | 2022-10-05 |  |
 | [Cowboys](https://open.spotify.com/track/1DB8s1L4z25jcRw88815ko) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:39 | 2022-10-27 | 2024-05-17 |
 | [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 | 2024-04-02 |  |
+| [Crispy Skin](https://open.spotify.com/track/6gLaRcJnA7FqyEYpYJ4uPI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 6:19 | 2025-02-10 |  |
 | [Cross Talk I](https://open.spotify.com/track/5obg5AfnPR61YtwEewaSDu) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ) | 0:22 | 2024-01-11 | 2024-01-13 |
 | [Crying In My Sleep](https://open.spotify.com/track/7xKAS4iupiL25lxshaSgSv) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Watermark](https://open.spotify.com/album/3NJIOzTO3xQj2vwlRIyFV9) | 4:04 | 2022-07-27 |  |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 4:04 | 2024-01-08 |  |
@@ -222,6 +223,7 @@
 | [Easier](https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 3:43 | 2023-06-19 | 2024-04-03 |
 | [easy](https://open.spotify.com/track/0wJvASZtBXXxNAfnmHd0Tr) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 5:41 | 2024-01-03 | 2024-07-09 |
 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 | 2023-06-24 |  |
+| [endless](https://open.spotify.com/track/0WxgcCdTvtOrAqfSDzBcDB) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:35 | 2025-02-10 |  |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2024-01-08 |  |
 | [Erase You](https://open.spotify.com/track/6arK7mjjvqG3cVLJrYVYYW) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:17 | 2024-02-15 |  |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2024-01-06 |  |

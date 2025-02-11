@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 678557,
+  "num_followers": 679159,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAAohsD+tl6yCb1p1UMIUXmt",
+  "snapshot_id": "Z6fwAAAAAADfk+3Ccg1q24duHkGmuAuv",
   "tracks": [
     {
       "added_at": null,
@@ -779,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "435",
-        "url": "https://open.spotify.com/album/5wWkfNvfwMfQFbas9Gjggq"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 93840,
-      "name": "435",
-      "url": "https://open.spotify.com/track/5xJeZ6tLPOXNIrrphEIuay"
+      "duration_ms": 204364,
+      "name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
+      "url": "https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "435",
+        "url": "https://open.spotify.com/album/5wWkfNvfwMfQFbas9Gjggq"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 204364,
-      "name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
-      "url": "https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR"
+      "duration_ms": 93840,
+      "name": "435",
+      "url": "https://open.spotify.com/track/5xJeZ6tLPOXNIrrphEIuay"
     },
     {
       "added_at": null,
@@ -935,26 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfredo",
-        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 282560,
-      "name": "Something to Rap About (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
+      "duration_ms": 209777,
+      "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
+      "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
     },
     {
       "added_at": null,
@@ -975,22 +971,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "Alfredo",
+        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 209777,
-      "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
-      "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
+      "duration_ms": 282560,
+      "name": "Something to Rap About (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
     },
     {
       "added_at": null,

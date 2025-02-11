@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 340240,
+  "num_followers": 340198,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Once More 'Round the Sun",
-        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 279053,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
         "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 279053,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT"
     },
     {
       "added_at": "2024-10-11 19:37:59",

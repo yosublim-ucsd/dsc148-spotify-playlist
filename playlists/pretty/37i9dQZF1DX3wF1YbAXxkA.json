@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 97330,
+  "num_followers": 97423,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "King of Sweden",
+        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "King of Sweden",
+      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Shook Up",
         "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "King of Sweden",
-        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "King of Sweden",
-      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Beloved! Paradise! Jazz!?",
         "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 182307,
       "name": "Run, Run, Run",
       "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
     },
     {
       "added_at": "2024-10-18 20:43:05",
@@ -1065,26 +1065,6 @@
       "url": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "TRUE MAGIC",
-        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 229336,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/3n26Ovng64RtXwmRzfn5fi"
-    },
-    {
       "added_at": "2024-09-16 18:33:06",
       "album": {
         "name": "NASSY",
@@ -1103,6 +1083,26 @@
       "duration_ms": 142767,
       "name": "NASSY",
       "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "TRUE MAGIC",
+        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 229336,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/3n26Ovng64RtXwmRzfn5fi"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "U Want More",
-        "url": "https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        },
-        {
-          "name": "Telenova",
-          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
-        }
-      ],
-      "duration_ms": 213578,
-      "name": "U Want More",
-      "url": "https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "The Flower That Knew",
         "url": "https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 157424,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "U Want More",
+        "url": "https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "duration_ms": 213578,
+      "name": "U Want More",
+      "url": "https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Duoteque",
-          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 327508,
-      "name": "ItsNotREEAALLLLLLLL",
-      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "DESI TRILL (Remix)",
         "url": "https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 160645,
       "name": "DESI TRILL (Remix)",
       "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duoteque",
+          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 327508,
+      "name": "ItsNotREEAALLLLLLLL",
+      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1793,6 +1793,38 @@
       "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
+      "added_at": "2024-10-09 21:20:16",
+      "album": {
+        "name": "A.T.A",
+        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "A.T.A",
+      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "BABE",
+        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 147920,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
+    },
+    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "THE FUTURE IS ANCESTRAL",
@@ -1829,38 +1861,6 @@
       "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
     },
     {
-      "added_at": "2024-10-09 21:20:16",
-      "album": {
-        "name": "A.T.A",
-        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "A.T.A",
-      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "BABE",
-        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 147920,
-      "name": "BABE",
-      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Los Hombres Tambi\u00e9n Lloran",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Tha Rhythm",
+        "url": "https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 195831,
+      "name": "Tha Rhythm",
+      "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/7ipTPuIfLGHeL1Nmu0LiYN"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 184615,
       "name": "Today",
       "url": "https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Tha Rhythm",
-        "url": "https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 195831,
-      "name": "Tha Rhythm",
-      "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
     },
     {
       "added_at": "2024-09-16 11:00:00",

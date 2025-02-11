@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 89079,
+  "num_followers": 89106,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABNMkr6v1LCVFjFnWXY28Wq",
+  "snapshot_id": "Z6fwAAAAAAAYONjs44FKgoacEM4S5D6h",
   "tracks": [
     {
       "added_at": null,
@@ -383,42 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dada (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Dada (feat. Davido) [Remix]",
-      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 147021,
-      "name": "FOR THE ROAD",
-      "url": "https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -439,6 +403,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 147021,
+      "name": "FOR THE ROAD",
+      "url": "https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dada (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dada (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW"
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG"
+      "duration_ms": 176470,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deal with It",
-        "url": "https://open.spotify.com/album/73chBzty2A658sLKCYy54h"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 217154,
-      "name": "Ride for You",
-      "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
         "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deal with It",
+        "url": "https://open.spotify.com/album/73chBzty2A658sLKCYy54h"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 217154,
+      "name": "Ride for You",
+      "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nwa Baby",
         "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 222327,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 208427,
       "name": "One Ticket",
       "url": "https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/5sFGAjqTJ1c0WVa3zNpk4Z"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0OU8OELBKP0WlQmK4Uedse"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/5sFGAjqTJ1c0WVa3zNpk4Z"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0OU8OELBKP0WlQmK4Uedse"
     },
     {
       "added_at": null,

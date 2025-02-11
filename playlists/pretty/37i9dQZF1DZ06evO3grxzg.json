@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 232251,
+  "num_followers": 232263,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADBL8gE6TT9rrFSANkZQUgo",
+  "snapshot_id": "Z6fwAAAAAABqJB6qOT6xRlkCVEDk39MQ",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Doble",
-        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 198766,
-      "name": "El Doble",
-      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
       },
@@ -143,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Doble",
+        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 198766,
+      "name": "El Doble",
+      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -155,26 +155,6 @@
       "duration_ms": 177533,
       "name": "Oye Pablo",
       "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
     },
     {
       "added_at": null,
@@ -195,6 +175,26 @@
       "duration_ms": 200600,
       "name": "Know Me Too Well (with Danna Paola)",
       "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 148933,
+      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
+      "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 A\u00f1os Contigo",
         "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 166333,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enredados",
-        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
-      "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 109906,
+      "name": "Mi vida empieza as\u00ed",
+      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enredados",
-        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 109906,
-      "name": "Mi vida empieza as\u00ed",
-      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
     },
     {
       "added_at": null,

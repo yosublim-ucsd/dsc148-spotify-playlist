@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Judeline.",
-  "num_followers": 167163,
+  "num_followers": 167179,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "bien hecho",
-        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 241038,
-      "name": "bien hecho",
-      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 208802,
       "name": "Nada por Hecho (feat. Leiva)",
       "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
         "name": "2mil horas",
         "url": "https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -615,22 +631,6 @@
       "duration_ms": 189801,
       "name": "Meu Amore",
       "url": "https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "ALGO ESPECIAL",
-        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "ALGO ESPECIAL",
-      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 222857,
       "name": "Verona",
       "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "ALGO ESPECIAL",
+        "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "ALGO ESPECIAL",
+      "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Fue un adi\u00f3s",
         "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "La Dosis",
-        "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 175282,
-      "name": "La Dosis",
-      "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -979,6 +959,26 @@
       "duration_ms": 277645,
       "name": "Solos t\u00fa y yo",
       "url": "https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "La Dosis",
+        "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 175282,
+      "name": "La Dosis",
+      "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "HORSES IN HEAVEN",
-        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "HORSES IN HEAVEN",
-      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "Dime pa saber",
         "url": "https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173680,
       "name": "Dime pa saber",
       "url": "https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "Se siente bien",
-        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Se siente bien",
-      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "no llamaste (Remix)",
         "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
     },
     {
       "added_at": "2025-02-07 19:10:26",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-02-07 19:10:26",
       "album": {
-        "name": "ESP\u00cdRITU",
-        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
-    },
-    {
-      "added_at": "2025-02-07 19:10:26",
-      "album": {
         "name": "road 2 neverland",
         "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 219986,
       "name": "Amor Artificial",
       "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
+    },
+    {
+      "added_at": "2025-02-07 19:10:26",
+      "album": {
+        "name": "ESP\u00cdRITU",
+        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
     },
     {
       "added_at": "2025-02-07 19:10:26",

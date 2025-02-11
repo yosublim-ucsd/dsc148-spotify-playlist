@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Mariah Carey",
+  "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Shakira\n",
   "name": "Hinos Pop",
   "tracks": [
     {
@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203786,
+      "name": "1, 2 Step (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
+    },
+    {
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -34,7 +56,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 241026,
       "name": "2 Become 1",
       "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
@@ -136,6 +158,24 @@
       "duration_ms": 267866,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "album": {
+        "name": "Ain't Your Mama",
+        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218234,
+      "name": "Ain't Your Mama",
+      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
     },
     {
       "album": {
@@ -274,7 +314,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 200106,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT"
@@ -328,7 +368,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 190280,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
@@ -541,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Can't Remember to Forget You (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
+    },
+    {
+      "album": {
         "name": "1000 Forms Of Fear (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
       },
@@ -556,6 +618,28 @@
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
+    },
+    {
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "album": {
@@ -588,7 +672,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 180560,
       "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
       "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
@@ -916,7 +1000,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 232466,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
@@ -959,6 +1043,28 @@
     },
     {
       "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Feel This Moment (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -992,6 +1098,24 @@
       "duration_ms": 219493,
       "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
       "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "album": {
@@ -1050,7 +1174,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2MfOcbtgz2yTsiznFmVZUN"
@@ -1335,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -1364,7 +1506,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 218173,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/1XrzQqBNii8fUo3X0SvAoH"
@@ -1561,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "album": {
         "name": "Keeps Gettin' Better: A Decade Of Hits",
         "url": "https://open.spotify.com/album/6v8bG4qgPgS1YR6TRSBlAZ"
       },
@@ -1588,6 +1752,36 @@
       "duration_ms": 265973,
       "name": "Lady Marmalade",
       "url": "https://open.spotify.com/track/22i1Mf8U86PP8PqXh6S6DG"
+    },
+    {
+      "album": {
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
     },
     {
       "album": {
@@ -1718,7 +1912,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
@@ -1826,7 +2020,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 216200,
       "name": "Misery",
       "url": "https://open.spotify.com/track/0RZyUsKfiC7MtiGKatCtGc"
@@ -2035,6 +2229,42 @@
     },
     {
       "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
       },
@@ -2104,10 +2334,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 211461,
       "name": "Ragatanga (Asereje) - Vers\u00e3o Editada",
       "url": "https://open.spotify.com/track/7aSwDCjueXPEIf3OeZiRFR"
+    },
+    {
+      "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/2oxtQ84p1j5GmyzmD50Lq0"
     },
     {
       "album": {
@@ -2335,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
       },
@@ -2426,7 +2696,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 204753,
       "name": "Stop",
       "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
@@ -2526,6 +2796,28 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM"
     },
     {
       "album": {
@@ -2630,7 +2922,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 244813,
       "name": "Torn",
       "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
@@ -2714,6 +3006,24 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "album": {
@@ -2870,7 +3180,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 235000,
       "name": "What a Girl Wants - ft. Sabrina Carpenter - Live - Spotify Anniversaries Version",
       "url": "https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH"
@@ -2942,7 +3252,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 249693,
       "name": "When You Look Me In The Eyes",
       "url": "https://open.spotify.com/track/4kf33kU0KAlkNBK9pNbYNU"
@@ -2978,7 +3288,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 197026,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/0RJWhctsc1G1Hg3Ov2th7x"

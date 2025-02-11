@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,022 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,068 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 82 | [La Vampiresa](https://open.spotify.com/track/06uyFPb72xxh5takZ206Of) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [La Vampiresa](https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T) | 5:14 |
 | 83 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:27 |
 | 84 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
-| 85 | [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 |
+| 85 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
 | 86 | [Cumbia Lunera](https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:21 |
-| 87 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
+| 87 | [No Mastico Culebras](https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [No Mastico Culebras](https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW) | 2:14 |
 | 88 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
 | 89 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 90 | [Rezando Por Ella \- En Vivo](https://open.spotify.com/track/6Lj9CyTg2BHdbTLLscmBsx) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Akilatados](https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX) | [Botes y Boleros \(En Vivo\)](https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX) | 2:39 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 111 | [Mira, Mira, Mírala](https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Sin Limites](https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT) | 3:31 |
 | 112 | [La Cervecita](https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 3:53 |
 | 113 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 |
-| 114 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
-| 115 | [Ella](https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W) | [Los Primeritos de Colombia](https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8) | [La Fiesta de Maria Dolores](https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl) | 3:24 |
+| 114 | [Ella](https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W) | [Los Primeritos de Colombia](https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8) | [La Fiesta de Maria Dolores](https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl) | 3:24 |
+| 115 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |
 | 116 | [Cuando Lo Negro Sea Bello](https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Éxitos Andrés Landero](https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a) | 3:09 |
 | 117 | [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 |
 | 118 | [Volvamos a Empezar](https://open.spotify.com/track/5qdSF9c6H7Q42ukTSSe6F1) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Entre Compas y Canciones](https://open.spotify.com/album/26fFGqPpAOyAOEd1ZcIdD7) | 3:11 |

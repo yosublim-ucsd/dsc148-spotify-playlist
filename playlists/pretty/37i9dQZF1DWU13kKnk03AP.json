@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2168334,
+  "num_followers": 2168480,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
       "added_at": "2025-01-24 05:00:49",
       "album": {
         "name": "Rio",
@@ -767,6 +751,22 @@
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -799,22 +799,6 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2025-01-07 17:42:41",
-      "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
-      },
-      "artists": [
-        {
-          "name": "G3 GELO",
-          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -855,6 +839,22 @@
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
+    },
+    {
+      "added_at": "2025-01-07 17:42:41",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
       "added_at": "2025-01-10 05:00:42",
       "album": {
         "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
@@ -1039,22 +1055,6 @@
       "duration_ms": 158490,
       "name": "Confessions (feat. HEESEUNG & JAKE of ENHYPEN x Paul Russell)",
       "url": "https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 171165,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1251,6 +1251,30 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 190534,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "For Life (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 175803,
-      "name": "For Life (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2025-01-24 05:00:49",

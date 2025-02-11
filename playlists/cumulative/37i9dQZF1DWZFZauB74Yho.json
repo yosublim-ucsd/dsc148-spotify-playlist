@@ -2765,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "Hook and Line",
+        "url": "https://open.spotify.com/album/0NcHfCfGMkv90GpkMEGoRu"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Justin Robinson",
+          "url": "https://open.spotify.com/artist/2mOT5MxVjb9Jhc2CEqyVvw"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150781,
+      "name": "Hook and Line",
+      "url": "https://open.spotify.com/track/5d3AerGUgExCxJOSze68ME"
+    },
+    {
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },

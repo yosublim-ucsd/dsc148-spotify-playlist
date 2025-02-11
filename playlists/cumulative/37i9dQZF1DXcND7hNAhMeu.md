@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Lotusx
 
-88 songs - 4 hr 12 min
+89 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Yorgun](https://open.spotify.com/track/2SYCfe2yzmgHaZUuuppvbs) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Yorgun](https://open.spotify.com/album/7xs9jllVuXbKdtyXHYqiH7) | 2:56 | 2024-10-23 |  |
 | [Yıldızlar](https://open.spotify.com/track/0fgUiB3U2xItUvAyEOomH5) | [GGOX](https://open.spotify.com/artist/16aOcsup2CSL3TMot7TH5A) | [Yıldızlar](https://open.spotify.com/album/1DO3iqeVh9tVYOED8HjYV7) | 3:33 | 2024-06-20 | 2024-10-24 |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-06-20 | 2024-10-24 |
+| [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-10 |  |
 | [Çilekeş](https://open.spotify.com/track/14VaOiw20bPu33QIq3L8Ch) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Çilekeş](https://open.spotify.com/album/5Syb0Bg2H2EHUgPPM2UZto) | 2:19 | 2024-10-23 |  |
 | [Öl İçimde](https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde](https://open.spotify.com/album/41SssnSpIajL67pupQYIwk) | 3:13 | 2024-06-20 |  |
 | [Ölme](https://open.spotify.com/track/2Ka3Q9nzUdhBQDLNhjkRAX) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Hermès](https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m) | 2:38 | 2025-01-16 |  |

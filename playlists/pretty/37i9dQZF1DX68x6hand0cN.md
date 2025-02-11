@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,065 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,095 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 22 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 |
 | 23 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 24 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
-| 25 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
-| 26 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 |
-| 27 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
-| 28 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 |
-| 29 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 |
-| 30 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 |
-| 31 | [PO PO PO](https://open.spotify.com/track/6RQ06Xu2bBZFFVptrxDZZq) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [PO PO PO](https://open.spotify.com/album/5AYE8JjDT222UaFA1E2dD8) | 2:13 |
-| 32 | [1,2,3 Soleil](https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW) | [NAZAKEBLACK](https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [1,2,3 Soleil](https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw) | 2:53 |
-| 33 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 |
+| 25 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 |
+| 26 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
+| 27 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 |
+| 28 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
+| 29 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 |
+| 30 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 |
+| 31 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 |
+| 32 | [PO PO PO](https://open.spotify.com/track/6RQ06Xu2bBZFFVptrxDZZq) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [PO PO PO](https://open.spotify.com/album/5AYE8JjDT222UaFA1E2dD8) | 2:13 |
+| 33 | [1,2,3 Soleil](https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW) | [NAZAKEBLACK](https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [1,2,3 Soleil](https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw) | 2:53 |
 | 34 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 |
 | 35 | [El 7ob Sa3b](https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [El 7ob Sa3b](https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8) | 2:22 |
 | 36 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 79 | [Mon poto](https://open.spotify.com/track/2Mhn2jv81zNuuRvdlYOYlM) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Au clair de la rue \(Part.2\)](https://open.spotify.com/album/01yBge2y28BW4sCyh6QM71) | 3:19 |
 | 80 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
 
-Snapshot ID: `Z4TvrQAAAAB/EN6TSMhukGDoM5h4PwI0`
+Snapshot ID: `Z6niXgAAAADlpkOP5DMNhYwLLlGXzJc6`

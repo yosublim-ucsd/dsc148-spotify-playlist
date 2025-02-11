@@ -4,7 +4,7 @@
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 52 min
+66 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 | 2024-02-24 |  |
 | [No la Beses \- Sesión de Estudio](https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:15 | 2023-03-10 |  |
 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 | 2023-03-10 |  |
-| [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 | 2023-03-10 |  |
+| [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 | 2023-03-10 | 2025-02-11 |
 | [Noche De Copas](https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:08 | 2023-03-10 |  |
 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 | 2023-03-10 | 2024-05-22 |
 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 | 2024-09-29 |  |
+| [Pena Ajena](https://open.spotify.com/track/5hm1jMxZKDxFZU0FFsQqgD) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:57 | 2025-02-11 |  |
 | [Pensando Positivo](https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pensando Positivo](https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1) | 3:13 | 2024-05-17 |  |
 | [Polos Opuestos / Noche de Copas \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:08 | 2023-03-10 | 2024-07-12 |
 | [Por Salud Mental](https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:32 | 2023-03-10 | 2023-05-19 |

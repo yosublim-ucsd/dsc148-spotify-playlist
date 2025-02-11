@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,359 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,330 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 13 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 |
 | 14 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
 | 15 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
-| 16 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
-| 17 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
+| 16 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
+| 17 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
 | 18 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
-| 19 | [Born To Be Wild](https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W) | 3:30 |
+| 19 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 20 | [Run to the Hills \- 2015 Remaster](https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 3:53 |
-| 21 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 21 | [Born To Be Wild](https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W) | 3:30 |
 | 22 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
 | 23 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
 | 24 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 67 | [Two\-Timing Touch and Broken Bones](https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 2:00 |
 | 68 | [Feel Good Hit Of The Summer](https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 2:43 |
 | 69 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
-| 70 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 71 | [Tommy\-Gun](https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [We Are The Royal](https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN) | 2:34 |
+| 70 | [Tommy\-Gun](https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [We Are The Royal](https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN) | 2:34 |
+| 71 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 72 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 73 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 |
 | 74 | [Three Chords](https://open.spotify.com/track/5UZS4MsPlUYmdPTh7wQVSD) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 3:47 |

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 150273,
+  "num_followers": 150319,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADvgymrZ3oKIHUkLh/BbXzv",
+  "snapshot_id": "Z6fwAAAAAAAbKv+g3+XIS1UlEedWyzeq",
   "tracks": [
     {
       "added_at": null,
@@ -55,42 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 179945,
-      "name": "Loucura",
-      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -135,6 +99,42 @@
       "duration_ms": 577819,
       "name": "Poesia Ac\u00fastica #6 Era uma Vez",
       "url": "https://open.spotify.com/track/5JC2ezFSbkVi4Js4byzKoj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 317340,
-      "name": "BEM MELHOR",
-      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 240000,
       "name": "Carro Forte",
       "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 317340,
+      "name": "BEM MELHOR",
+      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
     },
     {
       "added_at": null,
@@ -1107,26 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vetin",
         "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
     },
     {
       "added_at": null,

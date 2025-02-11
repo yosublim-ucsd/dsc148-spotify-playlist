@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,564 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,610 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 28 | [Avignon](https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Avignon](https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT) | 2:59 |
 | 29 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 30 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
-| 31 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
-| 32 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
+| 31 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
+| 32 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
 | 33 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 34 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
 | 35 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 57 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 58 | [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 |
 | 59 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
-| 60 | [Broken Road](https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4) | [Niila](https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq) | [Broken Road](https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3) | 3:22 |
+| 60 | [Peace Song](https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Peace Song](https://open.spotify.com/album/1bEBNy9nUcZhTCMwc6GDD1) | 2:50 |
 
 Snapshot ID: `Z4mPjwAAAAA7m9Eu+ecffPzGKjPzWWcV`

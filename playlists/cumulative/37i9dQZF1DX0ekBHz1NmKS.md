@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,751 songs - 3 day 18 hr 50 min
+1,752 songs - 3 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Duolingo](https://open.spotify.com/track/1I9f4i2InzK8rvpct86djH) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Duolingo](https://open.spotify.com/album/1gguRd8uFWsYC6r8hoVIVf) | 2:06 | 2024-09-26 | 2024-10-20 |
 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 | 2024-01-25 | 2024-03-15 |
 | [Dust](https://open.spotify.com/track/6t0iX8lmj5PjV9mJbYAE1i) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust, Pt\. 1](https://open.spotify.com/album/2mCYJpGg7PU8zDCib4DrpS) | 3:40 | 2024-04-11 | 2024-05-17 |
-| [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2025-02-09 |
+| [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 |  |
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |
@@ -503,6 +503,7 @@
 | [Fooled by September](https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Fooled by September](https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK) | 2:53 | 2023-10-05 | 2023-12-23 |
 | [For Myself](https://open.spotify.com/track/5ZoeL2XT9knQOUjhhwkoJJ) | [Gabi Goldman](https://open.spotify.com/artist/5QCwKKyeCdNCSIJSWQpLHJ) | [For Myself](https://open.spotify.com/album/3ObQAtlGdLUJa8hFafb60G) | 2:47 | 2024-05-16 | 2024-06-14 |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
+| [Forever Is Not That Long](https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Forever Is Not That Long](https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju) | 4:18 | 2025-02-06 |  |
 | [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 | 2024-02-25 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 |  |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
@@ -535,7 +536,7 @@
 | [För Snabbt](https://open.spotify.com/track/2LUp7yM0n43fma1PZMT1Jf) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X) | [II](https://open.spotify.com/album/6YjgKHr6xxrmjaaMySlNUd) | 3:29 | 2021-12-16 | 2022-05-11 |
 | [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 | 2022-11-10 | 2022-12-13 |
 | [Fördärvad](https://open.spotify.com/track/6MSC5245nNM5GtZDq1ncC2) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Fördärvad](https://open.spotify.com/album/438edHGkbpMmjtI54r0zDh) | 2:38 | 2021-12-16 | 2022-03-11 |
-| [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 |  |
+| [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 | 2025-02-11 |
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlora oss](https://open.spotify.com/track/3TYM9Mw1rzH0VEhi8cjstM) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD), [eden](https://open.spotify.com/artist/4IsTqAm3Q0LnbSwSimAcnw) | [Förlora oss](https://open.spotify.com/album/2DXK5zLqVI3K33C0grFam0) | 2:27 | 2024-03-07 | 2024-04-19 |
 | [Förlorarna vann](https://open.spotify.com/track/6vIrlfAEr3EwDi5zVAFDVv) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Förlorarna vann](https://open.spotify.com/album/5eR5DudruRLg3IJBQivdXD) | 3:52 | 2024-01-18 | 2024-03-08 |
@@ -1509,7 +1510,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
-| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 |  |
+| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 | 2025-02-11 |
 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 | 2023-11-17 |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The only thing](https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4) | [Jarn](https://open.spotify.com/artist/4J2RKCwmEVYJlkbZvKJgW9) | [The only thing](https://open.spotify.com/album/5QdGTPzyfzPaDcUUhWga78) | 3:17 | 2024-01-25 | 2024-02-23 |

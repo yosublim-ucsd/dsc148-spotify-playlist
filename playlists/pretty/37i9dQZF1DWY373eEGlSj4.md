@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,315 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,349 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 22 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
 | 23 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 24 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
-| 25 | [Baby I'm\-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 2:30 |
-| 26 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
+| 25 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
+| 26 | [Baby I'm\-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 2:30 |
 | 27 | [The Things We Do For Love](https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Deceptive Bends](https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4) | 3:27 |
 | 28 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
 | 29 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 42 | [Just When I Needed You Most](https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [Warmer](https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM) | 4:01 |
 | 43 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 |
 | 44 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
-| 45 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
+| 45 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 46 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
-| 47 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
+| 47 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 48 | [Telephone Line](https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 4:40 |
 | 49 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 50 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |

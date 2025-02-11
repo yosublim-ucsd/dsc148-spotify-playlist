@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 212080,
       "name": "DE NOTA EN NOTA",
       "url": "https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 156467,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
@@ -3298,6 +3298,24 @@
       "duration_ms": 180986,
       "name": "D\u00e9jame t\u00fa",
       "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
+    },
+    {
+      "album": {
+        "name": "El aura de la noche",
+        "url": "https://open.spotify.com/album/65XOV9YZHxOymjqAR779OJ"
+      },
+      "artists": [
+        {
+          "name": "Funzo",
+          "url": "https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "El aura de la noche",
+      "url": "https://open.spotify.com/track/5raV2n4tfmgv7V9n9ZzQLv"
     },
     {
       "album": {
@@ -4067,6 +4085,32 @@
     },
     {
       "album": {
+        "name": "Eso Que T\u00fa Llamas Amor",
+        "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "Eso Que T\u00fa Llamas Amor",
+      "url": "https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi"
+    },
+    {
+      "album": {
         "name": "Espacio en Tu Coraz\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
       },
@@ -4220,6 +4264,24 @@
       "duration_ms": 213205,
       "name": "Ester Exp\u00f3sito",
       "url": "https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj"
+    },
+    {
+      "album": {
+        "name": "esto iba a ser una cancion de amor",
+        "url": "https://open.spotify.com/album/5bLWSwF5yxbasxBaj7NACh"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190345,
+      "name": "esto iba a ser una cancion de amor",
+      "url": "https://open.spotify.com/track/5SUPeMZV17XoMvRVCkYk6E"
     },
     {
       "album": {
@@ -4488,6 +4550,24 @@
       "duration_ms": 149658,
       "name": "fotomat\u00f3n",
       "url": "https://open.spotify.com/track/1qP9Rf8ZNIjrFGzrG536Xa"
+    },
+    {
+      "album": {
+        "name": "Fran",
+        "url": "https://open.spotify.com/album/4ZcCISOOJKCeEB6m7UsBuZ"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135020,
+      "name": "Fran",
+      "url": "https://open.spotify.com/track/35MJEB6N8dF0KzRp7Ov5JO"
     },
     {
       "album": {
@@ -5272,7 +5352,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -6771,6 +6851,36 @@
     },
     {
       "album": {
+        "name": "Mamipuladora",
+        "url": "https://open.spotify.com/album/7o4MRkYTKC6UyDM1qv4pFK"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "aka luigi",
+          "url": "https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145360,
+      "name": "Mamipuladora",
+      "url": "https://open.spotify.com/track/5QghOReCdRE2nKdT9Mrqky"
+    },
+    {
+      "album": {
         "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
         "url": "https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo"
       },
@@ -7988,7 +8098,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 189762,
       "name": "No Lo S\u00e9 Ni Yo",
       "url": "https://open.spotify.com/track/5X7hXIi09L4Eqo5FqWoBTc"
@@ -9298,7 +9408,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 188515,
       "name": "Por no bailar contigo",
       "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"

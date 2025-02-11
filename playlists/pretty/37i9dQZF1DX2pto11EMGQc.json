@@ -1,6 +1,6 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93470,
+  "num_followers": 93479,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,18 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -303,18 +299,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 220293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 235533,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2022-05-11 15:37:27",

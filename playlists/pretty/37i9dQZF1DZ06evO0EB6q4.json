@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 238020,
+  "num_followers": 238099,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACcut2TykEfTH2bVbls++5r",
+  "snapshot_id": "Z6fwAAAAAADPZ46oBIqySTa2DM916jBF",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LQRA Session #7",
+        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "LQRA Session #7",
+      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 250000,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #7",
-        "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 169642,
-      "name": "LQRA Session #7",
-      "url": "https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP"
     },
     {
       "added_at": null,

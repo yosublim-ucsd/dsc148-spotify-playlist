@@ -1,6 +1,6 @@
 {
   "description": "Every summer needs a soundtrack.",
-  "num_followers": 68746,
+  "num_followers": 68739,
   "original_name": "Summer Hits 2024",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 196800,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -203,18 +199,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -479,22 +479,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -515,18 +511,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -583,42 +583,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Takes One To Know One",
-        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Takes One To Know One",
-      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -639,22 +603,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -691,6 +651,42 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -711,18 +707,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Guess featuring billie eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "Guess featuring billie eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "added_at": "2024-09-13 04:00:00",

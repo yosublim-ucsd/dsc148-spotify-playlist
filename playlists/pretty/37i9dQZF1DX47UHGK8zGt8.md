@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,225 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,375 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 26 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 27 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
 | 28 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 |
-| 29 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
+| 29 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
 | 30 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
-| 31 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
+| 31 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
 | 32 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
 | 33 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
 | 34 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |

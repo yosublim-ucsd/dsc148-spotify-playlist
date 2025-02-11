@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAC9rid9MT6aVOk8BT/UVIz6",
+  "snapshot_id": "Z6fwAAAAAAAgGfEDFGljFUy7Itkm3iF5",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roupa de Tirar",
-        "url": "https://open.spotify.com/album/75MZ5iHp8zsdBgJKcj48Yn"
-      },
-      "artists": [
-        {
-          "name": "Sand\u00e1lia de Prata",
-          "url": "https://open.spotify.com/artist/6YuiLSumjpSfCZJX3oo42Q"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Roupa de Tirar",
-      "url": "https://open.spotify.com/track/5ZyMe1SkLd4fHyXJUMYKSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo (Remix)",
         "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 340423,
       "name": "Dentro Ali - Remix",
       "url": "https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roupa de Tirar",
+        "url": "https://open.spotify.com/album/75MZ5iHp8zsdBgJKcj48Yn"
+      },
+      "artists": [
+        {
+          "name": "Sand\u00e1lia de Prata",
+          "url": "https://open.spotify.com/artist/6YuiLSumjpSfCZJX3oo42Q"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Roupa de Tirar",
+      "url": "https://open.spotify.com/track/5ZyMe1SkLd4fHyXJUMYKSD"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 262105,
+      "name": "Semana Vem",
+      "url": "https://open.spotify.com/track/0AH5iaTfTZHhsp17XQJEml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yin & Yang (feat. T\u00e1ssia Reis)",
         "url": "https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 202402,
       "name": "Yin & Yang",
       "url": "https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Esfera",
-        "url": "https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 262105,
-      "name": "Semana Vem",
-      "url": "https://open.spotify.com/track/0AH5iaTfTZHhsp17XQJEml"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl from Bahia",
-        "url": "https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON"
-      },
-      "artists": [
-        {
-          "name": "Jevon",
-          "url": "https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 202197,
-      "name": "Girl from Bahia",
-      "url": "https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 240000,
       "name": "Me Beije",
       "url": "https://open.spotify.com/track/5jrcXyG8dp23qC71owIgNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl from Bahia",
+        "url": "https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON"
+      },
+      "artists": [
+        {
+          "name": "Jevon",
+          "url": "https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 202197,
+      "name": "Girl from Bahia",
+      "url": "https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF"
     },
     {
       "added_at": null,

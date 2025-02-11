@@ -4,7 +4,7 @@
 
 > Échate un zapateo al ritmo del tribal.
 
-89 songs - 4 hr 53 min
+90 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Gettin' Hype](https://open.spotify.com/track/61ypk11tHPK6NvkapbYap1) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:36 | 2024-03-08 | 2024-09-21 |
 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 | 2022-08-05 |  |
 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 | 2022-08-05 | 2024-04-19 |
-| [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 | 2024-07-05 |  |
+| [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 | 2024-07-05 | 2025-02-11 |
 | [L0JI](https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [L0JI](https://open.spotify.com/album/7uHP8GP7cWkmour80PaxiG) | 3:00 | 2024-05-09 |  |
 | [La Bala](https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:10 | 2024-07-05 | 2024-12-23 |
 | [La Culebritica](https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq) | [Tribal Guarachero](https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt) | [La Culebritica](https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S) | 3:40 | 2024-03-08 | 2024-04-19 |
@@ -66,6 +66,7 @@
 | [Pa' Prender](https://open.spotify.com/track/076VW4EZwBkJi2rJBHfKwF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Pa' Prender](https://open.spotify.com/album/4239DsuTdIcdeXUIpyty97) | 3:03 | 2024-03-08 | 2024-05-06 |
 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 | 2022-08-05 |  |
 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 | 2022-08-05 |  |
+| [Préndelo](https://open.spotify.com/track/54ztKHl4Hv6jSmTeaqJdEU) | [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS), [Erick Rincón](https://open.spotify.com/artist/2JqCXO2jqKZvw1SeX393LY), [Miss Sound](https://open.spotify.com/artist/4xhusodSTta5v3WZRt4RuS) | [Nalga Bass](https://open.spotify.com/album/2Gn3gyqQqTUfsMITUljv6e) | 3:14 | 2024-07-05 |  |
 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 | 2024-05-14 |  |
 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 | 2022-08-05 | 2024-04-19 |
 | [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 | 2024-03-08 |  |

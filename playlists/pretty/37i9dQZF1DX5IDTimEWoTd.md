@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,681,032 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,681,299 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 56 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 |
 | 57 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 58 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
-| 59 | [Forever and Ever and Always](https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Forever and Ever and Always](https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM) | 2:20 |
-| 60 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 |
-| 61 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
-| 62 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 59 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 60 | [Forever and Ever and Always](https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Forever and Ever and Always](https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM) | 2:20 |
+| 61 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 |
+| 62 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 63 | [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 |
 | 64 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 |
 | 65 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 77 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
 | 78 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
 | 79 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
-| 80 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
+| 80 | [like my father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [like my father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |
 | 81 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 |
-| 82 | [like my father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [like my father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |
+| 82 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 83 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 | 84 | [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 |
 | 85 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |

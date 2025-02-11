@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 幾田りら Lilas Ikuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,414 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,447 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 37 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 38 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 39 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
-| 40 | [BELIEVE](https://open.spotify.com/track/0aCIecWooLfBx2by8LRx3J) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/799Kmhfy6h7UwCTot4gJ4e) | 3:29 |
-| 41 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 |
+| 40 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 |
+| 41 | [BELIEVE](https://open.spotify.com/track/0aCIecWooLfBx2by8LRx3J) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/799Kmhfy6h7UwCTot4gJ4e) | 3:29 |
 | 42 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 43 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
 | 44 | [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 |

@@ -4,7 +4,7 @@
 
 > The songs with the biggest throwback moments\. Cover: Fetty Wap
 
-135 songs - 8 hr 19 min
+137 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2024-11-27 |  |
 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2023-11-29 | 2024-11-28 |
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2024-12-18 |  |
-| [Lights \- Single Version](https://open.spotify.com/track/2bM9HdIr1NJqZ2udcd2OsZ) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights 10](https://open.spotify.com/album/27XBXCuJ2Q3t7RlTXFIZu1) | 3:30 | 2024-11-27 |  |
+| [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2025-02-10 |  |
+| [Lights \- Single Version](https://open.spotify.com/track/2bM9HdIr1NJqZ2udcd2OsZ) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights 10](https://open.spotify.com/album/27XBXCuJ2Q3t7RlTXFIZu1) | 3:30 | 2024-11-27 | 2025-02-11 |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2023-11-29 |  |
 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2023-11-29 | 2024-11-28 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2023-11-29 | 2024-11-28 |
@@ -78,7 +79,7 @@
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-11-29 | 2024-11-28 |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2024-11-27 | 2025-02-05 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2023-11-29 | 2024-11-28 |
-| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2023-11-29 |  |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2023-11-29 | 2025-02-11 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2023-11-29 | 2024-11-28 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2023-11-29 | 2025-01-22 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2023-11-29 | 2025-01-22 |
@@ -131,6 +132,7 @@
 | [The Hills](https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:02 | 2023-11-29 | 2024-11-28 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-11-29 |  |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2023-11-29 | 2024-11-28 |
+| [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 | 2025-02-10 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2023-11-29 |  |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2023-11-29 | 2024-11-28 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-11-29 | 2024-11-28 |

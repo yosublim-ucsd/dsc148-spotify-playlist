@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Acá no importan el género.<br/>📷 Bandalos Chinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,035 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,046 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
-| 2 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 2 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 3 | [Toy en el Mic](https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:17 |
 | 4 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
 | 5 | [Bonsai](https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:08 |

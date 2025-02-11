@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,017 likes - 49 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,029 likes - 49 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 43 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 44 | [Divine Romance](https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Phil Wickham](https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv) | 4:58 |
 | 45 | [How Great Is Your Love](https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope \(The House Sessions\)](https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS) | 6:34 |
-| 46 | [ISN'T HE GOOD • HOMETOWN VERSION](https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:47 |
-| 47 | [This Is the Day](https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:26 |
+| 46 | [This Is the Day](https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:26 |
+| 47 | [ISN'T HE GOOD • HOMETOWN VERSION](https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:47 |
 | 48 | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:14 |
 | 49 | [RELATIONSHIP • HOMETOWN VERSION](https://open.spotify.com/track/4ygZXRhD40OUyjZiexB0mC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:53 |
 
-Snapshot ID: `Z6aegAAAAACTAJNcW5jfnQEe199rZ89B`
+Snapshot ID: `Z6fwAAAAAACK3K/Jf5WGbLyKIu5KcLJ+`

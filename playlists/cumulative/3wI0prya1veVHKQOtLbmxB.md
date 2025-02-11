@@ -4,7 +4,7 @@
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers
 
-246 songs - 15 hr 5 min
+247 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6ruNsixBSp5Gm4F8NDFTEo) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 4:48 | 2021-09-13 | 2023-02-10 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-07 |  |
 | [Out of My League](https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0) | 3:29 | 2023-02-09 | 2023-04-22 |
+| [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Academy in Concert](https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144) | 5:01 | 2025-02-10 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2023-03-24 | 2023-04-22 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2023-02-09 | 2023-03-25 |
 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 | 2021-09-13 |  |

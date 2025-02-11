@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 508753,
+  "num_followers": 509021,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Jimmy Fallon (Remix)",
         "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 242376,
       "name": "Jimmy Fallon - Remix",
       "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "\u00cddolo",
-        "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Pa Que Brille",
-      "url": "https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Maracucho Bueno Muere Chiquito",
         "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 212863,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "\u00cddolo",
+        "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Pa Que Brille",
+      "url": "https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2063,26 +2063,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
+        "name": "Te Llame Borracho",
+        "url": "https://open.spotify.com/album/2y7qQImK0WUCdvYLAWpzoR"
       },
       "artists": [
         {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+      "duration_ms": 198282,
+      "name": "Te Llame Borracho",
+      "url": "https://open.spotify.com/track/3ZqYV9HnAVVdMB4TjO8RBx"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2107,26 +2107,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Te Llame Borracho",
-        "url": "https://open.spotify.com/album/2y7qQImK0WUCdvYLAWpzoR"
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
         },
         {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 198282,
-      "name": "Te Llame Borracho",
-      "url": "https://open.spotify.com/track/3ZqYV9HnAVVdMB4TjO8RBx"
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
     },
     {
       "added_at": "2024-03-08 16:14:30",

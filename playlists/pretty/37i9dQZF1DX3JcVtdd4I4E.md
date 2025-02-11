@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,254 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,258 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 25 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
 | 26 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
 | 27 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
-| 28 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
-| 29 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 |
+| 28 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 |
+| 29 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
 | 30 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 31 | [Rhythm Of My Show](https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Rhythm Of My Show](https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE) | 2:45 |
 | 32 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 40 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 41 | [All My Life \(Where Have You Been\)](https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [All My Life \(Where Have You Been\)](https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU) | 2:52 |
 | 42 | [Imagine](https://open.spotify.com/track/6cJ3VHRZqU71l4rA6K89gi) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/3UteN8apwzmsGK7rhHjTXY) | 3:12 |
-| 43 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
-| 44 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
+| 43 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
+| 44 | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Expiration Date\_demo\_V2.wav](https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK) | 2:42 |
 | 45 | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Habits \(Stay High\) \[Stripped in France\]](https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q) | 3:44 |
 | 46 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 47 | [I’ll Think of You](https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Solitude](https://open.spotify.com/album/3p3saMidKHm879P3SC0znA) | 2:23 |
-| 48 | [Mercedes](https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m) | 2:56 |
+| 47 | [Mercedes](https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m) | 2:56 |
+| 48 | [I’ll Think of You](https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Solitude](https://open.spotify.com/album/3p3saMidKHm879P3SC0znA) | 2:23 |
 | 49 | [For The Show](https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [For The Show](https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3) | 2:50 |
 | 50 | [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 |
 | 51 | [That Guy](https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [That Guy](https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z) | 2:34 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 59 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 |
 | 60 | [WEIGHTLESS](https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [WEIGHTLESS](https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9) | 2:53 |
 | 61 | [Bloody Mind](https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Bloody Mind](https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp) | 4:19 |
-| 62 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 |
+| 62 | [maserati](https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [maserati](https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5) | 1:32 |
 | 63 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
-| 64 | [maserati](https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [maserati](https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5) | 1:32 |
+| 64 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 |
 | 65 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
 | 66 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 |
 | 67 | [Partner In Crime](https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Partner In Crime](https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F) | 2:35 |

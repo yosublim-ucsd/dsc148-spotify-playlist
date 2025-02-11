@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
@@ -8444,6 +8444,28 @@
       "duration_ms": 186666,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "album": {
+        "name": "MEJOR QUE VOS",
+        "url": "https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166794,
+      "name": "MEJOR QUE VOS",
+      "url": "https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt"
     },
     {
       "album": {

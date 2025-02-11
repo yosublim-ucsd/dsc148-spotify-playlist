@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,372 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,460 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 13 | [Bel Ahlam](https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 2:49 |
 | 14 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 |
 | 15 | [Kel El Qasayed](https://open.spotify.com/track/0Eomiq1hNIfh86AGK8LW85) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Kel El Qasayed](https://open.spotify.com/album/3uQtUJXjmLNHU0NwfxogKu) | 4:01 |
-| 16 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 |
-| 17 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
+| 16 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
+| 17 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 |
 | 18 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 |
 | 19 | [El Waet Hdiye](https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Waet Hdiye](https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi) | 3:16 |
 | 20 | [Ahwak](https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 1:34 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 58 | [Mum, Sing to the Wind](https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [A Time to Cry \- a Lament over Jerusalem](https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8) | 3:28 |
 | 59 | [لو سامحنا](https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [لو سامحنا](https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6) | 2:48 |
 | 60 | [Falaytaka Tahlou](https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Falaytaka Tahlou](https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm) | 3:56 |
-| 61 | [Halalalalaya](https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c) | [The Chehade Brothers](https://open.spotify.com/artist/6hhD05021IbbmyD93oaFaZ) | [Halalalalaya](https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi) | 2:17 |
-| 62 | [Hawel Tensany](https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hawel Tensany](https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka) | 3:39 |
+| 61 | [Hawel Tensany](https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hawel Tensany](https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka) | 3:39 |
+| 62 | [Halalalalaya](https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c) | [The Chehade Brothers](https://open.spotify.com/artist/6hhD05021IbbmyD93oaFaZ) | [Halalalalaya](https://open.spotify.com/album/0dArmNTWLeJwmUI4XBS9Pi) | 2:17 |
 | 63 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
 | 64 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
 | 65 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 |
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 68 | [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 |
 | 69 | [Shem Wroud](https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Shem Wroud](https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6) | 3:16 |
 | 70 | [Despite the Flop](https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 2:51 |
-| 71 | [Ya Ashikata Al Wardi](https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI) | [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Ya Ashikata Al Wardi](https://open.spotify.com/album/19UIdLolCgvbCkZrSsofqc) | 1:52 |
-| 72 | [Raoui](https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Raoui](https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx) | 3:47 |
+| 71 | [Raoui](https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Raoui](https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx) | 3:47 |
+| 72 | [Ya Ashikata Al Wardi](https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI) | [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Ya Ashikata Al Wardi](https://open.spotify.com/album/19UIdLolCgvbCkZrSsofqc) | 1:52 |
 | 73 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 |
 | 74 | [Yasmeen](https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Yasmeen](https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz) | 0:56 |
 | 75 | [لب الموضوع](https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [لب الموضوع](https://open.spotify.com/album/5TcOf5U179gvhT9WYCVZMc) | 3:38 |
 | 76 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 77 | [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 |
-| 78 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |
-| 79 | [Dessine\-moi Un Pays](https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Dessine\-moi Un Pays](https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9) | 3:28 |
-| 80 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
+| 78 | [Dessine\-moi Un Pays](https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Dessine\-moi Un Pays](https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9) | 3:28 |
+| 79 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
+| 80 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |
 | 81 | [Osad Einy](https://open.spotify.com/track/7si84DsIQQfMKajYl0AwY4) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tea Time](https://open.spotify.com/album/0XqCCOQsueU7orG8EDgEXn) | 4:24 |
 | 82 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 |
 | 83 | [Bahlam Maak](https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Bahlam Maak](https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS) | 3:28 |

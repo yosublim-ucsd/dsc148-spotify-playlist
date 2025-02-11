@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 35379,
+  "num_followers": 35395,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACXoKZFmqEvlwRFJTHYe5OB",
+  "snapshot_id": "Z6fwAAAAAADoRplXB1BP2HMzXkaxi5L7",
   "tracks": [
     {
       "added_at": null,
@@ -647,58 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 85568,
-      "name": "Agnus Dei - Live",
-      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 214872,
-      "name": "Blessings (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -731,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 85568,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -743,6 +707,42 @@
       "duration_ms": 333247,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 214872,
+      "name": "Blessings (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 231073,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 409506,
       "name": "Wonderful Grace",
       "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 231073,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+        "name": "The Cry: A Live Worship Experience",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
       "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 183866,
-      "name": "I Love This Place - Live",
-      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
+      "duration_ms": 488413,
+      "name": "Even Now - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/57gQF5VCsMoR9PjdUd59WS"
     },
     {
       "added_at": null,
@@ -895,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry: A Live Worship Experience",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
       "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 488413,
-      "name": "Even Now - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/57gQF5VCsMoR9PjdUd59WS"
+      "duration_ms": 183866,
+      "name": "I Love This Place - Live",
+      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
     },
     {
       "added_at": null,

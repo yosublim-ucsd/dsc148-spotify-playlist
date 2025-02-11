@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. RAYBEN en portada.",
-  "num_followers": 62703,
+  "num_followers": 62734,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "\u00d1EROSTARS",
-        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "Todo Tiene Su Final",
-      "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 256086,
       "name": "Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "Todo Tiene Su Final",
+      "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -619,30 +619,6 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "CORA DE HIELO",
-        "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        },
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "CORA DE HIELO",
-      "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
         "name": "Derecha la Flecha",
         "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 200454,
       "name": "Derecha la Flecha",
       "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
+        "name": "CORA DE HIELO",
+        "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        },
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "CORA DE HIELO",
+      "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 260584,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "Plata",
-        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
-      },
-      "artists": [
-        {
-          "name": "J. Cross",
-          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 172827,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
+      },
+      "artists": [
+        {
+          "name": "J. Cross",
+          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 172827,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1559,22 +1559,6 @@
       "duration_ms": 153882,
       "name": "barbiechaka (funnynoiseclub003)",
       "url": "https://open.spotify.com/track/7jbHpXvI2zgWSAMt0Kzwbw"
-    },
-    {
-      "added_at": "2025-02-07 06:00:18",
-      "album": {
-        "name": "CONFI\u00c9SALO",
-        "url": "https://open.spotify.com/album/3lIt5JdYXqqABaqSieeVRE"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 147431,
-      "name": "CONFI\u00c9SALO",
-      "url": "https://open.spotify.com/track/0HVUYEYzU9pJ1ssuiBR5Dk"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1623,22 +1607,18 @@
     {
       "added_at": "2025-02-07 06:00:18",
       "album": {
-        "name": "ALINE",
-        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
+        "name": "CONFI\u00c9SALO",
+        "url": "https://open.spotify.com/album/3lIt5JdYXqqABaqSieeVRE"
       },
       "artists": [
         {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Kobe Mane",
-          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 127016,
-      "name": "ALINE",
-      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
+      "duration_ms": 147431,
+      "name": "CONFI\u00c9SALO",
+      "url": "https://open.spotify.com/track/0HVUYEYzU9pJ1ssuiBR5Dk"
     },
     {
       "added_at": "2025-02-07 06:00:18",
@@ -1663,6 +1643,26 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
+    },
+    {
+      "added_at": "2025-02-07 06:00:18",
+      "album": {
+        "name": "ALINE",
+        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        }
+      ],
+      "duration_ms": 127016,
+      "name": "ALINE",
+      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
     },
     {
       "added_at": "2025-02-07 06:00:18",

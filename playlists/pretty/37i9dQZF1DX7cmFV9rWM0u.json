@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1792720,
+  "num_followers": 1792763,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-16 18:23:34",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2025-01-16 18:23:34",
-      "album": {
         "name": "KESI (Remix)",
         "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2025-01-16 18:23:34",
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2025-01-16 18:23:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-16 18:23:34",
       "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "FERXXO 30",
-      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
-    },
-    {
-      "added_at": "2025-01-16 18:23:34",
-      "album": {
         "name": "Que Tire Pa Lante",
         "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210520,
       "name": "Que Tire Pa Lante",
       "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
+    },
+    {
+      "added_at": "2025-01-16 18:23:34",
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
     },
     {
       "added_at": "2025-01-16 18:23:34",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-01-16 18:23:34",
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "added_at": "2025-01-16 18:23:34",
+      "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 190654,
       "name": "PUNTO 40",
       "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
-    },
-    {
-      "added_at": "2025-01-16 18:23:34",
-      "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "RUMBAT\u00d3N",
-      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
     },
     {
       "added_at": "2025-01-16 18:23:34",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2025-01-16 18:23:34",
       "album": {
-        "name": "SPANISH TETEO",
-        "url": "https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 181176,
-      "name": "SPANISH TETEO",
-      "url": "https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel"
-    },
-    {
-      "added_at": "2025-01-16 18:23:34",
-      "album": {
         "name": "Ram Pam Pam",
         "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 246061,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
+    },
+    {
+      "added_at": "2025-01-16 18:23:34",
+      "album": {
+        "name": "SPANISH TETEO",
+        "url": "https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 181176,
+      "name": "SPANISH TETEO",
+      "url": "https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel"
     },
     {
       "added_at": "2025-01-16 18:23:34",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2025-01-16 18:23:34",
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "added_at": "2025-01-16 18:23:34",
+      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 201000,
       "name": "PAM",
       "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
-    },
-    {
-      "added_at": "2025-01-16 18:23:34",
-      "album": {
-        "name": "Baloncito Viejo",
-        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 170862,
-      "name": "Baloncito Viejo",
-      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
     }
   ],
   "unique_name": "Zumba\u00ae Beats",

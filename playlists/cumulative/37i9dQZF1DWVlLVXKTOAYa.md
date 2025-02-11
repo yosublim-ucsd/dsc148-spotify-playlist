@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,000 songs - 2 day 3 hr 40 min
+1,001 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [One Day](https://open.spotify.com/track/53Urfby5c1QKQJFIQLm5SK) | [FredAtlast](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55) | [One Day](https://open.spotify.com/album/4hjASLcYCrKSIbBFoGCs1q) | 4:27 | 2022-03-24 | 2022-04-06 |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-17 | 2024-12-06 |
 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-06-02 | 2022-07-29 |
+| [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 |  |
 | [One More I Love You](https://open.spotify.com/track/3v9IFz7EikDfXXfvPVfH6B) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/547kCTKUHCy01Jc8WC5WxH) | 3:36 | 2022-03-24 | 2022-04-20 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-12-16 | 2022-07-27 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-19 | 2024-12-06 |
@@ -844,7 +845,7 @@
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-12-05 |  |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-10 | 2024-11-25 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2022-03-24 | 2022-04-21 |
-| [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-12-05 |  |
+| [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-12-05 | 2025-02-11 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-12-05 |  |
 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 | 2021-12-16 | 2022-07-07 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2022-03-24 | 2022-04-08 |

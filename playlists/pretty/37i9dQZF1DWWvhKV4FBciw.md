@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798,532 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,798,745 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 56 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 | 57 | [Proud Mary](https://open.spotify.com/track/4ppxp8rJB8eOhM9TFm6dK2) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Workin' Together](https://open.spotify.com/album/5BFTZqoJ1aCn80FKB0GkXL) | 4:57 |
 | 58 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
-| 59 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
-| 60 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 |
+| 59 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 |
+| 60 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
 | 61 | [Pick up the Pieces](https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Average White Band](https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC) | 3:54 |
 | 62 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
 | 63 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 74 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
 | 75 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
 | 76 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 8:06 |
-| 77 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
-| 78 | [I'd Rather Be with You](https://open.spotify.com/track/42rFOQqHmXf9IkdwVqkooK) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 4:57 |
-| 79 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
-| 80 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 |
+| 77 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
+| 78 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 |
+| 79 | [I'd Rather Be with You](https://open.spotify.com/track/42rFOQqHmXf9IkdwVqkooK) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 4:57 |
+| 80 | [So Ruff, so Tuff](https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:35 |
 
 Snapshot ID: `ZpFVhwAAAACSb9z6ekn7cneSoDOYrBWj`

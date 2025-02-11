@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,375 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,395 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

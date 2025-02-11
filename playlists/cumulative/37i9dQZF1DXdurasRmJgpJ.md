@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-346 songs - 20 hr 10 min
+347 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-02-25 | 2024-02-28 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-12-12 | 2024-01-11 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-12-12 | 2024-10-11 |
+| [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 | 2025-02-07 |  |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-12-12 | 2024-03-27 |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-21 | 2024-10-15 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-12-12 | 2024-01-20 |
@@ -270,7 +271,7 @@
 | [ルバート](https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ルバート](https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0) | 3:51 | 2024-06-06 | 2024-08-08 |
 | [ルル](https://open.spotify.com/track/6UuxnR9zgvzpFS6YvfCqFL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ルル](https://open.spotify.com/album/10iuG3s2Fry5JiUh0i0c75) | 3:17 | 2024-07-31 | 2024-08-21 |
 | [レオ](https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:58 | 2024-03-26 | 2025-01-28 |
-| [ワタリドリ](https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [ALXD](https://open.spotify.com/album/320EqC5cbWaxVViu3cJUAn) | 4:08 | 2024-12-17 |  |
+| [ワタリドリ](https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [ALXD](https://open.spotify.com/album/320EqC5cbWaxVViu3cJUAn) | 4:08 | 2024-12-17 | 2025-02-11 |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-12-12 | 2023-12-17 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-12-12 |  |
 | [不可幸力](https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:20 | 2024-04-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,459 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,790 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

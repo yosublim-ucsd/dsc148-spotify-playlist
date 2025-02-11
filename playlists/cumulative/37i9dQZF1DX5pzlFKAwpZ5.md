@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-287 songs - 21 hr 9 min
+289 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Atrium](https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 8:25 | 2022-12-30 | 2024-08-09 |
 | [Bananatron](https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 7:40 | 2022-12-30 | 2023-08-19 |
 | [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
-| [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 |  |
+| [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 | 2025-02-11 |
 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 | 2022-01-07 |  |
 | [Bleu](https://open.spotify.com/track/5IlAse1O3cxM6nduPpAcSK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Bleu/Flicker](https://open.spotify.com/album/2yz0Zi7id37u4813CUhnB3) | 2:10 | 2024-11-30 | 2024-12-15 |
 | [Blink](https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:44 | 2022-12-30 | 2023-08-19 |
@@ -91,9 +91,10 @@
 | [forsaken](https://open.spotify.com/track/2aQ8wbTd9yDiVJdOnfYCIo) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [forsaken](https://open.spotify.com/album/0NxN5AVfWdOL45hmEgIb45) | 2:19 | 2023-09-22 |  |
 | [FOSSIL OF FLAME／火の化石～FIFTY BELL\-TREES／五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE（マーキュリック・ダンス～躍動の踊り）](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2022-12-30 |  |
 | [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 |  |
+| [From a Distance](https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4) | [marucoporoporo](https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk) | [Conceive the Sea](https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1) | 3:19 | 2025-02-11 |  |
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 | 2022-12-30 |  |
-| [Gold Dust](https://open.spotify.com/track/7j1kjPYeQiGfk21JEk761r) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Idealism II](https://open.spotify.com/album/5lJI2Znj1TmTnlyGGHlmtk) | 3:16 | 2023-11-24 |  |
+| [Gold Dust](https://open.spotify.com/track/7j1kjPYeQiGfk21JEk761r) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Idealism II](https://open.spotify.com/album/5lJI2Znj1TmTnlyGGHlmtk) | 3:16 | 2023-11-24 | 2025-02-11 |
 | [Grass Harp](https://open.spotify.com/track/3IS7K9DaeCMDC087s79GWk) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:57 | 2022-07-22 | 2023-05-01 |
 | [Grass Harp](https://open.spotify.com/track/5bhD5fspebQAHffkiqsav2) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4) | 5:57 | 2023-04-28 | 2023-11-01 |
 | [Grass Harp](https://open.spotify.com/track/5oy0BoXi4o83XaAkZ9lMrG) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3VlSsznQDQhW1hIi8FrZXn) | 5:57 | 2022-01-07 |  |
@@ -290,6 +291,7 @@
 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 | 2024-11-30 | 2024-12-15 |
 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 | 2022-03-25 |  |
 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 |  |
+| [漂失](https://open.spotify.com/track/5Jc7G1wCxHexeZmiYiixle) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [漂失](https://open.spotify.com/album/6S0HAqS4jFeTbvwwS7AjCh) | 5:45 | 2025-02-11 |  |
 | [甘い塊](https://open.spotify.com/track/0mx3zg2cSgmkl85lxrj5G7) | [Naohito Uchiyama](https://open.spotify.com/artist/04uIs0KHmV0KwDUalfwXpb) | [雪と電気](https://open.spotify.com/album/4oGm40jnKa42r3IsCZW7M3) | 5:57 | 2022-01-07 | 2023-07-07 |
 | [蜘蛛の糸](https://open.spotify.com/track/68juTig6XWjRTfDu3d1TxU) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [蜘蛛の糸](https://open.spotify.com/album/28wOPkkFC0q7Gsh7X3EXvc) | 5:29 | 2022-01-07 | 2025-01-25 |
 | [銀の船](https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:21 | 2022-12-30 |  |

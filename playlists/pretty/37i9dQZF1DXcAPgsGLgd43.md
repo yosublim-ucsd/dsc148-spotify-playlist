@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,172 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,258 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 40 | [Dime Mami](https://open.spotify.com/track/0f7c6AnAvH7lSfGTUvqgvm) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Tyago Baby](https://open.spotify.com/artist/7BbERzGvIzvgGbtExDXWGC) | [Dime Mami](https://open.spotify.com/album/0gwpRpnAtiOGQzmvkLAZPf) | 2:49 |
 | 41 | [Bandolera](https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Junior Black](https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa) | [Bandolera](https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp) | 1:57 |
 | 42 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Dawn Patrol](https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 |
-| 43 | [Vente](https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Vente](https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA) | 3:02 |
-| 44 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
+| 43 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
+| 44 | [Vente](https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Vente](https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA) | 3:02 |
 | 45 | [Uh, uh balançou!](https://open.spotify.com/track/01UIAgXk4KLXPuiFcMyu0j) | [Rici Moraes](https://open.spotify.com/artist/5GMXs8hniPbARi5xshwOns), [Rodrigo Germany](https://open.spotify.com/artist/0m4F9qK4bsuLGkAT62H22N) | [Uh, uh balançou!](https://open.spotify.com/album/0qv2aMq8nmRb52CDlI5qiY) | 3:18 |
 | 46 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 |
 | 47 | [Pegao](https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pegao](https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB) | 3:38 |

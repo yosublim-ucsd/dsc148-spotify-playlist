@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 247136,
+  "num_followers": 247141,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABhK8pBm1VfAEhY9pNEZW+J",
+  "snapshot_id": "Z6fwAAAAAAD2w68Vf3AyA1fPHrIq19s8",
   "tracks": [
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day of Summer",
-        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 190268,
-      "name": "Last Day of Summer",
-      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
+      "duration_ms": 159256,
+      "name": "Pretty Liar",
+      "url": "https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4"
     }
   ],
   "unique_name": "This Is Shania Twain",

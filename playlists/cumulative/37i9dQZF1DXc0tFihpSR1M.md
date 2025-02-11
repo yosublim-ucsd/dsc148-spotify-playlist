@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-193 songs - 10 hr 8 min
+194 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-05 | 2025-01-17 |
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-23 | 2025-02-07 |
 | [Demo](https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Demo](https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA) | 2:30 | 2024-12-05 | 2025-01-03 |
-| [Det regner i Oslo](https://open.spotify.com/track/2miHLrDMptHROYGC3sVXnV) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Det regner i Oslo](https://open.spotify.com/album/74qzyTE1SzN1qZ9vY1n3ao) | 2:36 | 2025-01-09 |  |
+| [Det regner i Oslo](https://open.spotify.com/track/2miHLrDMptHROYGC3sVXnV) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Det regner i Oslo](https://open.spotify.com/album/74qzyTE1SzN1qZ9vY1n3ao) | 2:36 | 2025-01-09 | 2025-02-11 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-27 | 2024-09-27 |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-11-01 | 2024-11-20 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
@@ -132,6 +132,7 @@
 | [Now and Then](https://open.spotify.com/track/1UiCMFy7oay73eHdRTkGR9) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Now and Then](https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up) | 3:30 | 2025-01-02 | 2025-01-10 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 |  |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-06-27 | 2024-11-02 |
+| [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-06 |  |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 | 2024-09-13 |
 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 | 2024-10-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,453 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,473 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 33 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 34 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 35 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 |
-| 36 | [Dear Future Husband](https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:04 |
-| 37 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
+| 36 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
+| 37 | [Dear Future Husband](https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:04 |
 | 38 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 39 | [Boyfriend](https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 2:51 |
 | 40 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 |

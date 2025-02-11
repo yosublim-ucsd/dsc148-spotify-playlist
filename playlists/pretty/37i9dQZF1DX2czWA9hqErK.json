@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1357807,
+  "num_followers": 1357782,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 144588,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+      "duration_ms": 144588,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1115,8 +1115,8 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
       },
       "artists": [
         {
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Make Up",
-        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 151764,
-      "name": "Make Up",
-      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1259,6 +1243,22 @@
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "One Eye Open",
-        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 212994,
-      "name": "One Eye Open",
-      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Crazymad, For Me",
         "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "One Eye Open",
+        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 212994,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "oh my",
-        "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "oh my",
-      "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "oh my",
+        "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "oh my",
+      "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
     },
     {
       "added_at": "2024-12-20 14:37:29",

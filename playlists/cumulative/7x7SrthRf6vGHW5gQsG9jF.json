@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Another Ride",
+        "url": "https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC"
+      },
+      "artists": [
+        {
+          "name": "ippo.tsk",
+          "url": "https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof"
+        },
+        {
+          "name": "Synthesizer V ANRI",
+          "url": "https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208437,
+      "name": "Another Ride",
+      "url": "https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0"
+    },
+    {
+      "album": {
         "name": "Zoo&LENNON",
         "url": "https://open.spotify.com/album/49gFbYGFdg1Uc1sO3KG8Rl"
       },
@@ -2462,6 +2484,24 @@
       "duration_ms": 256581,
       "name": "Faithlessness",
       "url": "https://open.spotify.com/track/7H4zZGCLNDp457svnrJdZB"
+    },
+    {
+      "album": {
+        "name": "flowers of sentence, rebirth at sea",
+        "url": "https://open.spotify.com/album/6XTXlroDpsHt8tAxIXdgia"
+      },
+      "artists": [
+        {
+          "name": "lical",
+          "url": "https://open.spotify.com/artist/4QXbaOKt3DNKEPgAUhpNuP"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201130,
+      "name": "fake flower",
+      "url": "https://open.spotify.com/track/0oIlhZ7Qj4DC7dL4U1nuqr"
     },
     {
       "album": {
@@ -6399,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "Sour Salty Realism",
+        "url": "https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9"
+      },
+      "artists": [
+        {
+          "name": "Limon\u00e8ne",
+          "url": "https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112680,
+      "name": "realism",
+      "url": "https://open.spotify.com/track/4bwh3WoiGGq29sQWVxLaOv"
+    },
+    {
+      "album": {
         "name": "shaman's daughter",
         "url": "https://open.spotify.com/album/7GYwD0h6YroMt5MZzFMNSZ"
       },
@@ -7038,6 +7096,24 @@
       "duration_ms": 228040,
       "name": "Signal",
       "url": "https://open.spotify.com/track/3JTnUV0tSnqNakt1GdMQMI"
+    },
+    {
+      "album": {
+        "name": "deep blue",
+        "url": "https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o"
+      },
+      "artists": [
+        {
+          "name": "sora tob sakana",
+          "url": "https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "signal",
+      "url": "https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa"
     },
     {
       "album": {
@@ -9384,6 +9460,24 @@
       "duration_ms": 270253,
       "name": "zaiakukan no nichiyoubi",
       "url": "https://open.spotify.com/track/7ETsnEl1i1SMiKdkPLO2TL"
+    },
+    {
+      "album": {
+        "name": "zensekai",
+        "url": "https://open.spotify.com/album/7r3DsycMgzshhojy3QF1j6"
+      },
+      "artists": [
+        {
+          "name": "siraph",
+          "url": "https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146712,
+      "name": "zensekai",
+      "url": "https://open.spotify.com/track/3CKPb29QSyXR2A9DoCjaRI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-260 songs - 15 hr 33 min
+262 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Dance Monkey](https://open.spotify.com/track/2UoNFxe2svYWK8wowMoEVH) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Viral Hits: Rewind](https://open.spotify.com/album/0In57J2lQkZVXSkFTmzuut) | 3:29 | 2023-12-09 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-30 |  |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-02-02 | 2023-08-20 |
+| [Debussy: Suite bergamasque, CD 82, L\. 75: III\. Clair de lune](https://open.spotify.com/track/4DhPRzkpdXYExzwUrV6t3i) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Andrew von Oeyen](https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0) | [Debussy: Suite bergamasque: III\. Clair de lune](https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld) | 5:02 | 2025-02-10 |  |
 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/6YAYMDHymSAYZsmYqGVOXs) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:21 | 2022-10-04 |  |
 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/7ePFDzrnLt3Ynqgy2UFWri) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:21 | 2022-04-19 | 2022-10-05 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-01-11 |  |
@@ -192,6 +193,7 @@
 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2023-03-24 | 2023-05-20 |
 | [One Call Away \- Acoustic](https://open.spotify.com/track/31CFbc2CDoYTT1If00pasb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:09 | 2022-10-04 |  |
 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 | 2022-04-19 | 2022-10-05 |
+| [Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon](https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Mozart: Academy in Concert](https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144) | 5:01 | 2025-02-10 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-18 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-04-19 |  |
 | [Perfect](https://open.spotify.com/track/6c36TwIZHkuQ8HPwSjFWVl) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:23 | 2022-10-04 | 2022-10-22 |

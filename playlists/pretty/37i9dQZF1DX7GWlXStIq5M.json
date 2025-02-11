@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette",
-  "num_followers": 372123,
+  "num_followers": 372122,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Solteiro",
+        "url": "https://open.spotify.com/album/2Rb8vpu6YrN6ZBMtNdmskN"
+      },
+      "artists": [
+        {
+          "name": "Robson Abreu",
+          "url": "https://open.spotify.com/artist/57OP8DL4lPhyTpv0xxwLre"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Solteiro",
+      "url": "https://open.spotify.com/track/15Bd3CJap4qGbB0VRGBEs7"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "hoje (tanto faz)",
         "url": "https://open.spotify.com/album/6CMYkED6oa2RoyzPRwuHCh"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 174143,
       "name": "hoje (tanto faz)",
       "url": "https://open.spotify.com/track/7Czo8exKcYohS7NDOkOePd"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Solteiro",
-        "url": "https://open.spotify.com/album/2Rb8vpu6YrN6ZBMtNdmskN"
-      },
-      "artists": [
-        {
-          "name": "Robson Abreu",
-          "url": "https://open.spotify.com/artist/57OP8DL4lPhyTpv0xxwLre"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Solteiro",
-      "url": "https://open.spotify.com/track/15Bd3CJap4qGbB0VRGBEs7"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "MEU CORA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi"
+      },
+      "artists": [
+        {
+          "name": "VOID",
+          "url": "https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ"
+        }
+      ],
+      "duration_ms": 130321,
+      "name": "MEU CORA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "raro mas sempre acontece",
         "url": "https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 166613,
       "name": "raro mas sempre acontece",
       "url": "https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "MEU CORA\u00c7\u00c3O",
-        "url": "https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi"
-      },
-      "artists": [
-        {
-          "name": "VOID",
-          "url": "https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ"
-        }
-      ],
-      "duration_ms": 130321,
-      "name": "MEU CORA\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "BiKE (blv)",
+        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "BiKE (blv)",
+      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 170614,
       "name": "Sad Baile",
       "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "BiKE (blv)",
-        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "BiKE (blv)",
-      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "N\u00e3o Posso",
-        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147015,
-      "name": "N\u00e3o Posso",
-      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "Busco Romance Love Show",
         "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 201559,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/1VGsxchOpxgC1n2O8HY4lZ"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "N\u00e3o Posso",
+        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147015,
+      "name": "N\u00e3o Posso",
+      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "P\u2605RN STAR",
-        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "PornStar",
-      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "fetiche",
         "url": "https://open.spotify.com/album/73fSZb6scA6RE7BuHtKkPq"
       },
@@ -1031,6 +1015,54 @@
       "duration_ms": 129399,
       "name": "fetiche",
       "url": "https://open.spotify.com/track/1wZDEMcxsjIxRJmbxsKgMV"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "P\u2605RN STAR",
+        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "PornStar",
+      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Used To Feel",
+        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193630,
+      "name": "Are You Listening",
+      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1055,38 +1087,6 @@
       "duration_ms": 234820,
       "name": "NECTAR",
       "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Used To Feel",
-        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193630,
-      "name": "Are You Listening",
-      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1139,22 +1139,6 @@
       "duration_ms": 179954,
       "name": "F.O.D.A.",
       "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "P\u2605RN STAR",
-        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Filme de Adulto",
-      "url": "https://open.spotify.com/track/6zHZMuoynl05xREzPUCbQt"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "P\u2605RN STAR",
+        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Filme de Adulto",
+      "url": "https://open.spotify.com/track/6zHZMuoynl05xREzPUCbQt"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Eu te odeio",
         "url": "https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER"
       },
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh"
+      },
+      "artists": [
+        {
+          "name": "Carol Juno",
+          "url": "https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "BAILA",
         "url": "https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 191241,
       "name": "BAILA",
       "url": "https://open.spotify.com/track/4cAiOVTFCvEzzlxKNXbzWu"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Favorito",
-        "url": "https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh"
-      },
-      "artists": [
-        {
-          "name": "Carol Juno",
-          "url": "https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 244827,
+      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 244827,
-      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
     },
     {
       "added_at": "2025-02-07 03:00:05",

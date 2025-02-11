@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 39520,
+  "num_followers": 39543,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADGA+f2ecoUdwHwEEj7nc6s",
+  "snapshot_id": "Z6fwAAAAAAAFEQMgmJhOobmvnPfTpmN5",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 122583,
       "name": "Que Chulada - En Vivo",
       "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 180083,
+      "name": "Las Edades - En Vivo",
+      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 180083,
-      "name": "Las Edades - En Vivo",
-      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Compre Casa A Mi Ama",
-        "url": "https://open.spotify.com/album/755inNisuJlbtx4Q2jNl1D"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 204437,
-      "name": "Le Compre Casa A Mi Ama",
-      "url": "https://open.spotify.com/track/7JhvxJMvAEuwfVnA64DG7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Compre Casa A Mi Ama",
+        "url": "https://open.spotify.com/album/755inNisuJlbtx4Q2jNl1D"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 204437,
+      "name": "Le Compre Casa A Mi Ama",
+      "url": "https://open.spotify.com/track/7JhvxJMvAEuwfVnA64DG7E"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Cambio la Suerte",
-        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "Me Cambio la Suerte",
-      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Cans\u00f3 (En Vivo)",
         "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Cambio la Suerte",
+        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "Me Cambio la Suerte",
+      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 184124,
+      "name": "Caminos Diferentes - En Vivo",
+      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 174680,
       "name": "Chavo F\u00e9lix",
       "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 184124,
-      "name": "Caminos Diferentes - En Vivo",
-      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
     },
     {
       "added_at": null,

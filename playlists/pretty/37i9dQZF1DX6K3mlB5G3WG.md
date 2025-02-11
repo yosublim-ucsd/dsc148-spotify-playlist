@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,443 likes - 141 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,450 likes - 141 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 38 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 39 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 |
 | 40 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 |
-| 41 | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
+| 41 | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
 | 42 | [last night](https://open.spotify.com/track/0HMQ493c8db2ALqW7sYGhr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [last night](https://open.spotify.com/album/0CoGTbkwsNheCdBFtY4qBD) | 3:19 |
 | 43 | [L'amore esiste 2025 reloaded](https://open.spotify.com/track/097cPSNurwNA2PFymkT658) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [L'amore esiste 2025 reloaded](https://open.spotify.com/album/3IzPCbavEzPQ13ZLVrPF6B) | 3:22 |
 | 44 | [Guarda Che Luna](https://open.spotify.com/track/2H4mO8NQpjhZaGk1OSBEH5) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Guarda Che Luna](https://open.spotify.com/album/3WI25FjJqzAtR0RyDb2NuY) | 2:39 |

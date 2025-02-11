@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-253 songs - 15 hr 1 min
+254 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [I Was Made For Loving You](https://open.spotify.com/track/3vOmmLuvEUgGaVuRsCs2QF) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/6Q7yIbfFPzplTCBM7d1WRO) | 3:08 | 2021-11-24 | 2022-01-28 |
 | [I'll Hold On](https://open.spotify.com/track/0I5zRkBLsUQWnUfZad8vOA) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [I'll Hold On](https://open.spotify.com/album/0TB1v6bj2mto2rqiYZ6qa4) | 3:12 | 2021-11-24 | 2024-10-04 |
 | [I'll Hold On](https://open.spotify.com/track/3kuOpyrGLaBBefUNG5YAnS) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [I'll Hold On](https://open.spotify.com/album/6Lusbn0DmVCQjkkN8FV0Sp) | 3:12 | 2022-08-23 | 2024-04-19 |
-| [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 | 2022-03-24 |  |
+| [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 | 2022-03-24 | 2025-02-11 |
 | [In Our Hearts](https://open.spotify.com/track/2coh2rbFkh7L77h6TH5stT) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [In Our Hearts](https://open.spotify.com/album/3Hlhrov3Um9vBbd8dkibLI) | 3:19 | 2022-11-17 | 2024-10-23 |
 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 | 2021-11-24 |  |
 | [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 | 2023-02-23 | 2024-03-15 |
@@ -231,6 +231,7 @@
 | [Till The Sun Comes Up](https://open.spotify.com/track/3oB8dXCjtQShPeliylX8jg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Till The Sun Comes Up](https://open.spotify.com/album/7eKFymkUkJdRpKDYEXlTnp) | 3:21 | 2021-11-24 | 2022-07-29 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-06-03 | 2022-08-24 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-24 | 2023-06-15 |
+| [Today](https://open.spotify.com/track/5tKOOwcF7wdfNGTQGsXXzy) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Today](https://open.spotify.com/album/4QXTS74M6q3erVpK4uumPX) | 4:22 | 2025-02-10 |  |
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2024-10-22 |  |
 | [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2021-11-24 | 2022-04-29 |
 | [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2021-11-24 |  |

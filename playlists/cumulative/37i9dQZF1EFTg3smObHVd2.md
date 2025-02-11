@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 5 hr 9 min
+90 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Higher \(feat\. Autumn Rowe\)](https://open.spotify.com/track/2y3zuCRyrhUKqZpC5iwU0e) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Chapter II \(Deluxe\)](https://open.spotify.com/album/1IMBoaFPmzHBHQjR8vVO2v) | 3:19 | 2024-02-27 |  |
 | [Honesty](https://open.spotify.com/track/4EkCXwfSUmzPr8APls1cTh) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:20 | 2024-02-27 |  |
 | [Hush Hush](https://open.spotify.com/track/752wMzkVSWytdnSelJtzHK) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 3:42 | 2024-02-27 | 2024-12-14 |
-| [Hush Hush](https://open.spotify.com/track/7bHbeVr1NXf8m4BUpVn6Dn) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Party Hits 2](https://open.spotify.com/album/1FKn2Ip89a2XbQQYWbXzuM) | 3:42 | 2024-12-13 |  |
+| [Hush Hush](https://open.spotify.com/track/7bHbeVr1NXf8m4BUpVn6Dn) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Party Hits 2](https://open.spotify.com/album/1FKn2Ip89a2XbQQYWbXzuM) | 3:42 | 2024-12-13 | 2025-02-11 |
+| [Hush Hush \- Radio Edit](https://open.spotify.com/track/4izQvPd4e6AUniUEDEWl0X) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [100% Dance Hits \- Best Of 2011](https://open.spotify.com/album/2xF8OgRUvFpPYDOULlQHPn) | 3:41 | 2025-02-10 |  |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2024-02-27 |  |
 | [I Own It](https://open.spotify.com/track/0STgrGCTnpcIourTZwnN2y) | [Nacey](https://open.spotify.com/artist/4Cxyy6FNXakqJeo0hW3l7b), [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [I Own It](https://open.spotify.com/album/0qaykGr8StZ8bAtnpuXRU9) | 3:09 | 2024-02-27 |  |
 | [I Still Believe](https://open.spotify.com/track/5ij14NvXSzabsmGSNFgrTe) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:38 | 2024-02-27 |  |

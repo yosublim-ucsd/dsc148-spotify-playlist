@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,562 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,754 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 47 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 48 | [Billion](https://open.spotify.com/track/0LX3DnrnDI7dkiKsfWbgj5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Billion](https://open.spotify.com/album/52wcnAEamts2IYdOxpDMcm) | 2:59 |
 
-Snapshot ID: `Z6aegAAAAADSniQ9YB/r8s22RUY2L1I0`
+Snapshot ID: `Z6fwAAAAAAAok3hCAZSGpg9iVDV2KIZj`

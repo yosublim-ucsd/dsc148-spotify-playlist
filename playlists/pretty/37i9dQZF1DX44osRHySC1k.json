@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52503,
+  "num_followers": 52500,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Trust the Universe",
-        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
-      },
-      "artists": [
-        {
-          "name": "Chama Wijnen",
-          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Trust the Universe",
-      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 130624,
       "name": "Can You Feel The Love Tonight",
       "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Trust the Universe",
+        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
+      },
+      "artists": [
+        {
+          "name": "Chama Wijnen",
+          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Trust the Universe",
+      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 112311,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Modern Classics",
         "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 224543,
       "name": "Beneath your Beutiful",
       "url": "https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 112311,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -219,26 +219,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Endless Meditation",
-        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
       },
       "artists": [
         {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
-        },
-        {
-          "name": "Yoga Savasana",
-          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
-        },
-        {
-          "name": "Moon Tunes",
-          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 163684,
-      "name": "Endless Sleep",
-      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2024-06-11 05:54:30",
@@ -275,18 +267,26 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+        "name": "Endless Meditation",
+        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
+        },
+        {
+          "name": "Yoga Savasana",
+          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
+        },
+        {
+          "name": "Moon Tunes",
+          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
         }
       ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
+      "duration_ms": 163684,
+      "name": "Endless Sleep",
+      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -323,6 +323,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time Travel",
-        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
       "artists": [
         {
-          "name": "Antologie",
-          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 184642,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -399,22 +415,6 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Lovely Thunder",
         "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 138426,
       "name": "Olancha Farewell",
       "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dulces Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 245514,
-      "name": "Dulces Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 124374,
       "name": "schemering",
       "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dulces Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 245514,
+      "name": "Dulces Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "The Breath Inside the Breath",
-      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -967,6 +935,38 @@
       "duration_ms": 143277,
       "name": "After The Silence",
       "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 325400,
+      "name": "The Breath Inside the Breath",
+      "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
+      },
+      "artists": [
+        {
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "The Ones Left Behind",
         "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 148987,
       "name": "The Ones Left Behind",
       "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time to Heal",
-        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
-      },
-      "artists": [
-        {
-          "name": "Vittoria Emanuelle",
-          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
-        }
-      ],
-      "duration_ms": 154642,
-      "name": "Time to Heal",
-      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Mandala Spirit",
         "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 219716,
       "name": "Bloom Bliss",
       "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time to Heal",
+        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
+      },
+      "artists": [
+        {
+          "name": "Vittoria Emanuelle",
+          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
+        }
+      ],
+      "duration_ms": 154642,
+      "name": "Time to Heal",
+      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "Lorimar",
+      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 200400,
       "name": "Peaceful Mind",
       "url": "https://open.spotify.com/track/1WibRGaemUausx1GX9VPhv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Lorimar",
-      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "New Romantic Classical Piano and Violin Duets",
+        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+      },
+      "artists": [
+        {
+          "name": "Violin Music",
+          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+        }
+      ],
+      "duration_ms": 272730,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Distant Call",
         "url": "https://open.spotify.com/album/2mebF0VT6uPkhFFFaUD4lS"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 374879,
       "name": "Sonno Profondo",
       "url": "https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "New Romantic Classical Piano and Violin Duets",
-        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
-      },
-      "artists": [
-        {
-          "name": "Violin Music",
-          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
-        }
-      ],
-      "duration_ms": 272730,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
     },
     {
       "added_at": "2021-06-24 10:58:44",

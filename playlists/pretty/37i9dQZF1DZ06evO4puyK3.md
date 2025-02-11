@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,087 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,100 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 29 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
 | 30 | [BONEKINHA](https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:48 |
 | 31 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 |
-| 32 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
-| 33 | [fome](https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [fome](https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm) | 3:18 |
+| 32 | [fome](https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [fome](https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm) | 3:18 |
+| 33 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
 | 34 | [SOBREVIVI](https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:18 |
 | 35 | [085 RMX](https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [085 RMX](https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK) | 2:43 |
 | 36 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 |
 | 50 | [PROIBIDONA](https://open.spotify.com/track/0Tqnom8PwHN01ntaY5KDiE) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:35 |
 
-Snapshot ID: `Z6aegAAAAABf7xPACM/42pekuFOyjjYt`
+Snapshot ID: `Z6fwAAAAAABBxXp1J0vyQ49m/4buqAK+`

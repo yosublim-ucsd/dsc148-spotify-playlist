@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,322,952 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,323,812 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 58 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 59 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 60 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
-| 61 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
-| 62 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
+| 61 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
+| 62 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 63 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 |
 | 64 | [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 |
 | 65 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 75 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
 | 76 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
 | 77 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
-| 78 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
-| 79 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
-| 80 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 |
+| 78 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 |
+| 79 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
+| 80 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
 | 81 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
 | 82 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 |
 | 83 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
-| 84 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
-| 85 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 |
+| 84 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 |
+| 85 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 86 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 87 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
 | 88 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 94 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 95 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 |
 | 96 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
-| 97 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
-| 98 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
+| 97 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
+| 98 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
 | 99 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 100 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 
-Snapshot ID: `Z6aC3wAAAABIhEV/TPO1mp07l8hENY0a`
+Snapshot ID: `Z6ovxwAAAAC0VXV8eYHKCv3L+oLa9Jha`

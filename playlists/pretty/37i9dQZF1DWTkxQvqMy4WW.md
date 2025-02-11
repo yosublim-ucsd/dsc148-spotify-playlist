@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,410,551 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,410,685 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 31 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
 | 32 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
 | 33 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
-| 34 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
+| 34 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 35 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
-| 36 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
+| 36 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 37 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 |
 | 38 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 |
 | 39 | [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 |

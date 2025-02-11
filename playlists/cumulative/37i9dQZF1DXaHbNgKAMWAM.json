@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 192133,
       "name": "Be Your Love",
       "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 230293,
       "name": "Fateful Love \uc6b4\uba85\ucc98\ub7fc",
       "url": "https://open.spotify.com/track/1Sk4nG0ao54jfaU6ASVzTr"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 146402,
       "name": "I Love Yuo",
       "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 235197,
       "name": "I LUV U (with MIRANI)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "ONLY",
+      "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6OAjhnf8LCuUvUElAdEf6w"
       },
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
@@ -3961,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "Tell me you love me",
+        "url": "https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Tell me you love me",
+      "url": "https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ"
+    },
+    {
+      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -3976,7 +4012,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
@@ -4178,6 +4214,24 @@
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
+    },
+    {
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "album": {
@@ -4430,7 +4484,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 217573,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
@@ -4900,7 +4954,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256104,
       "name": "\ub450 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/2aBO4JJfhy7BPx7wLlrxDu"

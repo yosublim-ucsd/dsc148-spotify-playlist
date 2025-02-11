@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,307 likes - 45 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,530 likes - 45 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 44 | [Hung up on You](https://open.spotify.com/track/3r2FIyRibvMaevfGdOGLQ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Hung up on You](https://open.spotify.com/album/1frUP08YTarlaENaJb9bpC) | 3:21 |
 | 45 | [happy face](https://open.spotify.com/track/28QGhVCx80IcpEb1Gswdk0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 3:21 |
 
-Snapshot ID: `Z6aegAAAAADwhtvhHDXX8LxVVvRLHrPF`
+Snapshot ID: `Z6fwAAAAAABWj34HLBf0wRjRTQltfUEo`

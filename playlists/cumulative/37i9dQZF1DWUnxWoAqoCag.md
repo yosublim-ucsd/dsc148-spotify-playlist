@@ -4,7 +4,7 @@
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-268 songs - 16 hr 18 min
+269 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2023-10-13 |  |
 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-04 | 2024-03-12 |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-03-11 | 2024-05-08 |
+| [Azalea](https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Azalea](https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm) | 3:28 | 2025-02-10 |  |
 | [BABY CHAOS](https://open.spotify.com/track/6ufv6uhkSARQyDDtglYpj9) | [GIRLS HERO](https://open.spotify.com/artist/2MxT61zWTWlcqPTIuDWWzA) | [BABY CHAOS](https://open.spotify.com/album/5iE0UUNuhxeIUqRo8rrpKe) | 2:22 | 2023-10-17 | 2023-12-04 |
 | [Backlight](https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:57 | 2023-10-13 | 2024-04-19 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2023-10-13 | 2023-11-19 |
@@ -168,7 +169,7 @@
 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-28 |  |
 | [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 | 2025-01-09 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-10-13 |  |
-| [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2023-11-18 | 2025-02-07 |
+| [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2023-11-18 |  |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-01 | 2024-08-09 |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-28 |  |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2023-10-13 |  |
@@ -214,7 +215,7 @@
 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2025-01-09 | 2025-02-05 |
 | [今日だけ I LOVE YOU \- Japanese Ver.](https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [今日だけ I LOVE YOU \(Japanese Ver.\)](https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN) | 2:41 | 2025-02-05 |  |
 | [僕のこと](https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 5:21 | 2024-03-19 |  |
-| [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 | 2024-09-30 |  |
+| [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 | 2024-09-30 | 2025-02-11 |
 | [全力少年](https://open.spotify.com/track/3Ztjw8utVpcrzms1RrsJvR) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [空創クリップ](https://open.spotify.com/album/1FNUB07yBe3CJwXUQQoOdh) | 4:32 | 2024-10-01 | 2025-02-08 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 | 2024-07-10 |
 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 | 2024-01-23 |  |
@@ -231,7 +232,7 @@
 | [奏\(かなで\)](https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夏雲ノイズ](https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR) | 5:28 | 2025-02-07 |  |
 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 | 2024-03-19 | 2024-08-08 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-02-01 |  |
-| [怪盗](https://open.spotify.com/track/014Dp0tBp4d9uuFAvH1mlc) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:16 | 2025-02-03 |  |
+| [怪盗](https://open.spotify.com/track/014Dp0tBp4d9uuFAvH1mlc) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:16 | 2025-02-03 | 2025-02-11 |
 | [想望](https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [想望](https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ) | 4:24 | 2024-01-28 | 2024-03-20 |
 | [愛が一層メロウ](https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:11 | 2024-03-19 | 2025-01-10 |
 | [愛が一層メロウ](https://open.spotify.com/track/7ijvSBcVrLn8SiCRGzxKjx) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/5LWzSqpZTyKiZSKn2BM7xE) | 3:12 | 2024-01-10 | 2024-02-02 |

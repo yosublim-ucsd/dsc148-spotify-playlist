@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21085,
+  "num_followers": 21093,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAA1rElSpYFTeU677Rl6fiew",
+  "snapshot_id": "Z6fwAAAAAADRwV9NidIWi7pTSP3yuBst",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguenta Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 273252,
       "name": "Aguenta Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 277339,
       "name": "Eu Vim Te Adorar",
       "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
     },
     {
       "added_at": null,
@@ -511,38 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
+        "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 272697,
-      "name": "Prossiga (feat. Midian Lima)",
-      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Tira-me do Vale",
-      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+      "duration_ms": 281983,
+      "name": "Sobrevivi - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
     },
     {
       "added_at": null,
@@ -563,22 +547,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
-        "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 281983,
-      "name": "Sobrevivi - Live MK 10 MI",
-      "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+      "duration_ms": 272697,
+      "name": "Prossiga (feat. Midian Lima)",
+      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
         "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 829691,
       "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
       "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Um Dia",
-        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Mais Um Dia",
-      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele N\u00e3o Muda (Ao Vivo)",
         "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 487671,
       "name": "Ele N\u00e3o Muda - Ao Vivo",
       "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
     },
     {
       "added_at": null,

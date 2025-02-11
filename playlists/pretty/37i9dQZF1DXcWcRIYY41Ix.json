@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128434,
+  "num_followers": 128440,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2025-02-07 12:37:29",
+      "album": {
         "name": "Ser\u00e9 Guitarra",
         "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 215082,
       "name": "Ser\u00e9 Guitarra",
       "url": "https://open.spotify.com/track/4YHYr1oXtrZfoPhvPJu9DT"
-    },
-    {
-      "added_at": "2025-02-07 12:37:29",
-      "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Ventura (Live)",
-        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
-      },
-      "artists": [
-        {
-          "name": "Santero y Los Muchachos",
-          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
-        },
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 295328,
-      "name": "Ventura - Live",
-      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
-    },
-    {
-      "added_at": "2025-02-07 12:37:29",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2025-02-07 12:37:29",
+      "album": {
+        "name": "Ventura (Live)",
+        "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
+      },
+      "artists": [
+        {
+          "name": "Santero y Los Muchachos",
+          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
+        },
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        }
+      ],
+      "duration_ms": 295328,
+      "name": "Ventura - Live",
+      "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Due\u00f1a",
-        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
+        "name": "Una Fiesta al Desorden",
+        "url": "https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI"
       },
       "artists": [
         {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+          "name": "Luc\u00eda Alegr\u00eda",
+          "url": "https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA"
         }
       ],
-      "duration_ms": 195024,
-      "name": "Due\u00f1a",
-      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
+      "duration_ms": 203523,
+      "name": "La Tr\u00e1gica",
+      "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1183,6 +1179,26 @@
       "duration_ms": 212019,
       "name": "T\u00f3came",
       "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+    },
+    {
+      "added_at": "2025-02-07 12:37:29",
+      "album": {
+        "name": "Due\u00f1a",
+        "url": "https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "duration_ms": 195024,
+      "name": "Due\u00f1a",
+      "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1223,26 +1239,6 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
-    },
-    {
-      "added_at": "2025-02-07 12:37:29",
-      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1259,6 +1255,26 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2025-02-07 12:37:29",
+      "album": {
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1283,26 +1299,6 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Ag\u00fcita del equilibrio",
-        "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
-        }
-      ],
-      "duration_ms": 263441,
-      "name": "Ag\u00fcita del equilibrio",
-      "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
-    },
-    {
-      "added_at": "2025-02-07 12:37:29",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1323,34 +1319,22 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Una Fiesta al Desorden",
-        "url": "https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI"
+        "name": "Ag\u00fcita del equilibrio",
+        "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
       "artists": [
         {
-          "name": "Luc\u00eda Alegr\u00eda",
-          "url": "https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA"
-        }
-      ],
-      "duration_ms": 203523,
-      "name": "La Tr\u00e1gica",
-      "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
-    },
-    {
-      "added_at": "2025-02-07 12:37:29",
-      "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
         }
       ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+      "duration_ms": 263441,
+      "name": "Ag\u00fcita del equilibrio",
+      "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Pan de muertos",
-        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
       },
       "artists": [
         {
-          "name": "Raquel L\u00faa",
-          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
         }
       ],
-      "duration_ms": 196670,
-      "name": "Pan de muertos",
-      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+        "name": "Pan de muertos",
+        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Raquel L\u00faa",
+          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
         }
       ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+      "duration_ms": 196670,
+      "name": "Pan de muertos",
+      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 312368,
-      "name": "Algo tiene que estar mal",
-      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
+        "name": "Casida de la Rosa",
+        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+      },
+      "artists": [
+        {
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+        }
+      ],
+      "duration_ms": 331442,
+      "name": "Casida de la Rosa",
+      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+    },
+    {
+      "added_at": "2025-02-07 12:37:29",
+      "album": {
         "name": "Peinar Ra\u00edces",
         "url": "https://open.spotify.com/album/2KwYEbJwtHezzwMBujDJji"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Casida de la Rosa",
-        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/6hz4QgovEdkgSdNLlUyhhU"
       },
       "artists": [
         {
-          "name": "Magal\u00ed Datzira",
-          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 331442,
-      "name": "Casida de la Rosa",
-      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+      "duration_ms": 312368,
+      "name": "Algo tiene que estar mal",
+      "url": "https://open.spotify.com/track/39xWXhWFLIB68J21iURH9e"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "\u00a1Desaparece!",
-        "url": "https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7"
+        "name": "Que no ves que no vas",
+        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
       },
       "artists": [
         {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+          "name": "Anselmos",
+          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
         }
       ],
-      "duration_ms": 225826,
-      "name": "\u00a1Desaparece!",
-      "url": "https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1"
+      "duration_ms": 138888,
+      "name": "Que no ves que no vas",
+      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
     },
     {
       "added_at": "2025-02-07 12:37:29",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-02-07 12:37:29",
       "album": {
-        "name": "Que no ves que no vas",
-        "url": "https://open.spotify.com/album/1MN2G0qTqnBE25PhiAAtj9"
+        "name": "\u00a1Desaparece!",
+        "url": "https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7"
       },
       "artists": [
         {
-          "name": "Anselmos",
-          "url": "https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO"
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
         }
       ],
-      "duration_ms": 138888,
-      "name": "Que no ves que no vas",
-      "url": "https://open.spotify.com/track/6uyAyqKbg0CDhPU2NBJeNa"
+      "duration_ms": 225826,
+      "name": "\u00a1Desaparece!",
+      "url": "https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1"
     },
     {
       "added_at": "2025-02-07 12:37:29",

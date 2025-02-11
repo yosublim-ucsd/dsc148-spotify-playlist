@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 146307,
       "name": "atzen & barbies (feat. ski aggu)",
       "url": "https://open.spotify.com/track/4iD4W5c2bpkLRoFbzUIuR2"
@@ -6644,7 +6644,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 133932,
       "name": "bauch beine po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -22396,7 +22396,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 191509,
       "name": "Gesegnet",
       "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
@@ -24602,7 +24602,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 138888,
       "name": "Haps",
       "url": "https://open.spotify.com/track/0mhjZQL9LGpXJRXSo5u3BE"
@@ -29052,7 +29052,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 157700,
       "name": "Jasmin",
       "url": "https://open.spotify.com/track/6rjpIgtN4FOujp5DbZZnCh"
@@ -37998,7 +37998,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
@@ -41796,7 +41796,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 144316,
       "name": "NPCs (mit Aggu)",
       "url": "https://open.spotify.com/track/2kBllzLD3kRVAecjxkOUrQ"
@@ -41854,7 +41854,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -45012,6 +45012,24 @@
       "duration_ms": 201000,
       "name": "Pink Panther 2 (feat. DJ Desue)",
       "url": "https://open.spotify.com/track/5GiQTKvSDlkLXJBPZ5zwyL"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
     },
     {
       "album": {
@@ -55658,7 +55676,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

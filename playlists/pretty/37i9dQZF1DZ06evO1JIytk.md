@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,269 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,273 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 22 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 |
 | 23 | [Kill the Rich \(Re\-Recorded\)](https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Cease Fires](https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA) | 2:59 |
 | 24 | [Racists](https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 3:20 |
-| 25 | [We Are the One](https://open.spotify.com/track/3IfkMS2Yma0lYZq7B9bieU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:07 |
+| 25 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 |
 | 26 | [Got the Numbers](https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:14 |
-| 27 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:04 |
+| 27 | [We Are the One](https://open.spotify.com/track/3IfkMS2Yma0lYZq7B9bieU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 3:07 |
 | 28 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
 | 29 | [Brandenburg Gate](https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:30 |
 | 30 | [That's Youth](https://open.spotify.com/track/7xQiia7dMyfgUKShoXtei7) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:13 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 37 | [Hymn For The Dead](https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:39 |
 | 38 | [Fabled World](https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:16 |
 | 39 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
-| 40 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 |
-| 41 | [The Ghosts of Alexandria](https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:57 |
+| 40 | [The Ghosts of Alexandria](https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:57 |
+| 41 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 |
 | 42 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
 | 43 | [No Apology](https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:17 |
 | 44 | [20/20 Vision](https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
 | 50 | [THE HAZARDOUS](https://open.spotify.com/track/7aPB5zuIXtCBNSu0w4FjxO) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:11 |
 
-Snapshot ID: `Z6aegAAAAABBnVcPubf2Wyzy+y+a0P0Q`
+Snapshot ID: `Z6fwAAAAAADP029pfBiBRIKm4oozid3B`

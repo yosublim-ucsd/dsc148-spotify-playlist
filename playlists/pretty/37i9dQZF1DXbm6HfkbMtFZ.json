@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 764748,
+  "num_followers": 765329,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Wings At The Speed Of Sound (Archive Collection)",
         "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 311880,
       "name": "Let 'Em In - 2014 Remaster",
       "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 257006,
       "name": "Give Up Baby Go",
       "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 310597,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 310597,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "Cry To Me-The Best Of Freddie Scott",
         "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 159093,
       "name": "Charley's Girl",
       "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
       "artists": [
         {
-          "name": "Jack Page",
-          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
         }
       ],
-      "duration_ms": 211048,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -979,6 +963,22 @@
       "duration_ms": 210329,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw"
+      },
+      "artists": [
+        {
+          "name": "Jack Page",
+          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+        }
+      ],
+      "duration_ms": 211048,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "In the Grace of Your Love",
         "url": "https://open.spotify.com/album/4gwqJXH0UUQFwrimYJKfmu"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+        "name": "Lonesome No More",
+        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
       },
       "artists": [
         {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+          "name": "Laura Jean Anderson",
+          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
         }
       ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+      "duration_ms": 187542,
+      "name": "Love You Most",
+      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 279586,
       "name": "You Don't Have to Be a Star (To Be In My Show)",
       "url": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
-        "name": "Lonesome No More",
-        "url": "https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi"
-      },
-      "artists": [
-        {
-          "name": "Laura Jean Anderson",
-          "url": "https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0"
-        }
-      ],
-      "duration_ms": 187542,
-      "name": "Love You Most",
-      "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Agony and Extasy",
-        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
-      },
-      "artists": [
-        {
-          "name": "The Diddys",
-          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
-        },
-        {
-          "name": "Paige Douglas",
-          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Intergalactic Love Song",
-      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
         "name": "Kathy and Paul",
         "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 174311,
       "name": "Kathy and Paul",
       "url": "https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
+        "name": "Agony and Extasy",
+        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
+      },
+      "artists": [
+        {
+          "name": "The Diddys",
+          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
+        },
+        {
+          "name": "Paige Douglas",
+          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Intergalactic Love Song",
+      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
+        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+    },
+    {
+      "added_at": "2025-02-06 03:10:00",
+      "album": {
         "name": "Light Speaks the Quilt",
         "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 176718,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
-    },
-    {
-      "added_at": "2025-02-06 03:10:00",
-      "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2025-02-06 03:10:00",
@@ -1955,22 +1955,18 @@
     {
       "added_at": "2025-02-06 03:10:00",
       "album": {
-        "name": "Little Push",
-        "url": "https://open.spotify.com/album/2A3NYiDl0D1hKEclqH6rGj"
+        "name": "Coolhand",
+        "url": "https://open.spotify.com/album/5ttfJqE5cQ9U0ffPuVOePK"
       },
       "artists": [
         {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Liliana Andrade",
-          "url": "https://open.spotify.com/artist/0Fxf7Axf1iNSZHj6O1LcO3"
+          "name": "Buzzy Lee",
+          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
         }
       ],
-      "duration_ms": 185187,
-      "name": "Little Push",
-      "url": "https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX"
+      "duration_ms": 218719,
+      "name": "Coolhand",
+      "url": "https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE"
     },
     {
       "added_at": "2025-02-06 03:10:00",

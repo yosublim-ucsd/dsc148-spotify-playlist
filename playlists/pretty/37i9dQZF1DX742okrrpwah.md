@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > LISA, Doja Cat et RAYE au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,816 likes - 94 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,835 likes - 94 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 40 | [GALÁCTICO](https://open.spotify.com/track/4aQ63z8byotJG0jRPuumoG) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [GALÁCTICO](https://open.spotify.com/album/1NQGiwgco6lHvNpk6OusQM) | 2:21 |
 | 41 | [Drôle d'idée](https://open.spotify.com/track/3fc3NM4ZFgvCD3bjQGcWqS) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Drôle d'idée](https://open.spotify.com/album/5tTMOaZmphVhYnabLfMFl5) | 3:03 |
 | 42 | [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 |
-| 43 | [Chap Chap](https://open.spotify.com/track/0JSxCek4i3FZqtew0Fc35d) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [SOURCES](https://open.spotify.com/album/6uW6ZvnrXBci2iQs2PtsrB) | 2:31 |
+| 43 | [Chap Chap](https://open.spotify.com/track/0JSxCek4i3FZqtew0Fc35d) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [SOURCE](https://open.spotify.com/album/6uW6ZvnrXBci2iQs2PtsrB) | 2:31 |
 | 44 | [Bordel](https://open.spotify.com/track/4Ck500tKwtQmeULzLmPjdP) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Bordel](https://open.spotify.com/album/0YsxicAByCJcq8Jm6x5KF1) | 2:44 |
 | 45 | [Kilimanjaro \(feat\. Oxlade\)](https://open.spotify.com/track/4nCECWieTv9JvVINUprF9U) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Young Kingz II](https://open.spotify.com/album/7Il92ktSZCVhB1LIyViwn4) | 3:22 |
 | 46 | [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 |

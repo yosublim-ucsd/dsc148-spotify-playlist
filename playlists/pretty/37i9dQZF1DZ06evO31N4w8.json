@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 61470,
+  "num_followers": 61479,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADZT+8dWV2FffUwrBrtEqGH",
+  "snapshot_id": "Z6fwAAAAAABD3OaWy6vTw1FVSes/6m/e",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 218373,
       "name": "Golondrina Viajera",
       "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventura Pasada",
-        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Aventura Pasada",
-      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 218400,
       "name": "La Loba del Mal",
       "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Abrazado De Un Poste",
+      "url": "https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Exitos Historicos, Vol. 2",
         "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 191546,
       "name": "Renunciacion",
       "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "\u00bfY Ahora Que?",
-      "url": "https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "\u00bfY Ahora Que?",
+      "url": "https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 159840,
       "name": "Mi Amor No Lo Mereces",
       "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Abrazado De Un Poste",
-      "url": "https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos: La Maquina Musical Numero Uno",
         "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 202426,
       "name": "No Le Digas a Nadie",
       "url": "https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Capricho Maldito",
-      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos: La Maquina Musical Numero Uno",
         "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 214973,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Capricho Maldito",
+      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
     },
     {
       "added_at": null,

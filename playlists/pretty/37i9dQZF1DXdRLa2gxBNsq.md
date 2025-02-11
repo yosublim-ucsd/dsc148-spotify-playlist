@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Kaotiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,630 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,655 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

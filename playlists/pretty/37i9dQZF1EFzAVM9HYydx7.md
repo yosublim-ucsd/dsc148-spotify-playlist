@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,848 likes - 296 songs - 18 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,849 likes - 296 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 35 | [Fukk Sleep \(feat\. FKA twigs\)](https://open.spotify.com/track/1AqemxWsT0iGg5Lvkm16Bt) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:12 |
 | 36 | [TATI \(feat\. DJ Spinking\)](https://open.spotify.com/track/0CFJoopJPNMEC7Itmp64Yb) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 2:34 |
 | 37 | [Run Me Dry](https://open.spotify.com/track/5GG3knKdxKWrNboRijxeKF) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 2:49 |
-| 38 | [CIVIL WAR \- Bonus](https://open.spotify.com/track/0IUgswE9wJaY4QIQZEDTKe) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:24 |
-| 39 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
+| 38 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
+| 39 | [CIVIL WAR \- Bonus](https://open.spotify.com/track/0IUgswE9wJaY4QIQZEDTKe) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:24 |
 | 40 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 |
 | 41 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
 | 42 | [Free Smoke](https://open.spotify.com/track/05KOgYg8PGeJyyWBPi5ja8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:38 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 151 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
 | 152 | [Money Conversations](https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:11 |
 | 153 | [Dope Game](https://open.spotify.com/track/5QHiWzDN9z3qkLyvM1w7JK) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:39 |
-| 154 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
-| 155 | [Unholy Matrimony](https://open.spotify.com/track/1nTNZgKeqm4ODmIVL07nxe) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 |
+| 154 | [Unholy Matrimony](https://open.spotify.com/track/1nTNZgKeqm4ODmIVL07nxe) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 |
+| 155 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
 | 156 | [The Bloodiest](https://open.spotify.com/track/3eEMeaaT3otIimFCcYcS7i) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:03 |
 | 157 | [See No Evil](https://open.spotify.com/track/0ndpJtfKGuGM3pyNwnwSUx) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 4:44 |
 | 158 | [Never Satisfied \(feat\. Drake\)](https://open.spotify.com/track/11eVz92Nm7b2CTgA8OJVwp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 1:55 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 295 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 296 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbpKXgAAAABaQxqU5/m3Wg7xdnC4Z2le`
+Snapshot ID: `AbpP1gAAAAAnDk2dAYTV6LMw/9WjawJH`

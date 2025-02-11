@@ -1,6 +1,6 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1481163,
+  "num_followers": 1481256,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "The Best Of Roxy Music",
         "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 297306,
       "name": "Jealous Guy",
       "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
     },
     {
       "added_at": "2024-06-03 14:38:56",

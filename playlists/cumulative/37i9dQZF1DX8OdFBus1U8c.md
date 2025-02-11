@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! Cover : Fejo
 
-221 songs - 11 hr 41 min
+222 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Mahanubhavulu](https://open.spotify.com/track/1clRTDsXImLDSlba07XdCE) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Mahanubhavulu](https://open.spotify.com/album/4tARA48or1hm00nNyqXXBv) | 3:12 | 2023-12-01 |  |
 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 | 2023-09-11 |  |
 | [Malakk](https://open.spotify.com/track/58STO31unViThdYxhl5UGy) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Tholla](https://open.spotify.com/album/2ydeDhlQINZjlZKYE3pO3U) | 2:36 | 2025-01-09 | 2025-01-11 |
+| [Malayali](https://open.spotify.com/track/5xSrhrOexy757MV3h0J4YO) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z) | [Malayali](https://open.spotify.com/album/6OgRrPH79D7VKuz7ML3S5X) | 2:42 | 2025-02-10 |  |
 | [Malayali Da](https://open.spotify.com/track/73H37RXqxkb7y48reuhgRc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Malayali Da](https://open.spotify.com/album/7lvX9NhbhLIvIX7HRdBzDt) | 3:16 | 2022-04-18 | 2025-01-24 |
 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 | 2022-06-23 | 2024-05-22 |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2022-08-10 | 2024-02-18 |

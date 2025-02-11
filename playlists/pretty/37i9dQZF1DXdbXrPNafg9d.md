@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sharon Van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,221 likes - 180 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,223 likes - 180 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 |
 | 2 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 |
 | 3 | [Ends Meet](https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ends Meet](https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y) | 3:21 |
-| 4 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 |
+| 4 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 5 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 | 6 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 7 | [Cro\-Magnon Man](https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cro\-Magnon Man](https://open.spotify.com/album/5VL1958b50wIWuafmVofL6) | 4:07 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 179 | [Game Face](https://open.spotify.com/track/15M8q6hzIEmluSdpk66dJg) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Game Face](https://open.spotify.com/album/2PshZ33Ll6S8u0hG8seGf5) | 2:58 |
 | 180 | [new year's eve](https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [new year's eve](https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc) | 3:47 |
 
-Snapshot ID: `Z6ZRMgAAAADtXV9t5bbDjiwNiLDc2AUB`
+Snapshot ID: `Z6ooigAAAAA8qF/GBqojm9BfnNMhv5Ee`

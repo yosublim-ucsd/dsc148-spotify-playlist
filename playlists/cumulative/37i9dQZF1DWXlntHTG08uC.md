@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-252 songs - 12 hr 4 min
+253 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [528 Hz \- Love Frequencies](https://open.spotify.com/track/3z65uKC10NTbjy7wXG3Nho) | [Aegean Noise](https://open.spotify.com/artist/0lGHTzI7DtmSGJq85VGjuH) | [Love Frequencies](https://open.spotify.com/album/2ssnnukfZzdMCQojhzMK51) | 2:43 | 2023-02-08 |  |
 | [528 Hz \- Paschimottanasana](https://open.spotify.com/track/7F91TTUOBESrXVcqejoeO4) | [Wind Grains](https://open.spotify.com/artist/6vNq1r7OHf9ajPUSWYJwr4) | [528 Hz \- Paschimottanasana](https://open.spotify.com/album/6kXZ4yH0TIL5kF1XCulfws) | 1:49 | 2023-07-11 | 2024-03-14 |
 | [528 Hz \- Quiet Stars](https://open.spotify.com/track/4jXPbT4AZ3H9hfzex9jhFB) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg) | 1:55 | 2023-03-13 | 2024-03-14 |
-| [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 | 2024-03-13 |  |
+| [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 | 2024-03-13 | 2025-02-11 |
 | [528 Hz \- Sedang Tidur Part II](https://open.spotify.com/track/5HEooZeYoS3XsOFDIRtbFi) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur Part II](https://open.spotify.com/album/14g28ydElevtgofcH7Br51) | 2:24 | 2023-03-13 |  |
 | [528 Hz \- Self Actualization](https://open.spotify.com/track/0VwH6mJjAIIajVUYCnlQe3) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [528 Hz \- Self Actualization](https://open.spotify.com/album/0EVtFFjvvtmeXVnylkWPPA) | 2:24 | 2023-07-11 |  |
 | [528 Hz \- Senzo](https://open.spotify.com/track/52j7JjZiG3AXwyIyRd8VIE) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Senso \- Hz](https://open.spotify.com/album/79GnOaT0MHLIymSXL6vUTB) | 2:42 | 2023-04-06 |  |
@@ -48,6 +48,7 @@
 | [528 Hz Clarity Vibrations](https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Clarity Vibrations](https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC) | 2:12 | 2023-08-07 | 2025-01-10 |
 | [528 Hz Concentration](https://open.spotify.com/track/5V9e3c5xa0oFHWccONeuqJ) | [Nova Hz](https://open.spotify.com/artist/64u2kTvOnLTB0pLf9Lc45Y) | [528 Hz Concentration](https://open.spotify.com/album/4VwIN2C6nTBepf0Cr8p9so) | 3:28 | 2024-04-07 |  |
 | [528 Hz Continuous Sleep](https://open.spotify.com/track/7lmkOvO66o3N0iQI1bY6eT) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [432 & 528 Hz Intuition](https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm) | 3:03 | 2023-03-13 |  |
+| [528 Hz Cosmic Force](https://open.spotify.com/track/5jvFawEboT2AxRviSZVvEp) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [528 Hz Cosmic Force](https://open.spotify.com/album/39TKT1ECPUwPmVWPbBpEKC) | 3:19 | 2025-02-10 |  |
 | [528 Hz Deep Rain.](https://open.spotify.com/track/2adVXaEzFP0DeDlHWslzAg) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [528 Hz Deep Rain.](https://open.spotify.com/album/0NlyM5XLn1ySNnRJnHZ198) | 2:41 | 2023-09-28 | 2025-01-10 |
 | [528 Hz Divine Energy](https://open.spotify.com/track/2seZdf0u3tyffFeB3g2PLn) | [Solfonia Dreamweaver](https://open.spotify.com/artist/4FlIVXufr8qUuH3LjiJA5f) | [528 Hz Divine Energy](https://open.spotify.com/album/5oPSsPk3l64z8Jenf4THkp) | 2:55 | 2024-06-11 |  |
 | [528 Hz DNA Repair](https://open.spotify.com/track/3orHWYTBLSAnTqFf1yLcXv) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [528 Hz DNA Repair](https://open.spotify.com/album/7eGZ63j2ZjTys2jwD9OSsh) | 3:24 | 2024-03-13 |  |

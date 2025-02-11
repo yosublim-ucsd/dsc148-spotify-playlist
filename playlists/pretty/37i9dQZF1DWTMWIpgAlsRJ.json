@@ -1,6 +1,6 @@
 {
   "description": "The 100 greatest EA SPORTS FC tracks of all time",
-  "num_followers": 309481,
+  "num_followers": 309508,
   "original_name": "EA SPORTS FC Ultimate Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236808,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
         "name": "GREY Area",
         "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh"
+      "duration_ms": 236808,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p"
     },
     {
       "added_at": "2022-11-07 18:00:00",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2022-11-07 18:00:00",
       "album": {
-        "name": "Ef\u00eamera",
-        "url": "https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk"
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp"
       },
       "artists": [
         {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 224586,
-      "name": "\u00cafemera",
-      "url": "https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc"
+      "duration_ms": 150320,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh"
     },
     {
       "added_at": "2022-11-07 18:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 172866,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/73RGpQg8Cxtly4QuHtNiOd"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "Ef\u00eamera",
+        "url": "https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "\u00cafemera",
+      "url": "https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc"
     },
     {
       "added_at": "2022-11-07 18:00:00",

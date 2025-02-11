@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > ny ep rammer som en 💫 <a href="spotify:album:5vbJhFQh6zShDRuWIlaFbg">Supanova</a> 💫   <br/> <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">@Kesi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,956 likes - 57 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,997 likes - 57 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

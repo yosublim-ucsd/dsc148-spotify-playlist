@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Juana Molina en portada.",
-  "num_followers": 40882,
+  "num_followers": 40885,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Shima",
-        "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
-      },
-      "artists": [
-        {
-          "name": "Gimena Alvarez Cela",
-          "url": "https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5"
-        }
-      ],
-      "duration_ms": 188775,
-      "name": "La madrina",
-      "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "Miseress",
         "url": "https://open.spotify.com/album/1O2jnMOsCrKS5dsJMsExmK"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 286174,
       "name": "Mi Auto",
       "url": "https://open.spotify.com/track/2kDaFXFmEeha1r1ZCHIONF"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "Shima",
+        "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
+      },
+      "artists": [
+        {
+          "name": "Gimena Alvarez Cela",
+          "url": "https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5"
+        }
+      ],
+      "duration_ms": 188775,
+      "name": "La madrina",
+      "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O"
+      },
+      "artists": [
+        {
+          "name": "VULKA",
+          "url": "https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl"
+        }
+      ],
+      "duration_ms": 242134,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 255720,
       "name": "Rota",
       "url": "https://open.spotify.com/track/0vlz20EDRMttxRuTPNZzfr"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/5k8cjs7A7AXWnhf2x8zz9O"
-      },
-      "artists": [
-        {
-          "name": "VULKA",
-          "url": "https://open.spotify.com/artist/3MVZTRVlb9SnSxgjadGfsl"
-        }
-      ],
-      "duration_ms": 242134,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/2bjPW6wU0L63Vd5rzrRbNr"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "No Pasa Nada",
-        "url": "https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl"
-      },
-      "artists": [
-        {
-          "name": "Jimena Roig",
-          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
-        },
-        {
-          "name": "Lucas Basualdo",
-          "url": "https://open.spotify.com/artist/5VD6eibzjmH7GgiYBstEyK"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "No Pasa Nada",
-      "url": "https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "Musicasi\u00f3n 4 1/2",
         "url": "https://open.spotify.com/album/53l5PseiS9aBeCLi4DWOMD"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 232600,
       "name": "Hombre",
       "url": "https://open.spotify.com/track/0Zt51qY8YXmJAwd1k4dLEZ"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "No Pasa Nada",
+        "url": "https://open.spotify.com/album/1xtnu0WBi6HQYIgnSVvXWl"
+      },
+      "artists": [
+        {
+          "name": "Jimena Roig",
+          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
+        },
+        {
+          "name": "Lucas Basualdo",
+          "url": "https://open.spotify.com/artist/5VD6eibzjmH7GgiYBstEyK"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/3L6jQp48PF9AOCDPd83CwU"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
-      },
-      "artists": [
-        {
-          "name": "Im\u00e1n",
-          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
-        }
-      ],
-      "duration_ms": 250709,
-      "name": "Hipnosis",
-      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "No Est\u00e1 Tan Mal",
         "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185897,
       "name": "No Est\u00e1 Tan Mal",
       "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/079E8Jd7MJcV3bF4tg6irR"
+      },
+      "artists": [
+        {
+          "name": "Im\u00e1n",
+          "url": "https://open.spotify.com/artist/0RnaGJLbM9DQbzrMIbXeV8"
+        }
+      ],
+      "duration_ms": 250709,
+      "name": "Hipnosis",
+      "url": "https://open.spotify.com/track/30piWlokzDKpCmQr9TYmHz"
     },
     {
       "added_at": "2025-01-24 19:05:09",

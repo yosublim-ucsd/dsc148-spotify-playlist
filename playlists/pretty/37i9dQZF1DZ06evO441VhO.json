@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17418,
+  "num_followers": 17423,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADRCyQ+rLblqGA1bY1V8eTq",
+  "snapshot_id": "Z6fwAAAAAAC4wIAjLVWw9nfd2B23tsgO",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Rated \"U\" For Ugly",
-      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Rated \"U\" For Ugly",
+      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -456,9 +456,25 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
       "duration_ms": 165386,
       "name": "Postcards From Hell",
       "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
     },
     {
       "added_at": null,

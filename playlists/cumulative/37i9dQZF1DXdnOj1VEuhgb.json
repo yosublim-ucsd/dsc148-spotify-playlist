@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "DURULDUM",
+        "url": "https://open.spotify.com/album/2ISMOqiabzIjxSzaZCFNAL"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/5MXy49hnmaOMVejmpiLEG2"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124516,
+      "name": "DURULDUM",
+      "url": "https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl"
+    },
+    {
+      "album": {
         "name": "D\u00d6NME EVE",
         "url": "https://open.spotify.com/album/5AqvpPvetWNcNcBenHkOUC"
       },
@@ -8056,7 +8078,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 128938,
       "name": "P\u0130\u015eT",
       "url": "https://open.spotify.com/track/2ugG3itPOpM9IANApt473B"

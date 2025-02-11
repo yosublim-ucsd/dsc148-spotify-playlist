@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
         "name": "Accesorii",
         "url": "https://open.spotify.com/album/51laDnQCav1QIv9tkGdHIo"
       },
@@ -547,6 +565,50 @@
     },
     {
       "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Cateodata",
+      "url": "https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY"
+    },
+    {
+      "album": {
         "name": "Cine N-a Gresit Vreodata",
         "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
       },
@@ -1024,7 +1086,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
@@ -1698,7 +1760,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -1929,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "r\u0103m\u00e2i cu mine",
+        "url": "https://open.spotify.com/album/6JeDXhyvfWuQ3z4jykjDJV"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250154,
+      "name": "r\u0103m\u00e2i cu mine",
+      "url": "https://open.spotify.com/track/6qKJNTJmN6S5F87AtwY1Qg"
+    },
+    {
+      "album": {
         "name": "Sa MM Care Pleaca",
         "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
       },
@@ -2136,7 +2216,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 180666,
       "name": "Stuff (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0"
@@ -2576,7 +2656,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 149000,
       "name": "X6",
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"

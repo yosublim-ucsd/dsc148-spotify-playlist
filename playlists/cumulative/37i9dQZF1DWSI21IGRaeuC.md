@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-493 songs - 1 day 14 hr 52 min
+494 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Fuego](https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h) | 3:10 | 2023-07-14 | 2024-03-09 |
 | [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-09 | 2023-07-20 |
 | [Funkboy](https://open.spotify.com/track/3GKus5g2N6czJ5Eo4oCGpd) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:25 | 2024-09-20 |  |
-| [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 | 2024-05-03 |  |
+| [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 | 2024-05-03 | 2025-02-11 |
 | [FUTURA](https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [FUTURA](https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd) | 7:29 | 2023-08-25 | 2023-10-17 |
 | [Gabriella](https://open.spotify.com/track/7GJxUpVl7nn4D8zOZrfpLI) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Gabriella](https://open.spotify.com/album/57FtoXQp4OsWJSJhtQfA0a) | 7:42 | 2024-04-26 | 2024-05-04 |
 | [Galactica](https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Galactica](https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3) | 5:10 | 2023-07-21 | 2024-01-13 |
@@ -344,6 +344,7 @@
 | [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 | 2022-06-03 | 2023-12-19 |
 | [Roll On](https://open.spotify.com/track/1ZecMcWMOICxnOZkRW514t) | [Jesse Jacob](https://open.spotify.com/artist/5mY4Ioa0HqWcAX8MIdQtPc) | [Roll On EP](https://open.spotify.com/album/3J8vx7ZJnDunCNXYj5Y39p) | 5:18 | 2024-04-19 | 2024-07-27 |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-06-03 | 2024-03-23 |
+| [ROTATION](https://open.spotify.com/track/27OcNxp59n1sSucFvND5Zo) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [ROTATION](https://open.spotify.com/album/5Gx5APEeuaDwfpv8ZVj8Ru) | 3:01 | 2025-02-10 |  |
 | [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 | 2022-07-01 | 2022-08-31 |
 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 | 2022-06-24 | 2023-11-06 |
 | [Rudeboi](https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq) | 3:01 | 2023-11-10 | 2024-04-19 |

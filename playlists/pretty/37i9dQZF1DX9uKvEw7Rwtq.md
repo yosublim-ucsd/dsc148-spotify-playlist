@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,760 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,796 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 40 | [Meteor Shower](https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Meteor Shower](https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH) | 3:56 |
 | 41 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 |
 | 42 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
-| 43 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 |
-| 44 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
+| 43 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
+| 44 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 |
 | 45 | [I Would Stare into the Sun with You Forever](https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 6:32 |
 | 46 | [My Courtesan](https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Mockingbird Love](https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq) | 2:53 |
 | 47 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 71 | [Elsewhere](https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Elsewhere](https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c) | 3:54 |
 | 72 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
 | 73 | [Samadhi](https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz) | [Rain No Rain](https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut) | [Samadhi](https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW) | 4:25 |
-| 74 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
-| 75 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
+| 74 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
+| 75 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
 | 76 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
 | 77 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
 | 78 | [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 |

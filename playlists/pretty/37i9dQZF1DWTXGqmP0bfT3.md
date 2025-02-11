@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,526 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,748 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 72 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
 | 73 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
 | 74 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
-| 75 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
-| 76 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 |
+| 75 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 |
+| 76 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
 | 77 | [Fever](https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 3:57 |
 | 78 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
 | 79 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 92 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 |
 | 93 | [Atoma](https://open.spotify.com/track/4HlVUapocBDBqkPtET2knz) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Atoma](https://open.spotify.com/album/3N5vYy8vIFgpvtrIbFtvvG) | 4:19 |
 | 94 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
-| 95 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 |
-| 96 | [Wash It Away](https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Searching for Solace](https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8) | 3:34 |
+| 95 | [Wash It Away](https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Searching for Solace](https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8) | 3:34 |
+| 96 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 |
 | 97 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 | 98 | [Burn MF](https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 3:37 |
 | 99 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 |
@@ -111,10 +111,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 101 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
 | 102 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 |
 | 103 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
-| 104 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
+| 104 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 |
 | 105 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 |
 | 106 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
-| 107 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 |
+| 107 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
 | 108 | [Locust](https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 7:36 |
 | 109 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 | 110 | [The End](https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP) | 3:58 |

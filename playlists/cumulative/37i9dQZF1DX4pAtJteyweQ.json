@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "Butterflies (feat. FLETCHER)",
+        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Butterflies (feat. FLETCHER)",
+      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -658,7 +680,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 203240,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
@@ -1056,7 +1078,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 296266,
       "name": "Every Time I Close My Eyes (with Kenny G)",
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
@@ -1841,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "I'll Be There For You/ You're All I Need To Get By",
+        "url": "https://open.spotify.com/album/5nVD1q1Qw3ADuuKCDgP6t7"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309773,
+      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
+      "url": "https://open.spotify.com/track/2k431Ect1b8BW0oTvHEU5R"
+    },
+    {
+      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -2054,7 +2098,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
@@ -2534,7 +2578,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 162066,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
@@ -2898,7 +2942,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
@@ -3036,7 +3080,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
@@ -3094,6 +3138,24 @@
       "duration_ms": 199320,
       "name": "Open Arms (2022 Remaster)",
       "url": "https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht"
+    },
+    {
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "album": {
@@ -3260,7 +3322,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 239800,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/7nVzOpFNZVFZtbq3OGJHX9"
@@ -3506,7 +3568,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 182226,
       "name": "Something - 2019 Mix",
       "url": "https://open.spotify.com/track/3S6N0Wbem9KV3DBcYNfXuv"
@@ -3748,15 +3810,11 @@
         {
           "name": "Dean Martin",
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
         }
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
@@ -3994,7 +4052,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 279626,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
@@ -4356,7 +4414,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 212946,
       "name": "Un Amor de Verdad",
       "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
@@ -4494,7 +4552,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232573,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/1h22h211rde6dDCeW2hXpN"
@@ -4660,7 +4718,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
@@ -4970,6 +5028,24 @@
       "duration_ms": 256733,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
+    },
+    {
+      "album": {
+        "name": "You'll Be Mine",
+        "url": "https://open.spotify.com/album/0XQ9JEBlZURh9POJPhT1Ce"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170346,
+      "name": "You'll Be Mine",
+      "url": "https://open.spotify.com/track/762pBkB9ywRp6wDtEVg1pk"
     },
     {
       "album": {

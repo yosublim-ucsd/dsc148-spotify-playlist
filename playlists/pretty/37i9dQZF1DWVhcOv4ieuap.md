@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,381 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,478 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 51 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 |
 | 52 | [BUBALU](https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:48 |
 | 53 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 |
-| 54 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
-| 55 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
-| 56 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 |
-| 57 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
+| 54 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
+| 55 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
+| 56 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
+| 57 | [Tarde](https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tarde](https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF) | 2:42 |
 | 58 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 |
 | 59 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |
 | 60 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 |

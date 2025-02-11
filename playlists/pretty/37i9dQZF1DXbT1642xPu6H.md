@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Musiquita, calorcito y pura buena vibra 🌞✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,756 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,772 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 8 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 9 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
 | 10 | [Paradise](https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Paradise](https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx) | 2:13 |
-| 11 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
-| 12 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Coração Partido \(Corazón Partío\) \[Ao Vivo\]](https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v) | 3:15 |
+| 11 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Coração Partido \(Corazón Partío\) \[Ao Vivo\]](https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v) | 3:15 |
+| 12 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 13 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 14 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 15 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 57 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 58 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
 | 59 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
-| 60 | [TUDO](https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:34 |
+| 60 | [Mais do Mesmo \- Ao Vivo](https://open.spotify.com/track/0Hibf325Lh68Nlll0KDbFr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 2:58 |
 | 61 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
-| 62 | [Mais do Mesmo \- Ao Vivo](https://open.spotify.com/track/0Hibf325Lh68Nlll0KDbFr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 2:58 |
+| 62 | [TUDO](https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:34 |
 | 63 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 64 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 65 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
+| 65 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 
 Snapshot ID: `Z6WhdAAAAAAtu/PGWm25rk5PG6RKSeGr`

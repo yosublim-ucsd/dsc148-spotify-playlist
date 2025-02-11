@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,644 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,653 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 10 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
 | 11 | [Blowing Air](https://open.spotify.com/track/79NIaixDTBEYbQK5dO8aF1) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [Tapping and Crinkling](https://open.spotify.com/album/3KBp6agI6ObJbX1wR063Vr) | 3:24 |
 | 12 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
-| 13 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
+| 13 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
 | 14 | [Reassuring Whispers 2 Asmr](https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 5:07 |
-| 15 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
+| 15 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
 | 16 | [Unintelligible Whispers Pt.1](https://open.spotify.com/track/7d4fH9j6urESBf2WsbkmKt) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Unintelligible Whispers](https://open.spotify.com/album/4yPrMv0lwW7Yl6XfExu0pz) | 2:35 |
 | 17 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
 | 18 | [Unintelligble Sleep Whisper Sayy Wayy](https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:56 |

@@ -4,7 +4,7 @@
 
 > The UK's biggest playlist\. Cover: The Weeknd
 
-265 songs - 14 hr 2 min
+266 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-03 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 |  |
 | [Brand New Dance](https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:26 | 2024-07-19 | 2024-08-16 |
-| [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-27 |  |
+| [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-27 | 2025-02-11 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-11 | 2024-04-19 |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2024-01-26 | 2024-03-26 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-20 | 2024-06-28 |
@@ -181,6 +181,7 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-01-26 | 2024-04-19 |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-17 | 2024-08-16 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2024-01-26 | 2024-02-16 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-10 |  |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-11-22 |  |
 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2024-01-26 | 2024-04-16 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 |  |

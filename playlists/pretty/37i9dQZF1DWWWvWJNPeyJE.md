@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,269 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,398 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 19 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
 | 20 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
 | 21 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
-| 22 | [All We Do](https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 4:27 |
-| 23 | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 1](https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko) | 3:20 |
+| 22 | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 1](https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko) | 3:20 |
+| 23 | [All We Do](https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 4:27 |
 | 24 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
 | 25 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
 | 26 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 59 | [Me & U \- US Version](https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Me & U](https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd) | 3:11 |
 | 60 | [Love Controversy, Pt\. 1](https://open.spotify.com/track/65vHeUg08NqpNjgp4J78Th) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo), [Sunay Suleyman](https://open.spotify.com/artist/5XOt8DizAeCLP92Y1l8BHp) | [Look How Long](https://open.spotify.com/album/0ObU1HpJzqahdHUy7qbN6F) | 3:29 |
 | 61 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 |
-| 62 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
-| 63 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |
+| 62 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |
+| 63 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
 | 64 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/1CkNm4gprWnFCdiHGoql5C) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/album/3dEOPmRGGZF1g9OOd3wvs2) | 3:39 |
 | 65 | [F With U \(feat\. Ty Dolla $ign\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2kHdu1N31NkD5roBf1EHh7) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [F With U \(feat\. Ty Dolla $ign\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6d2MsVWqoCbMWCKiHtDE2r) | 2:59 |
 | 66 | [Body](https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Body](https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im) | 4:22 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 74 | [Black & Blue](https://open.spotify.com/track/6GXpmbSdQsvn3qTJuQL4XI) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Black & Blue](https://open.spotify.com/album/1oX4HaDukcIu95wcTt6r8M) | 3:10 |
 | 75 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 76 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
-| 77 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
-| 78 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
+| 77 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
+| 78 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
 | 79 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
 | 80 | [Jazmine \(Lights Low\)](https://open.spotify.com/track/0Ljvg59UWrTiwSmRbcU9ZK) | [Mont Jake](https://open.spotify.com/artist/19rpW44F6JtXkC8TrK6VBD) | [Jazmine \(Lights Low\)](https://open.spotify.com/album/2OSfGonDcYgvCGHngFTRFC) | 3:37 |
 

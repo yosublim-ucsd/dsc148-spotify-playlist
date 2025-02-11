@@ -1,12 +1,12 @@
 {
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
-  "num_followers": 6077,
+  "num_followers": 6081,
   "original_name": "This Is Ma Rainey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAA7rBSNOdhabAR5bDTo6KVA",
+  "snapshot_id": "Z6fwAAAAAACnSk6erYCjoMmX1OVBbmlk",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Figures / Ma Rainey (1924-1925)",
-        "url": "https://open.spotify.com/album/0d2Cyd32MFg2SWIKvgep7h"
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
       },
       "artists": [
         {
           "name": "Ma Rainey",
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        },
-        {
-          "name": "Georgia Band",
-          "url": "https://open.spotify.com/artist/4ZJB3rXaifF1o4lHzJqMS3"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Cell Bound Blues",
-      "url": "https://open.spotify.com/track/2MkggW4t6Qnrru5H6RZr4u"
+      "duration_ms": 194638,
+      "name": "Explaining the Blues",
+      "url": "https://open.spotify.com/track/5IaJtmugF9q7OoCIJg23r0"
     },
     {
       "added_at": null,
@@ -255,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jazz Figures / Ma Rainey (1924-1925)",
+        "url": "https://open.spotify.com/album/0d2Cyd32MFg2SWIKvgep7h"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        },
+        {
+          "name": "Georgia Band",
+          "url": "https://open.spotify.com/artist/4ZJB3rXaifF1o4lHzJqMS3"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Cell Bound Blues",
+      "url": "https://open.spotify.com/track/2MkggW4t6Qnrru5H6RZr4u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ma Rainey's Black Bottom",
         "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
       },
@@ -264,25 +280,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 184160,
-      "name": "Screech Owl Blues",
-      "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
-        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Explaining the Blues",
-      "url": "https://open.spotify.com/track/5IaJtmugF9q7OoCIJg23r0"
+      "duration_ms": 183973,
+      "name": "Lucky Rock Blues",
+      "url": "https://open.spotify.com/track/0srv5XF4cTSg7b2Dq8g9RC"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
       "duration_ms": 187666,
       "name": "Trust No Man",
       "url": "https://open.spotify.com/track/3PAulJT2bsBGknIQ9BvYCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "Stormy Sea Blues",
+      "url": "https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML"
     },
     {
       "added_at": null,
@@ -328,25 +344,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Lucky Rock Blues",
-      "url": "https://open.spotify.com/track/0srv5XF4cTSg7b2Dq8g9RC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
-        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "Stormy Sea Blues",
-      "url": "https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML"
+      "duration_ms": 184160,
+      "name": "Screech Owl Blues",
+      "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
     },
     {
       "added_at": null,
@@ -363,38 +363,6 @@
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma Rainey (1928)",
-        "url": "https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 176483,
-      "name": "Black Dust Blues",
-      "url": "https://open.spotify.com/track/4697gPC8VJTaLrBxNmfgXf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma Rainey's Black Bottom",
-        "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Georgia Cake Walk",
-      "url": "https://open.spotify.com/track/21KNYnyvwRPR9olc34a1vp"
     },
     {
       "added_at": null,
@@ -431,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
-        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 173244,
-      "name": "Army Camp Harmony Blues",
-      "url": "https://open.spotify.com/track/6LSyNmCX6S2mhLTqi0V8Er"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma Rainey's Black Bottom",
         "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
       },
@@ -456,15 +408,15 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Blues Oh Blues",
-      "url": "https://open.spotify.com/track/26CMF4Yl1hARVol5NQaSPb"
+      "duration_ms": 182093,
+      "name": "Georgia Cake Walk",
+      "url": "https://open.spotify.com/track/21KNYnyvwRPR9olc34a1vp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Presenting Ma Rainey",
-        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+        "name": "Ma Rainey (1928)",
+        "url": "https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2"
       },
       "artists": [
         {
@@ -472,41 +424,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 178893,
-      "name": "Call Me Anything (But Call Me)",
-      "url": "https://open.spotify.com/track/5Eah1zfD1eYCKMpfR3gQyx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 184321,
-      "name": "Bad Luck Blues",
-      "url": "https://open.spotify.com/track/0N9iMreCUdPW53nktm28xd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
-        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 207725,
-      "name": "Goodbye, Daddy Blues",
-      "url": "https://open.spotify.com/track/3we0Wt3A9JdWfyQHa2uKRY"
+      "duration_ms": 176483,
+      "name": "Black Dust Blues",
+      "url": "https://open.spotify.com/track/4697gPC8VJTaLrBxNmfgXf"
     },
     {
       "added_at": null,
@@ -531,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presenting Ma Rainey",
-        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO"
       },
       "artists": [
         {
@@ -540,9 +460,57 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Broken Soul Blues",
-      "url": "https://open.spotify.com/track/2ksp6mKo6FtHqdjmkA6a7T"
+      "duration_ms": 184321,
+      "name": "Bad Luck Blues",
+      "url": "https://open.spotify.com/track/0N9iMreCUdPW53nktm28xd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma Rainey's Black Bottom",
+        "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Blues Oh Blues",
+      "url": "https://open.spotify.com/track/26CMF4Yl1hARVol5NQaSPb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 207725,
+      "name": "Goodbye, Daddy Blues",
+      "url": "https://open.spotify.com/track/3we0Wt3A9JdWfyQHa2uKRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 198681,
+      "name": "Countin' The Blues",
+      "url": "https://open.spotify.com/track/2hbxUOhbVyqxIoLxk2AM0c"
     },
     {
       "added_at": null,
@@ -563,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1923-1928",
-        "url": "https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC"
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
       "artists": [
         {
@@ -572,15 +540,15 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 187133,
-      "name": "Hellish Rag",
-      "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
+      "duration_ms": 177720,
+      "name": "Broken Soul Blues",
+      "url": "https://open.spotify.com/track/2ksp6mKo6FtHqdjmkA6a7T"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
       },
       "artists": [
         {
@@ -588,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 198681,
-      "name": "Countin' The Blues",
-      "url": "https://open.spotify.com/track/2hbxUOhbVyqxIoLxk2AM0c"
+      "duration_ms": 173244,
+      "name": "Army Camp Harmony Blues",
+      "url": "https://open.spotify.com/track/6LSyNmCX6S2mhLTqi0V8Er"
     },
     {
       "added_at": null,
@@ -620,15 +588,15 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Bo Weavil Blues - Take 1",
-      "url": "https://open.spotify.com/track/3QQqYDMoAeK7Gu3yNWDIj5"
+      "duration_ms": 167722,
+      "name": "Barrel House Blues",
+      "url": "https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey (1928)",
-        "url": "https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2"
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
       "artists": [
         {
@@ -636,15 +604,15 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 188526,
-      "name": "Tough Luck Blues",
-      "url": "https://open.spotify.com/track/3aJkuDXd1zwqhzaj9mxkFM"
+      "duration_ms": 178893,
+      "name": "Call Me Anything (But Call Me)",
+      "url": "https://open.spotify.com/track/5Eah1zfD1eYCKMpfR3gQyx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+        "name": "1923-1928",
+        "url": "https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC"
       },
       "artists": [
         {
@@ -652,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 179061,
-      "name": "Slow Driving Moan",
-      "url": "https://open.spotify.com/track/5wzTmistw3k9xKzEnCgeyv"
+      "duration_ms": 187133,
+      "name": "Hellish Rag",
+      "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
     },
     {
       "added_at": null,
@@ -675,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 167722,
-      "name": "Barrel House Blues",
-      "url": "https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma Rainey (1928)",
         "url": "https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2"
       },
@@ -703,6 +655,38 @@
       "duration_ms": 152947,
       "name": "Black Cat Hoot Owl Blues",
       "url": "https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Slow Driving Moan",
+      "url": "https://open.spotify.com/track/5wzTmistw3k9xKzEnCgeyv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 171180,
+      "name": "Rough and Tumble Blues",
+      "url": "https://open.spotify.com/track/2rIkHGBexv1XkjgeHlQkre"
     },
     {
       "added_at": null,
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
-        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
+        "name": "Ma Rainey (1928)",
+        "url": "https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 171180,
-      "name": "Rough and Tumble Blues",
-      "url": "https://open.spotify.com/track/2rIkHGBexv1XkjgeHlQkre"
+      "duration_ms": 188526,
+      "name": "Tough Luck Blues",
+      "url": "https://open.spotify.com/track/3aJkuDXd1zwqhzaj9mxkFM"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma Rainey Vol. 2 (1924-1925)",
+        "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "Toad Frog Blues",
+      "url": "https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An Introduction To Ma Rainey",
         "url": "https://open.spotify.com/album/6SPGzT2RHZ024I9us2fg0p"
       },
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 172892,
-      "name": "Lawd Send Me A Blues",
-      "url": "https://open.spotify.com/track/6enaVlwavWEg1L2pwYUVbS"
+      "duration_ms": 181106,
+      "name": "Night Time Blues",
+      "url": "https://open.spotify.com/track/1LAlTTH6AEK8zcL6WZAbCU"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma Rainey Vol. 2 (1924-1925)",
-        "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 185522,
-      "name": "Toad Frog Blues",
-      "url": "https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU"
+      "duration_ms": 178280,
+      "name": "Grievin' Hearted Blues",
+      "url": "https://open.spotify.com/track/3Wtm5dbIQHD2CMiLlvZ7gG"
     }
   ],
   "unique_name": "This Is Ma Rainey",

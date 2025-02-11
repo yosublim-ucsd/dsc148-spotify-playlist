@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Anja Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,477 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,508 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

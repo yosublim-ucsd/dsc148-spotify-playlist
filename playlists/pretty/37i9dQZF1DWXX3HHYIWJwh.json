@@ -1,6 +1,6 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 103933,
+  "num_followers": 103928,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-02-03 06:54:29",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2025-02-03 06:54:29",
+      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
-    },
-    {
-      "added_at": "2025-02-03 06:54:29",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2025-02-03 06:54:29",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-02-03 06:54:29",
       "album": {
+        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "added_at": "2025-02-03 06:54:29",
+      "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2025-02-03 06:54:29",
-      "album": {
-        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
-        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
-      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "added_at": "2025-02-03 06:54:29",

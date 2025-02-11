@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Las Pelotas
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,291 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,376 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 45 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 46 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 |
 | 47 | [Fulanos de Nadie](https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:41 |
-| 48 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
-| 49 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 48 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 49 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
 | 50 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
 | 51 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
 | 52 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 73 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
 | 74 | [Espíritu Felino](https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt) | [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Espíritu \(Libres Parte 3\)](https://open.spotify.com/album/3MMcH2FSR34P3SUvidu3Ut) | 3:43 |
 | 75 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 |
-| 76 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
-| 77 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
+| 76 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
+| 77 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
 | 78 | [El Gato Que Está Triste y Azul](https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Gato Que Está Triste y Azul](https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk) | 3:41 |
 | 79 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 |
 | 80 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 85 | [Como Un Cuento](https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Como Un Cuento](https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv) | 4:47 |
 | 86 | [De Mí](https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [García, el Más Grande](https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua) | 3:06 |
 | 87 | [Melodía del Adiós](https://open.spotify.com/track/6tbNnSpsaRBjqszmWU6JEd) | [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [Melodía del Adiós](https://open.spotify.com/album/5xuoOnrivnxR4MOiOoafWY) | 3:38 |
-| 88 | [Vendedora de Caricias](https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Vendedora de Caricias](https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91) | 3:19 |
-| 89 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 |
+| 88 | [Ahora 2](https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El Pozo Brillante](https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1) | 3:01 |
+| 89 | [Vendedora de Caricias](https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Vendedora de Caricias](https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91) | 3:19 |
 | 90 | [Deja Su Lugar](https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Deja Su Lugar](https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4) | 3:55 |
 | 91 | [Desarma y sangra](https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:44 |
 | 92 | [Me Estás Tratando Mal \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Me Estás Tratando Mal \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM) | 4:26 |

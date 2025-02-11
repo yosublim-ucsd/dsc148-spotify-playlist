@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,665 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,666 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

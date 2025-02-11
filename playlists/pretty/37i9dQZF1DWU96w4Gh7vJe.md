@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,654 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,725 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 41 | [Hanap](https://open.spotify.com/track/42HwpLFw73GBckZlWorib4) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Hanap](https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2) | 4:02 |
 | 42 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 | 43 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |
-| 44 | [Abot Langit \- Ricovered](https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0), [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Abot Langit \(Ricovered\)](https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak) | 2:57 |
-| 45 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 |
+| 44 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 |
+| 45 | [Abot Langit \- Ricovered](https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0), [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Abot Langit \(Ricovered\)](https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak) | 2:57 |
 | 46 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
 | 47 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 |
 | 48 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |

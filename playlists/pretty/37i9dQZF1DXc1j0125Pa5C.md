@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,522 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,539 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Até Que Durou / 1 Metro e 65 \- Ao Vivo](https://open.spotify.com/track/1cS6BbRwFGgkhAeO8lHUva) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [After do Benza \(Ao Vivo\)](https://open.spotify.com/album/3VAQTlftSOa79dQpsIdjhG) | 4:53 |
 | 2 | [Deixa Alagar / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 5:26 |
-| 3 | [E Agora? / Calma / Com Você Tô Completo \- Ao Vivo](https://open.spotify.com/track/5yhWVxayqMlUeRg5uiJGkC) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs) | [Encontrin 3 \- Vol\. 5](https://open.spotify.com/album/6qir6Hq8EH3TMzHajjaW6f) | 4:47 |
+| 3 | [E Agora? / Calma / Com Você Tô Completo \- Ao Vivo](https://open.spotify.com/track/5yhWVxayqMlUeRg5uiJGkC) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs) | [Encontrin 3 \- Vol\. 5 \(Ao Vivo\)](https://open.spotify.com/album/6qir6Hq8EH3TMzHajjaW6f) | 4:47 |
 | 4 | [Recomeçar / Aperta Start / Cigana \- Ao Vivo](https://open.spotify.com/track/6k00rOJjLJVNBqzNRp3t4J) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Recomeçar / Aperta Start / Cigana \(Ao Vivo\)](https://open.spotify.com/album/0aj3OaCixid3eeHN79qoGk) | 6:25 |
 | 5 | [Vacilão / Deixa a Vida Me Levar / Coração Em Desalinho \- Ao Vivo](https://open.spotify.com/track/0ZgQiCYAUJhlHnaMOPySn6) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Mixturadin 3 \(Ao Vivo\)](https://open.spotify.com/album/4uBtbtKEG21NIl1I6mx4UV) | 6:44 |
 | 6 | [Mega Star / Telegrama \- Ao Vivo](https://open.spotify.com/track/1VToYenItqkmYkGfmJSV4X) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Mega Star / Telegrama \(Ao Vivo\)](https://open.spotify.com/album/5K4F8AQpRCJrDjJH0IsFDr) | 4:07 |

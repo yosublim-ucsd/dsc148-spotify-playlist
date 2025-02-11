@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,360 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,638 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 8 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 3:37 |
 | 9 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
 | 10 | [The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 3:06 |
-| 11 | [Subterranean Homesick Blues](https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:21 |
-| 12 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:40 |
+| 11 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:40 |
+| 12 | [Subterranean Homesick Blues](https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:21 |
 | 13 | [I Want You](https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 3:05 |
 | 14 | [Tangled up in Blue](https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:41 |
 | 15 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 6:52 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 26 | [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 2:54 |
 | 27 | [Oxford Town](https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 1:47 |
 | 28 | [One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:44 |
-| 29 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:56 |
-| 30 | [Forever Young \- Slow Version](https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 4:56 |
+| 29 | [Forever Young \- Slow Version](https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 4:56 |
+| 30 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:56 |
 | 31 | [Corrina, Corrina](https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:41 |
 | 32 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 |
 | 33 | [Make You Feel My Love](https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 3:31 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 51 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 |
 | 52 | [Tonight I'll Be Staying Here with You](https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:21 |
 
-Snapshot ID: `Z6aegAAAAAA17sGaiyLQObz7kUojRXG8`
+Snapshot ID: `Z6fwAAAAAAAhTad56lurygXZYMNVk7Hf`

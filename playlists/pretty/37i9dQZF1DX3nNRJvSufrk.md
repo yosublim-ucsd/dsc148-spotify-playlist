@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,519 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,528 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 21 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
 | 22 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
 | 23 | [Next Subject](https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4) | [DJ Curt](https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 5:03 |
-| 24 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
-| 25 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
+| 24 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
+| 25 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
 | 26 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
 | 27 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
 | 28 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |

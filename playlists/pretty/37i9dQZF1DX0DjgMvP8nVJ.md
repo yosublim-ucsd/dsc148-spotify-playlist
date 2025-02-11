@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 87 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
 | 88 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 |
 | 89 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
-| 90 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
-| 91 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
+| 90 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
+| 91 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
 | 92 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
 | 93 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 94 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 96 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
 | 97 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
 | 98 | [young dumb](https://open.spotify.com/track/70Zo6N1w5N2dYaFHOy2xb2) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [young dumb](https://open.spotify.com/album/2EF3xSuFYlY1fKopxlYxYw) | 2:02 |
-| 99 | [Buzina](https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:17 |
-| 100 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
+| 99 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
+| 100 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
 
 Snapshot ID: `Z6PtYwAAAAAkOVMzR9oIReTaQO/N8eje`

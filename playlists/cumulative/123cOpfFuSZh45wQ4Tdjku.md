@@ -4,7 +4,7 @@
 
 > mostly furry
 
-282 songs - 14 hr 17 min
+284 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,8 @@
 | [Ghost](https://open.spotify.com/track/0M0sUG7mE6kqrWRdkDmgc6) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Ghost](https://open.spotify.com/album/2weX875XA2pdgx7palREb3) | 2:07 | 2024-05-15 |  |
 | [GIZABYTE](https://open.spotify.com/track/5fM9OK3mjODGojHnitC3ZV) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [GIZABYTE](https://open.spotify.com/album/70Fyk05glejOm3mHaSE73p) | 3:33 | 2024-05-15 |  |
 | [Glitch](https://open.spotify.com/track/2b4M4oUugis6OkJgjNeKVv) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:36 | 2024-08-03 |  |
+| [Good Old Green Days](https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 | 2025-02-10 |  |
+| [Good Old Green Days \(Slappy Hours Mix\)](https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 | 2025-02-10 |  |
 | [Green N Purple](https://open.spotify.com/track/3R0l4sETdGJWzXplxXHFuT) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Green N Purple](https://open.spotify.com/album/5WU4D4OuWWQuEi1wGhAfON) | 4:35 | 2024-05-15 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [Happy](https://open.spotify.com/track/6xfIAKM0xiwGODc1CMsF1j) | [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Happy](https://open.spotify.com/album/6bVISDojEF4VclUvevDexc) | 1:56 | 2024-05-23 |  |

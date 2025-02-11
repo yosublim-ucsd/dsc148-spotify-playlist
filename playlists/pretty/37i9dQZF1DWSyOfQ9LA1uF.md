@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,781 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,793 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 44 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
 | 45 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 46 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
-| 47 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
-| 48 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
-| 49 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
+| 47 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
+| 48 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
+| 49 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
 | 50 | [Meddle](https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:15 |
 | 51 | [Waters of Nazareth \- Erol Alkan Remix](https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Waters of Nazareth \(The Remixes\)](https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ) | 6:12 |
 | 52 | [Rapture](https://open.spotify.com/track/0ljqsKHYQHnxGC6s5BAhlS) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8) | [Skywriter](https://open.spotify.com/album/0uqh1FSdgvKmYMFkZTLyYb) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 106178,
+  "num_followers": 106214,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
-        }
-      ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Rainha da Minha Bateria",
+        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Juliano Moreira",
+          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+        }
+      ],
+      "duration_ms": 243850,
+      "name": "Rainha da Minha Bateria",
+      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Te Levar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 173397,
       "name": "Te Levar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "In\u00edcio",
-        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Conto as Horas",
-      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -939,22 +943,18 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
-        "name": "Rainha da Minha Bateria",
-        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+        "name": "In\u00edcio",
+        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Juliano Moreira",
-          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 243850,
-      "name": "Rainha da Minha Bateria",
-      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
+      "duration_ms": 192371,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2025-02-07 23:40:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-02-07 23:40:28",
       "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
+    },
+    {
+      "added_at": "2025-02-07 23:40:28",
+      "album": {
         "name": "Gilsons",
         "url": "https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 238253,
       "name": "Minha Menina Bonita",
       "url": "https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl"
-    },
-    {
-      "added_at": "2025-02-07 23:40:28",
-      "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
     },
     {
       "added_at": "2025-02-07 23:40:28",

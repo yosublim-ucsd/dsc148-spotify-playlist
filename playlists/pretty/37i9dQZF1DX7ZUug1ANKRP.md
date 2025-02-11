@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: AVAION, Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,850,993 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850,986 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

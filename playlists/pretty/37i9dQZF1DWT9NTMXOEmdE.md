@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 
 > The happiest hits to boost your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,917 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,946 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 8 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 9 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
 | 10 | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 |
-| 11 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
-| 12 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
+| 11 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 |
+| 12 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
 | 13 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
 | 14 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 15 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 24 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 25 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 26 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
-| 27 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 28 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
+| 27 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
+| 28 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 29 | [FRIENDS](https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS](https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM) | 3:22 |
 | 30 | [Never Be the Same](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:46 |
 | 31 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 41 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 42 | [NIGHT DANCER](https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:30 |
 | 43 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
-| 44 | [breathin](https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:18 |
-| 45 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
+| 44 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
+| 45 | [breathin](https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:18 |
 | 46 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
 | 47 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:55 |
 | 48 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 |

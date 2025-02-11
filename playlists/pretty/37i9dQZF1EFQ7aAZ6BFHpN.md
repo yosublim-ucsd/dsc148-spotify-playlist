@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 192 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 192 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 180 | [Adored One](https://open.spotify.com/track/2V7seRtD6QxS16PCs4LTPW) | [Alice Faye](https://open.spotify.com/artist/7Jr5Krm7sO2as96uMoDfhK), [Don Ameche](https://open.spotify.com/artist/22gGmNLnhoGsskm04ARcnD) | [I Feel a Song Coming On](https://open.spotify.com/album/03XQNwCMdlasuTVtT5yNjP) | 2:12 |
 | 181 | [The Pophams](https://open.spotify.com/track/7DvL140nbVHu0qiKbJYqyw) | [Murray Matheson](https://open.spotify.com/artist/29UpLxizw1xzz0588qT73J) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:12 |
 | 182 | [Our Little Kitchenette](https://open.spotify.com/track/0AQlJlTXS8S812djx0LRJt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:22 |
-| 183 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
-| 184 | [A Corner of Heaven with You](https://open.spotify.com/track/224N7d1XLDBbBgOZ6QmyBv) | [Earl Okin](https://open.spotify.com/artist/5NVqliGdTXQoIfOTTzAKxk) | [Songs from a Basement](https://open.spotify.com/album/4quNKedgvcKb3yepHw9OgS) | 3:54 |
+| 183 | [A Corner of Heaven with You](https://open.spotify.com/track/224N7d1XLDBbBgOZ6QmyBv) | [Earl Okin](https://open.spotify.com/artist/5NVqliGdTXQoIfOTTzAKxk) | [Songs from a Basement](https://open.spotify.com/album/4quNKedgvcKb3yepHw9OgS) | 3:54 |
+| 184 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
 | 185 | [Just Supposing](https://open.spotify.com/track/6xiBjih1c1K1OI7juHhqNO) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W), [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 2:51 |
 | 186 | [You Started It](https://open.spotify.com/track/4eNA2fvVW2rZQiU4whUHoo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frederick Hodges](https://open.spotify.com/artist/7Ag8IpdEfkvkjbKhytoiFv) | [Do It Again: Frederick Hodges Plays the Music of George Gershwin](https://open.spotify.com/album/3nvK08h8vItkdLdlrYwGdt) | 4:37 |
 | 187 | [The Life Of A Rose](https://open.spotify.com/track/1Aufh3lEEZWJx1z5iqcDm7) | [前田祐希](https://open.spotify.com/artist/4Po73izFwEqVrjRVnnH8ks), [柴野さつき](https://open.spotify.com/artist/38BUVTxULHjh8JxpJCBwJu) | [JAZZ AGE GERSHWIN SONG BOOK Ⅱ](https://open.spotify.com/album/68JFr9RwdwhnC07ECuRN7b) | 2:18 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 191 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 | 192 | [Man](https://open.spotify.com/track/3nMDOiuqvSIwCxRrxn7OOG) | [The Moonlight Fairy's Manuru Home run](https://open.spotify.com/artist/53phTNQTwRpSxcK7oBwfY6) | [Love OST](https://open.spotify.com/album/6Uo8YynM7evPWl13t6r3Ud) | 2:19 |
 
-Snapshot ID: `AbpKXgAAAADzTSDcOQDCnfXMywZvkZqW`
+Snapshot ID: `AbpP1gAAAACIWzrb12MzPKU6s2Ra94U5`

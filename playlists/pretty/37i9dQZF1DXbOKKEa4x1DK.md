@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,609 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,633 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 21 | [Dicen](https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao Majao](https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo) | 4:45 |
 | 22 | [Con Los Ojos Cerrados](https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Milly & Company](https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB) | 3:40 |
 | 23 | [Confundido](https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Los Merengues Del Casandra](https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR) | 4:47 |
-| 24 | [Ajena](https://open.spotify.com/track/00TBHlxq2ak9wUSGlZ9j0f) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:34 |
-| 25 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
+| 24 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
+| 25 | [Ajena](https://open.spotify.com/track/00TBHlxq2ak9wUSGlZ9j0f) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:34 |
 | 26 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 27 | [La Casa de Ramon](https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [La Casa de Ramon](https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs) | 3:33 |
 | 28 | [Como Te Olvido](https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Mi Historia](https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB) | 4:49 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 34 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
 | 35 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 36 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
-| 37 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
-| 38 | [Cuando Estés Con Él](https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 3:40 |
-| 39 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
-| 40 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
-| 41 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/2k1zJtaVIDZdP0HDMKMEEu) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike) | 4:31 |
+| 37 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/2k1zJtaVIDZdP0HDMKMEEu) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike) | 4:31 |
+| 38 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
+| 39 | [Cuando Estés Con Él](https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 3:40 |
+| 40 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
+| 41 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
 | 42 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 43 | [Donde](https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:37 |
 | 44 | [Vete y Dile](https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US) | 4:51 |

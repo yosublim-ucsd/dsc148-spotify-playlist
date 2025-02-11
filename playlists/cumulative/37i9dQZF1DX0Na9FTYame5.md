@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: badchieff
 
-176 songs - 7 hr 59 min
+177 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,8 +149,9 @@
 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 | 2025-02-08 |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-11-11 |
 | [So wie du](https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [So wie du](https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh) | 2:32 | 2024-06-28 |  |
+| [So Wunderschön](https://open.spotify.com/track/56GwaChk9RMz5cLgErxr2f) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So Wunderschön](https://open.spotify.com/album/3pskKADoAvTSBhOnJAi9E0) | 2:39 | 2025-02-06 |  |
 | [Sommer](https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq) | [Beatzarre & Djorkaeff](https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Sommer](https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW) | 3:00 | 2024-06-28 | 2024-11-19 |
-| [Sterne](https://open.spotify.com/track/0klusyHyos13Rvl1JugmQ2) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Sterne](https://open.spotify.com/album/5hXInU6fLwTqjsJKFRdEWr) | 2:19 | 2025-01-20 |  |
+| [Sterne](https://open.spotify.com/track/0klusyHyos13Rvl1JugmQ2) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Sterne](https://open.spotify.com/album/5hXInU6fLwTqjsJKFRdEWr) | 2:19 | 2025-01-20 | 2025-02-11 |
 | [Sterne \(feat\. Bozza\)](https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Sterne \(feat\. Bozza\)](https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1) | 3:56 | 2024-06-28 |  |
 | [SUPERHERO Pt\. II](https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [SUPERHERO Pt\. II](https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69) | 2:59 | 2024-06-28 | 2024-08-31 |
 | [Tagebuch](https://open.spotify.com/track/5uLJ84Xbogv04RLgMhJxNq) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Tagebuch](https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn) | 2:18 | 2024-09-16 | 2024-11-19 |

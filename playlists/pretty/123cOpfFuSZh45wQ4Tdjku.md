@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 883 likes - 281 songs - 14 hr 15 min
+[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 885 likes - 283 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,5 +289,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 279 | [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 |
 | 280 | [Waterland](https://open.spotify.com/track/726bs3udSSK6Ec7H6Y21mf) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Waterland](https://open.spotify.com/album/4ld2ghxuhuLm6fC1M1kaca) | 2:56 |
 | 281 | [CYBERNETIC HEART \- Instrumental](https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 |
+| 282 | [Good Old Green Days](https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 |
+| 283 | [Good Old Green Days \(Slappy Hours Mix\)](https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 |
 
-Snapshot ID: `AAABUHuh3FPx9THJc0AlGWrFWFS95nX7`
+Snapshot ID: `AAABUhYfuZWp7B1I/1zNMvlE1agElB2a`

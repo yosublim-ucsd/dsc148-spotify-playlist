@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 494035,
+  "num_followers": 494188,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -185,20 +185,24 @@
       "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
-      "added_at": "2024-10-24 20:19:05",
+      "added_at": "2024-06-28 19:01:45",
       "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
       "added_at": "2024-12-18 21:05:09",
@@ -253,24 +257,20 @@
       "url": "https://open.spotify.com/track/0AvHKpI768IrIR6QC6Irue"
     },
     {
-      "added_at": "2024-06-28 19:01:45",
+      "added_at": "2024-10-24 20:19:05",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+      "duration_ms": 208626,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
     },
     {
       "added_at": "2025-01-07 01:36:22",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
     },
     {
+      "added_at": "2023-03-22 17:53:19",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "pop songs 2020",
@@ -1447,22 +1463,6 @@
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
-    },
-    {
-      "added_at": "2023-03-22 17:53:19",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2023-12-20 03:28:07",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Feel The Pain / Fast Car",
+        "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 198842,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Feel The Pain / Fast Car",
-        "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
     },
     {
       "added_at": "2022-01-26 18:13:44",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "The Adventures Of Masta Splinta",
-        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/5m9teu8TOkn7BTglKeUdO4"
       },
       "artists": [
         {
-          "name": "Intalekt",
-          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 221086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
+      "duration_ms": 219199,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
     }
   ],
   "unique_name": "Soft Office",

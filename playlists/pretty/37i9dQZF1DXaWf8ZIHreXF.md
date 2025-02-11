@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,400 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,444 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 39 | [Mama](https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:04 |
 | 40 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
 | 41 | [Without You \(feat\. Usher\)](https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:28 |
-| 42 | [All Around The World \(La La La\)](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ) | 2:27 |
-| 43 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
+| 42 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
+| 43 | [All Around The World \(La La La\)](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ) | 2:27 |
 | 44 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ) | 4:11 |
 | 45 | [You & Me \- Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:42 |
 | 46 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 2:59 |

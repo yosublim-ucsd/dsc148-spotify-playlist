@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,595 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,647 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 14 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
 | 15 | [Take No Prisoners \- 2004 Remix](https://open.spotify.com/track/1XFSSbQ9fApWNXZMAKllb6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 3:27 |
 | 16 | [We’ll Be Back](https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:29 |
-| 17 | [Skin O' My Teeth \- 2004 Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 |
-| 18 | [Train Of Consequences \- Remastered 2004](https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:31 |
-| 19 | [Wake Up Dead \- 2004 Remaster](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 |
+| 17 | [Wake Up Dead \- 2004 Remaster](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 |
+| 18 | [Skin O' My Teeth \- 2004 Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 |
+| 19 | [Train Of Consequences \- Remastered 2004](https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:31 |
 | 20 | [In My Darkest Hour \- Remastered 2004](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 |
-| 21 | [Countdown To Extinction](https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:19 |
-| 22 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
+| 21 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 |
+| 22 | [Countdown To Extinction](https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:19 |
 | 23 | [The Sick, The Dying… And The Dead!](https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:04 |
 | 24 | [Five Magics \- 2004 Remix](https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:39 |
 | 25 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 27 | [Back In the Day](https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 3:27 |
 | 28 | [Rust In Peace...Polaris \- 2004 Remix](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 |
 | 29 | [Architecture Of Aggression](https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:39 |
-| 30 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 |
-| 31 | [The Killing Road \- Remastered 2004](https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:51 |
+| 30 | [The Killing Road \- Remastered 2004](https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:51 |
+| 31 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 |
 | 32 | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:07 |
 | 33 | [This Was My Life](https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:43 |
 | 34 | [99 Ways To Die](https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Sudden Death](https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE) | 5:09 |
 | 50 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 |
 
-Snapshot ID: `Z6aegAAAAACxg0MiP1IZG9MouhxsbIEW`
+Snapshot ID: `Z6fwAAAAAADQ059Ts23kt6Ijjlgwv2ou`

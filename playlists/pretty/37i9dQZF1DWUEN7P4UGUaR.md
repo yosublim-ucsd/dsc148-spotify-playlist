@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,619 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,623 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 24 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
 | 25 | [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 |
 | 26 | [Come and See \(Remix\)](https://open.spotify.com/track/15D677rtBhHsiLiva3Wjv3) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Afiba](https://open.spotify.com/artist/1eKnW8PmxRivaPkqgYinPz), [KWAKU HYDRO](https://open.spotify.com/artist/543kVDVPx8oHgDdbPs7Yjm) | [Come and See \(Remix\)](https://open.spotify.com/album/5aZIYtIubUJiX5GkqRgDNu) | 3:15 |
-| 27 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 |
+| 27 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 |
 | 28 | [FAKY3 ME](https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr), [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [FAKY3 ME](https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT) | 5:11 |
-| 29 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 |
+| 29 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 |
 | 30 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 31 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 |
 | 32 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,104 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,103 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 58 | [Stop This Flame](https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Stop This Flame](https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr) | 3:29 |
 | 59 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
 | 60 | [Yesterday](https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday](https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y) | 2:48 |
-| 61 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
-| 62 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 61 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 62 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
 | 63 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
 | 64 | [Same Old Story](https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:20 |
 | 65 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 89 | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q) | 3:33 |
 | 90 | [She Don't Dance](https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [She Don't Dance](https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH) | 3:46 |
 | 91 | [Paddling Out](https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy to You](https://open.spotify.com/album/6YeV0JWW7g8dDf78jFIe1e) | 3:43 |
-| 92 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 |
-| 93 | [Ordinary People \(feat\. JP Cooper\)](https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [B\. Inspired](https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr) | 4:30 |
-| 94 | [Totally](https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:56 |
+| 92 | [Totally](https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:56 |
+| 93 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 |
+| 94 | [Ordinary People \(feat\. JP Cooper\)](https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [B\. Inspired](https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr) | 4:30 |
 | 95 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn) | 3:37 |
 | 96 | [Angel](https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 4:43 |
 | 97 | [Dreaming](https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Smallpools](https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn) | 3:36 |

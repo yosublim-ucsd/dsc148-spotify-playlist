@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABicFM1mtkOXU3FvZZqQ13v",
+  "snapshot_id": "Z6fwAAAAAACj16WouNR+MSjt5uwBpqH/",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "I Better Go Now - Single Version",
+      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 311506,
       "name": "Diddley Daddy",
       "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "I Better Go Now - Single Version",
-      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
     },
     {
       "added_at": null,

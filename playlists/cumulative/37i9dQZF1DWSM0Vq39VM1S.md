@@ -4,7 +4,7 @@
 
 > Le rayon de soleil musical de votre matinée 🦔
 
-190 songs - 12 hr 2 min
+191 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 | 2022-12-06 |  |
 | [Capital Letters \- Bossa Nova](https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Capital Letters \(Bossa Nova\)](https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski) | 3:45 | 2024-09-17 | 2024-10-17 |
 | [cardigan](https://open.spotify.com/track/0KRYCBwIpWYFNrXOmXbyUh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 3:59 | 2025-01-09 |  |
+| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2025-02-10 |  |
 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 | 2024-11-06 |  |
 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 | 2023-03-16 |  |
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2022-12-06 | 2023-11-25 |
@@ -99,7 +100,7 @@
 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 | 2024-12-09 |  |
 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 | 2023-02-21 |  |
 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 | 2022-12-06 |  |
-| [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-09-09 |  |
+| [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-09-09 | 2025-02-11 |
 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 | 2022-12-06 | 2023-02-22 |
 | [L'avventura](https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [La course folle](https://open.spotify.com/album/430BmnKTO6rNX9SdODCoIe) | 3:43 | 2024-09-17 |  |
 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2024-03-27 |  |

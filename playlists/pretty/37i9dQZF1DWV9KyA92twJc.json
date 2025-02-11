@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
-      },
-      "artists": [
-        {
-          "name": "Kfir Tsafrir",
-          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 238000,
       "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
+      },
+      "artists": [
+        {
+          "name": "Kfir Tsafrir",
+          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "Sweet Oblivion",
-        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 135198,
-      "name": "Sweet Oblivion",
-      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
-    },
-    {
-      "added_at": "2025-02-06 22:00:24",
-      "album": {
         "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
         "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7",
-        "url": "https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci"
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
       },
       "artists": [
         {
-          "name": "Peer Tasi",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 182700,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
+      "duration_ms": 135198,
+      "name": "Sweet Oblivion",
+      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -1443,6 +1427,22 @@
       "duration_ms": 217000,
       "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
+    },
+    {
+      "added_at": "2025-02-06 22:00:24",
+      "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7",
+        "url": "https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci"
+      },
+      "artists": [
+        {
+          "name": "Peer Tasi",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
     },
     {
       "added_at": "2025-02-06 22:00:24",

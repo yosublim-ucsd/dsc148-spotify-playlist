@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Have the loveliest little day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,628 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,624 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 39 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 |
 | 40 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
 | 41 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
-| 42 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
-| 43 | [The Breeze](https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/1DW0xzBKWQZnXv4Ypt25LZ) | 3:59 |
+| 42 | [The Breeze](https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/1DW0xzBKWQZnXv4Ypt25LZ) | 3:59 |
+| 43 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 44 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 |
 | 45 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
 | 46 | [Sorry I Am](https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:01 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 59 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
 | 60 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 |
 | 61 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 |
-| 62 | [Like Dylan in the Movies](https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 4:14 |
-| 63 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
+| 62 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
+| 63 | [Like Dylan in the Movies](https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 4:14 |
 | 64 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
 | 65 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 66 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 73 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
 | 74 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |
 | 75 | [Jessie's House](https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Jessie's House](https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH) | 3:16 |
-| 76 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
-| 77 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
+| 76 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
+| 77 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 78 | [All My Life](https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [All My Life](https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx) | 3:47 |
 | 79 | [Someday](https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Someday](https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG) | 4:22 |
 | 80 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 92 | [Cadillac](https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [You Do Not Have To Be Good](https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN) | 2:51 |
 | 93 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 |
 | 94 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
-| 95 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
-| 96 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 |
+| 95 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 |
+| 96 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
 | 97 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 98 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 |
-| 99 | [Me and My Friends](https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Me and My Friends](https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd) | 3:20 |
-| 100 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 |
+| 99 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 |
+| 100 | [Mother](https://open.spotify.com/track/1nE2RifXS8bI1GwdgnaXIo) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [One More Thing](https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB) | 2:47 |
 
 Snapshot ID: `ZrXl3gAAAAA8RwEnCppiVPkab73uPctb`

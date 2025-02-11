@@ -595,6 +595,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 232191,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
-      },
-      "artists": [
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "No Dia dos Nossos",
+        "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 164166,
+      "name": "NDDN",
+      "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 495600,
       "name": "Mandume",
       "url": "https://open.spotify.com/track/7JEFQNPdF5yUePOuTAG5fs"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "No Dia dos Nossos",
-        "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 164166,
-      "name": "NDDN",
-      "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
     },
     {
       "added_at": "2024-08-16 20:28:24",

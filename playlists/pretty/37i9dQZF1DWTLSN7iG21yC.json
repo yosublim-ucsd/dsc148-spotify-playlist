@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 896706,
+  "num_followers": 896685,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
     },
     {
-      "added_at": "2024-08-28 15:36:32",
-      "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
-    },
-    {
       "added_at": "2024-08-12 14:52:05",
       "album": {
         "name": "Waffle House",
@@ -1071,6 +1055,22 @@
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2024-08-28 15:36:32",
+      "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/5giwUhMFuodJcRhA8tlLSQ"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Evering Road (Special Edition)",
         "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 229133,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Butterflies (feat. FLETCHER)",
-        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Butterflies (feat. FLETCHER)",
-      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Love Me Like I Am (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Butterflies (feat. FLETCHER)",
+        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Butterflies (feat. FLETCHER)",
+      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2149,26 +2149,6 @@
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
-      "added_at": "2024-09-20 14:05:11",
-      "album": {
-        "name": "Plus & Minus",
-        "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
-      },
-      "artists": [
-        {
-          "name": "David Gray",
-          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
-        },
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "Plus & Minus",
-      "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
-    },
-    {
       "added_at": "2024-08-12 14:52:05",
       "album": {
         "name": "YESSIE",
@@ -2201,6 +2181,26 @@
       "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
+      "added_at": "2024-09-20 14:05:11",
+      "album": {
+        "name": "Plus & Minus",
+        "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
+      },
+      "artists": [
+        {
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+        },
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 188264,
+      "name": "Plus & Minus",
+      "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
+    },
+    {
       "added_at": "2024-08-12 14:52:05",
       "album": {
         "name": "Alright",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "A LOT",
-        "url": "https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 181945,
-      "name": "A LOT",
-      "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/3kxT5SN1GQ3j3kS9NHOsYI"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 208714,
       "name": "After All",
       "url": "https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "A LOT",
+        "url": "https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 181945,
+      "name": "A LOT",
+      "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "barcelona",
         "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 175222,
       "name": "barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-08-12 14:52:05",

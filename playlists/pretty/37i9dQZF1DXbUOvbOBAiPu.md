@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Charlotte de Witte & Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,238 likes - 84 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,240 likes - 84 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 5 | [Daytona](https://open.spotify.com/track/4Fkken2vbissEcoXRBxqrv) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [ULTIMATUM](https://open.spotify.com/album/74T7gPVoBbJsfg59Nf6vlR) | 2:43 |
 | 6 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
 | 7 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
-| 8 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
+| 8 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
 | 9 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 10 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
 | 11 | [Sucking on my Emphatitties](https://open.spotify.com/track/6hQg3WCqKPQU2xDeIo8bSZ) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Sucking On My Emphatitties](https://open.spotify.com/album/36XCaRSwFDrevxYT0Ds5P2) | 4:29 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 43 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 |
 | 44 | [Press Start](https://open.spotify.com/track/4pck65SOM36F2TbrJk43vK) | [Vinci](https://open.spotify.com/artist/50XXm4ZNR0nbbdzkYSRKyy) | [Press Start](https://open.spotify.com/album/7cusNw4wo5HW2FVGYf6R4M) | 2:52 |
 | 45 | [SHEIZE](https://open.spotify.com/track/17TWvzQYJ06qFSGGiDymJ7) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [SHEIZE](https://open.spotify.com/album/4hsv4HmLrmxfAsxex8ruWo) | 2:07 |
-| 46 | [Als een god](https://open.spotify.com/track/1jmkrJc0WDxqYvUEiHonK5) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Als Een God](https://open.spotify.com/album/4RtGP0GnPaUNegRPe5uoOh) | 2:21 |
+| 46 | [Als Een God](https://open.spotify.com/track/1jmkrJc0WDxqYvUEiHonK5) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Als Een God](https://open.spotify.com/album/4RtGP0GnPaUNegRPe5uoOh) | 2:21 |
 | 47 | [Higher](https://open.spotify.com/track/48NfUHnev220oXkWJPzoAH) | [Sophia Habib](https://open.spotify.com/artist/41faFcJ3vEYQxlztlOs8Le) | [Higher](https://open.spotify.com/album/35WlmdmjfGPO1Xe2z20wv2) | 2:14 |
 | 48 | [À la folie](https://open.spotify.com/track/33U4juEKn8F0ROZNvafqIW) | [Coline Blf](https://open.spotify.com/artist/1XDyP487Btx5DKzhE2jNjT) | [À la folie](https://open.spotify.com/album/0zAbDBnZ0BoHseaAb6eeit) | 3:42 |
 | 49 | [SOUS L'EAU](https://open.spotify.com/track/7BA7Lwnyy3zEVHSANofGEq) | [16 JAY](https://open.spotify.com/artist/4n3F8t4TdDvqw30uBFprxC), [Kanabo OG](https://open.spotify.com/artist/1ZqPKlBW1Ir1bLJTfHRAPI) | [SANCTUARY](https://open.spotify.com/album/2JruorNm6J36po0wf0EkfQ) | 2:40 |

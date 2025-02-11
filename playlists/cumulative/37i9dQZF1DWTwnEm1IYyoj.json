@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 230880,
       "name": "Control",
       "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
@@ -2658,6 +2676,28 @@
       "duration_ms": 286426,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+    },
+    {
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "album": {
@@ -3202,7 +3242,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
@@ -4112,7 +4152,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -4286,7 +4326,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
@@ -4658,7 +4698,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 253813,
       "name": "No One",
       "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
@@ -5670,7 +5710,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
@@ -5688,7 +5728,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
@@ -6032,7 +6072,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -6300,7 +6340,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
@@ -6354,7 +6394,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
@@ -7187,6 +7227,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -7220,10 +7278,28 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 269600,
       "name": "What About Us",
       "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {
@@ -7570,7 +7646,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 257186,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 250766,
+  "num_followers": 250786,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAAVXpqIf7PfZuV6WoUxksI9",
+  "snapshot_id": "Z6fwAAAAAAA4OBQuLJWzP6jvJFjT8T/A",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 223347,
-      "name": "There Was Jesus",
-      "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 223347,
+      "name": "There Was Jesus",
+      "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockstar (Deluxe)",
+        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 339322,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 226520,
       "name": "Lookin' for You (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rockstar (Deluxe)",
-        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 339322,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
     },
     {
       "added_at": null,

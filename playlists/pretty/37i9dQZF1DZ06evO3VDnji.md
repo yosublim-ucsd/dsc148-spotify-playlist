@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,180 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,216 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 31 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
 | 32 | [Falsos Sentimientos](https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 4:46 |
 | 33 | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:53 |
-| 34 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
-| 35 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
+| 34 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
+| 35 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
 | 36 | [Viaje de Amor](https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 5:10 |
 | 37 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
 | 38 | [ATRAPADO](https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 50 | [Belico Enamorado](https://open.spotify.com/track/3m2APnVmde1UJticK2IlY4) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo) | 3:08 |
 | 51 | [Respuestas](https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 4:19 |
 
-Snapshot ID: `Z6aegAAAAABmU/dENCK+DsuHlQ23LNww`
+Snapshot ID: `Z6fwAAAAAAAuXoJJ8HIYe2PdgzQGQvT1`

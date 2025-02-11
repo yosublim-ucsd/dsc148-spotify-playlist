@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening pop that feels sunny wherever you are
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,471 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,651 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 52 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 53 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
 | 54 | [I'm Alive](https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 3:30 |
-| 55 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
-| 56 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
+| 55 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
+| 56 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |
 | 57 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 58 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 59 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 66 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 67 | [There She Goes](https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 2:44 |
 | 68 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
-| 69 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
-| 70 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
+| 69 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
+| 70 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 71 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
 | 72 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
 | 73 | [Amber](https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [From Chaos](https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1) | 3:26 |
 | 74 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
-| 75 | [Our Day Will Come](https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:49 |
+| 75 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 |
 
 Snapshot ID: `ZpFmQAAAAADE0GhDN2VpDR2oobxg7YmW`

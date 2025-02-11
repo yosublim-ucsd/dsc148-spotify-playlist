@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-152 songs - 7 hr 10 min
+153 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Atomos Atmos](https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX) | [Claudette Bernard](https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9) | [Atomos Atmos](https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc) | 3:44 | 2023-10-26 |  |
 | [Aurora](https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Aurora](https://open.spotify.com/album/6YHmqQCu7irYJFGaUSjK3j) | 2:54 | 2025-01-15 |  |
 | [Awavey](https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Awavey](https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS) | 2:35 | 2024-10-09 |  |
-| [Balanced Tides](https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Balanced Tides](https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W) | 2:22 | 2025-01-15 |  |
+| [Balanced Tides](https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Balanced Tides](https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W) | 2:22 | 2025-01-15 | 2025-02-11 |
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-10-23 |  |
 | [Blue Horizon](https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc) | [Frederic Stelliard](https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc) | [Blue Horizon](https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz) | 2:39 | 2024-10-09 |  |
 | [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 | 2024-07-09 |
@@ -87,6 +87,7 @@
 | [Midnight Shoreline](https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Midnight Shoreline](https://open.spotify.com/album/1E0JXRIEt2SeGocrN2ZIpL) | 2:40 | 2023-10-23 |  |
 | [Mindful Swell](https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mindful Swell](https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP) | 2:16 | 2024-06-03 | 2024-08-13 |
 | [Morning Waves](https://open.spotify.com/track/1rECiVNfP8569A717vmLe1) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Morning Waves](https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT) | 2:52 | 2024-03-20 |  |
+| [Night Waves](https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Night Waves](https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV) | 3:44 | 2025-01-15 |  |
 | [Oasis](https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:07 | 2023-10-23 | 2024-11-21 |
 | [Obscure Ocean](https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Obscure Ocean](https://open.spotify.com/album/3d2kKnsb4KIGKDjWlOuXVo) | 2:28 | 2024-02-06 | 2024-12-21 |
 | [Ocean](https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 2:36 | 2023-10-23 |  |
@@ -135,7 +136,7 @@
 | [Soothing Beach](https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz) | [Eshe Fajah](https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz) | [Soothing Beach](https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII) | 2:22 | 2023-10-23 | 2025-02-10 |
 | [Soothing Waves](https://open.spotify.com/track/44pymRZAgj5Tqx1D4LNB3L) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [Soothing Waves](https://open.spotify.com/album/3kPehnBJFJSeIYdb2OWd5s) | 2:31 | 2023-10-23 | 2024-09-01 |
 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-10-23 |  |
-| [Spectrum](https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014) | [Yogovic](https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3) | [Spectrum](https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5) | 2:16 | 2024-02-06 |  |
+| [Spectrum](https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014) | [Yogovic](https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3) | [Spectrum](https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5) | 2:16 | 2024-02-06 | 2025-02-11 |
 | [Summer Hibernation](https://open.spotify.com/track/69xIKC9AS1D5BXBXIun0Rb) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Summer Hibernation](https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf) | 3:06 | 2023-10-23 |  |
 | [Sunayama Waves](https://open.spotify.com/track/5CDCVLx37JUz3TNkmzxxZk) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sunayama Waves](https://open.spotify.com/album/1P1b2rr8ePh6iGxy2brHv7) | 2:46 | 2024-07-08 |  |
 | [Sunrise Wave](https://open.spotify.com/track/3fgKG6Zl8L7dFIThSlHfbY) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Sunrise Wave](https://open.spotify.com/album/6EyvIKH2rr6umpHpbe4Lso) | 2:47 | 2023-10-23 |  |
@@ -159,6 +160,6 @@
 | [Waves of Serenity](https://open.spotify.com/track/04wDZI7XuCjGicazG046t9) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Waves of Serenity](https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf) | 2:21 | 2025-01-15 |  |
 | [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 | 2023-10-23 |  |
 | [Wind of Serenity](https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Wind of Serenity](https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn) | 2:40 | 2024-03-01 | 2024-10-10 |
-| [Zen \(Sound Bath\)](https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Zen \(Sound Bath\)](https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT) | 3:23 | 2023-11-24 | 2025-01-27 |
+| [Zen \(Sound Bath\)](https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Zen \(Sound Bath\)](https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT) | 3:23 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2023-10-24. Prior content cannot be recovered.

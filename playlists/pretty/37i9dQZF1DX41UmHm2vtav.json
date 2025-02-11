@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 479037,
+  "num_followers": 479151,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Sorri, Sou Rei (KVSH Remix)",
+        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Sorri, Sou Rei (KVSH Remix)",
+      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 186680,
       "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
       "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Sorri, Sou Rei (KVSH Remix)",
-        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 217678,
-      "name": "Sorri, Sou Rei (KVSH Remix)",
-      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        },
+        {
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        },
-        {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
-        }
-      ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
     },
     {
       "added_at": "2025-02-07 03:01:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,379 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,416 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 20 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 21 | [Nie ein Rapper](https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Saad](https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e) | [Carlo Cokxxx Nutten II \(Saad\)](https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto) | 4:02 |
 | 22 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 |
-| 23 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
-| 24 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
+| 23 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
+| 24 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
 | 25 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
 | 26 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 | 27 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 46 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
 | 47 | [Safari](https://open.spotify.com/track/5IdPCWPtBLLC6cSxP4BZGm) | [Blumentopf](https://open.spotify.com/artist/3aVwqkJqkpiRLbM0dVqOz6) | [Großes Kino](https://open.spotify.com/album/3DGtfZr0LuTO6zDMyCUscU) | 4:08 |
 | 48 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
-| 49 | [Höha, schnella, weita](https://open.spotify.com/track/5YUNatsZEDeY3SYPEaFjs3) | [Rödelheim Hartreim Projekt](https://open.spotify.com/artist/40VZtOKdJ2J5KzjCBUhQpJ), [Moses Pelham](https://open.spotify.com/artist/00DSCauOVv9bIKe8bGWSTG) | [Zurück nach Rödelheim \(3p Master Edition\)](https://open.spotify.com/album/3Rx70sfKqGTwnUwCSLciRb) | 5:01 |
+| 49 | [Hey Du!](https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 4:10 |
 | 50 | [Gustav Gans](https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Blast Action Heroes](https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo) | 3:32 |
 
 Snapshot ID: `Z1beeAAAAACNHUpVsJXWxRyv3Rdp5I9k`

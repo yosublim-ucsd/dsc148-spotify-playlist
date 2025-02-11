@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: Mazey Haze
 
-273 songs - 15 hr 49 min
+274 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Pavement](https://open.spotify.com/track/3SLpYifPLNbact2miciz7A) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Pavement](https://open.spotify.com/album/2MWSw8tBvNWIXURHKT6ai0) | 3:05 | 2025-01-16 |  |
 | [Peaceful Now](https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Peaceful Now](https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN) | 2:33 | 2024-10-03 | 2024-10-24 |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2024-07-11 | 2024-09-20 |
+| [Pedestal](https://open.spotify.com/track/1ZqOTdaUlWfFGCUV4iSvaG) | [Uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [ANGELO](https://open.spotify.com/album/0ohRzM34Qb9DneeA0pV70L) | 3:55 | 2025-02-10 |  |
 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 | 2025-01-06 |  |
 | [perfume](https://open.spotify.com/track/1efpLeEhZoX202uzuCoT7F) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [bluey](https://open.spotify.com/album/19K1kvE8m1DjWPfXOwFCcZ) | 1:42 | 2024-06-24 | 2024-09-06 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-10-23 | 2024-11-15 |

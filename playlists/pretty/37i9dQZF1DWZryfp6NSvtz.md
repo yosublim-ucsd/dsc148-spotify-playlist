@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,697 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,734 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

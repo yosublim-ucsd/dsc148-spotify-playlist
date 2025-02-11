@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,602 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,682 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 41 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
 | 42 | [Es la Mujer](https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 2:58 |
 | 43 | [Yo Nací para Amarte](https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:26 |
-| 44 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
-| 45 | [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 |
+| 44 | [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 |
+| 45 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
 | 46 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
 | 47 | [Mentirosos](https://open.spotify.com/track/5P00gBfGxu2SyAD0M8yAMn) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 3:18 |
 | 48 | [Se Me Va la Voz \(feat\. Alejandro Fernández\)](https://open.spotify.com/track/5ylcXem4LXLoWgSlNgaVSl) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Oblígame](https://open.spotify.com/album/5JPdCMOzCQS4gU1juHqZB5) | 3:17 |
 | 49 | [No Es Que Me Quiera Ir](https://open.spotify.com/track/6D0BBt7Rr25q0iAAafdCq3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Es Que Me Quiera Ir](https://open.spotify.com/album/0cIyRV5u303lYQM2QWUsIl) | 4:04 |
 | 50 | [No Me Sé Rajar](https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Me Sé Rajar](https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt) | 2:25 |
-| 51 | [Mañana Es Para Siempre](https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:40 |
+| 51 | [Contigo Aprendí](https://open.spotify.com/track/1Ifm0tGm582UZuOHcfAuTM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 3:24 |
 
-Snapshot ID: `Z6aegAAAAABh39cS+5GWnW8sMAI3GBoV`
+Snapshot ID: `Z6fwAAAAAADDze9+wtTwE3z4oupEHMlq`

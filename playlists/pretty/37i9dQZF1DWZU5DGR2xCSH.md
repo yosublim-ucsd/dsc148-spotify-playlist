@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,103 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,121 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 6 | [En La Ciudad De La Furia \- Remasterizado 2007](https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:46 |
 | 7 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 |
 | 8 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
-| 9 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
-| 10 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 9 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 10 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 11 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 12 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 13 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |

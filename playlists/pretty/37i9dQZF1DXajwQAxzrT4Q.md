@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,353 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,369 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 71 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 72 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
 | 73 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
-| 74 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
+| 74 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
 | 75 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
 
 Snapshot ID: `Z5eh7AAAAABnVuvZ08iDg8/Yllx0MBle`

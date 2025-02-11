@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 163857,
+  "num_followers": 163894,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "\u00d3leos",
         "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 230640,
       "name": "Eres",
       "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bulevar 2000 (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "I Count the Ways",
-      "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "All U Need Is Mosh",
         "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 369866,
       "name": "Paso Fino",
       "url": "https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bulevar 2000 (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "I Count the Ways",
+      "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Rey Pila",
-        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 205346,
-      "name": "No Longer Fun",
-      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+      "duration_ms": 244933,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+        "name": "Rey Pila",
+        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Al\u00f3",
-      "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
+      "duration_ms": 205346,
+      "name": "No Longer Fun",
+      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Run... The Sun Is Burning All Your Hopes",
-        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Lejos. No Tan Lejos",
         "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 212014,
       "name": "Un A\u00f1o Quebrado",
       "url": "https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Run... The Sun Is Burning All Your Hopes",
+        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248645,
+      "name": "Me Has Olvidado",
+      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Sistema Solar",
         "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 280083,
       "name": "Dias Perfectos",
       "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248645,
-      "name": "Me Has Olvidado",
-      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
-        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
-      },
-      "artists": [
-        {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
-        }
-      ],
-      "duration_ms": 277626,
-      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
-      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Los Super Elegantes Ep",
         "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 225026,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
+        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "duration_ms": 277626,
+      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
+      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 191520,
       "name": "Curse the Space",
       "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Seminuevo de Manzana",
-        "url": "https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd"
+        "name": "The Future Sugar",
+        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
       },
       "artists": [
         {
-          "name": "La Banderville",
-          "url": "https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 195893,
-      "name": "A la Distancia",
-      "url": "https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ"
+      "duration_ms": 210000,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "The Future Sugar",
-        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
+        "name": "El Seminuevo de Manzana",
+        "url": "https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "La Banderville",
+          "url": "https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Alexander",
-      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
+      "duration_ms": 195893,
+      "name": "A la Distancia",
+      "url": "https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ"
     },
     {
       "added_at": "2023-09-01 16:42:45",

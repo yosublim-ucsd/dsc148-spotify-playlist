@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 
 > Relax with these seriously laid\-back classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,142 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,217 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 11 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 12 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 | 13 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
-| 14 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
-| 15 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 16 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
+| 14 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 15 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
+| 16 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 |
 | 17 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
-| 18 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 |
+| 18 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 19 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
 | 20 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 21 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 23 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 24 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
 | 25 | [My Sweet Lord \(2014 Remaster\)](https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 4:41 |
-| 26 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
-| 27 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 26 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 27 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 28 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
-| 29 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
-| 30 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
+| 29 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
+| 30 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
 | 31 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 32 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 |
 | 33 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |

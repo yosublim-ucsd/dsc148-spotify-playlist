@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 196235,
       "name": "(K)no(w) Better",
       "url": "https://open.spotify.com/track/23jEUEJ8S4S5w9ULfKGQxP"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 253768,
       "name": "Flowers In Mourning",
       "url": "https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy"
@@ -3485,6 +3485,32 @@
     },
     {
       "album": {
+        "name": "Hey Girl (s)",
+        "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Hey Girl(s)",
+      "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
+    },
+    {
+      "album": {
         "name": "Hey Papi",
         "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
       },
@@ -3806,6 +3832,24 @@
       "duration_ms": 302240,
       "name": "How Much Can A Heart Take (feat. Yebba)",
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
+    },
+    {
+      "album": {
+        "name": "How to Love",
+        "url": "https://open.spotify.com/album/1FcXtMTP3QAlVA357yLiTi"
+      },
+      "artists": [
+        {
+          "name": "Secret Night Gang",
+          "url": "https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267924,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/5W7swlOzVO10vcOj0AIfcH"
     },
     {
       "album": {
@@ -5726,7 +5770,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 168231,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7njHcOQdmC3YVk9eIrL4dQ"
@@ -5978,7 +6022,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 265386,
       "name": "Nothing Sweeter",
       "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
@@ -7507,6 +7551,28 @@
     },
     {
       "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/6kI8GW4FwRhC8sOfBMFB7G"
+      },
+      "artists": [
+        {
+          "name": "Carbonara Collective",
+          "url": "https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6"
+        },
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193248,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/717MlEWMwPnrTCMRywsxk4"
+    },
+    {
+      "album": {
         "name": "Simple Love Songs - Extended Version",
         "url": "https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop"
       },
@@ -8304,6 +8370,24 @@
       "duration_ms": 171608,
       "name": "Sweet Distraction",
       "url": "https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml"
+    },
+    {
+      "album": {
+        "name": "Sweet Soul",
+        "url": "https://open.spotify.com/album/4d2fYHE8sKPnav2wq9UWwh"
+      },
+      "artists": [
+        {
+          "name": "Wynonna Stoov\u00e9",
+          "url": "https://open.spotify.com/artist/2hkNEGnoTog2IQbOFxqixP"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213374,
+      "name": "Sweet Soul - Single Edit",
+      "url": "https://open.spotify.com/track/5dUB4PYGyQVWxozyciJs1U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,158 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,162 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 11 | [As If It's Your Last](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) | 3:33 |
 | 12 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 |
 | 13 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
-| 14 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
-| 15 | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:31 |
+| 14 | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:31 |
+| 15 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 16 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
 | 17 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 18 | [Blood // Water](https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood // Water](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy) | 3:36 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 36 | [worldstar money \(interlude\)](https://open.spotify.com/track/4jyC2FscjLBNQTMf2xR9dq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues](https://open.spotify.com/album/2W7Uy4FEXehCmjfiJuS0IG) | 2:06 |
 | 37 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 |
 | 38 | [Mineblox \(Minecraft Vs Roblox\)](https://open.spotify.com/track/72dUlDP0ciUgEJ7oWQjAZM) | [Ihascupquake](https://open.spotify.com/artist/528bIRswjObVG4fW1uOOJ6) | [Mineblox \(Minecraft Vs Roblox\)](https://open.spotify.com/album/6haLfNqaug7ERN8TFNtzsS) | 3:04 |
-| 39 | [Loverboy](https://open.spotify.com/track/0qXP5fMhxGzxALOkXYUxfP) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/4uObGgFhiUjJNrj298b500) | 3:44 |
-| 40 | [run it up](https://open.spotify.com/track/15Jep8KZPX10QnFSBZwkGx) | [Dolo](https://open.spotify.com/artist/4lKYjTdFlA2qUtIWDOFNyH) | [dolotapes, Pt\. 1](https://open.spotify.com/album/3GHbQCg9TKW86KsXH9Vp7S) | 1:41 |
+| 39 | [run it up](https://open.spotify.com/track/15Jep8KZPX10QnFSBZwkGx) | [Dolo](https://open.spotify.com/artist/4lKYjTdFlA2qUtIWDOFNyH) | [dolotapes, Pt\. 1](https://open.spotify.com/album/3GHbQCg9TKW86KsXH9Vp7S) | 1:41 |
+| 40 | [Loverboy](https://open.spotify.com/track/0qXP5fMhxGzxALOkXYUxfP) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/4uObGgFhiUjJNrj298b500) | 3:44 |
 | 41 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 42 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 |
 | 43 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 |

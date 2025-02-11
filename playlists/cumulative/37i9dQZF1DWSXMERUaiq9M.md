@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-444 songs - 1 day 4 hr 16 min
+445 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 | 2025-01-25 |
 | [Bam Oida](https://open.spotify.com/track/2oNEsIYiF665XUC0fOtYYA) | [Dj Schinkensuppe](https://open.spotify.com/artist/5HgSrauRrOxaH1tIt91d6i) | [Bam Oida](https://open.spotify.com/album/3zSrvihyiWgjQKVoGkSWMz) | 2:28 | 2024-07-04 | 2024-07-27 |
 | [Bananas](https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Bananas](https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT) | 3:11 | 2023-04-27 | 2023-05-06 |
+| [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-06 |  |
 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 | 2024-05-23 |  |
 | [Bass Up \(feat\. 666\)](https://open.spotify.com/track/07JmyNE5PImUiiqQqa2Bk5) | [RADAR](https://open.spotify.com/artist/2vSWW48mOUHkwqWZSPgcM2), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Bass Up \(feat\. 666\)](https://open.spotify.com/album/7fkdNKHZsd6Z95RFrm5E97) | 3:05 | 2024-10-10 | 2024-10-18 |
 | [Be The Only](https://open.spotify.com/track/2WkQHb5B2D2iuA8N6yuDPS) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Be The Only](https://open.spotify.com/album/5gIaxf4PYVDsJovHklrbtu) | 3:30 | 2024-12-28 | 2025-01-07 |
@@ -79,7 +80,7 @@
 | [Cowgirl](https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Cowgirl](https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ) | 3:11 | 2023-06-15 | 2023-06-23 |
 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 | 2024-06-13 | 2024-06-28 |
 | [Cut It \- Original Mix](https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [COLOR VA03](https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR) | 6:43 | 2023-06-09 | 2023-06-16 |
-| [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 |  |
+| [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 | 2025-02-11 |
 | [Da Beat Goes](https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Da Beat Goes](https://open.spotify.com/album/5zxIcrySHLJFClX3lfjBS2) | 2:24 | 2024-09-16 | 2024-10-11 |
 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 |  |
 | [Daddy's Issue](https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Daddy's Issue](https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3) | 4:37 | 2024-02-22 | 2024-03-23 |

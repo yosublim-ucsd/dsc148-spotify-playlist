@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! El Mali y Paty Cantú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,623 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,647 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 14 | [Solo Di Sí](https://open.spotify.com/track/5VA6dP1JfkfTqYkQwkVV8c) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Solo Di Sí](https://open.spotify.com/album/2aztqcna1MEXrKLQm62rc5) | 3:26 |
 | 15 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
 | 16 | [No Ha Sido Fácil](https://open.spotify.com/track/3hZqPIMJkGF7mnivtVSyFn) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [No Ha Sido Fácil](https://open.spotify.com/album/6g7AUzGI96jcoN1SftAVMN) | 2:22 |
-| 17 | [Señorita](https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Señorita](https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf) | 2:38 |
-| 18 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
+| 17 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
+| 18 | [Señorita](https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Señorita](https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf) | 2:38 |
 | 19 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 |
 | 20 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
 | 21 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
 | 22 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 |
-| 23 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 |
-| 24 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
+| 23 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
+| 24 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 |
 | 25 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
 | 26 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 |
 | 27 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |

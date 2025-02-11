@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-472 songs - 1 day 4 hr 57 min
+473 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-10-06 | 2024-10-21 |
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2023-03-20 |  |
+| [Good Wishes and Everything](https://open.spotify.com/track/0rhSC2LL96MnhUaBZoqGCJ) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Good Wishes and Everything](https://open.spotify.com/album/3BWKPVXgj5sicro4DNLwZi) | 3:30 | 2025-02-04 |  |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
 | [Grandparent's Melody](https://open.spotify.com/track/2IRlssoEcf0YbgkXGXSWha) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Grandparent's Melody](https://open.spotify.com/album/67o4PhMUEyCnpSIf6uwvTj) | 4:00 | 2024-10-15 | 2024-11-19 |
 | [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 | 2022-10-07 |
@@ -420,7 +421,7 @@
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2022-09-21 | 2023-03-21 |
 | [Those Days Would Never End](https://open.spotify.com/track/3q3BeCTFH56wbSWusGyBE0) | [Trummor & Orgel](https://open.spotify.com/artist/5wVGq0o0tqq9ZAfdbzDpzA) | [Glow](https://open.spotify.com/album/6Op0xaySOcty5w1fEyUHDH) | 3:11 | 2022-03-24 | 2022-04-21 |
 | [Three](https://open.spotify.com/track/1NhD7y5j9KHaJeZ97BTv0X) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Three](https://open.spotify.com/album/0baQFRCoX2Ghru6pQxSlv1) | 2:33 | 2022-02-17 | 2023-03-21 |
-| [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2023-03-20 |  |
+| [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2023-03-20 | 2025-02-11 |
 | [Tickled Pink](https://open.spotify.com/track/71FaCRVZuDQgO4h3qWb7Lk) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 3:01 | 2022-02-17 | 2022-04-28 |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
 | [Tip Your Hat](https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Something About Her Smile](https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl) | 3:58 | 2023-03-24 |  |

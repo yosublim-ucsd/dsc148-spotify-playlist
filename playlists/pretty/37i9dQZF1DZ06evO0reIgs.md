@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,750 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,751 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 23 | [Inverno](https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Oxigênio \(Corona Disco\)](https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2) | 4:00 |
 | 24 | [Mô\-Zaico](https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Mô\-Zaico](https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM) | 2:38 |
 | 25 | [As 25 Horas de Le Mans](https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [As 25 Horas de Le Mans](https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z) | 3:14 |
-| 26 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
-| 27 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
+| 26 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
+| 27 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
 | 28 | [Garota](https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 4:35 |
 | 29 | [Poesia Acústica Ep\. Jeri](https://open.spotify.com/track/4tnMSnDkcMj43ovIXIwdMi) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poesia Acústica Ep\. Jeri](https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi) | 4:22 |
 | 30 | [Ventania](https://open.spotify.com/track/5DpfHaySMunKnbHZlgJvzA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [O Corre](https://open.spotify.com/track/3RyyUWNovCdqfHwyDaSPvO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [O Corre](https://open.spotify.com/album/37Cr3QP2w0misrMuzvvYPx) | 3:03 |
 | 50 | [Dama da Noite](https://open.spotify.com/track/7B0HOg6L2vpFooDAls4Wed) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:20 |
 
-Snapshot ID: `Z6aegAAAAAAU56rQfheoRGdr2xVt29pa`
+Snapshot ID: `Z6fwAAAAAAB8RL5ckFIx1CK4+296JYZh`

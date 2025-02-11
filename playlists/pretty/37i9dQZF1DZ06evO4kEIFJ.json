@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 162325,
+  "num_followers": 162354,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAACU+o3r03fiUssWMGeiTW6P",
+  "snapshot_id": "Z6fwAAAAAAB3IvawkdP54dVfeGEobSYe",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "need dat boy",
-        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 172400,
-      "name": "need dat boy",
-      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
+      "duration_ms": 146005,
+      "name": "TALES OF DOMINICA",
+      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
       "duration_ms": 114893,
       "name": "Panini",
       "url": "https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "need dat boy",
+        "url": "https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "need dat boy",
+      "url": "https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy"
     },
     {
       "added_at": null,
@@ -238,27 +254,15 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 146005,
-      "name": "TALES OF DOMINICA",
-      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUN GOES DOWN",
-        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
-      },
-      "artists": [
+        },
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 168275,
-      "name": "SUN GOES DOWN",
-      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+      "duration_ms": 174164,
+      "name": "SCOOP (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
     },
     {
       "added_at": null,
@@ -279,6 +283,22 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUN GOES DOWN",
+        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "SUN GOES DOWN",
+      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
     },
     {
       "added_at": null,
@@ -306,15 +326,27 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 174164,
-      "name": "SCOOP (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
+      "duration_ms": 130925,
+      "name": "DONT WANT IT",
+      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "C7osure (You Like)",
+      "url": "https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma"
     },
     {
       "added_at": null,
@@ -335,22 +367,6 @@
       "duration_ms": 180666,
       "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "C7osure (You Like)",
-      "url": "https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma"
     },
     {
       "added_at": null,
@@ -382,11 +398,31 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 130925,
-      "name": "DONT WANT IT",
-      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
+      "duration_ms": 183241,
+      "name": "AM I DREAMING (feat. Miley Cyrus)",
+      "url": "https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 141986,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
     },
     {
       "added_at": null,
@@ -411,42 +447,6 @@
       "duration_ms": 151839,
       "name": "light! (with Lil Nas X & 9lives)",
       "url": "https://open.spotify.com/track/3WuWoY8tx0ySmCd5ErgEiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 141986,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 183241,
-      "name": "AM I DREAMING (feat. Miley Cyrus)",
-      "url": "https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8"
     }
   ],
   "unique_name": "This Is Lil Nas X",

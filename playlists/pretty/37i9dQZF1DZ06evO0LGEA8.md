@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,872 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,013 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 21 | [De Mexico Song](https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Mexico Song](https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy) | 3:33 |
 | 22 | [Hasta Donde Se Pueda](https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:45 |
 | 23 | [MI Necesidad](https://open.spotify.com/track/5I6FABuflROqF98yBr3Qlz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 5:15 |
-| 24 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 |
-| 25 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 |
+| 24 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 |
+| 25 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 |
 | 26 | [Si Tuviera una Fortuna](https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:16 |
 | 27 | [Liga Malandra 2](https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Unex Msc](https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX) | [Liga Malandra 2](https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ) | 4:00 |
 | 28 | [Como Borrar Tus Besos](https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Seguimos Fumando](https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 49 | [Caramelo](https://open.spotify.com/track/4CsFaJKLoZX16bWgpv8Q6P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 4:14 |
 | 50 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
 
-Snapshot ID: `Z6aegAAAAAD4rjtLNi1vq+knRHB9/srm`
+Snapshot ID: `Z6fwAAAAAABMx3KZmjuvWJl8l/J7+SVT`

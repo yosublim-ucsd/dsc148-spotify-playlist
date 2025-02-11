@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.
+> All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Moana 2.
 
 223 songs - 11 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,426 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,459 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 55 | [In A Sentimental Mood](https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:57 |
 | 56 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
 | 57 | [Beware My Heart](https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 5:08 |
-| 58 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
-| 59 | [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 |
+| 58 | [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 |
+| 59 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
 | 60 | [After You've Gone](https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [At The End Of The Day](https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs) | 4:22 |
 | 61 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
 | 62 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 84 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
 | 85 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 86 | [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 |
-| 87 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 |
-| 88 | [Too Young To Go Steady \- Remastered 2001](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights \(Remastered 2001\)](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:54 |
+| 87 | [Too Young To Go Steady \- Remastered 2001](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights \(Remastered 2001\)](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:54 |
+| 88 | [He Was Too Good To Me](https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [When Your Heart's On Fire](https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF) | 3:45 |
 | 89 | [I'm Gonna Laugh You Out of My Life](https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:40 |
 | 90 | [How Could You](https://open.spotify.com/track/5bXjwGL7zwsokVQHN8hhLh) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [How Could You](https://open.spotify.com/album/0qY5Zfzo9OyXobt1JJgSKH) | 4:53 |
 

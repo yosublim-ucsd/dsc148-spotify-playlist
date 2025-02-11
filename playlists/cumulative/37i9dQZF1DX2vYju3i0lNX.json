@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 182733,
       "name": "Above All",
       "url": "https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV"
@@ -3510,6 +3510,24 @@
       "duration_ms": 163590,
       "name": "Chimes",
       "url": "https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/4UrtLRXbDkRV626LHivgVQ"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245221,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0CaKn04Yi6cu4sK8chFXFN"
     },
     {
       "album": {
@@ -9718,7 +9736,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 203828,
       "name": "Lament of the Heart",
       "url": "https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR"
@@ -11111,6 +11129,24 @@
     },
     {
       "album": {
+        "name": "Madeleine",
+        "url": "https://open.spotify.com/album/5A1F6qQLDLTWRQqcMdC7BV"
+      },
+      "artists": [
+        {
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201997,
+      "name": "Madeleine",
+      "url": "https://open.spotify.com/track/10eWBjPakFgyhcXzC3pNYf"
+    },
+    {
+      "album": {
         "name": "Maia Oh Maia",
         "url": "https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ"
       },
@@ -11122,7 +11158,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 235575,
       "name": "Maia Oh Maia",
       "url": "https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4"
@@ -12886,7 +12922,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 271285,
       "name": "No More Tears For You",
       "url": "https://open.spotify.com/track/3J4kIyu50l25eYOgYdobCR"
@@ -15662,7 +15698,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 235221,
       "name": "Something Is Off",
       "url": "https://open.spotify.com/track/2kBY2bMjKdRSWbu3zhh2Ap"
@@ -17156,7 +17192,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 225633,
       "name": "The Folks Who Live On The Hill",
       "url": "https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL"
@@ -18802,6 +18838,24 @@
       "duration_ms": 257566,
       "name": "Unending",
       "url": "https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ"
+    },
+    {
+      "album": {
+        "name": "Unforgettable Moments",
+        "url": "https://open.spotify.com/album/3fX7twz5mzDXlbTerEPXSv"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Unforgettable Moments",
+      "url": "https://open.spotify.com/track/2DSHoCUCRaj8RcybcfxFJl"
     },
     {
       "album": {

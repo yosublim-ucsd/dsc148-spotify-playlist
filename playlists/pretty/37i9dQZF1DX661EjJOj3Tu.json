@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 520035,
+  "num_followers": 520060,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "El Cervatillo",
-        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 307519,
-      "name": "El Cervatillo",
-      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "The Best Of Paquito D'Rivera",
         "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 291733,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "El Cervatillo",
+        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 307519,
+      "name": "El Cervatillo",
+      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 320480,
       "name": "Solo Esta Soledad",
       "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Que Ser\u00e1",
-        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Munir Hossn",
-          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Que Ser\u00e1",
-      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -967,6 +947,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Que Ser\u00e1",
+        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Munir Hossn",
+          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Que Ser\u00e1",
+      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Keeper Of The Flame",
         "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 247693,
       "name": "A Night In Tunisia",
       "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1003,38 +1019,6 @@
       "duration_ms": 233483,
       "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
       "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
-        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
-      },
-      "artists": [
-        {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Catin Latin",
-      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+        "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
+        "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Dave Pike",
+          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
         }
       ],
-      "duration_ms": 152266,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
+      "duration_ms": 289306,
+      "name": "Catin Latin",
+      "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 406400,
       "name": "Sweet Cherry Pie",
       "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/00oidtJOyyPgGHrw0CI034"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
-      },
-      "artists": [
-        {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
-        }
-      ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Havana Nocturne (Latin Jazz Vocal)",
         "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 243635,
       "name": "Amarte",
       "url": "https://open.spotify.com/track/5aoMszskF65IOspLeZnmIC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+      },
+      "artists": [
+        {
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+        }
+      ],
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "El Grito - Suite para Orquesta de Jazz",
+        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
+      },
+      "artists": [
+        {
+          "name": "Jorge L\u00f3pez Ruiz",
+          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
+        }
+      ],
+      "duration_ms": 376546,
+      "name": "El Grito",
+      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "A Arte de Viver",
         "url": "https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1uyZTB0xrmqxwbxxvstFZp"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "El Grito - Suite para Orquesta de Jazz",
-        "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
-      },
-      "artists": [
-        {
-          "name": "Jorge L\u00f3pez Ruiz",
-          "url": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf"
-        }
-      ],
-      "duration_ms": 376546,
-      "name": "El Grito",
-      "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 198783,
+      "name": "JazzT\u00f3n",
+      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 334746,
       "name": "Sonic Anomaly",
       "url": "https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 198783,
-      "name": "JazzT\u00f3n",
-      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 269480,
       "name": "I'll Call You Later",
       "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2024-07-26 04:00:00",

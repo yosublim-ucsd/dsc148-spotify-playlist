@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: <br/>ALL\(H\)OURS\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: <br/>EVNNE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-649 songs - 1 day 11 hr 49 min
+650 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Graduation Day](https://open.spotify.com/track/1vvewlmtfPsBxEAA1UIXPw) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Graduation Day](https://open.spotify.com/album/57g5zmujXL2trR2lzBAe5e) | 3:14 | 2024-02-05 | 2024-02-27 |
 | [Gravity](https://open.spotify.com/track/4HgkahWUngIceLYNV1djsr) | [TREI](https://open.spotify.com/artist/2olRUnJBxMWrHpShDSwYoe) | [BORN](https://open.spotify.com/album/4yFUqAksHb5fEogC57WDxP) | 3:12 | 2022-03-31 | 2022-04-10 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
-| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 |  |
+| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2025-02-11 |
 | [H! TEEN](https://open.spotify.com/track/1hYMSd05OHbOSjQ3aWh0g4) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Our : YouthTeen](https://open.spotify.com/album/6oYjYDCYOXcPUBc7nk9Gto) | 2:59 | 2024-02-14 | 2024-02-27 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 | 2024-04-19 |
 | [Happy &](https://open.spotify.com/track/4BSI3iOdmxln8gOjatYJhD) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 2nd MINI ALBUM 'Happy &'](https://open.spotify.com/album/0zeyYNgBaggs3d0AT8lGO4) | 3:09 | 2024-02-26 | 2024-03-06 |
@@ -273,6 +273,7 @@
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
+| [HOT MESS](https://open.spotify.com/track/03Yzb3GUh2MVFxszy3Jxc7) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [HOT MESS](https://open.spotify.com/album/2U6efTBBp34Zny6jzog79K) | 2:27 | 2025-02-10 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2024-09-13 |
 | [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 | 2025-01-08 |  |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
@@ -376,7 +377,7 @@
 | [Make it](https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [MUST](https://open.spotify.com/album/1dbp3aJzOuyRfGHLUJZqT1) | 2:59 | 2021-12-08 | 2022-07-27 |
 | [Make It Right](https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:46 | 2021-12-08 | 2022-07-29 |
 | [Make You Shine](https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Pokémon \| Make You Shine](https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j) | 3:19 | 2024-10-25 | 2024-11-06 |
-| [Mama Said](https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG) | 2:56 | 2025-01-20 |  |
+| [Mama Said](https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG) | 2:56 | 2025-01-20 | 2025-02-11 |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-12 | 2022-09-17 |
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2022-01-17 | 2022-06-01 |
 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 | 2022-01-12 | 2022-04-04 |
@@ -485,7 +486,7 @@
 | [ROAR](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 8th MINI ALBUM \[BE AWAKE\]](https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5) | 3:40 | 2023-02-20 | 2023-04-20 |
 | [Rock Paper Scissors](https://open.spotify.com/track/2CBxNlZM8H88AKLDQPX07q) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [AWESOME UP!](https://open.spotify.com/album/0I9uhsE8bSIEU3Jf2PeDDP) | 3:10 | 2022-03-22 | 2022-04-14 |
 | [ROCK THANG](https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [Kick\-START](https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy) | 3:02 | 2024-04-24 | 2024-05-10 |
-| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 | 2025-02-10 |
+| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2023-04-30 | 2023-05-10 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 |  |
 | [RPM](https://open.spotify.com/track/7b8ZfUQRsc5ebULhUgCyck) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RPM](https://open.spotify.com/album/3QljHmM1wr3KJ4fLEWFOHx) | 3:21 | 2022-03-22 | 2022-04-08 |

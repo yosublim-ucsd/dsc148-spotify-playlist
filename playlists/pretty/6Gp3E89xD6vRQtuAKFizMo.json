@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44201,
+  "num_followers": 44202,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
@@ -59,7 +59,7 @@
     {
       "added_at": "2025-01-31 15:29:18",
       "album": {
-        "name": "My Life (ft. Swae Lee & PnB Rock)",
+        "name": "My Life (ft. Swae Lee & PnB Rock, KABU)",
         "url": "https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M"
       },
       "artists": [
@@ -78,10 +78,14 @@
         {
           "name": "PnB Rock",
           "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "KABU",
+          "url": "https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA"
         }
       ],
       "duration_ms": 168387,
-      "name": "My Life (ft. Swae Lee & PnB Rock)",
+      "name": "My Life (ft. Swae Lee & PnB Rock, KABU)",
       "url": "https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b"
     },
     {

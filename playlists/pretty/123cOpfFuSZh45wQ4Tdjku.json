@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 883,
+  "num_followers": 885,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "maple",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAABUHuh3FPx9THJc0AlGWrFWFS95nX7",
+  "snapshot_id": "AAABUhYfuZWp7B1I/1zNMvlE1agElB2a",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -5087,6 +5087,38 @@
       "duration_ms": 187583,
       "name": "CYBERNETIC HEART - Instrumental",
       "url": "https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7"
+    },
+    {
+      "added_at": "2025-02-10 08:14:34",
+      "album": {
+        "name": "Good Old Green Days",
+        "url": "https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Good Old Green Days",
+      "url": "https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah"
+    },
+    {
+      "added_at": "2025-02-10 08:14:42",
+      "album": {
+        "name": "Good Old Green Days",
+        "url": "https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Good Old Green Days (Slappy Hours Mix)",
+      "url": "https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof"
     }
   ],
   "unique_name": "My favourite furry songs",

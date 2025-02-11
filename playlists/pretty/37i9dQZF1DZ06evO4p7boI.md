@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,453 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,449 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 47 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 |
 | 48 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 |
 | 49 | [Interstellar \(with Lil Uzi Vert\)](https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:44 |
-| 50 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 |
-| 51 | [Taking Chances](https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:06 |
+| 50 | [Taking Chances](https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:06 |
+| 51 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 |
 
-Snapshot ID: `Z6aegAAAAAA3AqCqvkybkKG8hjd4Eqvz`
+Snapshot ID: `Z6fwAAAAAAAiC1UgCX3SDtf02glTVeVA`

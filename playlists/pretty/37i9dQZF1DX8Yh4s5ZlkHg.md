@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Yh4s5ZlkHg.md) - [plain]
 
 > Intimate, sultry, satisfying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,069 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,095 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Yh4s5ZlkHg.md) - [plain]
 | 17 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
 | 18 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 |
 | 19 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
-| 20 | [Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 3:49 |
-| 21 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 |
+| 20 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 |
+| 21 | [Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 3:49 |
 | 22 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 |
 | 23 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
 | 24 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |

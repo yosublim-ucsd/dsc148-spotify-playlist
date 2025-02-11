@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Vicky & Rumman Ahmed
 
-993 songs - 2 day 5 hr 32 min
+994 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Addiction](https://open.spotify.com/track/0DnFtj3aBIRyDix0Y3lg9v) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:55 | 2022-09-20 | 2022-12-16 |
 | [Addiction](https://open.spotify.com/track/7ezpJeI9SGZIFKUuVtCG54) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [DJ Prodiigy](https://open.spotify.com/artist/6oM8rsauPkS4qGGClTv5F4), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Addiction](https://open.spotify.com/album/3XA6nulTKCmLSmnGeF8nf7) | 2:43 | 2022-12-13 | 2023-01-20 |
 | [Adhi Raat \- From "Love Thunder"](https://open.spotify.com/track/1aSnOIDf1IxVuSDNWmDkff) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Adhi Raat \(From "Love Thunder"\)](https://open.spotify.com/album/47vOI472akK6HkuR3Odtn5) | 3:33 | 2022-09-16 | 2023-02-02 |
+| [Admirer](https://open.spotify.com/track/6OFpUesdplq0jslk42Hyp4) | [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ), [Amber](https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS) | [\(Un\)broken](https://open.spotify.com/album/5pRVhkJ1PotLcBti9pvV5R) | 3:09 | 2025-02-10 |  |
 | [Adore](https://open.spotify.com/track/2ogIlGih34reZmi1nfQxYx) | [Lally](https://open.spotify.com/artist/3YYh5TbqqaWfCxzpMGhjjV), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ) | [Adore](https://open.spotify.com/album/75ERC1GXO6y7gY7H0pbVjy) | 2:50 | 2024-03-27 | 2024-07-19 |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [Adore You](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 | 2023-02-04 |
@@ -884,7 +885,7 @@
 | [Tere Bina](https://open.spotify.com/track/47G3rE1gZFI4BjEcvIsrWf) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 4:04 | 2022-05-06 | 2022-05-20 |
 | [TERE BINA](https://open.spotify.com/track/1lpICxQ99AvgSa3ubsqblS) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:16 | 2023-08-21 | 2024-04-06 |
 | [Tere Bina \(from Lover\)](https://open.spotify.com/track/7Fg62PrzBj5otaOXJ1APtJ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Tere Bina \(from Lover\)](https://open.spotify.com/album/3Q8076AEcr7AWA3iDgtLHI) | 3:28 | 2022-06-30 | 2022-07-06 |
-| [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2024-10-10 |  |
+| [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2024-10-10 | 2025-02-11 |
 | [Tere Ishq](https://open.spotify.com/track/4GcQFPAETFTHERnYDu20tY) | [Vikramjit Singh](https://open.spotify.com/artist/7uE6DV8GsiipYewmMmqFq6), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Tere Ishq](https://open.spotify.com/album/6hGVTEOYm2IG7BJATIJ1LA) | 5:25 | 2022-02-11 | 2022-04-06 |
 | [Tere Naa](https://open.spotify.com/track/0Ki0d4qAZRNFMEJhSHtpoZ) | [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY) | [Tere Naa](https://open.spotify.com/album/2zzrvOgFBTjmGY58F6Mhh8) | 2:32 | 2022-05-31 | 2022-07-06 |
 | [Tere Naal](https://open.spotify.com/track/7EYKfGMUUVnbTGFN4iB2nr) | [Harman Hundal](https://open.spotify.com/artist/2daDqAvmOL9Uxwv0cGvLXv) | [Waves](https://open.spotify.com/album/1hs4y16fCvAMDciQBcshO6) | 2:38 | 2022-07-18 | 2022-08-18 |

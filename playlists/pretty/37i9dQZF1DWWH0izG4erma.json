@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Cory Marks",
-  "num_followers": 613766,
+  "num_followers": 613826,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Sin So Sweet",
-        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Sin So Sweet",
-      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:30",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 231720,
       "name": "Devil Always Made Me Think Twice",
       "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+    },
+    {
+      "added_at": "2025-02-07 05:00:30",
+      "album": {
+        "name": "Sin So Sweet",
+        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Sin So Sweet",
+      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Nobody's Nobody",
-        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
+        "name": "Brother (feat. Cody Jinks)",
+        "url": "https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Mark Morton",
+          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
+        },
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 169390,
-      "name": "Might As Well Be Me",
-      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
+      "duration_ms": 200780,
+      "name": "Brother (feat. Cody Jinks)",
+      "url": "https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -1343,18 +1347,18 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Tabasco & Sweet Tea",
-        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
       "artists": [
         {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 280065,
-      "name": "Tabasco & Sweet Tea",
-      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+      "duration_ms": 169390,
+      "name": "Might As Well Be Me",
+      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -1411,18 +1415,18 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "If I Know You",
-        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
+        "name": "Tabasco & Sweet Tea",
+        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
       "artists": [
         {
-          "name": "Aaron McBee",
-          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 163637,
-      "name": "Midnight Dancer",
-      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
+      "duration_ms": 280065,
+      "name": "Tabasco & Sweet Tea",
+      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -1443,38 +1447,34 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Brother (feat. Cody Jinks)",
-        "url": "https://open.spotify.com/album/4dzIoO8nMVH9JulFgr8Hnu"
+        "name": "If I Know You",
+        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
       },
       "artists": [
         {
-          "name": "Mark Morton",
-          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
-        },
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
         }
       ],
-      "duration_ms": 200780,
-      "name": "Brother (feat. Cody Jinks)",
-      "url": "https://open.spotify.com/track/1d2LBm2TtcInHUexN8v4tT"
+      "duration_ms": 163637,
+      "name": "Midnight Dancer",
+      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
     },
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Live Here To Work",
-        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Live Here To Work",
-      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2025-02-07 05:00:30",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-02-07 05:00:30",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+        "name": "Live Here To Work",
+        "url": "https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY"
       },
       "artists": [
         {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+      "duration_ms": 282000,
+      "name": "Live Here To Work",
+      "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
     },
     {
       "added_at": "2025-02-07 05:00:30",

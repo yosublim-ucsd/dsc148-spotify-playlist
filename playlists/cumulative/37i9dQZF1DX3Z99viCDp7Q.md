@@ -4,7 +4,7 @@
 
 > Special songs for your special day\. Cover: Alex Warren and Kouvr Annon 💗
 
-181 songs - 10 hr 51 min
+182 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2022-01-25 |  |
 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 | 2021-08-27 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:31 | 2022-01-25 |  |
-| [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2022-01-25 |  |
+| [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2022-01-25 | 2025-02-11 |
 | [First Day Of My Life](https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg) | 3:08 | 2022-01-25 | 2022-07-18 |
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-02-26 | 2024-04-19 |
 | [Forever and a Day](https://open.spotify.com/track/7BXyTc2ycXzXjAaGRTqnad) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:45 | 2024-06-18 | 2024-10-26 |
@@ -157,6 +157,7 @@
 | [The Luckiest](https://open.spotify.com/track/1fujSajijBpJlr5mRGKHJN) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Rockin' The Suburbs](https://open.spotify.com/album/4FtOLTQqwnxpaABrJWYdBy) | 4:25 | 2021-08-27 | 2022-11-13 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2022-11-23 | 2024-04-19 |
 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 | 2024-05-13 |  |
+| [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 | 2024-10-10 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 | 2022-01-25 |  |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2022-01-25 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-01-25 |  |

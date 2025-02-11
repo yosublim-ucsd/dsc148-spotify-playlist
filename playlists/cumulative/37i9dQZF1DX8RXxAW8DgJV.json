@@ -94,7 +94,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 243438,
       "name": "Aga Naga (From \u201cPonniyin Selvan Part-2\u201d)",
       "url": "https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 218173,
       "name": "Angnyaade",
       "url": "https://open.spotify.com/track/384x7qDzho8phQt5NoCofh"
@@ -381,6 +381,32 @@
     },
     {
       "album": {
+        "name": "Chillanjirukkiye (From \"Lubber Pandhu\")",
+        "url": "https://open.spotify.com/album/7eucanSNGPAuKBJCzXO8Pq"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Sivaangi Krishnakumar",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247448,
+      "name": "Chillanjirukkiye (From \"Lubber Pandhu\")",
+      "url": "https://open.spotify.com/track/3jixbQHg5vDuZRNqzordcI"
+    },
+    {
+      "album": {
         "name": "Roja",
         "url": "https://open.spotify.com/album/1yhVLCFqvjIAARRbzbhY30"
       },
@@ -535,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Kushi (Tamil)",
+        "url": "https://open.spotify.com/album/6SvZcM22xYa6X2bDhPG8NU"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243947,
+      "name": "En Rojaa Neeye",
+      "url": "https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I"
+    },
+    {
+      "album": {
         "name": "Meesaya Murukku (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6huPBShibyH3IJg5pPv8Bl"
       },
@@ -660,6 +704,36 @@
       "duration_ms": 209002,
       "name": "Haiyo Haiyo (From \"Oh My Kadavule\")",
       "url": "https://open.spotify.com/track/0b4C8AiF7eVbZCNGFrx1rv"
+    },
+    {
+      "album": {
+        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
     },
     {
       "album": {
@@ -1063,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Ispade Rajavum Idhaya Raniyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F4OLoTCtVTsS3hB2zqFbI"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256945,
+      "name": "Kannamma",
+      "url": "https://open.spotify.com/track/45THyhjDbYhNU7bDrTTUK6"
+    },
+    {
+      "album": {
         "name": "Kalakalappu 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04dX0gE7rgTnvrZC2myWHd"
       },
@@ -1258,7 +1354,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 271339,
       "name": "Manmadhane Nee",
       "url": "https://open.spotify.com/track/0CkDv2V3FFhltON32OwE0x"
@@ -1540,7 +1636,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 193834,
       "name": "Mental Manadhil - Female",
       "url": "https://open.spotify.com/track/3KDGOfol2T95aQKFp0BcIE"
@@ -2658,7 +2754,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 260134,
       "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
@@ -2812,7 +2908,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
@@ -3221,6 +3317,32 @@
     },
     {
       "album": {
+        "name": "Vaa Kannamma (From \"Once More\")",
+        "url": "https://open.spotify.com/album/58o7eVrdHYI36QxG7FpDQu"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Uthara Unnikrishnan",
+          "url": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
+        },
+        {
+          "name": "Vignesh Srikanth",
+          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284307,
+      "name": "Vaa Kannamma - From \"Once More\"",
+      "url": "https://open.spotify.com/track/3YH8zD0ycqxKtk6xTyW4w3"
+    },
+    {
+      "album": {
         "name": "Vaathi",
         "url": "https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p"
       },
@@ -3472,6 +3594,32 @@
       "duration_ms": 269832,
       "name": "Yembuttu Irukkuthu Aasai",
       "url": "https://open.spotify.com/track/0srLmMJws5nv8d1n9qrtro"
+    },
+    {
+      "album": {
+        "name": "Kadhalikka Neramillai",
+        "url": "https://open.spotify.com/album/7mbvUIVOl6vON1sCqdPJjT"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228792,
+      "name": "Yennai Izhukkuthadi",
+      "url": "https://open.spotify.com/track/5D2sz1jrV060bf55IMbFtR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8RXxAW8DgJV"

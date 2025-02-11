@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,510 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,509 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 48 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
 | 49 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
 | 50 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
-| 51 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
-| 52 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
+| 51 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
+| 52 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
 | 53 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
 | 54 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
 | 55 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: El Mala Hierba
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,460 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,463 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

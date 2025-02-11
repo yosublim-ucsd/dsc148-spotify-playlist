@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523 likes - 47 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524 likes - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 40 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
 | 41 | [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 |
 | 42 | [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 |
-| 43 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 |
-| 44 | [Only Fans](https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Only Fans](https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6) | 2:41 |
+| 43 | [Only Fans](https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Only Fans](https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6) | 2:41 |
+| 44 | [Hombre Muerto](https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:42 |
 | 45 | [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 |
 | 46 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
 | 47 | [La Bomba Caliente](https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:07 |
 
-Snapshot ID: `Z6aegAAAAABNh7nsGOifAtodqHlnn6uh`
+Snapshot ID: `Z6fwAAAAAABhyVIjQKLSmtx00pW8G83j`

@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 7 min
+76 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Big Love \- 2009 Remastered Version](https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:49 | 2023-12-13 |  |
 | [CDFF\-Lucky This Time](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 | 2023-12-13 |  |
 | [Colorado Bulldog](https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:13 | 2023-12-13 |  |
+| [Courageous](https://open.spotify.com/track/4JXo0SKUN32dkDH2l1RFVs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 4:34 | 2025-02-11 |  |
 | [Courageous](https://open.spotify.com/track/6WOlMP5sOuLAxTytEfl0OJ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:34 | 2024-07-15 | 2024-09-09 |
 | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- 2021 Remastered](https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:56 | 2023-12-13 |  |
 | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- Live at Budokan, Tokyo, Japan, July 26, 2023](https://open.spotify.com/track/5b69Dou2PB5TLk8leY2M3O) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \[Live at Budokan, Tokyo, Japan, July 26, 2023\]](https://open.spotify.com/album/1ZitKkUxoKyB661QlbchzF) | 3:58 | 2024-07-29 | 2024-08-24 |
@@ -42,7 +43,7 @@
 | [Just Take My Heart \- 2021 Remastered](https://open.spotify.com/track/2hngAqZosbB3oYHYzsbtM9) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:23 | 2023-12-13 |  |
 | [Just Take My Heart \[Acoustic\] \- 2021 Remastered](https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:49 | 2023-12-13 |  |
 | [Lost In America](https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:52 | 2023-12-13 | 2024-08-17 |
-| [Merciless \- 2023 Remastered](https://open.spotify.com/track/5fsGBKkvOXOJ5pMNSw1xZt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 3:55 | 2025-01-12 |  |
+| [Merciless \- 2023 Remastered](https://open.spotify.com/track/5fsGBKkvOXOJ5pMNSw1xZt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 3:55 | 2025-01-12 | 2025-02-11 |
 | [My Kinda Woman \- 2021 Remastered](https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 4:12 | 2023-12-13 |  |
 | [Never Say Never](https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:49 | 2023-12-13 | 2025-01-03 |
 | [Not One Night](https://open.spotify.com/track/6V515Poan7LK5imto1SIZI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 3:38 | 2023-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Al cien en la mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,346 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,546 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 75 | [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 |
 | 76 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 77 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
-| 78 | [También Me Llamo Ismael](https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael](https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq) | 3:06 |
-| 79 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
+| 78 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
+| 79 | [También Me Llamo Ismael](https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael](https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq) | 3:06 |
 | 80 | [7x7](https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:45 |
 | 81 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
 | 82 | [El Mariguapo](https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Mariguapo](https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5) | 2:50 |

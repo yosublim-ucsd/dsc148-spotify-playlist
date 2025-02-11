@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,974 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,788 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 12 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
 | 13 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 |
 | 14 | [It's Been Awhile \- Acoustic](https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:30 |
-| 15 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
-| 16 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
+| 15 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
+| 16 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
 | 17 | [1979 \- Acoustic](https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aeroplane Flies High \(Deluxe Edition\)](https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c) | 4:12 |
 | 18 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
 | 19 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 35 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
 | 36 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 37 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
-| 38 | [Wrong Side Of Heaven \- Acoustic](https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Wrong Side Of Heaven \(Acoustic\)](https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ) | 4:29 |
-| 39 | [Crash Land](https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Free \(Deluxe\)](https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z) | 3:57 |
+| 38 | [Crash Land](https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Free \(Deluxe\)](https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z) | 3:57 |
+| 39 | [Wrong Side Of Heaven \- Acoustic](https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Wrong Side Of Heaven \(Acoustic\)](https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ) | 4:29 |
 | 40 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
 | 41 | [Many of Horror \- MTV Unplugged Live; Edit](https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Many of Horror \(MTV Unplugged Live; Edit\)](https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu) | 4:14 |
 | 42 | [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 |

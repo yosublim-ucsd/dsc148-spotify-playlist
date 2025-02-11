@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,361 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,363 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 56 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |
 | 57 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
 | 58 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
-| 59 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
-| 60 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
+| 59 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
+| 60 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 61 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
 | 62 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 |
 | 63 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 70 | [Need U](https://open.spotify.com/track/6OAlog0TfLYgmT1LVXPOQU) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Need U](https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT) | 3:22 |
 | 71 | [die young](https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young](https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP) | 2:44 |
 | 72 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
-| 73 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
-| 74 | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW) | 2:43 |
+| 73 | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW) | 2:43 |
+| 74 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 75 | [The Birdie That Never Was](https://open.spotify.com/track/7amFehbW0RojJwLJduWC5l) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [The Birdie That Never Was](https://open.spotify.com/album/3WVXSwXmdi0q6HsUjWZ72b) | 3:15 |
 
 Snapshot ID: `ZYFdTwAAAAC/0IrYhyuu0kN+B9YMqXXn`

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Joon Il Jeong\(정준일\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,400 songs - 3 day 18 hr 34 min
+1,401 songs - 3 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,6 +918,7 @@
 | [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 | 2024-04-02 | 2024-08-11 |
 | [Pyeong Saeng](https://open.spotify.com/track/7jB5hbIEnrSVLYQj7451dq) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Pyeong Saeng](https://open.spotify.com/album/0FreO2N0oAY8ByY3bkmIgd) | 4:51 | 2022-01-20 | 2022-01-27 |
 | [RADIO](https://open.spotify.com/track/1ZmAcES012Hgjv6cMVxXrI) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [JOURNEY](https://open.spotify.com/album/1URTKlF8ju1dQ4ZhOTQjLS) | 3:11 | 2021-12-20 | 2022-07-08 |
+| [Rain \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rain \(feat\. Parc Jae Jung\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 | 2025-02-10 |  |
 | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/track/2lCOSE6b5yYQPcMFU6QJUb) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Lee Na Eun](https://open.spotify.com/artist/4zTGygjPjB8OiETW8jnsGN) | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/album/4WcaWGK3EVqLMZ8lHGXwNj) | 3:23 | 2021-12-20 | 2022-04-13 |
 | [Rain road](https://open.spotify.com/track/49QJXbt26AOmI3OwmQzKTe) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Rain road](https://open.spotify.com/album/7rPH5ZJHUfwzCU3oaCexDR) | 3:00 | 2022-08-01 | 2022-11-23 |
 | [Rains again](https://open.spotify.com/track/7abCl5t9kc6yrukx4dYOYS) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Rains again](https://open.spotify.com/album/4dgzYb56hQBaRbT0pURaZO) | 3:43 | 2022-03-24 | 2022-04-21 |

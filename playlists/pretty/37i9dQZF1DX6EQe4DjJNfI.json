@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176920,
+  "num_followers": 176924,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -339,22 +323,6 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -379,6 +347,38 @@
       "duration_ms": 104988,
       "name": "Fala a Verdade",
       "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 249728,
       "name": "T\u00e3o Crazy",
       "url": "https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -903,18 +903,22 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
       },
       "artists": [
         {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+      "duration_ms": 218048,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -943,46 +947,18 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "Seu Bem",
-        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
       "artists": [
         {
-          "name": "LEXY",
-          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "RZ",
-          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Seu Bem",
-      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1003,6 +979,30 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Seu Bem",
+        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
+      },
+      "artists": [
+        {
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Seu Bem",
+      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
         "name": "Desse Meu Mel",
         "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1195,6 +1195,22 @@
       "duration_ms": 168205,
       "name": "Porto Seguro",
       "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Lingerie Branca",
         "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
@@ -1287,38 +1287,6 @@
       "duration_ms": 239029,
       "name": "Lingerie Branca",
       "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "Tenho Tanto de Voc\u00ea em Mim",
-        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Tenho Tanto de Voc\u00ea em Mim",
-      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1343,6 +1311,38 @@
       "duration_ms": 176326,
       "name": "Dispara",
       "url": "https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Tenho Tanto de Voc\u00ea em Mim",
+        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Tenho Tanto de Voc\u00ea em Mim",
+      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
     },
     {
       "added_at": "2025-01-31 03:01:21",

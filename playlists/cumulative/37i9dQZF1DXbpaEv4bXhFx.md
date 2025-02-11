@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-235 songs - 14 hr 20 min
+236 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 |  |
 | [All the lies](https://open.spotify.com/track/7kJIOZI4WdcD8oOXCSjtBf) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:35 | 2022-07-13 | 2022-07-19 |
 | [Alone At Night \(feat\. ByulHa\)](https://open.spotify.com/track/53OitzmAKmu0m9pdOurszx) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [ByulHa](https://open.spotify.com/artist/0206jPAMaD9eYyqADY140j) | [Alone At Night](https://open.spotify.com/album/5OloxqiMnBSs2kcthpVrFE) | 3:40 | 2022-07-04 | 2022-07-29 |
+| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2025-02-10 |  |
 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 | 2022-06-20 |  |
 | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/track/1edDx0IWDK9HnLsenR6Uss) | [Cho Hyunyoung](https://open.spotify.com/artist/1H2S37zuLm5Sn4PBADR72w), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/album/0D0b3zqhmAg4EejKihHyI9) | 2:54 | 2022-06-20 | 2022-07-18 |
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-06-20 | 2022-07-28 |
@@ -32,7 +33,7 @@
 | [Back](https://open.spotify.com/track/7Fh5m2ZoYoRcs8aNvDetIi) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:25 | 2022-06-20 | 2022-07-06 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2022-06-20 | 2022-06-28 |
 | [Because it's you](https://open.spotify.com/track/4R6vtch9Mb2a1xkZheaDZU) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [You Are My Spring OST Part 2](https://open.spotify.com/album/0hDpePbI4nFXfX5VAgBO3J) | 3:46 | 2022-06-20 | 2022-07-23 |
-| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 |  |
+| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 | 2025-02-11 |
 | [bird](https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld) | 3:36 | 2023-02-14 | 2024-04-19 |
 | [bird](https://open.spotify.com/track/4My7LoAyoRjvqHWWM2i1R4) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/2yXHoZzQiKV8WZZhG9V3pb) | 3:36 | 2022-06-20 | 2022-06-26 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-06-20 | 2022-07-29 |

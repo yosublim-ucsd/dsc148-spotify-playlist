@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,224 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,282 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 33 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 34 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
 | 35 | [When You're Smiling \(The Whole World Smiles with You\) \(with Teddy Wilson & His Orchestra\) \- Take 3](https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:49 |
-| 36 | [Lou's Blues](https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:44 |
-| 37 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
+| 36 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
+| 37 | [Lou's Blues](https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:44 |
 | 38 | [I Love Being Here With You](https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [When The Sun Goes Down](https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY) | 4:59 |
 | 39 | [One O'Clock Jump](https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 3:02 |
 | 40 | [I Get A Kick Out Of You](https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 6:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 45 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
 | 46 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 |
 | 47 | [Wandering \- Remastered](https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Motions & Emotions](https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV) | 2:54 |
-| 48 | [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 |
-| 49 | [Tea For Two](https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 3:15 |
+| 48 | [Tea For Two](https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 3:15 |
+| 49 | [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 |
 | 50 | [It's A Wonderful World](https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:14 |
 | 51 | [Something Happens To Me](https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [May I Come In?](https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA) | 2:04 |
 | 52 | [You're The Top](https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:25 |

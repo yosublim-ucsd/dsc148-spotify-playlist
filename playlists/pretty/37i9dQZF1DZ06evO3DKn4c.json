@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 37446,
+  "num_followers": 37463,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADMEOk8RTC+CErED0geAL2L",
+  "snapshot_id": "Z6fwAAAAAABB8Qrcrmvx1VTmPXzSOXwz",
   "tracks": [
     {
       "added_at": null,
@@ -515,30 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gord\u00e3o Chefe",
-        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
-      },
-      "artists": [
-        {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        }
-      ],
-      "duration_ms": 331775,
-      "name": "Sinto Muito Baby",
-      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "duration_ms": 331775,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crian\u00e7as Selvagens",
         "url": "https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 235413,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 241653,
-      "name": "Terra - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "300",
         "url": "https://open.spotify.com/album/49aodr19IxR7j392H2CIJm"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 420674,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 241653,
+      "name": "Terra - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,020 likes - 52 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,099 likes - 52 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 37 | [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 |
 | 38 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 |
 | 39 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
-| 40 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
-| 41 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 |
+| 40 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 |
+| 41 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
 | 42 | [Desde el Fondo](https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv) | 3:39 |
 | 43 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
 | 44 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 51 | [Bambú](https://open.spotify.com/track/01xMj72s3A8apI3oezvHl5) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Bambú](https://open.spotify.com/album/1ppBrlwkXLsHv6hLAVfsx0) | 2:52 |
 | 52 | [Rebelde](https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rebelde](https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ) | 2:49 |
 
-Snapshot ID: `Z6aegAAAAACcut2TykEfTH2bVbls++5r`
+Snapshot ID: `Z6fwAAAAAADPZ46oBIqySTa2DM916jBF`

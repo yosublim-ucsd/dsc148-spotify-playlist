@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,362 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,370 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 48 | [Del Oro](https://open.spotify.com/track/3YGFZ8rIsAA5zQvvoeCaW0) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 6:14 |
 | 49 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
 | 50 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
-| 51 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
-| 52 | [MELAZA](https://open.spotify.com/track/47rWtn2fBitY9ieQ5yIY3B) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [3000](https://open.spotify.com/album/5u2yO314Y0z6QxTKmlKWDh) | 2:26 |
-| 53 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
+| 51 | [MELAZA](https://open.spotify.com/track/47rWtn2fBitY9ieQ5yIY3B) | [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [3000](https://open.spotify.com/album/5u2yO314Y0z6QxTKmlKWDh) | 2:26 |
+| 52 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
+| 53 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
 | 54 | [Tal Vez](https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Tal Vez](https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v) | 4:22 |
 | 55 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
 | 56 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |

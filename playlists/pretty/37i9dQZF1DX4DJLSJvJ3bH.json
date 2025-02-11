@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 136155,
+  "num_followers": 136129,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-12-20 08:21:02",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
+        "name": "Somewhere In My Memory",
+        "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
         }
       ],
-      "duration_ms": 192420,
-      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
+      "duration_ms": 202386,
+      "name": "Somewhere In My Memory",
+      "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
     },
     {
       "added_at": "2024-12-20 08:21:02",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-12-20 08:21:02",
       "album": {
-        "name": "Somewhere In My Memory",
-        "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
       },
       "artists": [
         {
-          "name": "Ron Bladworth",
-          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 202386,
-      "name": "Somewhere In My Memory",
-      "url": "https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz"
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2024-12-20 08:21:02",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-12-20 08:21:02",
       "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 144953,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
-    },
-    {
-      "added_at": "2024-12-20 08:21:02",
-      "album": {
         "name": "The Pianoman at Christmas (The Complete Edition)",
         "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 173585,
       "name": "This Winter",
       "url": "https://open.spotify.com/track/5vvdwmov2OAwwuNsE6qFlp"
+    },
+    {
+      "added_at": "2024-12-20 08:21:02",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 144953,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
     },
     {
       "added_at": "2024-12-20 08:21:02",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-12-20 08:21:02",
       "album": {
-        "name": "Christmas Wish",
-        "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 253607,
-      "name": "Cradle in Bethlehem",
-      "url": "https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s"
-    },
-    {
-      "added_at": "2024-12-20 08:21:02",
-      "album": {
         "name": "Jazz For Joy: A Verve Christmas Album",
         "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 280933,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
+    },
+    {
+      "added_at": "2024-12-20 08:21:02",
+      "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 253607,
+      "name": "Cradle in Bethlehem",
+      "url": "https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s"
     },
     {
       "added_at": "2024-12-20 08:21:02",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2024-12-20 08:21:02",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 329000,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/6qEZ3wkUF7nY1DBbD7DHoN"
+      "duration_ms": 267093,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0jn7VR6QOuB5C5s57SFICf"
     }
   ],
   "unique_name": "Jazzy Christmas Dinner",

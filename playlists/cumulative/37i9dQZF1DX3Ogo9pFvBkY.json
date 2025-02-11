@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Abundant",
+        "url": "https://open.spotify.com/album/2cdSpHVhpKzp18ioT5tktw"
+      },
+      "artists": [
+        {
+          "name": "Glass Dome",
+          "url": "https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150465,
+      "name": "Abundant",
+      "url": "https://open.spotify.com/track/13aO4GXU92PdB37eSOxvrp"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx"
       },
@@ -596,6 +614,24 @@
       "duration_ms": 138106,
       "name": "Along the Way",
       "url": "https://open.spotify.com/track/3gmmqXsScful139XIOPwaf"
+    },
+    {
+      "album": {
+        "name": "Along the Way",
+        "url": "https://open.spotify.com/album/0xauq0fJIvU1zLt4V9c4bD"
+      },
+      "artists": [
+        {
+          "name": "Koma",
+          "url": "https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167605,
+      "name": "Along the Way",
+      "url": "https://open.spotify.com/track/6vNFvvF0dg4LVW6LeUmcbN"
     },
     {
       "album": {
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 170081,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/5v18Tp6CsKglJO83kyLRJB"
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 151243,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o"
@@ -2385,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Carefree and Wandering",
+        "url": "https://open.spotify.com/album/4gH11AYH0vTqxtYtlMXnZz"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185781,
+      "name": "Carefree and Wandering",
+      "url": "https://open.spotify.com/track/6BLJRG06lHwNifYGc2G1R9"
+    },
+    {
+      "album": {
         "name": "Carpe Noctem",
         "url": "https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ"
       },
@@ -3267,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Cradle of Silence",
+        "url": "https://open.spotify.com/album/5W8UjXslZMr17hJQDaPv6b"
+      },
+      "artists": [
+        {
+          "name": "Reso Nata",
+          "url": "https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161625,
+      "name": "Cradle of Silence",
+      "url": "https://open.spotify.com/track/6O6DIp2Lhcw57u6IkF0IJu"
+    },
+    {
+      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/2MmtENlcU7GpS2CjVzu76f"
       },
@@ -3915,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Distant Land",
+        "url": "https://open.spotify.com/album/421DNXioBJmrnl2XGA0l7j"
+      },
+      "artists": [
+        {
+          "name": "Tellus Gardens",
+          "url": "https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182734,
+      "name": "Distant Land",
+      "url": "https://open.spotify.com/track/0WlRx5eXGE4ApN1pPEQ8df"
+    },
+    {
+      "album": {
         "name": "Distant Star",
         "url": "https://open.spotify.com/album/1LwgyRit2ayffgHZ60JLgF"
       },
@@ -4214,7 +4304,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 176874,
       "name": "Dreams Dissolving",
       "url": "https://open.spotify.com/track/0MQm7MYFD4ZBocFv0AgS5L"
@@ -5168,7 +5258,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 205025,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/0CSMEI3zYa4Jued0MkyNcz"
@@ -7768,7 +7858,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 209750,
       "name": "Just In View",
       "url": "https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv"
@@ -8542,7 +8632,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 202325,
       "name": "Lyng",
       "url": "https://open.spotify.com/track/47qB0XJToyyOis9VCopt5Q"
@@ -8776,7 +8866,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 144782,
       "name": "Metric",
       "url": "https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta"
@@ -9370,10 +9460,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 173333,
       "name": "Nebbia",
       "url": "https://open.spotify.com/track/16d6iAPkHT69gtd9dksGuz"
+    },
+    {
+      "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/0eWA3yg6uIYNmZkHTbzMZQ"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165374,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3"
     },
     {
       "album": {
@@ -9860,6 +9968,24 @@
       "duration_ms": 72400,
       "name": "Obs",
       "url": "https://open.spotify.com/track/7tATUVBcfKPAdVSrQbO30Q"
+    },
+    {
+      "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/2e4CihgrJs3ULCKhNph13G"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/3eU1mnj9Xf0aIi8LwCOAgR"
     },
     {
       "album": {
@@ -11249,6 +11375,24 @@
     },
     {
       "album": {
+        "name": "Relativity",
+        "url": "https://open.spotify.com/album/3Q5zTHGirQpz4nDJdGB7RD"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166601,
+      "name": "Relativity",
+      "url": "https://open.spotify.com/track/2xKZonkmVH7RtBpRFQNl9v"
+    },
+    {
+      "album": {
         "name": "Relaxation",
         "url": "https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5"
       },
@@ -11620,7 +11764,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 171750,
       "name": "Rosy",
       "url": "https://open.spotify.com/track/6kL9qu9SsGGp8DUIT52j3n"
@@ -13881,6 +14025,24 @@
     },
     {
       "album": {
+        "name": "The Edge of Twilight",
+        "url": "https://open.spotify.com/album/7wdCbXaCKqrszfjelscf00"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195902,
+      "name": "The Edge of Twilight",
+      "url": "https://open.spotify.com/track/0Rr4EimL1oCuMoo6cpajEi"
+    },
+    {
+      "album": {
         "name": "The NIght Sky",
         "url": "https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG"
       },
@@ -14576,7 +14738,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 185892,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/5eo60GfuidgbhoqrNesiRv"
@@ -14724,6 +14886,24 @@
       "duration_ms": 148989,
       "name": "Twin Tales",
       "url": "https://open.spotify.com/track/6PO46m4WlD3kQAwGYtFwh0"
+    },
+    {
+      "album": {
+        "name": "Two Moons, One Heart",
+        "url": "https://open.spotify.com/album/75GC6h2z9bPUZI3uc2Ogei"
+      },
+      "artists": [
+        {
+          "name": "Aleksy Nowak",
+          "url": "https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211295,
+      "name": "Two Moons, One Heart",
+      "url": "https://open.spotify.com/track/25FQFza68iAgwPjJcpu1Zc"
     },
     {
       "album": {

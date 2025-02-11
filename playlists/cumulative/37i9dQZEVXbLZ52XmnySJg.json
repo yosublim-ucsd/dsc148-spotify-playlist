@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/5GJ3WaxTSlxDY3csctX20H"
+    },
+    {
+      "album": {
         "name": "Bhagwa Rang",
         "url": "https://open.spotify.com/album/6zde1yJzVbskFNAbIUYR8m"
       },
@@ -8674,7 +8692,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 325257,
       "name": "Ishq Sufiyana (Male)",
       "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
@@ -10588,7 +10606,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 244583,
       "name": "Khoobsurat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
@@ -13902,7 +13920,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -17961,6 +17979,32 @@
     },
     {
       "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/4TjqdNmCG0IEbNKVfbxTBV"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr"
+    },
+    {
+      "album": {
         "name": "Sajni (From \"Laapataa Ladies\")",
         "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
       },
@@ -19364,7 +19408,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 249707,
       "name": "Subhanallah",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8"

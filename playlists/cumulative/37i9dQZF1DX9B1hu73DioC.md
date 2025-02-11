@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-868 songs - 2 day 3 hr 30 min
+869 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 | 2020-10-16 | 2022-11-12 |
 | [Drive Slow](https://open.spotify.com/track/13795WBWdWvQHCXeOPLCWQ) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Drive Slow](https://open.spotify.com/album/16hoKJlZ0Y3kt7zJ5eIP7R) | 2:57 | 2021-06-15 | 2022-07-09 |
 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-03-07 |  |
+| [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-07 |  |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-10 | 2023-08-18 |
 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-08-11 | 2024-04-19 |
 | [Each Time You Fall in Love](https://open.spotify.com/track/4Qj1zpjp5ZPria4BlKaCda) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5OVcAB06ttNop0LKRUUKKD) | 4:50 | 2021-03-17 | 2022-04-21 |
@@ -381,7 +382,7 @@
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-06-01 | 2022-07-29 |
 | [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-06-17 | 2024-10-04 |
 | [I Can't Speak](https://open.spotify.com/track/2DX5gNbz6dPpv9UJpFgHRh) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Weirdo Shrine](https://open.spotify.com/album/6q4OSe8nsfQ6eHYETx7yis) | 3:03 | 2020-10-05\* | 2022-04-17 |
-| [I Can’t Even Cry](https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry](https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb) | 3:41 | 2024-08-16 |  |
+| [I Can’t Even Cry](https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry](https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb) | 3:41 | 2024-08-16 | 2025-02-11 |
 | [i could be your hands](https://open.spotify.com/track/3wAhqMAdeZ9km9WmBGSpLN) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [i could be your hands](https://open.spotify.com/album/7bvImW5Fd4it9hJQ36QWt9) | 3:57 | 2025-02-07 |  |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2020-10-05\* | 2022-11-11 |
 | [I Dreamt We Spoke Again](https://open.spotify.com/track/0AHOqF7FKuOR7rSUIMQkWr) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Dreamt We Spoke Again](https://open.spotify.com/album/3NggszD6AO6baGJUz131Nr) | 3:04 | 2020-10-05\* | 2021-05-24 |

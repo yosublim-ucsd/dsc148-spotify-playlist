@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 
 > me quiero mucho
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,235 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,386 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 33 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
 | 34 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 35 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 36 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
+| 36 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 37 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
-| 38 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
+| 38 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 | 39 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 40 | [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 |
 | 41 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 66 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
 | 67 | [Bejeweled](https://open.spotify.com/track/0jvo9CjnbR0lYUDTSNTMiu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:14 |
 | 68 | [Ella](https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:35 |
-| 69 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
-| 70 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
+| 69 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
+| 70 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
 | 71 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 72 | [Physical](https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS) | 3:13 |
 | 73 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 |

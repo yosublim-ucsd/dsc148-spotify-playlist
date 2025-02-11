@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-544 songs - 1 day 8 hr 9 min
+545 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Henny & Gingerale](https://open.spotify.com/track/2ubWMkupre71UroJq7NWkc) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Henny & Gingerale](https://open.spotify.com/album/5hY88uCfuWZcPPwBXOrOVQ) | 4:15 | 2022-03-24 | 2022-04-13 |
 | [Here to Dance](https://open.spotify.com/track/5ElEhRmLYwWWyUtGrMgRwi) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Here to Dance](https://open.spotify.com/album/0fkb53G3ACQvajjgSV8sd9) | 3:07 | 2022-01-06 | 2022-06-28 |
 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 | 2024-08-09 | 2024-09-12 |
+| [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 | 2025-02-09 |  |
 | [HIGH](https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 3:12 | 2023-10-19 | 2024-03-01 |
 | [Holy Hell](https://open.spotify.com/track/5y6BaL3VQ2hQt5sMN1Qmzj) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Holy Hell](https://open.spotify.com/album/1Fq57wNgriijiYFTTCwU6c) | 3:12 | 2022-08-11 | 2022-12-16 |
 | [Hoodie Back](https://open.spotify.com/track/03oqpVl7nXBipKG8k20Qex) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Hoodie Back](https://open.spotify.com/album/31tGG12rA9duMwf5zEHyEF) | 2:46 | 2023-08-10 | 2023-08-18 |
@@ -295,7 +296,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 | 2024-01-26 |
 | [Move Like This](https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [They Call Me Disco](https://open.spotify.com/album/6p40dZWSVoWmChUHZjDRJD) | 4:04 | 2021-12-23 | 2022-07-29 |
 | [Mr\. Midas](https://open.spotify.com/track/48l47x2sWBtYKkRqLQJPBs) | [James Tillman](https://open.spotify.com/artist/4FXBouJHB0s6E3d6Q9YeSO) | [Mr\. Midas](https://open.spotify.com/album/1XbJz7tLiSY1UtptEYLRex) | 3:48 | 2021-12-23 | 2022-07-29 |
-| [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-02-10 |  |
+| [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-02-10 | 2025-02-11 |
 | [My Girl](https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Ghost Notes](https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8) | 4:25 | 2021-12-23 | 2022-07-28 |
 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 | 2022-03-24 | 2022-11-13 |
 | [Nana](https://open.spotify.com/track/1M6BvW6Ao53o77piGFjyJ7) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nana](https://open.spotify.com/album/4IpbcZKlCDskRI1R9z8INc) | 2:58 | 2022-07-28 | 2022-09-02 |

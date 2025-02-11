@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,858 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,942 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 52 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 53 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
 | 54 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 55 | [Pretty Vicious](https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 5:10 |
-| 56 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
+| 55 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
+| 56 | [Pretty Vicious](https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 5:10 |
 | 57 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 58 | [Bright Lights](https://open.spotify.com/track/2NTDt9Fiqp5wTBM6cLO6Bu) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu](https://open.spotify.com/album/0YCTY6KpkPWp2etKx9ZNyM) | 5:24 |
 | 59 | [Ten Tonne Skeleton](https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 95 | [Coming for You](https://open.spotify.com/track/1SZoPX6yKcuejHQ49DtDxr) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Coming for You](https://open.spotify.com/album/6xCfzQCNkmhkyq55rtvzYr) | 3:49 |
 | 96 | [The Devil's Bleeding Crown](https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Devil's Bleeding Crown](https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak) | 3:58 |
 | 97 | [Ain’t Lookin’](https://open.spotify.com/track/21cyIowSvYSPaqeUyTaIpX) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Alvarado](https://open.spotify.com/album/02BIOZh9bc6UpsKAwY8tyT) | 3:22 |
-| 98 | [Highway Tune](https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Black Smoke Rising](https://open.spotify.com/album/23lA1QsNgeWOsMy0OlFRWC) | 3:01 |
-| 99 | [Legendary](https://open.spotify.com/track/3tA2Khh4RpQThUoX22PQAG) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary](https://open.spotify.com/album/4iNCKJaeccVS1TFymZZlxU) | 3:50 |
+| 98 | [Legendary](https://open.spotify.com/track/3tA2Khh4RpQThUoX22PQAG) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary](https://open.spotify.com/album/4iNCKJaeccVS1TFymZZlxU) | 3:50 |
+| 99 | [Highway Tune](https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Black Smoke Rising](https://open.spotify.com/album/23lA1QsNgeWOsMy0OlFRWC) | 3:01 |
 | 100 | [Be Legendary](https://open.spotify.com/track/2mVFo8BJ6ZPh82QAOpCUbT) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/2zrUlKeTyEhyYulj8Gu8T9) | 3:23 |
 
 Snapshot ID: `ZnmoOwAAAABgBsRinfQEkLOeRQuTwbiW`

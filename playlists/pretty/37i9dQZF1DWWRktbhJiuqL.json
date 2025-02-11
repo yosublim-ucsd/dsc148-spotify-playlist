@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2017187,
+  "num_followers": 2017327,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-01-13 02:55:01",
       "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2025-01-13 02:55:01",
+      "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2025-01-13 02:55:01",
-      "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2025-01-13 02:55:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-01-13 02:55:01",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "Mysterious Ways",
-      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
-    },
-    {
-      "added_at": "2025-01-13 02:55:01",
-      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-01-13 02:55:01",
       "album": {
-        "name": "Down On The Upside",
-        "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 290106,
-      "name": "Burden In My Hand",
-      "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
     },
     {
       "added_at": "2025-01-13 02:55:01",
@@ -1035,6 +1019,22 @@
       "duration_ms": 225853,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
+    },
+    {
+      "added_at": "2025-01-13 02:55:01",
+      "album": {
+        "name": "Down On The Upside",
+        "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Burden In My Hand",
+      "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
     },
     {
       "added_at": "2025-01-13 02:55:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-01-13 02:55:01",
       "album": {
-        "name": "The Unforgettable Fire (Remastered)",
-        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
-      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
-    },
-    {
-      "added_at": "2025-01-13 02:55:01",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2025-01-13 02:55:01",
+      "album": {
+        "name": "The Unforgettable Fire (Remastered)",
+        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
     },
     {
       "added_at": "2025-01-13 02:55:01",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-01-13 02:55:01",
       "album": {
-        "name": "See Where The Night Goes",
-        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 247895,
-      "name": "Step Aside",
-      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2025-01-13 02:55:01",
-      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 177266,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
+    },
+    {
+      "added_at": "2025-01-13 02:55:01",
+      "album": {
+        "name": "See Where The Night Goes",
+        "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 247895,
+      "name": "Step Aside",
+      "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
     },
     {
       "added_at": "2025-01-13 02:55:01",

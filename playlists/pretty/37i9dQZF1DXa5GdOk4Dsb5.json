@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 142310,
+  "num_followers": 142339,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
+        "name": "Un Poco de Amor",
+        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171236,
+      "name": "Un Poco de Amor",
+      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
         "name": "Volviste Tarde",
         "url": "https://open.spotify.com/album/5PmEyL1R6hETTJERszjbFe"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 259314,
       "name": "Volviste Tarde",
       "url": "https://open.spotify.com/track/1N0DeNbKI2PjESx1xUIvbM"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
-        "name": "Un Poco de Amor",
-        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 171236,
-      "name": "Un Poco de Amor",
-      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Que No Se Caiga el Ritmo",
-        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 231916,
-      "name": "Soltero Feliz",
-      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "De Pura Rabia",
         "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 187397,
       "name": "De Pura Rabia",
       "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Mi Promesa",
-        "url": "https://open.spotify.com/album/3IJDtKfCEZcMgDJePCiXFa"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190193,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/49dwc91esnpPYpVNPS01bX"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Las Compuse para Ti",
         "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 200384,
       "name": "Que Te Lo Crea Tu Madre",
       "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Mi Promesa",
+        "url": "https://open.spotify.com/album/3IJDtKfCEZcMgDJePCiXFa"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190193,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/49dwc91esnpPYpVNPS01bX"
     },
     {
       "added_at": "2024-07-11 01:48:38",

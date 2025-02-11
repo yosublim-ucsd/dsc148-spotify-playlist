@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,872 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,881 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 26 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 |
 | 27 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 |
 | 28 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
-| 29 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 |
+| 29 | [Too Sweet](https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 4:11 |
 | 30 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 31 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 32 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 49 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 |
 | 50 | [Bad Dreams](https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:04 |
 
-Snapshot ID: `LzwXyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lz1pSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

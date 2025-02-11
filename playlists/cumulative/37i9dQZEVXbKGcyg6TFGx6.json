@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -16716,7 +16716,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
@@ -28289,6 +28289,24 @@
     },
     {
       "album": {
+        "name": "SERESTA LATINA",
+        "url": "https://open.spotify.com/album/49TPHMUjDPWkTpdP3LC2Os"
+      },
+      "artists": [
+        {
+          "name": "Beto Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/3JURWaPUQ3YLnjE5olVgxf"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144760,
+      "name": "Me voy",
+      "url": "https://open.spotify.com/track/4HLA1Kpq6ULlCDLv4gUSQL"
+    },
+    {
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -32364,7 +32382,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 166861,
       "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
       "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
@@ -34434,7 +34452,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
@@ -44222,7 +44240,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"

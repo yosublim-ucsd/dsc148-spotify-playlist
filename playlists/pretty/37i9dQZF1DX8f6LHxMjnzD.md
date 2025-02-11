@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,986 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,013 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 10 | [I Dare You](https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Dare You](https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX) | 3:48 |
 | 11 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 |
 | 12 | [Sunshine In The Room \(feat\. Jon Batiste\)](https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Sunshine In The Room](https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW) | 3:02 |
-| 13 | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [My Life \(ft\. Swae Lee & PnB Rock\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
+| 13 | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
 | 14 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
 | 15 | [Revelation](https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY) | 4:13 |
 | 16 | [Don't Leave](https://open.spotify.com/track/7gBJ8A4suIqK1UZ965Qhet) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Don't Leave](https://open.spotify.com/album/64RChc5jCeCIl7VLEptkXR) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 
 > Those quintessential sad songs that everyone knows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,966 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,089 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 40 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 |
 | 41 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 |
 | 42 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
-| 43 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 44 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
+| 43 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 |
+| 44 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 45 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
-| 46 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
-| 47 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
+| 46 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
+| 47 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
 | 48 | [Everybody Hurts](https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:20 |
 | 49 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 50 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |

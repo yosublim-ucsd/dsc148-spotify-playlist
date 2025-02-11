@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 59015,
+  "num_followers": 59031,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Judika",
+        "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242942,
+      "name": "Jikalau Kau Cinta",
+      "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Tak Lekang Oleh Waktu",
         "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 301824,
       "name": "Risalah Hati",
       "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Judika",
-        "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242942,
-      "name": "Jikalau Kau Cinta",
-      "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
-      },
-      "artists": [
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Sekali Ini Saja",
-      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 276146,
       "name": "Bukan Dia Tapi Aku",
       "url": "https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Sekali Ini Saja",
+      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+        "name": "Impian",
+        "url": "https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Hyper Act",
+          "url": "https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb"
         }
       ],
-      "duration_ms": 249413,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+      "duration_ms": 200163,
+      "name": "Hanya Aku",
+      "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Impian",
-        "url": "https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt"
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
       },
       "artists": [
         {
-          "name": "Hyper Act",
-          "url": "https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 200163,
-      "name": "Hanya Aku",
-      "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
+      "duration_ms": 249413,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2024-11-29 03:37:32",

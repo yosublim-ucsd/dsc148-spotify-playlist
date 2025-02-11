@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,885 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,938 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,18 +61,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 51 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
 | 52 | [Years Roll By](https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Years Roll By](https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i) | 3:09 |
 | 53 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
-| 54 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
-| 55 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
-| 56 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
+| 54 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
+| 55 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
+| 56 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 |
 | 57 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 58 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 59 | [Art House](https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua) | 2:57 |
 | 60 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
-| 61 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
-| 62 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 |
-| 63 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 |
-| 64 | [Give It to Me](https://open.spotify.com/track/02sPuecm24k5cekMMH5JCW) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Midnight Snack](https://open.spotify.com/album/6c4dktaL7CdIeDZnTzBMBB) | 3:08 |
-| 65 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
+| 61 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 |
+| 62 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
+| 63 | [Give It to Me](https://open.spotify.com/track/02sPuecm24k5cekMMH5JCW) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Midnight Snack](https://open.spotify.com/album/6c4dktaL7CdIeDZnTzBMBB) | 3:08 |
+| 64 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
+| 65 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 |
 | 66 | [You Make Me Feel](https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [You Make Me Feel](https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL) | 3:06 |
 | 67 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 |
 | 68 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 78 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
 | 79 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 80 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
-| 81 | [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 |
-| 82 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
+| 81 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
+| 82 | [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 |
 | 83 | [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 |
 | 84 | [casandra](https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [casandra](https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY) | 2:20 |
 | 85 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
@@ -98,14 +98,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 88 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
 | 89 | [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 |
 | 90 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
-| 91 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
-| 92 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
+| 91 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
+| 92 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 93 | [best day ever](https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [best day ever](https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas) | 3:29 |
 | 94 | [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 |
 | 95 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 96 | [Nothing Lasts](https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:36 |
-| 97 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
-| 98 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 |
+| 97 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 |
+| 98 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
 | 99 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 |
 | 100 | [angel like u](https://open.spotify.com/track/7c5nT959gFGPDnNRIUG0FO) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [angel like u](https://open.spotify.com/album/3AFpn9twmzqjSy1mfXSMmK) | 2:52 |
 

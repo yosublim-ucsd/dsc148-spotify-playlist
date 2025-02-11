@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: TA Thomas
 
-674 songs - 1 day 16 hr 33 min
+675 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-09 | 2023-09-09 |
 | [Angry](https://open.spotify.com/track/6ydHnDa06Ubj127GIeCfNo) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Angry](https://open.spotify.com/album/22dmtgkZHyhVWoXB5UOWni) | 3:06 | 2024-07-26 | 2024-08-24 |
 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 | 2022-03-11 | 2023-02-17 |
+| [Another Man's Life](https://open.spotify.com/track/13Td777M2ReYcBLsNRfDA6) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Person I Knew / Another Man's Life](https://open.spotify.com/album/0HqPyQcks2JPLAdvjVE7L4) | 3:06 | 2025-02-07 |  |
 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-09-27 |  |
 | [Anything](https://open.spotify.com/track/54CJIU0qCLcjgT5KMgHw9B) | [Lee England Jr](https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL) | [Anything](https://open.spotify.com/album/4WXVew9ALyRwKJ6Avj7FYM) | 3:03 | 2023-05-12 | 2023-08-26 |
 | [Anything For You](https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Anything For You](https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI) | 4:16 | 2021-12-03 | 2022-07-29 |
@@ -239,7 +240,7 @@
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2022-03-11 | 2022-09-10 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-09 | 2023-11-08 |
 | [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 | 2022-10-28 |  |
-| [HEAVY](https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:45 | 2024-03-22 |  |
+| [HEAVY](https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:45 | 2024-03-22 | 2025-02-11 |
 | [Hello](https://open.spotify.com/track/2G5lJ6FUso6deyEDYDHrIz) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/2SbyQoJSk1NqFcVye5ncpn) | 3:57 | 2023-10-27 | 2024-12-14 |
 | [Hello](https://open.spotify.com/track/3PShip6upqx22eGpErMcLC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:57 | 2023-10-27 | 2024-02-26 |
 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 | 2024-04-05 |  |

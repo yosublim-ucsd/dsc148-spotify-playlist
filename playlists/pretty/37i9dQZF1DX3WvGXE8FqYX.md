@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Celebrating the power of amazing female pop artists\.  Cover: Olivia Rodrigo & Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,586,739 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,586,593 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 14 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 | 15 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 |
 | 16 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
-| 17 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
+| 17 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
 | 18 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 19 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 20 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 25 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 |
 | 26 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 |
 | 27 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
-| 28 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
+| 28 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 29 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 30 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 31 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 58 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
 | 59 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
 | 60 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
-| 61 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
-| 62 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 61 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 62 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
 | 63 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 |
 | 64 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
 | 65 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |

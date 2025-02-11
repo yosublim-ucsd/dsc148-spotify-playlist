@@ -4,7 +4,7 @@
 
 > RRARI DAL TACCO e Kid Yugi in cover della playlist urban più grande in Italia 🔥
 
-706 songs - 1 day 10 hr 39 min
+707 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Bottiglie rotte \(feat\. Emis Killa & Gemitaiz\)](https://open.spotify.com/track/16Mq5VdmOEtKg3kYSp0Dpp) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Bottiglie rotte \(feat\. Emis Killa & Gemitaiz\)](https://open.spotify.com/album/5lsHnWwEEp1sBenmYDYNid) | 2:37 | 2022-11-17 | 2022-12-09 |
 | [BOULEVARD](https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:42 | 2024-01-12 | 2024-06-07 |
 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2024-12-12 | 2025-01-17 |
-| [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 | 2024-12-03 |  |
+| [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 | 2024-12-03 | 2025-02-11 |
 | [Braquages](https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Braquages](https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ) | 2:38 | 2023-01-03 | 2023-03-10 |
 | [Bruce Wayne \(feat\. thasup\)](https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 2:51 | 2024-05-30 | 2024-06-21 |
 | [BRUTTI PENSIERI \(feat\. thasup\)](https://open.spotify.com/track/1rUo83mfLivTSRzTmu7Neg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 3:07 | 2024-03-07 | 2024-04-12 |
@@ -485,6 +485,7 @@
 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-07 | 2023-05-26 |
 | [OUTSIDER](https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OUTSIDER](https://open.spotify.com/album/0Y6y87L7QxjYMd9AotKayf) | 2:57 | 2023-03-23 | 2023-03-31 |
 | [OuverFOURe](https://open.spotify.com/track/60uVxVUQkMccRuTNkcAP0D) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O) | 2:59 | 2024-11-27 | 2025-01-03 |
+| [PACHAMAMA \(feat\. Rhove\)](https://open.spotify.com/track/0aiwUtIjsp36bKrIBXBXYl) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [SE DIO VUOLE](https://open.spotify.com/album/1FBfql45tK8pBGS2ZKFGj7) | 2:32 | 2025-02-10 |  |
 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 | 2024-01-04 | 2024-02-23 |
 | [Paky Freestyle 2](https://open.spotify.com/track/15G4MmllbiFIDNILzUFn0o) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Paky Freestyle 2](https://open.spotify.com/album/505SokxH7l8nPEQlvAuq5M) | 2:01 | 2023-06-29 | 2023-07-21 |
 | [PALM ANGELS \(feat\. Artie 5ive\)](https://open.spotify.com/track/6giqG8OVQjOAcRxyr9nUBn) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Lamborghini a Via Marina V2](https://open.spotify.com/album/3jXZ8G2pAtUuoGgiaq77cJ) | 3:29 | 2024-09-26 | 2024-10-11 |

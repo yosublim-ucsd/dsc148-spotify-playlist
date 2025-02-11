@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,656 likes - 39 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,655 likes - 39 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 33 | [The Pearl \- 2005 Digital Remaster](https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:14 |
 | 34 | [Wind On Wind](https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 3:13 |
 | 35 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 |
-| 36 | [Another Green World \- 2004 Remaster](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 |
+| 36 | [A Clearing \- Remastered 2004](https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:07 |
 | 37 | [An Echo Of Night \- 2005 Digital Remaster](https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:28 |
-| 38 | [A Clearing \- Remastered 2004](https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:07 |
+| 38 | [Another Green World \- 2004 Remaster](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 |
 | 39 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 |
 
-Snapshot ID: `Z6aegAAAAAB6IMGKGFcNsNIxjUrVCKS1`
+Snapshot ID: `Z6fwAAAAAADk1MT6NUxTCfaA/k682Xyo`

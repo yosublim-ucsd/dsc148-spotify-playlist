@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: distraction4ever",
-  "num_followers": 6131,
+  "num_followers": 6141,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Le th\u00e9 est pr\u00eat",
-        "url": "https://open.spotify.com/album/5Pd99vuVYdne7PCZFIBvsh"
-      },
-      "artists": [
-        {
-          "name": "Population II",
-          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
-        }
-      ],
-      "duration_ms": 286675,
-      "name": "Le th\u00e9 est pr\u00eat",
-      "url": "https://open.spotify.com/track/1AiWcCcG0JjyfryFPPOIX3"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Sainte-Col\u00e8re",
         "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Cours, Cora, cours / Journal d'un loup-garou",
-        "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
+        "name": "Le th\u00e9 est pr\u00eat",
+        "url": "https://open.spotify.com/album/5Pd99vuVYdne7PCZFIBvsh"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Journal d'un loup-garou",
-      "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"
+      "duration_ms": 286675,
+      "name": "Le th\u00e9 est pr\u00eat",
+      "url": "https://open.spotify.com/track/1AiWcCcG0JjyfryFPPOIX3"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -519,6 +503,22 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
+        "name": "Cours, Cora, cours / Journal d'un loup-garou",
+        "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Journal d'un loup-garou",
+      "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Incendie au paradis",
         "url": "https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 219765,
       "name": "Incendie au paradis",
       "url": "https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
         }
       ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -683,34 +683,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
       "artists": [
         {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -731,18 +715,18 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -759,6 +743,22 @@
       "duration_ms": 195000,
       "name": "The Rabbit Song",
       "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "L\u00e9o",
-        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
-      },
-      "artists": [
-        {
-          "name": "Alex Pic",
-          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "L\u00e9o",
-      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "Depuis",
         "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 293200,
       "name": "Depuis",
       "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "L\u00e9o",
+        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "L\u00e9o",
+      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2025-02-06 05:00:11",
-      "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "added_at": "2025-02-06 05:00:11",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Demande sp\u00e9ciale",
-        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 175168,
-      "name": "Demande sp\u00e9ciale",
-      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "added_at": "2025-02-06 05:00:11",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2025-02-06 05:00:11",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+        "name": "Demande sp\u00e9ciale",
+        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+      "duration_ms": 175168,
+      "name": "Demande sp\u00e9ciale",
+      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
     }
   ],
   "unique_name": "ALT_QC",

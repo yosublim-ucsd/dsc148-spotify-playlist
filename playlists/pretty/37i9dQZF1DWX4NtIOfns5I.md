@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > meet rachel bobbitt 💌
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,635 likes - 140 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,751 likes - 140 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 93809,
+  "num_followers": 93825,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABya1o2Xz75H6kgPf1Eh35n",
+  "snapshot_id": "Z6fwAAAAAAA2XJLvV+CDimiK7Eui6Y9t",
   "tracks": [
     {
       "added_at": null,
@@ -302,11 +302,19 @@
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
         }
       ],
-      "duration_ms": 163735,
-      "name": "DO YO SHIT",
-      "url": "https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj"
+      "duration_ms": 213524,
+      "name": "WYD (with GloRilla & Big Boogie)",
+      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
     },
     {
       "added_at": null,
@@ -374,19 +382,11 @@
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
         }
       ],
-      "duration_ms": 213524,
-      "name": "WYD (with GloRilla & Big Boogie)",
-      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
+      "duration_ms": 163735,
+      "name": "DO YO SHIT",
+      "url": "https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj"
     },
     {
       "added_at": null,

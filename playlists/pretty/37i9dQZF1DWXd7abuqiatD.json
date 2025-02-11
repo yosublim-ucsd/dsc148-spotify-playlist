@@ -1,6 +1,6 @@
 {
   "description": "Driving to work? or on a road trip? Find your sing-along moments here.",
-  "num_followers": 304262,
+  "num_followers": 304279,
   "original_name": "Driving Anthems",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
         "name": "Hunting High and Low",
         "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
       "artists": [
         {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1143,6 +1127,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+        "name": "Mail on Sunday",
+        "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+      "duration_ms": 231400,
+      "name": "Low (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Mail on Sunday",
-        "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 231400,
-      "name": "Low (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1459,6 +1443,22 @@
       "duration_ms": 207626,
       "name": "Gold Digger",
       "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Onka's Big Moka",
-        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Onka's Big Moka",
+        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1655,22 +1655,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     }
   ],
   "unique_name": "Driving Anthems",

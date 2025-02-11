@@ -1,79 +1,15 @@
 {
-  "description": "New indie from black artists driving the current. Cover: SPELLLING",
-  "num_followers": 54866,
+  "description": "New indie from black artists driving the current. Cover: FKA twigs ",
+  "num_followers": 54873,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mjewAAAAA4VgtBziMawBaXnLlZJzV8",
+  "snapshot_id": "Z6qONgAAAADx0GdSgJfrZc3jmP4FUSt2",
   "tracks": [
     {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
-    },
-    {
-      "added_at": "2025-01-17 00:25:31",
-      "album": {
-        "name": "Portrait of My Heart",
-        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
-      },
-      "artists": [
-        {
-          "name": "SPELLLING",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
-        }
-      ],
-      "duration_ms": 282850,
-      "name": "Portrait of My Heart",
-      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
-    },
-    {
-      "added_at": "2025-01-17 00:25:31",
-      "album": {
-        "name": "SLOW DANCE IN A GAY BAR",
-        "url": "https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 250097,
-      "name": "SLOW DANCE IN A GAY BAR",
-      "url": "https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
@@ -89,7 +25,7 @@
       "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "i cant tell (love my money)",
         "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
@@ -109,23 +45,39 @@
       "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Gold Filigree",
-        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
+        "name": "SLOW DANCE IN A GAY BAR",
+        "url": "https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P"
       },
       "artists": [
         {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
         }
       ],
-      "duration_ms": 204615,
-      "name": "Gold Filigree",
-      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
+      "duration_ms": 250097,
+      "name": "SLOW DANCE IN A GAY BAR",
+      "url": "https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Eusexua",
         "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
@@ -141,7 +93,55 @@
       "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Gold Filigree",
+        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 204615,
+      "name": "Gold Filigree",
+      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "war",
         "url": "https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
@@ -177,71 +177,7 @@
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
     },
     {
-      "added_at": "2025-01-17 00:25:31",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 220183,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
-    },
-    {
-      "added_at": "2025-01-17 00:25:31",
-      "album": {
-        "name": "Acts of Faith",
-        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "I Look for You",
-      "url": "https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU"
-    },
-    {
-      "added_at": "2025-01-17 00:25:31",
-      "album": {
-        "name": "Hello, Hi",
-        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 135996,
-      "name": "Hello, Hi",
-      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Big Smile, Black Mire",
-        "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Metalhead",
-      "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Perfect Stranger",
         "url": "https://open.spotify.com/album/5gSD2ws5CGoFVoPWtcF4qL"
@@ -257,7 +193,71 @@
       "url": "https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Hello, Hi",
+        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 135996,
+      "name": "Hello, Hi",
+      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Big Smile, Black Mire",
+        "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Metalhead",
+      "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "I Look for You",
+      "url": "https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "DISTRACTION / SCREAM MY NAME",
         "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "u made me a st4r",
         "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "empathogen",
         "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "The Rest Of Me",
         "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
@@ -357,23 +357,7 @@
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
-      },
-      "artists": [
-        {
-          "name": "Tunde Adebimpe",
-          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
-        }
-      ],
-      "duration_ms": 150908,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Love Costs",
         "url": "https://open.spotify.com/album/5gcubcwD8Gvhti1gWvdMuO"
@@ -389,23 +373,39 @@
       "url": "https://open.spotify.com/track/7aJDtyNcnlx8a1P60uqmNn"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Lahai (Deluxe)",
-        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
         }
       ],
-      "duration_ms": 226495,
-      "name": "Dancing Circles 2.0",
-      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
+      "duration_ms": 150908,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
@@ -421,7 +421,39 @@
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Lahai (Deluxe)",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/21bl39xHspuIISAteKFXoq"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "seventeen",
         "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
@@ -453,7 +485,23 @@
       "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Hole Erth",
         "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Dope Sick",
         "url": "https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn"
@@ -497,23 +545,23 @@
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+        "name": "Drop",
+        "url": "https://open.spotify.com/album/5hMekWTlnb8UKJohroZLQy"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
         }
       ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+      "duration_ms": 256819,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/63JgXc0KFuJ0L56E0gjqX8"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Cards On The Table",
         "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "R\u00f6kKOut",
         "url": "https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
     },
     {
-      "added_at": "2025-01-17 00:25:31",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Wants Needs",
         "url": "https://open.spotify.com/album/6r3i5ywHkqFmc2iiBFXdhc"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
         "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
@@ -581,23 +629,7 @@
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "With Only Your Mouth",
-        "url": "https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 183564,
-      "name": "With Only Your Mouth",
-      "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Winter Baby / New Jersey Blues",
         "url": "https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "PULL UP",
         "url": "https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9"
@@ -629,7 +661,23 @@
       "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "With Only Your Mouth",
+        "url": "https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 183564,
+      "name": "With Only Your Mouth",
+      "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "As Soon As You Can",
         "url": "https://open.spotify.com/album/6epsrShXcS2v9Ruekdxhs6"
@@ -645,7 +693,7 @@
       "url": "https://open.spotify.com/track/0fLEi2Vpz6nclCKwMvUozc"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "feel like home",
         "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
@@ -661,7 +709,7 @@
       "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Glimmer of God",
         "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
@@ -677,7 +725,7 @@
       "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Like A Ribbon",
         "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/2cb7yebOYSSMMFUXKVFE7j"
@@ -757,10 +805,26 @@
       "url": "https://open.spotify.com/track/6q8qyXMTCFugcTsPtQDpwJ"
     },
     {
-      "added_at": "2024-12-18 16:39:54",
+      "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Digging Around",
-        "url": "https://open.spotify.com/album/4ZV7TClwbbUPnfCRISDBPY"
+        "name": "I hate your face",
+        "url": "https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 138116,
+      "name": "I hate your face",
+      "url": "https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "I Feel Different Every Day",
+        "url": "https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB"
       },
       "artists": [
         {
@@ -768,81 +832,9 @@
           "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Digging Around",
-      "url": "https://open.spotify.com/track/0mIGu8CxAwQbbwN439W5b3"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "still around",
-        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 217871,
-      "name": "still around",
-      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "What\u2019s It Take to Be a Star?",
-        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 168176,
-      "name": "What\u2019s It Take to Be a Star?",
-      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "INSTANT DEATH",
-        "url": "https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        },
-        {
-          "name": "Goner",
-          "url": "https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c"
-        }
-      ],
-      "duration_ms": 155408,
-      "name": "INSTANT DEATH",
-      "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+      "duration_ms": 210866,
+      "name": "I Know What Everyone Says About Me",
+      "url": "https://open.spotify.com/track/2VWb5h4WeuNgd54p7pk7ay"
     }
   ],
   "unique_name": "Indie Frequency",

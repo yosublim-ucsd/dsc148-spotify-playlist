@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 256401,
+  "num_followers": 256472,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADN1tcvO6RtNg6G0TKdL8iN",
+  "snapshot_id": "Z6fwAAAAAACE5mjQae4LL7yPlrLe7Au1",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheia de Manias",
-        "url": "https://open.spotify.com/album/59QSFHOxbFIFyg6MOeCZh0"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/4Hoopjd7q1Xwk3JWKpozr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
         "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 102857,
       "name": "Rough",
       "url": "https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheia de Manias",
+        "url": "https://open.spotify.com/album/59QSFHOxbFIFyg6MOeCZh0"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/4Hoopjd7q1Xwk3JWKpozr0"
     },
     {
       "added_at": null,

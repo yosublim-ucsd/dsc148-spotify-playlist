@@ -8635,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "Meu Balan\u00e7o",
+        "url": "https://open.spotify.com/album/438qLiFxIdKhMT1BRLPDqN"
+      },
+      "artists": [
+        {
+          "name": "Waltel Branco",
+          "url": "https://open.spotify.com/artist/7xTnElN1hw1D3tPHy1axOw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Meu Balan\u00e7o",
+      "url": "https://open.spotify.com/track/5XT5YRzZKfZJiiGa93P7rG"
+    },
+    {
+      "album": {
         "name": "Mi Conga Es De Akok\u00e1n",
         "url": "https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ"
       },
@@ -9960,7 +9978,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"

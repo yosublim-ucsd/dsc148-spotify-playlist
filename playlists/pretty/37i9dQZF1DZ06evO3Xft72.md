@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,067 likes - 52 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,101 likes - 52 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 38 | [Rock On](https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Yeah!](https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K) | 2:53 |
 | 39 | [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 |
 | 40 | [White Lightning](https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 7:03 |
-| 41 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
-| 42 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
+| 41 | [Rock Brigade](https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 3:08 |
+| 42 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
 | 43 | [Slang](https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 2:37 |
 | 44 | [Now](https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [X](https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By) | 4:00 |
 | 45 | [Hysteria](https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:55 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 51 | [Tonight](https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 4:03 |
 | 52 | [Undefeated](https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Mirror Ball – Live & More](https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32) | 4:40 |
 
-Snapshot ID: `Z6aegAAAAAAyzhNhkBDQzUlGLzyXGbbF`
+Snapshot ID: `Z6fwAAAAAADkWhB+tBmwgSN1yLpU8MKj`

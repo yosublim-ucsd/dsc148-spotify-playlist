@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,176 likes - 50 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,226 likes - 50 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 43 | [Yeshua](https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Yeshua](https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78) | 8:53 |
 | 44 | [Take over \(Soaking\)](https://open.spotify.com/track/35ftVLfBb19KBacBlWzAzw) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Take over \(Soaking\)](https://open.spotify.com/album/2iXLwgho6Ld7PQDurpDXNG) | 3:07 |
 | 45 | [Onye \(Here by Your Grace\)](https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Onye \(Here by Your Grace\)](https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq) | 8:16 |
-| 46 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
-| 47 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |
+| 46 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |
+| 47 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
 | 48 | [Let It Rain](https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 7:35 |
 | 49 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
 | 50 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |

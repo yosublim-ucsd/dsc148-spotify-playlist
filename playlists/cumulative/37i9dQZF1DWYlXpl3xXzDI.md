@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-306 songs - 18 hr 12 min
+307 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 | 2017-12-03 | 2024-04-19 |
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/0o3x0nS7xb0SXStxGA3S3U) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/4ka3M6jWwfhOkeadSXqksY) | 3:25 | 2021-11-18 | 2025-02-04 |
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz) | 3:25 | 2021-11-18 | 2024-04-19 |
-| [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 | 2025-02-03 |  |
+| [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 | 2025-02-03 | 2025-02-11 |
 | [In Your Arms](https://open.spotify.com/track/2TC2RvlE8Op9aTQzhdYAx5) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Paper Doors](https://open.spotify.com/album/39OhC1jSFTS9wIBQQRfuvY) | 3:28 | 2017-12-03 | 2024-04-19 |
 | [In Your Arms](https://open.spotify.com/track/2UcrOnNw5WJr6Xu2q8QAPI) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [In Your Arms](https://open.spotify.com/album/6mR9tHwbzt0284PGj9Z9KD) | 3:28 | 2017-12-03 | 2025-02-04 |
 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 | 2025-02-03 |  |
@@ -279,6 +279,7 @@
 | [Till The Sun Comes Up](https://open.spotify.com/track/0L37g50gsYddOLlPh9tPu3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Till The Sun Comes Up](https://open.spotify.com/album/1Bp0mK9GTKr6J8JRNdJ3lC) | 3:21 | 2017-12-03 | 2022-11-14 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/3oB8dXCjtQShPeliylX8jg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Till The Sun Comes Up](https://open.spotify.com/album/7eKFymkUkJdRpKDYEXlTnp) | 3:21 | 2017-12-03 | 2025-02-04 |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2017-12-03 | 2024-04-19 |
+| [Today](https://open.spotify.com/track/5tKOOwcF7wdfNGTQGsXXzy) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Today](https://open.spotify.com/album/4QXTS74M6q3erVpK4uumPX) | 4:22 | 2025-02-10 |  |
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2025-02-03 |  |
 | [Torn](https://open.spotify.com/track/6c2AwEBPa3JJBSYHNbasAN) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Classic Covers](https://open.spotify.com/album/47KsZpubPUNipcC7cbywDA) | 3:16 | 2017-12-03 | 2022-11-13 |
 | [Torn \- Bonus Track](https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z) | 3:16 | 2017-12-03 | 2024-04-19 |

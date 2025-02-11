@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. rusowsky",
-  "num_followers": 215488,
+  "num_followers": 215482,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,26 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "CUTE",
+        "url": "https://open.spotify.com/album/0BF7WXthRwQS2Z3ZY0dm71"
+      },
+      "artists": [
+        {
+          "name": "coketa",
+          "url": "https://open.spotify.com/artist/054tOGQBM6eAMQfbLIoYvA"
+        },
+        {
+          "name": "Ravenger.",
+          "url": "https://open.spotify.com/artist/2PANiwk7wg13SSkvflsJTE"
+        }
+      ],
+      "duration_ms": 123824,
+      "name": "CUTE",
+      "url": "https://open.spotify.com/track/0fUJ44OtRfKgiNQFdwE87o"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Cambio",
         "url": "https://open.spotify.com/album/4oxNnbcqZxCjMCWAYljikR"
       },
@@ -995,6 +1015,26 @@
       "duration_ms": 184984,
       "name": "Cambio",
       "url": "https://open.spotify.com/track/1Ybaw0lUjKmUnT4JGBuftF"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
+      },
+      "artists": [
+        {
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1023,26 +1063,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "Ying Yang",
-        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
-      },
-      "artists": [
-        {
-          "name": "grauu",
-          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Ying Yang",
-      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "Lo Que Dijiste",
         "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 208182,
       "name": "Lo Que Dijiste",
       "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "ENTUUUUPIELX2",
-        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
-      },
-      "artists": [
-        {
-          "name": "dieglitter",
-          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
-        },
-        {
-          "name": "Bbynito",
-          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "ENTUUUUPIELX2",
-      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "persiguiendo musas (mixtape)",
-        "url": "https://open.spotify.com/album/5oEAFUsaRNbhNd39fMom8b"
+        "name": "ENTUUUUPIELX2",
+        "url": "https://open.spotify.com/album/7jhr9NnoqrGdtalKnAj4CY"
       },
       "artists": [
         {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        },
+        {
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
         }
       ],
-      "duration_ms": 152856,
-      "name": "no lo entiendo...",
-      "url": "https://open.spotify.com/track/1CpN12hB8NSkUul21Kbabb"
+      "duration_ms": 142973,
+      "name": "ENTUUUUPIELX2",
+      "url": "https://open.spotify.com/track/6zSeAbcsE67miVgsK7Uzr5"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1159,6 +1163,22 @@
       "duration_ms": 235294,
       "name": "(re) play",
       "url": "https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "persiguiendo musas (mixtape)",
+        "url": "https://open.spotify.com/album/5oEAFUsaRNbhNd39fMom8b"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        }
+      ],
+      "duration_ms": 152856,
+      "name": "no lo entiendo...",
+      "url": "https://open.spotify.com/track/1CpN12hB8NSkUul21Kbabb"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "10g de polen",
-        "url": "https://open.spotify.com/album/4xrJeIzrtiXDuCfZ5vMeG4"
-      },
-      "artists": [
-        {
-          "name": "Serchito trambotiko",
-          "url": "https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm"
-        },
-        {
-          "name": "dn.aire",
-          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
-        }
-      ],
-      "duration_ms": 193681,
-      "name": "10g de polen",
-      "url": "https://open.spotify.com/track/73zUjNka4cvwb8sxEBfLrJ"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "no es amor",
         "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "Plastic Boy",
-        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
-      },
-      "artists": [
-        {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "A DIOS LE PIDO",
         "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 136811,
       "name": "A DIOS LE PIDO",
       "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "Plastic Boy",
+        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
+      },
+      "artists": [
+        {
+          "name": "RUVENRUVEN",
+          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1335,6 +1335,26 @@
       "duration_ms": 136603,
       "name": "SOUL EATER",
       "url": "https://open.spotify.com/track/2anPSraAkJepJDDAaJgQTP"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "10g de polen",
+        "url": "https://open.spotify.com/album/4xrJeIzrtiXDuCfZ5vMeG4"
+      },
+      "artists": [
+        {
+          "name": "Serchito trambotiko",
+          "url": "https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm"
+        },
+        {
+          "name": "dn.aire",
+          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
+        }
+      ],
+      "duration_ms": 193681,
+      "name": "10g de polen",
+      "url": "https://open.spotify.com/track/73zUjNka4cvwb8sxEBfLrJ"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1391,22 +1411,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "I Love Me More",
-        "url": "https://open.spotify.com/album/1tcMgt7J3cYlgMwVMvhtxd"
-      },
-      "artists": [
-        {
-          "name": "FRIEDRIICH",
-          "url": "https://open.spotify.com/artist/4v1w0wohImiZWLUENo0nif"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "I Love Me More",
-      "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "Cocky!",
         "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
@@ -1419,6 +1423,22 @@
       "duration_ms": 163636,
       "name": "Cocky!",
       "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "I Love Me More",
+        "url": "https://open.spotify.com/album/1tcMgt7J3cYlgMwVMvhtxd"
+      },
+      "artists": [
+        {
+          "name": "FRIEDRIICH",
+          "url": "https://open.spotify.com/artist/4v1w0wohImiZWLUENo0nif"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "I Love Me More",
+      "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1439,22 +1459,6 @@
       "duration_ms": 154777,
       "name": "SALIR A MORIR",
       "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1483,18 +1487,18 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "boomerang hyperpop (remix)",
-        "url": "https://open.spotify.com/album/3uoGTltaD9Tar4h7FQkm8I"
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
       },
       "artists": [
         {
-          "name": "Amalia tal vez",
-          "url": "https://open.spotify.com/artist/5vK4kTUNQKnY6bEE9XWtUN"
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
         }
       ],
-      "duration_ms": 164160,
-      "name": "boomerang hyperpop - remix",
-      "url": "https://open.spotify.com/track/7AQWK0gXNDi7h0FOjABf3E"
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1515,6 +1519,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "boomerang hyperpop (remix)",
+        "url": "https://open.spotify.com/album/3uoGTltaD9Tar4h7FQkm8I"
+      },
+      "artists": [
+        {
+          "name": "Amalia tal vez",
+          "url": "https://open.spotify.com/artist/5vK4kTUNQKnY6bEE9XWtUN"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "boomerang hyperpop - remix",
+      "url": "https://open.spotify.com/track/7AQWK0gXNDi7h0FOjABf3E"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/2gKtW0ouL63f5zb8Rbpzt2"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 90357,
       "name": "Up",
       "url": "https://open.spotify.com/track/57zdgKxh8hAO5AevjiQwYg"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "CUTE",
-        "url": "https://open.spotify.com/album/0BF7WXthRwQS2Z3ZY0dm71"
-      },
-      "artists": [
-        {
-          "name": "coketa",
-          "url": "https://open.spotify.com/artist/054tOGQBM6eAMQfbLIoYvA"
-        },
-        {
-          "name": "Ravenger.",
-          "url": "https://open.spotify.com/artist/2PANiwk7wg13SSkvflsJTE"
-        }
-      ],
-      "duration_ms": 123824,
-      "name": "CUTE",
-      "url": "https://open.spotify.com/track/0fUJ44OtRfKgiNQFdwE87o"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "ya fue",
+        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "ya fue",
+      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "GUSTARLE A TU ABUELA",
         "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 132903,
       "name": "GUSTARLE A TU ABUELA",
       "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "ya fue",
-        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "ya fue",
-      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
+        "name": "SUBNORMAL",
+        "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 114549,
+      "name": "SUBNORMAL",
+      "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
         "name": "Diavlo",
         "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 153750,
       "name": "NIGHTMARE",
       "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
-        "name": "SUBNORMAL",
-        "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 114549,
-      "name": "SUBNORMAL",
-      "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
     },
     {
       "added_at": "2025-01-30 23:00:11",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-01-30 23:00:11",
       "album": {
-        "name": "Peke\u00f1o",
-        "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
-        }
-      ],
-      "duration_ms": 138677,
-      "name": "Secret0-0",
-      "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
-    },
-    {
-      "added_at": "2025-01-30 23:00:11",
-      "album": {
         "name": "FLOR",
         "url": "https://open.spotify.com/album/5yk2soT6ZFBvWZlmp4aJSZ"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
+    },
+    {
+      "added_at": "2025-01-30 23:00:11",
+      "album": {
+        "name": "Peke\u00f1o",
+        "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
+        }
+      ],
+      "duration_ms": 138677,
+      "name": "Secret0-0",
+      "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
     }
   ],
   "unique_name": "helium",

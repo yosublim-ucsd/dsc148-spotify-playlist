@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,946 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,028 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 41 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
 | 42 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
 | 43 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
-| 44 | [Weil ich dich liebe \- 2000 Remaster](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
-| 45 | [Regen und Meer](https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Es ist Juli](https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD) | 3:35 |
+| 44 | [Regen und Meer](https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Es ist Juli](https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD) | 3:35 |
+| 45 | [Weil ich dich liebe \- 2000 Remaster](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 |
 | 46 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 47 | [paris syndrom \- dach session](https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [paris syndrom \(dach session\)](https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP) | 2:50 |
 | 48 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
-| 49 | [Tanz der Moleküle \- Single Version](https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk) | [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Tanz Der Moleküle](https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3) | 3:58 |
-| 50 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
+| 49 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
+| 50 | [Tanz der Moleküle \- Single Version](https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk) | [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Tanz Der Moleküle](https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3) | 3:58 |
 | 51 | [Das größte Kompliment](https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Das größte Kompliment](https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1) | 2:28 |
 | 52 | [Der Weg](https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 4:19 |
 | 53 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 448907,
+  "num_followers": 449068,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAADz5vSdxVDvRd3RB489i9Bd",
+  "snapshot_id": "Z6fwAAAAAAAv1utdM0UFrkkHKa5D0tjV",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
       "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 223853,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/59NC8SuXPiSaiYL69XQ4dt"
+      "duration_ms": 316192,
+      "name": "Let It All Work Out",
+      "url": "https://open.spotify.com/track/3BUWNzPWz2mDbptZmGEXpB"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
       "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 316192,
-      "name": "Let It All Work Out",
-      "url": "https://open.spotify.com/track/3BUWNzPWz2mDbptZmGEXpB"
+      "duration_ms": 223853,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/59NC8SuXPiSaiYL69XQ4dt"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am Not A Human Being",
         "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pop It Off",
-        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Pop It Off",
-      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here I Am (Deluxe Version)",
+        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hall Of Fame (Deluxe)",
         "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 235186,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here I Am (Deluxe Version)",
-        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
       "added_at": null,
@@ -1111,18 +1111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+        "name": "Tweaker (Remix)",
+        "url": "https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX"
       },
       "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 312960,
-      "name": "Blunt Blowin",
-      "url": "https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu"
+      "duration_ms": 218457,
+      "name": "Tweaker (feat. Lil Wayne) - Remix",
+      "url": "https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E"
     }
   ],
   "unique_name": "This Is Lil Wayne",

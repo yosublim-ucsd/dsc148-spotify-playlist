@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💛 Omar & Mumle
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,754 likes - 93 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,750 likes - 93 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

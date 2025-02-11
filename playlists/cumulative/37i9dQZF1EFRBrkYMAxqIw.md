@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 7 hr 52 min
+150 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 | 2023-04-19 |  |
 | [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 | 2023-12-13 |  |
 | [Last One On My Mind](https://open.spotify.com/track/5GqXJIFLTN6cCSKojL326c) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Last One On My Mind](https://open.spotify.com/album/1Uy6JJzeVXvLJrIgiWjrjQ) | 2:44 | 2023-07-28 | 2023-12-14 |
-| [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/28t7ZclIGsXd7bDGDt72Ys), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 | 2022-05-25 |  |
+| [Late Nights](https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights](https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB) | 3:12 | 2025-02-10 |  |
+| [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/28t7ZclIGsXd7bDGDt72Ys), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 | 2022-05-25 | 2025-02-11 |
 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 | 2022-05-25 |  |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-10-22 |  |
 | [Like I Love You](https://open.spotify.com/track/1o41lANxFtrJFG5FuTmHfQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [Alive And Feeling Fine](https://open.spotify.com/album/6NQRmMazNOKi0IiIXlNzGh) | 3:10 | 2024-10-14 |  |

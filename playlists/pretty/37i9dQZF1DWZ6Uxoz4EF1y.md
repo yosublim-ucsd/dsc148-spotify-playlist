@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,594 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,719 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 55 | [Vamos Pa' Arriba](https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Con el Mundo de Cabeza](https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96) | 3:19 |
 | 56 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |
 | 57 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
-| 58 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
+| 58 | [Calvario](https://open.spotify.com/track/3KyYP6N1HqfR00s9Locjzm) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 4:12 |
 | 59 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
 | 60 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 |
 | 61 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 75 | [Jesucristo basta](https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Somos Iglesia](https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T) | 4:48 |
 | 76 | [Gracia Sublime Es](https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU) | 5:15 |
 | 77 | [Te Dejo Ganar](https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P) | 3:21 |
-| 78 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 |
+| 78 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 79 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 10:12 |
 | 80 | [Sé Entronado \- Live](https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hunter Thompson](https://open.spotify.com/artist/0NjFV1dPOxLHtEn4sPhUTd) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 7:45 |
-| 81 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
+| 81 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 |
 | 82 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
 | 83 | [Gracias](https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW) | 5:05 |
 | 84 | [Lo Unico Que Quiero](https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:27 |

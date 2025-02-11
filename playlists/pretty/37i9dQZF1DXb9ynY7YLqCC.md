@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Dillom
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,532 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,553 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 15 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
 | 16 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
 | 17 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
-| 18 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
+| 18 | [Cobarde para Amar](https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 4:22 |
 | 19 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
 | 20 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
 | 21 | [La ilusión que me condena](https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:00 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 26 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
 | 27 | [¿Qué Vas A Hacer Tan Sola Hoy?](https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:08 |
 | 28 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
-| 29 | [Cobarde para Amar](https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 4:22 |
+| 29 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
 | 30 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
 | 31 | [Volver a Casa](https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 3:46 |
 | 32 | [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 56 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
 | 57 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
 | 58 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
-| 59 | [Esa Gente](https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 4:29 |
+| 59 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
 | 60 | [Probaste un Buen Dolor](https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Venganza Primavera](https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0) | 3:43 |
 | 61 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
 | 62 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 63 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
 | 64 | [Certezas de cartón](https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Irreal](https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk) | 3:38 |
-| 65 | [Paciencia](https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Al filo del abismo](https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj) | 4:15 |
-| 66 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |
-| 67 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
+| 65 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |
+| 66 | [Paciencia](https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Al filo del abismo](https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj) | 4:15 |
+| 67 | [Esa Gente](https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 4:29 |
 | 68 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 |
 | 69 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
 | 70 | [Bandidos](https://open.spotify.com/track/2QQhgCsxNMDKw6lUqzZJo5) | [La Condena De Caín](https://open.spotify.com/artist/1OMNBOBGMShIpnkFZRFVnU), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Bandidos](https://open.spotify.com/album/1z8DHPkC5NsjelOzhc8waY) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Future hits in the Philippines! Cover: Saga Faye",
+  "description": "Future hits in the Philippines! Cover: Doechii",
   "name": "Pop Rising Philippines",
   "tracks": [
     {
@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "AFTERCARE DELUXE",
+        "url": "https://open.spotify.com/album/2N7vgP69icYL6YHveTf4wO"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "AMERICAN BEAUTY",
+      "url": "https://open.spotify.com/track/5SnjJmCcuHkkWHMTLQTjkP"
+    },
+    {
+      "album": {
         "name": "APEROL SPRITZ",
         "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 133982,
       "name": "Be in love",
       "url": "https://open.spotify.com/track/3Fumvvu3upHBQ4DznLhIO2"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
@@ -2257,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Requiem (Deluxe)",
+        "url": "https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237609,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA"
+    },
+    {
+      "album": {
         "name": "alone tonight",
         "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
       },
@@ -2664,7 +2700,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
@@ -2972,6 +3008,24 @@
       "duration_ms": 237213,
       "name": "Nobody's Soldier",
       "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+    },
+    {
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
     },
     {
       "album": {
@@ -4828,7 +4882,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 148810,
       "name": "Walkin On Water",
       "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,616 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,955 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 19 | [Heartache On The Dance Floor](https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:25 |
 | 20 | [Dancin’ In The Country](https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 2:59 |
 | 21 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
-| 22 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
-| 23 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
+| 22 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
+| 23 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 24 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 |
 | 25 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 26 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 46 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 | 47 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 48 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
-| 49 | [Coming Home](https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Coming Home](https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV) | 2:50 |
-| 50 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
+| 49 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
+| 50 | [Coming Home](https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Coming Home](https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV) | 2:50 |
 | 51 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
 | 52 | [Even If It Breaks Your Heart](https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:40 |
 | 53 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |

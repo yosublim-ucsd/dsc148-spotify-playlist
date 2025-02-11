@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,096 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,102 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 4 | [Deze Plek](https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/4AtOJ3QhLmFPZ7RdsuT7tc) | 3:09 |
 | 5 | [Leef Een Beetje](https://open.spotify.com/track/1vhEfity5GLO5a9qF6ch7B) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Leef Een Beetje](https://open.spotify.com/album/2LEx437XznruD4LOlh1eYc) | 2:10 |
 | 6 | [Door Tot De Kater Komt](https://open.spotify.com/track/3e63pj2xlCrnUUUMh8cL3P) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Door Tot De Kater Komt](https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM) | 2:57 |
-| 7 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
+| 7 | [Zal Ik Blijven](https://open.spotify.com/track/1ACik57TjFz556Utlqp9n5) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zal Ik Blijven](https://open.spotify.com/album/7sOH5LWyVmxr2tTnXOuNXE) | 2:35 |
 | 8 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 9 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 10 | [ADEMEN](https://open.spotify.com/track/1xVGGFUf67rvhKULh94etP) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [ADEMEN](https://open.spotify.com/album/2kyN8WLxgTJBOmC4XjCjJP) | 2:51 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 13 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 14 | [SHEIZE](https://open.spotify.com/track/17TWvzQYJ06qFSGGiDymJ7) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [SHEIZE](https://open.spotify.com/album/4hsv4HmLrmxfAsxex8ruWo) | 2:07 |
 | 15 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
-| 16 | [Als een god](https://open.spotify.com/track/1jmkrJc0WDxqYvUEiHonK5) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Als Een God](https://open.spotify.com/album/4RtGP0GnPaUNegRPe5uoOh) | 2:21 |
+| 16 | [Als Een God](https://open.spotify.com/track/1jmkrJc0WDxqYvUEiHonK5) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Als Een God](https://open.spotify.com/album/4RtGP0GnPaUNegRPe5uoOh) | 2:21 |
 | 17 | [Bass In Da Blood](https://open.spotify.com/track/2RvpQFVb9ZTStAm4qJSRf2) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bass In Da Blood](https://open.spotify.com/album/4IMtgnaXkHupe6aRGiHdoA) | 2:12 |
 | 18 | [House Is The Religion](https://open.spotify.com/track/10o9PsKjYzrPopHbZMxSpO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Grace Note](https://open.spotify.com/album/7LpgG3Pc5k14wlanV3LfAQ) | 3:18 |
 | 19 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |

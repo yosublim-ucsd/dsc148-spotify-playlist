@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,768 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,812 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 3 | [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 |
 | 4 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 |
 | 5 | [Baby](https://open.spotify.com/track/68hsGjcm2hh7UpFJwFKq8v) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 2:47 |
-| 6 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 |
+| 6 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |
 | 7 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
-| 8 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |
+| 8 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 |
 | 9 | [VAI DAR BOM](https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Vai dar Bom](https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5) | 3:24 |
 | 10 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 |
 | 11 | [Mel](https://open.spotify.com/track/3hXs94MLnQhDzQcXBYt3jH) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Mel](https://open.spotify.com/album/44q4l8hgjfTUObJlQwHJxA) | 3:18 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 18 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
 | 19 | [Candeia](https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Candeia](https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9) | 3:19 |
 | 20 | [Não para Não](https://open.spotify.com/track/1NRL7Gz31YsIufsa3zhYed) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não para Não](https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS) | 2:34 |
-| 21 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 |
-| 22 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
+| 21 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
+| 22 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 |
 | 23 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 |
 | 24 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
 | 25 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |

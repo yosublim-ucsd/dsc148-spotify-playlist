@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 34618,
+  "num_followers": 34627,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAABipnZLxvBx3PINxxgX9qEq",
+  "snapshot_id": "Z6fwAAAAAAB+Jx1y2yraEhPdZhtH7Aib",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "La Patrulla 05",
-      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 181213,
       "name": "Santos Cant\u00fa",
       "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "La Patrulla 05",
+      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "El Vengador de Federales",
-      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 189613,
       "name": "El Quemador",
       "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "El Capitan Fantasma",
-      "url": "https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 158800,
       "name": "Corrido De Armando Mart\u00ednez",
       "url": "https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "El Capitan Fantasma",
+      "url": "https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw"
     },
     {
       "added_at": null,

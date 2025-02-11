@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7907089,
+  "num_followers": 7907640,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 188534,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2025-02-06 23:00:42",
@@ -1619,30 +1619,6 @@
     {
       "added_at": "2025-02-06 23:00:42",
       "album": {
-        "name": "Lay All Your Love On Me",
-        "url": "https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T"
-      },
-      "artists": [
-        {
-          "name": "loafers",
-          "url": "https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc"
-        },
-        {
-          "name": "Badjack",
-          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
-        },
-        {
-          "name": "Maxim Schunk",
-          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
-    },
-    {
-      "added_at": "2025-02-06 23:00:42",
-      "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
+    },
+    {
+      "added_at": "2025-02-06 23:00:42",
+      "album": {
+        "name": "Lay All Your Love On Me",
+        "url": "https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T"
+      },
+      "artists": [
+        {
+          "name": "loafers",
+          "url": "https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc"
+        },
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "Maxim Schunk",
+          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
     },
     {
       "added_at": "2025-02-06 23:00:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,160 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,229 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 31 | [Wednesday Evenin' Blues](https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 3:34 |
 | 32 | [Blues for Lonnie Johnson](https://open.spotify.com/track/7g1PbjHp6Ezwqt9ygfqR3J) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/4L3dfISPZOJx5O24Y6Qxr1) | 4:53 |
 | 33 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
-| 34 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
+| 34 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 |
 | 35 | [Night Shift Blues](https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E) | [Night Shift](https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE) | 7:31 |
-| 36 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 |
+| 36 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
 | 37 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 38 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 39 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |

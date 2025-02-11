@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 146181,
       "name": "Mayathe",
       "url": "https://open.spotify.com/track/6EyYDqDJnoCmAwWBpYRMKE"
@@ -4180,7 +4180,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-11",
       "duration_ms": 260000,
       "name": "Porul",
       "url": "https://open.spotify.com/track/0kJJmko72rMUeFdi3WI4dM"
@@ -4930,6 +4930,28 @@
       "duration_ms": 186899,
       "name": "Thedi Ninne",
       "url": "https://open.spotify.com/track/77S4AzWeaNvBYEhZOKuvJp"
+    },
+    {
+      "album": {
+        "name": "THEERAME",
+        "url": "https://open.spotify.com/album/38FUHVIDJ4mWRMKFn0fYd5"
+      },
+      "artists": [
+        {
+          "name": "Antos Jr",
+          "url": "https://open.spotify.com/artist/3h658ek6PUKeU0hOi2C8VX"
+        },
+        {
+          "name": "Jackson",
+          "url": "https://open.spotify.com/artist/6weKA8m0b1AidWiZTuGG3e"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "THEERAME",
+      "url": "https://open.spotify.com/track/6sVKdxiccpOir1Rd51r1hP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,810 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,842 likes - 125 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 122 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 123 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 |
 | 124 | [Till The Sky Falls Down](https://open.spotify.com/track/0wZDzY0ITlFKYApsjunEDR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Till The Sky Falls Down](https://open.spotify.com/album/6NQ8TKQpzWTQmhv7eUnMKD) | 3:50 |
-| 125 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 |
+| 125 | [Revolution \(feat\. Faustix, Imanos & Kai\)](https://open.spotify.com/track/5zG4pMcM2QILFOFL3Y3ZMf) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Revolution](https://open.spotify.com/album/5M0Jehr5jJAwdd23KwvayA) | 4:23 |
 
 Snapshot ID: `Z5elEQAAAAC5cC7UaPLPtPByug3jjaNA`

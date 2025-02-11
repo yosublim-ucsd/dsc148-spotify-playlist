@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,188 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,222 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 23 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
 | 24 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 | 25 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
-| 26 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
-| 27 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
+| 26 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
+| 27 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 | 28 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 |
 | 29 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 |
 | 30 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 54 | [Break My Heart](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Break My Heart](https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs) | 3:41 |
 | 55 | [Shameless](https://open.spotify.com/track/3UYiU57SMiAS5LqolhHJw1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shameless](https://open.spotify.com/album/2h1p1JzjT9rLJFAFrIkyrm) | 3:39 |
 | 56 | [Old Town Road \(feat\. RM of BTS\) \- Seoul Town Road Remix](https://open.spotify.com/track/6woeVu3fVMflqen1t4N6pg) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Old Town Road \(feat\. RM of BTS\) \[Seoul Town Road Remix\]](https://open.spotify.com/album/7CQho9XJ69KLTUdM9vUZyW) | 1:54 |
-| 57 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 |
-| 58 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
+| 57 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
+| 58 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 |
 | 59 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |
 | 60 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 |
 

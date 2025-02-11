@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,340 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,360 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 63 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 |
 | 64 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
 | 65 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
-| 66 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
-| 67 | [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 |
+| 66 | [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 |
+| 67 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
 | 68 | [Otro Cuento](https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 3:10 |
 | 69 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 70 | [La Alegría Manda](https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Stuartinfk](https://open.spotify.com/artist/73vQG2QcCRTld4tt9cQMpk) | [Nonpalidece](https://open.spotify.com/album/1kYgzpnvsVgE3QOf1Gq1zm) | 3:39 |

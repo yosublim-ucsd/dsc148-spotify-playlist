@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,271 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,283 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 11 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 12 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 13 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
-| 14 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
-| 15 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:12 |
+| 14 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:12 |
+| 15 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 | 16 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
 | 17 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
 | 18 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 72 | [Somebody Told Me](https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:17 |
 | 73 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
 | 74 | [Dear Maria, Count Me In](https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD) | 3:02 |
-| 75 | [My Friends Over You](https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks and Stones](https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK) | 3:40 |
-| 76 | [I'd Do Anything](https://open.spotify.com/track/5KCPpfk3qfw2Gd9DRMCq8Y) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls](https://open.spotify.com/album/3rEl0zv6lbVZiB79uHAQ5y) | 3:17 |
+| 75 | [I'd Do Anything](https://open.spotify.com/track/5KCPpfk3qfw2Gd9DRMCq8Y) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls](https://open.spotify.com/album/3rEl0zv6lbVZiB79uHAQ5y) | 3:17 |
+| 76 | [My Friends Over You](https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks and Stones](https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK) | 3:40 |
 | 77 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 |
 | 78 | [If It Means a Lot to You](https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 4:03 |
-| 79 | [Swing, Swing](https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/6sPphURA5x4AkQXudmstAi) | 3:53 |
-| 80 | [Check Yes, Juliet](https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y) | 3:38 |
+| 79 | [Death Of A Strawberry](https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Instant Gratification](https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e) | 4:10 |
+| 80 | [Swing, Swing](https://open.spotify.com/track/4jVhSbMMHctghoOTFuLPB2) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/6sPphURA5x4AkQXudmstAi) | 3:53 |
 
 Snapshot ID: `Zo5QvgAAAACZH0qcPMmXi0P7xj8KXrQY`

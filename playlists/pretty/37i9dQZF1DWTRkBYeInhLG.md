@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,196 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,250 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 18 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 |
 | 19 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
 | 20 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
-| 21 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 |
-| 22 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
+| 21 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
+| 22 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 |
 | 23 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
 | 24 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
 | 25 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 59 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
 | 60 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
 | 61 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
-| 62 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
-| 63 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
+| 62 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
+| 63 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
 | 64 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 | 65 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 |
 | 66 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
-| 67 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
-| 68 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
+| 67 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
+| 68 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
 | 69 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
-| 70 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
-| 71 | [Evaluasi \(Reprise\)](https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Evaluasi \(Reprise\)](https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF) | 3:13 |
+| 70 | [Evaluasi \(Reprise\)](https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Evaluasi \(Reprise\)](https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF) | 3:13 |
+| 71 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 72 | [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 |
 | 73 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 |
 | 74 | [Bukan Cinta Biasa \- Dekade Version](https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:38 |

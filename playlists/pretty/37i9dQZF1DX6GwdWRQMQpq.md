@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,213,180 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,213,725 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 6 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
 | 7 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 |
 | 8 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
-| 9 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
+| 9 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
 | 10 | [Roc Steady \(feat\. Flo Milli\)](https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:19 |
-| 11 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
-| 12 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
-| 13 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 |
-| 14 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
-| 15 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
-| 16 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 |
-| 17 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
-| 18 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
+| 11 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
+| 12 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
+| 13 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
+| 14 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 |
+| 15 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
+| 16 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
+| 17 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 |
+| 18 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
 | 19 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 20 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
 | 21 | [Move Pt\. 2](https://open.spotify.com/track/43jK2dpFWOE8MwT1UrStEa) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Move Pt\. 2](https://open.spotify.com/album/2HNBlkI3hyoHUZJfHFjAKQ) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
 | 50 | [Jump](https://open.spotify.com/track/4ZpIgyRkehscIUa84tS3Sx) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [The Last Doll](https://open.spotify.com/album/7yn4tvk6FnItSAPYgPaQ4F) | 1:41 |
 
-Snapshot ID: `Z6WTcQAAAAD3L7kcMcjpPgSjkKcudlP6`
+Snapshot ID: `Z6qL4wAAAADn5COg5XJLQINWQRuzTv+e`

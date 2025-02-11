@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fwT5VsaHzA.md) - [plain]
 
 > the best routine for all skin types ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,608 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,704 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fwT5VsaHzA.md) - [plain]
 | 4 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
 | 5 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
 | 6 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
-| 7 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 7 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 8 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 9 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 10 | [gracias x estar aquí](https://open.spotify.com/track/4RanQQElPuCgkqiLy0IHIq) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:55 |

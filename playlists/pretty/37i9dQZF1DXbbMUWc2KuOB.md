@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,556 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,598 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Reasons of My Smiles \- Inst.](https://open.spotify.com/track/4QSkY17gPTuGfb7RZFTGXD) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 2 | [This Love \- Instrumental](https://open.spotify.com/track/0VF0fV86TBgc6PcOaPOZIs) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 |
-| 3 | [Hold Me Back \- Inst.](https://open.spotify.com/track/2B2FhKiBfuA57tCwU8Wsnz) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
-| 4 | [Tell Me It's Not a Dream \- Inst.](https://open.spotify.com/track/5OwqkYHxGy1NsJPFoApFvq) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
+| 3 | [Tell Me It's Not a Dream \- Inst.](https://open.spotify.com/track/5OwqkYHxGy1NsJPFoApFvq) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
+| 4 | [Hold Me Back \- Inst.](https://open.spotify.com/track/2B2FhKiBfuA57tCwU8Wsnz) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
 | 5 | [Beautiful \- Instrumental](https://open.spotify.com/track/4M7c95EghrwaFixpbGDoRn) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 6 | [You Are My Everything \- Instrumental](https://open.spotify.com/track/1FCg1WKlpZU6earLUgWAJB) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 7 | [ALWAYS \- Instrumental](https://open.spotify.com/track/02zIddEu5KR0z4riBzHJU4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 44 | [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
 | 45 | [Did \- Thirty\-nine Instrumental Version](https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
 | 46 | [What A Wonderful Day \- Instrumental](https://open.spotify.com/track/70LlESa3N6MDu6GZ5eKqAj) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3NMhbHEMzUQF0BbOXtRR8a) | 3:43 |
-| 47 | [Hold My Hand \- Instrumental](https://open.spotify.com/track/13i2U4DVw9EOxdTcYTsvi8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 |
-| 48 | [Writing Our Stories \- Instrumental](https://open.spotify.com/track/0cqpCH4ZAfPrTZcaHdK1Xw) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Chicago Typewriter, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0rg8mV7d5p1u5fNtHp2ns8) | 3:37 |
-| 49 | [Not alone \- Instrumental](https://open.spotify.com/track/5C5qLui0HhsmYAayjUBFRA) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 |
-| 50 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |
+| 47 | [Writing Our Stories \- Instrumental](https://open.spotify.com/track/0cqpCH4ZAfPrTZcaHdK1Xw) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Chicago Typewriter, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0rg8mV7d5p1u5fNtHp2ns8) | 3:37 |
+| 48 | [Hold My Hand \- Instrumental](https://open.spotify.com/track/13i2U4DVw9EOxdTcYTsvi8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 |
+| 49 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |
+| 50 | [Not alone \- Instrumental](https://open.spotify.com/track/5C5qLui0HhsmYAayjUBFRA) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 |
 
 Snapshot ID: `ZgQzhQAAAADrILyRZnccjXRIrUekMyku`

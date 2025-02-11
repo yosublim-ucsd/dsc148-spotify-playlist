@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,675 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,684 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 22 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
 | 23 | [Take Yo Man](https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:56 |
 | 24 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 |
-| 25 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
-| 26 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 |
-| 27 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
+| 25 | [Caramel \(feat\. City Girls\)](https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Caramel \(feat\. City Girls\)](https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM) | 3:52 |
+| 26 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
+| 27 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 |
 | 28 | [Where The Bag At](https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 3:20 |
-| 29 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
-| 30 | [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 |
+| 29 | [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 |
+| 30 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
 | 31 | [Fu\*k Dat Ni\*\*a](https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:14 |
 | 32 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
 | 33 | [Double CC's](https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 |
 | 50 | [Static \(feat\. Lil Durk\)](https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:47 |
 
-Snapshot ID: `Z6aegAAAAABukFMEXwWPsAN8qp1DiFnX`
+Snapshot ID: `Z6fwAAAAAADFyl4mizPxqscUYE5sDvFN`

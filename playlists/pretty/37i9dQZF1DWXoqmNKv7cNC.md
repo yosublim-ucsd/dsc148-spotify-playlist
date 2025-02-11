@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yuridia en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,053 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,120 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 6 | [¡Ay Amor!](https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:21 |
 | 7 | [Con los Ojos Cerrados](https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 3:30 |
 | 8 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 |
-| 9 | [Así No Te Amará Jamás](https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:51 |
-| 10 | [Simplemente Amigos](https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 |
+| 9 | [Simplemente Amigos](https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 |
+| 10 | [Así No Te Amará Jamás](https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:51 |
 | 11 | [Eternamente Bella](https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [De Piel Negra](https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg) | 3:26 |
 | 12 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
 | 13 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 34 | [Complicada](https://open.spotify.com/track/0KZD8Lryg3KbpuJhdWk8bP) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY) | [Complicada](https://open.spotify.com/album/1W4e3zUTAa39vJY19cSv3m) | 2:59 |
 | 35 | [Todo Todo](https://open.spotify.com/track/1V7y6l4lH8XVYNIJmqUsvm) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:12 |
 | 36 | [MIENTES](https://open.spotify.com/track/0l49H3WEYgONsfd9gsr64B) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [MIENTES](https://open.spotify.com/album/1HgVz6E7u9acXEUVKoaNzv) | 2:47 |
-| 37 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
-| 38 | [Mantra](https://open.spotify.com/track/6tuUffUKTvUTP173f0bt9Q) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mantra](https://open.spotify.com/album/1P9CO4GRy3hkcDHARgaChU) | 3:30 |
+| 37 | [Mantra](https://open.spotify.com/track/6tuUffUKTvUTP173f0bt9Q) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mantra](https://open.spotify.com/album/1P9CO4GRy3hkcDHARgaChU) | 3:30 |
+| 38 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 39 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
 | 40 | [Miedo A Las Alturas](https://open.spotify.com/track/01ERnlRUStFoZ98fwyENML) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Miedo A Las Alturas](https://open.spotify.com/album/7EAPl2jYCU667qkYrvkioc) | 3:02 |
 | 41 | [Canción de Cuna Para mi Amor](https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Canción de Cuna Para mi Amor](https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ) | 2:18 |

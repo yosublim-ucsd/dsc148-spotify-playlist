@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: JENNIE\)
 
-796 songs - 1 day 18 hr 19 min
+797 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-08 | 2023-01-11 |
 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-19 | 2023-05-05 |
 | [Make the Move \(feat\. pH\-1\)](https://open.spotify.com/track/3JxRNkoNmAcPgnA5HSnKiz) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [pH\-1](https://open.spotify.com/artist/2hfyKzh49rXQLmPhBKfcH9) | [Make the Move](https://open.spotify.com/album/39kE7BbrzccyYdw9W5dCWf) | 2:57 | 2022-04-19 | 2022-07-02 |
+| [Make the vibe](https://open.spotify.com/track/0pzxdQ001Rot9Ll5MilQmP) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [TRACE](https://open.spotify.com/album/00kDMNQFXyx8iSGSXjsSl7) | 2:33 | 2025-02-10 |  |
 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 | 2022-04-19 | 2024-06-13 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-24 | 2024-10-14 |
 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 | 2024-05-09 |  |
@@ -573,7 +574,7 @@
 | [RADIONA \(Feat\. GIST\)](https://open.spotify.com/track/7yuZTTd7qxLV18dU1QsXrC) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [RADIONA](https://open.spotify.com/album/14jzyg9CvAWyVomsapigey) | 3:08 | 2022-11-03 | 2022-11-10 |
 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 | 2022-07-04 | 2022-07-08 |
 | [Rainbow Freestyle](https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:13 | 2022-05-04 | 2022-07-17 |
-| [Rainy Day Reverie](https://open.spotify.com/track/7hfrzdSIC2a5hV7J4RqiMa) | [SIWOO](https://open.spotify.com/artist/5y9D9PvN3LtLo7huOAKeRO) | [Rainy Day Reverie](https://open.spotify.com/album/46Btr5TOgiwPMD22DKtddU) | 3:49 | 2025-02-05 |  |
+| [Rainy Day Reverie](https://open.spotify.com/track/7hfrzdSIC2a5hV7J4RqiMa) | [SIWOO](https://open.spotify.com/artist/5y9D9PvN3LtLo7huOAKeRO) | [Rainy Day Reverie](https://open.spotify.com/album/46Btr5TOgiwPMD22DKtddU) | 3:49 | 2025-02-05 | 2025-02-11 |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 |  |
 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 | 2022-04-22 | 2022-06-23 |
 | [Re\-Wind](https://open.spotify.com/track/3oR8ziUJz9W0udiwBqdjIk) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Re\-Wind](https://open.spotify.com/album/5CVkeFb6DMXj5HpRIR01yf) | 3:02 | 2024-05-21 | 2024-06-07 |

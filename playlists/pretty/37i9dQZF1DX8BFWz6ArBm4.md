@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Peggy Zina
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,852 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,859 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 43 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
 | 44 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 |
 | 45 | [Mia Paraligo Eftihia](https://open.spotify.com/track/67ZwhgqlsLtLhi6P5JkyPw) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD) | [Mia Paraligo Eftihia](https://open.spotify.com/album/7jofAsrpiagoKCxDkMNUjZ) | 4:21 |
-| 46 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
-| 47 | [Xeimwnas](https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Xeimwnas](https://open.spotify.com/album/2gnvF2qjaKgS4tddJltNex) | 3:17 |
-| 48 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 |
+| 46 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 |
+| 47 | [Sou Eho Agapi Megali](https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Sou Eho Agapi Megali](https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8) | 3:18 |
+| 48 | [Xeimwnas](https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Xeimwnas](https://open.spotify.com/album/2gnvF2qjaKgS4tddJltNex) | 3:17 |
 | 49 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 |
 | 50 | [Odos Tsimiski](https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Odos Tsimiski](https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9) | 3:09 |
 

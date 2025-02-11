@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,478 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,486 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 15 | [No Le Hace Que Le Aunque](https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Las Más Pedidas, Vol\. 1](https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK) | 2:41 |
 | 16 | [Palabras Tristes](https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:49 |
 | 17 | [Hotel De Paso](https://open.spotify.com/track/5nFMsTQAVRBUIiqLstuO2t) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:50 |
-| 18 | [Se Burlaron Mis Amigos](https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:46 |
-| 19 | [Toco Madera](https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:06 |
+| 18 | [Toco Madera](https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:06 |
+| 19 | [Se Burlaron Mis Amigos](https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:46 |
 | 20 | [Volveré](https://open.spotify.com/track/7apr6hZDvyayZr4LNBycfb) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 2:51 |
 | 21 | [La Burra Tuerta](https://open.spotify.com/track/4kcODJ1E30HoJA6zhwvNqC) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:36 |
 | 22 | [Tres Veces Te Engañé](https://open.spotify.com/track/4VPiiwdjs8gWAQLVjn0NoZ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 3:12 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 25 | [En La Esquina](https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:20 |
 | 26 | [Soy Yo](https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:29 |
 | 27 | [La Francis](https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:51 |
-| 28 | [La Quiero Con El Alma](https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:33 |
+| 28 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
 | 29 | [Fracaso](https://open.spotify.com/track/45k71bk9yCZioceJ3umVzC) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:45 |
 | 30 | [El Beso De Judas](https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:55 |
-| 31 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 |
+| 31 | [La Quiero Con El Alma](https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:33 |
 | 32 | [La Paga](https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:52 |
 | 33 | [Corazón Vació](https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:42 |
 | 34 | [Tres Por Una](https://open.spotify.com/track/7961JijxsrpZXUzWkquseT) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Cesáreo Sánchez](https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif), [Salomon Robles](https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu) | [Ni Amores Ni Deudas](https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [No Te Paniquees](https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor Brutal](https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4) | 3:08 |
 | 50 | [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 |
 
-Snapshot ID: `Z6aegAAAAACax8UFK472o5pORtc3VPRj`
+Snapshot ID: `Z6fwAAAAAACvHlUhGoQxd1tl4ZN/FqGZ`

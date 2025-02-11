@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-307 songs - 17 hr 0 min
+308 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 | 2023-01-12 | 2024-11-09 |
 | [Forged In Fury](https://open.spotify.com/track/74QKmn0vjBHL4SJ2WXPnhJ) | [Neroz](https://open.spotify.com/artist/76WqyxPmL1KmO2up8jbYOC), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Forged In Fury](https://open.spotify.com/album/1QVTiTTs4oZvU4lL7qLAnv) | 3:58 | 2022-12-08 | 2023-04-14 |
 | [Franse Beuker](https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN) | [Franse Beuker](https://open.spotify.com/album/2vnG9faqmtBUruIewFguvc) | 2:33 | 2022-12-08 | 2023-03-07 |
+| [Frenchcore Lullaby](https://open.spotify.com/track/7cefEHMhMytNfvL0GBjd0K) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Frenchcore Lullaby](https://open.spotify.com/album/2VzWAU4teRPOILn0FQz08t) | 3:50 | 2025-02-10 |  |
 | [From The Underground \(Rave Core\)](https://open.spotify.com/track/6f7hGT8dkVxUcMP943ZRmD) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [From The Underground \(Rave Core\)](https://open.spotify.com/album/3HX5w8ehEqbGsCk4x6mfZ9) | 3:54 | 2022-12-08 | 2023-06-02 |
 | [Fuego \- Official Masters of Hardcore Spain 2022 Anthem](https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Mr\. Hyde](https://open.spotify.com/artist/4hcDjY6PSQy3g9gqrCaPX0) | [Fuego \(Official Masters of Hardcore Spain 2022 Anthem\)](https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx) | 4:39 | 2022-12-08 | 2024-12-13 |
 | [Full Throttle \(Official Gearbox Full Throttle Anthem\)](https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Full Throttle \(Official Gearbox Full Throttle Anthem\)](https://open.spotify.com/album/0oFzTvwtQFWESNcpQmO2K0) | 3:38 | 2022-12-08 | 2023-06-02 |
@@ -179,7 +180,7 @@
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 | 2024-03-20 |
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
-| [Melancholic Life](https://open.spotify.com/track/0LOWVfO6x8azUYQOD20i1Y) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Melancholic Life](https://open.spotify.com/album/2VVqBCyVe21ygdQ8NUVWHE) | 4:32 | 2025-02-07 |  |
+| [Melancholic Life](https://open.spotify.com/track/0LOWVfO6x8azUYQOD20i1Y) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Melancholic Life](https://open.spotify.com/album/2VVqBCyVe21ygdQ8NUVWHE) | 4:32 | 2025-02-07 | 2025-02-11 |
 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 | 2024-03-22 |  |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |

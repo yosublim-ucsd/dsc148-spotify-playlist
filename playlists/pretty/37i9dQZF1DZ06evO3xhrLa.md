@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,515 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,545 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 46 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
 | 47 | [mirrors \- Bonus](https://open.spotify.com/track/0IXTRIqR1OsKb0YQ235Xkd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:52 |
 | 48 | [New Balance](https://open.spotify.com/track/0PYmO55JPwEWgtyJbkN6mq) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:39 |
-| 49 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
-| 50 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
+| 49 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
+| 50 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
 
-Snapshot ID: `Z6aegAAAAAA2qvl9SZ669KTPn8lWW9AU`
+Snapshot ID: `Z6fwAAAAAABso2B9l2uYN/wUqy+usEED`

@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-171 songs - 8 hr 23 min
+172 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Defender](https://open.spotify.com/track/695j3oqRL6a4o0oJR2rHS1) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Future Folk](https://open.spotify.com/album/6ukTEfsBa5GIp9nOJQTLkw) | 3:03 | 2025-02-03 |  |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-09-04 | 2025-01-26 |
 | [Dollar \- From "Dakuaan Da Munda"](https://open.spotify.com/track/7rXDc2ImBGwcypUFbNqbFB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Dollar \(From "Dakuaan Da Munda"\)](https://open.spotify.com/album/2keQd2w6kV8FJD2ZSGPlp7) | 2:37 | 2024-07-01 |  |
-| [Don](https://open.spotify.com/track/1Pb0kCirr3q8Cw2CL77y7R) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Don](https://open.spotify.com/album/2OjJGY6iQx0FAkQS5RMDJ1) | 3:22 | 2024-12-13 |  |
+| [Don](https://open.spotify.com/track/1Pb0kCirr3q8Cw2CL77y7R) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Don](https://open.spotify.com/album/2OjJGY6iQx0FAkQS5RMDJ1) | 3:22 | 2024-12-13 | 2025-02-11 |
 | [DOWNTOWN](https://open.spotify.com/track/7uw41oKgDSTE9Uq0yRNCmS) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Aziz](https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU) | [DOWNTOWN](https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD) | 2:34 | 2024-09-10 | 2024-11-29 |
 | [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 | 2024-09-20 |
 | [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2023-07-18 |  |
@@ -125,6 +125,7 @@
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-07-18 | 2024-04-19 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2024-04-06 | 2024-08-31 |
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-09-04 |  |
+| [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-10 |  |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-07-18 | 2024-07-27 |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 | 2024-09-19 |
 | [Pecha](https://open.spotify.com/track/66h3lsk8H1wLsqh4Rph0kn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Pecha](https://open.spotify.com/album/07EHw83aARjdazdCuKQJGz) | 2:19 | 2025-01-16 |  |

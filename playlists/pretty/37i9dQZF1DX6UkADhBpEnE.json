@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 146792,
+  "num_followers": 146834,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
         "name": "Love Hangover (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "GBP (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "GBP (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
+        "name": "GBP (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "2 hands",
-        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 181820,
-      "name": "2 hands",
-      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 181820,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 181677,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
         "name": "Pretty Slowly",
         "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 261420,
       "name": "Pretty Slowly",
       "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "Holiday Road - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 125196,
-      "name": "Holiday Road - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
         "name": "\u5e7e\u5104\u5149\u5e74",
         "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "SPECIALZ",
-        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 238986,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -1635,6 +1619,22 @@
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "added_at": "2025-02-06 15:00:22",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2025-02-06 15:00:22",
       "album": {
-        "name": "KEHLANI (REMIX) [feat. Kehlani]",
-        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 179974,
-      "name": "KEHLANI (REMIX) [feat. Kehlani]",
-      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
-    },
-    {
-      "added_at": "2025-02-06 15:00:22",
-      "album": {
         "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
         "url": "https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2025-02-06 15:00:22",
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     }
   ],
   "unique_name": "\u5143\u6c17Booster",

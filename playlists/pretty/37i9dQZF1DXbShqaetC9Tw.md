@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,881 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,883 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 37 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 38 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 39 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
-| 40 | [Inspiration](https://open.spotify.com/track/53uf9zkSH3kUpfLR8zN4OQ) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Painting](https://open.spotify.com/album/4Zx38ejP18CMzsmOnIUMtp) | 2:49 |
-| 41 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
+| 40 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
+| 41 | [Inspiration](https://open.spotify.com/track/53uf9zkSH3kUpfLR8zN4OQ) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Painting](https://open.spotify.com/album/4Zx38ejP18CMzsmOnIUMtp) | 2:49 |
 | 42 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 |
 | 43 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
 | 44 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 |

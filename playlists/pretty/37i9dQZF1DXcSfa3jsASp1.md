@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,698 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,696 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 8 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
 | 9 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 |
 | 10 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
-| 11 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
+| 11 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 12 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
 | 13 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
-| 14 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
+| 14 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 15 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 16 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 |
 | 17 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 38 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
 | 39 | [Painkiller](https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 2:59 |
 | 40 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
-| 41 | [Uma Thurman](https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:31 |
-| 42 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
+| 41 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
+| 42 | [Uma Thurman](https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:31 |
 | 43 | [Princess of China](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 |
 | 44 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 |
 | 45 | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 4:27 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 64 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
 | 65 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 66 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 |
-| 67 | [Warrior](https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 3:24 |
-| 68 | [These Days](https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:58 |
+| 67 | [These Days](https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:58 |
+| 68 | [Warrior](https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Asylum \(Deluxe Edition\)](https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9) | 3:24 |
 | 69 | [Help Is On The Way](https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:57 |
 | 70 | [Believe](https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:40 |
 | 71 | [House of The Rising Sun](https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 4:07 |

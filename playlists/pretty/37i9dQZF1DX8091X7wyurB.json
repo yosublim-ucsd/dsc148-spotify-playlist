@@ -1,6 +1,6 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 179306,
+  "num_followers": 179460,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
     },
     {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
+    },
+    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "The Great Commission",
@@ -611,22 +627,6 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Faith is Rising",
-        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "You are Yahweh",
-      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Calling My Name (I'm A Soldier) [Live]",
         "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
@@ -709,24 +693,20 @@
       "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
-      "added_at": "2024-07-19 00:01:00",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+        "name": "Faith is Rising",
+        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+      "duration_ms": 279066,
+      "name": "You are Yahweh",
+      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -747,6 +727,26 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+    },
+    {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2024-10-11 00:01:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/4EiKZxDgW0sbT8BZ9Gl6dC"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
-    },
-    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Give Me Chance",
@@ -947,6 +931,22 @@
     {
       "added_at": "2024-11-15 00:01:00",
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
         "name": "Holy Spirit",
         "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
       },
@@ -959,6 +959,30 @@
       "duration_ms": 351666,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+        }
+      ],
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -983,22 +1007,6 @@
       "duration_ms": 625166,
       "name": "Iba",
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
-    },
-    {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "We Move",
-        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1053,28 +1061,20 @@
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-10-11 00:01:00",
       "album": {
-        "name": "Spirit Of Praise, Vol. 9 (Live)",
-        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
       },
       "artists": [
         {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Spirit of Praise Choir",
-          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
-        },
-        {
-          "name": "Pastor M Tshabalala",
-          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 556346,
-      "name": "Bamba Mzalwane (Live)",
-      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1129,24 +1129,40 @@
       "url": "https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Give Me Oil",
-        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         },
         {
-          "name": "Sandra Boakye-Duah",
-          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 693002,
-      "name": "Give Me Oil",
-      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1169,40 +1185,24 @@
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Give Me Oil",
+        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         },
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
         }
       ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+      "duration_ms": 693002,
+      "name": "Give Me Oil",
+      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Moyongcwele",
-        "url": "https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC"
-      },
-      "artists": [
-        {
-          "name": "Nontokozo Mkhize",
-          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
-        }
-      ],
-      "duration_ms": 309473,
-      "name": "Moyongcwele",
-      "url": "https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "HALLELUJAH LIVE",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 280424,
+      "name": "Chinedum",
+      "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "That's My King",
         "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
       },
@@ -1289,20 +1289,20 @@
       "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Moyongcwele",
+        "url": "https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
         }
       ],
-      "duration_ms": 280424,
-      "name": "Chinedum",
-      "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
+      "duration_ms": 309473,
+      "name": "Moyongcwele",
+      "url": "https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc"
     },
     {
       "added_at": "2024-08-19 13:32:33",
@@ -1325,6 +1325,26 @@
       "url": "https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R"
     },
     {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+        }
+      ],
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+    },
+    {
       "added_at": "2024-09-13 00:01:00",
       "album": {
         "name": "Jordans",
@@ -1339,22 +1359,6 @@
       "duration_ms": 246563,
       "name": "Jordans",
       "url": "https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk"
-    },
-    {
-      "added_at": "2025-01-24 00:01:04",
-      "album": {
-        "name": "Lindiwe",
-        "url": "https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved"
-      },
-      "artists": [
-        {
-          "name": "Nontokozo Mkhize",
-          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
-        }
-      ],
-      "duration_ms": 243388,
-      "name": "Uyama Nomuntu",
-      "url": "https://open.spotify.com/track/4rabhvTZ9eyQP2iY52wusH"
     },
     {
       "added_at": "2024-07-19 00:01:00",
@@ -1381,24 +1385,28 @@
       "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Fragrance (feat. GGTQ All Stars)",
-        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
+        "name": "Ebenezeri",
+        "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
       "artists": [
         {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
         },
         {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+          "name": "APEX CHOIR",
+          "url": "https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn"
+        },
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
         }
       ],
-      "duration_ms": 267337,
-      "name": "Fragrance (feat. GGTQ All Stars)",
-      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+      "duration_ms": 293782,
+      "name": "Ebenezeri",
+      "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1425,26 +1433,6 @@
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "Oba Awon Oba",
-        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 733135,
-      "name": "Oba Awon Oba",
-      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
-    },
-    {
       "added_at": "2024-07-19 00:01:00",
       "album": {
         "name": "Live",
@@ -1469,28 +1457,36 @@
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2025-01-24 00:01:04",
       "album": {
-        "name": "Ebenezeri",
-        "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
+        "name": "Lindiwe",
+        "url": "https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved"
       },
       "artists": [
         {
-          "name": "Kent Edunjobi",
-          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
-        },
-        {
-          "name": "APEX CHOIR",
-          "url": "https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn"
-        },
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
         }
       ],
-      "duration_ms": 293782,
-      "name": "Ebenezeri",
-      "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+      "duration_ms": 243388,
+      "name": "Uyama Nomuntu",
+      "url": "https://open.spotify.com/track/4rabhvTZ9eyQP2iY52wusH"
+    },
+    {
+      "added_at": "2025-01-10 12:57:52",
+      "album": {
+        "name": "Let It Show (Live)",
+        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 479824,
+      "name": "Let It Show (Live)",
+      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
     },
     {
       "added_at": "2024-08-23 00:01:00",
@@ -1513,20 +1509,24 @@
       "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
     },
     {
-      "added_at": "2025-01-10 12:57:52",
+      "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Let It Show (Live)",
-        "url": "https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka"
+        "name": "Oba Awon Oba",
+        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 479824,
-      "name": "Let It Show (Live)",
-      "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
+      "duration_ms": 733135,
+      "name": "Oba Awon Oba",
+      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
     },
     {
       "added_at": "2024-10-04 00:01:00",

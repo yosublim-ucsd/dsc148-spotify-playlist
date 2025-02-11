@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7122,
+  "num_followers": 7132,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAB/TP+rJogj0Jq+EIKhnS3H",
+  "snapshot_id": "Z6fwAAAAAAC9NbKuxXhKgFrtSahWYEp8",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "geada",
-        "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "geada",
-      "url": "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "geada",
+        "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "geada",
+      "url": "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,

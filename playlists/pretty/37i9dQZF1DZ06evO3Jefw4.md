@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,027 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,152 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 13 | [I Kissed A Girl](https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:59 |
 | 14 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
 | 15 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
-| 16 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
-| 17 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:18 |
+| 16 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:18 |
+| 17 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 18 | [Chained To The Rhythm](https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:57 |
 | 19 | [E.T.](https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:26 |
 | 20 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [Tucked](https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:07 |
 | 50 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 
-Snapshot ID: `Z6aegAAAAAC074E5FobIGn+2Ff5TcN17`
+Snapshot ID: `Z6fwAAAAAABszqB8IZWrIJC70x3ZuNO5`

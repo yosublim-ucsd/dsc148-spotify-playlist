@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Javier Bátiz por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,618 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,691 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 37 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 38 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
 | 39 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
-| 40 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
-| 41 | [Voto Latino](https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 2:58 |
+| 40 | [Voto Latino](https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 2:58 |
+| 41 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
 | 42 | [Detrás de los Cerros](https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 3:58 |
 | 43 | [Peligroso Pop](https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 3:36 |
 | 44 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 84 | [El Loco](https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 3:38 |
 | 85 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 86 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
-| 87 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
-| 88 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |
+| 87 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |
+| 88 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
 | 89 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
 | 90 | [Matando Gueros](https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mantando Gueros](https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76) | 2:23 |
 | 91 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |

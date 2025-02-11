@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 8 hr 3 min
+142 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Chale \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xY4usHueVpDIWU8P9FnkV) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Chale \(feat\. Clementine Douglas\)](https://open.spotify.com/album/35UOwSRKvYnxQ6ikvHoQJb) | 2:39 | 2024-06-13 |  |
 | [CMND CNTRL \(feat\. FEYI\)](https://open.spotify.com/track/2nx4zXquY958X4LKNlHD6X) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [My House My Rules](https://open.spotify.com/album/3yqp5I9jxG7smLaqjVdbvl) | 3:41 | 2024-06-14 |  |
 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 | 2024-06-13 |  |
-| [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 | 2024-06-13 |  |
+| [Cure My Desire](https://open.spotify.com/track/6siCO69xx6pzXsAajilDB5) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(Themba Remix\)](https://open.spotify.com/album/7q7TfQozBSAXcJv50q7aOM) | 2:59 | 2025-02-10 |  |
+| [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6m3DkpGqoeQJxfekL3ZLHJ) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cure My Desire \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1ZZvjjvaGhVOIf4Y7zzxPU) | 2:59 | 2024-06-13 | 2025-02-11 |
 | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/track/50mOTTA6ctpuuLsFK1NhtM) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [DAMN! \(with Teezo Touchdown\)](https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL) | 3:00 | 2024-06-13 |  |
 | [Dancing By Myself](https://open.spotify.com/track/13cgTDCZJj2AI9gfXIOmH4) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Dancing By Myself](https://open.spotify.com/album/1Pe38x5lQLhbTJ9st2wDHa) | 3:24 | 2024-06-13 |  |
 | [Dancing In The Shadows](https://open.spotify.com/track/0HRAne096RNKohb88WnT67) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:37 | 2024-06-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11076,
+  "num_followers": 11079,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6aegAAAAAC/T7Lm5GqBi6ODqgyGVcwB",
+  "snapshot_id": "Z6fwAAAAAACWH0R13rDqzjYdOi++JKbB",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 240320,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Backbone (The Desert Child)",
-      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -396,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+      "duration_ms": 171893,
+      "name": "On A Bad Day",
+      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
     },
     {
       "added_at": null,
@@ -419,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         },
         {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Sweetest Waste Of Time",
-      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -468,9 +448,29 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 171893,
-      "name": "On A Bad Day",
-      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Sweetest Waste Of Time",
+      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
       "duration_ms": 178200,
       "name": "The Divorce Song",
       "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
     },
     {
       "added_at": null,
@@ -555,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -584,9 +548,25 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 175053,
-      "name": "Sleeping Cold",
-      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+      "duration_ms": 235600,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,
@@ -623,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Sleeping Cold",
+      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 205920,
-      "name": "Arlo",
-      "url": "https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq"
+      "duration_ms": 194360,
+      "name": "Broken Cup",
+      "url": "https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 194360,
-      "name": "Broken Cup",
-      "url": "https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6"
+      "duration_ms": 205920,
+      "name": "Arlo",
+      "url": "https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq"
     },
     {
       "added_at": null,

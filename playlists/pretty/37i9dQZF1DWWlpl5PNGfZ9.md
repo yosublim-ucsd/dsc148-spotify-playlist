@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,178 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,332 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 12 | [Rayando el Sol](https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:10 |
 | 13 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
 | 14 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
-| 15 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
-| 16 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 15 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
+| 16 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
 | 17 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 |
 | 18 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
 | 19 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 44 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 45 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 46 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 |
-| 47 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
+| 47 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
 | 48 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
-| 49 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
+| 49 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
 | 50 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
 
 Snapshot ID: `Zmm3bAAAAACI58DWJVDmpp3wQwuLiaRP`

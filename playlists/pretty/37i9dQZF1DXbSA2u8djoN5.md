@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Petre Stefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,917 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,922 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 42 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
 | 43 | [Am Zis Ceva](https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Am Zis Ceva](https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY) | 4:07 |
 | 44 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
-| 45 | [După sfârșit](https://open.spotify.com/track/4W5d8Ka2h042sUdaevjUlL) | [Vlad Dobrescu](https://open.spotify.com/artist/0bypMpAgjSZJaThtP1oqFV) | [Fiare noi](https://open.spotify.com/album/4T4w9o0BJUikD9UTYBFukc) | 4:20 |
-| 46 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
-| 47 | [Lacrimi](https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Lacrimi](https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F) | 2:47 |
+| 45 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
+| 46 | [Lacrimi](https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Lacrimi](https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F) | 2:47 |
+| 47 | [După sfârșit](https://open.spotify.com/track/4W5d8Ka2h042sUdaevjUlL) | [Vlad Dobrescu](https://open.spotify.com/artist/0bypMpAgjSZJaThtP1oqFV) | [Fiare noi](https://open.spotify.com/album/4T4w9o0BJUikD9UTYBFukc) | 4:20 |
 | 48 | [Nimic Nou](https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Nimic Nou](https://open.spotify.com/album/2q8IlXBtL4cjx8GAoTUc8R) | 2:35 |
 | 49 | [ABRACADABRA](https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [ABRACADABRA](https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX) | 2:41 |
 | 50 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |

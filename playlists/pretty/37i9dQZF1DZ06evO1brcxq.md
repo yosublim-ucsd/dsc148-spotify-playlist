@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,869 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,040 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 8 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 9 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 |
 | 10 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 |
-| 11 | [Fancy](https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 3:19 |
-| 12 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
+| 11 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
+| 12 | [Fancy](https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 3:19 |
 | 13 | [Talk talk featuring troye sivan](https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:53 |
 | 14 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 15 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 44 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
 | 45 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 |
 
-Snapshot ID: `Z6aegAAAAAAE6uYKYrCz8uuSS21nEpuZ`
+Snapshot ID: `Z6fwAAAAAAAX+oACQU0H7JbRdxKys2OR`

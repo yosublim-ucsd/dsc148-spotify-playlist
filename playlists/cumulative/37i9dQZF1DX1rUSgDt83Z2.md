@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-122 songs - 6 hr 20 min
+123 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,13 +112,14 @@
 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 | 2024-10-24 |  |
 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 | 2024-06-24 |  |
 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 | 2024-12-12 |  |
-| [Vandaag Is Nu](https://open.spotify.com/track/6sCXsp7SYDzrMz68DRgnkF) | [RENEE](https://open.spotify.com/artist/3zN2vtM9L8hRcG1W3cWSsr) | [Vandaag Is Nu](https://open.spotify.com/album/0nF5huhjNM8JmLfYU5FpmD) | 2:33 | 2025-01-08 |  |
+| [Vandaag Is Nu](https://open.spotify.com/track/6sCXsp7SYDzrMz68DRgnkF) | [RENEE](https://open.spotify.com/artist/3zN2vtM9L8hRcG1W3cWSsr) | [Vandaag Is Nu](https://open.spotify.com/album/0nF5huhjNM8JmLfYU5FpmD) | 2:33 | 2025-01-08 | 2025-02-11 |
 | [Verbonden](https://open.spotify.com/track/6E8c8jeXEiGBosTfXuiq2H) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Verbonden](https://open.spotify.com/album/0WXUWk23Vy0tMhP7v0I3a9) | 3:00 | 2024-06-24 | 2024-08-30 |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-06-24 |  |
 | [Vroeger Of Later](https://open.spotify.com/track/75y3NXrnUyx5ihHYQkz0PO) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Vroeger Of Later](https://open.spotify.com/album/2FG9W0IT03bXxpHaP1kuTx) | 3:15 | 2024-06-24 | 2024-07-23 |
 | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN) | 2:57 | 2024-12-12 |  |
 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 | 2024-06-24 |  |
 | [Wat Ik Ook Ga Doen \- Live @ Philips Stadion, Eindhoven 2024](https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Groots De Laatste \- Live In Het Philips Stadion](https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW) | 4:34 | 2024-11-04 |  |
+| [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-02-10 |  |
 | [Weg](https://open.spotify.com/track/4TPdpRvrDAdJjJ72yThfn5) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs), [Just](https://open.spotify.com/artist/0yfvFgUAa58onHRP3a2gdp) | [Weg](https://open.spotify.com/album/4P0dCRcQ0KvojIXord13sg) | 2:51 | 2024-10-24 | 2024-12-03 |
 | [Welkom In Mijn Hart](https://open.spotify.com/track/4d2tygrOxWjYkAoEykuOfI) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Welkom In Mijn Hart](https://open.spotify.com/album/0NqR8qCYxL7FelKt55NQ48) | 3:29 | 2024-10-24 |  |
 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 | 2024-06-24 | 2024-08-30 |

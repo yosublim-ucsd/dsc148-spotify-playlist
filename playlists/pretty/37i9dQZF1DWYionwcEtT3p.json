@@ -1,6 +1,6 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 100525,
+  "num_followers": 100527,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Queen Pen",
-          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 304600,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+      "duration_ms": 227360,
+      "name": "LOYALTY. FEAT. RIHANNA.",
+      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -339,22 +335,26 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Queen Pen",
+          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
         }
       ],
-      "duration_ms": 227360,
-      "name": "LOYALTY. FEAT. RIHANNA.",
-      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
+      "duration_ms": 304600,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -375,18 +375,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+        "name": "Alter Ego (with JT)",
+        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
       },
       "artists": [
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+      "duration_ms": 204094,
+      "name": "Alter Ego (with JT)",
+      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Alter Ego (with JT)",
-        "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
       "artists": [
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 204094,
-      "name": "Alter Ego (with JT)",
-      "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -919,18 +919,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+        "name": "Best Friend (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
       },
       "artists": [
         {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+      "duration_ms": 155883,
+      "name": "Best Friend (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
     }
   ],
   "unique_name": "Hip Hop Party",

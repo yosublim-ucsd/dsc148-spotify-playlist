@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. La Tremenda Korte en portada. ",
-  "num_followers": 1002479,
+  "num_followers": 1002481,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
       "artists": [
         {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -695,18 +695,34 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
       "artists": [
         {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
         }
       ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2025-02-07 06:00:20",
+      "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Karmadame",
+      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -727,22 +743,6 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
-    },
-    {
-      "added_at": "2025-02-07 06:00:20",
-      "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Karmadame",
-      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Siento Que...",
-      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
-    },
-    {
-      "added_at": "2025-02-07 06:00:20",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 257240,
       "name": "Como Un Sol",
       "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
+    },
+    {
+      "added_at": "2025-02-07 06:00:20",
+      "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Siento Que...",
+      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "Sin Rencor",
-      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
-    },
-    {
-      "added_at": "2025-02-07 06:00:20",
-      "album": {
         "name": "A 30 A\u00f1os",
         "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 232250,
       "name": "Somos Ajenos - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
+    },
+    {
+      "added_at": "2025-02-07 06:00:20",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Sin Rencor",
+      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "La Ranchera",
-        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 187744,
-      "name": "La Ranchera",
-      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2025-02-07 06:00:20",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "added_at": "2025-02-07 06:00:20",
+      "album": {
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 187744,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
+        "name": "Maria Barracuda",
+        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
         }
       ],
-      "duration_ms": 186678,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
+      "duration_ms": 201333,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Maria Barracuda",
-        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Barracuda",
-          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 201333,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
     },
     {
       "added_at": "2025-02-07 06:00:20",
@@ -1699,30 +1699,18 @@
     {
       "added_at": "2025-02-07 06:00:20",
       "album": {
-        "name": "Suaves son los D\u00edas",
-        "url": "https://open.spotify.com/album/4QPB6sLJPK1VU9mJ0mepji"
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
       },
       "artists": [
         {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
-        },
-        {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "No para siempre",
-          "url": "https://open.spotify.com/artist/2oxeLuG3ieRRYlHqQjqixS"
-        },
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
         }
       ],
-      "duration_ms": 201336,
-      "name": "Suaves son los D\u00edas",
-      "url": "https://open.spotify.com/track/4eXD6eLWhEv87ZAYBXADPW"
+      "duration_ms": 205466,
+      "name": "Ser\u00eda Feliz",
+      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
     }
   ],
   "unique_name": "La + Chingona",

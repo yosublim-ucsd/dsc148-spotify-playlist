@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,025 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,085 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 69 | [Stand By Me](https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Wild Card/A Word To The Wise](https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r) | 3:07 |
 | 70 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Lest We Forget \- The Best Of](https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S) | 4:51 |
 | 71 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
-| 72 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
-| 73 | [Under Pressure](https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:31 |
+| 72 | [Under Pressure](https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:31 |
+| 73 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 |
 | 74 | [Skyfall](https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Age Of Ignorance \(Deluxe Edition\)](https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1) | 4:09 |
 | 75 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
 | 76 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 97 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
 | 98 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 99 | [Ballroom Blitz](https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Ballroom Blitz](https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb) | 4:09 |
-| 100 | [Eleanor Rigby](https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Eleanor Rigby](https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5) | 2:57 |
+| 100 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
 
 Snapshot ID: `Z4nkCAAAAABgFmYFtuDeFIFd6tDtvG6D`

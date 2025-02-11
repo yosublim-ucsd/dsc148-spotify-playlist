@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 20156,
+  "num_followers": 20163,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Milonga del Desocupado",
-        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
+        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
+        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
       },
       "artists": [
         {
-          "name": "Quinteto Bataraz",
-          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
-        },
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
         }
       ],
-      "duration_ms": 232930,
-      "name": "Milonga del Desocupado",
-      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
+      "duration_ms": 155280,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -659,18 +655,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
-        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
+        "name": "Milonga del Desocupado",
+        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
       },
       "artists": [
         {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+          "name": "Quinteto Bataraz",
+          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
+        },
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         }
       ],
-      "duration_ms": 155280,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+      "duration_ms": 232930,
+      "name": "Milonga del Desocupado",
+      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
     },
     {
       "added_at": "2024-08-02 17:18:29",

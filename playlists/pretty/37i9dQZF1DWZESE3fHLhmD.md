@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,692 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,604 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 21 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
 | 22 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 23 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
-| 24 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
-| 25 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
+| 24 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
+| 25 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 26 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 27 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 28 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 69 | [Kippe](https://open.spotify.com/track/7jQ8C4PKJDAUY5Ql9TjFb3) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:39 |
 | 70 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 71 | [Geile Zeit](https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Geile Zeit](https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc) | 2:20 |
-| 72 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
-| 73 | [Zimmer](https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen \- EP](https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP) | 2:57 |
+| 72 | [Zimmer](https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen \- EP](https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP) | 2:57 |
+| 73 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
 | 74 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 75 | [zwischendrin verliebt](https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin verliebt](https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf) | 2:46 |
 | 76 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:54 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 89 | [5 Meter Mauern \(aus "The Voice of Germany 2023"\) \- Live](https://open.spotify.com/track/2kMLXLXuqdoXFRMLTQYkrW) | [Fritz Speck](https://open.spotify.com/artist/50aaRqLvYPil49aIN4TtS7), [The Voice of Germany](https://open.spotify.com/artist/73cOOUUChCMMrvUp0GkIqm) | [5 Meter Mauern \(aus "The Voice of Germany 2023"\) \[Live\]](https://open.spotify.com/album/1TGhQcviDvZIHrulgNK3Sy) | 2:14 |
 | 90 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 91 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
-| 92 | [Constellations \- Piano Version](https://open.spotify.com/track/1WUEO31Jq4yj6ZTSxiWBhl) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Confessions \(Stripped\)](https://open.spotify.com/album/7ktEpj6whdOrkmVPy9njL0) | 3:50 |
+| 92 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 | 93 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
-| 94 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
+| 94 | [Constellations \- Piano Version](https://open.spotify.com/track/1WUEO31Jq4yj6ZTSxiWBhl) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Confessions \(Stripped\)](https://open.spotify.com/album/7ktEpj6whdOrkmVPy9njL0) | 3:50 |
 | 95 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
 | 96 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
 | 97 | [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 |
