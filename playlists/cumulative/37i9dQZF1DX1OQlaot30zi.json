@@ -10913,6 +10913,24 @@
     },
     {
       "album": {
+        "name": "BATTITO",
+        "url": "https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194468,
+      "name": "BATTITO",
+      "url": "https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED"
+    },
+    {
+      "album": {
         "name": "MUSICA ETERNA",
         "url": "https://open.spotify.com/album/07TU4dyRgCoTG3RDWWINJ6"
       },
@@ -11008,7 +11026,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 120000,
       "name": "BB",
       "url": "https://open.spotify.com/track/3hmYAR2dKvTWB4Foq5fCIq"
@@ -25368,6 +25386,24 @@
       "duration_ms": 136296,
       "name": "Damien Hirst",
       "url": "https://open.spotify.com/track/3XPzaS0E0Y7uUJgbe08HRa"
+    },
+    {
+      "album": {
+        "name": "DAMME 'NA MANO",
+        "url": "https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "DAMME 'NA MANO",
+      "url": "https://open.spotify.com/track/54dKn6kdf2fFpSYwgCcQOV"
     },
     {
       "album": {
@@ -48285,6 +48321,36 @@
     },
     {
       "album": {
+        "name": "La Mia Parola (feat. Gu\u00e8, Joshua & Tormento)",
+        "url": "https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        },
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170161,
+      "name": "La Mia Parola (feat. Gu\u00e8, Joshua & Tormento)",
+      "url": "https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9"
+    },
+    {
+      "album": {
         "name": "LA MIA PERSONA",
         "url": "https://open.spotify.com/album/07wtPLI6dFISvlLkRL1nxz"
       },
@@ -70782,7 +70848,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 186666,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/5Zy1FVr4RQSJkSi1EgNMyP"
@@ -103288,7 +103354,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 134896,
       "name": "X LE TUE",
       "url": "https://open.spotify.com/track/1Vmhky7V1HSWorfSnKAvvh"

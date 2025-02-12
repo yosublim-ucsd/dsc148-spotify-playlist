@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d2\u05f3\u05d9\u05e8\u05e4\u05d5\u05ea ",
-  "num_followers": 31419,
+  "num_followers": 31429,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "Hate You Instead",
-        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "Hate You Instead",
-      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
-    },
-    {
-      "added_at": "2025-02-06 22:00:23",
-      "album": {
         "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
         "url": "https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 290969,
       "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
       "url": "https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO"
+    },
+    {
+      "added_at": "2025-02-06 22:00:23",
+      "album": {
+        "name": "Hate You Instead",
+        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "Hate You Instead",
+      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
     },
     {
       "added_at": "2025-02-06 22:00:23",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4",
-        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
+        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
       },
       "artists": [
         {
-          "name": "Liron Amram",
-          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
         }
       ],
-      "duration_ms": 228800,
-      "name": "\u05e0\u05e9\u05de\u05d4",
-      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
+      "duration_ms": 205276,
+      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
     },
     {
       "added_at": "2025-02-06 22:00:23",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
+        "name": "\u05e0\u05e9\u05de\u05d4",
+        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Liron Amram",
+          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
         }
       ],
-      "duration_ms": 205276,
-      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
+      "duration_ms": 228800,
+      "name": "\u05e0\u05e9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
     },
     {
       "added_at": "2025-02-06 22:00:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "\u05db\u05dc \u05d6\u05d4 \u05d4\u05d9\u05d4 \u05e0\u05db\u05d5\u05df",
-        "url": "https://open.spotify.com/album/2ummjP9nMAduQFBjtQoF6P"
-      },
-      "artists": [
-        {
-          "name": "Eran Tzur",
-          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
-        }
-      ],
-      "duration_ms": 223274,
-      "name": "\u05db\u05dc \u05d6\u05d4 \u05d4\u05d9\u05d4 \u05e0\u05db\u05d5\u05df",
-      "url": "https://open.spotify.com/track/0BhB8dOpl7STuLZOMYvfHb"
-    },
-    {
-      "added_at": "2025-02-06 22:00:23",
-      "album": {
         "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
         "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05de\u05e9\u05dd",
-        "url": "https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi"
+        "name": "\u05db\u05dc \u05d6\u05d4 \u05d4\u05d9\u05d4 \u05e0\u05db\u05d5\u05df",
+        "url": "https://open.spotify.com/album/2ummjP9nMAduQFBjtQoF6P"
       },
       "artists": [
         {
-          "name": "Yehudit Ravitz",
-          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
         }
       ],
-      "duration_ms": 210485,
-      "name": "\u05d0\u05e0\u05d9 \u05de\u05e9\u05dd",
-      "url": "https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ"
+      "duration_ms": 223274,
+      "name": "\u05db\u05dc \u05d6\u05d4 \u05d4\u05d9\u05d4 \u05e0\u05db\u05d5\u05df",
+      "url": "https://open.spotify.com/track/0BhB8dOpl7STuLZOMYvfHb"
+    },
+    {
+      "added_at": "2025-02-06 22:00:23",
+      "album": {
+        "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 159913,
+      "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe"
     },
     {
       "added_at": "2025-02-06 22:00:23",
@@ -875,18 +875,34 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4"
+        "name": "\u05d0\u05e0\u05d9 \u05de\u05e9\u05dd",
+        "url": "https://open.spotify.com/album/7MhmKMc9s08TnCqnVCOBHi"
       },
       "artists": [
         {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
         }
       ],
-      "duration_ms": 159913,
-      "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe"
+      "duration_ms": 210485,
+      "name": "\u05d0\u05e0\u05d9 \u05de\u05e9\u05dd",
+      "url": "https://open.spotify.com/track/0Uo6rxBwnTQZ1Lww9QKoOZ"
+    },
+    {
+      "added_at": "2025-02-06 22:00:23",
+      "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
     },
     {
       "added_at": "2025-02-06 22:00:23",
@@ -919,22 +935,6 @@
       "duration_ms": 214357,
       "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
       "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
-    },
-    {
-      "added_at": "2025-02-06 22:00:23",
-      "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
     },
     {
       "added_at": "2025-02-06 22:00:23",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-06 22:00:23",
       "album": {
-        "name": "Goodbye Mary",
-        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
-      },
-      "artists": [
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
-        }
-      ],
-      "duration_ms": 183331,
-      "name": "Goodbye Mary",
-      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
-    },
-    {
-      "added_at": "2025-02-06 22:00:23",
-      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 197866,
       "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
       "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
+    },
+    {
+      "added_at": "2025-02-06 22:00:23",
+      "album": {
+        "name": "Goodbye Mary",
+        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 183331,
+      "name": "Goodbye Mary",
+      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
     },
     {
       "added_at": "2025-02-06 22:00:23",

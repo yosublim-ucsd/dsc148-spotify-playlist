@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Mazey Haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,716 likes - 89 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,713 likes - 89 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 69 | [Pool of Fish](https://open.spotify.com/track/3tjfrnTcNJMfZRiTO3GBAr) | [Parker Fans](https://open.spotify.com/artist/1vY8fuL3kdwvvfdoMHwvsX) | [Pool of Fish](https://open.spotify.com/album/1XKYwJMXIIKKlZFJEhNh8t) | 2:30 |
 | 70 | [Better If I Go](https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP), [onzekere guy](https://open.spotify.com/artist/3a5u8lJqeBPWSc1jCWfhbF) | [Better If I Go / Mirror Mirror](https://open.spotify.com/album/2km3cs83hddvcwmcNrVKS8) | 3:25 |
 | 71 | [Never Again](https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Never Again](https://open.spotify.com/album/4ThezZScitRuZONCfkJewe) | 2:52 |
-| 72 | [BRING ME BACK](https://open.spotify.com/track/6wo8bpKsehRyHBP2GLnmFE) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [MY ALBUM RELEASES FEB 14TH!!](https://open.spotify.com/album/2jwk6BtXJ3L5D3kaFsZrZr) | 3:44 |
+| 72 | [BRING ME BACK](https://open.spotify.com/track/6wo8bpKsehRyHBP2GLnmFE) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [MY ALBUM RELEASES FEB 14TH!!](https://open.spotify.com/album/2jwk6BtXJ3L5D3kaFsZrZr) | 3:43 |
 | 73 | [7/11](https://open.spotify.com/track/77NPodmclbqJ1uJTZI651s) | [45ACIDBABIES](https://open.spotify.com/artist/2mTXtWA6MHFws93KAA5rVt) | [7/11](https://open.spotify.com/album/6sSpeN8gADIKPG64GpnRsm) | 3:01 |
 | 74 | [Gratitude](https://open.spotify.com/track/45Ecm2SaKOncU2CqriDrmt) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Hiraeth](https://open.spotify.com/album/0Q1cLCrdqNt9SohBQrIQzm) | 3:42 |
 | 75 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 |

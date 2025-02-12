@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 7843,
+  "num_followers": 7858,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6fwAAAAAAC4Anve5BjQacPTuIdGpVj5",
+  "snapshot_id": "Z6lBgAAAAABC8jLRPe+MgRzFiabL9KU5",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freedom - EP",
-        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
+        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
       },
       "artists": [
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
     },
     {
       "added_at": null,
@@ -427,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
+        "name": "The Freedom - EP",
+        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
       },
       "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
+      "duration_ms": 229053,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
     },
     {
       "added_at": null,
@@ -711,54 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinderella Rock (Studio Cast Soundtrack)",
-        "url": "https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 256216,
-      "name": "I Can't Wish Much More",
-      "url": "https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Joaquina Kalukango",
-          "url": "https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb"
-        },
-        {
-          "name": "Isaiah Johnson",
-          "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
-        },
-        {
-          "name": "Kevyn Morrow",
-          "url": "https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3"
-        }
-      ],
-      "duration_ms": 278309,
-      "name": "Our Prayer",
-      "url": "https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billy Porter Presents: The Soul of Richard Rodgers",
         "url": "https://open.spotify.com/album/6kb6n9vKLCgHFUxAploR9a"
       },
@@ -775,6 +727,46 @@
       "duration_ms": 272266,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/6JyFgebcvdpni9fYO4X7wN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Johnson",
+          "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 162468,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinderella Rock (Studio Cast Soundtrack)",
+        "url": "https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 256216,
+      "name": "I Can't Wish Much More",
+      "url": "https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31"
     },
     {
       "added_at": null,

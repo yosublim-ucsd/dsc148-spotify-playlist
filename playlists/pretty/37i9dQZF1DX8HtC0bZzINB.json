@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 100920,
+  "num_followers": 100929,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "DIPSOMANIA",
-        "url": "https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu"
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl"
       },
       "artists": [
         {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+          "name": "Bixi Blake",
+          "url": "https://open.spotify.com/artist/2NPl6xmez0ma3ssIrMz1DM"
+        },
+        {
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
         }
       ],
-      "duration_ms": 225697,
-      "name": "NERDES\u0130N",
-      "url": "https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC"
+      "duration_ms": 200869,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/5jf9Zj1ebsD5gerVZzZ0X4"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -475,22 +479,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl"
+        "name": "DIPSOMANIA",
+        "url": "https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu"
       },
       "artists": [
         {
-          "name": "Bixi Blake",
-          "url": "https://open.spotify.com/artist/2NPl6xmez0ma3ssIrMz1DM"
-        },
-        {
-          "name": "Kum",
-          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/5jf9Zj1ebsD5gerVZzZ0X4"
+      "duration_ms": 225697,
+      "name": "NERDES\u0130N",
+      "url": "https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Baby (feat. Murda)",
+        "url": "https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO"
+      },
+      "artists": [
+        {
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Baby (feat. Murda)",
+      "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "CISTAK",
         "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 136000,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Baby (feat. Murda)",
-        "url": "https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO"
-      },
-      "artists": [
-        {
-          "name": "emir taha",
-          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Baby (feat. Murda)",
-      "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
     }
   ],
   "unique_name": "Yaz Ritmi",

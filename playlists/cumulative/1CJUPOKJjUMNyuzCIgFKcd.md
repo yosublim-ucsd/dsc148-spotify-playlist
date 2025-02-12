@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-306 songs - 13 hr 24 min
+309 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,12 +51,14 @@
 | [Boss Affirmations](https://open.spotify.com/track/6aW3D266UU5858OyPswJMq) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Hustle Muzik](https://open.spotify.com/album/1jE242ORWmEQbR5a9oJcIL) | 1:56 | 2024-11-18 |  |
 | [Boss Blues](https://open.spotify.com/track/2VAr6Z5n4pO3kI8m1ncYpb) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Boss Blues](https://open.spotify.com/album/7deP4NemY3eCBMgk3GmlWG) | 3:16 | 2023-09-08 | 2024-01-13 |
 | [Bread](https://open.spotify.com/track/5pmPXqsgYiI3OJiatlQM2F) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Bread](https://open.spotify.com/album/5alFxffK5IBHhrDM69yrqr) | 2:33 | 2025-01-17 |  |
+| [Breakthrough](https://open.spotify.com/track/4OMW1ESD5aZL3POzifBu0y) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Breakthrough](https://open.spotify.com/album/6YGwRwJryaqUawRuq3g5fk) | 3:13 | 2025-02-11 |  |
 | [Breathe](https://open.spotify.com/track/4L7PA4GJ8opDpOhlK25wGx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Breathe](https://open.spotify.com/album/2cBWEbN85uv6gT3Wjnnj94) | 2:30 | 2023-12-08 | 2024-05-21 |
 | [Brothers Only](https://open.spotify.com/track/4Rf9xUNWcZXQpwq6OHkuTY) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Pyrex Kids](https://open.spotify.com/album/0WS1JqFCANiSjK186Rkbxo) | 2:38 | 2023-10-30 | 2024-02-21 |
 | [Brown Bag](https://open.spotify.com/track/2BHYsOiNlLdVy1c69c84QS) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Brown Bag](https://open.spotify.com/album/02XLGXHZvOh56apXxTg5FX) | 2:15 | 2024-03-30 | 2024-07-23 |
 | [Buckle Up](https://open.spotify.com/track/225mfDVl2zv1gcS3QAtXXH) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Buckle Up](https://open.spotify.com/album/2HJxcPLIKtKd8LPSAHwsQL) | 1:58 | 2023-09-15 | 2024-01-13 |
 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-30 | 2024-07-23 |
 | [Bully Flow](https://open.spotify.com/track/0CpvLQPZpypNSueYp4MCIb) | [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [Bully Flow](https://open.spotify.com/album/3mGduF88Hg7QiWf4vwQ9zR) | 1:59 | 2023-09-15 | 2024-01-13 |
+| [Business Class](https://open.spotify.com/track/2DAR7W1ThLhz3jr0NQusyb) | [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [Business Class](https://open.spotify.com/album/1xCXruxieVUH1D9jSMAwqc) | 3:33 | 2025-02-11 |  |
 | [Case Dismissed](https://open.spotify.com/track/21Snj1BjgpX3eeSCudzqAI) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Case Dismissed](https://open.spotify.com/album/50VcqInrcl5ZBuJlKPOnjX) | 1:18 | 2024-03-04 | 2024-07-23 |
 | [Cashout](https://open.spotify.com/track/3jMkQImrpgdMpziv9WYj5v) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Have Money Have Heart](https://open.spotify.com/album/5k0hR6M4hFs6mS5X5wbqj5) | 2:33 | 2024-05-20 | 2024-11-19 |
 | [Celebrity Status](https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Celebrity Status](https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF) | 1:26 | 2023-09-08 | 2024-01-13 |
@@ -307,6 +309,7 @@
 | [WHO AM I](https://open.spotify.com/track/7dYlzIpwTpcuV53z2D6eTC) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [WHO AM I](https://open.spotify.com/album/2DPeAIzefUfnTotr3hGJx6) | 2:28 | 2024-01-19 | 2024-05-21 |
 | [Who Am I?](https://open.spotify.com/track/5C5OTjlFFfrGnybSzEV6AI) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [Who Am I?](https://open.spotify.com/album/0FVlHF44IXXiCqJCbgSKE6) | 2:15 | 2023-08-28 | 2024-01-13 |
 | [WHO YA BIG HOMIE](https://open.spotify.com/track/1MXVXzDnurIooZMgCxO4wC) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [WHO YA BIG HOMIE](https://open.spotify.com/album/35iDqplgRyERcnqrwi6Qyr) | 3:17 | 2023-12-01 | 2024-03-16 |
+| [With Me \(feat\. Loe Shimmy\)](https://open.spotify.com/track/0qFxYQZVxoMmMmV6u7fO3Z) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zero Tolerance](https://open.spotify.com/album/1xJy0SjEfzPFHsbkJ2wUAQ) | 2:40 | 2025-02-11 |  |
 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 | 2023-10-30 | 2024-02-21 |
 | [Workin](https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Workin](https://open.spotify.com/album/0vqB5bvxtquqB5g87MNDw9) | 3:04 | 2023-11-18 | 2024-03-16 |
 | [XPLOSIVE](https://open.spotify.com/track/4Yk97MKGfwL707ASkje7Qf) | [MRG](https://open.spotify.com/artist/6eqLAUIm0u7CgcbjX9O5fb) | [XPLOSIVE](https://open.spotify.com/album/2Gj5KgYzMteatwKBUuxyEO) | 1:45 | 2023-12-01 | 2024-03-05 |

@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 106315,
       "name": "almost there",
       "url": "https://open.spotify.com/track/2rJLOmmXcxhCyRlENiJcFz"
@@ -8666,6 +8666,24 @@
       "duration_ms": 113000,
       "name": "Autumn Theory",
       "url": "https://open.spotify.com/track/7hFVjyCCaIG5cJxzW5wb7l"
+    },
+    {
+      "album": {
+        "name": "Autumn Views",
+        "url": "https://open.spotify.com/album/4ea2LxOrBLP22em8V8ZOUN"
+      },
+      "artists": [
+        {
+          "name": "Mr Clyde",
+          "url": "https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "Autumn Views",
+      "url": "https://open.spotify.com/track/6ehKIufwrcNY6oJhSR90hM"
     },
     {
       "album": {
@@ -17204,7 +17222,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 135529,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK"
@@ -24524,7 +24542,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 134800,
       "name": "Coffein",
       "url": "https://open.spotify.com/track/34qgYqeqPGMVoQKdI2Vypz"
@@ -35259,6 +35277,28 @@
     },
     {
       "album": {
+        "name": "Easy Days",
+        "url": "https://open.spotify.com/album/3MezzNojPjjHkZtSQvdVWJ"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "YODAKA",
+          "url": "https://open.spotify.com/artist/52ZLqRmHoenePZnJpjjnRn"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134366,
+      "name": "Easy Days",
+      "url": "https://open.spotify.com/track/5o4jIEMBoCDuM5OBH9Oxu8"
+    },
+    {
+      "album": {
         "name": "Easy Lovin",
         "url": "https://open.spotify.com/album/15TxEnIDYL4JVjDZ7r3gzh"
       },
@@ -44512,7 +44552,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 162000,
       "name": "fourward",
       "url": "https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt"
@@ -106044,7 +106084,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 161650,
       "name": "Shining Sun",
       "url": "https://open.spotify.com/track/4KOS347RAW9K2AuROIFNN9"
@@ -114808,7 +114848,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 139024,
       "name": "Strange Things",
       "url": "https://open.spotify.com/track/5WjfS3W042xnw8GRFx4rt7"
@@ -126970,7 +127010,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 91490,
       "name": "Trineos",
       "url": "https://open.spotify.com/track/45qPHGAfaTDAyg11FMFkwY"
@@ -130600,6 +130640,24 @@
       "duration_ms": 93987,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/3T2sH7tgJoq2PtHsFMq2ZQ"
+    },
+    {
+      "album": {
+        "name": "Velvet 87",
+        "url": "https://open.spotify.com/album/0OXAUEkYYeJlwoLLV8T9Db"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134651,
+      "name": "Velvet 87",
+      "url": "https://open.spotify.com/track/3m5YysyzuOU7hN2M3npuCP"
     },
     {
       "album": {

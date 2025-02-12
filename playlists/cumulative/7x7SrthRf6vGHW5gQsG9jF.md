@@ -4,7 +4,7 @@
 
 > mostly rock
 
-822 songs - 2 day 4 hr 36 min
+823 songs - 2 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 | 2024-02-29 |  |
 | [MOON WALK](https://open.spotify.com/track/5v3t7D09JSOZiG4jTtA05s) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [愛のゆくえ](https://open.spotify.com/album/7jcYC4Z8pW0Uv80lsDYFfg) | 5:18 | 2024-01-02 |  |
 | [Moonlight Ginga](https://open.spotify.com/track/3h5FrqgsOeWMy6YGrg87wp) | [Soutaiseiriron](https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y) | [Synchroniciteen](https://open.spotify.com/album/4oYijXtFIv6PmxdRY8dwKC) | 6:05 | 2023-08-15 |  |
+| [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2025-02-11 |  |
 | [MOUSE OF THE PAIN](https://open.spotify.com/track/5yWs7avjETOqT8QbpiV5m9) | [Veltpunch](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 4:05 | 2024-02-19 |  |
 | [My Body is Dead](https://open.spotify.com/track/6hwh8eZhhCcG1TM5ePDFqQ) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [Nice Body? \(Extra Edition\)](https://open.spotify.com/album/0Dhe4W28dztDMZA3oTxK0V) | 3:46 | 2024-09-20 |  |
 | [my crush](https://open.spotify.com/track/3yo61FHsqmMJ2xueMfOBmx) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [my crush](https://open.spotify.com/album/41rqIUnX9a5qrAhlwsUe2c) | 2:40 | 2024-10-08 |  |

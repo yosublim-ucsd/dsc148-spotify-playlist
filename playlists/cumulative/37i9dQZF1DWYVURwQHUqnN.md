@@ -2,7 +2,7 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Alonzo x Gazo
+> Photo : Jul
 
 235 songs - 11 hr 19 min
 
@@ -50,7 +50,7 @@
 | [Continents](https://open.spotify.com/track/38D17hHTXb59kEULsAZjpV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Continents](https://open.spotify.com/album/7zMLIlP82oQBVI0W8D5T5u) | 2:27 | 2024-07-04 | 2024-10-25 |
 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 | 2024-02-22 | 2024-05-24 |
 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 | 2024-12-13 |
-| [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-16 |  |
+| [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-16 | 2025-02-12 |
 | [CRAZY \(feat\. Naza\)](https://open.spotify.com/track/4boEoouWug1KL4oIdO6yOn) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [CRAZY \(feat\. Naza\)](https://open.spotify.com/album/6lLXMBYHPG6LziicXBNOiU) | 2:14 | 2023-09-28 | 2024-02-09 |
 | [CŒUR DE ICE](https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CŒUR DE ICE](https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe) | 3:24 | 2024-06-13 | 2024-08-06 |
 | [Cœur lourd](https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Massine](https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ) | [Cœur lourd](https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725) | 2:32 | 2024-09-12 | 2024-10-18 |
@@ -217,7 +217,7 @@
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-07-19 |
 | [Tour du Monde](https://open.spotify.com/track/7Mk0whTW3cBo3dLgCACZsf) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Tour du Monde](https://open.spotify.com/album/7de883jdeEEshL3nkpjWRy) | 2:45 | 2025-01-16 |  |
 | [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-05-30 | 2024-11-15 |
-| [Toute la Noché](https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Longue Vie à Nous](https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF) | 2:54 | 2025-02-06 |  |
+| [Toute la Noché](https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Longue Vie à Nous](https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF) | 2:54 | 2025-02-06 | 2025-02-12 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 | 2023-09-28 | 2024-05-10 |

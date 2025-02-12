@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s?si=Ci19k6ImSzukckEeetcsEw">Mmuso Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,197 likes - 97 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,298 likes - 97 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

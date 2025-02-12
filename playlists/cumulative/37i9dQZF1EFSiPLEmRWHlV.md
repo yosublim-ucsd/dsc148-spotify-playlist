@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 8 hr 6 min
+143 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Here With Me](https://open.spotify.com/track/0Bq6F58iu7wRKOTaOm7Oke) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Here With Me](https://open.spotify.com/album/3LfpH2HGdyq4sDbJWiqwHn) | 2:28 | 2024-06-13 |  |
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2024-06-13 |  |
 | [Hold On](https://open.spotify.com/track/1Bj286OtRqZeE87Y4JHS2U) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Hold On](https://open.spotify.com/album/03t57S3XQ8hJEOvlcqxbry) | 2:54 | 2024-06-13 |  |
-| [I Got Nothing](https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/32wadIN0emxBanTLINlH08) | 3:23 | 2024-06-13 |  |
+| [I Got Nothing](https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/32wadIN0emxBanTLINlH08) | 3:23 | 2024-06-13 | 2025-02-12 |
+| [I Got Nothing](https://open.spotify.com/track/5gYuQutteTbnyTTAIUrzGd) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/1SUIcDzHO6jzxJOvoW6QIp) | 3:23 | 2025-02-11 |  |
 | [I Want To Feel](https://open.spotify.com/track/0Um0sGHLnktSqGcyKW5PNJ) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:32 | 2024-06-13 |  |
 | [Ice Tea](https://open.spotify.com/track/3ipskVxqlZ1YATVgAe1xvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ice Tea \(Huxley Remix\)](https://open.spotify.com/album/7frIC2ydIyUQFxeAjgEeDf) | 4:34 | 2024-06-13 |  |
 | [Imagine](https://open.spotify.com/track/6IxivWtrcSIjjmEFd4J7Cg) | [Next Habit](https://open.spotify.com/artist/2PPJ3ccorfps8VfCL6i8Rl) | [Imagine](https://open.spotify.com/album/78GyAR4aTtck5cVxlPkaCI) | 3:17 | 2024-06-13 |  |

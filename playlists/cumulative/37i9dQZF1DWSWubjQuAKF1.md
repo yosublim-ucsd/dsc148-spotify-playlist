@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Rocka
 
-324 songs - 15 hr 34 min
+325 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 | 2024-06-28 | 2024-07-05 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-23 |  |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-06-28 | 2024-07-12 |
+| [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 |  |
 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 | 2025-01-10 |
 | [Adoruje](https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY) | [Adoruje](https://open.spotify.com/album/4coeoHHAySMXfGt4PjGsAp) | 2:35 | 2024-06-28 | 2024-07-19 |
 | [Ale Boli!](https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Ale Boli!](https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9) | 1:53 | 2024-09-27 | 2024-11-08 |
@@ -300,7 +301,7 @@
 | [WAS DWÓCH](https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [WAS DWÓCH](https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9) | 2:49 | 2025-01-23 |  |
 | [We're Not The Same](https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [We're Not The Same](https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb) | 3:16 | 2025-02-06 |  |
 | [What do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [What do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-22 | 2024-10-12 |
-| [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 | 2025-01-23 |  |
+| [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 | 2025-01-23 | 2025-02-12 |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 |  |
 | [Why she's better](https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Czy to nadal ja?](https://open.spotify.com/album/6ZxCc5LCfmblibKjhuUMyv) | 2:39 | 2024-06-28 | 2024-07-12 |
 | [Wiem, że ci ciężko](https://open.spotify.com/track/6fdsYxLiiqBQBEdZh7lkL4) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Wiem, że ci ciężko](https://open.spotify.com/album/0CNDOPFX4ucmlpji8KAonu) | 3:31 | 2024-06-28 | 2024-07-05 |

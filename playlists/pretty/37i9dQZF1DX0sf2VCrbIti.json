@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
         "name": "Billos Caracas Boys Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 173290,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
     },
     {
       "added_at": "2024-12-16 20:55:09",

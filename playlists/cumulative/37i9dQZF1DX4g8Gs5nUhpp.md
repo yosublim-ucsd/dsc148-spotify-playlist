@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: AMEE
+> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Đức Phúc
 
 362 songs - 21 hr 38 min
 
@@ -18,7 +18,7 @@
 | [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 | 2024-06-27 | 2024-09-10 |
 | [Ai Đưa Em Về](https://open.spotify.com/track/39TAKt2hL8sdhVTFCNfm2Y) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/1wkAoUayWVlX0ayIbiWlCq) | 3:53 | 2022-07-27 | 2023-05-30 |
 | [Ai Đưa Em Về](https://open.spotify.com/track/4iDyFW4a7iCJh2VqSpwGQz) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/3g4UhKs9pmkiJiLytUv9nB) | 3:53 | 2022-05-27 | 2022-07-29 |
-| [AMEE chúc Tết](https://open.spotify.com/track/5VJBWMfTyfpwvYESxRIPns) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 | 2025-01-23 |  |
+| [AMEE chúc Tết](https://open.spotify.com/track/5VJBWMfTyfpwvYESxRIPns) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:26 | 2025-01-23 | 2025-02-12 |
 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-11 | 2025-01-24 |
 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 | 2023-10-14 | 2024-01-03 |
 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 | 2023-10-09 | 2025-01-24 |
@@ -64,7 +64,7 @@
 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 | 2023-12-03 |  |
 | [Criminal](https://open.spotify.com/track/6JAFqDVdkLfJ9BtGIBZNWd) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Nữ Hoàng Vũ Đạo Đường Phố \(SWFV\) Nhiệm vụ Cấp bậc](https://open.spotify.com/album/2KFtIUAicQBmIyKV4hoWgT) | 3:06 | 2024-09-03 | 2024-09-23 |
 | [Cuối Tuần \(1825\)](https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Lelarec](https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq) | [Cuối Tuần \(1825\)](https://open.spotify.com/album/78AJ8syflYYWeZIbAWPcXj) | 2:55 | 2025-01-23 |  |
-| [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 | 2025-01-23 |  |
+| [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 | 2025-01-23 | 2025-02-12 |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-05-27 | 2024-06-17 |
 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2023-01-31 | 2025-01-24 |
 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 | 2022-10-05 | 2022-12-19 |

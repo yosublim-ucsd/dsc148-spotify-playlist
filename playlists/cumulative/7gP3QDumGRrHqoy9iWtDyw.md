@@ -4,7 +4,7 @@
 
 > 
 
-249 songs - 15 hr 59 min
+253 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Disco Bus](https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Disco Bus](https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6) | 3:20 | 2025-01-24 |  |
 | [Do It](https://open.spotify.com/track/0x5izWAhyuctOhtx7FxCtH) | [Mr\. Kavalicious](https://open.spotify.com/artist/1kmI4oiZm0peQKvgF6BnIO), [AR \(UK\)](https://open.spotify.com/artist/5LdnP7v3sJePxcwPZZS5T4) | [Do It EP](https://open.spotify.com/album/3hbhIZLHUjUJJcjZ8G7ReC) | 3:23 | 2022-12-18 |  |
 | [Do You Believe](https://open.spotify.com/track/6fjIdGWx8vrUbo1T92fP7V) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Do You Believe](https://open.spotify.com/album/1p8aa46KbCBGNQxFbKUwln) | 2:27 | 2024-02-03 |  |
+| [Do You Like Bass](https://open.spotify.com/track/3EExBiYU4a17gM6AusPgiT) | [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Do You Like Bass](https://open.spotify.com/album/2lRA75Hg0UKAgnlxlOWOOS) | 3:04 | 2025-02-11 |  |
 | [Don't Abuse It](https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Don't Abuse It](https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v) | 2:15 | 2024-02-09 |  |
 | [Don't You Want Me \- Purple Disco Machine Remix](https://open.spotify.com/track/3BTzwW4PLNDtREjesuYy03) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Don't You Want Me \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq) | 3:30 | 2022-11-13 |  |
 | [Downtown](https://open.spotify.com/track/1YvlimLxXzHQIE476nBFws) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 5:22 | 2023-07-08 |  |
@@ -185,6 +186,7 @@
 | [Play House](https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv) | [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Play House EP](https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2) | 3:59 | 2024-11-19 |  |
 | [Play The Music](https://open.spotify.com/track/56cQnHXl41WmUcJ8NJRSt2) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Play The Music](https://open.spotify.com/album/0yxplzAy4QkUQcz43MrWx4) | 6:21 | 2024-05-21 |  |
 | [Players](https://open.spotify.com/track/4Saj7Jw9bFW5MSDAYmZc43) | [Igor2k](https://open.spotify.com/artist/005MVNrRylfmjhtMkQoONR) | [Players](https://open.spotify.com/album/5HvlZJMPubHxz5psaY7KpJ) | 4:08 | 2023-05-05 |  |
+| [Pretty Boy Swag](https://open.spotify.com/track/0OogJrrV5p5otqQe1pQOBb) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68) | [Pretty Boy Swag](https://open.spotify.com/album/3QSn7hwDS4MqBWhozhHcyN) | 3:17 | 2025-02-11 |  |
 | [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-16 |  |
 | [Raw Wave in My House \- Fun Mix](https://open.spotify.com/track/4JxEv3XQCUCqwgVx9eC3vh) | [Mr\. Cookie](https://open.spotify.com/artist/2hu3E0yzrDIbf0i4l4NIvn) | [Raw In](https://open.spotify.com/album/5nogzArwmDwiUTFu0V6LWN) | 2:58 | 2022-10-21 | 2024-01-21 |
 | [Release Your Mind \- Oscar L Grooves Remix](https://open.spotify.com/track/5kIuT2uCEDEdBxOLEbDORd) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Release Your Mind](https://open.spotify.com/album/6WqhYTfrCoDYjzabqiGKvJ) | 7:07 | 2022-11-20 |  |
@@ -248,9 +250,11 @@
 | [We Are](https://open.spotify.com/track/09ZvCPAcFmFBGDAMS23Gc0) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [We Are](https://open.spotify.com/album/2nsc6sXh3kcuNLh7aI6XAC) | 7:24 | 2022-08-20 | 2024-01-21 |
 | [Whatsapp \- Original Mix](https://open.spotify.com/track/1ARYFT8AZQBGCy5mdPHp82) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Cherry Picks Volume 1.](https://open.spotify.com/album/45wj4inQt9OthWTlOtibKf) | 6:13 | 2022-12-12 |  |
 | [When The Beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When The Beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 | 2023-12-04 |  |
+| [Whispers](https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Whispers EP](https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8) | 2:35 | 2025-02-11 |  |
 | [With You](https://open.spotify.com/track/4VT2MFOqiFGEwAEO4MIfkw) | [Sammy Deuce](https://open.spotify.com/artist/1dqlfiO9Mb9kLighqxq8dZ) | [With You](https://open.spotify.com/album/3eQMsmgGtshdYZARXoDN0N) | 3:33 | 2022-12-12 |  |
 | [Work](https://open.spotify.com/track/4BSkKV0SIAoPF54KFvwQHR) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [Jungle Kitty](https://open.spotify.com/album/17X6ujjoDdeStFqXuX8C4u) | 2:52 | 2022-03-22 |  |
 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 | 2017-08-12 |  |
+| [Xtreme BS](https://open.spotify.com/track/1mNlgNvahC1uZRwhPXxM3y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Xtreme BS](https://open.spotify.com/album/6ijxSQ6IzecdFVWVrMnzIm) | 3:01 | 2025-02-11 |  |
 | [Yes Man \- Radio Edit](https://open.spotify.com/track/47xypX1JI0skOo1wrqJpOP) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Yes Man](https://open.spotify.com/album/7kdcsS4EJ0lXtIS9kLhpqg) | 3:50 | 2023-01-05 |  |
 | [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-03-11 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-19 |  |

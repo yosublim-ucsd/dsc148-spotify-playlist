@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 
 > For the bisexuals.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 60 songs - 3 hr 29 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 61 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 | 58 | [Chinese House Flowers](https://open.spotify.com/track/6ZsvD1T2kaT8WQQN1iLJTH) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 2:57 |
 | 59 | [Alpha Desperation March](https://open.spotify.com/track/3Su7IKbmRiI8W8Fa69aoR2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bitter Melon Farm](https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH) | 2:51 |
 | 60 | [Green](https://open.spotify.com/track/2PfkfkaO9okAk0OxC4ggy5) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:30 |
+| 61 | [Estate Sale Sign](https://open.spotify.com/track/0L2BiNlHpwgXklOoUq5kXn) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX) | 2:47 |
 
-Snapshot ID: `AAAASHAyubjtuSQ1ABPAEprm7EJmlydR`
+Snapshot ID: `AAAASZsMEChLgAG7q+/nOsu6zx/YaJtB`

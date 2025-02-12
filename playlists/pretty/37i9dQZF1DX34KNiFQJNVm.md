@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, MC IG, Hungria com Turma do Pagode e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016,549 likes - 67 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016,712 likes - 67 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 31 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
 | 32 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 |
 | 33 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
-| 34 | [Chacina](https://open.spotify.com/track/048VGsQtCmQ0AXYJpIxuRJ) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Epica 2 \(Deluxe\)](https://open.spotify.com/album/12LjShUNoxdGFGU87PVsLn) | 3:23 |
+| 34 | [CHACINA](https://open.spotify.com/track/048VGsQtCmQ0AXYJpIxuRJ) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [PZZS](https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Epica 2 \(Deluxe\)](https://open.spotify.com/album/12LjShUNoxdGFGU87PVsLn) | 3:23 |
 | 35 | [Ácido na Boca](https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Ácido na Boca](https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01) | 2:50 |
 | 36 | [Chamei Ela](https://open.spotify.com/track/7hwci1sja6dP6tjDyiMHuW) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Leonne](https://open.spotify.com/artist/03ujY7OuCPFQS2bsm4ei8W), [DJ GR](https://open.spotify.com/artist/6pmOjGYsQw10ufOkjvinEd) | [Chamei Ela](https://open.spotify.com/album/7xlg5L7iwgH3t65ewpFKQc) | 3:01 |
 | 37 | [Chefe da Matilha](https://open.spotify.com/track/7DnO1Nl0BVVSIzvTyzBDP6) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8) | [Chefe da Matilha](https://open.spotify.com/album/6O5KUJGT9zqMZfJso06Vyj) | 4:28 |

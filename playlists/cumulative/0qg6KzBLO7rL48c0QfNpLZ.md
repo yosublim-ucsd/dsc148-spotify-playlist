@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-901 songs - 1 day 15 hr 54 min
+903 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Are You With Me](https://open.spotify.com/track/6EagnEg9fcmVnVTnVc2pRN) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Are You With Me](https://open.spotify.com/album/0xk0DimpO7ovSx4nMcmXvU) | 2:30 | 2024-06-07 | 2024-07-20 |
 | [As Far as Feelings Go](https://open.spotify.com/track/2kJIiIqbzYVtv2iTpbQts9) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [As Far as Feelings Go](https://open.spotify.com/album/7wN2FvcizhjkzuT3MvAGZI) | 3:29 | 2024-01-18 | 2024-09-15 |
 | [As It Was](https://open.spotify.com/track/0PszJKpYHBAIfx8bC2EydD) | [NOVUM](https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv), [Lumez](https://open.spotify.com/artist/7HXcmSLAIwIIMN5AHNx6z6) | [As It Was](https://open.spotify.com/album/6JxQfMhKMnoMXcJ8LQMqk5) | 2:09 | 2024-02-02 | 2024-03-02 |
+| [Aura](https://open.spotify.com/track/2Z50RqRrrHVncxJxo9R1qN) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Aura](https://open.spotify.com/album/72ZaxIUPpS2VZHmJrGfcf3) | 3:03 | 2025-02-11 |  |
 | [Back to Life](https://open.spotify.com/track/0qzRIQqFitzv0FZJupaeFV) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Kevin Kairouz](https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS) | [Back to Life](https://open.spotify.com/album/4Lij0CvIP9LI1ZQyyLjXrK) | 4:03 | 2024-12-06 | 2025-01-11 |
 | [Back To Life](https://open.spotify.com/track/6Jh3BMkWV1lY9w9s365zdx) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Murphy](https://open.spotify.com/artist/25nKGLt8u775jURsw1bIP0) | [Back To Life](https://open.spotify.com/album/2LlHEnrb2lp6UHtBZd3DXY) | 2:29 | 2024-07-26 | 2024-08-31 |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2023-11-24 | 2024-09-15 |
@@ -549,6 +550,7 @@
 | [More Than You Know](https://open.spotify.com/track/5Onp6M1x0tN6UE3iPfEQXJ) | [Scity](https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ) | [More Than You Know](https://open.spotify.com/album/26Wsam7Yzh1fpTKq1OCJWo) | 2:32 | 2024-11-01 | 2024-12-07 |
 | [morning](https://open.spotify.com/track/37vQ6ZDOfxoAsupjVkWQVB) | [DTT Felix](https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm) | [morning](https://open.spotify.com/album/3yTNqBYC4Cg5ly4sr66SI6) | 3:20 | 2024-12-06 | 2025-01-11 |
 | [Morning Glow](https://open.spotify.com/track/2UwCnds4eri2ueMXeRjJjH) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Døver](https://open.spotify.com/artist/1u1yZmOMnocdG8B8En3mH0) | [Morning Glow](https://open.spotify.com/album/7Fecs608x1A6BDt66ZsIE0) | 1:57 | 2022-11-11 | 2024-09-15 |
+| [Morning Sun](https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2) | [Morning Sun](https://open.spotify.com/album/5YTzcSdg8SRUiSKieVB9aC) | 3:04 | 2025-02-11 |  |
 | [Move](https://open.spotify.com/track/6NIJqFHB5cHAn064JCP7Li) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/532L1zk5VJqGtRQLRFiVod) | 2:57 | 2024-09-02 | 2024-11-02 |
 | [Move](https://open.spotify.com/track/5Ge8XlyxemWkqrLYIRUiWG) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Move](https://open.spotify.com/album/2hqPQ9UpH2RBvAAvSEJn9d) | 2:24 | 2024-11-01 | 2025-01-22 |
 | [Moving On](https://open.spotify.com/track/1PXIDsdUOabw6EMKq2rEjB) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Griffin Wiegel](https://open.spotify.com/artist/20t6Rr4gbPrI6q4TSpcWS2) | [Moving On](https://open.spotify.com/album/3vZveQH3F4rQU2L2rGVP2s) | 2:32 | 2024-03-15 | 2024-04-15 |

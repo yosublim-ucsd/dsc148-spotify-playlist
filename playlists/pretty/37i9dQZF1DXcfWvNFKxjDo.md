@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: WizTheMc
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,443 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,492 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 55 | [Warper](https://open.spotify.com/track/0nwD5W2f3vq3Smo5H5X8w1) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [My Sound](https://open.spotify.com/album/6r54FbwbPUFMiw4lnpDGX7) | 4:23 |
 | 56 | [Something to Believe In](https://open.spotify.com/track/5J40E1eRcEKaN8xl3Ba0D5) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Something to Believe In](https://open.spotify.com/album/3DtIKSufhSQbpChyHq4Ygf) | 2:22 |
 | 57 | [The Rhythm](https://open.spotify.com/track/1N1EpNwYGnj4WHqs7N6iBE) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [The Rhythm](https://open.spotify.com/album/7LXvrqDHdPJLPuB5VCpUHe) | 2:32 |
-| 58 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [Abel](https://open.spotify.com/artist/7kOiqab0tLQ9xYlFNAeP3n) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 |
+| 58 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [ABEL](https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 |
 | 59 | [My Angel](https://open.spotify.com/track/0417nkSXjcoPvIVP7txmYy) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [My Angel](https://open.spotify.com/album/0gTtqjprYTCfbkBTZP8NEk) | 2:48 |
 | 60 | [Feuerzeug](https://open.spotify.com/track/3HsjAssP75RTYDxAGrY98l) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [Guterzogene Asis](https://open.spotify.com/artist/5p1lFV85iIz2HCGD9S45dE) | [Feuerzeug](https://open.spotify.com/album/31HmXuns8xlUjH1jN5ur8p) | 2:46 |
 | 61 | [Crockett's Theme \(Invincible\)](https://open.spotify.com/track/4GkJ6RvWnHc0m3yLwm4Dj1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Crockett's Theme \(Invincible\)](https://open.spotify.com/album/2R9Umrylm3Rfg1jAn78Lw2) | 2:11 |

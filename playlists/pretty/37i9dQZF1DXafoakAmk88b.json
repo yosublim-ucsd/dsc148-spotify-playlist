@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: FKA twigs ",
-  "num_followers": 54873,
+  "num_followers": 54894,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
+        "name": "I Feel Different Every Day",
+        "url": "https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "I Know What Everyone Says About Me",
+      "url": "https://open.spotify.com/track/2VWb5h4WeuNgd54p7pk7ay"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/2cb7yebOYSSMMFUXKVFE7j"
       },
@@ -807,34 +823,18 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "I hate your face",
-        "url": "https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7"
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW"
       },
       "artists": [
         {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
         }
       ],
-      "duration_ms": 138116,
-      "name": "I hate your face",
-      "url": "https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
-        "name": "I Feel Different Every Day",
-        "url": "https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "I Know What Everyone Says About Me",
-      "url": "https://open.spotify.com/track/2VWb5h4WeuNgd54p7pk7ay"
+      "duration_ms": 208329,
+      "name": "All Cylinders",
+      "url": "https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv"
     }
   ],
   "unique_name": "Indie Frequency",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bandalos Chinos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,276 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,284 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 34 | [JUVENTUD 2000](https://open.spotify.com/track/4jD4T0fDa3ysK0RKAcLWAg) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [JUVENTUD 2000](https://open.spotify.com/album/3QSq0S1GP43o9s2iWEf2nE) | 3:22 |
 | 35 | [Dolor de Muelas](https://open.spotify.com/track/2FMiH6gp6BmBcJZzIHxt04) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Dolor de Muelas](https://open.spotify.com/album/2hHbGf8JJQFl2dxwzvInYO) | 2:50 |
 | 36 | [Fabricante de Alegrías](https://open.spotify.com/track/16zlAwSS8hni66uHAEE8WN) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Marcelo López](https://open.spotify.com/artist/62vmUN3tpO93O4782Ac9um) | [Fabricante de Alegrías](https://open.spotify.com/album/1U2Tq2a9v2K44tmpri4H9a) | 2:16 |
-| 37 | [Pase por el Yola Bar](https://open.spotify.com/track/1JNv0sET0qVm1VyP6eZT4o) | [telma ganem](https://open.spotify.com/artist/2r1cgnV7glwkLotbxuL6xO), [Suno](https://open.spotify.com/artist/4f15Ht1PsmWR9fAdujZwPV) | [Pase por el Yola Bar](https://open.spotify.com/album/4rLWzP08qizNMykMwnnizd) | 2:16 |
+| 37 | [Pase por el Yola Bar](https://open.spotify.com/track/1JNv0sET0qVm1VyP6eZT4o) | [telma ganem](https://open.spotify.com/artist/2r1cgnV7glwkLotbxuL6xO), [Suno](https://open.spotify.com/artist/12Z9i7Dh2TP9KQzb6eFXiT) | [Pase por el Yola Bar](https://open.spotify.com/album/4rLWzP08qizNMykMwnnizd) | 2:16 |
 | 38 | [El 2020](https://open.spotify.com/track/4YP7SJ0uKOF7aHnaLpLVZ8) | [Transpor\*t](https://open.spotify.com/artist/2wiNvSHVIljPmaPNMWreA7) | [El 2020](https://open.spotify.com/album/1LbtBKUgWQnlhkRVDFAh0W) | 3:39 |
 | 39 | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Cuando el Circo Llega al Pueblo](https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL) | 3:17 |
 | 40 | [De Nada Sirve \- En Vivo En Argentina](https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Cómo Me Gusta Verte Reír](https://open.spotify.com/album/4lTU97kK1BZn8CM64e0qHK) | 4:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,673 likes - 152 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,710 likes - 152 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

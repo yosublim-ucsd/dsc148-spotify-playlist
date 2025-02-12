@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,773 likes - 103 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,771 likes - 103 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 10 | [terjebak imajinasi \- acoustic version](https://open.spotify.com/track/2mKCo6yFO77yt0XN5G7vIy) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [terjebak imajinasi \(acoustic version\)](https://open.spotify.com/album/3UuteNNDPaFk8E5rp9qdlN) | 3:42 |
 | 11 | [PILIHLAH AKU](https://open.spotify.com/track/5WqGqgeknOAmkuucH5ytct) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [PILIHLAH AKU](https://open.spotify.com/album/27CH3SGHz1EpTIsK8zI29c) | 3:09 |
 | 12 | [Tak Berakhir Sama](https://open.spotify.com/track/5NXaiP4tRDJzHWydzRHwQ3) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Tak Berakhir Sama](https://open.spotify.com/album/40x1sWxBNDkUmvYIFdLsCX) | 3:50 |
-| 13 | [Garam & Madu \(Sakit Dadaku\) \- Sped Up](https://open.spotify.com/track/4SzxJfn1zHyDVeciAu716m) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\) \[Sped Up\]](https://open.spotify.com/album/7xlOM463i9S7MUkFNKOMYp) | 2:40 |
+| 13 | [Garam & Madu \(Sakit Dadaku\) \[Sped Up\]](https://open.spotify.com/track/4SzxJfn1zHyDVeciAu716m) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\) \[Sped Up\]](https://open.spotify.com/album/7xlOM463i9S7MUkFNKOMYp) | 2:40 |
 | 14 | [Lullaby](https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Lullaby](https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky) | 2:39 |
 | 15 | [Persetan](https://open.spotify.com/track/1bezVZOJ0mGm2jCG1baSUk) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Persetan](https://open.spotify.com/album/0vlKNOHSm76vhc9Nlb3LWl) | 4:19 |
 | 16 | [Aliens](https://open.spotify.com/track/2H6IA5KEr3RvFZrZTwMkQz) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Aliens](https://open.spotify.com/album/3Ge9wre66gxREL0Gv5iIPr) | 3:05 |

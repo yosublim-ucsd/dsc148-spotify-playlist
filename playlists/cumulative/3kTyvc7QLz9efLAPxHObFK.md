@@ -4,7 +4,7 @@
 
 > 
 
-2,040 songs - 4 day 12 hr 15 min
+2,042 songs - 4 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [BAD B!TCH](https://open.spotify.com/track/1jwPtA5vbX9ZPzz0kYZ6zz) | [Dynamic Noise](https://open.spotify.com/artist/74fiiCruGpIQxX1klSVtp9), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [BAD B!TCH](https://open.spotify.com/album/58HUj0fmhQaVinkBYtGtLY) | 2:22 | 2024-08-10 |  |
 | [BAD BLOOD](https://open.spotify.com/track/0LbpclZLzBrAVR5jkGHuyu) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [BAD BLOOD](https://open.spotify.com/album/0c2IK2p1MwiwCN9M57lNcm) | 3:33 | 2024-01-12 |  |
 | [Bad Boy](https://open.spotify.com/track/6tzPlAmhNm2q7T2hJCNExZ) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [NEED FOR SPEED](https://open.spotify.com/album/3bNU00DAypHgWuehEIl935) | 2:25 | 2024-07-26 |  |
+| [Bad Boy](https://open.spotify.com/track/33rASfwg6hSFHMGBcqfRiY) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Bad Boy](https://open.spotify.com/album/0UMQFh865qaGXKg5HsjakB) | 2:44 | 2025-02-11 |  |
 | [Bad Boys](https://open.spotify.com/track/6zxFESuVGHEDmOM2C6ZxYX) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [LML](https://open.spotify.com/artist/1GgUppN5pnZT1SnOz28M3P) | [Sweat EP](https://open.spotify.com/album/0U2NbGuTdiq2Tt89fLtKVS) | 2:27 | 2024-10-05 | 2024-10-09 |
 | [Bad Dream \- Pro Mix](https://open.spotify.com/track/3M1pkNa4ZqgsMNBdvAaROc) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Theracords 2024 Collection](https://open.spotify.com/album/7wM2nhLwvo2TBAffeB3JhC) | 2:48 | 2024-12-28 |  |
 | [Bad Guy](https://open.spotify.com/track/2BmftBbC27DoPlNefYuHdP) | [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [Phil Phauler](https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [Bad Guy](https://open.spotify.com/album/6gYnXbljh6CtsoLwtaip6V) | 2:20 | 2025-01-24 |  |
@@ -604,6 +605,7 @@
 | [Fast Love](https://open.spotify.com/track/0wUglfNTtKhTkkFnTPyboW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Fast Love](https://open.spotify.com/album/6poV04YgTklXaLOyhJdZfn) | 3:19 | 2024-10-15 |  |
 | [Fast Love](https://open.spotify.com/track/5tA2lbdcvie6GNKMSaVpI4) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Fast Love](https://open.spotify.com/album/5TPKkvizUqDTZLI9yN5hmC) | 3:30 | 2024-08-17 |  |
 | [FCK DAT!](https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [FCK DAT!](https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62) | 2:47 | 2023-06-09 |  |
+| [FCK SHIII UP](https://open.spotify.com/track/2ezEFgJAqX01MNNY7ciYt9) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [FCK SHIII UP](https://open.spotify.com/album/7mb0xl2i9aMNOVnh6ckXCg) | 3:05 | 2025-02-11 |  |
 | [FCKN W MY GANG ?! \- Official FCKNYE Anthem](https://open.spotify.com/track/0i4neMAfxXXCTQGHfPra50) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM) | [FCKN W MY GANG ?! \(Official FCKNYE Anthem\)](https://open.spotify.com/album/4pXEC5SVjhHAPws6ErANpj) | 2:26 | 2023-12-30 |  |
 | [FEAR](https://open.spotify.com/track/1IH6ddfwvPaqu04do7hObH) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Faceless](https://open.spotify.com/artist/6Tx1eyyk7TnZ8kJsrRaJ2u) | [FEAR](https://open.spotify.com/album/0bxIololxhmvLVuuWDBS1S) | 2:09 | 2024-12-19 |  |
 | [Fearless](https://open.spotify.com/track/3t5fS4KZivxoJ0JXKqj0o0) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Fearless](https://open.spotify.com/album/2nVGg2ERjnEP3M7KdJDpTs) | 4:17 | 2024-04-01 |  |

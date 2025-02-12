@@ -3351,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Leef Een Beetje",
+        "url": "https://open.spotify.com/album/2LEx437XznruD4LOlh1eYc"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130526,
+      "name": "Leef Een Beetje",
+      "url": "https://open.spotify.com/track/1vhEfity5GLO5a9qF6ch7B"
+    },
+    {
+      "album": {
         "name": "Heilig Water",
         "url": "https://open.spotify.com/album/5qZ3b7w4956bKObKxtXSTY"
       },
@@ -4568,7 +4590,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 233051,
       "name": "September",
       "url": "https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh"

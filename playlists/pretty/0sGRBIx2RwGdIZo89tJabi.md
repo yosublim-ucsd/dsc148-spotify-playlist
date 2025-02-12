@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/0sGRBIx2RwGdIZo89tJabi.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One Day](https://open.spotify.com/track/1rTBrCvyZr7h20TyfFDikd) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Stephen Geisler](https://open.spotify.com/artist/3THrINnL7RIKOZY5t38GSk) | [One Night / One Day EP](https://open.spotify.com/album/3RBWXnZTawWxnI7X1QuJjD) | 3:11 |
+| 1 | [One Day](https://open.spotify.com/track/1rTBrCvyZr7h20TyfFDikd) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [One Night / One Day EP](https://open.spotify.com/album/3RBWXnZTawWxnI7X1QuJjD) | 3:11 |
 | 2 | [No Ecstasy Love](https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [No Ecstasy Love](https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e) | 3:25 |
 | 3 | [MONACO](https://open.spotify.com/track/4VGaRRuyAvEgc2IAkcJbt3) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [MONACO](https://open.spotify.com/album/1dqMilsRE6TSLh30MUcgcT) | 2:09 |
 | 4 | [One Night](https://open.spotify.com/track/2YP7rWtC5CLtdErKHSLmTL) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [One Night](https://open.spotify.com/album/0cqj7bGAnRvkMWGw1C9MkO) | 3:06 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-665 songs - 1 day 9 hr 43 min
+666 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [From The Top](https://open.spotify.com/track/6VyLyu1gHjr6P3Kjy5ImP9) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [From The Top](https://open.spotify.com/album/7izd5GNllU2xpzIvyrd9qv) | 2:57 | 2024-10-17 |  |
 | [Funk It](https://open.spotify.com/track/5UxqThkJZYyOHZZ8ovBKzU) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Funk It](https://open.spotify.com/album/2M8c3XJgVUNuu1sc0d0oXj) | 3:02 | 2025-01-13 |  |
 | [Galactic](https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [Galactic](https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx) | 3:23 | 2024-03-05 | 2024-09-29 |
+| [Gang](https://open.spotify.com/track/3rY9c54y99HLvtwgdWa9Da) | [DJ Nansuya](https://open.spotify.com/artist/12bX3Fr0vy9dvgIoxzPQ36) | [Gang](https://open.spotify.com/album/0KGak11lvZ0sRN5m9oNrA4) | 2:33 | 2025-02-11 |  |
 | [Geometry](https://open.spotify.com/track/0AmYNX6Ho7z4o4auoaupYN) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Geometry](https://open.spotify.com/album/2x1RrN4EMDOhzKoR6zf3S4) | 2:35 | 2024-11-19 |  |
 | [GET MUCKY](https://open.spotify.com/track/1r9fNFOCr8eW7JHIJKoqsh) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [GET MUCKY](https://open.spotify.com/album/6aR6aiYCoorj34c9sr6P76) | 2:25 | 2024-06-21 | 2025-01-08 |
 | [Get Out Here](https://open.spotify.com/track/3BBvfK0J22MdJ1DSlGa8ye) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E), [Maryqueen](https://open.spotify.com/artist/76mi6FwuDiWbKgxlt8v22l) | [Get Out Here](https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3) | 4:04 | 2023-01-17 | 2023-04-28 |

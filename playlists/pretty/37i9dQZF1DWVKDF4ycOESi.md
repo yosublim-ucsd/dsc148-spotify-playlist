@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lady Gaga in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,798 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,802 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 31 | [AMERICAN BEAUTY](https://open.spotify.com/track/0jf51Jpi4xRAfFkhLXSirb) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:16 |
 | 32 | [Non me ne frega un cazzo](https://open.spotify.com/track/2sggIlER01Q9s7sf8vUAcv) | [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt) | [Non me ne frega un cazzo](https://open.spotify.com/album/3ZA2ihJ5T8SiBIec6RVive) | 2:05 |
 | 33 | [plastica blu](https://open.spotify.com/track/7yVQeegd4fi20vjwAO7mOk) | [teamcro](https://open.spotify.com/artist/4UL7gL1JUpz8MZlpxvdapN), [9DEN](https://open.spotify.com/artist/2bp7nGLjkMwJfoL8mtKix9), [Deriansky](https://open.spotify.com/artist/7FRkiYA24RIXPNG3zdzo2l), [Deepho](https://open.spotify.com/artist/3ixYsE9GB9UnuYDIYdswxi), [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [teamcro tape](https://open.spotify.com/album/04SvqnFJj2C7c7ulFj1HLn) | 3:13 |
-| 34 | [Vuo murì cu me? \(feat\. Kepa, Vale Lambo\)](https://open.spotify.com/track/7eBNVjhZhMvFJMfAl3xny7) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj), [kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Haldilà](https://open.spotify.com/album/1GKf1cfjOBNCn0cFtEaW2U) | 3:39 |
+| 34 | [Vuo murì cu me? \(feat\. Kepa, Vale Lambo\)](https://open.spotify.com/track/7eBNVjhZhMvFJMfAl3xny7) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj), [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Haldilà](https://open.spotify.com/album/1GKf1cfjOBNCn0cFtEaW2U) | 3:39 |
 | 35 | [Bilico](https://open.spotify.com/track/3LZKyb5d0kulP7Envw2gUV) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Bilico](https://open.spotify.com/album/19r79Fj3p0L9T9kGROEnxf) | 2:44 |
 | 36 | [COWBOY](https://open.spotify.com/track/7qThYAPD8ETGjXTFJR3nXn) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [COWBOY](https://open.spotify.com/album/07VYHePkAxRp8x8vZTQ6rU) | 2:47 |
 | 37 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 |

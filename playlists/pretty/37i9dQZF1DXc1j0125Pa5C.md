@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,539 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,558 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 18 | [Luz na Escuridão / Adivinha / Fatalmente \- Ao Vivo](https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:51 |
 | 19 | [Como Nunca Amei Ninguém / Por Tão Pouco \- Ao Vivo](https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Tardezinha Pela Vida Inteira \(Ao Vivo\)](https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ) | 4:03 |
 | 20 | [Engano / Diz Que Quer Ficar / Amar Você \- Ao Vivo](https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 7:16 |
-| 21 | [Meu Querubim / Tu Mandas No Meu Coração](https://open.spotify.com/track/0kbVhn5b7EDxuzmRXnlfoJ) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Rodriguinho Acústico, Ep 1](https://open.spotify.com/album/2JsTY5Ab3vp4UoI7OLC4Ga) | 3:48 |
+| 21 | [Meu Querubim / Tu Mandas No Meu Coração](https://open.spotify.com/track/0kbVhn5b7EDxuzmRXnlfoJ) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Rodriguinho Acústico, Vol\. 01](https://open.spotify.com/album/2JsTY5Ab3vp4UoI7OLC4Ga) | 3:48 |
 | 22 | [Para De Falar Tanta Besteira / Leite Condensado \- Ao Vivo](https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Para De Falar Tanta Besteira / Leite Condensado \(Ao Vivo\)](https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ) | 3:41 |
 | 23 | [Não Foi a Toa / Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Não Foi a Toa / Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M) | 3:22 |
 | 24 | [Amanhã / Loucura do Seu Coração \- Ao Vivo](https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:13 |

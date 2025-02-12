@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-58 songs - 3 hr 23 min
+59 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 | 2022-05-06 |  |
 | [Dust Bowl Dance](https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:43 | 2023-04-05 |  |
 | [End of the Rope](https://open.spotify.com/track/1TPvhE7CV58bBIQ1eQPyVQ) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 2:35 | 2023-03-26 |  |
+| [Estate Sale Sign](https://open.spotify.com/track/0L2BiNlHpwgXklOoUq5kXn) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX) | 2:47 | 2025-02-11 |  |
 | [Evil Woman \- 2012 Version](https://open.spotify.com/track/5MgViGGwqgsq0njXpWyEyd) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 1](https://open.spotify.com/album/4gGfNhFLBu74zGkNhJlQ0I) | 4:29 | 2024-01-02 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-05-06 |  |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2023-03-21 |  |

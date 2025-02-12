@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Pardison Fontaine & Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,516 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,525 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 40 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p) | 2:35 |
 | 41 | [Wrong 2](https://open.spotify.com/track/7hBJuz23pHi2Dt3IebMnS2) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Wrong 2](https://open.spotify.com/album/3gfjRChLpxeRZjYbL3jrM8) | 2:32 |
 | 42 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 |
-| 43 | [Daytona](https://open.spotify.com/track/4Fkken2vbissEcoXRBxqrv) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [ULTIMATUM](https://open.spotify.com/album/74T7gPVoBbJsfg59Nf6vlR) | 2:43 |
-| 44 | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ) | 2:19 |
-| 45 | [WTF U THOUGHT](https://open.spotify.com/track/7lonMfivYicVTmywuBBdwc) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [WTF U THOUGHT](https://open.spotify.com/album/1GeGJRXxxr9ukzsTqt48Qd) | 2:15 |
-| 46 | [Move Pt\. 2](https://open.spotify.com/track/43jK2dpFWOE8MwT1UrStEa) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Move Pt\. 2](https://open.spotify.com/album/2HNBlkI3hyoHUZJfHFjAKQ) | 2:27 |
-| 47 | [Different Kettle](https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Different Kettle](https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw) | 1:43 |
-| 48 | [nylon](https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Yue](https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w) | 2:34 |
-| 49 | [The Heist](https://open.spotify.com/track/477subl2e7B7vG6SZYezjR) | [Naya Ali](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [The Heist](https://open.spotify.com/album/17YRFMFN85Qz1gJuWD5nho) | 3:24 |
-| 50 | [Let Me Pop My Shit](https://open.spotify.com/track/0u9MbynjW9vxPfFoXAkPUf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Let Me Pop My Shit](https://open.spotify.com/album/2oYyiXUWV213WPOchxbTmk) | 2:48 |
+| 43 | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ) | 2:19 |
+| 44 | [WTF U THOUGHT](https://open.spotify.com/track/7lonMfivYicVTmywuBBdwc) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [WTF U THOUGHT](https://open.spotify.com/album/1GeGJRXxxr9ukzsTqt48Qd) | 2:15 |
+| 45 | [Move Pt\. 2](https://open.spotify.com/track/43jK2dpFWOE8MwT1UrStEa) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Move Pt\. 2](https://open.spotify.com/album/2HNBlkI3hyoHUZJfHFjAKQ) | 2:27 |
+| 46 | [Different Kettle](https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Different Kettle](https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw) | 1:43 |
+| 47 | [nylon](https://open.spotify.com/track/76lDQM0v0RiejlEImwhuVr) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Yue](https://open.spotify.com/album/0JZivdXr2bW9VCxUQSSy6w) | 2:34 |
+| 48 | [The Heist](https://open.spotify.com/track/477subl2e7B7vG6SZYezjR) | [Naya Ali](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [The Heist](https://open.spotify.com/album/17YRFMFN85Qz1gJuWD5nho) | 3:24 |
+| 49 | [Let Me Pop My Shit](https://open.spotify.com/track/0u9MbynjW9vxPfFoXAkPUf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Let Me Pop My Shit](https://open.spotify.com/album/2oYyiXUWV213WPOchxbTmk) | 2:48 |
 
-Snapshot ID: `Z6WTZwAAAADlCx3ylT997DaV8ST447T4`
+Snapshot ID: `Z6uepwAAAAAtOwse0GZN7UnDA6eNWtz8`

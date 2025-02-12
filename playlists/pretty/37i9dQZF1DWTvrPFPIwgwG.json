@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sarah Farias, Kailane Frauches",
-  "num_followers": 162136,
+  "num_followers": 162285,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 298143,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Eu Sou Mist\u00e9rio",
         "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 268510,
       "name": "Eu Sou Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 298143,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Santidade",
-        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 380400,
-      "name": "Santidade",
-      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Que Deus \u00c9 Esse (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 408796,
       "name": "Que Deus \u00c9 Esse - Ao Vivo",
       "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Santidade",
+        "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
+      },
+      "artists": [
+        {
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
+        }
+      ],
+      "duration_ms": 380400,
+      "name": "Santidade",
+      "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -707,58 +707,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Pra Que Temer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Pra Que Temer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2ccVIa187StKRWGVJWhXud"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Josu\u00e9 - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6"
       },
@@ -795,6 +743,58 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Pra Que Temer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Pra Que Temer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2ccVIa187StKRWGVJWhXud"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "O M\u00ednimo de Mim",
         "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+        "name": "Foi Livramento",
+        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
       },
       "artists": [
         {
-          "name": "Sandra Pires",
-          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
         }
       ],
-      "duration_ms": 304938,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
+      "duration_ms": 219000,
+      "name": "Foi Livramento",
+      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -847,34 +847,18 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Sandra Pires",
+          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
         }
       ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Foi Livramento",
-        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Foi Livramento",
-      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
+      "duration_ms": 304938,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -919,6 +903,22 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Como Flecha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
+      },
+      "artists": [
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        }
+      ],
+      "duration_ms": 356403,
+      "name": "Como Flecha - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Fase do Deserto",
         "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Deus Vai Agir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Como Flecha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
+        "name": "Deus Vai Agir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
       },
       "artists": [
         {
-          "name": "Carol Braga",
-          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 356403,
-      "name": "Como Flecha - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "N\u00e3o Vai Se Repetir",
-        "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 275132,
-      "name": "N\u00e3o Vai Se Repetir",
-      "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
         "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 282709,
       "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "N\u00e3o Vai Se Repetir",
+        "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 275132,
+      "name": "N\u00e3o Vai Se Repetir",
+      "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Gerando Intimidade",
+        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+      },
+      "artists": [
+        {
+          "name": "Jana de Paula",
+          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+        }
+      ],
+      "duration_ms": 254754,
+      "name": "Gerando Intimidade",
+      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Estou Entrando em A\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
       },
@@ -1227,26 +1243,6 @@
       "duration_ms": 235000,
       "name": "Estou Entrando em A\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Que Grande Amor",
-        "url": "https://open.spotify.com/album/2o5QptigV392N1NttpUZQh"
-      },
-      "artists": [
-        {
-          "name": "Deivison Pires",
-          "url": "https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        }
-      ],
-      "duration_ms": 412154,
-      "name": "Que Grande Amor",
-      "url": "https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
-        "name": "Gerando Intimidade",
-        "url": "https://open.spotify.com/album/4v13qGktdhfiSc5dF1OUZ6"
+        "name": "Que Grande Amor",
+        "url": "https://open.spotify.com/album/2o5QptigV392N1NttpUZQh"
       },
       "artists": [
         {
-          "name": "Jana de Paula",
-          "url": "https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K"
+          "name": "Deivison Pires",
+          "url": "https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
         }
       ],
-      "duration_ms": 254754,
-      "name": "Gerando Intimidade",
-      "url": "https://open.spotify.com/track/2kJBqrsKRKeG6W3FH5azRU"
+      "duration_ms": 412154,
+      "name": "Que Grande Amor",
+      "url": "https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1299,26 +1299,6 @@
       "duration_ms": 242824,
       "name": "Deus Est\u00e1 Cuidando",
       "url": "https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2025-02-07 03:01:16",
       "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
         "name": "Existe Um Deus",
         "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 282000,
       "name": "Existe Um Deus",
       "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
+    },
+    {
+      "added_at": "2025-02-07 03:01:16",
+      "album": {
+        "name": "Ele Chegou",
+        "url": "https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx"
+      },
+      "artists": [
+        {
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Ele Chegou",
+      "url": "https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL"
     },
     {
       "added_at": "2025-02-07 03:01:16",
@@ -1391,22 +1407,6 @@
       "duration_ms": 303778,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S"
-    },
-    {
-      "added_at": "2025-02-07 03:01:16",
-      "album": {
-        "name": "Ele Chegou",
-        "url": "https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx"
-      },
-      "artists": [
-        {
-          "name": "Thalita Roberta",
-          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Ele Chegou",
-      "url": "https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL"
     },
     {
       "added_at": "2025-02-07 03:01:16",

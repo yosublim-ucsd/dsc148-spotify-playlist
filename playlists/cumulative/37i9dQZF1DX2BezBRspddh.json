@@ -171,6 +171,32 @@
     },
     {
       "album": {
+        "name": "Dhoom Dhaam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zxdJPNSuRtHh5dGh1Upzd"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Muheet Bharti",
+          "url": "https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189772,
+      "name": "Chanchal",
+      "url": "https://open.spotify.com/track/5MjaZ7OpnHSJJJv00n9Pyh"
+    },
+    {
+      "album": {
         "name": "Nikaah",
         "url": "https://open.spotify.com/album/5JCx0naviMFsPTfmaBmYbj"
       },
@@ -684,7 +710,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 350666,
       "name": "Is Nadi Ko Mera",
       "url": "https://open.spotify.com/track/0Trv1xleAXKiLBd9H9daiE"

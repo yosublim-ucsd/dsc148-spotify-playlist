@@ -1,18 +1,34 @@
 {
   "description": "25 songs updated every Tuesday \u23f3 (Email: jahtalksmusic@gmail.com)",
-  "num_followers": 36451,
+  "num_followers": 36473,
   "original_name": "The Weekly Rotation",
   "owner": {
     "name": "Jah Talks Music",
     "url": "https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf"
   },
-  "snapshot_id": "AAAC0TWr/XnkB2DCyE9C5M1DCPftywDt",
+  "snapshot_id": "AAAC1MDBFndh3AqHL/Ld9GLkoIGj0Kg0",
   "tracks": [
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 153171,
+      "name": "Ocho Rios",
+      "url": "https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
@@ -20,28 +36,12 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
         "name": "Showbiz!",
         "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
@@ -52,87 +52,115 @@
           "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         }
       ],
-      "duration_ms": 135320,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/0aAgF1aDtHD24lQkvQLbD9"
+      "duration_ms": 96779,
+      "name": "Lost Scribe",
+      "url": "https://open.spotify.com/track/1SOnWVvMiGp20WMOgMLEZD"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Madvillainy Demos",
-        "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
       "artists": [
         {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 210432,
-      "name": "Fancy Clown (demo)",
-      "url": "https://open.spotify.com/track/3LW5m8Hn37e7swWCmM8yRI"
+      "duration_ms": 232176,
+      "name": "Baptized In Fear",
+      "url": "https://open.spotify.com/track/5rzI6Jnlhx8DgVgsOLorfW"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "FromHere (feat. Snoop Dogg & October London)",
-        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
       "artists": [
         {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 241511,
-      "name": "FromHere (feat. Snoop Dogg & October London)",
-      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
+      "duration_ms": 234923,
+      "name": "Open Hearts",
+      "url": "https://open.spotify.com/track/0sTBOp1hdayTjw6UOyPyi6"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 306257,
-      "name": "t h e . c l i m b . b a c k",
-      "url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751"
+      "duration_ms": 338438,
+      "name": "STOP TRYING TO BE GOD",
+      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 381133,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "New Black History (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
       "album": {
         "name": "I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)",
-        "url": "https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop"
+        "url": "https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S"
       },
       "artists": [
         {
@@ -140,155 +168,63 @@
           "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
         }
       ],
-      "duration_ms": 152868,
-      "name": "What the hip hop hell is this ?",
-      "url": "https://open.spotify.com/track/0wVcZJpj2B6SM9oqE8T4Mi"
+      "duration_ms": 192001,
+      "name": "CULT STATUS",
+      "url": "https://open.spotify.com/track/4Pvv5Vt7AOpqSerQfI8GsU"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+        "name": "Goyard Ibn Said",
+        "url": "https://open.spotify.com/album/2NiS2Ky8v1yGAjDLVxaIV3"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Ghais Guevara",
+          "url": "https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH"
         }
       ],
-      "duration_ms": 184894,
-      "name": "WAIT",
-      "url": "https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD"
+      "duration_ms": 184028,
+      "name": "The Old Guard Is Dead",
+      "url": "https://open.spotify.com/track/5lj7Qdz2OgwHUKh0w60IV1"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
+      "duration_ms": 99026,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/2ihoQNPyX4AAeMB9f3uw0j"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Madvillainy Demos",
-        "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
-      },
-      "artists": [
-        {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "Just for Kicks (\u201cMeat Grinder\u201d demo)",
-      "url": "https://open.spotify.com/track/0xSGp6VPeckr3Inxz3IrA9"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Showbiz!",
-        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 88424,
-      "name": "Then we could be free..",
-      "url": "https://open.spotify.com/track/3dPm2pe2EZCPBEtaIf7Vm1"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 301428,
-      "name": "Enjoy The Show (feat. Future)",
-      "url": "https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/46OFHBw45fNi7QNjSetITR"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "I Been",
-        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
       "artists": [
         {
@@ -304,169 +240,201 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 154466,
-      "name": "I Been",
-      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
+      "duration_ms": 186360,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "BLACK\u2019!ANTIQUE",
-        "url": "https://open.spotify.com/album/5DysldnqrOvaDbYyNHA2WZ"
+        "name": "Woes of The World",
+        "url": "https://open.spotify.com/album/43uK8F7gVuMUJLUUeP1hdR"
       },
       "artists": [
         {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        }
-      ],
-      "duration_ms": 236491,
-      "name": "LAST ONE ALIVE'!",
-      "url": "https://open.spotify.com/track/3A263C6177xoTmIcYiRisE"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)",
-        "url": "https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 225299,
-      "name": "Boy You Should Know!",
-      "url": "https://open.spotify.com/track/4afDEFPQRzZWHFdAyiDCpb"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/0dhDvGC00Wudcf46Auf466"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
         }
       ],
-      "duration_ms": 216507,
-      "name": "Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/46O9cBukCSQbkSFvEKVNjC"
+      "duration_ms": 211240,
+      "name": "Woes of The World",
+      "url": "https://open.spotify.com/track/28swS5VUlel9BLsOmgcuxj"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Goyard Ibn Said",
-        "url": "https://open.spotify.com/album/2NiS2Ky8v1yGAjDLVxaIV3"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
       },
       "artists": [
         {
-          "name": "Ghais Guevara",
-          "url": "https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 226562,
-      "name": "Critical Acclaim",
-      "url": "https://open.spotify.com/track/4zwgN4F6EFIpY0ST3Vs5dz"
+      "duration_ms": 215871,
+      "name": "Open Arms (just SZA)",
+      "url": "https://open.spotify.com/track/0uQHm4CLatNbvDFHt1Ystl"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+      "duration_ms": 211630,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3AM2ihc5RFzbC47eCpTg2I"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "RAW GAME (Ten Year Edition)",
-        "url": "https://open.spotify.com/album/6bqwRbXOTOgGbeV8mFpHWc"
+        "name": "False Prophets",
+        "url": "https://open.spotify.com/album/3w4snMJ5bcRlvm8MihRZD6"
       },
       "artists": [
         {
-          "name": "Spectacular Diagnostics",
-          "url": "https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/0eneujAc4PxkdjP25Gsue1"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "S.U",
+        "url": "https://open.spotify.com/album/1LahDT3SfYqQQCeRP9Ay4v"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 169483,
+      "name": "S.U",
+      "url": "https://open.spotify.com/track/28yziaAmoo7rSKQxHCdYgc"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         },
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Ray Lewis",
-      "url": "https://open.spotify.com/track/4Vx1ufrIXNzCfasejznEb4"
+      "duration_ms": 184227,
+      "name": "LUV IN DA 6 (with Smino)",
+      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2025-02-04 15:42:08",
+      "added_at": "2025-02-11 17:44:28",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Armani Section",
+        "url": "https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 341312,
-      "name": "II HANDS II HEAVEN",
-      "url": "https://open.spotify.com/track/1Y7vNzQrybb2ICYKmbOfdt"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/5ahe3YQdH4WGfEFwZ5jQtF"
-      },
-      "artists": [
-        {
-          "name": "Malz Monday",
-          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/2VlcIDXT55i4ZsKcSfzWBf"
-    },
-    {
-      "added_at": "2025-02-04 15:42:08",
-      "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         }
       ],
-      "duration_ms": 282873,
-      "name": "The Abyss (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
+      "duration_ms": 180731,
+      "name": "Armani Section",
+      "url": "https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "Where There Is Love - Remastered",
+      "url": "https://open.spotify.com/track/6lCpBbw5nNKuhz4dTxYnuM"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 243522,
+      "name": "Stoned",
+      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 148058,
+      "name": "Indeed",
+      "url": "https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi"
+    },
+    {
+      "added_at": "2025-02-11 17:44:28",
+      "album": {
+        "name": "Showbiz!",
+        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 111837,
+      "name": "man in the mirror",
+      "url": "https://open.spotify.com/track/4KmNLSvaKU0zoJhIptn961"
     }
   ],
   "unique_name": "The Weekly Rotation",

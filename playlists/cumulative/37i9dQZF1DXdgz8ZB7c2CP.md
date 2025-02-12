@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring camoufly
 
-943 songs - 2 day 4 hr 5 min
+944 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 | 2024-04-04 | 2025-02-07 |
 | [Tears](https://open.spotify.com/track/29tRu5BqKiUDAoWLKIO3RN) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:05 | 2023-02-19 | 2023-09-16 |
 | [Techno Is My Only Love](https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Careline](https://open.spotify.com/album/69IBVapOvHJr977mY9gpDN) | 2:21 | 2025-01-30 |  |
+| [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 | 2025-02-06 |  |
 | [Temper](https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Temper](https://open.spotify.com/album/5puSuAFMWXFnf9aauxtvOO) | 3:58 | 2022-06-17 | 2023-03-18 |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/1MJkilvAVT6k8MyAaqwX71) | 3:06 | 2023-06-30 | 2023-07-08 |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B) | 3:06 | 2023-06-30 | 2024-01-13 |

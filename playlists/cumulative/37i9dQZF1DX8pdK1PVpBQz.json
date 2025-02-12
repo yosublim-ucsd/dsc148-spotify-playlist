@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: Kira Divine",
+  "description": "The best new music by independent artists and labels. \nCover: JESS REISS",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "ALICE",
+        "url": "https://open.spotify.com/album/56zdRjlyb0NJgvO4CmDJzZ"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169822,
+      "name": "ALICE",
+      "url": "https://open.spotify.com/track/1CZkRmqaMKdDYyr3tGiEii"
+    },
+    {
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/1CQCRnSn4Y6ETX4ehwg60F"
       },
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 243272,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/20udUahbsS6LlnOmtHR7ZN"
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 189242,
       "name": "At Last",
       "url": "https://open.spotify.com/track/5HnNFLQb8O9isdpV6AOsIG"
@@ -3813,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Ataraxy",
+        "url": "https://open.spotify.com/album/2ixlcwZp19R4zIHEAt9PIW"
+      },
+      "artists": [
+        {
+          "name": "Oakabella Mae",
+          "url": "https://open.spotify.com/artist/1xgAkXcSnUyNJD6P53PJjI"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203551,
+      "name": "Ataraxy",
+      "url": "https://open.spotify.com/track/1Ou9SdvNeWCxCAcso0EsCB"
+    },
+    {
+      "album": {
         "name": "Atlaniz",
         "url": "https://open.spotify.com/album/6aAus1L5L8m71e7Y1mE0Bm"
       },
@@ -3828,7 +3864,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 143000,
       "name": "Atlaniz",
       "url": "https://open.spotify.com/track/5yptxdOYN9moHHZtMWB0by"
@@ -6114,7 +6150,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 231765,
       "name": "Big Blue House",
       "url": "https://open.spotify.com/track/0Qw6rc99RHrvEf8nXvIcGP"
@@ -8736,7 +8772,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 215328,
       "name": "bunnyhop",
       "url": "https://open.spotify.com/track/2gGZjYQzGmen0tI6By1MpP"
@@ -9773,6 +9809,24 @@
     },
     {
       "album": {
+        "name": "Can We Talk When It's Over",
+        "url": "https://open.spotify.com/album/5Ywk7ua8Xc6L30URTR5qpL"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215884,
+      "name": "Can We Talk When It's Over",
+      "url": "https://open.spotify.com/track/0S4ZcooG0l16yqP944jnO1"
+    },
+    {
+      "album": {
         "name": "Can You Catch Me?",
         "url": "https://open.spotify.com/album/79cX6BZSor5GTP3CJSrABD"
       },
@@ -10432,6 +10486,24 @@
       "duration_ms": 179692,
       "name": "CASHMERE",
       "url": "https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy"
+    },
+    {
+      "album": {
+        "name": "Casuarina",
+        "url": "https://open.spotify.com/album/1VEMjQboGpwaDv8cYTTUJo"
+      },
+      "artists": [
+        {
+          "name": "Intermood",
+          "url": "https://open.spotify.com/artist/3fVymmv8Ji98xsEJlBZxNG"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296314,
+      "name": "Casuarina",
+      "url": "https://open.spotify.com/track/5obhUXoEbs1DQLDqztw3RE"
     },
     {
       "album": {
@@ -11266,6 +11338,28 @@
       "duration_ms": 178271,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0pkPXOYifXJDJkAFhb34Gb"
+    },
+    {
+      "album": {
+        "name": "City Circle",
+        "url": "https://open.spotify.com/album/12xzpl1BOi51T1YOsie4AK"
+      },
+      "artists": [
+        {
+          "name": "heartholder",
+          "url": "https://open.spotify.com/artist/0pCgCsaxp6OAhzHvBjsjBc"
+        },
+        {
+          "name": "DAN+EE",
+          "url": "https://open.spotify.com/artist/3iq3mWDZ4Zi0xUVPaILCBA"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "City Circle",
+      "url": "https://open.spotify.com/track/6VFN6qC4K3zbhWWHZ7tses"
     },
     {
       "album": {
@@ -14672,7 +14766,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 272186,
       "name": "Debugger",
       "url": "https://open.spotify.com/track/38bQZzy0ENspCAKYzzTanc"
@@ -17490,7 +17584,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 206181,
       "name": "Driveway",
       "url": "https://open.spotify.com/track/0NDWhFxtRmakSLuxdvkIp4"
@@ -19158,6 +19252,24 @@
       "duration_ms": 333498,
       "name": "Everybody's Listening to the Radio Now",
       "url": "https://open.spotify.com/track/4xND9G228rS05OJ7XmQpPr"
+    },
+    {
+      "album": {
+        "name": "Stars Stars Stars",
+        "url": "https://open.spotify.com/album/5htPUvY1LSIDBWFY1O9JbS"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153516,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/04fMPcwQ2Sbsm5vQT2ZWGj"
     },
     {
       "album": {
@@ -21480,7 +21592,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 216636,
       "name": "Flashing",
       "url": "https://open.spotify.com/track/04liOC4NZUCj6Vka7mrqzI"
@@ -23400,7 +23512,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 152679,
       "name": "GASOLINE",
       "url": "https://open.spotify.com/track/6Gf8eDCBIRdi6FWNUZYJs4"
@@ -23974,7 +24086,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 207955,
       "name": "Ghost Of Us",
       "url": "https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO"
@@ -27490,7 +27602,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 179143,
       "name": "Hiding From",
       "url": "https://open.spotify.com/track/7ziFwOtyqyEvyRg1rLvpRA"
@@ -30462,6 +30574,24 @@
       "duration_ms": 414563,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/10Nme1J5ty4ITnNE2npvmy"
+    },
+    {
+      "album": {
+        "name": "LOVERS DANCE ACADEMY",
+        "url": "https://open.spotify.com/album/6FIXP6iyzOs6ZhQ6jYIzyC"
+      },
+      "artists": [
+        {
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499532,
+      "name": "I'LL BE THERE FOR YOU",
+      "url": "https://open.spotify.com/track/4Bzs1YpUpxoOobNMwd0PmD"
     },
     {
       "album": {
@@ -35418,6 +35548,24 @@
       "duration_ms": 237000,
       "name": "Let's Break The Rules",
       "url": "https://open.spotify.com/track/4AqhufhfZwzHBbAp3B5cPr"
+    },
+    {
+      "album": {
+        "name": "Let's Find Out",
+        "url": "https://open.spotify.com/album/0nctBNoNNsHneebqtkQ90z"
+      },
+      "artists": [
+        {
+          "name": "Swaine Delgado",
+          "url": "https://open.spotify.com/artist/1RZtEnSRJblsLRzGNrCGof"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178251,
+      "name": "Let's Find Out",
+      "url": "https://open.spotify.com/track/372dsrs4RwVEwDPy5RZgWA"
     },
     {
       "album": {
@@ -46032,7 +46180,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 159866,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/52UaND1j9dqiIecybqupd0"
@@ -47154,6 +47302,24 @@
       "duration_ms": 227527,
       "name": "Partying",
       "url": "https://open.spotify.com/track/3ybuWKxjMaOuCwmDaX9dPl"
+    },
+    {
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/7IUV92EYofObhq0GMPAFVr"
+      },
+      "artists": [
+        {
+          "name": "Mim Jensen",
+          "url": "https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222386,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4xltSVuW1oEBr7jMiI4VLH"
     },
     {
       "album": {
@@ -53588,6 +53754,24 @@
       "duration_ms": 163316,
       "name": "Send 4 Me",
       "url": "https://open.spotify.com/track/5Mk8YKpJ2vuNmab7uIov5r"
+    },
+    {
+      "album": {
+        "name": "Enter Now Brightness",
+        "url": "https://open.spotify.com/album/2rwBtT1dgaXacWKaMFJTZ7"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308416,
+      "name": "Send It Down The Line",
+      "url": "https://open.spotify.com/track/01uVlNzTTFLpxRnEvJeBBL"
     },
     {
       "album": {
@@ -60218,7 +60402,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 154560,
       "name": "Talk",
       "url": "https://open.spotify.com/track/3Y1HAbgh1pclMyIXuMbMuq"
@@ -63844,6 +64028,24 @@
       "duration_ms": 184777,
       "name": "Torn",
       "url": "https://open.spotify.com/track/7C46gSLCsIBYRZVywr5Bno"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I"
+      },
+      "artists": [
+        {
+          "name": "JESS REISS",
+          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd"
     },
     {
       "album": {
@@ -68642,6 +68844,24 @@
       "duration_ms": 179478,
       "name": "Who Are You?",
       "url": "https://open.spotify.com/track/2gPxQ8dx1k1lteraPeRiS3"
+    },
+    {
+      "album": {
+        "name": "Who Leads Who Breathes",
+        "url": "https://open.spotify.com/album/2FSnjqJpMMy8F5OC6lzEBS"
+      },
+      "artists": [
+        {
+          "name": "First Beige",
+          "url": "https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246583,
+      "name": "Who Leads Who Breathes",
+      "url": "https://open.spotify.com/track/6woWmnPLyds8FN7mcGXPDG"
     },
     {
       "album": {

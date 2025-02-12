@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-633 songs - 1 day 13 hr 19 min
+634 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Paravaigal](https://open.spotify.com/track/1WqOxefU75i6AZ2uW8DYRN) | [Siddrth](https://open.spotify.com/artist/08i087HLiGdAy7HOACoVP0) | [Paravaigal](https://open.spotify.com/album/0ULMDtWd3LSi7lFgQpsj9A) | 3:44 | 2022-09-12 | 2023-02-22 |
 | [Paravasame](https://open.spotify.com/track/1GHXc10TRDVjRjJWYM8yuR) | [VIGNESHWAR VG](https://open.spotify.com/artist/1z0mDwM71illYyO7SqM2wh), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Paravasame](https://open.spotify.com/album/06dlYZAH5Xf95L8z9Vyokd) | 4:22 | 2024-04-01 | 2024-06-18 |
 | [Parotta Varatta](https://open.spotify.com/track/0NUotMW1flHmN2sEprkak8) | [Thejas Krishna](https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2), [Roshan B.S.](https://open.spotify.com/artist/1ihN77vdgnpkSZswoLp6gM) | [Parotta Varatta](https://open.spotify.com/album/5pSVvX0fC1YJ29dK395M6g) | 3:50 | 2023-11-16 |  |
+| [Patta Kaththi Kannala](https://open.spotify.com/track/52DU37uDHxYb7lDkmaxOWx) | [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh), [Kadhalmathi](https://open.spotify.com/artist/7zGGggSgHL0QVSZOaWvoIW), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Patta Kaththi Kannala](https://open.spotify.com/album/5898ybQgMPGIleTio9M6Yz) | 3:13 | 2025-02-11 |  |
 | [Pattampoochi](https://open.spotify.com/track/4FdDp3GyA9cx1XL2fsvHSc) | [Nithish Music](https://open.spotify.com/artist/7snsJ5rg1ynYgMblPZdIac) | [Pattampoochi](https://open.spotify.com/album/6WnFuWkZT1agYeLSHtUo46) | 2:51 | 2022-12-19 | 2023-02-07 |
 | [Payanam](https://open.spotify.com/track/1x9o5hD4CKb4xfnWoSnUAU) | [Page 27](https://open.spotify.com/artist/2SZtjnp7b3VPrwihoyBRnt), [Arvind Kywalya](https://open.spotify.com/artist/7sL6bcKlCeWPZW9OXgKbsB) | [Payanam](https://open.spotify.com/album/5on1Cxh6N38M3zOYjNvG01) | 4:00 | 2022-01-12 | 2022-08-10 |
 | [Peekaboo Icecream](https://open.spotify.com/track/6ZrPtBgS6uLRdKLUEFtTdY) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O), [Abhijith Ramaswami](https://open.spotify.com/artist/71Rq1l3001C96Z3xNwKChs) | [Peekaboo Icecream](https://open.spotify.com/album/69zE6o2BBgDUkUT6rpUssI) | 3:04 | 2022-11-11 | 2023-02-22 |

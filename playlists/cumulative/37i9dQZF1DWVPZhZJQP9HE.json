@@ -9471,6 +9471,36 @@
     },
     {
       "album": {
+        "name": "Patta Kaththi Kannala",
+        "url": "https://open.spotify.com/album/5898ybQgMPGIleTio9M6Yz"
+      },
+      "artists": [
+        {
+          "name": "Srikanth Deva",
+          "url": "https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh"
+        },
+        {
+          "name": "Kadhalmathi",
+          "url": "https://open.spotify.com/artist/7zGGggSgHL0QVSZOaWvoIW"
+        },
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193957,
+      "name": "Patta Kaththi Kannala",
+      "url": "https://open.spotify.com/track/52DU37uDHxYb7lDkmaxOWx"
+    },
+    {
+      "album": {
         "name": "Pattampoochi",
         "url": "https://open.spotify.com/album/6WnFuWkZT1agYeLSHtUo46"
       },

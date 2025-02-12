@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-762 songs - 1 day 16 hr 43 min
+763 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Tefé](https://open.spotify.com/track/0GGFrmZVMTdti1BVtZpSH2) | [Fredy Lane](https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M) | [Tefé](https://open.spotify.com/album/6aqreTVS6wP0ALMBd2JRKL) | 2:52 | 2023-11-16 | 2024-01-06 |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-04-13 | 2024-01-06 |
 | [Tell You](https://open.spotify.com/track/4A0ozX36iYDVAdWXIKmWGn) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Tell You](https://open.spotify.com/album/39gWK7UdkdzV5urktgVZTu) | 4:23 | 2024-05-23 | 2025-01-17 |
+| [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 | 2025-02-07 |  |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 |  |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/2fxMpAFw0matLcxCZWaU1E) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/1MJkilvAVT6k8MyAaqwX71) | 3:06 | 2023-06-29 | 2023-07-08 |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B) | 3:06 | 2023-07-07 | 2024-01-06 |

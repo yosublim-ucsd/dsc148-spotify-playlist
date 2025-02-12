@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 579400,
+  "num_followers": 579448,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6fwAAAAAACQwyYZZR/olL10jb0AXxKk",
+  "snapshot_id": "Z6lBgAAAAAC0hKgEQuhCJW7p6NXNyq1R",
   "tracks": [
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
-      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
+      "duration_ms": 204506,
+      "name": "Young Volcanoes",
+      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 204506,
-      "name": "Young Volcanoes",
-      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
+      "duration_ms": 234493,
+      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
+      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
     },
     {
       "added_at": null,

@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 98000,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/05enoO7Z5prMUxbHEDJBt7"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 208470,
       "name": "Daylight Blows into One Door",
       "url": "https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 209779,
       "name": "Frontin' Me",
       "url": "https://open.spotify.com/track/6HwA2kWbv4EAZPs8iLNJgP"
@@ -976,6 +976,28 @@
       "duration_ms": 200039,
       "name": "garden",
       "url": "https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs"
+    },
+    {
+      "album": {
+        "name": "Generic",
+        "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191875,
+      "name": "Generic",
+      "url": "https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9"
     },
     {
       "album": {
@@ -2085,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
+    },
+    {
+      "album": {
         "name": "Ocean Highway",
         "url": "https://open.spotify.com/album/4lt2GflHtr9T823EkbC5fA"
       },
@@ -3052,6 +3092,24 @@
       "duration_ms": 165449,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta"
+    },
+    {
+      "album": {
+        "name": "The Shadow & Lights (JUNO-106 Ver.)",
+        "url": "https://open.spotify.com/album/4vNwYCCoiMWfrkdMukWaqz"
+      },
+      "artists": [
+        {
+          "name": "Edo Yoshi",
+          "url": "https://open.spotify.com/artist/49WJrwKtyll2OL6A1nfspN"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "The Shadow & Lights - JUNO-106 Ver.",
+      "url": "https://open.spotify.com/track/5NsWuYeA4J8uEc4fSXE2co"
     },
     {
       "album": {

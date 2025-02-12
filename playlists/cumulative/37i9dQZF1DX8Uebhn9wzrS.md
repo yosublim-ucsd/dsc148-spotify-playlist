@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,228 songs - 3 day 12 hr 54 min
+2,229 songs - 3 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-08-03 | 2024-05-14 |
 | [Chasette](https://open.spotify.com/track/6YxNZWfsde3p8xYqO5bZsQ) | [Koloso](https://open.spotify.com/artist/5sJTKXv0COjf7x8ucatN55) | [Chasette](https://open.spotify.com/album/2nEtJlvncjBCZpx818evPA) | 3:14 | 2022-04-15 | 2022-06-10 |
 | [Cheating Accidentally](https://open.spotify.com/track/3x5U06AxZduhHGtMxR5PVX) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Cheating Accidentally](https://open.spotify.com/album/35mtHWzN4VCTlIFhvTKos3) | 2:03 | 2023-07-13 | 2023-08-18 |
-| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-04-20 | 2025-01-24 |
+| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-04-20 |  |
 | [checkerboard floor](https://open.spotify.com/track/1dlAqOioxENQZ0cO4LKaSU) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [checkerboard floor](https://open.spotify.com/album/7GX0Du2j0aP3m6MCa3Q3YW) | 2:32 | 2024-01-05 |  |
 | [Cheese](https://open.spotify.com/track/3kezm9BJFigeCNyw7fEuQL) | [Qblai](https://open.spotify.com/artist/6kic9xfTDro2RmmCYJuYEe) | [Cheese](https://open.spotify.com/album/502VQnDl3T8DLwIF8ImytZ) | 1:55 | 2022-04-15 | 2022-09-02 |
 | [Cheese cake express](https://open.spotify.com/track/4lYciP0rbVDIwXaqIYZTUk) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Cheese cake express](https://open.spotify.com/album/5j3BiFxAlTUJqrwDbsdZ1N) | 2:01 | 2022-04-15 | 2023-02-14 |
@@ -620,6 +620,7 @@
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2022-04-15 | 2022-09-02 |
 | [Fade To Dawn](https://open.spotify.com/track/1yXAd2cV8iuryyrrfe7I73) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Fade To Dawn](https://open.spotify.com/album/4hUYjD0WL1t4KGjw4Z6WCh) | 2:25 | 2022-07-01 | 2024-05-14 |
 | [Faded](https://open.spotify.com/track/6tjdGecHOvHgMZsqtFc8Ze) | [nothing less](https://open.spotify.com/artist/4cPjCGN3oYaPeD7d55pbSF) | [Faded](https://open.spotify.com/album/1fW2IY3l2x9kkGGhk416GU) | 1:50 | 2022-06-24 | 2022-11-26 |
+| [Faded Reality](https://open.spotify.com/track/0tCZQX1rmVLrcR9OMRwRFq) | [X3V](https://open.spotify.com/artist/1vCTniHcObS9QKWViplT3O) | [Faded Reality](https://open.spotify.com/album/5d4yOhluFMZecTQpLNSZPf) | 2:12 | 2025-02-07 |  |
 | [Fading Colors](https://open.spotify.com/track/4Su1EazQcPKvETX64OhB8t) | [Newline](https://open.spotify.com/artist/1I4wkU56nEpzuLLEm2ldge) | [Fading Colors](https://open.spotify.com/album/0P2Fczuh7nB3AuAzzLEkrL) | 1:55 | 2022-04-15 | 2023-02-14 |
 | [Faint Light](https://open.spotify.com/track/5XtvHaPeewGmFmTsOUNSvF) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Faint Light](https://open.spotify.com/album/7ukkwqkIMsfgYyQwiYXGG5) | 2:04 | 2023-12-22 | 2024-03-30 |
 | [Fairy Tale](https://open.spotify.com/track/33x57rcYVkrWtkWB9y2PF2) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Fairy Tale](https://open.spotify.com/album/7rGiBNEMGF8BY4pLWf0VcU) | 2:15 | 2022-04-15 | 2022-07-08 |
@@ -1125,7 +1126,7 @@
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2023-01-20 |  |
 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 | 2024-03-08 |  |
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2022-04-15 | 2022-05-27 |
-| [Lost in Thought](https://open.spotify.com/track/1NgZiXsz8wFgdX0Ew39FSv) | [Mellow Clouds](https://open.spotify.com/artist/6zhkEv6pdcJ8d4TmghYIAx) | [Lost in Thought](https://open.spotify.com/album/12YPgoxYFNeRrT04YvFghu) | 2:22 | 2024-12-20 |  |
+| [Lost in Thought](https://open.spotify.com/track/1NgZiXsz8wFgdX0Ew39FSv) | [Mellow Clouds](https://open.spotify.com/artist/6zhkEv6pdcJ8d4TmghYIAx) | [Lost in Thought](https://open.spotify.com/album/12YPgoxYFNeRrT04YvFghu) | 2:22 | 2024-12-20 | 2025-02-12 |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2023-11-17 |  |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2022-09-23 |  |
 | [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-22 | 2024-05-23 |
@@ -1701,7 +1702,7 @@
 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 | 2023-02-06 |  |
 | [She Won’t Say](https://open.spotify.com/track/65Y6wPTP8UkhnX3Bqf5bd1) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [We Must Believe in Spring](https://open.spotify.com/album/34Mc3rhKGN4b8YUZQX8LvE) | 2:24 | 2022-04-15 | 2022-05-27 |
 | [Shelter from the Rain](https://open.spotify.com/track/5mVcNIcuA4AaLSe8ktZadf) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Shelter from the Rain](https://open.spotify.com/album/1Ud55m8IUWsnJ3fDXcNm5f) | 2:15 | 2023-10-20 |  |
-| [sherbert lemon](https://open.spotify.com/track/6oPALt4XihU2L0aT8uuuXT) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [sherbert lemon](https://open.spotify.com/album/3bE3RjpZubC98DPrmOSlco) | 2:15 | 2024-07-26 |  |
+| [sherbert lemon](https://open.spotify.com/track/6oPALt4XihU2L0aT8uuuXT) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [sherbert lemon](https://open.spotify.com/album/3bE3RjpZubC98DPrmOSlco) | 2:15 | 2024-07-26 | 2025-02-12 |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
 | [Shimmer](https://open.spotify.com/track/22wNJY4P4mwQJh0TupVykW) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3) | [Shimmer](https://open.spotify.com/album/52x2AVmjbEPTXxZ3l7jUOr) | 2:21 | 2024-11-29 | 2025-01-22 |
 | [Shine](https://open.spotify.com/track/2iy5zw1TcG78KODuv9hG1P) | [Ah\. BLOOM](https://open.spotify.com/artist/1WCbF1wd3vJOgwlBy4csXn), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Shine](https://open.spotify.com/album/3TE8nSmg9B4WkCbkJXhHRW) | 3:53 | 2022-12-16 | 2023-09-16 |

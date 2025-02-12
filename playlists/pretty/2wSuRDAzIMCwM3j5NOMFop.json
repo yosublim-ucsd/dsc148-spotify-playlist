@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAO4PhBXSfgxuO2xo7Tt+sJs55ddxC",
+  "snapshot_id": "AAAAPIIaCe7glQ8ktMQdiJ6DFtTe5PiR",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -887,6 +887,26 @@
       "duration_ms": 259906,
       "name": "Redesign Your Logo",
       "url": "https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq"
+    },
+    {
+      "added_at": "2025-02-11 03:34:56",
+      "album": {
+        "name": "Moon Colony Bloodbath",
+        "url": "https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        },
+        {
+          "name": "John Vanderslice",
+          "url": "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Emerging",
+      "url": "https://open.spotify.com/track/34Lc6CQKHdtzfS9YRwA23t"
     }
   ],
   "unique_name": "From the Mouth of Evil",

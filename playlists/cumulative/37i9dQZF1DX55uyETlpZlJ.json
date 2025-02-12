@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "Ariyade Maadida Thappu",
+        "url": "https://open.spotify.com/album/0wGaiqGfcqO0CMR1tLMGNR"
+      },
+      "artists": [
+        {
+          "name": "Annapurna Chalageri",
+          "url": "https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q"
+        },
+        {
+          "name": "Raghav Aio",
+          "url": "https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254876,
+      "name": "Ariyade Maadida Thappu",
+      "url": "https://open.spotify.com/track/3MvcoixOyjIyPyRZDrfMEU"
+    },
+    {
+      "album": {
         "name": "Asali Banna",
         "url": "https://open.spotify.com/album/3f36xHYgOHnm652MFWCyBP"
       },
@@ -835,6 +857,36 @@
     },
     {
       "album": {
+        "name": "Badalaagide",
+        "url": "https://open.spotify.com/album/1FN1cREO6FUjwfTJ0yzaiQ"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Rashmi Chandur",
+          "url": "https://open.spotify.com/artist/6ecDw2oSDtKNo4JsjRgNSl"
+        },
+        {
+          "name": "Mandara Battalahalli",
+          "url": "https://open.spotify.com/artist/6xSItRD3bqfh2SzHD8FfSd"
+        },
+        {
+          "name": "Trupthi Venkatesh",
+          "url": "https://open.spotify.com/artist/463qw2xFuiT18yR7eeWc9X"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Badalaagide",
+      "url": "https://open.spotify.com/track/0bGRYvjZLBAhxU3wJh6tg6"
+    },
+    {
+      "album": {
         "name": "Kanmareyadalu",
         "url": "https://open.spotify.com/album/1u1h6Q8EN5LKjMtpre0jQt"
       },
@@ -850,6 +902,28 @@
       "duration_ms": 272979,
       "name": "Badalayitu Nana Jeevana",
       "url": "https://open.spotify.com/track/0nboNl2iACFwUTM1H5HVIU"
+    },
+    {
+      "album": {
+        "name": "byaate",
+        "url": "https://open.spotify.com/album/6Odoq2bURZmDkWRBa1zfEy"
+      },
+      "artists": [
+        {
+          "name": "Prince Joseph",
+          "url": "https://open.spotify.com/artist/7kKVe76zDH7Qyhe4PEbuP1"
+        },
+        {
+          "name": "AKSHATA KUMTA",
+          "url": "https://open.spotify.com/artist/0MEf3yChFgAiQwZjvuAipc"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89728,
+      "name": "Badhuk ondhu byaate",
+      "url": "https://open.spotify.com/track/3D4752NZFCngSRMKul2uq7"
     },
     {
       "album": {
@@ -4300,7 +4374,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 110769,
       "name": "Lekka",
       "url": "https://open.spotify.com/track/6WAjdVHT9iOqpmDDqXwDri"
@@ -4644,7 +4718,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 158115,
       "name": "Manasaagide",
       "url": "https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly"
@@ -8430,7 +8504,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 195689,
       "name": "Sindi Sarai",
       "url": "https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS"

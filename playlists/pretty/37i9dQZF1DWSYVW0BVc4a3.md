@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > money talks!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,690 likes - 366 songs - 1 day 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,741 likes - 366 songs - 1 day 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 149 | [Violently Patient \(Helsloot Remix\)](https://open.spotify.com/track/4iS4P7HWJwatWBciheCJoH) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Violently Patient \(Helsloot Remix\)](https://open.spotify.com/album/5lYI5YhtIsYy2QvkJW6cDy) | 4:13 |
 | 150 | [Rollyat](https://open.spotify.com/track/3ZXS2EEdymSeQ5keRotKzB) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Rollyat](https://open.spotify.com/album/2OOtSxdVoApDdOzyv9lGk7) | 5:44 |
 | 151 | [W Y H A](https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [W Y H A](https://open.spotify.com/album/0s5icgE1FdbFG4uD31DlrC) | 7:21 |
-| 152 | [All My People \- Edit](https://open.spotify.com/track/1BX9aPJoLvxTJsKn7xMSKz) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [All My People](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 3:14 |
+| 152 | [ALL MY PEOPLE \- Edit](https://open.spotify.com/track/1BX9aPJoLvxTJsKn7xMSKz) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [ALL MY PEOPLE](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 3:14 |
 | 153 | [Wanna Get High](https://open.spotify.com/track/6xcBMOmgBFFCPIV1TC4Yhc) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Wanna Get High](https://open.spotify.com/album/2fZUz8LgVh5VwvVGIYRIdA) | 3:35 |
 | 154 | [At Night I Think Of You \- Seth Troxler & Nick Morgan Remix](https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [At Night I Think Of You \(Seth Troxler & Nick Morgan Remix\)](https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq) | 3:39 |
 | 155 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |

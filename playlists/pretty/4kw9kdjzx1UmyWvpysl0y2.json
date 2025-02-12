@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125475,
+  "num_followers": 125472,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATptgsTXnEZDdHjJoph5QfmdKIYLiU",
+  "snapshot_id": "AAATqmi0OIBBTy4N6edTuwx3BeQfS+Mm",
   "tracks": [
+    {
+      "added_at": "2025-02-11 15:30:49",
+      "album": {
+        "name": "Something To Hold Onto",
+        "url": "https://open.spotify.com/album/6qeNU8lMvf4M1A9SEZrPRx"
+      },
+      "artists": [
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Something To Hold Onto",
+      "url": "https://open.spotify.com/track/2dLalFrekRyApNXvMmgjn5"
+    },
     {
       "added_at": "2025-02-10 16:01:14",
       "album": {
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
     },
     {
-      "added_at": "2025-02-05 15:20:16",
+      "added_at": "2025-02-11 18:57:38",
       "album": {
         "name": "Foul (RAIZHELL Remix)",
         "url": "https://open.spotify.com/album/3n1dpx6mzHp6UA5uw8F7VU"
@@ -88,13 +108,17 @@
           "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
         },
         {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        },
+        {
           "name": "ICECOLDBISHOP",
           "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
         }
       ],
-      "duration_ms": 179262,
-      "name": "Foul",
-      "url": "https://open.spotify.com/track/678Xgl1L3zy2RR1QQO44zm"
+      "duration_ms": 157636,
+      "name": "Foul - RAIZHELL Remix",
+      "url": "https://open.spotify.com/track/3Ui6VUzyd1j7WXCP4koUaf"
     },
     {
       "added_at": "2025-02-04 15:33:36",

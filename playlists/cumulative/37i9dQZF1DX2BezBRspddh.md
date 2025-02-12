@@ -4,7 +4,7 @@
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-84 songs - 7 hr 30 min
+85 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Badi Nazuk Hai Ye Manzil](https://open.spotify.com/track/0Vgvn2K0Oclw6XbxDU5D6o) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Jogger's Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rHjDXFiuFQzPUnEGqOZXp) | 4:54 | 2023-07-13 |  |
 | [Betaab Dil Ki Tamanna Yehi Hai](https://open.spotify.com/track/0w2ULErs3UppVefsB98TpT) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Hanste Zakhm](https://open.spotify.com/album/7fyvwvooseBtKcfzx1j0Vd) | 5:33 | 2023-11-27 |  |
 | [Betaab Dil Ki Tamanna Yehi Hai \(From "Hanste Zakhm"\)](https://open.spotify.com/track/1DwHPbsIcgcb9OJFSnPXFF) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 5:33 | 2023-07-13 | 2024-04-19 |
+| [Chanchal](https://open.spotify.com/track/5MjaZ7OpnHSJJJv00n9Pyh) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dhoom Dhaam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zxdJPNSuRtHh5dGh1Upzd) | 3:09 | 2025-02-11 |  |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/7nUAHij7tN3aBFaeEqKhMt) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Nikaah](https://open.spotify.com/album/5JCx0naviMFsPTfmaBmYbj) | 7:48 | 2023-11-27 |  |
 | [Chupke Chupke Raat Din Aansoon Bahanayaad Hai](https://open.spotify.com/track/34VMY5oNAOWXFnC0pfwwhc) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Chupke Chupke Raat Din and Other Hits](https://open.spotify.com/album/6FYay6dqiiOpxk0gVbBWpl) | 7:49 | 2023-07-13 | 2024-04-19 |
 | [Dikhai Diye Yun](https://open.spotify.com/track/1xjFQsOPRH8N0bx5VgrA4C) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Bazaar](https://open.spotify.com/album/1S0AbwkAswdVC4oEWGsh8e) | 4:20 | 2023-11-27 |  |
@@ -42,7 +43,7 @@
 | [In Ankhon Ki Masti](https://open.spotify.com/track/2swSa0NQv8Miu2fXj8pLh0) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 5:43 | 2023-07-13 | 2024-04-19 |
 | [IS MOD SE JATE HAIN](https://open.spotify.com/track/7cztgKY3LV7u6s160vP4p5) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Gulzar Kishore](https://open.spotify.com/album/2Abgfvgv960jRyGGkUdVeU) | 4:56 | 2023-07-13 | 2024-04-19 |
 | [Is Mod Se Jate Hain](https://open.spotify.com/track/6l0fKiA4dyGnb5HyeXC8it) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Aandhi](https://open.spotify.com/album/4dLf4Pv5ie1chREDMk8sjX) | 4:56 | 2023-11-27 |  |
-| [Is Nadi Ko Mera](https://open.spotify.com/track/0Trv1xleAXKiLBd9H9daiE) | [Shailendra Singh](https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf), [Haimanti Sukla](https://open.spotify.com/artist/2BY2Ube13Eo5u7xu20QApy) | [Chashme Buddoor](https://open.spotify.com/album/2tChCr8EXBpDHBNN6iUdlI) | 5:50 | 2023-11-27 |  |
+| [Is Nadi Ko Mera](https://open.spotify.com/track/0Trv1xleAXKiLBd9H9daiE) | [Shailendra Singh](https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf), [Haimanti Sukla](https://open.spotify.com/artist/2BY2Ube13Eo5u7xu20QApy) | [Chashme Buddoor](https://open.spotify.com/album/2tChCr8EXBpDHBNN6iUdlI) | 5:50 | 2023-11-27 | 2025-02-12 |
 | [Is Nadi Ko Mera](https://open.spotify.com/track/5H9xV2sISeyNZnhRsJtMJk) | [Shailendra Singh](https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf), [Haimanti Sukla](https://open.spotify.com/artist/2BY2Ube13Eo5u7xu20QApy) | [Chashme Buddoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NM80cNXob33w2cbdHwcQb) | 5:50 | 2023-07-13 | 2024-04-19 |
 | [JANE KYA SOCHKAR](https://open.spotify.com/track/0UmrVCTYRGx0UHETmoufPU) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Gulzar Kishore](https://open.spotify.com/album/2Abgfvgv960jRyGGkUdVeU) | 3:31 | 2023-07-13 | 2024-04-19 |
 | [Jane Kya Sochkar](https://open.spotify.com/track/5mB0shEr28WNX29X5D4dYC) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Kinara](https://open.spotify.com/album/74UgrYHlwOHr40kVv7CS7R) | 3:31 | 2023-11-27 |  |

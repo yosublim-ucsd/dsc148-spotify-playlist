@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Peipper y Roze Oficial
 
-615 songs - 1 day 6 hr 34 min
+616 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Nuestro Amor Regresa](https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Nuestro Amor Regresa](https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx) | 2:05 | 2022-12-23 | 2023-10-23 |
 | [Nunca Más](https://open.spotify.com/track/636uUKyY6Uq7PdsFO3FECC) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más](https://open.spotify.com/album/0coT0YcbnvrGrQp9JvplFj) | 2:09 | 2021-12-23 | 2022-07-29 |
 | [Ojitos Cerrados](https://open.spotify.com/track/01gEeTQvRM1lt9P8uPbjyw) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Ojitos Cerrados](https://open.spotify.com/album/75NwksYxfwwQiqR3TlfqL2) | 2:40 | 2024-07-05 | 2024-08-13 |
+| [Olvidarte \(Cumbia\)](https://open.spotify.com/track/6SvxLADouYzfTrMSeRvutg) | [Nico Manriquez](https://open.spotify.com/artist/2ZPsXaS21IxNDnpe6JoBNh), [FEDEDJ'](https://open.spotify.com/artist/3aSoKs5QU9ACHqMOTe2Tw5) | [Olvidarte \(Cumbia\)](https://open.spotify.com/album/72bmIBaxvSG1KH9xzf8uel) | 1:51 | 2025-02-07 |  |
 | [Olvidate \- Remix](https://open.spotify.com/track/6goJYemZPzg4ZuaQTpCiAZ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Olvidate \(Remix\)](https://open.spotify.com/album/2OC2QEzZ2zTciTsPCZ4yPN) | 2:14 | 2022-03-04 | 2022-07-20 |
 | [Olvidate de Mi](https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Olvidate de Mi](https://open.spotify.com/album/0yCeK4xylSq3GI5ysuBm3g) | 2:36 | 2023-03-31 | 2023-07-25 |
 | [Otra Boca](https://open.spotify.com/track/7HNSezQS7t0rli7GRAwFnS) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Otra Boca](https://open.spotify.com/album/4auRAy3xt7SxcFEL1ZMMDl) | 2:39 | 2024-12-20 |  |
@@ -396,7 +397,7 @@
 | [Pasemos La Noche](https://open.spotify.com/track/0bUVn2PxF5NSKyPEyCDA6U) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Pasemos La Noche](https://open.spotify.com/album/7BFVbGEHuH5FtVYJAxFWjp) | 2:08 | 2021-12-23 | 2022-07-06 |
 | [Pastillitas Pal Olvido](https://open.spotify.com/track/1tj0RZaEzgvV6ZqAeOE18H) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Pastillitas Pal Olvido](https://open.spotify.com/album/4asUUGlYirr2pu5KjjDxFf) | 2:45 | 2023-10-20 | 2024-03-09 |
 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 | 2024-10-04 |  |
-| [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 | 2022-08-26 |  |
+| [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 | 2022-08-26 | 2025-02-12 |
 | [Pedacitos](https://open.spotify.com/track/3oE3m87poec2KAZyTV6JOA) | [Lionel Ferro](https://open.spotify.com/artist/7eCV5haSJZFNswFd6asIZp), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pedacitos](https://open.spotify.com/album/2E4VapcOiqFynmYEqWDRpD) | 2:15 | 2023-02-24 | 2023-03-11 |
 | [Pegadito](https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pegadito](https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt) | 2:45 | 2022-11-04 | 2023-01-14 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-265 songs - 21 hr 27 min
+266 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 | 2021-12-17 | 2025-01-26 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2022-06-02 |  |
 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 | 2024-04-19 |  |
-| [Focused](https://open.spotify.com/track/1YMzWMfkMEosGxNywl46IW) | [Belikeme](https://open.spotify.com/artist/3bq5uvcwCx8g4xdHTW8qaG) | [Focused](https://open.spotify.com/album/4K2cLtuDtXlBuAFdWDi2Fh) | 2:32 | 2024-10-01 |  |
+| [Focused](https://open.spotify.com/track/1YMzWMfkMEosGxNywl46IW) | [Belikeme](https://open.spotify.com/artist/3bq5uvcwCx8g4xdHTW8qaG) | [Focused](https://open.spotify.com/album/4K2cLtuDtXlBuAFdWDi2Fh) | 2:32 | 2024-10-01 | 2025-02-12 |
 | [Forgiveness](https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [AOC Records](https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy) | [Forgiveness](https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV) | 4:49 | 2024-04-19 | 2024-09-15 |
 | [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 | 2024-04-19 |  |
 | [Fry](https://open.spotify.com/track/08revyYzwNRYYkGSd2yhG5) | [Qnete](https://open.spotify.com/artist/6eHZuPnEu4u6l0pgV4yCEG) | [Fry](https://open.spotify.com/album/694VDVMaHPsH7BoGEIE1F4) | 2:26 | 2021-12-17 | 2022-07-26 |
@@ -204,6 +204,7 @@
 | [Right Now](https://open.spotify.com/track/5xc5zqywjr1aesPBSkBdSB) | [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Right Now](https://open.spotify.com/album/3YOjw88VPz6SqnwMEnir3o) | 6:18 | 2022-12-29 | 2023-01-06 |
 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-07-12 |  |
 | [Ritz Carlton](https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6) | [goodmood](https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU) | [times](https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6) | 5:12 | 2022-08-12 | 2022-10-14 |
+| [Roots](https://open.spotify.com/track/2puKQ2WQoMrVcEf4LyvX2z) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Roots](https://open.spotify.com/album/3O54dMAezB6VzwCn6ZloER) | 3:51 | 2025-01-31 |  |
 | [Saw You for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 6:44 | 2021-12-17 | 2022-07-29 |
 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 | 2022-07-01 | 2022-08-13 |
 | [Sensitive People](https://open.spotify.com/track/4w4Qvb4Eyrq6kG3IS8ebCE) | [Erik Ellmann](https://open.spotify.com/artist/00X51QLtLhAPByQdOXsT9s) | [Sensitive People](https://open.spotify.com/album/1m8CNgwbEokMBLyDn3GL2Z) | 5:08 | 2023-09-08 | 2023-10-08 |

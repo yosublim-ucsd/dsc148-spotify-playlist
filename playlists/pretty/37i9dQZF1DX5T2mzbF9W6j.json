@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110873,
+  "num_followers": 110876,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-02-07 09:57:33",
       "album": {
+        "name": "Hearts Break and People Change",
+        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Hearts Break and People Change",
+      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
+    },
+    {
+      "added_at": "2025-02-07 09:57:33",
+      "album": {
         "name": "Underneath The Blue (feat. Joe Cleere)",
         "url": "https://open.spotify.com/album/0MlrZBUO8EqGlN19gbFnFt"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 142898,
       "name": "Underneath The Blue (feat. Joe Cleere)",
       "url": "https://open.spotify.com/track/0LbdqwL82dT9RWREPQd9zS"
-    },
-    {
-      "added_at": "2025-02-07 09:57:33",
-      "album": {
-        "name": "Hearts Break and People Change",
-        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Hearts Break and People Change",
-      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
     },
     {
       "added_at": "2025-02-07 09:57:33",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-07 09:57:33",
       "album": {
-        "name": "Flowers In The Water",
-        "url": "https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw"
-      },
-      "artists": [
-        {
-          "name": "Nathan Evans",
-          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
-        }
-      ],
-      "duration_ms": 142994,
-      "name": "Flowers In The Water",
-      "url": "https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK"
-    },
-    {
-      "added_at": "2025-02-07 09:57:33",
-      "album": {
         "name": "Shadowboxing",
         "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 172952,
       "name": "Shadowboxing",
       "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
+    },
+    {
+      "added_at": "2025-02-07 09:57:33",
+      "album": {
+        "name": "Flowers In The Water",
+        "url": "https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "duration_ms": 142994,
+      "name": "Flowers In The Water",
+      "url": "https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK"
     },
     {
       "added_at": "2025-02-07 09:57:33",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-02-07 09:57:33",
       "album": {
-        "name": "Burza",
-        "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
-      },
-      "artists": [
-        {
-          "name": "Kwiat Jab\u0142oni",
-          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
-        }
-      ],
-      "duration_ms": 183674,
-      "name": "Burza",
-      "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
-    },
-    {
-      "added_at": "2025-02-07 09:57:33",
-      "album": {
         "name": "Co noc",
         "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 159428,
       "name": "Co noc",
       "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
+    },
+    {
+      "added_at": "2025-02-07 09:57:33",
+      "album": {
+        "name": "Burza",
+        "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Burza",
+      "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
     },
     {
       "added_at": "2025-02-07 09:57:33",

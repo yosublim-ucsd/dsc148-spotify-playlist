@@ -1,32 +1,28 @@
 {
-  "description": "Photo : Alonzo x Gazo",
-  "num_followers": 1125189,
+  "description": "Photo : Jul",
+  "num_followers": 1125294,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6U/DgAAAAACDYeD+05LmPHm7+qIRv34",
+  "snapshot_id": "Z6sf0QAAAABf3RcZBIELv9uHNAc8jpnJ",
   "tracks": [
     {
       "added_at": "2025-02-06 23:00:30",
       "album": {
-        "name": "Longue Vie \u00e0 Nous",
-        "url": "https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF"
+        "name": "Un jour, je l'aurai",
+        "url": "https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq"
       },
       "artists": [
         {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 174906,
-      "name": "Toute la Noch\u00e9",
-      "url": "https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC"
+      "duration_ms": 226760,
+      "name": "Un jour, je l'aurai",
+      "url": "https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -43,22 +39,6 @@
       "duration_ms": 135257,
       "name": "OHMA TOKITA",
       "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
-        "name": "Un jour, je l'aurai",
-        "url": "https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Un jour, je l'aurai",
-      "url": "https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y"
     },
     {
       "added_at": "2025-02-06 23:00:30",
@@ -219,26 +199,6 @@
       "duration_ms": 167013,
       "name": "Vanill\u00e9e",
       "url": "https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf"
-    },
-    {
-      "added_at": "2025-02-06 23:00:30",
-      "album": {
-        "name": "Couteau dans le dos",
-        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Couteau dans le dos",
-      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
     },
     {
       "added_at": "2025-02-06 23:00:30",

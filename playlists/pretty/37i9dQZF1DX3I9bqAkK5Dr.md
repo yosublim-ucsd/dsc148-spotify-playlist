@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,006 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,009 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 3 | [Hello Chittamma](https://open.spotify.com/track/08JFxXy4ERFQFZAcEu8y86) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Hello Chittamma](https://open.spotify.com/album/3HaCAI70bGfKoAwrVpgUD8) | 2:27 |
 | 4 | [TSUNAMI](https://open.spotify.com/track/6BoAJg1rH7KqCg2Cz4dcGp) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [TSUNAMI](https://open.spotify.com/album/4ySQiIqxkmw0VOIbKL0rhS) | 2:54 |
 | 5 | [Varama](https://open.spotify.com/track/30IpmKZtv3k6hIwPjqVqy2) | [Tarun Donipati](https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI), [Agni](https://open.spotify.com/artist/5DlIzO1VXAbP1Ruzi8ui5F), [Sripragna Vellanki](https://open.spotify.com/artist/5m65xIlHvGuJJWa5iXYExp) | [Varama](https://open.spotify.com/album/2VcRqSdwkaFKNB1gCbQd3J) | 3:50 |
-| 6 | [Lokulu Kakulu](https://open.spotify.com/track/6ROzWTFZMRjzFwQrf19bmA) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [Lokulu Kakulu](https://open.spotify.com/album/05yU1IGH4XqBzwNSFgdep8) | 2:14 |
+| 6 | [Lokulu Kakulu](https://open.spotify.com/track/6ROzWTFZMRjzFwQrf19bmA) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [Lokulu Kakulu](https://open.spotify.com/album/05yU1IGH4XqBzwNSFgdep8) | 2:14 |
 | 7 | [Senorita](https://open.spotify.com/track/29fHhYed8SpAL9T10i8r3h) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Senorita](https://open.spotify.com/album/5lcGBcUeM6SrOSrPP5R2d1) | 2:38 |
 | 8 | [Seethakaalam Vennellona](https://open.spotify.com/track/4MdCVBPBmBsc4sGXWbh0aj) | [Syel](https://open.spotify.com/artist/35HkhHMeEarempEwDAPQgT) | [Seethakaalam Vennellona](https://open.spotify.com/album/47WUi5iPAs56MXvn1InHqa) | 4:02 |
 | 9 | [Badlove](https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [Badlove](https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L) | 3:20 |

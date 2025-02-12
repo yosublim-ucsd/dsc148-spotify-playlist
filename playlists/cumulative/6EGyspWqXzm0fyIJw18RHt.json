@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "All Eternals Deck",
+        "url": "https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Damn These Vampires",
+      "url": "https://open.spotify.com/track/2TYXkQaCOLC8nzJx01ZWKj"
+    },
+    {
+      "album": {
         "name": "Dead Man's Party",
         "url": "https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb"
       },

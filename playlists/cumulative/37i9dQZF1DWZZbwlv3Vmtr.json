@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 121626,
       "name": "actually",
       "url": "https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB"
@@ -954,6 +954,32 @@
       "duration_ms": 118411,
       "name": "Autumn Stroll",
       "url": "https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO"
+    },
+    {
+      "album": {
+        "name": "Azo",
+        "url": "https://open.spotify.com/album/5IxplYWukgFd1gFxQNmwjy"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        },
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121445,
+      "name": "Azo",
+      "url": "https://open.spotify.com/track/70RuMUwR0nlX71VHxRezkH"
     },
     {
       "album": {
@@ -4635,6 +4661,24 @@
     },
     {
       "album": {
+        "name": "Faded Reality",
+        "url": "https://open.spotify.com/album/5d4yOhluFMZecTQpLNSZPf"
+      },
+      "artists": [
+        {
+          "name": "X3V",
+          "url": "https://open.spotify.com/artist/1vCTniHcObS9QKWViplT3O"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Faded Reality",
+      "url": "https://open.spotify.com/track/0tCZQX1rmVLrcR9OMRwRFq"
+    },
+    {
+      "album": {
         "name": "Superpad",
         "url": "https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4"
       },
@@ -7554,7 +7598,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 117239,
       "name": "Jazzy Love",
       "url": "https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq"

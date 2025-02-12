@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Apulanta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,833 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,834 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 3 | [Raunioita](https://open.spotify.com/track/59I9eYy2AArw6NuMi99Nox) | [Hauli Bros](https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM) | [Raunioita](https://open.spotify.com/album/0vz5dNmUb9SGudyyvyhY59) | 3:40 |
 | 4 | [Päiväntasaaja](https://open.spotify.com/track/5JmxXTvUXxXquGWyDGatqr) | [Tuomo Mannonen](https://open.spotify.com/artist/1pVcazwrzonZgkPQifJNRc) | [Haudatkaa perhoset](https://open.spotify.com/album/61u4ut8Kx38Glne7yLenzK) | 3:14 |
 | 5 | [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 |
-| 6 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 |
-| 7 | [100 %](https://open.spotify.com/track/7erSQRUb0SnOp6l0FY4uhn) | [Saga Mast](https://open.spotify.com/artist/7J1Hi9qyqxFOxokehI8jx1) | [100%](https://open.spotify.com/album/49FBb9pefcZS8hz1HLumU6) | 2:56 |
+| 6 | [100 %](https://open.spotify.com/track/7erSQRUb0SnOp6l0FY4uhn) | [Saga Mast](https://open.spotify.com/artist/7J1Hi9qyqxFOxokehI8jx1) | [100%](https://open.spotify.com/album/49FBb9pefcZS8hz1HLumU6) | 2:56 |
+| 7 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 |
 | 8 | [Kaikki mitä on, on juuri niin kuin olin kuvitellutkin](https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Öitä](https://open.spotify.com/album/6LZYPt5izO0zcAGke00bPh) | 4:44 |
 | 9 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 |
 | 10 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
-| 11 | [Myrkkykäärme](https://open.spotify.com/track/6xwncqBoUGtYYFy3OkTsxj) | [Kärmes](https://open.spotify.com/artist/6Pg3eTjJuTHEprVckuicfK) | [Myrkkykäärme](https://open.spotify.com/album/2sQounIxkxhQAaWUxP9D9w) | 3:25 |
-| 12 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
+| 11 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
+| 12 | [Myrkkykäärme](https://open.spotify.com/track/6xwncqBoUGtYYFy3OkTsxj) | [Kärmes](https://open.spotify.com/artist/6Pg3eTjJuTHEprVckuicfK) | [Myrkkykäärme](https://open.spotify.com/album/2sQounIxkxhQAaWUxP9D9w) | 3:25 |
 | 13 | [Näitä hetkiä kertyy](https://open.spotify.com/track/0TJMNm3h2F4sAloEv5Sq4H) | [Esa Eloranta](https://open.spotify.com/artist/7DebIQncqcKWGJHP0Gtiee) | [Näitä hetkiä kertyy](https://open.spotify.com/album/36LkmQZXSJXh1nn3TflVv1) | 3:52 |
 | 14 | [Presidentti](https://open.spotify.com/track/4LWkJJS5WWP9hNnmTLU5Kj) | [Tumppi Varonen & Problems](https://open.spotify.com/artist/74GIBky1lbXAwhQnzl8F02), [Tumppi Varonen](https://open.spotify.com/artist/5WfHMCf6YUNz9QwSeILxPl), [Problems](https://open.spotify.com/artist/3aCSB3QjK57P4PFaWK99Lv) | [Presidentti](https://open.spotify.com/album/09VFc2doroEyBx0e2odMYT) | 2:27 |
 | 15 | [Yöjuna \(feat\. Marko Haavisto\)](https://open.spotify.com/track/5DjFjPK6QqzouCimLsvQnX) | [Mary Ann Hawkins](https://open.spotify.com/artist/3jfyjffOh8c7nSzKLIa64C), [Marko Haavisto](https://open.spotify.com/artist/4CNocwH4uDHbs8M1NvqARV) | [Helsinki Surf City](https://open.spotify.com/album/6qFpV8LLxpYccQDFVB3Pc4) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Hienoo kun oot](https://open.spotify.com/track/37kKYv6HwD8cnmZtSDQSOf) | [Anton Äikäs](https://open.spotify.com/artist/3RgGEK7y9UZFB74SiOgjuk) | [Hienoo kun oot](https://open.spotify.com/album/7G15WeW6VcXg3MCl7Di0GR) | 3:43 |
 | 80 | [Bombay Train](https://open.spotify.com/track/4LBjxwrqepJlQ39S5EmxSa) | [Remu](https://open.spotify.com/artist/0v9qVRqk14X8dqcH8YhfqI) | [Bombay Train](https://open.spotify.com/album/3S3GKHcl605qQzR2Xd4s3V) | 3:21 |
 
-Snapshot ID: `Z6UxHgAAAAC7MkdpDLxYJgymqlHPMmmS`
+Snapshot ID: `Z6sb8gAAAADulg/ai2kL5HekpuitDMPM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,338,091 likes - 102 songs - 4 hr 50 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,338,010 likes - 102 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 28 | [Sirens](https://open.spotify.com/track/0C5yZEXslHsoIQ3BWijgOQ) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Sirens](https://open.spotify.com/album/7vR5vnHZE0Zx6CqDDZEJ9P) | 2:43 |
 | 29 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
 | 30 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 |
-| 31 | [Lonely Boy \- Radio Edit](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy \(Radio Edit\)](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 |
+| 31 | [Lonely Boy](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 |
 | 32 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 |
 | 33 | [Just Friends](https://open.spotify.com/track/6RZrkpfwp705Vz9iZ3wLvk) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Just Friends](https://open.spotify.com/album/3J27ChDQ7pKkytOFfSvyYB) | 2:46 |
 | 34 | [Give Me Something To Hold](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Give Me Something To Hold](https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU) | 3:21 |

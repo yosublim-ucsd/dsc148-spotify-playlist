@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 11 Feb 23:01 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 11 Feb 04:01 UTC.
 
-4,121 songs - 9 day 12 hr 48 min
+4,123 songs - 9 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [BREAKTHESOUND](https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [BREAKTHESOUND](https://open.spotify.com/album/1VnLVU1rNDGGLCjd0Sfe3T) | 1:57 | 2024-11-29 | 2024-12-04 |
 | [Breath and Air](https://open.spotify.com/track/1O5kwGOmJG14kjPWKKDPK6) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/5IBrs2SIkhxt25XlOBdaYl) | 4:03 | 2024-11-01 | 2024-11-05 |
 | [Breath, Eyes, Memory](https://open.spotify.com/track/24vI2utYaLpJm0kKoku99s) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [J\. Rawls](https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag) | [Breath, Eyes, Memory](https://open.spotify.com/album/2TMwjsy07LdO8KCxm3NTwJ) | 2:44 | 2024-09-06 | 2024-09-11 |
-| [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-02-01 |  |
+| [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-02-01 | 2025-02-12 |
 | [breathe u in](https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [breathe u in](https://open.spotify.com/album/2pYbGIlP2xK4xYLp21Rhud) | 2:43 | 2024-12-13 | 2024-12-15 |
 | [Brick After Brick \(Ground Level\)](https://open.spotify.com/track/4Y1R3BpKWBZ8RgiW2S897y) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Brick After Brick \(Ground Level\)](https://open.spotify.com/album/2ALEmtbXfUWUaUq8lK2boh) | 3:07 | 2024-08-13 | 2024-08-16 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-08-15 |
@@ -1650,6 +1650,7 @@
 | [Hotel Sphinx](https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Hotel Sphinx](https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu) | 4:49 | 2024-11-13 | 2024-11-26 |
 | [Hotter Than Hentai](https://open.spotify.com/track/3BIfpEIdqPIV0bhzdGXlSk) | [CottontailVA](https://open.spotify.com/artist/1GmAM5JVjFw5ESEh3xoqPP), [Kwite](https://open.spotify.com/artist/2hMpXzDK1KYtnIBhlwqThw) | [Hotter Than Hentai](https://open.spotify.com/album/5WAB4J2sWR4Be2BfkS2Ijc) | 2:39 | 2024-10-03 | 2024-10-05 |
 | [Hottest Summer on Record](https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hottest Summer on Record](https://open.spotify.com/album/1JJXOjU7KbjXLcyVWoUrxp) | 3:26 | 2024-07-19 | 2024-07-25 |
+| [House of Light](https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [House of Light](https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX) | 5:49 | 2025-02-11 |  |
 | [Houston](https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Houston](https://open.spotify.com/album/48adyhddPaE5YihkleCu7I) | 4:37 | 2024-09-20 | 2024-09-23 |
 | [How Are You Feeling?](https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [How Are You Feeling?](https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc) | 4:29 | 2024-09-13 | 2024-09-18 |
 | [How It Ends](https://open.spotify.com/track/3X7afM4V4ZMLNVmwBgqWzp) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [How It Ends](https://open.spotify.com/album/0Vw7DrVmTj4IhV5rae5pKF) | 2:55 | 2024-04-26 | 2024-05-01 |
@@ -3724,7 +3725,7 @@
 | [TYRANT](https://open.spotify.com/track/6Mxs2Ygz9IwRm8eIobA8TC) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [TYRANT](https://open.spotify.com/album/75EwEcqZvo5bCvTkuBlEOX) | 2:25 | 2024-08-21 | 2024-08-24 |
 | [TÖVBE](https://open.spotify.com/track/2PPXFf8KneQ0kKj6E6FGwG) | [Fler](https://open.spotify.com/artist/75ctWsRuGXmxMxnFPkuEwA), [60 Kilo](https://open.spotify.com/artist/0Hb8E6ywWCym2Sl7T7gysP) | [TÖVBE](https://open.spotify.com/album/50wNwHGAK8omO9LJlycGVp) | 2:40 | 2024-07-12 | 2024-07-16 |
 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 | 2024-09-06 | 2024-09-11 |
-| [U MOVE](https://open.spotify.com/track/5GUiWiiIQuKwyaEn1zB8oc) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [U MOVE](https://open.spotify.com/album/4dzOH4gC4zMRZGAxLMcuRx) | 3:02 | 2025-02-05 |  |
+| [U MOVE](https://open.spotify.com/track/5GUiWiiIQuKwyaEn1zB8oc) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [U MOVE](https://open.spotify.com/album/4dzOH4gC4zMRZGAxLMcuRx) | 3:02 | 2025-02-05 | 2025-02-12 |
 | [UFO](https://open.spotify.com/track/1jovTsvEEuyIndZVGFSuIB) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [UFO](https://open.spotify.com/album/5vIcrjrF1yaAJdKyopmh1H) | 2:39 | 2024-10-17 | 2024-10-19 |
 | [Ugly](https://open.spotify.com/track/3KUj1zMidEyCqJC5EBnWb5) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Ugly](https://open.spotify.com/album/3HGsS4htM8Q7mmVWck2uJL) | 3:16 | 2024-11-13 | 2024-11-26 |
 | [ULTRA C](https://open.spotify.com/track/16TNNC68tTEIGc8vqvoWg6) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [nqrse](https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3) | [ULTRA C](https://open.spotify.com/album/1UyxLrubhJ7WYhzcsxOVgL) | 2:59 | 2024-09-18 | 2024-09-21 |
@@ -3823,6 +3824,7 @@
 | [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 | 2024-11-01 | 2024-11-03 |
 | [Wanderstop](https://open.spotify.com/track/0msAaYYbDXYzZXrg7f5bdX) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Wanderstop](https://open.spotify.com/album/1xoCR18Ho3tHUtx5FiHTQF) | 4:07 | 2024-12-12 | 2024-12-14 |
 | [Wanna Fxck \- Lost Tapes 2022](https://open.spotify.com/track/42cO8qdboMxJPtgOSNtygx) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wanna Fxck \(Lost Tapes 2022\)](https://open.spotify.com/album/1M0LH6TE618SQMU62yoCC8) | 2:40 | 2024-11-29 | 2024-12-06 |
+| [WANNA SEE WHAT A KNOCK DOES](https://open.spotify.com/track/54oWOEdGmHJRc5TUMCciz3) | [BBY GOYARD](https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs) | [WANNA SEE WHAT A KNOCK DOES](https://open.spotify.com/album/2xIexMDppS0y3UGrcHyYTm) | 1:56 | 2025-02-11 |  |
 | [Wanna Start A Band?](https://open.spotify.com/track/34ZmfrVwRAgTFSgMSmifbD) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Wanna Start A Band?](https://open.spotify.com/album/7keV9C1PycJqwXce1awUwZ) | 2:53 | 2025-01-31 | 2025-02-07 |
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-09-21 | 2024-09-26 |
 | [WANT U AROUND](https://open.spotify.com/track/48kDKhXoZfxUUSj1JVGSbq) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Rocci](https://open.spotify.com/artist/7JuMRNIHpmyFPoihd7NB7T) | [WANT U AROUND](https://open.spotify.com/album/09FHekp2XnxI3RpHgq17vF) | 2:53 | 2024-08-22 | 2024-08-24 |

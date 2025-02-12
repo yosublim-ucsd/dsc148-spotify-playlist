@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Laura day romance
 
-1,814 songs - 4 day 16 hr 37 min
+1,815 songs - 4 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1414,6 +1414,7 @@
 | [勘](https://open.spotify.com/track/1HwazeE0qaFvyzmm32trWg) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [211](https://open.spotify.com/album/1DSI3X9GoML2BDtpfAoUHe) | 3:16 | 2022-11-01 | 2022-11-09 |
 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 | 2022-07-28 | 2022-12-14 |
 | [化石](https://open.spotify.com/track/0w3NiLeDTLQDkYk86Gjtd2) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [化石](https://open.spotify.com/album/5mPX2XLb3mJQFxZOJJ4tzA) | 3:30 | 2023-10-31 | 2023-11-08 |
+| [卒業](https://open.spotify.com/track/0hYCof6amQzAcKAqNUp4wR) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [卒業](https://open.spotify.com/album/4wiaREGxvMVJVrXhm0qrst) | 4:24 | 2025-02-04 |  |
 | [南十字星](https://open.spotify.com/track/6ZWi5E5W8urTlxqz1pP64F) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [南十字星](https://open.spotify.com/album/5j6ThRIunJZ5hGlibYj8y2) | 4:58 | 2022-06-02 | 2022-06-05 |
 | [南無三](https://open.spotify.com/track/0EOut5YkIhbRd66GJtjrPQ) | [ミシェルメルモ](https://open.spotify.com/artist/2xFlXkuJ58t21HfApcZhH6) | [Meta\-Märchen](https://open.spotify.com/album/5y4VJGmVr4u9KUiiD1f2vH) | 3:43 | 2022-09-13 | 2022-09-21 |
 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 | 2022-05-31 | 2022-07-29 |
@@ -1563,7 +1564,7 @@
 | [明日になれば](https://open.spotify.com/track/53ssYIfvnjmFXShUCKv7ae) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [明日になれば](https://open.spotify.com/album/1dAc4Q0xFep877nAzD6oE4) | 4:10 | 2022-06-16 | 2022-07-09 |
 | [明日には振り向いてよ](https://open.spotify.com/track/0naHfononc9Vyfudm4LIFj) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [明日には振り向いてよ](https://open.spotify.com/album/5aDHbkNhsnb00OwJFh3PZp) | 3:09 | 2022-07-05 | 2022-08-24 |
 | [明日も \- ACOUSTIC ver.](https://open.spotify.com/track/2nbexm76qC5yhsDZv2c9Mg) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ACOUSTIC SHISHAMO](https://open.spotify.com/album/6ANqd2133JhgbdoR3yB8O0) | 6:07 | 2023-11-07 | 2023-11-22 |
-| [星とそばかすとダイヤモンド](https://open.spotify.com/track/7idoyOVZXUj1DIVwNfz6WI) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [星とそばかすとダイヤモンド](https://open.spotify.com/album/6MJ480ifwYsKORxlwEzyRJ) | 2:21 | 2024-12-10 |  |
+| [星とそばかすとダイヤモンド](https://open.spotify.com/track/7idoyOVZXUj1DIVwNfz6WI) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [星とそばかすとダイヤモンド](https://open.spotify.com/album/6MJ480ifwYsKORxlwEzyRJ) | 2:21 | 2024-12-10 | 2025-02-12 |
 | [星屑ドライブ](https://open.spotify.com/track/4fgzgL0aDWPZLaldU4CMOm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:38 | 2022-06-07 | 2022-07-29 |
 | [映画になれない僕たちへ](https://open.spotify.com/track/6MPxDfO1tGaV2FPuaoUn7r) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [映画になれない僕たちへ](https://open.spotify.com/album/7BeL3KsX2dtrpF5z2Gj1rC) | 3:53 | 2022-06-21 | 2022-06-23 |
 | [春](https://open.spotify.com/track/1iTpNmlgZudYmuMXzecDhT) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [春](https://open.spotify.com/album/3mjWj8hExllnbdvnz498qe) | 3:35 | 2023-03-30 | 2023-04-05 |

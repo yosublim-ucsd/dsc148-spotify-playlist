@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. El Alcalde está en la casa.
+> Aquí vive el hip\-hop mexicano\. <br/>Dharius está en la casa.
 
 637 songs - 1 day 13 hr 48 min
 

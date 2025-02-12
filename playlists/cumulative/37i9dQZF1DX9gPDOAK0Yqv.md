@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-670 songs - 2 day 4 hr 29 min
+671 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Day 8](https://open.spotify.com/track/2ufB9kXjLfaVV52ohLj0vl) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Day 8](https://open.spotify.com/album/2lnpD8ULVISTgydVLUBzTN) | 6:04 | 2023-08-04 | 2023-09-22 |
 | [Deeper For You](https://open.spotify.com/track/36i2NckUKCHdpJzrvgukx6) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Deeper For You](https://open.spotify.com/album/21gIttGR84SMDrgtYqoEiA) | 4:03 | 2024-06-06 | 2024-10-18 |
 | [Deeper Grounds](https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Mahri](https://open.spotify.com/artist/5aB4vV5H1O1zAoI4XLW7IX) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:13 | 2022-11-23 | 2023-11-16 |
+| [Deepest Blue](https://open.spotify.com/track/6RjVYitSJ7k37rIICRQCL7) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Deepest Blue](https://open.spotify.com/artist/4ncjEFfj7Zd2LPzd9LOVsY) | [Deepest Blue](https://open.spotify.com/album/1ZrvVVFctwgmxZLr4am9LM) | 2:40 | 2025-02-06 |  |
 | [Deja Vu](https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk) | [Deja Vu](https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP) | 7:28 | 2022-11-23 | 2022-12-16 |
 | [Delete Time](https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Delete Time](https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB) | 3:38 | 2024-01-26 | 2024-10-04 |
 | [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 | 2023-11-24 | 2023-12-01 |
@@ -580,7 +581,7 @@
 | [Thade](https://open.spotify.com/track/0wMOfxxAqGex1Mf0d4HyPO) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Thade](https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT) | 4:45 | 2023-10-20 | 2023-11-30 |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-01-12 |  |
 | [The Dark Sun](https://open.spotify.com/track/5PYCuH5qC1cUO7vhjw2yFh) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [The Dark Sun](https://open.spotify.com/album/7iwjcAiaiCmfdSqyKGjMGY) | 3:42 | 2023-10-06 | 2023-12-01 |
-| [The Drums](https://open.spotify.com/track/1oEJFi0JGHY9dyCdz4brDM) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [The Drums](https://open.spotify.com/album/3FOnVRyMplcbGQfYu6NcUp) | 4:14 | 2024-11-07 |  |
+| [The Drums](https://open.spotify.com/track/1oEJFi0JGHY9dyCdz4brDM) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [The Drums](https://open.spotify.com/album/3FOnVRyMplcbGQfYu6NcUp) | 4:14 | 2024-11-07 | 2025-02-12 |
 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 | 2023-08-04 | 2023-09-25 |
 | [The Edge](https://open.spotify.com/track/4cKZUOfF3nXZisEZ8EVJSw) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [The Edge](https://open.spotify.com/album/2cooPo4EPTTifPKXr2Buid) | 3:46 | 2023-06-02 | 2023-11-17 |
 | [The Fall](https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [The Fall](https://open.spotify.com/album/5cUjMv9cvwC2k0L52M9WMS) | 3:20 | 2025-01-09 |  |

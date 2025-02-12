@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22564,
+  "num_followers": 22566,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJXTFWnqZjLk2lacL+0GehVZUCAzen",
+  "snapshot_id": "AAAJYYLT34giryunBhct0HoXQLEsr6rd",
   "tracks": [
     {
       "added_at": "2024-11-18 14:07:05",
@@ -4239,6 +4239,70 @@
       "duration_ms": 151384,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2fxHu4Nfnt1Htt3Epsd5DY"
+    },
+    {
+      "added_at": "2025-02-11 08:26:01",
+      "album": {
+        "name": "Do You Like Bass",
+        "url": "https://open.spotify.com/album/2lRA75Hg0UKAgnlxlOWOOS"
+      },
+      "artists": [
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Do You Like Bass",
+      "url": "https://open.spotify.com/track/3EExBiYU4a17gM6AusPgiT"
+    },
+    {
+      "added_at": "2025-02-11 08:26:40",
+      "album": {
+        "name": "Xtreme BS",
+        "url": "https://open.spotify.com/album/6ijxSQ6IzecdFVWVrMnzIm"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Xtreme BS",
+      "url": "https://open.spotify.com/track/1mNlgNvahC1uZRwhPXxM3y"
+    },
+    {
+      "added_at": "2025-02-11 08:28:35",
+      "album": {
+        "name": "Whispers EP",
+        "url": "https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"
+    },
+    {
+      "added_at": "2025-02-11 10:22:39",
+      "album": {
+        "name": "Pretty Boy Swag",
+        "url": "https://open.spotify.com/album/3QSn7hwDS4MqBWhozhHcyN"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        }
+      ],
+      "duration_ms": 197812,
+      "name": "Pretty Boy Swag",
+      "url": "https://open.spotify.com/track/0OogJrrV5p5otqQe1pQOBb"
     }
   ],
   "unique_name": "Malaa Selection ",

@@ -2627,6 +2627,28 @@
     },
     {
       "album": {
+        "name": "Irving Berlin's White Christmas (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/43HbWHgKPaSlr1wcU8ppa0"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Denman",
+          "url": "https://open.spotify.com/artist/60XxONbcXrwmgz0zFUsfP1"
+        },
+        {
+          "name": "Meredith Patterson",
+          "url": "https://open.spotify.com/artist/4lj78Zo811riLjFwTL2n4P"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387813,
+      "name": "I Love a Piano",
+      "url": "https://open.spotify.com/track/5gUM0eqO9EGt5pqzuV6d8c"
+    },
+    {
+      "album": {
         "name": "Judy Garland: Recordings from the M-G-M Films (Motion Picture Soundtrack Anthology)",
         "url": "https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh"
       },
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 122213,
       "name": "I Love a Piano (from \"Easter Parade\") - 2022 Remaster",
       "url": "https://open.spotify.com/track/5ZgMeltueybl7epMZmg9NK"

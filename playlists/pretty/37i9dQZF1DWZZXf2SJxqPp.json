@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 142855,
+  "num_followers": 142881,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
-      "added_at": "2024-06-26 18:40:57",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
-    },
-    {
       "added_at": "2024-08-16 15:21:45",
       "album": {
         "name": "Que Bien Te Queda El Caribe",
@@ -819,6 +803,22 @@
       "duration_ms": 176640,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb"
+    },
+    {
+      "added_at": "2024-06-26 18:40:57",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2023-10-24 02:02:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 170869,
       "name": "Sola",
       "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
+        "name": "Lindstrom & Prins Thomas",
+        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
       "artists": [
         {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
         }
       ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
+      "duration_ms": 229386,
+      "name": "Boney M Down",
+      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1295,38 +1299,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lindstrom & Prins Thomas",
-        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
       "artists": [
         {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+          "name": "Tab\u00fa",
+          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
         }
       ],
-      "duration_ms": 229386,
-      "name": "Boney M Down",
-      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+      "duration_ms": 220038,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1343,6 +1327,22 @@
       "duration_ms": 229581,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 451362,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2024-07-09 06:43:32",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Une Beat Encore",
+        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 196900,
+      "name": "Une Beat Encore",
+      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Juice (Breakbot Mix)",
         "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Une Beat Encore",
-        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "Une Beat Encore",
-      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Station Romance",
         "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
+      },
+      "artists": [
+        {
+          "name": "Nathan Behrens",
+          "url": "https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc"
+        }
+      ],
+      "duration_ms": 208446,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Don't Stop Me Now",
-        "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
+        "name": "Looking for the Sea",
+        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
       },
       "artists": [
         {
-          "name": "Nathan Behrens",
-          "url": "https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc"
+          "name": "Pupkulies & Rebecca",
+          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
         }
       ],
-      "duration_ms": 208446,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
+      "duration_ms": 213133,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1771,34 +1787,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Looking for the Sea",
-        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
+        "name": "Souda Bay",
+        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
       },
       "artists": [
         {
-          "name": "Pupkulies & Rebecca",
-          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
+          "name": "DJ Telefkas",
+          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
-    },
-    {
-      "added_at": "2024-07-01 18:08:26",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+      "duration_ms": 210509,
+      "name": "Souda Bay",
+      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Souda Bay",
-        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
-      },
-      "artists": [
-        {
-          "name": "DJ Telefkas",
-          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
-        }
-      ],
-      "duration_ms": 210509,
-      "name": "Souda Bay",
-      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "A bite of papaya",
         "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+    },
+    {
+      "added_at": "2024-07-01 18:08:26",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Knock2
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,447 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,456 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 84 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
 | 85 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 86 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
-| 87 | [Donnie Brasco](https://open.spotify.com/track/7uYk4QW83Z82TcTURR1Y8r) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx) | [Donnie Brasco](https://open.spotify.com/album/7AJ34nT0oED3Y3gUHGAwMN) | 3:02 |
-| 88 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 87 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 88 | [Donnie Brasco](https://open.spotify.com/track/7uYk4QW83Z82TcTURR1Y8r) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx) | [Donnie Brasco](https://open.spotify.com/album/7AJ34nT0oED3Y3gUHGAwMN) | 3:02 |
 | 89 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
 | 90 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 |
 | 91 | [GO OFF!](https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Harvey](https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5) | [GO OFF!](https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI) | 2:53 |
-| 92 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
-| 93 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
+| 92 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
+| 93 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
 | 94 | [Set Me Free](https://open.spotify.com/track/1pSVHYdn6KP0ZNqD6hqtV9) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Set Me Free](https://open.spotify.com/album/6NO1HcyAGwBtGf4AOAlxtB) | 3:31 |
 | 95 | [ARE WE HAVING FUN OR WHAT?](https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [ARE WE HAVING FUN OR WHAT?](https://open.spotify.com/album/4O4RcK8tOjhR5hC4XqbIkq) | 2:27 |
-| 96 | [Ghost Of You](https://open.spotify.com/track/3QYE80UFrZZhIsm2998VdF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Ghost Of You](https://open.spotify.com/album/1yhaid7FwnQJY1G21kB8JH) | 3:53 |
-| 97 | [WE RUN THIS](https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [WE RUN THIS](https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6) | 3:14 |
-| 98 | [Still In Love](https://open.spotify.com/track/7zB0Rfnc9u7Cx0xJAWK6Po) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Still In Love](https://open.spotify.com/album/6hQeO7qGSyDTcI1mBbqSqy) | 3:36 |
-| 99 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 |
+| 96 | [WE RUN THIS](https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [WE RUN THIS](https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6) | 3:14 |
+| 97 | [Ghost Of You](https://open.spotify.com/track/3QYE80UFrZZhIsm2998VdF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Ghost Of You](https://open.spotify.com/album/1yhaid7FwnQJY1G21kB8JH) | 3:53 |
+| 98 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 |
+| 99 | [Still In Love](https://open.spotify.com/track/7zB0Rfnc9u7Cx0xJAWK6Po) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Still In Love](https://open.spotify.com/album/6hQeO7qGSyDTcI1mBbqSqy) | 3:36 |
 | 100 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 |
 
 Snapshot ID: `Z6Y+3wAAAABbDEzW2hhLQ5aGOOzcVM3k`

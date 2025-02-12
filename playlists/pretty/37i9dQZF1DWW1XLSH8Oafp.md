@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,595 likes - 150 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,576 likes - 150 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 3 | [Number One](https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Number One](https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq) | 2:54 |
 | 4 | [Last Time Under Purple Skies](https://open.spotify.com/track/1JYACIHJjFOUzOnbxUBmLm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Last Time Under Purple Skies](https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr) | 3:21 |
 | 5 | [hello?](https://open.spotify.com/track/6EcwFyzW49XlOmmhWfy00D) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [hello?](https://open.spotify.com/album/3QJ346KqNTPRSiSazjqQh4) | 5:12 |
-| 6 | [Lonely Boy \- Radio Edit](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy \(Radio Edit\)](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 |
+| 6 | [Lonely Boy](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 |
 | 7 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 |
 | 8 | [CAVE \- Partiboi69 & X CLUB\. Remix](https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [CAVE \(Partiboi69 & X CLUB\. Remix\)](https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT) | 3:11 |
 | 9 | [Sirens](https://open.spotify.com/track/0C5yZEXslHsoIQ3BWijgOQ) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Sirens](https://open.spotify.com/album/7vR5vnHZE0Zx6CqDDZEJ9P) | 2:43 |

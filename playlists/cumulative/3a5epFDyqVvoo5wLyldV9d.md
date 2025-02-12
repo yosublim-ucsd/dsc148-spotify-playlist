@@ -4,7 +4,7 @@
 
 > 
 
-824 songs - 2 day 16 hr 52 min
+825 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Gate Crash](https://open.spotify.com/track/2DJpule67eaYaBBMlRhkxP) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:33 | 2024-10-05 |  |
 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 | 2021-09-19 |  |
 | [Gentes e Coisas da Bahía \- Remasterizado](https://open.spotify.com/track/7FUMWDwiJGs2Qo1HLE1bQa) | [Jayme Marques](https://open.spotify.com/artist/35jsvUlsZ3Oc0YJZcCB6pB) | [Stop \(Remasterizado\)](https://open.spotify.com/album/6bnzQkwt2p8F2HcLBRuehQ) | 3:12 | 2024-04-11 |  |
+| [Gida](https://open.spotify.com/track/1uUZTWF47NosyvgFDxFn4h) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:13 | 2025-02-11 |  |
 | [Gnosienne No.1](https://open.spotify.com/track/5QNaj0xZ9ZbcIj83I4vp9w) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:33 | 2023-08-22 |  |
 | [Gobonimada Jira \(Choose Freedom\)](https://open.spotify.com/track/0GgZJLln5NAOBRQRcU9un7) | [Bakaka Band](https://open.spotify.com/artist/4zQIdNTR6Ww7t3ZRGkHbh0) | [MOGADISCO: Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No\. 29\]](https://open.spotify.com/album/5cWYZYmpjExnWYKV64XXpL) | 8:33 | 2024-07-02 |  |
 | [Gobonimada Jira \- Choose Freedom](https://open.spotify.com/track/4V1DhVYoQrmYrTjsVdIxXX) | [Bakaka Band](https://open.spotify.com/artist/7MVSMWEBtBo7oTu9DZPpCJ) | [Mogadisco \- Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No.29\]](https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7) | 8:33 | 2021-08-06 |  |

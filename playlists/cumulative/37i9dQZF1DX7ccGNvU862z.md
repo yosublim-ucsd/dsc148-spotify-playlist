@@ -4,7 +4,7 @@
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Hunsick
 
-560 songs - 1 day 7 hr 1 min
+561 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [ขอแค่ฝัน](https://open.spotify.com/track/07Z8ao9yf1SrqJ0Q9P7pNG) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [ขอแค่ฝัน](https://open.spotify.com/album/5SUp1csVZEHZoQI0J3MbG9) | 3:19 | 2024-11-01 | 2024-12-21 |
 | [ขอให้หน้าหนาวนานกว่าทุกปี](https://open.spotify.com/track/1cmRYKzm5o2zNCPVF4uUgH) | [FATBOII MQT](https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O), [6ixTown](https://open.spotify.com/artist/0lCaTo3lfbUrBQ6VwjR0Ia) | [ขอให้หน้าหนาวนานกว่าทุกปี](https://open.spotify.com/album/5gN0ZWCVvHq0Tp3argt8rX) | 2:51 | 2024-11-07 | 2024-11-29 |
 | [ข้าวสาร](https://open.spotify.com/track/699wAn4tt0TBvrnkKDPkSe) | [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [PARTY CRAWLER](https://open.spotify.com/album/4fPZIqy8VCHZZ06HbDxZXV) | 4:45 | 2024-10-25 | 2024-11-17 |
-| [คนขี้ลืม](https://open.spotify.com/track/2JsJp342QRfnwL4fhUJCLk) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [คนขี้ลืม](https://open.spotify.com/album/6d7qXb9gqrXqNVsBsL4I4J) | 2:48 | 2025-01-24 |  |
+| [คนขี้ลืม](https://open.spotify.com/track/2JsJp342QRfnwL4fhUJCLk) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [คนขี้ลืม](https://open.spotify.com/album/6d7qXb9gqrXqNVsBsL4I4J) | 2:48 | 2025-01-24 | 2025-02-12 |
 | [คนขี้เหงา](https://open.spotify.com/track/37NcyXIUvlWIKxhhUcgvmg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:16 | 2023-11-10 | 2023-11-18 |
 | [คนธรรมดา](https://open.spotify.com/track/7gwKhq0BTlVGaWocueITl1) | [HK](https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu) | [คนธรรมดา](https://open.spotify.com/album/034SKmgQtZNjlsudb92eTe) | 3:35 | 2024-11-28 | 2024-12-14 |
 | [คนนี้คนไทย](https://open.spotify.com/track/0xp7vJLKACGOeylH0WY76e) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [คนนี้คนไทย](https://open.spotify.com/album/6nAN5ft4FoGDcnNRn2Plgn) | 2:48 | 2023-09-29 | 2023-10-13 |
@@ -356,6 +356,7 @@
 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 | 2024-03-29 |  |
 | [ธรรมดา](https://open.spotify.com/track/7vZFov5R0OZVG9gtDUCJsr) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [ธรรมดา](https://open.spotify.com/album/19sSaygLiCBg0PbUxmnwSj) | 3:08 | 2023-09-22 | 2024-04-07 |
 | [ธรรมดา](https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ธรรมดา](https://open.spotify.com/album/0otHGYvDt2h177Iw4OvDmK) | 2:24 | 2024-04-26 | 2024-05-04 |
+| [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 | 2025-02-11 |  |
 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 | 2023-09-22 | 2024-03-30 |
 | [นางคนงาม](https://open.spotify.com/track/1G6uMKUOJNNqqKnxqMpEVX) | [Ptrp Studio](https://open.spotify.com/artist/1zUaU29NK5rZxdJoDdGaTM) | [นางคนงาม](https://open.spotify.com/album/1DPT2gOfuqt3S6sqi8axGP) | 2:32 | 2024-02-23 | 2024-03-02 |
 | [นานเท่าไหร่](https://open.spotify.com/track/0WzFWJ4P02zV5spmVwho6M) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [นานเท่าไหร่](https://open.spotify.com/album/2xj5RVSIRpFKjLy7EfaMP2) | 3:07 | 2024-12-27 | 2025-01-17 |

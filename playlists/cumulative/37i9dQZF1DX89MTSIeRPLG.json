@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 143772,
       "name": "Florida Nights",
       "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
@@ -1242,6 +1242,32 @@
       "duration_ms": 257062,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM"
+    },
+    {
+      "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/0PgLy1qD6OoQo1r4pmawob"
+      },
+      "artists": [
+        {
+          "name": "Pacman da Gunman",
+          "url": "https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257062,
+      "name": "Zero Tolerance",
+      "url": "https://open.spotify.com/track/617jfrefuywyFVV2E5Skec"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX89MTSIeRPLG"

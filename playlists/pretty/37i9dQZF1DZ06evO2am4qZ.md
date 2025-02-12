@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,719 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,722 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 18 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 |
 | 19 | [Awesome \(feat\. Baby Tate\)](https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Awesome \(feat\. Baby Tate\)](https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6) | 2:25 |
 | 20 | [Aura \(feat\. Baby Tate\)](https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hello Stranger](https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR) | 3:00 |
-| 21 | [Poof Be Gone \(with Yung Baby Tate & Yvette and feat\. Cheerlebridee\)](https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W) | [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Yvette](https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV), [Cheerlebridee](https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj) | [Poof Be Gone](https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P) | 1:52 |
-| 22 | [Straight](https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:37 |
+| 21 | [Super Sick](https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:06 |
+| 22 | [Poof Be Gone \(with Yung Baby Tate & Yvette and feat\. Cheerlebridee\)](https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W) | [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Yvette](https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV), [Cheerlebridee](https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj) | [Poof Be Gone](https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P) | 1:52 |
 | 23 | [A Ballad for Homegirls \(feat\. Baby Tate\)](https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 4:22 |
 | 24 | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN) | 2:41 |
-| 25 | [Perfect](https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:52 |
-| 26 | [Super Sick](https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:06 |
+| 25 | [Straight](https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:37 |
+| 26 | [Perfect](https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:52 |
 | 27 | [Come First](https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [While You Wait](https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL) | 3:28 |
 | 28 | [Bitches luv Kunt](https://open.spotify.com/track/79dFiwDYTb0w5xq0TWxaQl) | [Fetish](https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [KLUBFETISH](https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s) | 2:46 |
 | 29 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 |
 | 50 | [Wig](https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 
-Snapshot ID: `Z6fwAAAAAABbkNnWT+Gs+xInQ8FThvSn`
+Snapshot ID: `Z6lBgAAAAAD66b29WDnQDdhHWRkarP05`

@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Every Day, Every Night",
+        "url": "https://open.spotify.com/album/6WkIhj0kzLpUkTStXx3KLK"
+      },
+      "artists": [
+        {
+          "name": "SCENE",
+          "url": "https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177791,
+      "name": "Dawn Dawn",
+      "url": "https://open.spotify.com/track/6TK9YzaUfHyIeZut3tarH7"
+    },
+    {
+      "album": {
         "name": "DEAR A.I",
         "url": "https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy"
       },

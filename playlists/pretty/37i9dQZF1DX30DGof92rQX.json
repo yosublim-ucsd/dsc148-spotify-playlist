@@ -1,15 +1,67 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Sethi",
-  "num_followers": 11337,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Hamza Malik",
+  "num_followers": 11350,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5wupgAAAAB/IOYwqFUJugigNEoFkhAa",
+  "snapshot_id": "Z6sefgAAAAAlDCHjm0uGusiMu6PsI+pV",
   "tracks": [
     {
-      "added_at": "2025-01-31 02:00:06",
+      "added_at": "2025-02-11 09:55:10",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        }
+      ],
+      "duration_ms": 177567,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v"
+    },
+    {
+      "added_at": "2025-02-11 09:55:10",
+      "album": {
+        "name": "Mumtaaz",
+        "url": "https://open.spotify.com/album/68UHkfoFPcC5MvJVcpeBIt"
+      },
+      "artists": [
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "duration_ms": 211199,
+      "name": "Mumtaaz",
+      "url": "https://open.spotify.com/track/5K31v6y0QwaeRRABsCr84R"
+    },
+    {
+      "added_at": "2025-02-11 09:55:10",
+      "album": {
+        "name": "Jaaye",
+        "url": "https://open.spotify.com/album/1Gx6bD9vE3Qpu4tCYdyjUg"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Jaaye",
+      "url": "https://open.spotify.com/track/0FuAxpzSZdZJApouX4EbjI"
+    },
+    {
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Channa",
         "url": "https://open.spotify.com/album/2m2aMdLgZ9rsin4X22kB9t"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Tera Sitam",
         "url": "https://open.spotify.com/album/3ieqYELu9knanocw6Imss1"
@@ -41,7 +93,7 @@
       "url": "https://open.spotify.com/track/1UyhqrZDszzecXWdJL9O03"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
@@ -65,7 +117,7 @@
       "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Lost Path",
         "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
@@ -89,7 +141,7 @@
       "url": "https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Radha",
         "url": "https://open.spotify.com/album/7Jay27dyjhNA07vWwtjCoJ"
@@ -109,7 +161,7 @@
       "url": "https://open.spotify.com/track/0oOVxu88I7Bj9jjDnXVRus"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Aadhey Adhoorey",
         "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
@@ -129,7 +181,7 @@
       "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
     },
     {
-      "added_at": "2025-01-31 02:00:06",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Talab",
         "url": "https://open.spotify.com/album/04qzeXBHxIyEJcTdDSK9LQ"
@@ -145,7 +197,63 @@
       "url": "https://open.spotify.com/track/7trCcRZrkFLQOdb9JO4vS3"
     },
     {
-      "added_at": "2025-01-31 02:00:06",
+      "added_at": "2025-02-11 09:55:10",
+      "album": {
+        "name": "Mila De Rabba",
+        "url": "https://open.spotify.com/album/6PhoqHbTkMwqbHuV9f9HzE"
+      },
+      "artists": [
+        {
+          "name": "Zara Madani",
+          "url": "https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Mila De Rabba",
+      "url": "https://open.spotify.com/track/3Qd3AODeibjyNmzhxpA94A"
+    },
+    {
+      "added_at": "2025-02-11 09:55:10",
+      "album": {
+        "name": "Bewafaiyan",
+        "url": "https://open.spotify.com/album/46rDHnX0JJtCjSQUdKawZs"
+      },
+      "artists": [
+        {
+          "name": "Sibtain Khalid",
+          "url": "https://open.spotify.com/artist/7sxhygBRCeAFZhk8x2xbgx"
+        },
+        {
+          "name": "Roshaan",
+          "url": "https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "Bewafaiyan",
+      "url": "https://open.spotify.com/track/2Fa31c37FNbaOiPxMmqDgh"
+    },
+    {
+      "added_at": "2025-02-11 09:55:10",
+      "album": {
+        "name": "Aankhein Teri",
+        "url": "https://open.spotify.com/album/0jQZywtGYVceym5gkuoK0R"
+      },
+      "artists": [
+        {
+          "name": "Falak Shabbir",
+          "url": "https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM"
+        },
+        {
+          "name": "Saad Sultan",
+          "url": "https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3"
+        }
+      ],
+      "duration_ms": 196981,
+      "name": "Aankhein Teri",
+      "url": "https://open.spotify.com/track/1OSEjH6I0K2DUUj5mUJXXI"
+    },
+    {
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Heer",
         "url": "https://open.spotify.com/album/27XIdXAZ9IJ9UGqVjJzOcm"
@@ -169,7 +277,7 @@
       "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Mere Sapnay",
         "url": "https://open.spotify.com/album/24gvWjyOYyKtwu6o8YxfpZ"
@@ -189,7 +297,7 @@
       "url": "https://open.spotify.com/track/1GwqyIU5GPdFIY5VJDk0eD"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Bhool",
         "url": "https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9"
@@ -205,7 +313,7 @@
       "url": "https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Peeran",
         "url": "https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L"
@@ -221,7 +329,7 @@
       "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "TUM",
         "url": "https://open.spotify.com/album/41Uv32fOQN5vgX8ehDzp7K"
@@ -241,7 +349,7 @@
       "url": "https://open.spotify.com/track/3wpz9ZDyrSH3EdGjOV94lP"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Naqaab",
         "url": "https://open.spotify.com/album/5ULV6AgbJSK5fy7NjBAUfE"
@@ -269,7 +377,7 @@
       "url": "https://open.spotify.com/track/5U8vnomI00iJDCN3Gm6Fhh"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Hum Tum",
         "url": "https://open.spotify.com/album/42Fox5coqRxdf9H5QSMCrl"
@@ -289,7 +397,7 @@
       "url": "https://open.spotify.com/track/4ETUS1BAxTSO0Gn249PsY6"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Haal",
         "url": "https://open.spotify.com/album/35XPrhJtEiQzb9kM3gHsfo"
@@ -305,7 +413,7 @@
       "url": "https://open.spotify.com/track/5h2OHZjjp8lW29ySUaUnX6"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Lost Path",
         "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
@@ -329,7 +437,7 @@
       "url": "https://open.spotify.com/track/3LBq1FeFAVg45FKQ3Jw9SI"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "LV (Ja Re Ja)",
         "url": "https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW"
@@ -345,7 +453,7 @@
       "url": "https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Munda on the Rise",
         "url": "https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso"
@@ -369,7 +477,7 @@
       "url": "https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Umeedon Ki",
         "url": "https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH"
@@ -385,7 +493,7 @@
       "url": "https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Lovely Bukhaar",
         "url": "https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO"
@@ -401,7 +509,7 @@
       "url": "https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "ROOP",
         "url": "https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE"
@@ -421,7 +529,7 @@
       "url": "https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Nothing Over You",
         "url": "https://open.spotify.com/album/6YBCJyHUjZq9HJCrkvI8QJ"
@@ -441,7 +549,7 @@
       "url": "https://open.spotify.com/track/2LyfpsJ2y2HbDnTVGFnevY"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Lost Path",
         "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
@@ -469,7 +577,7 @@
       "url": "https://open.spotify.com/track/2Bq2c5qTMZHOLMNMOPwEEw"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Are you okay?",
         "url": "https://open.spotify.com/album/5t4TDgKqaJD7rkUsGQHCv7"
@@ -485,7 +593,7 @@
       "url": "https://open.spotify.com/track/6TTEZ1vo7Wu4JvajcaDgmH"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/5SranRWC0N3rm1Fft43DCz"
@@ -505,7 +613,7 @@
       "url": "https://open.spotify.com/track/6zVXNOehHZrjAej1xJyZon"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Yeh Zaroori To Nahi",
         "url": "https://open.spotify.com/album/4Fui5Dt6QoADO5xmJ9XoCz"
@@ -521,7 +629,7 @@
       "url": "https://open.spotify.com/track/0eHoUp23suG8EsaJf5qiuG"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Ali Wala",
         "url": "https://open.spotify.com/album/5WqsAsC5T7fGefbNmHIGX1"
@@ -537,7 +645,7 @@
       "url": "https://open.spotify.com/track/73cImIIgirQESvLqmeZ17I"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Lost Path",
         "url": "https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX"
@@ -561,7 +669,7 @@
       "url": "https://open.spotify.com/track/5H6EKQ9HCI3u7VH1EOxA7g"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Raah Takdi",
         "url": "https://open.spotify.com/album/7lJesMVBNI1BZKczi78l3T"
@@ -585,7 +693,7 @@
       "url": "https://open.spotify.com/track/4xL8p2LSUhrtxTiHmJPmeN"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Dil Leke",
         "url": "https://open.spotify.com/album/3qYRXCzoU0z3uJB0KCNezV"
@@ -601,7 +709,7 @@
       "url": "https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "ROOP",
         "url": "https://open.spotify.com/album/70Alq65Mojr6AVKafE3mOE"
@@ -621,7 +729,7 @@
       "url": "https://open.spotify.com/track/77vCk9lni7MVjwCGSW7MmO"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Maahi (Original)",
         "url": "https://open.spotify.com/album/2nfGLGl9NLsC5wpPIhPdyY"
@@ -637,7 +745,7 @@
       "url": "https://open.spotify.com/track/6boNCp6hK7sFP0BAyMJ4wn"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Shikwa",
         "url": "https://open.spotify.com/album/3imsHzCmDnT0B11GiynPNV"
@@ -653,7 +761,7 @@
       "url": "https://open.spotify.com/track/0LnvqnJoGJVX2nqpbQ6lzj"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "HPPY",
         "url": "https://open.spotify.com/album/4yHbESvSRx9MsNlSfzME1z"
@@ -677,7 +785,7 @@
       "url": "https://open.spotify.com/track/23v0PzHzkbddnDw43uaWFc"
     },
     {
-      "added_at": "2025-01-24 02:00:37",
+      "added_at": "2025-02-11 09:55:10",
       "album": {
         "name": "Tona (without Narration)",
         "url": "https://open.spotify.com/album/0hFRTgWOSlWTD8eBoxfPV5"

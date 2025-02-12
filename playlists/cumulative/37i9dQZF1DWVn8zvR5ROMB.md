@@ -2,9 +2,9 @@
 
 ### [All New Country](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
-> All of the newest country songs in one playlist! Featuring Jordan Davis, Old Dominion, Riley Green and more.
+> All of the newest country songs in one playlist! Featuring Zach Bryan, Jordan Davis, Old Dominion and more.
 
-8,917 songs - 20 day 8 hr 4 min
+8,918 songs - 20 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1839,6 +1839,7 @@
 | [Dear Life](https://open.spotify.com/track/6tlCs1MOqB8KML7KJqggZm) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Dear Life](https://open.spotify.com/album/5MyRxVJOCQTdWvqM333hxx) | 3:20 | 2024-06-21 | 2024-06-29 |
 | [Dear Mama](https://open.spotify.com/track/76xYzFH13Kobw09L1moout) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dear Mama](https://open.spotify.com/album/4T6g2QJtyZtrBg7wbLnDE0) | 3:33 | 2024-05-03 | 2024-05-11 |
 | [Dear Me](https://open.spotify.com/track/56sjFl3oyu6BvzPlWIqRwt) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Dear Me](https://open.spotify.com/album/7wbYgHs50un0LpnRh7EB0p) | 2:58 | 2023-09-29 | 2023-10-07 |
+| [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 | 2025-02-11 |  |
 | [Dear Mom](https://open.spotify.com/track/0BWKxn0kIrfZvDKcohpSXM) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Dear Mom](https://open.spotify.com/album/63ZTRBcS4b2a3XDqY1Oc3K) | 3:18 | 2022-05-06 | 2022-05-20 |
 | [Dear Mr Right](https://open.spotify.com/track/0lkzTgGoAnQt8KwMMO2dti) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Dear Mr Right](https://open.spotify.com/album/3oNvI0zgcKLQk5WyngpDGk) | 2:47 | 2022-10-21 | 2022-10-29 |
 | [Dear Next Guy](https://open.spotify.com/track/0z02CHsHFl1Gx0l6482Eww) | [Brian Congdon](https://open.spotify.com/artist/5NZAhByB3ioa0qOWDEoCmT) | [Dear Next Guy](https://open.spotify.com/album/44worcICpVnHSeNiaifJB7) | 3:43 | 2023-02-17 | 2023-02-25 |

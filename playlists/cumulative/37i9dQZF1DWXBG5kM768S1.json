@@ -3892,7 +3892,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 181413,
       "name": "Stille Vann",
       "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
@@ -4790,6 +4790,24 @@
       "duration_ms": 200861,
       "name": "V\u00e5rl\u00f8ysing",
       "url": "https://open.spotify.com/track/3NLVaTDstdmhc6rcE81flT"
+    },
+    {
+      "album": {
+        "name": "Ikke slipp",
+        "url": "https://open.spotify.com/album/23gnrE0ikN78Nc48WE14v8"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307106,
+      "name": "Woman in love",
+      "url": "https://open.spotify.com/track/40CgA3jCbSkL1JRXgKAVOX"
     },
     {
       "album": {

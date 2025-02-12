@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-02",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 179200,
       "name": "Ameli",
       "url": "https://open.spotify.com/track/17nSd6VAbcvsFxzRGTMpWn"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 164117,
       "name": "Diamond Tears",
       "url": "https://open.spotify.com/track/3u6ijAXDYG5QqqbWj4Kvf2"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 132727,
       "name": "DreamKeeperc",
       "url": "https://open.spotify.com/track/2hZcfgWVxNZ7Q8xVn6xo70"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -3226,6 +3226,24 @@
       "duration_ms": 137915,
       "name": "Not the same",
       "url": "https://open.spotify.com/track/6fc44ZlFFyTxX5FTMrpcIB"
+    },
+    {
+      "album": {
+        "name": "NOTHING",
+        "url": "https://open.spotify.com/album/5xHqtP68kHCrpkvGqOfw2E"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144864,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/6GEq7HOVs2YUTcgHlkAZwS"
     },
     {
       "album": {
@@ -4810,7 +4828,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 84000,
       "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
@@ -8184,7 +8202,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -9364,7 +9382,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 173080,
       "name": "\u0424\u043e\u043d\u0430\u0440\u0438",
       "url": "https://open.spotify.com/track/2K373m3ampRHhiR1x5NfBk"

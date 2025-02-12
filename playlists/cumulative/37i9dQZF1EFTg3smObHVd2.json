@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1vL7KWDVXbMncqdJQOImn7"
+      },
+      "artists": [
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388481,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/7lkwr08KZ3un9SKYNHZhf9"
+    },
+    {
+      "album": {
         "name": "Stick Shift",
         "url": "https://open.spotify.com/album/5KhDRsp04yfZxwmXvFihG4"
       },

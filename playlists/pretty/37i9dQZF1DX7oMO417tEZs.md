@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: Oklou
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,475 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,514 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 |
+| 1 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 2 | [Boy You Should Know!](https://open.spotify.com/track/4afDEFPQRzZWHFdAyiDCpb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop) | 3:45 |
 | 3 | [Putita Boutique](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 |
 | 4 | [Sickle Walk](https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Sickle Walk](https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7) | 1:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [M11](https://open.spotify.com/track/7AMy0mDYyaqnH6OkiU2i2z) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Not Real People DLC \(Expanded\)](https://open.spotify.com/album/4cD8iduplzt7jtWjMYLQkL) | 6:16 |
 | 100 | [Gospel of the Moon](https://open.spotify.com/track/14dXHf0aofwvHmyxy8SnnZ) | [JOBA](https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8) | [Russell Boring](https://open.spotify.com/album/21bY25auKXAQaZK6oZSe1J) | 4:58 |
 
-Snapshot ID: `Z6WTbwAAAADDaPtN6pFHCyooQjeLqr6B`
+Snapshot ID: `Z6t98gAAAADrrUtAmWIyREcvFJTGJNSo`

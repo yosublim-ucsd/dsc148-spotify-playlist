@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,570 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,957 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 |
-| 2 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 |
-| 3 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 |
-| 4 | [Big Daddy Jok](https://open.spotify.com/track/4rxkcSqMbOaoPIyofEUBZ8) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Big Daddy Jok](https://open.spotify.com/album/3wZd1qJ3yWNVDUiDPOgrMG) | 3:26 |
+| 2 | [Big Daddy Jok](https://open.spotify.com/track/4rxkcSqMbOaoPIyofEUBZ8) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Big Daddy Jok](https://open.spotify.com/album/3wZd1qJ3yWNVDUiDPOgrMG) | 3:26 |
+| 3 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 |
+| 4 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 |
 | 5 | [Alpha](https://open.spotify.com/track/2dVDbbS9W6n6YY80R4aJdZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Alpha](https://open.spotify.com/album/6UvEQv66MXQooh2lUDYiMw) | 2:48 |
-| 6 | [ILS ME RIENT TOUS AU NEZ](https://open.spotify.com/track/2oe4ERf40Mx8PWH9gtEfP0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:27 |
-| 7 | [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 |
-| 8 | [92i veyron](https://open.spotify.com/track/6Wpgf0xNuBIUpJF2uH7swL) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Nero nemesis](https://open.spotify.com/album/6yEGlMQ1AkXeDPERJTv2aN) | 3:37 |
-| 9 | [DIANA](https://open.spotify.com/track/6lGSvbcSYpjgfsCaUc7Djo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/7athqoshLvzm5ylV8mVzwb) | 2:19 |
-| 10 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 |
+| 6 | [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 |
+| 7 | [92i veyron](https://open.spotify.com/track/6Wpgf0xNuBIUpJF2uH7swL) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Nero nemesis](https://open.spotify.com/album/6yEGlMQ1AkXeDPERJTv2aN) | 3:37 |
+| 8 | [DIANA](https://open.spotify.com/track/6lGSvbcSYpjgfsCaUc7Djo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/7athqoshLvzm5ylV8mVzwb) | 2:19 |
+| 9 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 |
+| 10 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 11 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
 | 12 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |
 | 13 | [Ils se demandent](https://open.spotify.com/track/4Bqa1dZPJfHKRfUVRLsSW1) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/4q2sSOHQcDpVsZ7oFFGDaF) | 1:42 |
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 49 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 |
 | 50 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 |
 | 51 | [Solitaire](https://open.spotify.com/track/3F64F36D17vZ1KgI8vkHQf) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [Synkinisi](https://open.spotify.com/album/70FpaoDALiemmQYyx3X1z7) | 2:37 |
-| 52 | [PVI](https://open.spotify.com/track/2Af9ygUYruwW91ReBXTuAQ) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [NYXIA\. Tome III](https://open.spotify.com/album/78El4EUFv2mcpDW13FIROl) | 3:54 |
-| 53 | [Couleur Nejau](https://open.spotify.com/track/7wq3NSOud2yhfUxlhKjeyG) | [S2](https://open.spotify.com/artist/60HWrpmSefhtMWCkghazzG) | [Couleur Nejau](https://open.spotify.com/album/39M2E6rDGajci1Gg3JYx4g) | 1:47 |
-| 54 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
-| 55 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 |
-| 56 | [Heureuse](https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5) | [Redzol](https://open.spotify.com/artist/5lZC2NXIJuvgOAGOBonrVE), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Heureuse](https://open.spotify.com/album/0Eij08j7BLHHdOTL9E1Inc) | 2:45 |
-| 57 | [Sigma Boy \- Сигма Бой](https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK), [Мария Янковская](https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA) | [Sigma Boy \(Сигма Бой\)](https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH) | 2:14 |
+| 52 | [ILS ME RIENT TOUS AU NEZ](https://open.spotify.com/track/2oe4ERf40Mx8PWH9gtEfP0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:27 |
+| 53 | [PVI](https://open.spotify.com/track/2Af9ygUYruwW91ReBXTuAQ) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [NYXIA\. Tome III](https://open.spotify.com/album/78El4EUFv2mcpDW13FIROl) | 3:54 |
+| 54 | [Couleur Nejau](https://open.spotify.com/track/7wq3NSOud2yhfUxlhKjeyG) | [S2](https://open.spotify.com/artist/60HWrpmSefhtMWCkghazzG) | [Couleur Nejau](https://open.spotify.com/album/39M2E6rDGajci1Gg3JYx4g) | 1:47 |
+| 55 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
+| 56 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 |
+| 57 | [Heureuse](https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5) | [Redzol](https://open.spotify.com/artist/5lZC2NXIJuvgOAGOBonrVE), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Heureuse](https://open.spotify.com/album/0Eij08j7BLHHdOTL9E1Inc) | 2:45 |
 | 58 | [Papy \(Freestyle\)](https://open.spotify.com/track/4fVDOioSi6n86JRPmiFvdx) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg) | [Papy \(Freestyle\)](https://open.spotify.com/album/1Sg6ZcfKv8DyRQPRLaUwca) | 2:16 |
 | 59 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
 | 60 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Seuls dans ta chambre](https://open.spotify.com/track/1tadLcRwtibDfcDr5oICdk) | [Maxence](https://open.spotify.com/artist/6WK6ZRBhoIRXA8xkAvhMKv) | [Comme un enfant](https://open.spotify.com/album/5oNqamIfsePGgS6iXyvk9u) | 3:44 |
 | 90 | [Living Legend](https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:01 |
 
-Snapshot ID: `Z5ziCwAAAACoeEP2s/dgR2Rmp13RvUqE`
+Snapshot ID: `Z6ta6AAAAACtl0OvuDVnRjP7hLoSS4Zp`

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 139494,
+  "num_followers": 139607,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-01-16 17:00:16",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2025-01-16 17:00:16",
-      "album": {
         "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
         "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2025-01-16 17:00:16",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2025-01-16 17:00:16",
@@ -731,38 +731,6 @@
     {
       "added_at": "2025-01-16 17:00:16",
       "album": {
-        "name": "Sesuatu Yang Tertunda",
-        "url": "https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1"
-      },
-      "artists": [
-        {
-          "name": "Padi",
-          "url": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
-        }
-      ],
-      "duration_ms": 293320,
-      "name": "Kasih Tak Sampai",
-      "url": "https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5"
-    },
-    {
-      "added_at": "2025-01-16 17:00:16",
-      "album": {
-        "name": "Pupus / Risalah Hati",
-        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 301824,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
-    },
-    {
-      "added_at": "2025-01-16 17:00:16",
-      "album": {
         "name": "Angin Kencang",
         "url": "https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 237243,
       "name": "Angin Kencang",
       "url": "https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl"
+    },
+    {
+      "added_at": "2025-01-16 17:00:16",
+      "album": {
+        "name": "Sesuatu Yang Tertunda",
+        "url": "https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
+        }
+      ],
+      "duration_ms": 293320,
+      "name": "Kasih Tak Sampai",
+      "url": "https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5"
     },
     {
       "added_at": "2025-01-16 17:00:16",
@@ -839,6 +823,22 @@
       "duration_ms": 179841,
       "name": "Tak Dianggap",
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
+    },
+    {
+      "added_at": "2025-01-16 17:00:16",
+      "album": {
+        "name": "Pupus / Risalah Hati",
+        "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 301824,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
     }
   ],
   "unique_name": "galau rabak",

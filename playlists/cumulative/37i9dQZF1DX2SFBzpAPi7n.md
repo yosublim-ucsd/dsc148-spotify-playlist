@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can’t be blue \(캔트비블루\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-860 songs - 2 day 4 hr 23 min
+862 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [BULLY](https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1) | [ABTB](https://open.spotify.com/artist/4xS1C9pM9EoHEM1Gxxzf4m) | [iii](https://open.spotify.com/album/2gv803EGREwibN37uQk2Em) | 3:46 | 2022-11-09 | 2022-12-13 |
 | [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 | 2022-10-02 | 2022-10-19 |
 | [BURN IT](https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [BURN IT](https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ) | 2:47 | 2024-06-27 | 2024-07-25 |
+| [Burn It Down](https://open.spotify.com/track/3Y1IAppsgZTMz7Zuz4RjaL) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Friendly Rivalry \(Music from the U+ Original Series\), Pt.1](https://open.spotify.com/album/55GAJiDrO0gyczbrjxmajO) | 3:33 | 2025-02-11 |  |
 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 | 2024-04-30 | 2024-07-04 |
 | [Butterfly](https://open.spotify.com/track/7kAs2Dw6ymVkriLrbjtGDD) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [CASTAWAY DIVA OST Part.2](https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix) | 4:07 | 2023-11-23 | 2023-12-30 |
 | [Butterfly Effect](https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 3:26 | 2022-04-12 | 2022-07-29 |
@@ -306,6 +307,7 @@
 | [HIGHTEEN MOVIE \(feat\. Owen\)](https://open.spotify.com/track/4aZXG0TSetEpCgBtd1IElf) | [TRICKY](https://open.spotify.com/artist/0YoNqRwXw0WlR0pIKujBua), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [HIGHTEEN MOVIE](https://open.spotify.com/album/1yOWQFOvjS7ndkiCLPDnIS) | 2:51 | 2022-08-18 | 2022-09-06 |
 | [Highway](https://open.spotify.com/track/6g90q5OxuYT6FY5POVLbII) | [Boyz\_moon](https://open.spotify.com/artist/5aAxIm2TceztaZpbQnrxtB) | [22.5 Night&Day](https://open.spotify.com/album/4GurrYb465ebuulUNrGOP4) | 3:10 | 2022-04-22 | 2022-05-12 |
 | [Highway](https://open.spotify.com/track/3HuvkpFoG2ZjIbJ5l7XDYW) | [Macguffin](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [Highway](https://open.spotify.com/album/2KDtUanUM8jVd9jeIzYZGk) | 4:14 | 2022-04-12 | 2022-07-29 |
+| [Highway Drive](https://open.spotify.com/track/2hSZMOhx9OlNjVtTyEtxJd) | [NEKIRU](https://open.spotify.com/artist/64Qq6Sd2V4cRGNQV2xUjOC) | [Highway Drive](https://open.spotify.com/album/7p97vh6lADgQuYDB28nZDK) | 3:40 | 2025-02-11 |  |
 | [HOLA!](https://open.spotify.com/track/677NB7UXGFoXMn2Nlk5yS6) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HOLA!](https://open.spotify.com/album/3hV4UVXS8ijrebLmwFKvo6) | 3:13 | 2022-05-03 | 2022-07-15 |
 | [Hold Me Like It’s Forever](https://open.spotify.com/track/6QZJTunvjAU44kpXzDNXzn) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3), [Car](https://open.spotify.com/artist/4IwZDPPzFIVVN2DSVudIZO), [The Garden](https://open.spotify.com/artist/60OalAUIgelvXUGPkrFm6O) | [Midnight Candy](https://open.spotify.com/album/6jU28TIxDs4HEkaJ4ea2zO) | 3:03 | 2022-05-11 | 2022-05-17 |
 | [Hollywood Dreaming](https://open.spotify.com/track/0FZsFe8LMDz2i5bywe6KPU) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1), [MKPBand](https://open.spotify.com/artist/7EvDe1CLV4Mydlm0rOpWS2) | [Hollywood Dreaming](https://open.spotify.com/album/7wK5BDnTw9pj7h1QNERdeN) | 3:01 | 2022-06-03 | 2022-06-06 |
@@ -494,7 +496,7 @@
 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 | 2024-05-09 | 2024-11-07 |
 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-04-09 | 2024-05-10 |
 | [No Parking](https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [No Parking](https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W) | 4:17 | 2024-12-18 |  |
-| [No Sad Christmas](https://open.spotify.com/track/0rYnCUmYBrLJAic7vG4flh) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [No Sad Christmas](https://open.spotify.com/album/1nzBncWAkOUCXML9Ae4kHX) | 4:06 | 2024-12-13 |  |
+| [No Sad Christmas](https://open.spotify.com/track/0rYnCUmYBrLJAic7vG4flh) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [No Sad Christmas](https://open.spotify.com/album/1nzBncWAkOUCXML9Ae4kHX) | 4:06 | 2024-12-13 | 2025-02-12 |
 | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/track/2puhFUzrx1DjRJN7guhQoe) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/album/1vVPwJYmieA4IgrddBOCcQ) | 3:50 | 2022-04-22 | 2022-04-26 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 | 2022-09-13 | 2022-10-01 |
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
@@ -625,7 +627,7 @@
 | [Screen](https://open.spotify.com/track/1wLv73icHBnWJ8LgxMx5WN) | [Goat](https://open.spotify.com/artist/1f8OrSiIMAkvBfrStI8bRd) | [Fade out](https://open.spotify.com/album/08bVdRiFhfs9yzaNZwOYax) | 3:47 | 2022-04-22 | 2022-07-27 |
 | [Secret Diary](https://open.spotify.com/track/495QLv4XTKlMgcfKXmyuwZ) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:41 | 2024-02-22 | 2024-03-28 |
 | [Seems Like I Like You](https://open.spotify.com/track/4K76C8cUPv12U81amSZ6lC) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [Motel California OST Part.9](https://open.spotify.com/album/4qvELrEZOBSLTtGk39Sc0c) | 2:56 | 2025-02-10 |  |
-| [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-13 |  |
+| [SEMICOLON](https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [SEMICOLON](https://open.spotify.com/album/6o04cBEAl6iWnNRYxCnQO3) | 4:00 | 2024-12-13 | 2025-02-12 |
 | [sensitive flower](https://open.spotify.com/track/5mAir6o7gS8l66Bojwnxkx) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [sensitive flower](https://open.spotify.com/album/7jIBfI4yc5Lk86pnARbF2J) | 3:52 | 2022-04-22 | 2022-04-29 |
 | [SEOUL GIRL ♪ \(feat\. Lee Sung woo\)](https://open.spotify.com/track/5Nl1GOCTsOvGUKYW0DiA8Y) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Lee Sung Woo](https://open.spotify.com/artist/3nqqXiolhMec9F0aC9Bh5J) | [SEOUL GIRL ♪](https://open.spotify.com/album/63Xonf4RTjx10J1t6KhjCh) | 3:07 | 2024-04-30 | 2024-05-10 |
 | [Sewer](https://open.spotify.com/track/5GRNf3MJ6uXAIwCapVMAJW) | [Seoyul](https://open.spotify.com/artist/38JkWE7udt33BlClPEOU6Z) | [Sewer](https://open.spotify.com/album/7tcEK9skePgz09OySRCAUL) | 4:02 | 2024-11-06 | 2024-11-30 |

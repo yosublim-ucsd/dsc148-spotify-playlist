@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Feb 23:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Feb 04:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 144915,
       "name": "Breathe In, Breathe Out",
       "url": "https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa"
@@ -31734,6 +31734,24 @@
       "duration_ms": 206277,
       "name": "Hottest Summer on Record",
       "url": "https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ"
+    },
+    {
+      "album": {
+        "name": "House of Light",
+        "url": "https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX"
+      },
+      "artists": [
+        {
+          "name": "Rivers of Nihil",
+          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349360,
+      "name": "House of Light",
+      "url": "https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3"
     },
     {
       "album": {
@@ -71884,7 +71902,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 182875,
       "name": "U MOVE",
       "url": "https://open.spotify.com/track/5GUiWiiIQuKwyaEn1zB8oc"
@@ -73780,6 +73798,24 @@
       "duration_ms": 160000,
       "name": "Wanna Fxck - Lost Tapes 2022",
       "url": "https://open.spotify.com/track/42cO8qdboMxJPtgOSNtygx"
+    },
+    {
+      "album": {
+        "name": "WANNA SEE WHAT A KNOCK DOES",
+        "url": "https://open.spotify.com/album/2xIexMDppS0y3UGrcHyYTm"
+      },
+      "artists": [
+        {
+          "name": "BBY GOYARD",
+          "url": "https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116820,
+      "name": "WANNA SEE WHAT A KNOCK DOES",
+      "url": "https://open.spotify.com/track/54oWOEdGmHJRc5TUMCciz3"
     },
     {
       "album": {

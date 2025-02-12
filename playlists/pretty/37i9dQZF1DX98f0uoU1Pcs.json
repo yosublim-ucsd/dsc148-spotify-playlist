@@ -1,6 +1,6 @@
 {
   "description": "a unique mix of rock, punk, alt & indie. Cover: Squid",
-  "num_followers": 284894,
+  "num_followers": 284923,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Itch",
-        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 144599,
-      "name": "Itch",
-      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "Red Mile",
         "url": "https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 371280,
       "name": "Blue Kite",
       "url": "https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
         "name": "Cleopatras",
         "url": "https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 218506,
       "name": "Cleopatras",
       "url": "https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
+        "name": "High Value Male",
+        "url": "https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx"
+      },
+      "artists": [
+        {
+          "name": "Papa Jupe's T.C.",
+          "url": "https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh"
+        }
+      ],
+      "duration_ms": 222370,
+      "name": "High Value Male",
+      "url": "https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:39",
+      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 242128,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/4xz812KZKSW4AewiBoYWWP"
-    },
-    {
-      "added_at": "2025-02-07 05:00:39",
-      "album": {
-        "name": "High Value Male",
-        "url": "https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx"
-      },
-      "artists": [
-        {
-          "name": "Papa Jupe's T.C.",
-          "url": "https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh"
-        }
-      ],
-      "duration_ms": 222370,
-      "name": "High Value Male",
-      "url": "https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Sick Of The Blues",
-        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+        "name": "Default Parody",
+        "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
       },
       "artists": [
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
         }
       ],
-      "duration_ms": 203769,
-      "name": "Sick Of The Blues",
-      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
+      "duration_ms": 207760,
+      "name": "Default Parody",
+      "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
     },
     {
       "added_at": "2025-02-07 05:00:39",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-02-07 05:00:39",
       "album": {
-        "name": "Default Parody",
-        "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
       },
       "artists": [
         {
-          "name": "Drahla",
-          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Default Parody",
-      "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
     },
     {
       "added_at": "2025-02-07 05:00:39",

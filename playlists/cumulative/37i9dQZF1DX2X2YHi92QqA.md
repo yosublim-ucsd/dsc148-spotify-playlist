@@ -4,7 +4,7 @@
 
 > Тепла музика в прохолодні дні ☕ ❄️🫂
 
-161 songs - 8 hr 26 min
+162 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Неймовірно тонка](https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Неймовірно тонка](https://open.spotify.com/album/6my1K6UekghuCoude69cg7) | 3:09 | 2024-07-12 | 2024-09-20 |
 | [Непомітний](https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Непомітний](https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9) | 2:33 | 2024-10-18 | 2025-01-22 |
 | [Непомітно \(Закінчилось літо\)](https://open.spotify.com/track/1TpJny3qznKZRPlNunqzi6) | [Komisiia](https://open.spotify.com/artist/1PZFXv6jqO1BkO7GH6JmjZ) | [Непомітно \(Закінчилось літо\)](https://open.spotify.com/album/3SsLaFFYvwOUlnvSPUkbp4) | 3:28 | 2024-09-01 | 2024-10-11 |
+| [Нехай](https://open.spotify.com/track/6KxrnD6OQQcPCdffRsd7OH) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [Нехай](https://open.spotify.com/album/0CDR4V9l4bXmXnQGzWvMSM) | 3:10 | 2025-01-27 |  |
 | [Ножі](https://open.spotify.com/track/7sJaNUYg8EsY8WmJb6JRLQ) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Ножі](https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9) | 2:45 | 2024-06-14 | 2024-09-23 |
 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 | 2024-06-14 |  |
 | [Обіймай](https://open.spotify.com/track/6mw9bYCoKnRfNt7erbOBpr) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:22 | 2024-06-14 | 2024-07-13 |
@@ -159,7 +160,7 @@
 | [У ТОБІ](https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1) | [TAYNA](https://open.spotify.com/artist/4aSOo4Ft3eF5rNS1idHvg1), [ЛЕВІТ](https://open.spotify.com/artist/0iWdKqUFX5qzMwnB5r5irh) | [У ТОБІ](https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL) | 2:30 | 2024-09-01 | 2024-10-06 |
 | [Убер](https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD), [Igor Kirilenko](https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu) | [Убер](https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT) | 2:00 | 2024-10-17 | 2024-12-31 |
 | [Це літо обіцяю](https://open.spotify.com/track/4vlZ4Jj4KQi7gpCdhmRaQ4) | [SKRYAGA](https://open.spotify.com/artist/4hThdWjmT0zEMdXIZ5awpw) | [Це літо обіцяю](https://open.spotify.com/album/50esmeAQ0a12TnozCWzz5y) | 2:52 | 2024-06-14 | 2024-09-02 |
-| [Циклон](https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Циклон](https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0) | 2:38 | 2024-11-30 |  |
+| [Циклон](https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Циклон](https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0) | 2:38 | 2024-11-30 | 2025-02-12 |
 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 | 2024-06-14 | 2024-09-02 |
 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 | 2024-07-12 |  |
 | [Цілуй Мене](https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ) | [USTYM](https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ) | [Цілуй Мене](https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4) | 3:07 | 2024-06-14 | 2024-09-02 |

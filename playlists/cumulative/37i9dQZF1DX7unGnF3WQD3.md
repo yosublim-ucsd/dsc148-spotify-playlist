@@ -4,7 +4,7 @@
 
 > tírate un paso y saca los prohibidos
 
-335 songs - 18 hr 22 min
+336 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 | 2024-09-30 | 2024-11-17 |
 | [Llorar Por Ella](https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Llorar Por Ella](https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV) | 2:48 | 2024-05-14 | 2024-10-01 |
 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 | 2023-08-14 | 2024-05-15 |
-| [Luces](https://open.spotify.com/track/2FBhUA36t0zThJdCrX1Qis) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:52 | 2024-09-30 |  |
+| [Luces](https://open.spotify.com/track/2FBhUA36t0zThJdCrX1Qis) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:52 | 2024-09-30 | 2025-02-12 |
 | [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 | 2024-09-30 |  |
 | [LVL](https://open.spotify.com/track/4DrtWtE0ljRCFVB5cMZhBb) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [LVL](https://open.spotify.com/album/0Z5JUq1Ot8WQEPSYI0hk8O) | 2:39 | 2024-09-30 |  |
 | [Manos de Tijera](https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj) | 3:50 | 2024-05-14 | 2024-10-01 |
@@ -236,6 +236,7 @@
 | [MTG ZONA DE PERIGO](https://open.spotify.com/track/0dfNyNlTetPa91Oyq4KOMk) | [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS), [MC Bouth](https://open.spotify.com/artist/4gTGJuezOS7sHK41r3Neuh) | [MTG ZONA DE PERIGO](https://open.spotify.com/album/7eFlDmQMRZTsiIoHbbk0R4) | 2:14 | 2024-09-30 | 2025-01-04 |
 | [Mtg É Sempre Assim](https://open.spotify.com/track/2aewP8hWWmeCjBBLODTPy3) | [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Vitin do Pc](https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5), [Mc Faelzin](https://open.spotify.com/artist/7qf02YI77fhVoHTkFsgWNa) | [Mtg É Sempre Assim](https://open.spotify.com/album/3qMozrdsRzEyAgIQpcQNBz) | 2:42 | 2024-09-30 |  |
 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 | 2023-08-14 | 2024-10-01 |
+| [Multiples Efectos](https://open.spotify.com/track/2xb1NMY8ot0M3RRxeJt7nJ) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk), [Heiky Miller](https://open.spotify.com/artist/1HqbXD2RaOXc465z8gzv9b) | [Multiples Efectos](https://open.spotify.com/album/4ZvluEZl3omQuSerYC1cDD) | 3:30 | 2024-09-30 |  |
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2024-09-30 |  |
 | [NAZARENO](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [NAZARENO](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2024-09-30 |  |
 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2023-08-14 | 2024-10-01 |

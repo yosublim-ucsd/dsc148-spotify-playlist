@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,564 likes - 235 songs - 14 hr 57 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,566 likes - 239 songs - 15 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,9 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 233 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 |
 | 234 | [Start The Party](https://open.spotify.com/track/3JTs35pIOfY4SFW37OSCuP) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Start The Party](https://open.spotify.com/album/69OjLBCghiR663cJrwuRlP) | 6:40 |
 | 235 | [Nobody](https://open.spotify.com/track/2fxHu4Nfnt1Htt3Epsd5DY) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [All In](https://open.spotify.com/album/2my3scIg8dImUFBYcn3DEG) | 2:31 |
+| 236 | [Do You Like Bass](https://open.spotify.com/track/3EExBiYU4a17gM6AusPgiT) | [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Do You Like Bass](https://open.spotify.com/album/2lRA75Hg0UKAgnlxlOWOOS) | 3:04 |
+| 237 | [Xtreme BS](https://open.spotify.com/track/1mNlgNvahC1uZRwhPXxM3y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Xtreme BS](https://open.spotify.com/album/6ijxSQ6IzecdFVWVrMnzIm) | 3:01 |
+| 238 | [Whispers](https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Whispers EP](https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8) | 2:35 |
+| 239 | [Pretty Boy Swag](https://open.spotify.com/track/0OogJrrV5p5otqQe1pQOBb) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68) | [Pretty Boy Swag](https://open.spotify.com/album/3QSn7hwDS4MqBWhozhHcyN) | 3:17 |
 
-Snapshot ID: `AAAJXTFWnqZjLk2lacL+0GehVZUCAzen`
+Snapshot ID: `AAAJYYLT34giryunBhct0HoXQLEsr6rd`

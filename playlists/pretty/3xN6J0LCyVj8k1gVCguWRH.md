@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,758 likes - 126 songs - 7 hr 34 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,746 likes - 121 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,10 +129,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 119 | [Cuddle Season \- Soulful Sax Mix](https://open.spotify.com/track/3SttiywwIl086jqIUbvnrx) | [Stanley Dre](https://open.spotify.com/artist/0pLqQntz9Q7jNnAK9NXNeU) | [Cuddle Season \(Soulful Sax Mix\)](https://open.spotify.com/album/2JOrylfSzY4t3kTur5BssY) | 4:50 |
 | 120 | [Ay Amor a 4 Guitarras \- en vivo](https://open.spotify.com/track/2BaeJokduzqeR5dKSUdDXi) | [Alexis Venegas](https://open.spotify.com/artist/3JiStihkFwbEuL4nGuHWlM) | [Ay Amor a 4 Guitarras \(en vivo\)](https://open.spotify.com/album/0oAVdOI0NoQiP77KFYcWEf) | 4:25 |
 | 121 | [A los Habitantes de la Isla](https://open.spotify.com/track/0JRYi9dXodUHvR5XPSPjgn) | [Luciano Vergara Ensamble](https://open.spotify.com/artist/2uDAQQp6GLAhlnHpPiCvkn) | [Música para Romper Ciclos](https://open.spotify.com/album/4rnHi49yjUkMy04Kw6EaHj) | 9:03 |
-| 122 | [More Than Need U](https://open.spotify.com/track/0z0uDE2PV0DqdZE13lHSdE) | [BABO BABY](https://open.spotify.com/artist/2WfFqtgm0c6mrP1hy1V4F2) | [More Than Need U](https://open.spotify.com/album/2h3MGbK8xtLuSI75e7bfHN) | 3:06 |
-| 123 | [Rearview](https://open.spotify.com/track/0UdpxBj2JbkVtyK37eKVQY) | [Luke Lasso](https://open.spotify.com/artist/1qNLvjiHNgbUh4QzuC4wZh) | [Rearview](https://open.spotify.com/album/2Csof50ShAyBXSsZNacvcL) | 3:06 |
-| 124 | [Black and Gold](https://open.spotify.com/track/2zC9IoVn7tpmfDR6LSbApD) | [Fatimah Provillon](https://open.spotify.com/artist/7xLl7CSuCmdhv3HiQbyL4O) | [Black and Gold](https://open.spotify.com/album/0g7L15vfD4Se8j467EFykU) | 2:58 |
-| 125 | [Greenish Yellow](https://open.spotify.com/track/6W83NyRwWd0oxZpd3C7hdn) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Greenish Yellow](https://open.spotify.com/album/74tvNoiKo4npSAeLsIoCIE) | 3:23 |
-| 126 | [Holy Night \(Red Trim\)](https://open.spotify.com/track/5ZWRijZgLzMIwwUfCiGecI) | [O.G\. Soul](https://open.spotify.com/artist/3LQ4N3GOSoflK0FeWJQglo), [B\. Griff](https://open.spotify.com/artist/6FuZtXZTTz5MNP2jixSl3c) | [Holy Night \(Red Trim\)](https://open.spotify.com/album/28n0yWyakbiukUPo5sp3Wt) | 2:59 |
 
-Snapshot ID: `AAAtWxYGZdSFnhPApKtU10/PiRCKtqaj`
+Snapshot ID: `AAAtXB8LSvQIaRhPX7vTWG2WzFLb8UE3`

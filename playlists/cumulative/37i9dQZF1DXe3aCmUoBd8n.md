@@ -2,7 +2,7 @@
 
 ### [أفضل الأغاني الشرقية](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Bessan Ismail
+> Top Sharqi hits right now\. Cover: AL SHAMI
 
 185 songs - 10 hr 48 min
 

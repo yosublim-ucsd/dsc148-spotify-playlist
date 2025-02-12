@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,535 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,536 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 11 | [100 Days \(Feat\. YG, P\-Lo\)](https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:10 |
 | 12 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 |
 | 13 | [GIVE ME A BEAT!](https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:18 |
-| 14 | [Too Faded](https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold](https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f) | 3:22 |
-| 15 | [Too Big](https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SNOOP CUBE 40 $HORT](https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ) | 3:36 |
+| 14 | [Too Big](https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SNOOP CUBE 40 $HORT](https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ) | 3:36 |
+| 15 | [Too Faded](https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold](https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f) | 3:22 |
 | 16 | [Sneeze](https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:35 |
 | 17 | [YANKIN!](https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:58 |
 | 18 | [Feel Me?](https://open.spotify.com/track/6k9BKlPz5J4uXMOtita08J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/4DfQgX7FfgG5htM1TvxyuG) | 2:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 50 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
 | 51 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 
-Snapshot ID: `Z6fwAAAAAACG5dD9Iq6zdtJf7eWzFAbr`
+Snapshot ID: `Z6lBgAAAAADxOCD2k4Xrs7+pTvOlkOdN`

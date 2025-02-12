@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Poiema Music, André Brisa, MORADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,879 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,915 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [O Milagre Vai Acontecer \- Ao Vivo](https://open.spotify.com/track/78l4h7zH5DLhpmWi4CTuo9) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [O Milagre Vai Acontecer \(Ao Vivo\)](https://open.spotify.com/album/49rehu07DAs58jHBTopDuN) | 4:13 |
 | 40 | [Sunamita](https://open.spotify.com/track/4d9UvbfAZAJqDRomC8XI4X) | [Maurizélia](https://open.spotify.com/artist/5yDmB9TlTo1t6CyJTSZZy7) | [Sunamita](https://open.spotify.com/album/2RkDQACdzZbo4lnitsXVSN) | 5:07 |
 | 41 | [Bom Filho](https://open.spotify.com/track/67ygE3MZD0moqgzQBpz5Wa) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Victor Lucass](https://open.spotify.com/artist/62fvNS9LwWUINTSzvJO5a6), [Blackkgus](https://open.spotify.com/artist/5Vq6rJhiyv3zqiCPPY61TG) | [Bom Filho](https://open.spotify.com/album/2wXWvVENP2QkGe2Dh77DWJ) | 3:26 |
-| 42 | [Vou Continuar](https://open.spotify.com/track/0VLEMHzMwRFwQCFdgwRXeL) | [Betânia Lima](https://open.spotify.com/artist/2btMzOnkSY8AFQJBIWZjZn), [Bless Music](https://open.spotify.com/artist/63FyMy7DzK976h1Hii5ETk) | [Vou Continuar](https://open.spotify.com/album/3fDwl5VRAvtedEDPLCZhdz) | 4:03 |
+| 42 | [Vou Continuar](https://open.spotify.com/track/0VLEMHzMwRFwQCFdgwRXeL) | [Betania Lima](https://open.spotify.com/artist/3C7JHp80jfY2l5PGVpy4rM), [Bless Music](https://open.spotify.com/artist/63FyMy7DzK976h1Hii5ETk) | [Vou Continuar](https://open.spotify.com/album/3fDwl5VRAvtedEDPLCZhdz) | 4:03 |
 | 43 | [Meu Filho](https://open.spotify.com/track/1b4Jyh6QzJYzaSMjJ6OZTt) | [Niwton Barros](https://open.spotify.com/artist/0BHJWcPyT4wgDG1sq15aMY), [Bless Music](https://open.spotify.com/artist/63FyMy7DzK976h1Hii5ETk) | [Paternidade](https://open.spotify.com/album/1H4D4cGvOuCN8EFJhlUEUZ) | 7:16 |
 | 44 | [Yeshua \- Live Session](https://open.spotify.com/track/0mggoBDY7yBtYk6dY6PqBj) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [Yeshua \(Live Session\)](https://open.spotify.com/album/370TweCf3tJ02GviRMFFEt) | 5:49 |
 | 45 | [O Decreto](https://open.spotify.com/track/2AOsg2joSzjAiiTMDcS52d) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [O Decreto](https://open.spotify.com/album/78KTltCJf8S15422VosBrA) | 4:26 |

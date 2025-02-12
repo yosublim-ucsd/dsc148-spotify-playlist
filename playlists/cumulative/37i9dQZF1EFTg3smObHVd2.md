@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 5 hr 13 min
+91 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 | 2024-02-27 |  |
 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 | 2024-02-27 |  |
 | [Sounds Like Heaven](https://open.spotify.com/track/7gVhz7lwTgAYHE5IEWAGrn) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:26 | 2024-02-27 |  |
+| [Stars](https://open.spotify.com/track/7lkwr08KZ3un9SKYNHZhf9) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stars](https://open.spotify.com/album/1vL7KWDVXbMncqdJQOImn7) | 6:28 | 2025-02-11 |  |
 | [Stick Shift \- Radio Edit](https://open.spotify.com/track/7tUNmJGpLbAlH3Mm6jtgp8) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF), [Soraya](https://open.spotify.com/artist/28dUwtiFMRTAVNym83n1rU) | [Stick Shift](https://open.spotify.com/album/5KhDRsp04yfZxwmXvFihG4) | 3:34 | 2024-02-27 |  |
 | [Strong Enough](https://open.spotify.com/track/14ZqDpSueF7QLPCXGdHoUC) | [J'Khai](https://open.spotify.com/artist/6fdldodPKWrfJs3H6uoDnd), [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Strong Enough \- Single](https://open.spotify.com/album/5byNQKNzQav1HCur1QfP46) | 2:59 | 2024-02-27 |  |
 | [Subtitles](https://open.spotify.com/track/4rcuPpjHrjDiS2xvxzUigK) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe), [Kinetics](https://open.spotify.com/artist/6MbdoQknD1A8JsZByxbUmB) | [301 to Paradise Mixtape](https://open.spotify.com/album/7fkEYyakqwhcQyNemwQBMr) | 5:28 | 2024-02-27 |  |

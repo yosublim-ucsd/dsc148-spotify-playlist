@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jore & Zpoppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,949 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,967 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hän](https://open.spotify.com/track/4gmir4Q2IHvYB94pPP1TYW) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Hän](https://open.spotify.com/album/4f2MOfbDo4XYLKkrrmknrB) | 3:01 |
 | 2 | [Paha Äijä](https://open.spotify.com/track/0VyEtWYB677PHsvPBaLxYS) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Paha Äijä](https://open.spotify.com/album/1rXDtCewmnlLbybYx1Csgh) | 2:24 |
 | 3 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 |
-| 4 | [Rockstar](https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Rockstar](https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM) | 3:00 |
-| 5 | [Päivä joka meidät pilaa](https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Päivä joka meidät pilaa](https://open.spotify.com/album/3axhVDy2rJGw40hBlY7fh7) | 3:27 |
-| 6 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
-| 7 | [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 |
+| 4 | [Päivä joka meidät pilaa](https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Päivä joka meidät pilaa](https://open.spotify.com/album/3axhVDy2rJGw40hBlY7fh7) | 3:27 |
+| 5 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
+| 6 | [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 |
+| 7 | [Rockstar](https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Rockstar](https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM) | 3:00 |
 | 8 | [Rehellisesti](https://open.spotify.com/track/5FWF6wWO488FWlljL3Fgo3) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rehellisesti](https://open.spotify.com/album/3ZAR6IweaSPuJj4j6NJGTI) | 3:10 |
 | 9 | [Se Nainen](https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Se Nainen](https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr) | 2:50 |
 | 10 | [Roty Freestyle \(feat\. Röge\)](https://open.spotify.com/track/4CtssUHv3khApoiXeHKEmg) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [Roty Freestyle \(feat\. Röge\)](https://open.spotify.com/album/5vsZDPMBacb3LoM8MbndQv) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 |
 | 50 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 |
 
-Snapshot ID: `Z6mnywAAAAAi2eo7QH7ekgjLwlRs22AM`
+Snapshot ID: `Z6s4+AAAAADzl4OURPAyDVOzqGiPrzUU`

@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-1,095 songs - 2 day 3 hr 1 min
+1,096 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/track/3CyMDd2MLUwAa0nQoScVYC) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Games \(feat\. 03 Greedo & Bino Rideaux\)](https://open.spotify.com/album/77vh60o8P1QO1Qd3Slu2YD) | 2:49 | 2023-05-05 | 2024-06-22 |
 | [Gang Gang](https://open.spotify.com/track/41OQzTfVOGpI5F1LZFxS4s) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 2:57 | 2022-11-04 | 2022-12-17 |
 | [Gang Gang](https://open.spotify.com/track/5wS0BO0Mg4p3TfqNEJggR0) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/1IXCMUaQ662JRUz6KOH0IS) | 2:57 | 2022-10-14 | 2022-11-11 |
+| [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [Rosecrans HopOut](https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M), [PHOPHO8IGHT](https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu) | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/album/6ZV8jcdIqNa0py7I6w1UzT) | 3:47 | 2025-02-11 |  |
 | [Gang'Nem](https://open.spotify.com/track/3F90JbxXm1yA7CB557b6w2) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Fre$H](https://open.spotify.com/artist/5wUzuAKoHT2ItLdgAfa8sG) | [Gang'Nem](https://open.spotify.com/album/1dKHC8AlHi7s7XpHUazrKk) | 4:10 | 2022-11-18 | 2022-12-03 |
 | [Gangland](https://open.spotify.com/track/64j9RwfJEmQMGZll1FXSQV) | [Street Active](https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9), [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Gangland](https://open.spotify.com/album/2UGRGZtLtrAqLuOup7MDTJ) | 2:50 | 2023-01-13 | 2023-01-28 |
 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 | 2024-02-23 | 2024-03-02 |

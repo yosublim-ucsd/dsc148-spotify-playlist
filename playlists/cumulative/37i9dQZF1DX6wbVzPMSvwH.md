@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-170 songs - 10 hr 41 min
+171 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 | 2024-11-14 |
 | [BESTFRiEND](https://open.spotify.com/track/0yyAfb33Q5FlvZoN3HS43R) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BESTFRiEND](https://open.spotify.com/album/6Swoif6uZsn9YIj59mzJN2) | 3:25 | 2023-09-20 | 2023-12-14 |
 | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/track/3EkueWJSbk5wXE3YCtXf0N) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Rizal Rasid](https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8) | [BESTFRiEND \(feat\. Arthur Miguel, D Gerrard, Nathan Hartono, Rizal Rasid\)](https://open.spotify.com/album/1hfDOYGLqeCHH3VdQbCOwp) | 3:49 | 2023-12-13 | 2024-11-14 |
-| [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 |  |
+| [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 | 2023-05-18 | 2025-02-12 |
 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-06-19 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-12-13 | 2023-10-20 |
 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 | 2023-03-30 |  |
@@ -123,7 +123,7 @@
 | [Oopsie](https://open.spotify.com/track/136rPec46FEDVHD0uEESgj) | [V1RST](https://open.spotify.com/artist/2kTWDbs4Ve7BgSKhNsWHGx) | [Oopsie](https://open.spotify.com/album/2AOqjy8N3whvR6U12Nkk4c) | 3:49 | 2024-12-03 |  |
 | [OSLO](https://open.spotify.com/track/3czxsLH8fGx2RGeWMdKjIn) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [OSLO](https://open.spotify.com/album/099vFMl8M9u91599833kVO) | 3:30 | 2023-06-07 | 2023-09-21 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-12-13 |  |
-| [Pandir](https://open.spotify.com/track/26spoIQHpoeS0JW9QYhlOv) | [Kelompok Penerbang Roket](https://open.spotify.com/artist/4CrAgvXjMysuImxrwMqXSG) | [KOMA](https://open.spotify.com/album/0CnO0vcgFtQr5NYp0r7nGc) | 4:40 | 2025-02-03 |  |
+| [Pandir](https://open.spotify.com/track/26spoIQHpoeS0JW9QYhlOv) | [Kelompok Penerbang Roket](https://open.spotify.com/artist/4CrAgvXjMysuImxrwMqXSG) | [KOMA](https://open.spotify.com/album/0CnO0vcgFtQr5NYp0r7nGc) | 4:40 | 2025-02-03 | 2025-02-12 |
 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 | 2023-09-20 | 2024-02-01 |
 | [Penantian Berharga](https://open.spotify.com/track/1n6l1bcpVPXbKd8FhrwxT3) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/5YGTnbhEQaPBYXQY4kTvll) | 3:37 | 2024-02-01 |  |
 | [Penantian Berharga](https://open.spotify.com/track/62SNlZ1MJiY98movqq7ZSS) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Penantian Berharga](https://open.spotify.com/album/5zhXlETGMYS961e8GC8pCc) | 3:37 | 2022-12-13 | 2023-03-20 |
@@ -133,6 +133,7 @@
 | [Pesan Cinta](https://open.spotify.com/track/41M4whJ2Vy5UV9tvWaVt8B) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:23 | 2025-02-07 |  |
 | [Pesona \- Remastered](https://open.spotify.com/track/5iUrGfRTWwjm3eoNeblllJ) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Pesona \(Remastered 2022\)](https://open.spotify.com/album/56jtzPwaP66jzVleH9uGaP) | 3:37 | 2022-12-13 | 2023-11-16 |
 | [Pilihanku](https://open.spotify.com/track/3puYuuZ7lmlTjIgXBOT01k) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 3:26 | 2023-08-08 |  |
+| [PILIHLAH AKU](https://open.spotify.com/track/5WqGqgeknOAmkuucH5ytct) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [PILIHLAH AKU](https://open.spotify.com/album/27CH3SGHz1EpTIsK8zI29c) | 3:09 | 2025-02-12 |  |
 | [Precious](https://open.spotify.com/track/6ikaNm8tnqvSB8XxRV4nog) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Precious](https://open.spotify.com/album/0blGPLYWpPAIViPMRfuQnT) | 2:40 | 2022-12-13 | 2023-02-24 |
 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-06-06 |  |
 | [Ragu?](https://open.spotify.com/track/6oW5w1IAVnBrLA8uDes0Gl) | [RAYHAN NOOR](https://open.spotify.com/artist/5jLL1YM0DNKKhnLl0oSlUA) | [Ragu?](https://open.spotify.com/album/0U7CnDEqU7eVjqnAdq9gE0) | 3:19 | 2023-03-23 | 2024-10-15 |

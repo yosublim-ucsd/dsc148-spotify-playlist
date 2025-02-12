@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: CeCe
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,500 likes - 144 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,494 likes - 144 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

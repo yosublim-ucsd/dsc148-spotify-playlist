@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Michael Bleu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,252 likes - 79 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,254 likes - 79 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paratiisi](https://open.spotify.com/track/7254j7H82ErsbnB91FK3s8) | [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Varjomaat](https://open.spotify.com/album/6zlWqMwUv7Y3TLTrAw5DUo) | 3:26 |
-| 2 | [Alan hommiin](https://open.spotify.com/track/5exqFkodO1BkpXdhIAaqpc) | [Ullalintulampi](https://open.spotify.com/artist/2TNzRO3MpKoFBA0DrPTbdY) | [Kannattelen](https://open.spotify.com/album/6GbLFCCQFCCDuMYoGwfUVl) | 4:01 |
-| 3 | [Kaikki mitä on, on juuri niin kuin olin kuvitellutkin](https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Öitä](https://open.spotify.com/album/6LZYPt5izO0zcAGke00bPh) | 4:44 |
-| 4 | [Vaikket mun vieressä oo](https://open.spotify.com/track/07cSoU3c0ioAsMM6AnmCna) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Vaikket mun vieressä oo](https://open.spotify.com/album/6n6TekylgP32kru2tDwMjj) | 3:59 |
-| 5 | [Kuva susta](https://open.spotify.com/track/4AMBgN51V6bgcQQch1GVM3) | [Lala Salama](https://open.spotify.com/artist/1cfCkkOJXJRyw1Xt3BNCMV) | [Kuva susta](https://open.spotify.com/album/4VIbPKqFuuFsk0CIa3nIIX) | 3:52 |
-| 6 | [Takas yöjunalla](https://open.spotify.com/track/7KCbiaL6vTSp627W6bLfOe) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el) | [Yöllä taivas kaatuu](https://open.spotify.com/album/5WjZ1a4LyLCULMVVH0YJLT) | 4:11 |
-| 7 | [calgary / copenhagen](https://open.spotify.com/track/69pbkvmsFWMc9UN9jBN65y) | [Mot Furu](https://open.spotify.com/artist/1HxaDIIDYEz9tHAglYujya) | [calgary / copenhagen](https://open.spotify.com/album/6oiqswgqxZ5AF8OtucqRGZ) | 2:40 |
-| 8 | [Lifestyles](https://open.spotify.com/track/47MHT6lAFhLCGoBEZqu8Qh) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Lifestyles](https://open.spotify.com/album/0Ypn1hdDlCACbmEENUmUce) | 3:00 |
-| 9 | [Jag åker båt](https://open.spotify.com/track/7fnW6cg0x4HDtWq6tvYJzH) | [Månskensbonden](https://open.spotify.com/artist/6Ro0ka28xsN0M4qBrTr6Ac), [Georg Marander](https://open.spotify.com/artist/08WJy0zJ1eZ1Th29f9eTFG) | [Jag åker båt](https://open.spotify.com/album/12kb3PmfA8avedWM8djsbt) | 5:04 |
-| 10 | [Lapset](https://open.spotify.com/track/4I62ZOUIoGSCGCRSruIaHj) | [Onni Rajaniemi](https://open.spotify.com/artist/7aGFj7SRxHVunUab4E2nPf) | [Lapset / Löytöretki](https://open.spotify.com/album/1CGIqdhIJLIYA2Dfqhy1FI) | 2:43 |
-| 11 | [Aika parantaa \- pianon äärellä](https://open.spotify.com/track/3H2irqG72zqiADofPZE0ap) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Aika parantaa \(pianon äärellä\)](https://open.spotify.com/album/4Hsi4MMNDEp7lwEGvhD9h1) | 3:52 |
-| 12 | [Genocide](https://open.spotify.com/track/6unazXxMYl5JlaPExuefKG) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Genocide](https://open.spotify.com/album/2DMnixwGlHr6qCqPsNvYwS) | 4:11 |
-| 13 | [Poikkis](https://open.spotify.com/track/4dzuW2kmsgI9xjYC8WYRzJ) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Poikkis](https://open.spotify.com/album/6QDU6QeovhSluvoRAMJHYw) | 3:47 |
-| 14 | [Mitäpä minä](https://open.spotify.com/track/7zvZC32LfI8ZmbBRSiej9C) | [Lempi Elo](https://open.spotify.com/artist/2Uy3vg4OPMHIKwPwMR1D3s) | [Mitäpä minä](https://open.spotify.com/album/6caewdOMuRcV5Ixyc8mKlN) | 4:05 |
-| 15 | [Sonic Age](https://open.spotify.com/track/00VHjLZzBsqYKSaW82QOwa) | [Dear Moon](https://open.spotify.com/artist/2Vb2f7huc0JOP2XXIOtHkI) | [Sonic Age](https://open.spotify.com/album/5iTTuZJFqjEJZfA5eD4uQ4) | 4:51 |
-| 16 | [Tunteet](https://open.spotify.com/track/4czHkHAPVqWPEXrk0Jvf9Z) | [Anne\-Mari Kivimäki](https://open.spotify.com/artist/15w9NOQTdZLSCZjnHtGIPl) | [Kotiin](https://open.spotify.com/album/05f1wDE5DYQ5rhHFndlCn4) | 2:41 |
-| 17 | [Sininen Lumi](https://open.spotify.com/track/7bYN8CJc4YhcReCrGzRUR6) | [Diskopäivä](https://open.spotify.com/artist/0rcDDwb3IdVUFPsivO3FPy) | [Sininen Lumi](https://open.spotify.com/album/2YBLS0nAmtgYw7Blf3NcBe) | 4:52 |
+| 2 | [Kaikki mitä on, on juuri niin kuin olin kuvitellutkin](https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Öitä](https://open.spotify.com/album/6LZYPt5izO0zcAGke00bPh) | 4:44 |
+| 3 | [Vaikket mun vieressä oo](https://open.spotify.com/track/07cSoU3c0ioAsMM6AnmCna) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Vaikket mun vieressä oo](https://open.spotify.com/album/6n6TekylgP32kru2tDwMjj) | 3:59 |
+| 4 | [Kuva susta](https://open.spotify.com/track/4AMBgN51V6bgcQQch1GVM3) | [Lala Salama](https://open.spotify.com/artist/1cfCkkOJXJRyw1Xt3BNCMV) | [Kuva susta](https://open.spotify.com/album/4VIbPKqFuuFsk0CIa3nIIX) | 3:52 |
+| 5 | [Takas yöjunalla](https://open.spotify.com/track/7KCbiaL6vTSp627W6bLfOe) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el) | [Yöllä taivas kaatuu](https://open.spotify.com/album/5WjZ1a4LyLCULMVVH0YJLT) | 4:11 |
+| 6 | [calgary / copenhagen](https://open.spotify.com/track/69pbkvmsFWMc9UN9jBN65y) | [Mot Furu](https://open.spotify.com/artist/1HxaDIIDYEz9tHAglYujya) | [calgary / copenhagen](https://open.spotify.com/album/6oiqswgqxZ5AF8OtucqRGZ) | 2:40 |
+| 7 | [Lifestyles](https://open.spotify.com/track/47MHT6lAFhLCGoBEZqu8Qh) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Lifestyles](https://open.spotify.com/album/0Ypn1hdDlCACbmEENUmUce) | 3:00 |
+| 8 | [Jag åker båt](https://open.spotify.com/track/7fnW6cg0x4HDtWq6tvYJzH) | [Månskensbonden](https://open.spotify.com/artist/6Ro0ka28xsN0M4qBrTr6Ac), [Georg Marander](https://open.spotify.com/artist/08WJy0zJ1eZ1Th29f9eTFG) | [Jag åker båt](https://open.spotify.com/album/12kb3PmfA8avedWM8djsbt) | 5:04 |
+| 9 | [Lapset](https://open.spotify.com/track/4I62ZOUIoGSCGCRSruIaHj) | [Onni Rajaniemi](https://open.spotify.com/artist/7aGFj7SRxHVunUab4E2nPf) | [Lapset / Löytöretki](https://open.spotify.com/album/1CGIqdhIJLIYA2Dfqhy1FI) | 2:43 |
+| 10 | [Aika parantaa \- pianon äärellä](https://open.spotify.com/track/3H2irqG72zqiADofPZE0ap) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Aika parantaa \(pianon äärellä\)](https://open.spotify.com/album/4Hsi4MMNDEp7lwEGvhD9h1) | 3:52 |
+| 11 | [Genocide](https://open.spotify.com/track/6unazXxMYl5JlaPExuefKG) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Genocide](https://open.spotify.com/album/2DMnixwGlHr6qCqPsNvYwS) | 4:11 |
+| 12 | [Poikkis](https://open.spotify.com/track/4dzuW2kmsgI9xjYC8WYRzJ) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Poikkis](https://open.spotify.com/album/6QDU6QeovhSluvoRAMJHYw) | 3:47 |
+| 13 | [Mitäpä minä](https://open.spotify.com/track/7zvZC32LfI8ZmbBRSiej9C) | [Lempi Elo](https://open.spotify.com/artist/2Uy3vg4OPMHIKwPwMR1D3s) | [Mitäpä minä](https://open.spotify.com/album/6caewdOMuRcV5Ixyc8mKlN) | 4:05 |
+| 14 | [Sonic Age](https://open.spotify.com/track/00VHjLZzBsqYKSaW82QOwa) | [Dear Moon](https://open.spotify.com/artist/2Vb2f7huc0JOP2XXIOtHkI) | [Sonic Age](https://open.spotify.com/album/5iTTuZJFqjEJZfA5eD4uQ4) | 4:51 |
+| 15 | [Tunteet](https://open.spotify.com/track/4czHkHAPVqWPEXrk0Jvf9Z) | [Anne\-Mari Kivimäki](https://open.spotify.com/artist/15w9NOQTdZLSCZjnHtGIPl) | [Kotiin](https://open.spotify.com/album/05f1wDE5DYQ5rhHFndlCn4) | 2:41 |
+| 16 | [Sininen Lumi](https://open.spotify.com/track/7bYN8CJc4YhcReCrGzRUR6) | [Diskopäivä](https://open.spotify.com/artist/0rcDDwb3IdVUFPsivO3FPy) | [Sininen Lumi](https://open.spotify.com/album/2YBLS0nAmtgYw7Blf3NcBe) | 4:52 |
+| 17 | [Alan hommiin](https://open.spotify.com/track/5exqFkodO1BkpXdhIAaqpc) | [Ullalintulampi](https://open.spotify.com/artist/2TNzRO3MpKoFBA0DrPTbdY) | [Kannattelen](https://open.spotify.com/album/6GbLFCCQFCCDuMYoGwfUVl) | 4:01 |
 | 18 | [Oikeus elää](https://open.spotify.com/track/7hb784MpJM9MZwgALWwXQQ) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Oikeus elää](https://open.spotify.com/album/6XrEHANF8HXQCoEkED9LW2) | 2:44 |
 | 19 | [Diamond](https://open.spotify.com/track/0GqRI02xFG27DtgbO8tOrb) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Diamond](https://open.spotify.com/album/6XtxwJB1f2CM4q6OZOnMtQ) | 3:25 |
 | 20 | [Kun kaikki seisahtuu](https://open.spotify.com/track/6Q5fY3qNIKmzmVrjoT1R4p) | [Viba](https://open.spotify.com/artist/6n4ZZlO4ciufCP2R5ul7Ni) | [Harso](https://open.spotify.com/album/0Z5O3KU0EovhdQf79xlJ32) | 4:42 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 78 | [kylmät pisarat](https://open.spotify.com/track/5ikOkHYtXbR9Tkvg0CyNnZ) | [tereza](https://open.spotify.com/artist/0Wm9pPI1fDMRuh9WfPCWHo) | [kylmät pisarat](https://open.spotify.com/album/36jNGeMDtmyB8kCE6xQKzV) | 3:59 |
 | 79 | [Sometimes](https://open.spotify.com/track/5mw35txKkpqCtyRtVK5Xhd) | [The Snake](https://open.spotify.com/artist/0KiQxiaMxxzBz0uH6C04Vv) | [Sometimes](https://open.spotify.com/album/1TgxUcd9uwBM4lNv2rzenk) | 3:46 |
 
-Snapshot ID: `Z6UxHgAAAAALPyi7n6+NJQRpgu3NYmnC`
+Snapshot ID: `Z6sQDQAAAADvxpynOw4hRT4C/aPypAzm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,246 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,260 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

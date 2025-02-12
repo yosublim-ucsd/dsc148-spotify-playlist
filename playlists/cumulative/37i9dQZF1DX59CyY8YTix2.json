@@ -25549,6 +25549,24 @@
     },
     {
       "album": {
+        "name": "\u5352\u696d",
+        "url": "https://open.spotify.com/album/4wiaREGxvMVJVrXhm0qrst"
+      },
+      "artists": [
+        {
+          "name": "Regal Lily",
+          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264040,
+      "name": "\u5352\u696d",
+      "url": "https://open.spotify.com/track/0hYCof6amQzAcKAqNUp4wR"
+    },
+    {
+      "album": {
         "name": "\u5357\u5341\u5b57\u661f",
         "url": "https://open.spotify.com/album/5j6ThRIunJZ5hGlibYj8y2"
       },
@@ -28270,7 +28288,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 141248,
       "name": "\u661f\u3068\u305d\u3070\u304b\u3059\u3068\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9",
       "url": "https://open.spotify.com/track/7idoyOVZXUj1DIVwNfz6WI"

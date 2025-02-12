@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz, Souldia
 
-3,098 songs - 6 day 20 hr 37 min
+3,099 songs - 6 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [Courir](https://open.spotify.com/track/7m5FdqzG02hWKc9rCEI4Ba) | [Jé Lalune](https://open.spotify.com/artist/4zEfYbafYHBBWtgoU9fXYh) | [Jé Lalune](https://open.spotify.com/album/4QMJdDBmwWGdbOzK9sp9Dd) | 2:38 | 2022-04-22 | 2022-04-29 |
 | [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-22 | 2024-12-07 |
 | [Couteau](https://open.spotify.com/track/6pukjmfBCkq8x0UD1M277q) | [Hello Cosmo](https://open.spotify.com/artist/3QJ2aFL6EIx8B2mlkf5rtU) | [Couteau](https://open.spotify.com/album/42iEBpSWn6T0N02jRCEvN3) | 3:17 | 2022-01-21 | 2022-01-29 |
-| [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 |  |
+| [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 | 2025-02-12 |
 | [Couteau papillon](https://open.spotify.com/track/7kUI8QLcPNlrttLyHyh0Wh) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Couteau papillon](https://open.spotify.com/album/67eBaryuZEhVyWxJlxqmOo) | 4:32 | 2022-11-04 | 2022-11-19 |
 | [Couvre\-feu](https://open.spotify.com/track/6iajB8dvW4K4yqw2XQyY5w) | [Eric Charland](https://open.spotify.com/artist/0iVKDPN1HSFirCQeLIIJW1) | [Couvre\-feu](https://open.spotify.com/album/1fhy95IAcRn1N3DKo6CeSJ) | 5:15 | 2022-04-08 | 2022-04-16 |
 | [Cowboy](https://open.spotify.com/track/4eBIBc2kWpJfBUiww6OLZ8) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:21 | 2023-02-17 | 2023-03-04 |
@@ -2348,6 +2348,7 @@
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2023-09-15 | 2023-09-23 |
 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-13 | 2023-07-08 |
 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 | 2023-03-03 | 2023-03-18 |
+| [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 | 2025-02-07 |  |
 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 | 2024-11-15 | 2024-11-23 |
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-09-01 | 2023-10-15 |
 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 | 2024-03-15 | 2024-03-23 |

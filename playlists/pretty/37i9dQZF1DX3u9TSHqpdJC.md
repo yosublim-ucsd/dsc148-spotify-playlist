@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Nami\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,735 likes - 67 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,740 likes - 67 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

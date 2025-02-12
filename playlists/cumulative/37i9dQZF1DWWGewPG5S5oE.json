@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Car 16 15 A",
+        "url": "https://open.spotify.com/album/6OhjjaRUKSQjKRSYwcJNIu"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Car 16 15 A",
+      "url": "https://open.spotify.com/track/79bAHiH5Ffx3dgv5MgETPW"
+    },
+    {
+      "album": {
         "name": "Caught Up (grooveman Spot Remix)",
         "url": "https://open.spotify.com/album/3KqRiPSde1pa2WVEtBSu3b"
       },
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 221813,
       "name": "KIMOCHIS",
       "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
@@ -3344,6 +3362,32 @@
       "duration_ms": 423445,
       "name": "Mile in the green",
       "url": "https://open.spotify.com/track/6SBIYkYegPIhLjgsO9KPpY"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/7w41D1BqBhdxOqaroQeRJc"
+      },
+      "artists": [
+        {
+          "name": "EPICH",
+          "url": "https://open.spotify.com/artist/3MvAJMZlOeueSkd3tRXRJp"
+        },
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        },
+        {
+          "name": "\u52a0\u85e4\u96c4\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/62Q314rCdBgxjieZpzttEN"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229301,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3uAjK1CIICNIJichpmDemM"
     },
     {
       "album": {
@@ -6628,7 +6672,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 310264,
       "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
       "url": "https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey"

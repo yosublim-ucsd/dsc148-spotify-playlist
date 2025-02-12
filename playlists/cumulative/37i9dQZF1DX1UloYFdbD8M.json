@@ -849,6 +849,32 @@
     },
     {
       "album": {
+        "name": "Boboo",
+        "url": "https://open.spotify.com/album/53DzS1u53zoOh5lqthnQJT"
+      },
+      "artists": [
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Dhanush Harikumar",
+          "url": "https://open.spotify.com/artist/2qeEp59kcp5E6zecNdWKVr"
+        },
+        {
+          "name": "Sandoop",
+          "url": "https://open.spotify.com/artist/2D44ecEwTJra44PM9kiOPV"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360545,
+      "name": "Boboo",
+      "url": "https://open.spotify.com/track/6VtLtPDtk0f8NcPkcOE8B0"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0YNBOj4DQ2NzoIeMi5rvKN"
       },
@@ -3728,7 +3754,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 215901,
       "name": "Oru Cringe Paattu",
       "url": "https://open.spotify.com/track/3JK51mWe4OqFYYtGCoHQ47"
@@ -5342,6 +5368,24 @@
       "duration_ms": 204000,
       "name": "Uyaru",
       "url": "https://open.spotify.com/track/3rFUkoIS2Hb8ZUvNtpXoRc"
+    },
+    {
+      "album": {
+        "name": "Uyire",
+        "url": "https://open.spotify.com/album/3l2vUwCDJq8OZsWbF7og1T"
+      },
+      "artists": [
+        {
+          "name": "Shereef tirur",
+          "url": "https://open.spotify.com/artist/0P7LMW4yHxNuENOe2tyBx3"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250976,
+      "name": "Uyire",
+      "url": "https://open.spotify.com/track/2hjXAWz09mQCuV0LptYAsH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,183 songs - 5 day 18 hr 54 min
+2,184 songs - 5 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1626,7 +1626,8 @@
 | [Shorthand REDUX](https://open.spotify.com/track/3Ow6Wyc2BRDuYB4OP2uiYH) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm), [Eric Jacobsen](https://open.spotify.com/artist/7va3hWIVG2F3yM5tSAJead), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Anna Clyne: SHORTHAND](https://open.spotify.com/album/0GK0lno6PYVdaUKsHyQxQz) | 6:19 | 2024-08-23 | 2024-08-31 |
 | [should sleep](https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/2vIiA0ULu72YnqRDKlrxkI) | 4:29 | 2023-09-15 | 2023-09-24 |
 | [should sleep](https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx) | [should sleep](https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8) | 4:29 | 2023-09-22 | 2023-10-08 |
-| [should sleep \- DJ Tennis Vocal Mix](https://open.spotify.com/track/5WjnB3Q8KwYDXq5d8ARIWs) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [should sleep \(DJ Tennis Remix\)](https://open.spotify.com/album/30T8Veh8UThh6hEjuUml1l) | 5:00 | 2025-02-07 |  |
+| [should sleep \(DJ Tennis Vocal Mix\)](https://open.spotify.com/track/7HUDqA3MPe8xdBYMw3cU0b) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [should sleep \(DJ Tennis Remix\)](https://open.spotify.com/album/557UNqHSaIuMwCCTt9rLGb) | 5:00 | 2025-02-07 |  |
+| [should sleep \- DJ Tennis Vocal Mix](https://open.spotify.com/track/5WjnB3Q8KwYDXq5d8ARIWs) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [should sleep \(DJ Tennis Remix\)](https://open.spotify.com/album/30T8Veh8UThh6hEjuUml1l) | 5:00 | 2025-02-07 | 2025-02-12 |
 | [Shoulda Tried Harder \- Live at Sugarshack Sessions](https://open.spotify.com/track/7gYKbMGvplnFClS3fWiTgt) | [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [Wax \(Live at Sugarshack Sessions\)](https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd) | 4:13 | 2023-08-04 | 2023-08-12 |
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-26 | 2023-06-03 |
 | [SI NO ES CONTIGO \- REMIX](https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SI NO ES CONTIGO \(REMIX\)](https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj) | 4:14 | 2024-10-18 | 2024-11-09 |

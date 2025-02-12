@@ -1,12 +1,12 @@
 {
   "description": "You call her Stephanie???  featuring HNTR & Cloonee \ud83e\udd16 50% techno, 50% house",
-  "num_followers": 647226,
+  "num_followers": 648407,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WWtAAAAAD/9VwY0VrWa9PApEQDg+kK",
+  "snapshot_id": "Z6uTCAAAAACt6VTEEQaizK822NdtMXNr",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:27",
@@ -35,34 +35,6 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
-    },
-    {
-      "added_at": "2025-01-31 05:00:33",
-      "album": {
-        "name": "Go Back (feat. Julia Church) [Kyle Watson Remix]",
-        "url": "https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        },
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Go Back (feat. Julia Church) - Kyle Watson Remix",
-      "url": "https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF"
     },
     {
       "added_at": "2025-01-31 05:00:33",
@@ -105,6 +77,34 @@
       "url": "https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF"
     },
     {
+      "added_at": "2025-01-31 05:00:33",
+      "album": {
+        "name": "Go Back (feat. Julia Church) [Kyle Watson Remix]",
+        "url": "https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Go Back (feat. Julia Church) - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF"
+    },
+    {
       "added_at": "2025-01-10 05:00:18",
       "album": {
         "name": "Serotonine EP",
@@ -121,24 +121,20 @@
       "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
     },
     {
-      "added_at": "2025-02-07 05:00:27",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Freak [GREG (BR) Remix]",
-        "url": "https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN"
+        "name": "Whispers EP",
+        "url": "https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8"
       },
       "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
         {
           "name": "GREG (BR)",
           "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
         }
       ],
-      "duration_ms": 165942,
-      "name": "Freak - GREG (BR) Remix",
-      "url": "https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo"
+      "duration_ms": 155076,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"
     },
     {
       "added_at": "2025-02-07 05:00:27",
@@ -273,20 +269,24 @@
       "url": "https://open.spotify.com/track/4VGaRRuyAvEgc2IAkcJbt3"
     },
     {
-      "added_at": "2025-01-24 05:00:51",
+      "added_at": "2025-02-07 05:00:27",
       "album": {
-        "name": "Whispers EP",
-        "url": "https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8"
+        "name": "Freak [GREG (BR) Remix]",
+        "url": "https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN"
       },
       "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
         {
           "name": "GREG (BR)",
           "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"
+      "duration_ms": 165942,
+      "name": "Freak - GREG (BR) Remix",
+      "url": "https://open.spotify.com/track/0HtQwyWR5sCO45FfeMmCqo"
     },
     {
       "added_at": "2025-02-07 05:00:27",
@@ -689,28 +689,20 @@
       "url": "https://open.spotify.com/track/0KIrc2e6NZEQOMhKhzf1JE"
     },
     {
-      "added_at": "2024-11-01 05:19:33",
+      "added_at": "2025-02-11 18:12:23",
       "album": {
-        "name": "It Feels So Good",
-        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+        "name": "Step By Step",
+        "url": "https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Sonique",
-          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
         }
       ],
-      "duration_ms": 160973,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+      "duration_ms": 179779,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -813,28 +805,28 @@
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
-      "added_at": "2025-02-07 05:00:27",
+      "added_at": "2024-11-01 05:19:33",
       "album": {
-        "name": "Men Adore (Catz 'n Dogz Tribal Dub)",
-        "url": "https://open.spotify.com/album/73cCkFVWjp2zelCL2ywMwb"
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
       "artists": [
         {
-          "name": "Fat Tony",
-          "url": "https://open.spotify.com/artist/7zXmFB1OCLqDGPTbGn4myy"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "Fierce Child",
-          "url": "https://open.spotify.com/artist/10JCwdYQXq4wWL3s39dUrz"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Men Adore - Catz 'n Dogz Tribal Dub",
-      "url": "https://open.spotify.com/track/0b0cuyf8bOj8J3oPNrYiTs"
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "added_at": "2025-02-07 05:00:27",
@@ -1305,6 +1297,22 @@
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Lonely Heart",
@@ -1343,22 +1351,6 @@
       "duration_ms": 145581,
       "name": "Elektro",
       "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1693,22 +1685,6 @@
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
     },
     {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Paris",
@@ -1723,6 +1699,22 @@
       "duration_ms": 146250,
       "name": "Paris",
       "url": "https://open.spotify.com/track/17mnuzuIFPEmrDciyrmdfR"
+    },
+    {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1825,20 +1817,20 @@
       "url": "https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+        "name": "All My Friends Are Hot",
+        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
         }
       ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
+      "duration_ms": 179076,
+      "name": "All My Friends Are Hot",
+      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1857,20 +1849,20 @@
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "All My Friends Are Hot",
-        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 179076,
-      "name": "All My Friends Are Hot",
-      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
     },
     {
       "added_at": "2024-09-13 04:01:00",

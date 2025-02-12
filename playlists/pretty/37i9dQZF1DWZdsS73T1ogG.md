@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Lia Kali, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,551 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,643 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 22 | [Many Men](https://open.spotify.com/track/6PxHjGjvSfDX7iEpcoPqQt) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Many Men](https://open.spotify.com/album/7CogroBOyfLMRTFvTR3AUX) | 2:27 |
 | 23 | [MINI](https://open.spotify.com/track/0EK3CubmEJ51rllsQi61zK) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [MINI](https://open.spotify.com/album/75oamtrQMmhzu2C7ZwRYcl) | 3:06 |
 | 24 | [Hoyo](https://open.spotify.com/track/6sksHh01LpKKFecRFiOFVT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Hoyo](https://open.spotify.com/album/6x58KbazwOTgq3kvqCkfU8) | 3:00 |
-| 25 | [Maleantes](https://open.spotify.com/track/3CmWevRUManHD4x4Zq3sUn) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Maleantes](https://open.spotify.com/album/7lMI6gHGhP2tuaGA6u8H7r) | 3:02 |
+| 25 | [Maleantes](https://open.spotify.com/track/3CmWevRUManHD4x4Zq3sUn) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze) | [Maleantes](https://open.spotify.com/album/7lMI6gHGhP2tuaGA6u8H7r) | 3:02 |
 | 26 | [Chrome Hearts](https://open.spotify.com/track/58wgKTWyUgt5qZ81dCJuWX) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Chrome Hearts](https://open.spotify.com/album/13M63bdSyUG6xESkHoxd5s) | 2:51 |
 | 27 | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/track/0hzO3OqNIPCwRKxvwBdtjS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/album/7K7gpv5RyKPE8hJK8HEXRV) | 6:41 |
 | 28 | [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 |

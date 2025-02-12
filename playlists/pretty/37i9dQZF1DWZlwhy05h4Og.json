@@ -1,12 +1,12 @@
 {
   "description": "The sweetest bops. Cover: IVE",
-  "num_followers": 59090,
+  "num_followers": 59100,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj7wAAAACznRqBrswF++qv5AfjN2pn",
+  "snapshot_id": "Z6rQKwAAAADbWrFJ3FwAMZMvwdsmCNkI",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:31",
@@ -57,6 +57,30 @@
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
+      "added_at": "2025-02-11 04:20:59",
+      "album": {
+        "name": "Born Again (feat. Doja Cat & RAYE)",
+        "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "STRATEGY",
@@ -95,6 +119,22 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2025-02-11 04:20:59",
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/2Mt5nyYU4rYJSQkWXM7F0w"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        }
+      ],
+      "duration_ms": 195682,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/3g9pB5c01TzX76uVI4OffZ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -835,38 +875,6 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Caught in Your Love",
-        "url": "https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH"
-      },
-      "artists": [
-        {
-          "name": "Boys World",
-          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
-        }
-      ],
-      "duration_ms": 138117,
-      "name": "Caught in Your Love",
-      "url": "https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "ONE SPARK",
-        "url": "https://open.spotify.com/album/6CesmOUsdv2kFhSULTgjYd"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 183559,
-      "name": "ONE SPARK - English ver.",
-      "url": "https://open.spotify.com/track/5IxRJvXvul00cwrzBEc3CG"
     },
     {
       "added_at": "2024-07-26 04:00:00",

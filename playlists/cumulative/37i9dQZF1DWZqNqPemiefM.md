@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-731 songs - 2 day 8 hr 42 min
+732 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 | 2024-09-06 |
 | [Fragment](https://open.spotify.com/track/2IPgfIisrvoZ9gfjjgIiMo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Fragment](https://open.spotify.com/album/57AhM9WpuWG2206JjB1uZz) | 4:02 | 2023-11-09 | 2023-11-24 |
 | [frame](https://open.spotify.com/track/1wDCny9Fsxj78bGAUc6Urn) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Frame](https://open.spotify.com/album/4VXrSbUbWpKjrOsUO97ttE) | 7:53 | 2022-04-07 | 2022-04-16 |
+| [From a Distance](https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4) | [marucoporoporo](https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk) | [Conceive the Sea](https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1) | 3:19 | 2025-02-11 |  |
 | [Frost](https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 7:40 | 2025-01-13 | 2025-01-26 |
 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 | 2024-12-10 |  |
 | [Funeral Doom Espresso](https://open.spotify.com/track/6ib2seI733Fc4Ywu9n2YtY) | [and end und\(o\)](https://open.spotify.com/artist/1X4ne9Wa1NJVTAzimZnHNp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 5:04 | 2022-04-07 | 2022-04-15 |
@@ -317,7 +318,7 @@
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
 | [karen](https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [karen](https://open.spotify.com/album/7HXUQ0wldUM1kHP6YIzlKu) | 2:17 | 2023-07-13 | 2023-10-20 |
 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 | 2024-02-08 | 2024-08-25 |
-| [kinda tropical](https://open.spotify.com/track/2LZB38Y5WJCISdXgxfhbpD) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/6g4taOTq57JhbX3csMw6EW) | 3:16 | 2025-01-24 |  |
+| [kinda tropical](https://open.spotify.com/track/2LZB38Y5WJCISdXgxfhbpD) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/6g4taOTq57JhbX3csMw6EW) | 3:16 | 2025-01-24 | 2025-02-12 |
 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 | 2024-02-08 | 2024-04-19 |
 | [KITA VS MEREKA \(Salamanda Remix\)](https://open.spotify.com/track/4nSN1JjvIndrFZu9fTAIIO) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [adaptations](https://open.spotify.com/album/69omOCz2NGSLe7Tum2J4IS) | 4:33 | 2024-03-07 | 2024-09-06 |
 | [KITA VS MEREKA \- Salamanda Remix](https://open.spotify.com/track/671pvgZBbIfiljHlA1Gpp3) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [KITA VS MEREKA \(Salamanda Remix\)](https://open.spotify.com/album/4DWpBfqdUsCE8gX5JlcEmp) | 4:33 | 2024-02-08 | 2024-04-19 |

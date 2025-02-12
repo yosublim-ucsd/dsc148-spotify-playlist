@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8mW4CDSm4pA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8mW4CDSm4pA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8mW4CDSm4pA)
 
-### [Dominique's Taste](https://open.spotify.com/playlist/37i9dQZF1DX8mW4CDSm4pA)
+### [Dominique Fishback's Taste](https://open.spotify.com/playlist/37i9dQZF1DX8mW4CDSm4pA)
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 

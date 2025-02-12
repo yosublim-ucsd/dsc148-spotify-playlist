@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Moon Colony Bloodbath",
+        "url": "https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        },
+        {
+          "name": "John Vanderslice",
+          "url": "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Emerging",
+      "url": "https://open.spotify.com/track/34Lc6CQKHdtzfS9YRwA23t"
+    },
+    {
+      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },

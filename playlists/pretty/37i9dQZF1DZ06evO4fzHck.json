@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 563722,
+  "num_followers": 563849,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6fwAAAAAAAjMR33IU6lag9bCCi2SAVi",
+  "snapshot_id": "Z6lBgAAAAAAi7bae23S8TyGUqnEB42cJ",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 257418,
-      "name": "Warsong",
-      "url": "https://open.spotify.com/track/2xKKz8S1y8F7aGzwK4oi1m"
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 321101,
-      "name": "All I Ever Am",
-      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
+      "duration_ms": 257418,
+      "name": "Warsong",
+      "url": "https://open.spotify.com/track/2xKKz8S1y8F7aGzwK4oi1m"
     },
     {
       "added_at": null,

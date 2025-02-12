@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Beach Bunny
 
-1,508 songs - 3 day 14 hr 38 min
+1,509 songs - 3 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-10-31 | 2024-12-11 |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-20 | 2024-08-21 |
 | [IDGAF](https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [IDGAF](https://open.spotify.com/album/78BenUPiBj9XK93B1PO7pt) | 2:22 | 2023-11-23 | 2023-12-01 |
+| [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-06 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-16 | 2023-04-07 |
 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 | 2024-10-03 |  |
 | [If You Build It](https://open.spotify.com/track/1zCvex13DIndjHZqIuxF9Q) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [If You Build It](https://open.spotify.com/album/4xCD3eNJv1bKODePEvbtyF) | 3:57 | 2023-03-23 | 2023-03-31 |
@@ -973,7 +974,7 @@
 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2023-11-23 | 2023-12-01 |
 | [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-06-01 | 2023-06-23 |
 | [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-06-01 | 2023-06-05 |
-| [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-05 |  |
+| [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-05 | 2025-02-12 |
 | [Oslo \(feat\. Démira\)](https://open.spotify.com/track/6jwgHppeFp9IIr7f1AySJs) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Race the Night](https://open.spotify.com/album/5TmUKuohnkb7ndRNKdCgBE) | 4:29 | 2023-09-15 | 2023-09-22 |
 | [Other People](https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Other People](https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0) | 3:37 | 2024-09-05 | 2025-01-24 |
 | [Our World](https://open.spotify.com/track/5nPryXH2QLYZgtUs1iyF31) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Our World](https://open.spotify.com/album/7fhagsTbXxAqAXFJ6PQuPO) | 4:16 | 2024-02-29 | 2024-04-12 |

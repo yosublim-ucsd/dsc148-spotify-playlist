@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Gorgon City
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,746 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,753 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 69 | [Push Me](https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Push Me](https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL) | 4:39 |
 | 70 | [Look My Way](https://open.spotify.com/track/0lM0EOabMO2HIx9x9WOnkg) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Look My Way](https://open.spotify.com/album/0Uv6dixMkPtIBMsfZK1wzW) | 3:50 |
 | 71 | [Round & Round](https://open.spotify.com/track/6yASkBM9miqxp1wTpD56YT) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [What's Mine Is YOURS](https://open.spotify.com/album/4nem5cmNI5CaxWGai82X9W) | 3:03 |
-| 72 | [All My People](https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [All My People](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 4:28 |
+| 72 | [ALL MY PEOPLE](https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [ALL MY PEOPLE](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 4:28 |
 | 73 | [Get Lost](https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7) | 3:32 |
 | 74 | [Everybody](https://open.spotify.com/track/6A6mNDfIirCXtlc2LVbRS1) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Everybody](https://open.spotify.com/album/3Fkcm2XVPL6LPcPANqMLMB) | 6:24 |
 | 75 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |

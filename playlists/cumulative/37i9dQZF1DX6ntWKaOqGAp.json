@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: \u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: BREIMEN",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 330265,
       "name": "Another World - Alt. ver.",
       "url": "https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 291896,
       "name": "foundyou",
       "url": "https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz"
@@ -7921,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Just Another Day",
+        "url": "https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3"
+    },
+    {
+      "album": {
         "name": "Not Unusual",
         "url": "https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB"
       },
@@ -8282,7 +8300,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 257133,
       "name": "Kimi no Koibito ni Naremasuyoni",
       "url": "https://open.spotify.com/track/7dOXqMImww0Ol9r1XA5Vb6"
@@ -8924,6 +8942,24 @@
       "duration_ms": 246965,
       "name": "Leap",
       "url": "https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7"
+    },
+    {
+      "album": {
+        "name": "Goodbye2.0",
+        "url": "https://open.spotify.com/album/4iXfOwdVBcRG2Qw0F4KpPi"
+      },
+      "artists": [
+        {
+          "name": "Zukai",
+          "url": "https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228861,
+      "name": "Letter to Myself",
+      "url": "https://open.spotify.com/track/1hmKmlMoMctWxj8g8gja9O"
     },
     {
       "album": {
@@ -11134,6 +11170,24 @@
       "duration_ms": 200000,
       "name": "Nichijo no Sukosi Saki e",
       "url": "https://open.spotify.com/track/2XFgux5P8xq6JwgFImat2W"
+    },
+    {
+      "album": {
+        "name": "Night Kids",
+        "url": "https://open.spotify.com/album/6UAuLAarQt4lFGiQJqYf29"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247692,
+      "name": "Night Kids",
+      "url": "https://open.spotify.com/track/07XVcBBVuy61655lHeNs2C"
     },
     {
       "album": {
@@ -13395,6 +13449,24 @@
     },
     {
       "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/4f4vzIjlI3xxJs8IXE9gzG"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/6IRH9YLa56GbTyHyvVgQwM"
+    },
+    {
+      "album": {
         "name": "ROOM",
         "url": "https://open.spotify.com/album/1qzohwHcsrGp8L1BnKoTLy"
       },
@@ -14164,7 +14236,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 222453,
       "name": "sentimental",
       "url": "https://open.spotify.com/track/6N5aK6TK484YUWkxmyl1Us"
@@ -15390,6 +15462,24 @@
       "duration_ms": 262826,
       "name": "STARDOM (ALBUM ver.)",
       "url": "https://open.spotify.com/track/0lH9KLh9SAC8honP42ydkf"
+    },
+    {
+      "album": {
+        "name": "Dead End.",
+        "url": "https://open.spotify.com/album/1Jrm070jCnOWDEEreD4WMi"
+      },
+      "artists": [
+        {
+          "name": "polly",
+          "url": "https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271988,
+      "name": "Starlight Starlight - re-recording",
+      "url": "https://open.spotify.com/track/08OXmEI7ZtwcBQxKRYI4FR"
     },
     {
       "album": {
@@ -18282,6 +18372,24 @@
       "duration_ms": 273386,
       "name": "Will",
       "url": "https://open.spotify.com/track/4d9Dt9PhUYRx5gf9Lgfd6E"
+    },
+    {
+      "album": {
+        "name": "Without you",
+        "url": "https://open.spotify.com/album/42r4ioVAytvz2fvvfYrutO"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279049,
+      "name": "Without you",
+      "url": "https://open.spotify.com/track/7utMFMe3A0Ki8mwOm2kAIX"
     },
     {
       "album": {
@@ -21198,7 +21306,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 201541,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2hagb23712pIdbkW437arv"
@@ -21367,6 +21475,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30b2\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/0vsupM6aCnzZIpZUeSEPhF"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261366,
+      "name": "\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7IxSLwOvzPianPBi0VsAF8"
+    },
+    {
+      "album": {
         "name": "SUPER DUST BOX",
         "url": "https://open.spotify.com/album/5mCMv1KQ29IGd8g9QKs4U0"
       },
@@ -21378,7 +21504,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 161933,
       "name": "\u30a2\u30b7\u30bf\u30ab\u30d5\u30df",
       "url": "https://open.spotify.com/track/2V8j4ByVtPRRtTEOoHycYn"
@@ -23872,7 +23998,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 252366,
       "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30fb\u30df\u30fc",
       "url": "https://open.spotify.com/track/4WJSeg7A7Sqn4ieGOOMAgw"
@@ -25592,7 +25718,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 169886,
       "name": "\u30d3\u30fc\u30ca\u30b9\u30d0\u30b0",
       "url": "https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF"
@@ -26952,6 +27078,24 @@
       "duration_ms": 269750,
       "name": "\u30e9\u30b9\u30c8\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/6TsbJfhKnVsM2mr9OghsqX"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30b9\u30c8\u30e9\u30a4\u30d6",
+        "url": "https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169728,
+      "name": "\u30e9\u30b9\u30c8\u30e9\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR"
     },
     {
       "album": {
@@ -33728,7 +33872,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 254733,
       "name": "\u72c2\u8a69\u66f2",
       "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
@@ -34868,6 +35012,24 @@
       "duration_ms": 251000,
       "name": "\u8272\u5f69",
       "url": "https://open.spotify.com/track/1xQkiYu0JiYpTCZ4tGMGit"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u3060\u3088\u308a",
+        "url": "https://open.spotify.com/album/3qlsQe8zHDv8bjIpCcmuMO"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185912,
+      "name": "\u82b1\u3060\u3088\u308a",
+      "url": "https://open.spotify.com/track/1AOFADZrzi8HmtymciRWcI"
     },
     {
       "album": {

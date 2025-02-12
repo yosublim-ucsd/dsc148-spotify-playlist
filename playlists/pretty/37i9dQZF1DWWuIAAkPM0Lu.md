@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🌧️ det er  <a href="spotify:album:2bnnrhhq45z8MEfLbW04zo">Regntid</a>  i <a href="spotify:artist:1w2fVGZN37TieWhlqS8UwB">Tobias Rahim</a>  land 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,653 likes - 108 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,670 likes - 108 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 72 | [Hvad ved de](https://open.spotify.com/track/0ER5alunyZrXEHC8UdkuJZ) | [Figi](https://open.spotify.com/artist/43VE5bWGVooLKe8DXKxO99) | [Hvad ved de](https://open.spotify.com/album/0roxGxFMhoa7bvXsx4IoKK) | 2:18 |
 | 73 | [Putita Boutique](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 |
 | 74 | [K.O](https://open.spotify.com/track/3DaOjfOyWAIkLTrhx5xXEq) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug) | [CROWDPLEASER](https://open.spotify.com/album/4ZWm1APWj4dXfX2y8aulUI) | 3:15 |
-| 75 | [KONJAKMUND](https://open.spotify.com/track/1dis7r7AeXwqwEKOUUnfot) | [Piskeringen](https://open.spotify.com/artist/3GaFF5rRNyOn4Gevw60Gbi) | [KONJAKMUND](https://open.spotify.com/album/1ROss1pRkqTULvaZiv5MBH) | 3:34 |
+| 75 | [KONJAKMUND](https://open.spotify.com/track/1dis7r7AeXwqwEKOUUnfot) | [Piskeringen](https://open.spotify.com/artist/3GaFF5rRNyOn4Gevw60Gbi), [L.A.D.J](https://open.spotify.com/artist/71H9IQh0VAmsFV57kCRxSO) | [KONJAKMUND](https://open.spotify.com/album/1ROss1pRkqTULvaZiv5MBH) | 3:34 |
 | 76 | [Only The Dream](https://open.spotify.com/track/2lme5taLUzxbhr39etbO9R) | [Kira Skov](https://open.spotify.com/artist/4KafLGsDcBlyXxeQZhYs6e) | [Only The Dream](https://open.spotify.com/album/4yZxWOsA3FITwvy9lT37LC) | 3:42 |
 | 77 | [mit job](https://open.spotify.com/track/23PfUi7JOYGIuw5vIyk7IX) | [JOHANNA](https://open.spotify.com/artist/0un4gegeUTgoLWeol2Xk4p) | [mit job](https://open.spotify.com/album/0m3ImSYguFSVP1IBXj5dgC) | 2:21 |
 | 78 | [Hot Hell](https://open.spotify.com/track/1Wt9uoMxRWmYSmEqv2TYuG) | [Howl Baby Howl](https://open.spotify.com/artist/4X4CJ9ctDZDbMGFLxAAkJr) | [Hot Hell](https://open.spotify.com/album/2MSBCa98kvzLLM2BL6aV1Q) | 3:28 |

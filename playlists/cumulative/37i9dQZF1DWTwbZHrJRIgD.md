@@ -2,7 +2,7 @@
 
 ### [Happy Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD)
 
-> Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
+> Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
 287 songs - 17 hr 11 min
 

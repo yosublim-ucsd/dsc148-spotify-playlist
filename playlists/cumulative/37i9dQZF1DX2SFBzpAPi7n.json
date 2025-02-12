@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YongYong(\uc6a9\uc6a9)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can\u2019t be blue (\uce94\ud2b8\ube44\ube14\ub8e8)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1888,6 +1888,24 @@
       "duration_ms": 167533,
       "name": "BURN IT",
       "url": "https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l"
+    },
+    {
+      "album": {
+        "name": "Friendly Rivalry (Music from the U+ Original Series), Pt.1",
+        "url": "https://open.spotify.com/album/55GAJiDrO0gyczbrjxmajO"
+      },
+      "artists": [
+        {
+          "name": "KimYeji",
+          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/3Y1IAppsgZTMz7Zuz4RjaL"
     },
     {
       "album": {
@@ -5549,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Highway Drive",
+        "url": "https://open.spotify.com/album/7p97vh6lADgQuYDB28nZDK"
+      },
+      "artists": [
+        {
+          "name": "NEKIRU",
+          "url": "https://open.spotify.com/artist/64Qq6Sd2V4cRGNQV2xUjOC"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220744,
+      "name": "Highway Drive",
+      "url": "https://open.spotify.com/track/2hSZMOhx9OlNjVtTyEtxJd"
+    },
+    {
+      "album": {
         "name": "HOLA!",
         "url": "https://open.spotify.com/album/3hV4UVXS8ijrebLmwFKvo6"
       },
@@ -9044,7 +9080,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 246786,
       "name": "No Sad Christmas",
       "url": "https://open.spotify.com/track/0rYnCUmYBrLJAic7vG4flh"
@@ -11454,7 +11490,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 240506,
       "name": "SEMICOLON",
       "url": "https://open.spotify.com/track/0w65CzzSEWuafT4YHh3RTy"

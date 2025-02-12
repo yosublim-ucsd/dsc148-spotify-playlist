@@ -28818,7 +28818,7 @@
     {
       "album": {
         "name": "Paper Tiger",
-        "url": "https://open.spotify.com/album/78aXk9yoczDZZL6arDNamK"
+        "url": "https://open.spotify.com/album/0ZdgpbDDrPdvV5iEgPM6vs"
       },
       "artists": [
         {
@@ -28829,6 +28829,24 @@
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
+    },
+    {
+      "album": {
+        "name": "Paper Tiger",
+        "url": "https://open.spotify.com/album/78aXk9yoczDZZL6arDNamK"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2025-02-12",
       "duration_ms": 236746,
       "name": "Paper Tiger",
       "url": "https://open.spotify.com/track/37UND3TMdgzQuo8sWwv2ts"
@@ -41565,6 +41583,24 @@
     },
     {
       "album": {
+        "name": "Tiquitimporta",
+        "url": "https://open.spotify.com/album/3kXU6xsPKIMQ51aTx1Hvtz"
+      },
+      "artists": [
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199843,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/5q9XeHMz5hHCuQqf0tPwY5"
+    },
+    {
+      "album": {
         "name": "Serenatas Relajantes: M\u00fasica Para Momentos De Tranquilidad",
         "url": "https://open.spotify.com/album/2sTnUyn1H8fQ8NthZwDV2H"
       },
@@ -42334,7 +42370,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 223948,
       "name": "Una vez al amanecer",
       "url": "https://open.spotify.com/track/7IQhT0BKvimBIwiLRLwqoF"

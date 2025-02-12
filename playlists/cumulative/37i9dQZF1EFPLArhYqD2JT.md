@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-423 songs - 21 hr 31 min
+424 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [I Hate You](https://open.spotify.com/track/15Ch2t2IZZYuTgdyAusT8i) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD), [Clark Kinkade](https://open.spotify.com/artist/6AYvsa57rciOcUJhOjU2IP) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:49 | 2024-07-26 |  |
 | [I Left My Door Open And My Daddy Walked Out](https://open.spotify.com/track/3HHnYzvHrGRe6CbP5pwlR1) | [Melba Joyce](https://open.spotify.com/artist/10BhWnQxizSg0AjpgtrZ1G) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:44 | 2024-07-26 |  |
 | [I lost my heart in Dixieland](https://open.spotify.com/track/3fjb4PYlVNYDorJeSyatK0) | [Carling Family](https://open.spotify.com/artist/4WLYmIWkWojIhqM0PaTopW) | [I Lost My Heart in Dixieland \(Remastered 2022\)](https://open.spotify.com/album/3R0JMH013J5oMyAEL5p56b) | 3:36 | 2024-07-26 |  |
-| [I Love a Piano \(from "Easter Parade"\) \- 2022 Remaster](https://open.spotify.com/track/5ZgMeltueybl7epMZmg9NK) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:02 | 2024-07-26 |  |
+| [I Love a Piano](https://open.spotify.com/track/5gUM0eqO9EGt5pqzuV6d8c) | [Jeffrey Denman](https://open.spotify.com/artist/60XxONbcXrwmgz0zFUsfP1), [Meredith Patterson](https://open.spotify.com/artist/4lj78Zo811riLjFwTL2n4P) | [Irving Berlin's White Christmas \(Original Broadway Cast Recording\)](https://open.spotify.com/album/43HbWHgKPaSlr1wcU8ppa0) | 6:27 | 2025-02-11 |  |
+| [I Love a Piano \(from "Easter Parade"\) \- 2022 Remaster](https://open.spotify.com/track/5ZgMeltueybl7epMZmg9NK) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:02 | 2024-07-26 | 2025-02-12 |
 | [I Love to Quarrel with You](https://open.spotify.com/track/0yxQzat8Hvc4dKnFydxhGM) | [Joris De Graaf](https://open.spotify.com/artist/74hKeFZjAULbjEtRs4xsa7), [Samantha Cunha](https://open.spotify.com/artist/208ANASVZ8sR4GDiZTjqC4) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:25 | 2024-07-26 |  |
 | [I Never Knew](https://open.spotify.com/track/34D0OTRM9nll0ieaIBC1go) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 2:46 | 2024-07-26 |  |
 | [I Poured My Heart into a Song](https://open.spotify.com/track/1gww2t5AXtWwqNxywHJFVa) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad), [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Sweeter As the the Years Go By](https://open.spotify.com/album/0Emj8zsqcN1mfAazETrWoB) | 3:27 | 2024-07-26 |  |

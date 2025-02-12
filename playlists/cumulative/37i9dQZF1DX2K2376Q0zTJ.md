@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: にしな
 
-1,285 songs - 3 day 3 hr 44 min
+1,287 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [60W](https://open.spotify.com/track/1xRACXqo2UiX6Ci4oa5vKw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [60W](https://open.spotify.com/album/4WOO5s3gSbRsFV0q5D6AzF) | 4:15 | 2023-02-28 | 2023-04-05 |
 | [7PM](https://open.spotify.com/track/1d0O6pvaUAvXzRRDL6w0bt) | [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [7PM](https://open.spotify.com/album/5yKThZCHmsuXJImNoAihKz) | 2:42 | 2022-02-01 | 2022-03-08 |
 | [90s crush](https://open.spotify.com/track/3drvYH6aDxJ0I4eASKXNn3) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Pieces](https://open.spotify.com/album/5uTR2WsUcfuKJYbMktSgop) | 2:35 | 2024-06-20 | 2024-07-31 |
-| [^\_^](https://open.spotify.com/track/3xS7BMJ5vn7MAo2e8IEEpr) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:17 | 2025-01-28 |  |
+| [^\_^](https://open.spotify.com/track/3xS7BMJ5vn7MAo2e8IEEpr) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:17 | 2025-01-28 | 2025-02-12 |
 | [A place](https://open.spotify.com/track/3DX4j1k25kYNSfIEz7XWya) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Bicycle](https://open.spotify.com/album/1Y9QrYdLxPaFZIWQWDx33s) | 3:11 | 2023-02-01 | 2023-03-01 |
 | [A.idea](https://open.spotify.com/track/6NyXUpeAWDc0xn3gsUN1G5) | [大槻美奈](https://open.spotify.com/artist/2t7oBLvbMC9ykeWssrjZpY) | [A.idea](https://open.spotify.com/album/5hWn94J80bNerd7yxfqo80) | 3:12 | 2022-11-08 | 2022-12-07 |
 | [A.K.Y](https://open.spotify.com/track/03GB22WsBDXi7SBTZSrJkD) | [RUMI](https://open.spotify.com/artist/7DCJDPInYy4TPJyQkkxHQO) | [Hell Me NATION](https://open.spotify.com/album/2GMBlIxhihEuAOL0hI2iqB) | 3:58 | 2022-04-05 | 2023-06-07 |
@@ -110,7 +110,7 @@
 | [Butterfly Effect](https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Pink](https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz) | 4:26 | 2022-11-08 | 2022-12-07 |
 | [Bye\-Bye King](https://open.spotify.com/track/0zTHa1Kd07I1VTZX8jMKrb) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [RICK NOVA](https://open.spotify.com/artist/7flydDGMB0orujddPJZnTg) | [Bye\-Bye King](https://open.spotify.com/album/355SYUVufkwA8t7mDJEJQK) | 2:56 | 2022-04-05 | 2022-05-05 |
 | [Bye\-Bye Show](https://open.spotify.com/track/6Md1BGo8aCwM2dA33RiKIJ) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:41 | 2023-04-04 | 2023-05-03 |
-| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-10-03 |  |
+| [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 | 2023-10-03 | 2025-02-12 |
 | [Call me](https://open.spotify.com/track/0hLubqb57Mh6y0Ejo4fRaM) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Call me](https://open.spotify.com/album/44JZmSyPk3MjDooKuYFl7b) | 3:37 | 2024-11-05 | 2024-11-20 |
 | [Call me back](https://open.spotify.com/track/0ATR9Mvv8yHfrB8SIGsHTO) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:45 | 2022-11-08 | 2022-12-07 |
 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 | 2022-10-04 | 2022-11-09 |
@@ -581,6 +581,7 @@
 | [Old Clothes](https://open.spotify.com/track/6EnoT8pI9QwEpFP5OkuTV4) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Old Clothes](https://open.spotify.com/album/1MvNkSzLScMEdmqJQelvfC) | 3:39 | 2024-04-02 | 2024-04-19 |
 | [Old Fashioned](https://open.spotify.com/track/0yhssomPAIOv4cL3HwIAzN) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Old Fashioned](https://open.spotify.com/album/791Y0tkLWKDUzXKyEp89IG) | 3:22 | 2022-04-05 | 2022-05-05 |
 | [Omokage](https://open.spotify.com/track/0GUOzPGEMADiL0oSHimQ0G) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A.O.U](https://open.spotify.com/album/0mBkpjLhZlFr8xqcOWfRog) | 4:00 | 2022-12-06 | 2023-09-06 |
+| [ON](https://open.spotify.com/track/0VyK2oBDqDuZXKRn3vUkT6) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Orbit](https://open.spotify.com/album/5Y95h3smPs2ihUnfe06Mi5) | 3:18 | 2025-02-11 |  |
 | [on my Side](https://open.spotify.com/track/77XGISIFuoGSCHnmfK72iA) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [on my Side](https://open.spotify.com/album/6akYERAOFyOAh6lyyT1dID) | 3:24 | 2022-05-04 |  |
 | [on my Side](https://open.spotify.com/track/7iyfDLXG80sHowlgbWR5t5) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Sweet My Life](https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS) | 3:24 | 2024-12-04 | 2025-01-18 |
 | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/track/1mKjl4KEhTa3UGCJ2NDU7y) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [New Beautiful](https://open.spotify.com/album/6DQTtGy06K7dcHZMPqO7sW) | 4:14 | 2024-02-06 | 2024-03-06 |
@@ -606,6 +607,7 @@
 | [Particle](https://open.spotify.com/track/4ihoXkHvnBZdyTIZzSgw3J) | [accobin](https://open.spotify.com/artist/6rGKtjbJfGY3atTJhJIoZx) | [Particle](https://open.spotify.com/album/5ZsegoJBhk97rhzEYWyelz) | 4:23 | 2024-09-24 | 2024-11-06 |
 | [Party](https://open.spotify.com/track/4ybwxHHSzz4By3nXF8FJvJ) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Sweet Candy Power](https://open.spotify.com/album/3O0gSgAX6jicxzsk0h4q8T) | 2:04 | 2022-03-07 | 2022-04-06 |
 | [Party on a Floating Cake](https://open.spotify.com/track/04ET3zGa23mz0eoEOhJZp6) | [Takako Minekawa](https://open.spotify.com/artist/3XxrXIYWH5PpuTbYSXDOZw), [Dustin Wong](https://open.spotify.com/artist/484ZnYb0Vh2fHtYD0bEQuF) | [Toropical Circle](https://open.spotify.com/album/7iKaxwVjs2gfU6oPusIcCf) | 5:05 | 2022-01-04 | 2022-02-02 |
+| [Pay Me Back!!](https://open.spotify.com/track/3QE0yRnjtR9x0KBb0vpEBF) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Pay Me Back!!](https://open.spotify.com/album/7ys0yqLjcdKhOeoJJ6L2nR) | 4:03 | 2025-02-11 |  |
 | [PEACH \- Tomggg Remix](https://open.spotify.com/track/7oybnfTTWZuPpgKKQVtL1s) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [PEACH \(Tomggg Remix\)](https://open.spotify.com/album/0iIpSHekZeiQQN42RBDTrJ) | 3:18 | 2022-07-05 | 2022-08-03 |
 | [PENGUIN](https://open.spotify.com/track/6h2BSiiLu9gNNVKbaAt2GS) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [PENGUIN](https://open.spotify.com/album/0k1hj2yTQpt5weUHOheTk3) | 3:03 | 2022-04-05 | 2022-05-05 |
 | [Perfect](https://open.spotify.com/track/3tWsNTG8oCwGZXKxsLO9up) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [Perfect](https://open.spotify.com/album/6OfpvSOqtJgdaeik9xlhAS) | 2:18 | 2023-05-02 | 2024-01-10 |

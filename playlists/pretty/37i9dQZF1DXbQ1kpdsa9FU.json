@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: MercyMe",
-  "num_followers": 630502,
+  "num_followers": 630617,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Burn The Ships",
-      "url": "https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238306,
       "name": "Scars",
       "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Burn The Ships",
+      "url": "https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Pieces Of A Real Heart",
-        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Lead Me",
-      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "God's Not Dead",
         "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 218200,
       "name": "Your Love Never Fails",
       "url": "https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "There Is More (Live)",
-        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Reuben Morgan",
-          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
-        }
-      ],
-      "duration_ms": 329080,
-      "name": "Who You Say I Am - Live",
-      "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Own It",
         "url": "https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0"
       },
@@ -1515,22 +1491,42 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 253653,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+      "duration_ms": 329080,
+      "name": "Who You Say I Am - Live",
+      "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "The Struggle",
+        "url": "https://open.spotify.com/album/3TunW3H9Be9xvvR9Ip7a0L"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Worn",
+      "url": "https://open.spotify.com/track/6jAAYLKxXPyeEoddXu6Gf7"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "The Struggle",
-        "url": "https://open.spotify.com/album/3TunW3H9Be9xvvR9Ip7a0L"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
       "artists": [
         {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Worn",
-      "url": "https://open.spotify.com/track/6jAAYLKxXPyeEoddXu6Gf7"
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Spoken For",
-        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Prize Worth Fighting For",
         "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 240173,
       "name": "Place In This World",
       "url": "https://open.spotify.com/track/0PKTBeN87JYJ1mRzrq5Aog"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Spoken For",
+        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "One More Song for You",
         "url": "https://open.spotify.com/album/06cB2QYDAQBVfM2uhmXeNC"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 208266,
       "name": "Living Without Your Love",
       "url": "https://open.spotify.com/track/19JyDDO6hZmEjdagNDA2Km"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "A Heart That Knows You",
-        "url": "https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5"
-      },
-      "artists": [
-        {
-          "name": "Twila Paris",
-          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
-      "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 286826,
       "name": "Glorious Unfolding",
       "url": "https://open.spotify.com/track/5AyWEKs3d9PXpPkUuf5vup"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "A Heart That Knows You",
+        "url": "https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5"
+      },
+      "artists": [
+        {
+          "name": "Twila Paris",
+          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
+      "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Heed the Call",
+        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
+      },
+      "artists": [
+        {
+          "name": "The Imperials",
+          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "Project",
         "url": "https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg"
       },
@@ -2011,38 +2027,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Watercolour Ponies",
-        "url": "https://open.spotify.com/album/4D03taESIu1pdn4tRDabew"
-      },
-      "artists": [
-        {
-          "name": "Wayne Watson",
-          "url": "https://open.spotify.com/artist/7M8NpXAQ8mw9SN4323qa8S"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Friend of a Wounded Heart",
-      "url": "https://open.spotify.com/track/7dKaS16uoCHqQJg0AlHdwT"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Heed the Call",
-        "url": "https://open.spotify.com/album/7fSkpkobqUMFlyXFC63e0P"
-      },
-      "artists": [
-        {
-          "name": "The Imperials",
-          "url": "https://open.spotify.com/artist/0VEYLlS75s0mdIznsxmwqf"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Praise the Lord",
-      "url": "https://open.spotify.com/track/100RdpthpOQWtEJO6OIh5U"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Beyond A Dream",
         "url": "https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 345693,
       "name": "God Is In Control",
       "url": "https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Watercolour Ponies",
+        "url": "https://open.spotify.com/album/4D03taESIu1pdn4tRDabew"
+      },
+      "artists": [
+        {
+          "name": "Wayne Watson",
+          "url": "https://open.spotify.com/artist/7M8NpXAQ8mw9SN4323qa8S"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Friend of a Wounded Heart",
+      "url": "https://open.spotify.com/track/7dKaS16uoCHqQJg0AlHdwT"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2187,8 +2187,8 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "This Is What We Believe",
-        "url": "https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn"
+        "name": "Ever Be",
+        "url": "https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj"
       },
       "artists": [
         {
@@ -2196,9 +2196,9 @@
           "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 254453,
-      "name": "My Hope Is In You",
-      "url": "https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI"
+      "duration_ms": 230093,
+      "name": "Ever Be",
+      "url": "https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2323,8 +2323,8 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Ever Be",
-        "url": "https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj"
+        "name": "This Is What We Believe",
+        "url": "https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn"
       },
       "artists": [
         {
@@ -2332,9 +2332,9 @@
           "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 230093,
-      "name": "Ever Be",
-      "url": "https://open.spotify.com/track/0P8ANiSwsjYPx3zrmgN2Pv"
+      "duration_ms": 254453,
+      "name": "My Hope Is In You",
+      "url": "https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
+        "name": "Everything Is Changing",
+        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 242122,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Everything Is Changing",
-        "url": "https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS"
-      },
-      "artists": [
-        {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
     },
     {
       "added_at": "2024-12-11 10:24:02",

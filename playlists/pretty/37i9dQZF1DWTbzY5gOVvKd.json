@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1267864,
+  "num_followers": 1268083,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
-    },
-    {
-      "added_at": "2025-02-07 08:11:54",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 200586,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+    },
+    {
+      "added_at": "2025-02-07 08:11:54",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2025-02-07 08:11:54",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09"
-    },
-    {
-      "added_at": "2025-02-07 08:11:54",
-      "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 271840,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
+    },
+    {
+      "added_at": "2025-02-07 08:11:54",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09"
     },
     {
       "added_at": "2025-02-07 08:11:54",
@@ -771,18 +771,22 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
       "artists": [
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
         }
       ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
     },
     {
       "added_at": "2025-02-07 08:11:54",
@@ -839,6 +843,22 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
+        "name": "True Love: A Celebration Of Cole Porter",
+        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
+    },
+    {
+      "added_at": "2025-02-07 08:11:54",
+      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -855,6 +875,22 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
+    },
+    {
+      "added_at": "2025-02-07 08:11:54",
+      "album": {
         "name": "Dear Blossom,",
         "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
       },
@@ -867,42 +903,6 @@
       "duration_ms": 233120,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2025-02-07 08:11:54",
-      "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
-    },
-    {
-      "added_at": "2025-02-07 08:11:54",
-      "album": {
-        "name": "True Love: A Celebration Of Cole Porter",
-        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Mind If I Make Love To You",
-      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
     },
     {
       "added_at": "2025-02-07 08:11:54",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
+        "name": "Bria",
+        "url": "https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 355120,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
+    },
+    {
+      "added_at": "2025-02-07 08:11:54",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 283933,
       "name": "Fools Rush In (Where Angels Fear To Tread)",
       "url": "https://open.spotify.com/track/4mxR3iB1bvDEUsSuFLeIWF"
-    },
-    {
-      "added_at": "2025-02-07 08:11:54",
-      "album": {
-        "name": "Bria",
-        "url": "https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 355120,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2"
     },
     {
       "added_at": "2025-02-07 08:11:54",
@@ -1275,18 +1275,26 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
+        "name": "Dance me Love",
+        "url": "https://open.spotify.com/album/6mMuAmH1j9RPmq7tU4hBNP"
       },
       "artists": [
         {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        },
+        {
+          "name": "Vince Mendoza",
+          "url": "https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt"
+        },
+        {
+          "name": "Stavanger Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l"
         }
       ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
+      "duration_ms": 410640,
+      "name": "Dance me Love",
+      "url": "https://open.spotify.com/track/6HuDtUKtqmoEyHV9tdBt4g"
     },
     {
       "added_at": "2025-02-07 08:11:54",
@@ -1343,26 +1351,18 @@
     {
       "added_at": "2025-02-07 08:11:54",
       "album": {
-        "name": "Dance me Love",
-        "url": "https://open.spotify.com/album/6mMuAmH1j9RPmq7tU4hBNP"
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
       },
       "artists": [
         {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        },
-        {
-          "name": "Vince Mendoza",
-          "url": "https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt"
-        },
-        {
-          "name": "Stavanger Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l"
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
         }
       ],
-      "duration_ms": 410640,
-      "name": "Dance me Love",
-      "url": "https://open.spotify.com/track/6HuDtUKtqmoEyHV9tdBt4g"
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
     },
     {
       "added_at": "2025-02-07 08:11:54",

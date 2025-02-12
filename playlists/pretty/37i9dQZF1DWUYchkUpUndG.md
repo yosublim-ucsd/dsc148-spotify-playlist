@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=baAWU7xKS9WdZjxCYcU7DA>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,352 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,380 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 22 | [No Holiday](https://open.spotify.com/track/6bxvTw0Yz1ZVfJYBViYRZl) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Holiday](https://open.spotify.com/album/4W9RcH0poROY0B3fowCQHC) | 2:32 |
 | 23 | [ADN Du Très Haut](https://open.spotify.com/track/5GC90DIyNa10RJADEyOKaP) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [Allégeance](https://open.spotify.com/album/6zlphDHcJp4Qen4eZ8qxHW) | 2:42 |
 | 24 | [Come Unto Me](https://open.spotify.com/track/2PFWI604D3iP3JJVRGab7Q) | [Jae Sekoya](https://open.spotify.com/artist/0kJwyMUjDs6cebm8YzOa69) | [Come Unto Me](https://open.spotify.com/album/5K0sWwCj3QmMNLKKGEauY0) | 3:20 |
-| 25 | [More Than Able \(Rendition\)](https://open.spotify.com/track/6kuqOOw4Gx1Gf0ABg7bl1g) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Brunes Charles](https://open.spotify.com/artist/75PUcsuFxStAxp5KdHm8Ky) | [More Than Able \(Rendition\)](https://open.spotify.com/album/1cs0GYf4oXbAqMWZgnCYhy) | 7:33 |
+| 25 | [More Than Able \(Rendition\)](https://open.spotify.com/track/6kuqOOw4Gx1Gf0ABg7bl1g) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Brunes Charles](https://open.spotify.com/artist/75PUcsuFxStAxp5KdHm8Ky) | [More Than Able \(Rendition\)](https://open.spotify.com/album/1cs0GYf4oXbAqMWZgnCYhy) | 7:13 |
 | 26 | [My Provider](https://open.spotify.com/track/6oq8KX1V0nCwOLXuKplM4h) | [Rachel K](https://open.spotify.com/artist/5l8RuqUL0kJ3w14uWdPB2p) | [My Provider](https://open.spotify.com/album/1glzHahEYSlcvQZNiGkvfJ) | 6:13 |
 | 27 | [Follow The Ladder \- Pt\. 2](https://open.spotify.com/track/0xJfsPlznkjbrhlCSZzSgZ) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Follow The Ladder \(Pt\. 2\)](https://open.spotify.com/album/04Hl4Iq8JU2zTfx1UFO17o) | 2:25 |
 | 28 | [AKA](https://open.spotify.com/track/4Gj954UJH9Gl7RSGgtEZ3A) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [AKA](https://open.spotify.com/album/7zQHyAymqrCvSfg26xlXxU) | 2:52 |

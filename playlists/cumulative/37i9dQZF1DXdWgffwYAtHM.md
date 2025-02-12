@@ -4,7 +4,7 @@
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5j7Xq0NEDtSOahTZK3bVLc">Colo de amiga por @sofidisse</a>
 
-82 songs - 2 day 4 hr 43 min
+83 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [\#81 Encerrar ciclos e se priorizar](https://open.spotify.com/episode/7tqBlecTjLFkIZggYUexDp) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 36:32 | 2024-09-02 | 2025-01-02 |
 | [\#82 \- Diva do Interior com Dacota Monteiro \- Joguei no Grupo](https://open.spotify.com/episode/20OYOIb2XrA5lWKjU1Qh07) | [Joguei no Grupo](https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9) | [Joguei no Grupo](https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9) | 1:22:42 | 2025-02-05 |  |
 | [\#83\. Fake da ex](https://open.spotify.com/episode/0UtkMJoxHoY2MSoY6kXs1B) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 29:10 | 2025-02-05 | 2025-02-10 |
+| [\#86\. Senta no sofá](https://open.spotify.com/episode/4D7NKgEB2LOcttCzk07rtE) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 1:11:44 | 2025-02-11 |  |
 | [24 coisas que aprendi em 2024](https://open.spotify.com/episode/062mzNRvFnTkT2P6yToADN) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 1:11:07 | 2025-01-01 | 2025-02-06 |
 | [A bizarra história do ator de Sons Of Anarchy](https://open.spotify.com/episode/742GqYTFTyQhbux4rWTngQ) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 14:48 | 2024-10-01 | 2024-12-01 |
 | [A caçada da internet que solucionou um crime](https://open.spotify.com/episode/7Jh8cUrOGm9h1CM25wbRjk) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 27:04 | 2024-07-31 | 2025-01-02 |

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-345 songs - 1 day 9 hr 4 min
+346 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,9 +349,10 @@
 | [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 | 2023-03-31 | 2023-09-28 |
 | [Viraha](https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:43 | 2022-05-17 | 2023-03-21 |
 | [Yaad Mein Teri](https://open.spotify.com/track/1iuo9lZmjtkHGl3CEUnyiq) | [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Yaad Mein Teri](https://open.spotify.com/album/0AdWPet98IM9MvgluErmmU) | 4:40 | 2024-07-19 | 2024-10-23 |
+| [Yaad Piya Ki Aaye](https://open.spotify.com/track/7hxceYCVZ9xTSa1B1qGJfB) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Yaad Piya Ki Aaye](https://open.spotify.com/album/1VkcfG5Eua7OONFtKzQbfW) | 1:45 | 2025-02-11 |  |
 | [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 | 2023-04-19 |
 | [Yaara Hindi \(Thumri Mix\)](https://open.spotify.com/track/2jVBs0hLNF6Vbws3b7WIzR) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Yaara Hindi \(Thumri Mix\)](https://open.spotify.com/album/4mrt2FnwTm56MP1ciili4u) | 4:23 | 2024-09-13 | 2025-01-07 |
 | [Yaman](https://open.spotify.com/track/5y4WiVUc1SbjnfXLu9szYI) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Yaman](https://open.spotify.com/album/6NZONtGQRxsnIomjyClIqf) | 5:24 | 2022-05-17 | 2023-08-02 |
-| [Yamuna Yearnings](https://open.spotify.com/track/77kdTp43iKwACd2YOiFx4e) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Shuchismita](https://open.spotify.com/artist/1wNhICMwgSPAKq7CaaKOih), [Murad Ali Khan](https://open.spotify.com/artist/2MzryQ4sZXI0fRhR0yNPal), [Praashekh Borkar](https://open.spotify.com/artist/17NTosWFIOwiwnF6EI7Ya5), [Sivakumar Balakrishnan](https://open.spotify.com/artist/2BpolmMpVeF2cgGbMAutnA), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW) | [Manoyatri](https://open.spotify.com/album/211aYaCuqflLPDpC05kMzT) | 8:35 | 2025-01-06 |  |
+| [Yamuna Yearnings](https://open.spotify.com/track/77kdTp43iKwACd2YOiFx4e) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Shuchismita](https://open.spotify.com/artist/1wNhICMwgSPAKq7CaaKOih), [Murad Ali Khan](https://open.spotify.com/artist/2MzryQ4sZXI0fRhR0yNPal), [Praashekh Borkar](https://open.spotify.com/artist/17NTosWFIOwiwnF6EI7Ya5), [Sivakumar Balakrishnan](https://open.spotify.com/artist/2BpolmMpVeF2cgGbMAutnA), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW) | [Manoyatri](https://open.spotify.com/album/211aYaCuqflLPDpC05kMzT) | 8:35 | 2025-01-06 | 2025-02-12 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-149 songs - 10 hr 7 min
+150 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bowls of Peace](https://open.spotify.com/track/1ZnT8c13FdHVHQwVpwJAX7) | [Sophisto](https://open.spotify.com/artist/64fwopk0HjUIjcj3QS58vP) | [Bowls of Peace](https://open.spotify.com/album/5gHrrOLNTjGgqZG6xMkRsR) | 2:24 | 2022-12-13 |  |
 | [Bowls Singing In Rain](https://open.spotify.com/track/3ifRFotnUDoLLfnk2LHlve) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:24 | 2022-12-13 |  |
 | [Bowlsong](https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW) | [Wounderous Flight](https://open.spotify.com/artist/6DIGdnc8rQh4G8ZGrtQzZh) | [Bowlsong](https://open.spotify.com/album/7hKYJG6dQY17H7d3RAJREu) | 2:27 | 2022-12-13 |  |
+| [Brook](https://open.spotify.com/track/2RsoQkqUa60wRf5eT9tls4) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Brook](https://open.spotify.com/album/7BmzxCXDaZXNkvkGJBnUvH) | 3:08 | 2025-02-11 |  |
 | [Cacophony A432](https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki) | [Natural Tuning](https://open.spotify.com/artist/0db3whzEc8o8hAIp7Q9wp5) | [Cacophony A432](https://open.spotify.com/album/2sict1ksexBHINmD0zIL5T) | 3:40 | 2022-04-14 |  |
 | [Calming Bowls](https://open.spotify.com/track/65A12U2jKBo95338kC8lqc) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Calming Bowls](https://open.spotify.com/album/5lzWTvXfhA60WLzQ6T3M4F) | 3:04 | 2022-02-22 | 2024-08-03 |
 | [Chakra Flow](https://open.spotify.com/track/3UBDhpBYVntgcCDeJqKRG7) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Chakra Flow](https://open.spotify.com/album/1PzQzN5rY7D5Mfz5unME6E) | 3:04 | 2024-08-30 |  |

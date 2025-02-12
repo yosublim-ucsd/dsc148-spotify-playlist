@@ -1,12 +1,12 @@
 {
   "description": "LISA, Doja Cat et RAYE au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 361835,
+  "num_followers": 361846,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6XCDgAAAACuooMS84EpPFzW99k75wv1",
+  "snapshot_id": "Z6tWMQAAAABJ2/By/Vh0IcNxD7WEFI2w",
   "tracks": [
     {
       "added_at": "2025-02-07 00:00:23",
@@ -47,46 +47,6 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2025-02-07 08:19:26",
-      "album": {
-        "name": "Longue Vie \u00e0 Nous",
-        "url": "https://open.spotify.com/album/2fvOXdn92fUIcL7V715BkF"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Toute la Noch\u00e9",
-      "url": "https://open.spotify.com/track/2NC9scbSq1g3CYSlf6KwUC"
-    },
-    {
-      "added_at": "2025-02-07 00:00:23",
-      "album": {
-        "name": "ULTIMATUM",
-        "url": "https://open.spotify.com/album/74T7gPVoBbJsfg59Nf6vlR"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 163574,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/4Fkken2vbissEcoXRBxqrv"
     },
     {
       "added_at": "2025-02-07 00:00:23",
@@ -1010,10 +970,6 @@
         {
           "name": "Thomas Fersen",
           "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
-        },
-        {
-          "name": "Trio SR9",
-          "url": "https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G"
         }
       ],
       "duration_ms": 199887,

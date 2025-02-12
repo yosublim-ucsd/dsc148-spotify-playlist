@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 218470,
       "name": "Bukan Cinta Biasa - Dekade Version",
       "url": "https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk"
@@ -2286,10 +2286,28 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 297986,
       "name": "Senja Di Ambang Pilu",
       "url": "https://open.spotify.com/track/0ozCiYwzpYkb7N4etcjrnh"
+    },
+    {
+      "album": {
+        "name": "Senja Teduh Pelita (Unplugged)",
+        "url": "https://open.spotify.com/album/2oJEg2EW2YBs9WdMPalTck"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Senja Teduh Pelita - Unplugged",
+      "url": "https://open.spotify.com/track/6s3hkiLTPjhLy27Is1pVTz"
     },
     {
       "album": {
@@ -2532,6 +2550,24 @@
       "duration_ms": 204137,
       "name": "terima kasih",
       "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
+    },
+    {
+      "album": {
+        "name": "terjebak imajinasi (acoustic version)",
+        "url": "https://open.spotify.com/album/3UuteNNDPaFk8E5rp9qdlN"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "terjebak imajinasi - acoustic version",
+      "url": "https://open.spotify.com/track/2mKCo6yFO77yt0XN5G7vIy"
     },
     {
       "album": {

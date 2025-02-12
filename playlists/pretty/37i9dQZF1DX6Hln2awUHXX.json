@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 104480,
+  "num_followers": 104500,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Symphonies In E Major & C Major",
+        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Tokyo Metropolitan Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+        },
+        {
+          "name": "Hiroshi Wakasugi",
+          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+        }
+      ],
+      "duration_ms": 864060,
+      "name": "Symphony In E Major, WWV 35: I. Allegro Con Spirito",
+      "url": "https://open.spotify.com/track/27DC12Py5Cs6oJnkA8v2Yb"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner : Tristan und Isolde",
         "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 394093,
       "name": "Lohengrin, WWV 75 / Act 3: \"In fernem Land, unnahbar euren Schritten\"",
       "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Symphonies In E Major & C Major",
-        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Tokyo Metropolitan Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
-        },
-        {
-          "name": "Hiroshi Wakasugi",
-          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
-        }
-      ],
-      "duration_ms": 864060,
-      "name": "Symphony In E Major, WWV 35: I. Allegro Con Spirito",
-      "url": "https://open.spotify.com/track/27DC12Py5Cs6oJnkA8v2Yb"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1096,38 +1096,6 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Alessandra Marc",
-          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
-        },
-        {
-          "name": "Poul Elming",
-          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Christoph von Dohn\u00e1nyi",
-          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
-        }
-      ],
-      "duration_ms": 413466,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
-      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
       "artists": [
@@ -1155,6 +1123,38 @@
       "duration_ms": 249265,
       "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\"",
       "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Alessandra Marc",
+          "url": "https://open.spotify.com/artist/37YfrOYL3c4sYAo476dRWB"
+        },
+        {
+          "name": "Poul Elming",
+          "url": "https://open.spotify.com/artist/7bHZBuJZGuhcn2YmhMGmoH"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Christoph von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/00Z7CY1UMeGccawHXlZ6Zd"
+        }
+      ],
+      "duration_ms": 413466,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Du bist der Lenz\"",
+      "url": "https://open.spotify.com/track/3hWo1vRyTrkS1lI4BMdcv0"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1204,17 +1204,13 @@
           "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
         },
         {
-          "name": "Chor der Bayerischen Staatsoper",
-          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
-        },
-        {
-          "name": "Deon Van Der Walt",
-          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
+          "name": "Bernd Weikl",
+          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
         }
       ],
-      "duration_ms": 435106,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 1: \"Der Meister T\u00f6n' und Weisen\" - \"Damit, Herr Ritter\" (David, Walther, Chor)",
-      "url": "https://open.spotify.com/track/3Ok9NLhvrbvWouDJxDcc1t"
+      "duration_ms": 322400,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
+      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1240,13 +1236,17 @@
           "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
         },
         {
-          "name": "Bernd Weikl",
-          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
+          "name": "Chor der Bayerischen Staatsoper",
+          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
+        },
+        {
+          "name": "Deon Van Der Walt",
+          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
-      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
+      "duration_ms": 435106,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 1: \"Der Meister T\u00f6n' und Weisen\" - \"Damit, Herr Ritter\" (David, Walther, Chor)",
+      "url": "https://open.spotify.com/track/3Ok9NLhvrbvWouDJxDcc1t"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Orchestral Highlights From Operas",
-        "url": "https://open.spotify.com/album/5Ujil97aAPMDomJzSePK66"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 428040,
-      "name": "Tannhauser, Act II: Entrance of the Guests",
-      "url": "https://open.spotify.com/track/49AlzX6xEt4s9NSS9jrjd9"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: G\u00f6tterd\u00e4mmerung, WWV 86D",
         "url": "https://open.spotify.com/album/6P5s1ZZOcngweslkz8iA8E"
       },
@@ -1851,6 +1827,30 @@
       "duration_ms": 583786,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
       "url": "https://open.spotify.com/track/41bZLobGbA6vSSrVFLAEui"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner, R.: Orchestral Highlights From Operas",
+        "url": "https://open.spotify.com/album/5Ujil97aAPMDomJzSePK66"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 428040,
+      "name": "Tannhauser, Act II: Entrance of the Guests",
+      "url": "https://open.spotify.com/track/49AlzX6xEt4s9NSS9jrjd9"
     },
     {
       "added_at": "2022-06-28 08:58:25",

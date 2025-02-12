@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 360788,
+  "num_followers": 360845,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
+        "name": "Sunrise Sunfall (Edit)",
+        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
+      },
+      "artists": [
+        {
+          "name": "NATE08",
+          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 193105,
+      "name": "Sunrise Sunfall - Edit",
+      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
+    },
+    {
+      "added_at": "2025-01-24 00:00:27",
+      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
-    },
-    {
-      "added_at": "2025-01-24 00:00:27",
-      "album": {
-        "name": "Sunrise Sunfall (Edit)",
-        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
-      },
-      "artists": [
-        {
-          "name": "NATE08",
-          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
-        },
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 193105,
-      "name": "Sunrise Sunfall - Edit",
-      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
     },
     {
       "added_at": "2025-01-24 00:00:27",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
-        "name": "Back 2 Me (feat. Sadie Walker)",
-        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
-        }
-      ],
-      "duration_ms": 253221,
-      "name": "Back 2 Me (feat. Sadie Walker)",
-      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
-    },
-    {
-      "added_at": "2025-01-24 00:00:27",
-      "album": {
         "name": "Ego Slide",
         "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
+        "name": "Back 2 Me (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 253221,
+      "name": "Back 2 Me (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+    },
+    {
+      "added_at": "2025-01-24 00:00:27",
+      "album": {
         "name": "DAY&NITE",
         "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
       },
@@ -971,6 +971,26 @@
       "duration_ms": 205000,
       "name": "DAY&NITE",
       "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "added_at": "2025-01-24 00:00:27",
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-01-24 00:00:27",
@@ -1007,26 +1027,6 @@
       "duration_ms": 118604,
       "name": "Ching",
       "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2025-01-24 00:00:27",
-      "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
-      },
-      "artists": [
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        },
-        {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-01-24 00:00:27",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2025-01-24 00:00:27",
       "album": {
+        "name": "Can't Afford Me",
+        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
+      },
+      "artists": [
+        {
+          "name": "Kuma Overdose",
+          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
+        },
+        {
+          "name": "SA$H\u00a3R",
+          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
+        }
+      ],
+      "duration_ms": 218424,
+      "name": "Can't Afford Me",
+      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
+    },
+    {
+      "added_at": "2025-01-24 00:00:27",
+      "album": {
         "name": "Click Bait",
         "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
-    },
-    {
-      "added_at": "2025-01-24 00:00:27",
-      "album": {
-        "name": "Can't Afford Me",
-        "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
-      },
-      "artists": [
-        {
-          "name": "Kuma Overdose",
-          "url": "https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ"
-        },
-        {
-          "name": "SA$H\u00a3R",
-          "url": "https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb"
-        }
-      ],
-      "duration_ms": 218424,
-      "name": "Can't Afford Me",
-      "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
     },
     {
       "added_at": "2025-01-24 00:00:27",

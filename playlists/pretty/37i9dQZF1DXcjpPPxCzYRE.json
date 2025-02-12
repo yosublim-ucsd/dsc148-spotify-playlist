@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 420079,
+  "num_followers": 420204,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 264176,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Sin Miedo a Vivir",
-        "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
       "artists": [
         {
-          "name": "Jacob Mey",
-          "url": "https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5"
-        },
-        {
-          "name": "Juls Catt\u00e1neo",
-          "url": "https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW"
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Sin Miedo a Vivir",
-      "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1195,18 +1191,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+        "name": "Hay algo en ti",
+        "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
       },
       "artists": [
         {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
         }
       ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+      "duration_ms": 146176,
+      "name": "Hay algo en ti",
+      "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1231,22 +1227,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Hay algo en ti",
-        "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
-      },
-      "artists": [
-        {
-          "name": "Eva Sola",
-          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
-        }
-      ],
-      "duration_ms": 146176,
-      "name": "Hay algo en ti",
-      "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
         "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 177854,
       "name": "Renegades - Acoustic Version",
       "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Sin Miedo a Vivir",
+        "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
+      },
+      "artists": [
+        {
+          "name": "Jacob Mey",
+          "url": "https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5"
+        },
+        {
+          "name": "Juls Catt\u00e1neo",
+          "url": "https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Sin Miedo a Vivir",
+      "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 205577,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 205577,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Amor del bueno",
         "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1419,18 +1435,38 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
       "artists": [
         {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+          "name": "Ombligo",
+          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
+        },
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+      "duration_ms": 271061,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1455,38 +1491,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
       "artists": [
         {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
-      },
-      "artists": [
-        {
-          "name": "Ombligo",
-          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
-        },
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 271061,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M"
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1507,22 +1523,6 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
       "artists": [
         {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     }
   ],
   "unique_name": "Relax en casa",

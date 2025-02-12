@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 
 > 
 
-[richachatlani](https://open.spotify.com/user/richachatlani) - 7 likes - 693 songs - 1 day 16 hr 19 min
+[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 693 songs - 1 day 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

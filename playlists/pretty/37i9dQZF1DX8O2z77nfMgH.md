@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,091 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,088 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Apocalipsis](https://open.spotify.com/track/2iu30VOiuJk3T40v6k9WVO) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Apocalipsis](https://open.spotify.com/album/5yaVhs2WE3wny6eGCfiDvY) | 3:27 |
 | 39 | [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 |
 | 40 | [MISIONAR](https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [Misionar](https://open.spotify.com/album/3OzpYS3uCXPpbDx2ABYsKj) | 4:19 |
-| 41 | [Maleantes](https://open.spotify.com/track/3CmWevRUManHD4x4Zq3sUn) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Maleantes](https://open.spotify.com/album/7lMI6gHGhP2tuaGA6u8H7r) | 3:02 |
+| 41 | [Maleantes](https://open.spotify.com/track/3CmWevRUManHD4x4Zq3sUn) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze) | [Maleantes](https://open.spotify.com/album/7lMI6gHGhP2tuaGA6u8H7r) | 3:02 |
 | 42 | [Esos Besos](https://open.spotify.com/track/4I9UkvzNbYo2pXtFmTfssJ) | [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Esos Besos](https://open.spotify.com/album/0QdmMgAw6fgIqAqQzlQf7s) | 4:07 |
 | 43 | [Cha Cha Love](https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cha Cha Love](https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue) | 3:34 |
 | 44 | [Dá Professor](https://open.spotify.com/track/4rgCAWulB4gaskgIaSqTvR) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Dá Professor](https://open.spotify.com/album/3FGUwgagwDDVbtO9P15rU8) | 2:37 |

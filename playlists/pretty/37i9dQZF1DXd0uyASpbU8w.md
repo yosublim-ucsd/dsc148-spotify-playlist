@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=8\_YdOuPtQeuHTILduA39Zw">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,822 likes - 63 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,863 likes - 63 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 6 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 7 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
 | 8 | [Wale Wale](https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale](https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1) | 5:17 |
-| 9 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [Abel](https://open.spotify.com/artist/7kOiqab0tLQ9xYlFNAeP3n) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 |
+| 9 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [ABEL](https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 |
 | 10 | [1000 Seconds \- Jullian Gomes Perspective](https://open.spotify.com/track/25FQ5dflxTi5wpCi2KKehb) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi), [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [1000 Seconds \(Jullian Gomes Perspective\)](https://open.spotify.com/album/1fSxsBZDpEjQe7u9mLtSBZ) | 7:18 |
 | 11 | [Generation](https://open.spotify.com/track/3Piw8TimucHAUY1zwVQrEo) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 4:16 |
 | 12 | [Kusho Bani](https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Kusho Bani](https://open.spotify.com/album/4b3dDfp7hzYtLkjlYKM2xy) | 3:44 |

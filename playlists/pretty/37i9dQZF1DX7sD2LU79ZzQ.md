@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Anggis Devaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,584 likes - 92 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,621 likes - 92 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

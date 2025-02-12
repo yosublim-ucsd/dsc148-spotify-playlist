@@ -1,13 +1,65 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23785,
+  "num_followers": 23786,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAl+ILKvfP8cICcrZSPTYp2KRs1n8j7",
+  "snapshot_id": "AAAl/7hE4Dx4RIp+lrJdudDUqHAF+uST",
   "tracks": [
+    {
+      "added_at": "2025-02-11 20:33:54",
+      "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/1xJy0SjEfzPFHsbkJ2wUAQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Swanny",
+          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "With Me (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/0qFxYQZVxoMmMmV6u7fO3Z"
+    },
+    {
+      "added_at": "2025-02-11 20:34:16",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/6YGwRwJryaqUawRuq3g5fk"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 193757,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/4OMW1ESD5aZL3POzifBu0y"
+    },
+    {
+      "added_at": "2025-02-11 20:34:04",
+      "album": {
+        "name": "Business Class",
+        "url": "https://open.spotify.com/album/1xCXruxieVUH1D9jSMAwqc"
+      },
+      "artists": [
+        {
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        }
+      ],
+      "duration_ms": 213017,
+      "name": "Business Class",
+      "url": "https://open.spotify.com/track/2DAR7W1ThLhz3jr0NQusyb"
+    },
     {
       "added_at": "2025-01-31 23:22:17",
       "album": {

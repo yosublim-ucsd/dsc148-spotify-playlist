@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Claptone, Chicane
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,769 likes - 165 songs - 8 hr 30 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,755 likes - 165 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 8 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 |
 | 9 | [Lost In Loving You](https://open.spotify.com/track/3p4fWZjEKQyoW7ybknTCYv) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Lost In Loving You](https://open.spotify.com/album/1xL7rFjdago5PZ4vPzdEwO) | 2:35 |
 | 10 | [Feel Again](https://open.spotify.com/track/4CUN8JPl9Un9x5u59jG9hJ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Feel Again](https://open.spotify.com/album/18AQlq5SuAjxLqSs96ZUpn) | 3:12 |
-| 11 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [Abel](https://open.spotify.com/artist/7kOiqab0tLQ9xYlFNAeP3n) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 |
+| 11 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [ABEL](https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 |
 | 12 | [DFCW](https://open.spotify.com/track/1T8dzkxfuABDgXS0pG1fDf) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [DFCW](https://open.spotify.com/album/3h7Cs4gtHtdgRqi2ukWskK) | 4:00 |
 | 13 | [We Don't Sleep](https://open.spotify.com/track/5hMtQSwKqk8Cv3PBMFuvbP) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [We Don't Sleep](https://open.spotify.com/album/5mUGpwyB9upIt1rZOBClMW) | 2:06 |
 | 14 | [Reach For You](https://open.spotify.com/track/4hLDHwc3t9fx3zyn3NYBXN) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Reach For You](https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF) | 2:49 |

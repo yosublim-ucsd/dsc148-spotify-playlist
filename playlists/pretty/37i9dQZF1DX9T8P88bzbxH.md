@@ -2,31 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 ### [GO Live](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Welcome Home\.  Cover: lullaboy
+> Feel the Buzz\.  Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,266 likes - 20 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,244 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [gone too long](https://open.spotify.com/track/0LkWbtH4CUZShIkpGY7zZQ) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:27 |
-| 2 | [cool](https://open.spotify.com/track/5sWmLMxcZLIOlsU2oWhysh) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:25 |
-| 3 | [van gogh](https://open.spotify.com/track/72kFgF0HJpAggrbNA8UTta) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 2:53 |
-| 4 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
-| 5 | [blind](https://open.spotify.com/track/7jcuULQWzMwrNeYaVy0dyc) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 4:05 |
-| 6 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 |
-| 7 | [the boy](https://open.spotify.com/track/5OMMSd42ZRQdOJoZwC4g4L) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:36 |
-| 8 | [personal](https://open.spotify.com/track/0gE7IgQ0vsiV8KwJuvLjHt) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:06 |
-| 9 | [only in my dreams](https://open.spotify.com/track/0bUcL84dojQU3fk6AN2DaB) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:59 |
-| 10 | [pictures from afar](https://open.spotify.com/track/0NojykDZchtz64eBxeltjg) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 4:00 |
-| 11 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 |
-| 12 | [nervous](https://open.spotify.com/track/1IoFHQNdaIlQWR9tJ9Oj5Q) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nervous](https://open.spotify.com/album/76D3s0Tyv80NQISLIIryEx) | 3:34 |
-| 13 | [r&r](https://open.spotify.com/track/5F9PY53AsSFXO6vNWW14UG) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:07 |
-| 14 | [3 new words](https://open.spotify.com/track/3Cb6ugHGixDiw1KDWn2CFp) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 2:54 |
-| 15 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
-| 16 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 |
-| 17 | [life with u](https://open.spotify.com/track/00FncmbU5PCKfrSXmRE0AS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:25 |
-| 18 | [someone like u](https://open.spotify.com/track/6VMuD05WDxorQZJr5e9sDI) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:52 |
-| 19 | [honest \(ft\. lullaboy\)](https://open.spotify.com/track/0pQRf6Sxz1qT0VBykFFCN7) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [could've been us](https://open.spotify.com/album/1d8M3ddK5Qrr10M17wjXRQ) | 3:21 |
-| 20 | [shortcut to heaven](https://open.spotify.com/track/3ynNOuFyjyhzfKVYbWM8dp) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:04 |
+| 1 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 |
+| 2 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
+| 3 | [Colossal Loss](https://open.spotify.com/track/36aY2VhOBpgnExFZL1mBH2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:38 |
+| 4 | [Focus](https://open.spotify.com/track/21E7YyXgmUR2BP6EsF5jd8) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:25 |
+| 5 | [urs](https://open.spotify.com/track/4EMTe461jubpxPqFfVA0Rp) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/2ZFg5xTsm9GNA9jwM6E2Kn) | 2:36 |
+| 6 | [Autumn](https://open.spotify.com/track/7tKK8AGJ6Nfefm829JwLgr) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:52 |
+| 7 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 |
+| 8 | [Take Care](https://open.spotify.com/track/0bht8SpPHXiUMApKcua4Mz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:32 |
+| 9 | [La La Lost You](https://open.spotify.com/track/0QZLSImbxep9NyhhlCGOWh) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds II](https://open.spotify.com/album/0XTfFhfbxxwYx0658sgGAh) | 3:20 |
+| 10 | [Blue Moon](https://open.spotify.com/track/0ZEXKjSoVhiOaISn44Xotu) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:46 |
+| 11 | [Strong Girl](https://open.spotify.com/track/1mEjg7uvLIEl0OjQkcLiJo) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:34 |
+| 12 | [Tsunami](https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:51 |
+| 13 | [Oceans & Engines](https://open.spotify.com/track/42TdMRJSRaxgEz1O3ouvDT) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:36 |
+| 14 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
+| 15 | [The Apartment We Won't Share](https://open.spotify.com/track/2uOEendbLHR18khIbwooJ1) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj) | 2:29 |
+| 16 | [Paths](https://open.spotify.com/track/68FHdrL6dbruEBrfLjR52a) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:09 |
+| 17 | [Magnets](https://open.spotify.com/track/5lYN6iWRzaWm08s0Fhw6eM) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 |
+| 18 | [Heirloom Pain](https://open.spotify.com/track/5CNmH8vWVBaIlkNUbNBLVO) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:04 |
+| 19 | [Before](https://open.spotify.com/track/2JcLhDcdmV8ZZ7aTvyIp6s) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:54 |
+| 20 | [Nothing Can](https://open.spotify.com/track/01ewZY96RGYxWL2JKVTKBX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:43 |
+| 21 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 |
+| 22 | [Backburner](https://open.spotify.com/track/4kkWvBCT6wq5NHoJjYRaPU) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:56 |
+| 23 | [Take A Chance With Me](https://open.spotify.com/track/21acb66djKRlDPJOXRBCkc) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj) | 5:03 |
 
-Snapshot ID: `Z19/RgAAAACL15WHk0NtUiPgIO+CX8lZ`
+Snapshot ID: `Z6t0GQAAAACBX1aSsE9uLL3/EX6e1BFV`

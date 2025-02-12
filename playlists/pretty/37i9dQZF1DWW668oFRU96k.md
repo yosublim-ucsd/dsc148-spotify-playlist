@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x FAST BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,264 likes - 78 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,267 likes - 78 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 |
 | 2 | [Love You for the Summer \- Kohen Remix](https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Love You for the Summer \(Kohen Remix\)](https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz) | 2:38 |
-| 3 | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [My Life \(ft\. Swae Lee & PnB Rock, KABU\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
+| 3 | [My Life \(ft\. Swae Lee, PnB Rock, KABU\)](https://open.spotify.com/track/0gWBJI9s7jeQPH2YlQwM0b) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [My Life \(ft\. Swae Lee, PnB Rock, KABU\)](https://open.spotify.com/album/1vHnkyGDBjU1ibZNY2ct0M) | 2:48 |
 | 4 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
 | 5 | [You've Got The Love](https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [You've Got The Love](https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA) | 2:45 |
 | 6 | [Bass In Da Blood](https://open.spotify.com/track/2RvpQFVb9ZTStAm4qJSRf2) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bass In Da Blood](https://open.spotify.com/album/4IMtgnaXkHupe6aRGiHdoA) | 2:12 |

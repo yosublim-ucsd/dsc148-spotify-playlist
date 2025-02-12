@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 179000,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-12",
       "duration_ms": 280021,
       "name": "Pandir",
       "url": "https://open.spotify.com/track/26spoIQHpoeS0JW9QYhlOv"
@@ -2396,6 +2396,24 @@
       "duration_ms": 206306,
       "name": "Pilihanku",
       "url": "https://open.spotify.com/track/3puYuuZ7lmlTjIgXBOT01k"
+    },
+    {
+      "album": {
+        "name": "PILIHLAH AKU",
+        "url": "https://open.spotify.com/album/27CH3SGHz1EpTIsK8zI29c"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189029,
+      "name": "PILIHLAH AKU",
+      "url": "https://open.spotify.com/track/5WqGqgeknOAmkuucH5ytct"
     },
     {
       "album": {

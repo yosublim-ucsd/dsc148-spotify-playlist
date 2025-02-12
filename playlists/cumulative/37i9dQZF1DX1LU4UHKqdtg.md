@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: LISA
 
-1,347 songs - 3 day 0 hr 2 min
+1,348 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [IZNA](https://open.spotify.com/track/2rekyusaTqo0OseugmKV9h) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:36 | 2024-11-25 |  |
 | [I’m not myself when I’m around you \(Feat\. 10CM\)](https://open.spotify.com/track/56kfw7CKOCgcYqaoDU5o0B) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [I’m not myself when I’m around you](https://open.spotify.com/album/3lb7CQlyZU5YN9Ni9jbdx3) | 3:31 | 2022-08-19 | 2022-10-28 |
 | [Jacuzzi](https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [Jacuzzi](https://open.spotify.com/album/3OZaC0jqmBwWn1CEScwzlt) | 2:51 | 2023-10-12 | 2023-10-28 |
+| [Jelly Bean](https://open.spotify.com/track/02tzMoMSiIjUeVQSpmKa4O) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Jelly Bean](https://open.spotify.com/album/4zNrpV0xpqX08mafsQaikF) | 2:54 | 2025-02-11 |  |
 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 | 2025-01-14 |  |
 | [Jet](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JAEMIN](https://open.spotify.com/artist/346WlBab7ogTYOd1YhgcA7), [SUNGCHAN](https://open.spotify.com/artist/3kRn66oJ8iz6gJN32AyEPz), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2022 Winter SMTOWN : SMCU PALACE](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) | 3:27 | 2022-12-27 | 2023-03-15 |
 | [JIKJIN](https://open.spotify.com/track/5pp1SkT4D5VcAk4SZsz2xl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT) | 3:04 | 2022-03-15 | 2022-05-18 |
@@ -771,7 +772,7 @@
 | [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-12-01 | 2024-04-24 |
 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 | 2023-06-16 |
 | [Nothing But You \(Korean Ver.\)](https://open.spotify.com/track/0f0hE8jWYBpJC2JEZEc2MV) | [LEE JUNHO](https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg) | [Nothing But You \(Korean Ver.\)](https://open.spotify.com/album/0p2FzdABxb9ptQE69TFevx) | 4:04 | 2023-12-07 | 2024-01-10 |
-| [Now or Never](https://open.spotify.com/track/1pzZk1vD3qmxr9jAfLmlre) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [FIND THE ORBIT](https://open.spotify.com/album/1nejkxPmooWxu91sIMEbkO) | 2:52 | 2024-12-05 |  |
+| [Now or Never](https://open.spotify.com/track/1pzZk1vD3qmxr9jAfLmlre) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [FIND THE ORBIT](https://open.spotify.com/album/1nejkxPmooWxu91sIMEbkO) | 2:52 | 2024-12-05 | 2025-02-12 |
 | [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:22 | 2025-01-17 | 2025-01-29 |
 | [Nu Boo \(feat\. SOMIN of KARD\)](https://open.spotify.com/track/52MTEiHk6zIzA4vz9fje3P) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ), [SOMIN](https://open.spotify.com/artist/6awncfLx4nMbIIlud7mLrZ) | [Nu Boo \(feat\. SOMIN of KARD\)](https://open.spotify.com/album/317dY0NQqcIYgQT9ySk3gD) | 3:11 | 2024-05-23 | 2024-06-01 |
 | [NVKED](https://open.spotify.com/track/0ajEGDVNascvRTIF00SC4I) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [BORN LIKE THIS](https://open.spotify.com/album/4aJ7v5848ubd4iQF3lONqk) | 2:41 | 2024-10-11 | 2024-12-25 |
@@ -1182,7 +1183,7 @@
 | [Unstoppable](https://open.spotify.com/track/2kQxIqeYONePfvbeYG2npt) | [SooYoung](https://open.spotify.com/artist/2mTYQHj19falvbVgsh6nkg) | [Unstoppable](https://open.spotify.com/album/5af0MAXT3Igs4gbBTDbZVy) | 3:02 | 2024-10-23 | 2025-01-12 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:14 | 2024-04-18 | 2024-08-30 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-09 | 2024-04-19 |
-| [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-08 |  |
+| [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-08 | 2025-02-12 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-28 | 2022-09-07 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Up! \(Japanese version\)](https://open.spotify.com/track/7m78ItawUTPntyWYjdF8LS) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:12 | 2022-09-06 | 2022-11-16 |

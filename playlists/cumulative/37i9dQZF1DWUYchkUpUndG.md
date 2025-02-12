@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=baAWU7xKS9WdZjxCYcU7DA>Sunmisola Agbebi</a>
 
-4,419 songs - 13 day 9 hr 9 min
+4,419 songs - 13 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2473,7 +2473,7 @@
 | [MORE PT2](https://open.spotify.com/track/6vW2W0fBfrzEsjcokzILxv) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [MORE PT2](https://open.spotify.com/album/3O6R4RxwkZoxbo4pg5mnmP) | 2:16 | 2023-11-24 | 2023-12-01 |
 | [More Than a Song \- Live](https://open.spotify.com/track/0dzxARoS1ba8g01fzqU4Ob) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [More Than a Song \(Live\)](https://open.spotify.com/album/6603NDkKT3gyBk2qS94ad5) | 6:09 | 2023-06-05 | 2023-06-09 |
 | [More Than Able \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 | 2023-09-15 | 2023-09-29 |
-| [More Than Able \(Rendition\)](https://open.spotify.com/track/6kuqOOw4Gx1Gf0ABg7bl1g) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Brunes Charles](https://open.spotify.com/artist/75PUcsuFxStAxp5KdHm8Ky) | [More Than Able \(Rendition\)](https://open.spotify.com/album/1cs0GYf4oXbAqMWZgnCYhy) | 7:33 | 2025-02-07 |  |
+| [More Than Able \(Rendition\)](https://open.spotify.com/track/6kuqOOw4Gx1Gf0ABg7bl1g) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Brunes Charles](https://open.spotify.com/artist/75PUcsuFxStAxp5KdHm8Ky) | [More Than Able \(Rendition\)](https://open.spotify.com/album/1cs0GYf4oXbAqMWZgnCYhy) | 7:13 | 2025-02-07 |  |
 | [More Than Enough](https://open.spotify.com/track/1wDhZTUmUjQqc19lJx8WEz) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 3:29 | 2024-03-01 | 2024-03-16 |
 | [More Than Enough](https://open.spotify.com/track/0iaN8i17cvm6VbHoA4qDo9) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [More Than Enough](https://open.spotify.com/album/1IiI7CYV7erWyq1lx4wGVq) | 2:09 | 2024-01-26 | 2024-02-09 |
 | [Morning](https://open.spotify.com/track/4CePds7i6rqVBH0bD1vTIz) | [Lofi Prxxchr](https://open.spotify.com/artist/7KFHENWIur94kSsTfOndSJ), [King Davo](https://open.spotify.com/artist/6xevTwlQT0l6n96JSpjmTl), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Morning](https://open.spotify.com/album/2saEGhtWVOFaOGYtQr0ly4) | 2:33 | 2023-09-15 | 2023-09-29 |

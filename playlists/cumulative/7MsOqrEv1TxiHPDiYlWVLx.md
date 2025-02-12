@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Good Man Is Hard To Find](https://open.spotify.com/track/580PS3bx7mdpfvtSL5PFuW) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [And Her New Oleans Music](https://open.spotify.com/album/2zoSkGvjbRtruySH9fSbBQ) | 3:55 | 2015-07-23 |  |
-| [At Last \- Single Version](https://open.spotify.com/track/1nd9moIZkGvWoHtReFqkRY) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Love Songs](https://open.spotify.com/album/7HiCDrSmwCZnrPYHNtL9S0) | 2:59 | 2015-07-23 |  |
+| [At Last](https://open.spotify.com/track/1nd9moIZkGvWoHtReFqkRY) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Love Songs](https://open.spotify.com/album/7HiCDrSmwCZnrPYHNtL9S0) | 2:59 | 2015-07-23 |  |
 | [Blue Skies](https://open.spotify.com/track/4g0RZzAvzqOaVZcpuIHvra) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [The Very Best Of The Irving Berlin Songbook](https://open.spotify.com/album/3jZUAR2RlzsDOfK7JM9Yzl) | 3:43 | 2015-07-23 |  |
 | [Blue Skies](https://open.spotify.com/track/4rf8E6pZ30cTzysT0tlLeX) | [Ina Ray Hutton](https://open.spotify.com/artist/5rJTFdWfbp01Cq0nAg8JGg) | [1943\-44 Spotlight Band Broadcasts](https://open.spotify.com/album/7l0DKwqpvZWFc95SYngVjl) | 3:35 | 2015-07-23 |  |
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2015-07-23 |  |

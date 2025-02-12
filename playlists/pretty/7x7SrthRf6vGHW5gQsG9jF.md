@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 822 songs - 2 day 4 hr 36 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 like - 823 songs - 2 day 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -825,10 +825,11 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 815 | [Kantan Music](https://open.spotify.com/track/3NSfvCW9KEimRYfqaFpcO1) | [yuri](https://open.spotify.com/artist/5wPk5S4evPJCbmEQdkVCBJ) | [Kantan Music](https://open.spotify.com/album/78abDxBU6xwKIlrWhp2dph) | 1:40 |
 | 816 | [Laundry](https://open.spotify.com/track/6s0uvfD0JqvmfS8nCpFlux) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Laundry](https://open.spotify.com/album/0hpTzafFBuqoBqt5mwWBjU) | 4:18 |
 | 817 | [プラズマ](https://open.spotify.com/track/5YSf3oqSAWx1D5gWvjAYwK) | [METRO MEW](https://open.spotify.com/artist/1gJXZ1gVIHK0cYqQ9krQR7) | [STELLAR BOX](https://open.spotify.com/album/5uDxG83fAaryovBHsj0G38) | 3:00 |
-| 818 | [fake flower](https://open.spotify.com/track/0oIlhZ7Qj4DC7dL4U1nuqr) | [lical](https://open.spotify.com/artist/4QXbaOKt3DNKEPgAUhpNuP) | [flowers of sentence, rebirth at sea](https://open.spotify.com/album/6XTXlroDpsHt8tAxIXdgia) | 3:21 |
-| 819 | [realism](https://open.spotify.com/track/4bwh3WoiGGq29sQWVxLaOv) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 1:52 |
-| 820 | [zensekai](https://open.spotify.com/track/3CKPb29QSyXR2A9DoCjaRI) | [siraph](https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb) | [zensekai](https://open.spotify.com/album/7r3DsycMgzshhojy3QF1j6) | 2:26 |
-| 821 | [signal](https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa) | [sora tob sakana](https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO) | [deep blue](https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o) | 4:02 |
-| 822 | [Another Ride](https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0) | [ippo.tsk](https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof), [Synthesizer V ANRI](https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0) | [Another Ride](https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC) | 3:28 |
+| 818 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
+| 819 | [fake flower](https://open.spotify.com/track/0oIlhZ7Qj4DC7dL4U1nuqr) | [lical](https://open.spotify.com/artist/4QXbaOKt3DNKEPgAUhpNuP) | [flowers of sentence, rebirth at sea](https://open.spotify.com/album/6XTXlroDpsHt8tAxIXdgia) | 3:21 |
+| 820 | [realism](https://open.spotify.com/track/4bwh3WoiGGq29sQWVxLaOv) | [Limonène](https://open.spotify.com/artist/1v47kg4dmrJTFP66iuviss) | [Sour Salty Realism](https://open.spotify.com/album/1GJMrZCpTKF46YliIn2Xt9) | 1:52 |
+| 821 | [zensekai](https://open.spotify.com/track/3CKPb29QSyXR2A9DoCjaRI) | [siraph](https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb) | [zensekai](https://open.spotify.com/album/7r3DsycMgzshhojy3QF1j6) | 2:26 |
+| 822 | [signal](https://open.spotify.com/track/41btRuMq5oBOGNajmh4oVa) | [sora tob sakana](https://open.spotify.com/artist/2dEKl1tM3JMwggawEuVISO) | [deep blue](https://open.spotify.com/album/70do9DIPCGOV9gcI3j1m0o) | 4:02 |
+| 823 | [Another Ride](https://open.spotify.com/track/04GaJZFWPv10QCrIWRPeZ0) | [ippo.tsk](https://open.spotify.com/artist/6nSzLc3zDViNRTnsFLVKof), [Synthesizer V ANRI](https://open.spotify.com/artist/297BGVMd43JIrW2zEUvnJ0) | [Another Ride](https://open.spotify.com/album/1yhar1WHm4NeHL3YAVj9sC) | 3:28 |
 
-Snapshot ID: `AAAEw8/r5VOUD0ZcyOriZ3ha+wPcqIlI`
+Snapshot ID: `AAAExS233XRbpgI8epPFwL6pDJjGppR8`

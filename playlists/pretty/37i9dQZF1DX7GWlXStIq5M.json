@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Juliette",
-  "num_followers": 372122,
+  "num_followers": 372107,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173193,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "Estoy Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 159755,
       "name": "Estoy Aqu\u00ed - Remix",
       "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173193,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -527,26 +527,18 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
+        "name": "Solteiro",
+        "url": "https://open.spotify.com/album/2Rb8vpu6YrN6ZBMtNdmskN"
       },
       "artists": [
         {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Robson Abreu",
+          "url": "https://open.spotify.com/artist/57OP8DL4lPhyTpv0xxwLre"
         }
       ],
-      "duration_ms": 135319,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
+      "duration_ms": 142153,
+      "name": "Solteiro",
+      "url": "https://open.spotify.com/track/15Bd3CJap4qGbB0VRGBEs7"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -567,18 +559,26 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Solteiro",
-        "url": "https://open.spotify.com/album/2Rb8vpu6YrN6ZBMtNdmskN"
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
       },
       "artists": [
         {
-          "name": "Robson Abreu",
-          "url": "https://open.spotify.com/artist/57OP8DL4lPhyTpv0xxwLre"
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Solteiro",
-      "url": "https://open.spotify.com/track/15Bd3CJap4qGbB0VRGBEs7"
+      "duration_ms": 135319,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0dQaxEGl5a8vtFxIgqeoDd"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "BiKE (blv)",
+        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "BiKE (blv)",
+      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/2l5bUr8qR6Az6TNLPzAYqX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 216876,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/42khSD2cPF1lTJFw72k7A9"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "BiKE (blv)",
-        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "BiKE (blv)",
-      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 244827,
+      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
+      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 148037,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-        "url": "https://open.spotify.com/album/5m7k5HeGwC7X5uqpFCdY7v"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 244827,
-      "name": "Engano Seu / Saudade Daquilo / Sem Filtro",
-      "url": "https://open.spotify.com/track/7lvquhv1OmAXb0cj5DnRAr"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
+        "name": "Ela \u00e9 de Escorpi\u00e3o",
+        "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "Ela \u00e9 de Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2025-02-07 03:00:05",
       "album": {
-        "name": "Ela \u00e9 de Escorpi\u00e3o",
-        "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "Ela \u00e9 de Escorpi\u00e3o",
-      "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
         "name": "TEORIA DO CAOS",
         "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 205714,
       "name": "A GENTE SE FERRA JUNTO",
       "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
-    },
-    {
-      "added_at": "2025-02-07 03:00:05",
-      "album": {
-        "name": "PELADA",
-        "url": "https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 170916,
-      "name": "PELADA",
-      "url": "https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA"
     },
     {
       "added_at": "2025-02-07 03:00:05",
@@ -1583,6 +1567,22 @@
       "duration_ms": 124887,
       "name": "Oi Xod\u00f3zinho",
       "url": "https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y"
+    },
+    {
+      "added_at": "2025-02-07 03:00:05",
+      "album": {
+        "name": "PELADA",
+        "url": "https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 170916,
+      "name": "PELADA",
+      "url": "https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA"
     },
     {
       "added_at": "2025-02-07 03:00:05",

@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176924,
+  "num_followers": 176932,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Sonhei com Voc\u00ea",
         "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 261144,
       "name": "Sonhei com Voc\u00ea",
       "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 181514,
       "name": "Daqui pra Frente - Dread Session, Vol. 1",
       "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-01-31 03:01:21",
       "album": {
-        "name": "Under 2",
-        "url": "https://open.spotify.com/album/2o5lZ4WC24aMJy33yQ7iSy"
-      },
-      "artists": [
-        {
-          "name": "Aura Soul",
-          "url": "https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT"
-        },
-        {
-          "name": "Karmo",
-          "url": "https://open.spotify.com/artist/55mPoy8tE3rJ6kkigqWqYI"
-        }
-      ],
-      "duration_ms": 117346,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2sVpWKSFapyikQZVe2WiPf"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 177533,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "Under 2",
+        "url": "https://open.spotify.com/album/2o5lZ4WC24aMJy33yQ7iSy"
+      },
+      "artists": [
+        {
+          "name": "Aura Soul",
+          "url": "https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT"
+        },
+        {
+          "name": "Karmo",
+          "url": "https://open.spotify.com/artist/55mPoy8tE3rJ6kkigqWqYI"
+        }
+      ],
+      "duration_ms": 117346,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2sVpWKSFapyikQZVe2WiPf"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1159,6 +1159,30 @@
       "duration_ms": 155192,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
+    },
+    {
+      "added_at": "2025-01-31 03:01:21",
+      "album": {
+        "name": "\u00cdn.ti.mo",
+        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
+      },
+      "artists": [
+        {
+          "name": "Aysha Lima",
+          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        },
+        {
+          "name": "DG Prod",
+          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
+        }
+      ],
+      "duration_ms": 187954,
+      "name": "PFP (para fazer pretinhos)",
+      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
     },
     {
       "added_at": "2025-01-31 03:01:21",
@@ -1343,30 +1367,6 @@
       "duration_ms": 168053,
       "name": "Tenho Tanto de Voc\u00ea em Mim",
       "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
-    },
-    {
-      "added_at": "2025-01-31 03:01:21",
-      "album": {
-        "name": "\u00cdn.ti.mo",
-        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
-      },
-      "artists": [
-        {
-          "name": "Aysha Lima",
-          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        },
-        {
-          "name": "DG Prod",
-          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
-        }
-      ],
-      "duration_ms": 187954,
-      "name": "PFP (para fazer pretinhos)",
-      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
     },
     {
       "added_at": "2025-01-31 03:01:21",
