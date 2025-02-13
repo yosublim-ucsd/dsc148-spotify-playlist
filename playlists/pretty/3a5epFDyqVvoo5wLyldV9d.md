@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 827 songs - 2 day 16 hr 56 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 829 songs - 2 day 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -835,5 +835,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 825 | [Don't Worry Dub](https://open.spotify.com/track/4qLRCv42MmgBj3ptiFuspB) | [Annabouboula](https://open.spotify.com/artist/0c82Iowe8qfRaEFVFdn5wY) | [In The Baths Of Constantinople](https://open.spotify.com/album/0tMrkX4GMG77Er37bzzGCZ) | 5:55 |
 | 826 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 827 | [Gida](https://open.spotify.com/track/1uUZTWF47NosyvgFDxFn4h) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Gate Crashers](https://open.spotify.com/album/1XCOtw4cTIZuA4X1ZAwPhS) | 6:13 |
+| 828 | [Adome Nyueto \- Bosq Edit](https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Togo Soul 70](https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk) | 8:12 |
+| 829 | [Adome Nyueto](https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W) | 5:26 |
 
-Snapshot ID: `AAADo4AmjMp2zdPvH6FGLjlOwUkVp8dO`
+Snapshot ID: `AAADpV0RPJcN+TYcHc2bVizbJ6m6ml/I`

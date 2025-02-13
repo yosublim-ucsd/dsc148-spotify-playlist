@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 213106,
       "name": "Aaj Bhi",
       "url": "https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb"
@@ -2483,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/5mlwIwCNFVgrNXstZEjioq"
+      },
+      "artists": [
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/7sTRZjGMAffIs5M2pk3JH2"
+    },
+    {
+      "album": {
         "name": "Ghulaam",
         "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
       },
@@ -2824,7 +2842,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 189877,
       "name": "Haye Ri Duniya - Live",
       "url": "https://open.spotify.com/track/0S2Ya5ds1PuCnef3Hubxa6"
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 171126,
       "name": "Khwaishein hai meri",
       "url": "https://open.spotify.com/track/1pSZRr3h12xzKZUUasmbCL"
@@ -8233,6 +8251,28 @@
     },
     {
       "album": {
+        "name": "Tera Zikr",
+        "url": "https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        },
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "Tera Zikr",
+      "url": "https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5"
+    },
+    {
+      "album": {
         "name": "Tere Bin Laage",
         "url": "https://open.spotify.com/album/6qDbMxoh61bYMbBwKdrssP"
       },
@@ -8380,6 +8420,24 @@
       "duration_ms": 176538,
       "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Trending",
       "url": "https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw"
+    },
+    {
+      "album": {
+        "name": "Teri Aadat",
+        "url": "https://open.spotify.com/album/12cTuBqDOyvDonuFgEN4FO"
+      },
+      "artists": [
+        {
+          "name": "ANK",
+          "url": "https://open.spotify.com/artist/1pubO9H9yDaUmuweQHVne8"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186912,
+      "name": "Teri Aadat",
+      "url": "https://open.spotify.com/track/4AbWJGr7c0RAIawPiWEa5g"
     },
     {
       "album": {

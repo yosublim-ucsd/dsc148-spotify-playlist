@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Macario Mart\u00ednez. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring La Cassandra. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 247350,
       "name": "Ac\u00fafenos",
       "url": "https://open.spotify.com/track/6i1pMfXGVmpT1Jv9MaodOg"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 193507,
       "name": "Aerol\u00ednea",
       "url": "https://open.spotify.com/track/5hSUeE4RnQ4sZfw3scLqse"
@@ -6457,6 +6457,28 @@
     },
     {
       "album": {
+        "name": "BUNDA",
+        "url": "https://open.spotify.com/album/0PJB52AlpbcsmAg1ox2wYu"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Bodine",
+          "url": "https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "BUNDA",
+      "url": "https://open.spotify.com/track/1Fu6SL9zwV9fUmBTJeqmQp"
+    },
+    {
+      "album": {
         "name": "Burbujas de Papel",
         "url": "https://open.spotify.com/album/6OcVk4O3aHFSfvudJkgB5O"
       },
@@ -7992,7 +8014,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 168758,
       "name": "CHOCOMIL",
       "url": "https://open.spotify.com/track/0Cti0NQEAY5kk46or7DFs5"
@@ -11100,7 +11122,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 165959,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
@@ -12168,6 +12190,24 @@
       "duration_ms": 162118,
       "name": "Dime",
       "url": "https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR"
+    },
+    {
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/2NKHuUC9pE1cHh6OmysMKS"
+      },
+      "artists": [
+        {
+          "name": "Maikcel",
+          "url": "https://open.spotify.com/artist/7ztqGuOjym3CJ0pYlFHLaK"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0Mp2qgYYZRPQ65n1nhaAYq"
     },
     {
       "album": {
@@ -13474,7 +13514,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 200597,
       "name": "el afortunado",
       "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
@@ -17826,7 +17866,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 194039,
       "name": "G CLASS",
       "url": "https://open.spotify.com/track/0HaADF00v1QZQr5tcY4URU"
@@ -19987,6 +20027,24 @@
     },
     {
       "album": {
+        "name": "Intro (no puedo ser la misma)",
+        "url": "https://open.spotify.com/album/60Lr3vuTtniKlkL4HNAaS3"
+      },
+      "artists": [
+        {
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Intro (no puedo ser la misma)",
+      "url": "https://open.spotify.com/track/5Sr61HzJY1cTiJBUiWPsOK"
+    },
+    {
+      "album": {
         "name": "introtrack.wav",
         "url": "https://open.spotify.com/album/0bD6LYBHFOQfrR8X3vwgla"
       },
@@ -20501,6 +20559,24 @@
     },
     {
       "album": {
+        "name": "JUVENTUD 2000",
+        "url": "https://open.spotify.com/album/3QSq0S1GP43o9s2iWEf2nE"
+      },
+      "artists": [
+        {
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "JUVENTUD 2000",
+      "url": "https://open.spotify.com/track/4jD4T0fDa3ysK0RKAcLWAg"
+    },
+    {
+      "album": {
         "name": "Juye Que Se Quema",
         "url": "https://open.spotify.com/album/0ZUJ0kROaUvnxteYaXAbkS"
       },
@@ -20530,7 +20606,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
@@ -21703,6 +21779,24 @@
     },
     {
       "album": {
+        "name": "Una Fiesta al Desorden",
+        "url": "https://open.spotify.com/album/3WB0YUQXFpFFEZEdD5GPMI"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Alegr\u00eda",
+          "url": "https://open.spotify.com/artist/0BLImZeexSmFhUPxbK4RZA"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203523,
+      "name": "La Tr\u00e1gica",
+      "url": "https://open.spotify.com/track/3uQJoRxw89aCkrha2ZPkJH"
+    },
+    {
+      "album": {
         "name": "Criollas",
         "url": "https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0"
       },
@@ -22038,7 +22132,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 147920,
       "name": "las del conejo 2.0",
       "url": "https://open.spotify.com/track/76mfgfGQXEAFkiYku3rbkA"
@@ -30211,6 +30305,24 @@
     },
     {
       "album": {
+        "name": "No Tengo Due\u00f1o",
+        "url": "https://open.spotify.com/album/4MdUyHtbjRKavVh5tei6Ai"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221017,
+      "name": "No Tengo Due\u00f1o",
+      "url": "https://open.spotify.com/track/0MkRAsaElqFZdglxotNrM3"
+    },
+    {
+      "album": {
         "name": "No Tengo Ganas",
         "url": "https://open.spotify.com/album/0YZ0V9DV5uQ19ejE0QuzbF"
       },
@@ -32112,6 +32224,24 @@
       "duration_ms": 233488,
       "name": "Pak\u00e9 - Bonus Track",
       "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
+    },
+    {
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/7DXyIkwIGVHYubkvOCEtKA"
+      },
+      "artists": [
+        {
+          "name": "The Citie",
+          "url": "https://open.spotify.com/artist/2c7bLl7KC3V1C2YCUYaiHb"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6jIJyxbd092ToHqZMq5EC2"
     },
     {
       "album": {
@@ -39695,6 +39825,24 @@
     },
     {
       "album": {
+        "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
+        "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122624,
+      "name": "sue\u00f1a lindo, coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
+    },
+    {
+      "album": {
         "name": "sue\u00f1o despierto",
         "url": "https://open.spotify.com/album/6OAqEExydoUYtlGL00FNW3"
       },
@@ -45530,7 +45678,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 144500,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3XjuSv9h6sDN9AGpbt85o2"

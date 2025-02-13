@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: ElGrandeToto",
-  "num_followers": 134537,
+  "num_followers": 134543,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-01-30 07:50:48",
       "album": {
+        "name": "Ducati",
+        "url": "https://open.spotify.com/album/7gaCM4sEj6b9OD55PNoXH4"
+      },
+      "artists": [
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        }
+      ],
+      "duration_ms": 186938,
+      "name": "Ducati",
+      "url": "https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H"
+    },
+    {
+      "added_at": "2025-01-30 07:50:48",
+      "album": {
         "name": "ZHYMR",
         "url": "https://open.spotify.com/album/3udsEUYWbITZNWdJwCcnV2"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 142894,
       "name": "ANSAHA!",
       "url": "https://open.spotify.com/track/2prwfEVbn7maXugq9Se9YB"
-    },
-    {
-      "added_at": "2025-01-30 07:50:48",
-      "album": {
-        "name": "Ducati",
-        "url": "https://open.spotify.com/album/7gaCM4sEj6b9OD55PNoXH4"
-      },
-      "artists": [
-        {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
-        }
-      ],
-      "duration_ms": 186938,
-      "name": "Ducati",
-      "url": "https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H"
     },
     {
       "added_at": "2025-01-30 07:50:48",
@@ -927,22 +927,26 @@
     {
       "added_at": "2025-01-30 07:50:48",
       "album": {
-        "name": "Barcelona (Freedom Music)",
-        "url": "https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls"
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP"
       },
       "artists": [
         {
-          "name": "Alyoung",
-          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+          "name": "Blvxb",
+          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
         },
         {
-          "name": "Randar",
-          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+          "name": "Ruhmvn",
+          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
+        },
+        {
+          "name": "Barry",
+          "url": "https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo"
         }
       ],
-      "duration_ms": 194634,
-      "name": "Barcelona (Freedom Music)",
-      "url": "https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES"
+      "duration_ms": 194000,
+      "name": "3ma",
+      "url": "https://open.spotify.com/track/6moZSAbQBx6wctDKyj2EHo"
     }
   ],
   "unique_name": "Arab Hip Hop",

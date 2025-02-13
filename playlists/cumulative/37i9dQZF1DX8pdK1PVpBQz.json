@@ -28859,6 +28859,24 @@
     },
     {
       "album": {
+        "name": "Hounds",
+        "url": "https://open.spotify.com/album/2FaOlceM6uGfvdpeEXvDFq"
+      },
+      "artists": [
+        {
+          "name": "Darcie Haven",
+          "url": "https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni"
+        }
+      ],
+      "date_added": "2025-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203550,
+      "name": "Hounds",
+      "url": "https://open.spotify.com/track/11YCHFUaBsofGaPFdiruzG"
+    },
+    {
+      "album": {
         "name": "walls",
         "url": "https://open.spotify.com/album/5ZG015WchuvZhAZBzASrcf"
       },

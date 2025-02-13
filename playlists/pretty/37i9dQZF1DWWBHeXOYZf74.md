@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Oklou
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,978 likes - 112 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,948 likes - 112 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

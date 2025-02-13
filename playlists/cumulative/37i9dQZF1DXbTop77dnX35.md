@@ -4,7 +4,7 @@
 
 > New Music from Rema and more
 
-1,790 songs - 3 day 17 hr 5 min
+1,791 songs - 3 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,6 +1140,7 @@
 | [Obra](https://open.spotify.com/track/37iYFIiqbsnqH3jRobzhMM) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Obra](https://open.spotify.com/album/4trVuGEvkvZoawC7pC3xif) | 2:35 | 2024-08-23 | 2024-08-30 |
 | [Obsessed](https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Obsessed](https://open.spotify.com/album/7rfG2qzNG150rC2L3UzCAi) | 2:40 | 2024-07-05 | 2024-07-12 |
 | [Ocean](https://open.spotify.com/track/20zz4nK6FV0qKHy9IZBqyG) | [Ossi Grace](https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr) | [Ocean](https://open.spotify.com/album/76fjzf9DUBlW6hqn2Blf80) | 3:22 | 2025-02-07 |  |
+| [ODESHI](https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Yung Alpha](https://open.spotify.com/artist/1OB12ySTnwq67uE9lIrLPX) | [ODESHI](https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL) | 3:12 | 2025-02-07 |  |
 | [ODG](https://open.spotify.com/track/3MSZpCh787GKXIPhkI2t84) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Rave & Adrenaline](https://open.spotify.com/album/0Cc8yhNet8BxSWLuR3RL6L) | 3:01 | 2024-12-13 | 2024-12-20 |
 | [Odo Asem](https://open.spotify.com/track/1K6f2SRjWVH0fQtcjtUnZQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Odo Asem](https://open.spotify.com/album/0I5wDunxgWA2rhSmN7xr1L) | 2:58 | 2025-02-07 |  |
 | [Odo Ni Sika](https://open.spotify.com/track/2lZC5fze58kBQwBO8K2VQZ) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [J.Derobie](https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2) | [True Colors](https://open.spotify.com/album/4tL4ZMYEI3SlKMfqF6mXNP) | 2:33 | 2024-11-01 | 2024-11-08 |

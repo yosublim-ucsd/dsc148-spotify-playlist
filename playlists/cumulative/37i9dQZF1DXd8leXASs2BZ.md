@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 5Leaf
 
-843 songs - 1 day 15 hr 0 min
+844 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [RANDO](https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 2:26 | 2023-12-07 | 2023-12-14 |
 | [Rapstar Cypher 2024 \(feat\. Tepa Roucci, Luka Hatakeyama, TOKYOSEKAI & Leon Fanourakis\)](https://open.spotify.com/track/65dMNm6DZhoULy9XRd1n2v) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [Luka Hatakeyama](https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy), [TOKYOSEKAI](https://open.spotify.com/artist/1Vb74BrtwZbYgoTwPVRW6C), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [Rapstar Cypher 2024](https://open.spotify.com/album/1FDbVng7s4FFQ42Oe1hW4q) | 3:10 | 2024-12-17 |  |
 | [Rarri](https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 3:06 | 2024-02-06 | 2024-05-02 |
+| [RASEN](https://open.spotify.com/track/6P2dyZlY7qyAp9QJqbMN8N) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf), [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [RASEN](https://open.spotify.com/album/0uy5JNgym9cfattQonTzzb) | 5:05 | 2025-02-12 |  |
 | [Re:arrange](https://open.spotify.com/track/1fgvQQCMHH8PdYNgkGtRTy) | [13ELL](https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s) | [Re:arrange](https://open.spotify.com/album/4QEfVtLjG3wnQuXL0P9m7P) | 2:57 | 2024-09-03 | 2025-01-22 |
 | [RE:BORN](https://open.spotify.com/track/3hNkxLV1JWJp4MpOmdobeQ) | [Yamiboi To$](https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es) | [RE A RISE](https://open.spotify.com/album/1wOIo4sjv2C2fUtl78VB7b) | 2:45 | 2024-09-17 | 2024-12-18 |
 | [re:kazing](https://open.spotify.com/track/6nCWG9w5v9fY8TKBN0Sno2) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu), [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic) | [徘徊collection](https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB) | 2:50 | 2024-09-12 | 2024-12-11 |

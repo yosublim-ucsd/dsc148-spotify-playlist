@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q"> Kennedy Ryon</a>\. Updates every Wednesday.
 
-2,921 songs - 6 day 4 hr 9 min
+2,925 songs - 6 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [7am](https://open.spotify.com/track/4e1DrOj0LNZzNyOX0PxN3i) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [7am](https://open.spotify.com/album/16NrLG4wzQkM16woPT9mqu) | 3:58 | 2023-04-21 | 2023-08-04 |
 | [7teen](https://open.spotify.com/track/3L1d3NJ3cdmXUcx9GzeNs8) | [Mönt Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [7teen](https://open.spotify.com/album/6pz8DE7NiLEoq1jEQQHHdr) | 2:55 | 2023-10-25 | 2023-11-30 |
 | [8](https://open.spotify.com/track/3eOcyKUVWe5e8jpuH6g1Nh) | [RAYRAY](https://open.spotify.com/artist/5Iv8yW3gzy7zojr5wmlQ4t) | [8](https://open.spotify.com/album/3RrkhguPRsOXYRgMDk58hS) | 3:22 | 2021-12-01 | 2022-01-13 |
+| [88 \(Slowed\)](https://open.spotify.com/track/6F3wfmGhOAHToWMoLYPsa6) | [JVVMN](https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje) | [88 \(Slowed\)](https://open.spotify.com/album/2GwS3bNz3gOQYypuiirunR) | 1:12 | 2025-02-12 |  |
 | [8PM \(By Your Side\)](https://open.spotify.com/track/6VrwVUqHRNATDFT8eQjZfV) | [Sweata](https://open.spotify.com/artist/6OwF63yz5hwljzTcudIoi1) | [8PM \(By Your Side\)](https://open.spotify.com/album/2yDUXT1KR4RWO3PAyxPvuR) | 3:39 | 2024-11-15 | 2024-12-05 |
 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 | 2024-05-03 | 2025-01-18 |
 | [92 Degrees](https://open.spotify.com/track/5mxl9ioRUivetaglDoaMsm) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [92 Degrees](https://open.spotify.com/album/5ssY93FWRDBqmawFe5tJ50) | 2:25 | 2023-07-14 | 2023-09-09 |
@@ -886,6 +887,7 @@
 | [Focus](https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [Focus](https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb) | 2:00 | 2022-06-02 | 2022-08-20 |
 | [Focus](https://open.spotify.com/track/6c6Wle9do1ThhMpEQzpG1B) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Focus](https://open.spotify.com/album/6f8AOc82LrTGBKszpAJhzg) | 3:00 | 2023-09-08 | 2023-11-30 |
 | [focus on me](https://open.spotify.com/track/4gJomkKvBWP5FgQ57ytMnc) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [TYLER](https://open.spotify.com/album/3ElGEvhx8nTKXUBWP23DUE) | 3:25 | 2024-08-16 | 2024-12-05 |
+| [Foggin' Up The Windows](https://open.spotify.com/track/4jNBM6lhDOa2fyfHbdqdYQ) | [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Foggin' Up The Windows](https://open.spotify.com/album/4ustYbpYeN83XdD2rqMP7A) | 2:41 | 2025-02-12 |  |
 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-12-04 | 2025-01-18 |
 | [Follow Me](https://open.spotify.com/track/43Si6veTcqjtP5UqxsI7vH) | [Paria](https://open.spotify.com/artist/7tBuWTC4AL48W3dWjdNnFQ), [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Follow Me](https://open.spotify.com/album/4CAVvzKVW7jxsuFdJ6lQb7) | 3:03 | 2024-04-10 | 2024-07-02 |
 | [FOOL AROUND](https://open.spotify.com/track/2jnPbSbAhFAkIDm8lqwAgb) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [FOOL AROUND](https://open.spotify.com/album/1PTgXvs5I3NwEofd3QvV5n) | 2:03 | 2021-12-01 | 2022-01-13 |
@@ -1059,6 +1061,7 @@
 | [hate you](https://open.spotify.com/track/7zQBHZAsyMDSrHJbO0FxQ3) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [hate you](https://open.spotify.com/album/3OUiJVUKcLtx44UJZTbdsp) | 2:46 | 2024-05-03 | 2024-07-20 |
 | [HAVE FAITH](https://open.spotify.com/track/7MubgInf5uPZGJ4ogabU4V) | [A L i C](https://open.spotify.com/artist/6V3jCCn9VkxtbiofkRnBga) | [HAVE FAITH](https://open.spotify.com/album/26OAcggBt1L0lpitvofSwG) | 3:12 | 2025-01-31 |  |
 | [Have It All](https://open.spotify.com/track/7fsycumEn2QSFDa3Irmd0z) | [Xian Bell](https://open.spotify.com/artist/1DD9ttmrDTrddo8JOqqS6z), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Have It All](https://open.spotify.com/album/4eEwuwdvehyexwQNY5nYps) | 3:15 | 2023-05-26 | 2023-08-04 |
+| [Have It Your Way](https://open.spotify.com/track/235fcM8Koz7jWEJylSIhIp) | [Jazlyn Martin](https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0), [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Have It Your Way](https://open.spotify.com/album/6ftBzWFlTIdUZnS3LF5vur) | 3:43 | 2025-02-12 |  |
 | [Head In The Clouds](https://open.spotify.com/track/0OOXQu3PYdzhpF31rdVbiZ) | [Shenie Fogo](https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy) | [Head In The Clouds](https://open.spotify.com/album/2Cu9oyTHjXLOmRwZ6NK04G) | 3:12 | 2022-10-14 | 2022-12-01 |
 | [Head Up Song](https://open.spotify.com/track/5kcihA9f6PLzV1DV95aat7) | [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl) | [Head Up Song](https://open.spotify.com/album/4hV9MjXcRLLA6urkwxVQGY) | 3:22 | 2023-07-14 | 2023-09-09 |
 | [Headlights](https://open.spotify.com/track/43H77liE8tLLO3796pP05I) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Headlights](https://open.spotify.com/album/6BpoV7lmVxUIx9kP6GQfmt) | 3:18 | 2022-10-28 | 2022-12-01 |
@@ -1970,6 +1973,7 @@
 | [Place That You Love](https://open.spotify.com/track/0uUNpkWW3bFJaag8Ix6bXs) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL) | [Place That You Love](https://open.spotify.com/album/1nupMnIuUxp3dL50ogXo3U) | 2:46 | 2024-07-19 | 2024-09-14 |
 | [plastic/bending](https://open.spotify.com/track/1bhjaZRAMJVoP4QrwRwP9G) | [Dani Offline](https://open.spotify.com/artist/3JPVuuVHTbNiK8OZBCcmm5) | [plastic/bending](https://open.spotify.com/album/2G1Qgs2Iwbfbkk4hRr7R2C) | 2:40 | 2023-11-08 | 2023-11-30 |
 | [Play](https://open.spotify.com/track/0spFXdYy4lUz4ByAAiYzWa) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Play](https://open.spotify.com/album/47qwv7w4eTuaxRPxK4RDFd) | 4:19 | 2022-09-21 | 2023-01-27 |
+| [Play Bout You](https://open.spotify.com/track/2ja9ZkUmMJqfEVt2kxHiWf) | [Tniyah](https://open.spotify.com/artist/7EHD7M7VrgyUaRkleSNlKN) | [Play Bout You](https://open.spotify.com/album/72rFpoDQ0FEIUavgtbmEWw) | 3:04 | 2025-02-12 |  |
 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 | 2022-04-27 | 2022-06-10 |
 | [Play U Instead](https://open.spotify.com/track/4hOKOZm5Egd778uamaORZQ) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Play U Instead](https://open.spotify.com/album/0HLt3vSn5btLK2c8WO11lx) | 3:21 | 2023-02-03 | 2023-03-18 |
 | [Playa Ways](https://open.spotify.com/track/2Dh4Nq9Phq4VScu0WF44OD) | [Erykah Officer](https://open.spotify.com/artist/6R5o8CRcCtbbm82DtQ9zVa) | [Playa Ways](https://open.spotify.com/album/5HJMq0MR58U8gTVfSTo6Px) | 2:48 | 2024-11-06 | 2024-12-05 |

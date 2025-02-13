@@ -4,7 +4,7 @@
 
 > flusflusflus🚨
 
-285 songs - 12 hr 25 min
+286 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 | 2023-09-21 | 2024-03-22 |
 | [dum dum shawty! \(feat\. Tyr\)](https://open.spotify.com/track/0Z20ddeVEX9OW87CDsAEM4) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [vi blør i kor.dlux](https://open.spotify.com/album/3LVa3iCuIpZnABqVPtZFRY) | 3:23 | 2024-05-30 | 2024-09-27 |
 | [Dum Duo](https://open.spotify.com/track/38iPW8JOX9lLcHfYpkLu1A) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 2:19 | 2025-02-06 |  |
-| [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 | 2023-09-21 |  |
+| [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 | 2023-09-21 | 2025-02-13 |
 | [E.T.A](https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 2:51 | 2024-08-15 |  |
 | [El Capitan](https://open.spotify.com/track/50pLigCzqMbGWECXW3P4yR) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [El Capitan](https://open.spotify.com/album/25kQ3wHzvTx8jAYlRPwwpI) | 2:59 | 2024-01-18 | 2024-06-02 |
 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/4C38pxOchiQFZozAcwikyB), [Shenzi Beats](https://open.spotify.com/artist/3WDLKeORhGepegX1BPciKh) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-02-01 | 2024-06-01 |
@@ -186,6 +186,7 @@
 | [Mi Amor](https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Mi Amor](https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va) | 3:44 | 2025-01-23 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 | 2024-06-01 |
 | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y) | 2:26 | 2024-10-03 | 2025-01-13 |
+| [Midja](https://open.spotify.com/track/3ElxPNHikg80BAC3AX3y80) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Midja](https://open.spotify.com/album/58EvnfeGOL2bozVnzGFh2J) | 2:38 | 2025-02-06 |  |
 | [Midtnytt](https://open.spotify.com/track/4yw7Tna6ATc5KsqJTWX3Vp) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc), [Lil.Lørda](https://open.spotify.com/artist/5VoDPO3wivvUbXNt2IF4Rp) | [Midtnytt](https://open.spotify.com/album/2bljtVDQSJkxxS9g5FNHLC) | 3:21 | 2024-10-24 | 2024-11-08 |
 | [Millions](https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4) | 2:01 | 2023-11-16 | 2023-12-30 |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-09-21 | 2023-11-11 |

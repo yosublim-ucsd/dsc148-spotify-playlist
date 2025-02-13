@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Đức Phúc
+> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Hoàng Dũng
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,532 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,527 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Đi Chùa Cầu Duyên](https://open.spotify.com/track/3Nck7QyAElRokhrXRGuEF1) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Đi Chùa Cầu Duyên](https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i) | 3:11 |
-| 2 | [Đức Phúc chúc Tết](https://open.spotify.com/track/5IKFKrV0VzmBDddhQnZ4ed) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:25 |
+| 1 | [Cuối Tuần \(1825\)](https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Lelarec](https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq) | [Cuối Tuần \(1825\)](https://open.spotify.com/album/78AJ8syflYYWeZIbAWPcXj) | 2:55 |
+| 2 | [Hoàng Dũng chúc Tết](https://open.spotify.com/track/4NKzRUP5bhejItrFbM26p8) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
 | 3 | [Dù Cho Tận Thế](https://open.spotify.com/track/0oSc7X1uRQGuEqNRtXEeQL) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Dù Cho Tận Thế](https://open.spotify.com/album/5QDR0OiGmansGUC3umc6db) | 3:53 |
 | 4 | [Mất Kết Nối](https://open.spotify.com/track/3CmacJj7VC4W6daC8BWd0h) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Dữ Liệu Quý](https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw) | 3:27 |
 | 5 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 41 | [Tiến Hay Lùi \(Nụ Hôn Bạc Tỷ Original Soundtrack\)](https://open.spotify.com/track/5ca1aUHYwTDNO5E6unithq) | [Bùi Công Nam](https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [Tiến Hay Lùi \(Nụ Hôn Bạc Tỷ Original Soundtrack\)](https://open.spotify.com/album/18lTxJpTnS3LOndGcbDjAY) | 3:06 |
 | 42 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
 | 43 | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Badbies](https://open.spotify.com/artist/2ZjO6APYelcHcLd2pWMx8x) | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s) | 3:54 |
-| 44 | [Em Không Sai, Chúng Ta Sai](https://open.spotify.com/track/3yWacnoBnM0lrzLmXAk44d) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Em Không Sai, Chúng Ta Sai](https://open.spotify.com/album/0Uy5VeJI1AD0HyEsNveMpc) | 4:51 |
-| 45 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 |
-| 46 | [Không Yêu Em Thì Yêu Ai?](https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng Của Nuối Tiếc](https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ) | 3:52 |
-| 47 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 |
-| 48 | [Chúng Ta Còn Ở Đó Không? \- Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack](https://open.spotify.com/track/015cWxefajYwEUZodBvpfn) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Chúng Ta Còn Ở Đó Không? \(Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack\)](https://open.spotify.com/album/4vq6hunJNWmJbWf2Ib0bUE) | 4:05 |
-| 49 | [Âm Thầm Bên Em](https://open.spotify.com/track/2wZAvkgiOE5tyrnqhB69KA) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT) | 4:53 |
-| 50 | [Cuối Tuần \(1825\)](https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Lelarec](https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq) | [Cuối Tuần \(1825\)](https://open.spotify.com/album/78AJ8syflYYWeZIbAWPcXj) | 2:55 |
-| 51 | [Hoàng Dũng chúc Tết](https://open.spotify.com/track/4NKzRUP5bhejItrFbM26p8) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
+| 44 | [Đi Chùa Cầu Duyên](https://open.spotify.com/track/3Nck7QyAElRokhrXRGuEF1) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Đi Chùa Cầu Duyên](https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i) | 3:11 |
+| 45 | [Đức Phúc chúc Tết](https://open.spotify.com/track/5IKFKrV0VzmBDddhQnZ4ed) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:25 |
+| 46 | [Em Không Sai, Chúng Ta Sai](https://open.spotify.com/track/3yWacnoBnM0lrzLmXAk44d) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Em Không Sai, Chúng Ta Sai](https://open.spotify.com/album/0Uy5VeJI1AD0HyEsNveMpc) | 4:51 |
+| 47 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 |
+| 48 | [Không Yêu Em Thì Yêu Ai?](https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng Của Nuối Tiếc](https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ) | 3:52 |
+| 49 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 |
+| 50 | [Chúng Ta Còn Ở Đó Không? \- Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack](https://open.spotify.com/track/015cWxefajYwEUZodBvpfn) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Chúng Ta Còn Ở Đó Không? \(Tet 2025 Movie “Bộ Tứ Báo Thủ” Original Soundtrack\)](https://open.spotify.com/album/4vq6hunJNWmJbWf2Ib0bUE) | 4:05 |
+| 51 | [Âm Thầm Bên Em](https://open.spotify.com/track/2wZAvkgiOE5tyrnqhB69KA) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT) | 4:53 |
 
-Snapshot ID: `Z6uCMgAAAAAQvbD2B/5OqOe1ez0RvP8H`
+Snapshot ID: `Z6zToQAAAABsL+oVODvJRVr7VO3YLskm`

@@ -1,13 +1,61 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Cameron Winter",
-  "num_followers": 240991,
+  "num_followers": 241356,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6O34AAAAADGDKGXXjEiBGgxYw2kYg9H",
+  "snapshot_id": "Z6zFAwAAAABrs2zVEcShHskxENfQYrxi",
   "tracks": [
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Can We Be Still",
+        "url": "https://open.spotify.com/album/2Ukd5fFZjHgsy5M20WpAue"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Can We Be Still",
+      "url": "https://open.spotify.com/track/6NR1tob30mWRcf9oHz5zYt"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Sideliner",
+        "url": "https://open.spotify.com/album/560WGlumUkRCCGyutUTV2j"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sideliner",
+      "url": "https://open.spotify.com/track/6y9Fz6JFLzAXHPIRznEeEu"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Stoner",
+        "url": "https://open.spotify.com/album/1RPzqHEjhx6ZG2XlaVYoY2"
+      },
+      "artists": [
+        {
+          "name": "Edgar Homeros",
+          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Stoner",
+      "url": "https://open.spotify.com/track/3Cr1VDxAsrPbkldz1eUUMm"
+    },
     {
       "added_at": "2025-01-22 17:00:14",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 365395,
       "name": "planet you forgot me",
       "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "hounds",
+        "url": "https://open.spotify.com/album/6SMQskKFnyKB6m3B2RGvF0"
+      },
+      "artists": [
+        {
+          "name": "chrysalis",
+          "url": "https://open.spotify.com/artist/26lpJv38Pa4crAQGNsTTsS"
+        }
+      ],
+      "duration_ms": 136048,
+      "name": "hounds",
+      "url": "https://open.spotify.com/track/0NJjHuCPaDsbcQXSbzuTbd"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Dreamstruck",
+        "url": "https://open.spotify.com/album/1Xn66YQ6IeTmmja7p7Dufv"
+      },
+      "artists": [
+        {
+          "name": "Dreamstruck",
+          "url": "https://open.spotify.com/artist/4rPP18s3CGFp8Cej2xWGRY"
+        }
+      ],
+      "duration_ms": 196392,
+      "name": "Shattered Dreams",
+      "url": "https://open.spotify.com/track/7e4YWfcN9hwnA6qPSJMUQN"
     },
     {
       "added_at": "2025-02-05 19:11:28",
@@ -41,6 +121,22 @@
       "url": "https://open.spotify.com/track/1VvAcQTP1ColPLcvN5l53y"
     },
     {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "SOV GODT",
+        "url": "https://open.spotify.com/album/7j8wITX3ELxvyn4NHmTb4S"
+      },
+      "artists": [
+        {
+          "name": "READY ATLANTIC",
+          "url": "https://open.spotify.com/artist/1qT5yTlM7pt9FftPgXeQzn"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "SOV GODT",
+      "url": "https://open.spotify.com/track/4BLFUCBe0WyPEIxTgH00de"
+    },
+    {
       "added_at": "2025-02-05 19:11:28",
       "album": {
         "name": "Debunker",
@@ -57,6 +153,54 @@
       "url": "https://open.spotify.com/track/1qpQdeFvjUz0bedni4VkQr"
     },
     {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I"
+      },
+      "artists": [
+        {
+          "name": "JESS REISS",
+          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "I Used To",
+        "url": "https://open.spotify.com/album/38GhGbTcdvmvX58jI5JnxR"
+      },
+      "artists": [
+        {
+          "name": "Cdubz",
+          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
+        }
+      ],
+      "duration_ms": 186841,
+      "name": "I Used To",
+      "url": "https://open.spotify.com/track/0YatoTSyHsq4J6CZacYHEC"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "Shirley Temples",
+        "url": "https://open.spotify.com/album/1agX1wv4ttBf8KEuYw7Z3b"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 203737,
+      "name": "Shirley Temples",
+      "url": "https://open.spotify.com/track/6nlIdCg7pnZhFDupxYaCT9"
+    },
+    {
       "added_at": "2025-02-05 19:11:28",
       "album": {
         "name": "Shotgun",
@@ -71,6 +215,22 @@
       "duration_ms": 168452,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4fW6kK0t8Pv7gkbNjUWH9I"
+    },
+    {
+      "added_at": "2025-02-12 15:57:55",
+      "album": {
+        "name": "This Is What Heaven Is Like",
+        "url": "https://open.spotify.com/album/2NwMxjZQAA48IywWFwbKkY"
+      },
+      "artists": [
+        {
+          "name": "Jackson Rau",
+          "url": "https://open.spotify.com/artist/6sZIXGWqLkOBSqqoFPT4D7"
+        }
+      ],
+      "duration_ms": 221425,
+      "name": "This Is What Heaven Is Like",
+      "url": "https://open.spotify.com/track/53mTtNKXUm6Fjhf4bUrvpR"
     },
     {
       "added_at": "2025-02-05 19:11:28",
@@ -235,6 +395,22 @@
     {
       "added_at": "2025-02-05 19:11:28",
       "album": {
+        "name": "514-415",
+        "url": "https://open.spotify.com/album/68tgADpuMYVggWvaBfosiO"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "duration_ms": 223930,
+      "name": "514-415",
+      "url": "https://open.spotify.com/track/4HIKvlYBPneU1DbxFJEvmT"
+    },
+    {
+      "added_at": "2025-02-05 19:11:28",
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/6Qg8perSkIhcAJDxdWJGHC"
       },
@@ -279,22 +455,6 @@
       "duration_ms": 176212,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
-    },
-    {
-      "added_at": "2025-02-05 19:11:28",
-      "album": {
-        "name": "514-415",
-        "url": "https://open.spotify.com/album/68tgADpuMYVggWvaBfosiO"
-      },
-      "artists": [
-        {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
-        }
-      ],
-      "duration_ms": 223930,
-      "name": "514-415",
-      "url": "https://open.spotify.com/track/4HIKvlYBPneU1DbxFJEvmT"
     },
     {
       "added_at": "2025-02-05 19:11:28",
@@ -771,22 +931,6 @@
       "duration_ms": 200573,
       "name": "Man",
       "url": "https://open.spotify.com/track/1l8CTi31bZ5BKcl1GckWjH"
-    },
-    {
-      "added_at": "2025-01-15 17:00:22",
-      "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/2cb7yebOYSSMMFUXKVFE7j"
-      },
-      "artists": [
-        {
-          "name": "Cdubz",
-          "url": "https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH"
-        }
-      ],
-      "duration_ms": 187937,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/6q8qyXMTCFugcTsPtQDpwJ"
     },
     {
       "added_at": "2025-01-15 17:00:22",

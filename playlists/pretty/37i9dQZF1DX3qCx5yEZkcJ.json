@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1487740,
+  "num_followers": 1487864,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "UH OH",
-        "url": "https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB"
-      },
-      "artists": [
-        {
-          "name": "twuan",
-          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
-        }
-      ],
-      "duration_ms": 110561,
-      "name": "UH OH",
-      "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "A Tribute to First Love",
         "url": "https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 253600,
       "name": "A Tribute To First Love",
       "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "UH OH",
+        "url": "https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "duration_ms": 110561,
+      "name": "UH OH",
+      "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "LUSTER",
         "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 277978,
       "name": "LUSTER",
       "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
-      },
-      "artists": [
-        {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "On My Way Home (Blue Lab Beats Remix)",
         "url": "https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 228485,
       "name": "On My Way Home - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "A Kid From Yerevan (Instrumental)",
-        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Sinking Ship - Instrumental",
-      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "Just a Lullaby",
         "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "A Kid From Yerevan (Instrumental)",
+        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Sinking Ship - Instrumental",
+      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
       "artists": [
         {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
         }
       ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -675,22 +691,6 @@
       "duration_ms": 203500,
       "name": "easy",
       "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 269474,
       "name": "ADAM & EVE - Instrumental",
       "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Ova",
-        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
-      },
-      "artists": [
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ova",
-      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "Les Nuits",
         "url": "https://open.spotify.com/album/1k7deKZEekSD0gadYi7rAt"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 226307,
       "name": "Les Nuits - Hip Hop Reprise",
       "url": "https://open.spotify.com/track/71obeObleZP0o9SQVEPDkp"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "Ova",
+        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
+      },
+      "artists": [
+        {
+          "name": "URCHN",
+          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ova",
+      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -971,30 +971,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Reminders",
-        "url": "https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN"
-      },
-      "artists": [
-        {
-          "name": "Murmur",
-          "url": "https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX"
-        },
-        {
-          "name": "Akasha",
-          "url": "https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN"
-        },
-        {
-          "name": "Natsu",
-          "url": "https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Dance of Love",
-      "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "Busy Bird",
         "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 173296,
       "name": "Recuring Dream",
       "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "Reminders",
+        "url": "https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN"
+      },
+      "artists": [
+        {
+          "name": "Murmur",
+          "url": "https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX"
+        },
+        {
+          "name": "Akasha",
+          "url": "https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN"
+        },
+        {
+          "name": "Natsu",
+          "url": "https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Dance of Love",
+      "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
         "name": "afternoon shower",
         "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Bike Ride in Osaka",
-        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
       "artists": [
         {
-          "name": "tecashi",
-          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         }
       ],
-      "duration_ms": 120014,
-      "name": "Bike Ride in Osaka",
-      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -1307,6 +1291,22 @@
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "Bike Ride in Osaka",
+        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
+      },
+      "artists": [
+        {
+          "name": "tecashi",
+          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
+        }
+      ],
+      "duration_ms": 120014,
+      "name": "Bike Ride in Osaka",
+      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -1339,6 +1339,22 @@
       "duration_ms": 158769,
       "name": "Carol",
       "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+    },
+    {
+      "added_at": "2025-02-09 11:51:48",
+      "album": {
+        "name": "Whiskey Sour / Strammer Max",
+        "url": "https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8"
+      },
+      "artists": [
+        {
+          "name": "Schmiddunsk",
+          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
+        }
+      ],
+      "duration_ms": 102195,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r"
     },
     {
       "added_at": "2025-02-09 11:51:48",
@@ -1379,50 +1395,34 @@
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
+        "name": "Tiny Grains of Guilt",
+        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
       },
       "artists": [
         {
-          "name": "Sling Dilly",
-          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
         }
       ],
-      "duration_ms": 101650,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
+      "duration_ms": 124044,
+      "name": "Tiny Grains of Guilt",
+      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
     },
     {
       "added_at": "2025-02-09 11:51:48",
       "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
       },
       "artists": [
         {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
         }
       ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2025-02-09 11:51:48",
-      "album": {
-        "name": "Whiskey Sour / Strammer Max",
-        "url": "https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8"
-      },
-      "artists": [
-        {
-          "name": "Schmiddunsk",
-          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
-        }
-      ],
-      "duration_ms": 102195,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r"
+      "duration_ms": 124151,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
     },
     {
       "added_at": "2025-02-09 11:51:48",

@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Lente Et Firmiter",
+        "url": "https://open.spotify.com/album/5BctDrwRlbHF2Y3vpc50Nt"
+      },
+      "artists": [
+        {
+          "name": "Eiriane",
+          "url": "https://open.spotify.com/artist/4k9PK8yl00PAnmOm21cmTz"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182229,
+      "name": "Lente Et Firmiter",
+      "url": "https://open.spotify.com/track/3o1mtnzLw07Ok6QMnwuf5E"
+    },
+    {
+      "album": {
         "name": "Les Belles Cordes",
         "url": "https://open.spotify.com/album/08njtJ6n6aEOi5o5wooUpz"
       },
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 136874,
       "name": "State Of Harp",
       "url": "https://open.spotify.com/track/0yY37P9rT3l7LfI74AHJic"

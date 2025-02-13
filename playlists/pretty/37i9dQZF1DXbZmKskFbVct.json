@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 37668,
+  "num_followers": 37673,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Insanely Breathy Trigger Words",
-        "url": "https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa"
-      },
-      "artists": [
-        {
-          "name": "Pelagea ASMR",
-          "url": "https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR"
-        }
-      ],
-      "duration_ms": 121654,
-      "name": "Nase",
-      "url": "https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "Karuna's Sleep Clinic",
         "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 232571,
       "name": "Sleep Clinic Part 2",
       "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Insanely Breathy Trigger Words",
+        "url": "https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa"
+      },
+      "artists": [
+        {
+          "name": "Pelagea ASMR",
+          "url": "https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR"
+        }
+      ],
+      "duration_ms": 121654,
+      "name": "Nase",
+      "url": "https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Laura Says ASMR",
-        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
-      },
-      "artists": [
-        {
-          "name": "Laura Love ASMR",
-          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
-        }
-      ],
-      "duration_ms": 224891,
-      "name": "Laura Says ASMR",
-      "url": "https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
         "name": "Binaural ASMR Descriptions",
         "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 156115,
       "name": "Pen Whisper Description",
       "url": "https://open.spotify.com/track/0IPEY8pEz91Q28z1HHgj8z"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
+        "name": "Laura Says ASMR",
+        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
+      },
+      "artists": [
+        {
+          "name": "Laura Love ASMR",
+          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
+        }
+      ],
+      "duration_ms": 224891,
+      "name": "Laura Says ASMR",
+      "url": "https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp"
     },
     {
       "added_at": "2024-08-30 08:51:58",

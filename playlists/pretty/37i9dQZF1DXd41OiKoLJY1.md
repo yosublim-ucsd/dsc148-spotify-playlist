@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Lee Noynoy  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,084 likes - 104 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,099 likes - 104 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

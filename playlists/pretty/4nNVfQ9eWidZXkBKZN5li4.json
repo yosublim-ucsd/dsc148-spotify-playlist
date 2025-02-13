@@ -1,12 +1,12 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless Bollywood classics, latest trending tracks under a single playlist featuring the best of Arijit Singh, Pritam, A R Rahman, Badshah, AP Dhillon and more. Follow now!",
-  "num_followers": 228454,
+  "num_followers": 228450,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAWNKXsgTBoGvlBLRg8BEXJhCIZUAJ9",
+  "snapshot_id": "AAAWO/jfZ8GgNjf9/AJGkdWXpIZFOMJZ",
   "tracks": [
     {
       "added_at": "2025-02-06 13:19:45",
@@ -61,76 +61,24 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
     },
     {
-      "added_at": "2025-02-06 13:19:35",
+      "added_at": "2025-02-12 03:36:46",
       "album": {
-        "name": "Aaya Re Toofan (From \"Chhaava\")",
-        "url": "https://open.spotify.com/album/03dESos0n5Qpc8GC4mIWDz"
+        "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
         },
         {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Kshitij Patwardhan",
-          "url": "https://open.spotify.com/artist/44iWTlU3L5fbu5p4PfoW44"
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
         }
       ],
-      "duration_ms": 279659,
-      "name": "Aaya Re Toofan (From \"Chhaava\")",
-      "url": "https://open.spotify.com/track/1E4eyxteUpXpwThyARHrVJ"
-    },
-    {
-      "added_at": "2024-06-12 07:44:56",
-      "album": {
-        "name": "Zaroor",
-        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
-      },
-      "artists": [
-        {
-          "name": "Aparshakti Khurana",
-          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
-        },
-        {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Zaroor",
-      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
-    },
-    {
-      "added_at": "2025-01-31 11:46:20",
-      "album": {
-        "name": "Jaane Tu (From \"Chhaava\")",
-        "url": "https://open.spotify.com/album/11cmqlCi2li2BrRBwV1otQ"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 284721,
-      "name": "Jaane Tu (From \"Chhaava\")",
-      "url": "https://open.spotify.com/track/2xJljikiXXEymW80bqyG6u"
+      "duration_ms": 314000,
+      "name": "Sanam Teri Kasam",
+      "url": "https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c"
     },
     {
       "added_at": "2025-01-13 06:30:21",
@@ -173,6 +121,34 @@
       "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
     },
     {
+      "added_at": "2025-02-06 13:19:35",
+      "album": {
+        "name": "Aaya Re Toofan (From \"Chhaava\")",
+        "url": "https://open.spotify.com/album/03dESos0n5Qpc8GC4mIWDz"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Kshitij Patwardhan",
+          "url": "https://open.spotify.com/artist/44iWTlU3L5fbu5p4PfoW44"
+        }
+      ],
+      "duration_ms": 279659,
+      "name": "Aaya Re Toofan (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/1E4eyxteUpXpwThyARHrVJ"
+    },
+    {
       "added_at": "2025-01-13 06:30:47",
       "album": {
         "name": "Sahiba",
@@ -209,24 +185,48 @@
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
     },
     {
-      "added_at": "2025-01-13 06:29:43",
+      "added_at": "2025-01-31 11:46:20",
       "album": {
-        "name": "Aadhey Adhoorey",
-        "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
+        "name": "Jaane Tu (From \"Chhaava\")",
+        "url": "https://open.spotify.com/album/11cmqlCi2li2BrRBwV1otQ"
       },
       "artists": [
         {
-          "name": "Aashir Wajahat",
-          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 173124,
-      "name": "Aadhey Adhoorey",
-      "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
+      "duration_ms": 284721,
+      "name": "Jaane Tu (From \"Chhaava\")",
+      "url": "https://open.spotify.com/track/2xJljikiXXEymW80bqyG6u"
+    },
+    {
+      "added_at": "2024-06-12 07:44:56",
+      "album": {
+        "name": "Zaroor",
+        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Zaroor",
+      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
     },
     {
       "added_at": "2024-08-23 02:34:38",
@@ -283,6 +283,26 @@
       "duration_ms": 281511,
       "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "added_at": "2025-01-13 06:29:43",
+      "album": {
+        "name": "Aadhey Adhoorey",
+        "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "Aadhey Adhoorey",
+      "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
     },
     {
       "added_at": "2021-08-07 05:30:49",
@@ -2969,22 +2989,6 @@
       "url": "https://open.spotify.com/track/2GVVNhSq5gq3rZF2b0UY5a"
     },
     {
-      "added_at": "2022-07-15 05:32:11",
-      "album": {
-        "name": "Baarishon Mein",
-        "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Baarishon Mein",
-      "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
-    },
-    {
       "added_at": "2022-01-18 05:44:47",
       "album": {
         "name": "Excuses",
@@ -3007,6 +3011,22 @@
       "duration_ms": 176232,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
+    },
+    {
+      "added_at": "2022-07-15 05:32:11",
+      "album": {
+        "name": "Baarishon Mein",
+        "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Baarishon Mein",
+      "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
     },
     {
       "added_at": "2021-07-18 12:34:37",

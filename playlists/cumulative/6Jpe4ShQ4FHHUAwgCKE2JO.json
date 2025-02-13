@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Counterfeit Florida Plates",
+      "url": "https://open.spotify.com/track/1ccuaO1iJuv4bBKsv790af"
+    },
+    {
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
       },

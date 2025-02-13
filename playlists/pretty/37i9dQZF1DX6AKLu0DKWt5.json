@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7157,
+  "num_followers": 7163,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Leash (Babygirl Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Leash (Babygirl Original Soundtrack)",
-      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Inside Out 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 55173,
       "name": "Outside Intro",
       "url": "https://open.spotify.com/track/3chpe83mkZt7cq4sOV7QwR"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Leash (Babygirl Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Leash (Babygirl Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
-      },
-      "artists": [
-        {
-          "name": "John Hawkes",
-          "url": "https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "No Use",
-      "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Alien: Romulus (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 158125,
       "name": "The Chrysalis",
       "url": "https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
+      },
+      "artists": [
+        {
+          "name": "John Hawkes",
+          "url": "https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "No Use",
+      "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
     },
     {
       "added_at": "2024-12-20 14:00:08",

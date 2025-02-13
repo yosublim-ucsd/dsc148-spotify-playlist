@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 126532,
+  "num_followers": 126544,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,30 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
+        "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
+      "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -103,30 +127,6 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
-        "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
-      "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "Tudo Vai Ficar Bem",
         "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 209998,
       "name": "Tudo Vai Ficar Bem",
       "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -915,6 +915,26 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Sorrindo \u00e0 Toa (Remix)",
+        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Cleytinho de Maca\u00e9",
+          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Sorrindo \u00e0 Toa - Remix",
+      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "Se Tu Creres (Remix)",
         "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 171428,
       "name": "Se Tu Creres - Remix",
       "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "Sorrindo \u00e0 Toa (Remix)",
-        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Cleytinho de Maca\u00e9",
-          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Sorrindo \u00e0 Toa - Remix",
-      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
     },
     {
       "added_at": "2025-01-03 03:01:06",

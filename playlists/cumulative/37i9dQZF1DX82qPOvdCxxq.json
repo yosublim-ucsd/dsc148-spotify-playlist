@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: JOSHUA LAZER | Artwork: Laina Deene",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Charlene Nash | Artwork: Laina Deene",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -132,6 +132,28 @@
       "duration_ms": 286586,
       "name": "Agua",
       "url": "https://open.spotify.com/track/2Ir8iLxpUI0IyBUelCfCWG"
+    },
+    {
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/1TM60j0IBdBzqDjprT9rgp"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        },
+        {
+          "name": "revoestereo",
+          "url": "https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243187,
+      "name": "Ahora y Siempre",
+      "url": "https://open.spotify.com/track/6zmsPguz1U9X3lxkYYsVQO"
     },
     {
       "album": {
@@ -3888,7 +3910,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 203500,
       "name": "Losing Time",
       "url": "https://open.spotify.com/track/5fEmmBvHEKqbikRZI35LJ5"
@@ -5213,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "Relicario",
+        "url": "https://open.spotify.com/album/6yiJI1RR01R6siTHfB8Zkf"
+      },
+      "artists": [
+        {
+          "name": "Dariana",
+          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184454,
+      "name": "Relicario",
+      "url": "https://open.spotify.com/track/42na5GNNjAf5h4YfqMhrkB"
+    },
+    {
+      "album": {
         "name": "Renew My Life (He)",
         "url": "https://open.spotify.com/album/7nH5hYuaI3D0qTadXR68kR"
       },
@@ -5602,6 +5642,24 @@
       "duration_ms": 106000,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4AaUPCfFrsXKu3G1BO91kq"
+    },
+    {
+      "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/59ySLYx7we14FM4vu8lXNs"
+      },
+      "artists": [
+        {
+          "name": "Charlene Nash",
+          "url": "https://open.spotify.com/artist/2qhBqNQlHE3Lq5VbUI4UHA"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230588,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/6roek1DnPiZlDOaWGfRJIA"
     },
     {
       "album": {

@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 245920,
       "name": "6 Piano Pieces, Op. 118: No. 5: Romance in F Major",
       "url": "https://open.spotify.com/track/4T5lTpbq0EyhHCzzdtpX6t"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 158855,
       "name": "A Story Yet to Be Told",
       "url": "https://open.spotify.com/track/2JR7OdYJaYZtdpSnm3s9Ls"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 176789,
       "name": "Anima III",
       "url": "https://open.spotify.com/track/3rGvmKEB5z1YyibViKHKXZ"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 272003,
       "name": "Blackbirds and the Sun of October",
       "url": "https://open.spotify.com/track/2UC0Gw9ltAjH738AhEtWgw"
@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Consolations, S. 172/No. 3 in D-Flat Major. Lento placido",
+        "url": "https://open.spotify.com/album/5Xll6bBLH10d2dhClYQrOq"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250586,
+      "name": "Consolations, S. 172: No. 3 in D-Flat Major. Lento placido",
+      "url": "https://open.spotify.com/track/7sOR6kZ4H8LJcGcIl3yGwj"
+    },
+    {
+      "album": {
         "name": "U\u00e8le Lamore & Theo Croker",
         "url": "https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 138773,
       "name": "Dancing Girl",
       "url": "https://open.spotify.com/track/1h0k5c35Bnh63khuMMBfmg"
@@ -1540,6 +1562,24 @@
       "duration_ms": 143840,
       "name": "Danse des Fleurs",
       "url": "https://open.spotify.com/track/2TCBiOu9kpsk0JaC8vwTOf"
+    },
+    {
+      "album": {
+        "name": "Elements of Nature",
+        "url": "https://open.spotify.com/album/4YGy3Yss6qYZlBiAWgvuvP"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/3bGs2KL0UbRJKBr6gB17Tq"
     },
     {
       "album": {
@@ -1736,6 +1776,32 @@
       "duration_ms": 248490,
       "name": "Down Time",
       "url": "https://open.spotify.com/track/2PZ6nSf1Zzgwx9vcXSVhpp"
+    },
+    {
+      "album": {
+        "name": "Exposition",
+        "url": "https://open.spotify.com/album/52jGOYTzIFk9cfrYHxzbhG"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Leon Wolf",
+          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
+        },
+        {
+          "name": "Robin Kallenberger",
+          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "Dragon's Lullaby",
+      "url": "https://open.spotify.com/track/2ycFs3p8tqAMN9jRphGIBB"
     },
     {
       "album": {
@@ -2390,7 +2456,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 168560,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/7CtqDteKSr3C4k3hkBu8iT"
@@ -2768,7 +2834,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 176253,
       "name": "Kitsch-Musik: IV. Moderato",
       "url": "https://open.spotify.com/track/668HM3SxGjFs3U2yfV2ZGb"
@@ -2804,7 +2870,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 194720,
       "name": "L'arbre Solitaire",
       "url": "https://open.spotify.com/track/1Tqs6zpPTJOvQOCJTN2Wqh"
@@ -2997,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Lee (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7mATM75Y3dd58TAhzXimdh"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97866,
+      "name": "Lee",
+      "url": "https://open.spotify.com/track/1uI4OIBLdVYgyHgCtlac7N"
+    },
+    {
+      "album": {
         "name": "Les berceaux, Op. 23, No. 1",
         "url": "https://open.spotify.com/album/0BMLPugDyUgKokqLQaGXRE"
       },
@@ -3118,7 +3202,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 185506,
       "name": "Loiste",
       "url": "https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za"
@@ -3347,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/6gpnvTvgMLIn9qZdJez5ya"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130623,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5C6Yc5dSoMsVsAXS38vKrv"
+    },
+    {
+      "album": {
         "name": "OKYAN",
         "url": "https://open.spotify.com/album/1EDnoQC8Kmz8YizYeNg8KJ"
       },
@@ -3482,7 +3584,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 145067,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/1noBkcNmVNk0PWlnzkt1Hi"
@@ -3536,7 +3638,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 169167,
       "name": "New Beginning (Arr. for Strings by Carlos Hof)",
       "url": "https://open.spotify.com/track/1C4g0QhVeWfvXHwjF1QmYB"
@@ -3834,7 +3936,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 125984,
       "name": "Once",
       "url": "https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1"
@@ -3888,7 +3990,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 213382,
       "name": "Open Fields",
       "url": "https://open.spotify.com/track/7zYnlqCePHqm34anuV9vM2"
@@ -4106,7 +4208,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 164080,
       "name": "Peaceful Paradise",
       "url": "https://open.spotify.com/track/3AKXbF7VasGhPv8Z10S6Dh"
@@ -4502,7 +4604,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 189471,
       "name": "Puccini: Vissi d'Arte - Olivia Belli Rework",
       "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
@@ -4690,7 +4792,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 141041,
       "name": "Respiro 5",
       "url": "https://open.spotify.com/track/0j0HOYUKuufklmuzsyXdtA"
@@ -5248,7 +5350,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 180440,
       "name": "Standing On the Edge",
       "url": "https://open.spotify.com/track/2ctBJDCBNUixYHRNG4TeMN"
@@ -5396,7 +5498,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 249905,
       "name": "The Art of Falling",
       "url": "https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG"
@@ -5552,7 +5654,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 152746,
       "name": "The Heart Asks Pleasure First",
       "url": "https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo"
@@ -5908,7 +6010,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 207626,
       "name": "Together Without You",
       "url": "https://open.spotify.com/track/2STpnOCDlWxS5JdtsLWaFA"
@@ -6282,7 +6384,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 176480,
       "name": "Weekend Walk",
       "url": "https://open.spotify.com/track/6VxaQ1pN4VJNaFkSmgsA4q"
@@ -6427,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "Blackbirds and the Sun of October",
+        "url": "https://open.spotify.com/album/4O77WioPYSFk4cNHiPpLzk"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172904,
+      "name": "Your Spell",
+      "url": "https://open.spotify.com/track/2Ipk5zc3w0jYPHidJsjAVZ"
+    },
+    {
+      "album": {
         "name": "Your Spell",
         "url": "https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq"
       },
@@ -6438,7 +6558,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 172904,
       "name": "Your Spell",
       "url": "https://open.spotify.com/track/5U1D092cYFEXTZVjvIXLuF"

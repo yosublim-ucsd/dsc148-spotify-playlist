@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wiMAzIv2YCD4fyKle8vi9.md) - [plain]
 
 > 
 
-[Joaquin Lobato](https://open.spotify.com/user/11100497949) - 1 like - 65 songs - 6 hr 38 min
+[Joaquin Lobato](https://open.spotify.com/user/11100497949) - 1 like - 66 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/3wiMAzIv2YCD4fyKle8vi9.md) - [plain]
 | 63 | [Iceblink](https://open.spotify.com/track/73lw9cCA322X83dsK5obJM) | [Pass Into Silence](https://open.spotify.com/artist/5I2Upsicrkkkmr1ECiISq4) | [Pop Ambient 2006](https://open.spotify.com/album/2npaJvLVaFprezLiNOqM4T) | 5:09 |
 | 64 | [Saturday Evening](https://open.spotify.com/track/4iWCvD8yvX4dZgJbCFvn7W) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Summer Feelings](https://open.spotify.com/album/67XaCDAhz5v61wCInrkJyn) | 4:57 |
 | 65 | [En El Bosque](https://open.spotify.com/track/4BZU3KLHn3PzgA4EREWX4l) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Nocturnina](https://open.spotify.com/album/6jSvr6MVCXunzOMKoOxaEE) | 6:34 |
+| 66 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
 
-Snapshot ID: `AAAAxQWazmvdHU3VRNRSdzu559AfXyQp`
+Snapshot ID: `AAAAxoULoMer2jELZTqOJjzepe+A/dSE`

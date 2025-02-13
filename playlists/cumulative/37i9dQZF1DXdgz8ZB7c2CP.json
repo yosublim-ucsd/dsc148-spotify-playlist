@@ -11740,7 +11740,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 176706,
       "name": "Older",
       "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
@@ -19238,6 +19238,28 @@
       "duration_ms": 228718,
       "name": "While you count down.",
       "url": "https://open.spotify.com/track/2GTBThIhxFWnSNpvLr1HHu"
+    },
+    {
+      "album": {
+        "name": "WHO WANNA FIGHT",
+        "url": "https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "date_added": "2025-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "WHO WANNA FIGHT",
+      "url": "https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb"
     },
     {
       "album": {

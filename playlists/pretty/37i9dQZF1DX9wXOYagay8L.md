@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN?si=9Calzv5rQVSm0VYRC\-MDBg"> Naledi Aphiwe</a>,  <a href="https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE?si=neHG4qqeS2KYE\-JqoL8VwA"> Mawelele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,942 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,138 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 20 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
 | 21 | [Kumnandi](https://open.spotify.com/track/0rFqgMLpaC1BNbNejnvSVV) | [Naima Kay](https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM), [Zolani](https://open.spotify.com/artist/5nwxX7U8RzNy6Em76yRZ31) | [Kumnandi](https://open.spotify.com/album/0obP9K0JXs9HAIUC3yuLPu) | 4:10 |
 | 22 | [Same Place](https://open.spotify.com/track/1gsyktCzmfmEqCZylx6CtC) | [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [Same Place](https://open.spotify.com/album/5FuZk7vh5KVgXYKCNavfNa) | 3:07 |
-| 23 | [LOVE \(feat\. Sbu Keys & Reed\)](https://open.spotify.com/track/1F5pXqNIpPvhW3FcONfkfu) | [Vic\_typhoon](https://open.spotify.com/artist/5xvUUSVggxeBeWGBEmCRh6), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Sbu Keys](https://open.spotify.com/artist/1YlfkPHEElYptLRQzLEKg4), [Reed](https://open.spotify.com/artist/4tCGRoI7zhPtJvKoyZEJES) | [LOVE \(feat\. Sbu Keys & Reed\)](https://open.spotify.com/album/1mNQgidSWudzvdB3mOsLkT) | 4:09 |
+| 23 | [LOVE \(EDIT\) \[feat\. Sbu Keys & Reed\]](https://open.spotify.com/track/1F5pXqNIpPvhW3FcONfkfu) | [Vic\_typhoon](https://open.spotify.com/artist/5xvUUSVggxeBeWGBEmCRh6), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Sbu Keys](https://open.spotify.com/artist/1YlfkPHEElYptLRQzLEKg4), [Reed](https://open.spotify.com/artist/4tCGRoI7zhPtJvKoyZEJES) | [LOVE \(EDIT\) \[feat\. Sbu Keys & Reed\]](https://open.spotify.com/album/1mNQgidSWudzvdB3mOsLkT) | 4:09 |
 | 24 | [Khwezela](https://open.spotify.com/track/6HaxFKlRLTgqu99N67uJBM) | [Donald](https://open.spotify.com/artist/7MiMIk9KN0S5uwOWZwxAXs) | [Khwezela](https://open.spotify.com/album/6Mo5bI96eD6fX84MdF82qb) | 4:11 |
 | 25 | [Ukuba nawe](https://open.spotify.com/track/5L1SocLP52SLzhR8DClD8o) | [Sbu Mbangeni](https://open.spotify.com/artist/1C0IyrC7wvLNqkbXhzQ6aM) | [Ukuba nawe](https://open.spotify.com/album/6a9lkkNhax8HJv5rJmBY1T) | 3:26 |
 | 26 | [Control](https://open.spotify.com/track/7mQzeMtJyWbRxhQyxLZyKM) | [Larny](https://open.spotify.com/artist/0L6Ho5lbphAPTc80JlSCwa), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Meez Musician](https://open.spotify.com/artist/5wOYN6pXsAh2LVv12Crwc5) | [Control](https://open.spotify.com/album/42AfeCgoySA2x4SLAi3vMf) | 5:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,260 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,286 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [FUGH SHI.](https://open.spotify.com/track/0cVqzNSriax6zcNW5HE9aH) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [FUGH SHI.](https://open.spotify.com/album/40q90FM2HDppMNorjsSVVO) | 2:16 |
 | 91 | [Flavour](https://open.spotify.com/track/2GQPWAPzRQjxqJTjAT2IA4) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Flavour](https://open.spotify.com/album/5WVNcSNzQx8tgKxgdwZjaP) | 3:01 |
 
-Snapshot ID: `Z6k+vwAAAADkxVDMMuIXvcAaxQqbQp6J`
+Snapshot ID: `Z6k+vwAAAADoURUi6uSssoY2HNYKzT85`

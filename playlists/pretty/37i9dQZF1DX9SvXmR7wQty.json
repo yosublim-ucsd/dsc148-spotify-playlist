@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rymz, Souldia",
-  "num_followers": 43631,
+  "num_followers": 43634,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -503,42 +503,6 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Hockey",
-        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
-      },
-      "artists": [
-        {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Hockey",
-      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "Je suis content mes amis",
-        "url": "https://open.spotify.com/album/7b42BagQ7BQfTJrmkZQwgB"
-      },
-      "artists": [
-        {
-          "name": "Foisy",
-          "url": "https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Je suis content mes amis",
-      "url": "https://open.spotify.com/track/6xMiC43lOxpfc5mVS21G65"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
         "name": "ORIGINAL GANGSTA",
         "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
       },
@@ -559,6 +523,42 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
+        "name": "Je suis content mes amis",
+        "url": "https://open.spotify.com/album/7b42BagQ7BQfTJrmkZQwgB"
+      },
+      "artists": [
+        {
+          "name": "Foisy",
+          "url": "https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Je suis content mes amis",
+      "url": "https://open.spotify.com/track/6xMiC43lOxpfc5mVS21G65"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "Hockey",
+        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Hockey",
+      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/1A6AW9xZSiuBE2eXX9x2vs"
       },
@@ -575,18 +575,18 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
+        "name": "Sp\u00e9cial",
+        "url": "https://open.spotify.com/album/6p7QYxRUSKtENDLrQxpTHH"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 116786,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
+      "duration_ms": 147186,
+      "name": "Sp\u00e9cial",
+      "url": "https://open.spotify.com/track/0s1xIkZjwBKWN8803r2Opd"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -615,18 +615,38 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Sp\u00e9cial",
-        "url": "https://open.spotify.com/album/6p7QYxRUSKtENDLrQxpTHH"
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
       },
       "artists": [
         {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 147186,
-      "name": "Sp\u00e9cial",
-      "url": "https://open.spotify.com/track/0s1xIkZjwBKWN8803r2Opd"
+      "duration_ms": 116786,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 145785,
+      "name": "RODEO DRIVE (feat. Hamza)",
+      "url": "https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -663,26 +683,6 @@
       "duration_ms": 182200,
       "name": "La pluie",
       "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 145785,
-      "name": "RODEO DRIVE (feat. Hamza)",
-      "url": "https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -727,6 +727,42 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
+        "name": "High & Fines Herbes - La Saison 5",
+        "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Comic sans MS",
+      "url": "https://open.spotify.com/track/0z1L8jMPXPMLZzxEAAsWmX"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "Qu\u00e9 Miras Bobo",
+        "url": "https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 150806,
+      "name": "Qu\u00e9 Miras Bobo",
+      "url": "https://open.spotify.com/track/69V8EffxZePjssPL4h7x87"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
         "name": "BIG BODY",
         "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
       },
@@ -747,26 +783,6 @@
       "duration_ms": 179388,
       "name": "BIG BODY",
       "url": "https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "High & Fines Herbes - La Saison 5",
-        "url": "https://open.spotify.com/album/3h6Wf4FMHgjIJ6gu3v12b5"
-      },
-      "artists": [
-        {
-          "name": "Caballero & JeanJass",
-          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
-        },
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Comic sans MS",
-      "url": "https://open.spotify.com/track/0z1L8jMPXPMLZzxEAAsWmX"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "penelope",
-        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 194902,
-      "name": "penelope",
-      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
         "name": "Inarr\u00eatable",
         "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 198653,
       "name": "Je suis fait pour...",
       "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
+    },
+    {
+      "added_at": "2025-02-07 05:00:43",
+      "album": {
+        "name": "penelope",
+        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 194902,
+      "name": "penelope",
+      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
     },
     {
       "added_at": "2025-02-07 05:00:43",
@@ -851,34 +867,18 @@
     {
       "added_at": "2025-02-07 05:00:43",
       "album": {
-        "name": "Qu\u00e9 Miras Bobo",
-        "url": "https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6"
+        "name": "RIPRO",
+        "url": "https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 150806,
-      "name": "Qu\u00e9 Miras Bobo",
-      "url": "https://open.spotify.com/track/69V8EffxZePjssPL4h7x87"
-    },
-    {
-      "added_at": "2025-02-07 05:00:43",
-      "album": {
-        "name": "Mon sang",
-        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Cette vie",
-      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
+      "duration_ms": 217226,
+      "name": "Comme toi",
+      "url": "https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

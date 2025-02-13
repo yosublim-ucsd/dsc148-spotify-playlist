@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, Keep it Real. Cover: Navaan Sandhu",
+  "description": "Keep it Punjabi, Keep it Real. Cover: Jassa Dhillon",
   "name": "Ghaint Flow",
   "tracks": [
     {
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 179063,
       "name": "Circle",
       "url": "https://open.spotify.com/track/0iDrcBnb9K93F8mU1gBiOF"
@@ -2796,6 +2796,28 @@
       "duration_ms": 190441,
       "name": "Desi Touch",
       "url": "https://open.spotify.com/track/0qYRT0Wu43MmRpKoCH2ECW"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6PmDdiDkDpgUj7PJWjLsil"
+      },
+      "artists": [
+        {
+          "name": "Ekkan",
+          "url": "https://open.spotify.com/artist/2VnWKIkpDJE8f6qukTmnpa"
+        },
+        {
+          "name": "Marz",
+          "url": "https://open.spotify.com/artist/5V7bS224vebOH5hCq5nlMB"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2TIIsy9WCwJCGw3rTh4akB"
     },
     {
       "album": {
@@ -4013,6 +4035,28 @@
     },
     {
       "album": {
+        "name": "Gandasa",
+        "url": "https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148140,
+      "name": "Gandasa",
+      "url": "https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7"
+    },
+    {
+      "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/4iaAssa1mvJrF2JeOi3V3U"
       },
@@ -4498,6 +4542,32 @@
       "duration_ms": 184736,
       "name": "Heeray",
       "url": "https://open.spotify.com/track/2ArvOTJvqP3tGTddDX5zXc"
+    },
+    {
+      "album": {
+        "name": "Hero (From \"Badnaam\")",
+        "url": "https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Jayy Randhawa",
+          "url": "https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w"
+        },
+        {
+          "name": "Yaari Ghuman",
+          "url": "https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213308,
+      "name": "Hero (From \"Badnaam\")",
+      "url": "https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV"
     },
     {
       "album": {
@@ -6362,7 +6432,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 180000,
       "name": "Kingpin The Next Episode",
       "url": "https://open.spotify.com/track/5TJb1FKg6Fa2zRcTqifRtm"
@@ -6388,6 +6458,32 @@
       "duration_ms": 135211,
       "name": "Koi Chakkar Nii",
       "url": "https://open.spotify.com/track/1z3Urp9Mt8wAIozjMtRkhf"
+    },
+    {
+      "album": {
+        "name": "Kudi Kaun Ae (From \"Six Each\")",
+        "url": "https://open.spotify.com/album/26zO2wTHJXHrZpAw0ixzPW"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Hardeep Grewal",
+          "url": "https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B"
+        },
+        {
+          "name": "R Guru",
+          "url": "https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140261,
+      "name": "Kudi Kaun Ae (From \"Six Each\")",
+      "url": "https://open.spotify.com/track/1OYOdhoFdzIJKmGqMklvXb"
     },
     {
       "album": {
@@ -8233,6 +8329,24 @@
     },
     {
       "album": {
+        "name": "Ok Hoye Paye Haan",
+        "url": "https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129606,
+      "name": "Ok Hoye Paye Haan",
+      "url": "https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX"
+    },
+    {
+      "album": {
         "name": "Ok Reportaan",
         "url": "https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C"
       },
@@ -8376,7 +8490,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 181339,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/4JYk1cLcpJjJChjjCNT97x"
@@ -10558,7 +10672,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 225483,
       "name": "Tell Me Honestly",
       "url": "https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL"
@@ -11150,7 +11264,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 160800,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/3pAVkXItga7MiwS4PAxldn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Mazaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,175 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,230 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Inka Inka \(From "Naa Saami Ranga"\)](https://open.spotify.com/track/3Tmry3mvrMXSQDxqkFezqC) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Maman Kumar](https://open.spotify.com/artist/7uI5mgeZckjDanJrVVVatP), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu) | [Inka Inka \(From "Naa Saami Ranga"\)](https://open.spotify.com/album/2JPKhBno99Tsb7NrfDLawO) | 3:31 |
 | 50 | [Manasu Galilona](https://open.spotify.com/track/0r4KMkUHhTQRPly1pIu0xJ) | [Radhan](https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Chitram Choodara](https://open.spotify.com/album/0pmOHWmHtUzlxhbMsJFjT1) | 3:54 |
 
-Snapshot ID: `Z6nncQAAAACaZ0gx82DoyVirg0T2ATzV`
+Snapshot ID: `Z6x65gAAAAB+rN1zHxF/Bxswsm7Y7TD9`

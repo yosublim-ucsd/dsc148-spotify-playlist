@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-378 songs - 22 hr 2 min
+379 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [CHARGIE](https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC) | [CHARGIE](https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo) | 2:19 | 2025-01-31 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-19 | 2024-07-27 |
 | [Cluster](https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc) | [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Cluster](https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el) | 4:09 | 2024-03-01 | 2024-09-20 |
-| [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 | 2024-06-27 |  |
+| [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 | 2024-06-27 | 2025-02-13 |
 | [Control](https://open.spotify.com/track/0tjk8L9aFCsH9BlkVAixct) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Control](https://open.spotify.com/album/1ygUJq7xxvjmEs56MY5Hjl) | 2:55 | 2024-10-03 | 2024-11-17 |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 | 2024-02-23 | 2024-09-06 |
 | [Crunchy Nutter](https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Crunchy Nutter](https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA) | 3:24 | 2024-05-31 | 2024-08-04 |
@@ -111,6 +111,7 @@
 | [Enter The Rave](https://open.spotify.com/track/6jcBwJbeX2LCKi9DfGpdjJ) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Enter The Rave](https://open.spotify.com/album/1OuvSxsDAzDpt9J2FwQCpC) | 3:04 | 2024-08-02 | 2025-01-19 |
 | [Essex Girls \(feat\. Jaykae, Silky & Janice Robinson\)](https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef) | [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Essex Girls \(feat\. Jaykae, Silky & Janice Robinson\)](https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1) | 2:40 | 2022-09-30 | 2024-06-28 |
 | [Everybody's Free](https://open.spotify.com/track/1YI0NUNAROg5jc0s0xZdfk) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb), [Nat Conway](https://open.spotify.com/artist/39VO9YJvBMtLvnp2keFHdx) | [Everybody's Free](https://open.spotify.com/album/2LnHts58u2QnjpsTlJfxjL) | 4:20 | 2023-12-27 | 2024-01-12 |
+| [Eyes On Me \- VIP](https://open.spotify.com/track/51NB3wz43oc8U2tUmXPH7F) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me \(VIP\)](https://open.spotify.com/album/4xAZ9I19zSBJIpXdANdmj1) | 3:43 | 2025-02-07 |  |
 | [Fever](https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [Fever](https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs) | 3:40 | 2024-10-03 | 2024-11-10 |
 | [Fiesta](https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Fiesta](https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp) | 3:46 | 2024-10-18 | 2024-12-16 |
 | [Figure It Out](https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Anna Rickards](https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz) | [Figure It Out](https://open.spotify.com/album/1GbLtUextuxcVZbondHylL) | 4:59 | 2022-09-30 | 2023-04-16 |

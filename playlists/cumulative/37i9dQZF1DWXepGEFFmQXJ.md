@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Jordan Davis
 
-884 songs - 2 day 0 hr 22 min
+885 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Dead End Road](https://open.spotify.com/track/1unTSILv272aGjufNBJjQj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:32 | 2024-07-18 | 2024-11-15 |
 | [Dead To Me](https://open.spotify.com/track/4i2O11UnrFyCvW1X4aZT28) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Dead To Me](https://open.spotify.com/album/07VQaRYNPQrX5q74HYMlqF) | 2:58 | 2022-10-13 | 2023-04-21 |
 | [Dear Life](https://open.spotify.com/track/6tlCs1MOqB8KML7KJqggZm) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Dear Life](https://open.spotify.com/album/5MyRxVJOCQTdWvqM333hxx) | 3:20 | 2024-06-21 | 2024-07-27 |
+| [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 | 2025-02-12 |  |
 | [Deep Cuts](https://open.spotify.com/track/1LEOSfKAoEFCjQPiF44kqI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Deep Cuts](https://open.spotify.com/album/6ZD2LgmUGRKzXWaJGf1nBM) | 4:05 | 2023-01-19 | 2023-05-05 |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-15 |
 | [Denim](https://open.spotify.com/track/0Dk5xQrlWrw6vA8jbMZX2S) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK), [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [The Drifter](https://open.spotify.com/album/3nLdEGyeELJw1NGvibc9PZ) | 3:51 | 2025-01-16 |  |

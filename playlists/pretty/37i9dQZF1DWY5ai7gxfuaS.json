@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 308921,
+  "num_followers": 308992,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "DOWN (feat. Malevolence)",
         "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
-      },
-      "artists": [
-        {
-          "name": "Revnoir",
-          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Product Of My Love",
-        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
-      },
-      "artists": [
-        {
-          "name": "Druidess",
-          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Sniffing Accountant",
-      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Black Brick",
         "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "The Product Of My Love",
+        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+      },
+      "artists": [
+        {
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Sniffing Accountant",
+      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Hide in Shade",
-        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Hide in Shade",
-      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Over The Threshold",
         "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 189257,
       "name": "Square One",
       "url": "https://open.spotify.com/track/0U6wtwuY9V5qWqnAXz90Y4"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Hide in Shade",
+        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Hide in Shade",
+      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Oportunista",
-        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Oportunista",
-      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 249979,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
       },
       "artists": [
         {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
       "artists": [
         {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
         }
       ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Demon Supreme",
+        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 211759,
+      "name": "Demon Supreme",
+      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2024-07-19 13:56:32",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Only Paradise Lost",
-        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
-      },
-      "artists": [
-        {
-          "name": "vedawave",
-          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Only Paradise Lost",
-      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "AN ITERATION",
         "url": "https://open.spotify.com/album/0xMePIGPcoO7Xirx1Jh0da"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 173154,
       "name": "AN ITERATION",
       "url": "https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Only Paradise Lost",
+        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
+      },
+      "artists": [
+        {
+          "name": "vedawave",
+          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Only Paradise Lost",
+      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "EUGH!",
-        "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
       },
       "artists": [
         {
-          "name": "SPIIRAL",
-          "url": "https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC"
+          "name": "King Yosef",
+          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
         }
       ],
-      "duration_ms": 82926,
-      "name": "EUGH!",
-      "url": "https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx"
+      "duration_ms": 269265,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
     }
   ],
   "unique_name": "Alternative Metal",

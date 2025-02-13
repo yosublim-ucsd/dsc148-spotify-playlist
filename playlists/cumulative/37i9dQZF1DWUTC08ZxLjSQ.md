@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-397 songs - 21 hr 18 min
+398 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Aroma عبير](https://open.spotify.com/track/0uaGiRPEILWQbamtwPmtVb) | [TheSaif](https://open.spotify.com/artist/6wE2ow6Lhp2eO5t71wygwA) | [Aroma عبير](https://open.spotify.com/album/1ZuKymhfVlambrhftRjWRJ) | 4:02 | 2023-01-17 | 2023-06-21 |
 | [Asliyah](https://open.spotify.com/track/5IHH65QmmSkqhbATP3sZFt) | [Asayel](https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS) | [Asliyah](https://open.spotify.com/album/4asoomU1I56N5Bt6CunOgU) | 2:58 | 2024-09-11 | 2024-11-27 |
 | [Ataitek](https://open.spotify.com/track/5ryqKdwizfpw0v8HWnu6Cd) | [Ramii](https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M) | [Ataitek](https://open.spotify.com/album/1ZQu5ILQBkdsDNSNz0cfdM) | 2:36 | 2023-09-06 | 2024-01-17 |
+| [Aحla](https://open.spotify.com/track/1mW1HAX56sSxdYR0eSfMpa) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX) | [Aحla](https://open.spotify.com/album/0AAi5KV4NyE6bCrDzSYVRq) | 3:04 | 2025-02-12 |  |
 | [Back to you](https://open.spotify.com/track/334zuvClv7JYENjupg71GT) | [THE SVNH](https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm) | [Back to you](https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO) | 3:05 | 2022-10-04 | 2023-03-15 |
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-19 | 2022-11-10 |
 | [Bahlam Maak](https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Bahlam Maak](https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS) | 3:28 | 2024-05-14 | 2024-09-12 |
@@ -108,7 +109,7 @@
 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-09 | 2023-05-10 |
 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 | 2023-06-20 | 2023-09-07 |
 | [Fe Dema3'y](https://open.spotify.com/track/5tTxYBbanUa4vsDtCw8Nbt) | [Fritz فريتز](https://open.spotify.com/artist/2aJZyMlC7mHkvflE6X0m13) | [Fe Dema3'y](https://open.spotify.com/album/6GhzGk9JZS6QGncolM3HGC) | 2:59 | 2024-02-20 | 2024-07-10 |
-| [Fi Bayti](https://open.spotify.com/track/71tAo8aDJqWCvqpW54GyIm) | [Ome](https://open.spotify.com/artist/5c7ckpDdeGpifu0mYbJg96) | [Fi Bayti](https://open.spotify.com/album/6fDCv9AC4GmJT7vhcXgXit) | 3:58 | 2024-10-01 |  |
+| [Fi Bayti](https://open.spotify.com/track/71tAo8aDJqWCvqpW54GyIm) | [Ome](https://open.spotify.com/artist/5c7ckpDdeGpifu0mYbJg96) | [Fi Bayti](https://open.spotify.com/album/6fDCv9AC4GmJT7vhcXgXit) | 3:58 | 2024-10-01 | 2025-02-13 |
 | [Flight of Time](https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2) | [Juno](https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD) | [Flight of Time](https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB) | 4:00 | 2022-11-08 | 2023-04-05 |
 | [Fo2 Ya 3bit](https://open.spotify.com/track/4IWoZNeHfnfG0ebqoxCRiu) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Fo2 Ya 3bit](https://open.spotify.com/album/6WJ6VxCzDUMbI2tWxoBA4C) | 2:39 | 2023-05-17 | 2023-07-13 |
 | [FO2 YA 3BIT](https://open.spotify.com/track/2z3q0My73fl8nE1VEncMBU) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [FO2 YA 3BIT](https://open.spotify.com/album/4qQI0tUcWS5Y6OYhyacuXs) | 2:39 | 2023-07-05 | 2023-10-05 |

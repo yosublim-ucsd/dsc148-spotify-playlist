@@ -11901,6 +11901,40 @@
     },
     {
       "album": {
+        "name": "RASEN",
+        "url": "https://open.spotify.com/album/0uy5JNgym9cfattQonTzzb"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        },
+        {
+          "name": "lilbesh ramko",
+          "url": "https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu"
+        },
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        },
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY"
+        },
+        {
+          "name": "Y ohtrixpointnever",
+          "url": "https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "RASEN",
+      "url": "https://open.spotify.com/track/6P2dyZlY7qyAp9QJqbMN8N"
+    },
+    {
+      "album": {
         "name": "Re:arrange",
         "url": "https://open.spotify.com/album/4QEfVtLjG3wnQuXL0P9m7P"
       },

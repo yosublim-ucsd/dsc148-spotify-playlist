@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Biig Piig
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,256 likes - 134 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,274 likes - 134 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

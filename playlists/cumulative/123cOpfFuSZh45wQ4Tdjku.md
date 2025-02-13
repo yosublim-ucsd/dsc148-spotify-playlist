@@ -4,7 +4,7 @@
 
 > mostly furry
 
-284 songs - 14 hr 25 min
+285 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Stormi Folf](https://open.spotify.com/track/4fgO72hXtX6d7hSzmBpHuV) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:30 | 2024-08-03 |  |
 | [Strays](https://open.spotify.com/track/1aXATIo34e5ZZvFcavePpy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:06 | 2024-12-07 |  |
 | [Suicider](https://open.spotify.com/track/2MuM98vRKQZYd0ktRXiQ82) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Suicider](https://open.spotify.com/album/5EU2NsknWKLhEVlmrtTw8D) | 3:31 | 2024-07-12 |  |
+| [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 | 2025-02-12 |  |
 | [Sunset](https://open.spotify.com/track/1FGJQFoV9hef1gTXWKbJpu) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 3:15 | 2024-01-25 |  |
 | [Suspend My Belief](https://open.spotify.com/track/6rf6H1AhhQX7qQlL9pwekG) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Suspend My Belief](https://open.spotify.com/album/7AzNl5x1rEf9Fg60YgIKUS) | 3:01 | 2024-05-22 |  |
 | [Sweet Little Lies](https://open.spotify.com/track/7AY0hYKWvpZBnvos2QsG5X) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [Sweet Little Lies](https://open.spotify.com/album/6HgEX7daQtHOTVb6YLaA29) | 3:02 | 2024-01-23 |  |

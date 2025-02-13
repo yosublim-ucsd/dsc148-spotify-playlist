@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-371 songs - 19 hr 18 min
+372 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Tango](https://open.spotify.com/track/5WfT31OMkQPyWIK85HqFhX) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Tango](https://open.spotify.com/album/4sQRu69Tq3hLBiW1ul2ebQ) | 3:13 | 2024-02-09 | 2024-03-14 |
 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 | 2024-04-26 |  |
 | [Tears on the Dance Floor \- Icona Pop DJ Edit](https://open.spotify.com/track/2khogvElDU87ouGOwIhQov) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Tears on the Dance Floor \(Icona Pop DJ Edit\)](https://open.spotify.com/album/2DNlcQPAoBiAbuEkFCxlNl) | 3:48 | 2024-02-09 | 2024-05-01 |
+| [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 | 2025-02-12 |  |
 | [Testify](https://open.spotify.com/track/69XbRqq05XaVBJtb7QLIEq) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Testify](https://open.spotify.com/album/0XMh0bXr9oKP1mzifGwIRK) | 2:58 | 2024-05-14 |  |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-04-26 |  |
 | [The 90s Range](https://open.spotify.com/track/0Pf7EY9ctw9cAY7RDZHtin) | [Bryson Hill](https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA) | [The 90s Range](https://open.spotify.com/album/3kCRVAENUECcZhvE3fBqq2) | 3:36 | 2024-10-18 |  |

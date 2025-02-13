@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,611 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,563 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [16\-24](https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [16\-24](https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO) | 2:27 |
-| 2 | [PINGUI](https://open.spotify.com/track/07vrGaaEPkbGTz0TBXvNFN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [BAO](https://open.spotify.com/artist/2A8LFuPVMXU66LuCPtgOEo), [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [PINGUI](https://open.spotify.com/album/13pw6ciJ5osIvs38U0pKo7) | 5:12 |
-| 3 | [BOYNA GALAVA](https://open.spotify.com/track/3hC2TUXhcKkVw7xgejsyiz) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BOYNA GALAVA](https://open.spotify.com/album/2vpKbtKM6bbY1iYX8mVAB8) | 1:36 |
+| 2 | [BOYNA GALAVA](https://open.spotify.com/track/3hC2TUXhcKkVw7xgejsyiz) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BOYNA GALAVA](https://open.spotify.com/album/2vpKbtKM6bbY1iYX8mVAB8) | 1:36 |
+| 3 | [PINGUI](https://open.spotify.com/track/07vrGaaEPkbGTz0TBXvNFN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [BAO](https://open.spotify.com/artist/2A8LFuPVMXU66LuCPtgOEo), [Bar B](https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [PINGUI](https://open.spotify.com/album/13pw6ciJ5osIvs38U0pKo7) | 5:12 |
 | 4 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
 | 5 | [SOKAK KÖŞELERİNDE](https://open.spotify.com/track/56g8ZSGwZXq4tBG1xbsIAM) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [TÜRKÇE RAP MİXTAPE](https://open.spotify.com/album/6KT0esShZuc4ceUhgf18F2) | 3:49 |
 | 6 | [SURF](https://open.spotify.com/track/1HX7FHOdN0QhVNwb0rcinx) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [SURF](https://open.spotify.com/album/0rtdeE6nzUsxXlEi1v00rp) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
 | 50 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 
-Snapshot ID: `Z6ohmwAAAADx756wcfLE5kQd2U6f9S5b`
+Snapshot ID: `Z6ygQwAAAACCkbNGqTkIIbS7J56jrekW`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:1RI955NtytmC8WSVGGva9p\">Big Yba</a> ",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:6zeQl72GknqjTGCbrzvSbc\">Rockout Danny</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Bad Brakes",
+        "url": "https://open.spotify.com/album/5pmoMwEa0ExpUZccLO2Gjw"
+      },
+      "artists": [
+        {
+          "name": "Tay2xs",
+          "url": "https://open.spotify.com/artist/3LqtmAITRyjrk1k1uqsAY7"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164754,
+      "name": "Bad Brakes",
+      "url": "https://open.spotify.com/track/10esgCGTQjZkmGwcTLdIRc"
+    },
+    {
+      "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/40YsXiZgsF31qje9gt25F7"
       },
@@ -3522,6 +3540,24 @@
       "duration_ms": 162352,
       "name": "Big Bank",
       "url": "https://open.spotify.com/track/61IrD4hmjsM5myqBWmeZc7"
+    },
+    {
+      "album": {
+        "name": "HOUS-REAL (Who's Real?)",
+        "url": "https://open.spotify.com/album/2yzDxSLwpma60RgVVxSx0D"
+      },
+      "artists": [
+        {
+          "name": "TGETruth",
+          "url": "https://open.spotify.com/artist/2ATYFiRwDoNzfpJb9uCaBh"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "BIG CANADA",
+      "url": "https://open.spotify.com/track/358gwWXVDMGLl3cC0Sk5JD"
     },
     {
       "album": {
@@ -5359,6 +5395,24 @@
     },
     {
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/7uqvV2iP3OtAKFjIGV7v8d"
+      },
+      "artists": [
+        {
+          "name": "TruththeBull",
+          "url": "https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3duFyuP9OnH5h9bffIS79X"
+    },
+    {
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/12Rqa9R09X2jUKYADjzCxc"
       },
@@ -5638,7 +5692,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-06",
+      "date_removed": null,
       "duration_ms": 139636,
       "name": "Check Fox 5",
       "url": "https://open.spotify.com/track/5cUn1fmjrCgWhrlkVrtR6f"
@@ -6788,7 +6842,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 196653,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/4lnIui4HcUd5qUdwkTRxIT"
@@ -6976,7 +7030,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 176597,
       "name": "Deleting Pictures (feat. Loe Shimmy)",
       "url": "https://open.spotify.com/track/0R4TXIPiCjkmUAc5zaxy5X"
@@ -8094,6 +8148,24 @@
       "duration_ms": 133475,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI"
+    },
+    {
+      "album": {
+        "name": "Perfect Storm",
+        "url": "https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156157,
+      "name": "Drugs Callin",
+      "url": "https://open.spotify.com/track/1WnvTJMxPIoXT7PV9mdNHk"
     },
     {
       "album": {
@@ -9348,7 +9420,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 128450,
       "name": "Fine Shyt",
       "url": "https://open.spotify.com/track/4HOJzroWY58YfL2vrEL7yV"
@@ -10104,7 +10176,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 70588,
       "name": "Fun",
       "url": "https://open.spotify.com/track/0odEa2titgaCUEX5qyVImU"
@@ -10738,7 +10810,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 173705,
       "name": "Giannis Remix",
       "url": "https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp"
@@ -11774,7 +11846,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 165537,
       "name": "Hell & Back",
       "url": "https://open.spotify.com/track/6uYhy7KoeQ9jqOVsTC3ZlK"
@@ -12640,7 +12712,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 109339,
       "name": "HYPE ME UP",
       "url": "https://open.spotify.com/track/2fMgGrKk8IFglMGn5CTXN5"
@@ -13897,6 +13969,24 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/6QW1JsKE3VgmVSaNLRQSR2"
+      },
+      "artists": [
+        {
+          "name": "ffawty",
+          "url": "https://open.spotify.com/artist/6rYO569C4mZHQUP7Q2oiDN"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/3dLrUDWBNtl2wUDhgi65jj"
+    },
+    {
+      "album": {
         "name": "Jump Out The Flame",
         "url": "https://open.spotify.com/album/1gzurh4ImnDVv75CUQQqPP"
       },
@@ -14294,6 +14384,24 @@
       "duration_ms": 114230,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/5rWGcxvxCPNiyo0HAEC62a"
+    },
+    {
+      "album": {
+        "name": "kinda up off talent!",
+        "url": "https://open.spotify.com/album/5PfWHNn8QVrS90eQEIRNk7"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159635,
+      "name": "kinda up off talent!",
+      "url": "https://open.spotify.com/track/6JJgKvq9bw4q4Kfq3vH1Fn"
     },
     {
       "album": {
@@ -16946,7 +17054,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 192792,
       "name": "Mic In My Casket",
       "url": "https://open.spotify.com/track/4bBf8Hm1HGIe0jcZZWgGdA"
@@ -17558,7 +17666,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 127081,
       "name": "More Of Yah Love (Mhmm)",
       "url": "https://open.spotify.com/track/2NHNALfjfVxHjw1Ke1v7ql"
@@ -19470,6 +19578,42 @@
       "duration_ms": 156000,
       "name": "Not Done",
       "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
+    },
+    {
+      "album": {
+        "name": "Not F*cked Up",
+        "url": "https://open.spotify.com/album/6NnemWFCsY5n5DTWqSoeez"
+      },
+      "artists": [
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151180,
+      "name": "Not F*cked Up",
+      "url": "https://open.spotify.com/track/42lhomOnlYFGFP5SyhjzX2"
+    },
+    {
+      "album": {
+        "name": "Not Regular",
+        "url": "https://open.spotify.com/album/14Pn8nSdYBEMSZ2BuGu0HR"
+      },
+      "artists": [
+        {
+          "name": "Btb Dezz",
+          "url": "https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230456,
+      "name": "Not Regular",
+      "url": "https://open.spotify.com/track/7mByAdVTexOBRENqm8AD5Y"
     },
     {
       "album": {
@@ -21708,7 +21852,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 230112,
       "name": "Put The Bag First",
       "url": "https://open.spotify.com/track/34iKaFipIoGQ0XFePP7x2J"
@@ -22712,6 +22856,24 @@
       "duration_ms": 174246,
       "name": "ROCK WITH THE MOB",
       "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"
+    },
+    {
+      "album": {
+        "name": "rockets",
+        "url": "https://open.spotify.com/album/1wu9pFyqegtq1yPsNjP7b0"
+      },
+      "artists": [
+        {
+          "name": "Tiny Jag",
+          "url": "https://open.spotify.com/artist/1d6U0DfuaMs9tbHllXrsAJ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94382,
+      "name": "rockets",
+      "url": "https://open.spotify.com/track/5WmrBIygJ5FKPXjYmNimqk"
     },
     {
       "album": {
@@ -23952,6 +24114,28 @@
       "duration_ms": 158975,
       "name": "Six Degrees",
       "url": "https://open.spotify.com/track/7JatQ1D7H2nhBwCCmxIYqT"
+    },
+    {
+      "album": {
+        "name": "Skai Jackson (Remix)",
+        "url": "https://open.spotify.com/album/5fiELYhktRIbO2WnGTVZca"
+      },
+      "artists": [
+        {
+          "name": "Jpay",
+          "url": "https://open.spotify.com/artist/6VDUJusYwKnlAd6WNZp14V"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180767,
+      "name": "Skai Jackson (feat. Babyface Ray) - Remix",
+      "url": "https://open.spotify.com/track/1Vmy3tcDRTMBkZFIOwrjpK"
     },
     {
       "album": {
@@ -25563,6 +25747,24 @@
     },
     {
       "album": {
+        "name": "Super Slime",
+        "url": "https://open.spotify.com/album/4jOKvvbGBOICNub9rqFGEF"
+      },
+      "artists": [
+        {
+          "name": "FullyChop",
+          "url": "https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123898,
+      "name": "Super Slime",
+      "url": "https://open.spotify.com/track/27XVmFrZ6So8yfsjy5Bbkc"
+    },
+    {
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/4iJ7AXwW3ljCGt2adO26o4"
       },
@@ -26120,7 +26322,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 216000,
       "name": "Tease Me (Remix)",
       "url": "https://open.spotify.com/track/1FAgyE9wRjk7ydp6PkZjtL"
@@ -26616,7 +26818,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 154000,
       "name": "THE WAIT",
       "url": "https://open.spotify.com/track/27NEAQXGMixupJd69PbtCB"

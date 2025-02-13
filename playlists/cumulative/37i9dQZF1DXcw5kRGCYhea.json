@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 163373,
       "name": "Couteau dans le dos",
       "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
@@ -1321,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "BALA W FAS",
+        "url": "https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa"
+      },
+      "artists": [
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "ETAT",
+      "url": "https://open.spotify.com/track/6wMXaJAZQMv9PUKyn62cWe"
+    },
+    {
+      "album": {
         "name": "F Lil",
         "url": "https://open.spotify.com/album/0BH75LrvQGEF5KDsnyK5Mq"
       },
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 178064,
       "name": "Fav\u00e9la (#STATION 3)",
       "url": "https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs"
@@ -3944,6 +3966,24 @@
       "duration_ms": 170721,
       "name": "WAHALA (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "album": {
+        "name": "BL\u00c9DARD (Deluxe)",
+        "url": "https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152951,
+      "name": "WALLAHI",
+      "url": "https://open.spotify.com/track/7roF6lN1KH6tLq0AelG74t"
     },
     {
       "album": {

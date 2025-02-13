@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 824 songs - 1 day 18 hr 9 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 825 songs - 1 day 18 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -832,5 +832,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 822 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
 | 823 | [All My Friends](https://open.spotify.com/track/1B1lojN1TAIxFhxYEVxHzg) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Hold Off](https://open.spotify.com/album/2WE7FKWBKFDzVWOIvJq1r9) | 2:38 |
 | 824 | [The Method](https://open.spotify.com/track/34d0q4ltS3Lx6JAEHHKPRn) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [The Method](https://open.spotify.com/album/6mVBWkURIWDKP1wUEjzsM3) | 2:29 |
+| 825 | [The Motion](https://open.spotify.com/track/3t8pnImpBpOwxdtYBpKvA9) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 4:01 |
 
-Snapshot ID: `AAAD8oD6KAQRkxHLJtqOBziK7vN/PdLC`
+Snapshot ID: `AAAD83+ktq1gvcuzZiIxmq3hQsoRcOgg`

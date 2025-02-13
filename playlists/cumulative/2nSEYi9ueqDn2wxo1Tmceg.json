@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "lucre",
+        "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "4",
+      "url": "https://open.spotify.com/track/3W9INBEJLZwnBZlbGHz8P2"
+    },
+    {
+      "album": {
         "name": "4316",
         "url": "https://open.spotify.com/album/34bqbMY0btmOeoUV8uYEdK"
       },
@@ -388,7 +410,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 191976,
       "name": "A Matter of Taste",
       "url": "https://open.spotify.com/track/5gev7xyonIkZsLlu2RmM0O"
@@ -2662,7 +2684,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 230706,
       "name": "Boxing Day sales",
       "url": "https://open.spotify.com/track/1TdFnDGVbOGSqiq5LgxAqW"
@@ -3148,7 +3170,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 182709,
       "name": "Calcified",
       "url": "https://open.spotify.com/track/1C8f4UJj1WXaK7VuZBGykx"
@@ -3792,7 +3814,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 356866,
       "name": "Cold Discovery",
       "url": "https://open.spotify.com/track/6nOvlSVuhvUGilysBogcnk"
@@ -4640,6 +4662,32 @@
       "duration_ms": 285125,
       "name": "Dans Le Noir",
       "url": "https://open.spotify.com/track/06hyoSwYQnfEBdrJvCnSO9"
+    },
+    {
+      "album": {
+        "name": "Dares Soar",
+        "url": "https://open.spotify.com/album/22QhzUe9ZSJ5BWu7Y1Qb5Q"
+      },
+      "artists": [
+        {
+          "name": "X & Yde",
+          "url": "https://open.spotify.com/artist/6mOtgC49VY9qqHZCUcPyU5"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        },
+        {
+          "name": "Xenia Xamanek",
+          "url": "https://open.spotify.com/artist/1kMPv2WU4OnwKpmvIgyNs8"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Dares Soar",
+      "url": "https://open.spotify.com/track/7gWbepHTzXK6MFOW6EUAsW"
     },
     {
       "album": {
@@ -5961,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "Ends Meet",
+        "url": "https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201762,
+      "name": "Ends Meet",
+      "url": "https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng"
+    },
+    {
+      "album": {
         "name": "& the Charm",
         "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
       },
@@ -6215,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Evil People",
+        "url": "https://open.spotify.com/album/18t5f98d04Ovz9rt3jaa98"
+      },
+      "artists": [
+        {
+          "name": "MIEN",
+          "url": "https://open.spotify.com/artist/0fl9voNu6x7TSuYnLb1amp"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265008,
+      "name": "Evil People",
+      "url": "https://open.spotify.com/track/7cN8cOJz5pKSHXXYtv0buD"
+    },
+    {
+      "album": {
         "name": "Exaltation",
         "url": "https://open.spotify.com/album/514yXOOm36x9tki3LUhU3e"
       },
@@ -6338,6 +6422,24 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "album": {
+        "name": "Cosmic Seeds",
+        "url": "https://open.spotify.com/album/7gHQfYIe5gUmpvWA0k8vU4"
+      },
+      "artists": [
+        {
+          "name": "Brown Spirits",
+          "url": "https://open.spotify.com/artist/6kGqdMrX1clLXAOCnA7S6h"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610853,
+      "name": "Fault Lines",
+      "url": "https://open.spotify.com/track/0udgZAJkF27PfqpbEqiTek"
     },
     {
       "album": {
@@ -9958,7 +10060,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 213320,
       "name": "If This World Was Made For Me",
       "url": "https://open.spotify.com/track/2p4sOmunD2GWy2axOWJybB"
@@ -11730,7 +11832,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 145775,
       "name": "Let It All Wash Over",
       "url": "https://open.spotify.com/track/4huwEyyJlzdniOOsFysR1o"
@@ -12122,10 +12224,28 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 200306,
       "name": "London May",
       "url": "https://open.spotify.com/track/7b0koKDBDibiaIBeyKXrDi"
+    },
+    {
+      "album": {
+        "name": "Long Country",
+        "url": "https://open.spotify.com/album/74AQSuXY0hWcsLcNvADRgJ"
+      },
+      "artists": [
+        {
+          "name": "Moontype",
+          "url": "https://open.spotify.com/artist/1A0MGKQWFrqBVWMuI9984t"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256265,
+      "name": "Long Country",
+      "url": "https://open.spotify.com/track/4VWcztOMTxbvSGoyhqllJJ"
     },
     {
       "album": {
@@ -13750,7 +13870,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 328440,
       "name": "Namopi",
       "url": "https://open.spotify.com/track/4DjlcHfLa9dq7tptq2kq9Z"
@@ -14302,7 +14422,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 210480,
       "name": "Nom Nom Nom",
       "url": "https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5"
@@ -16545,6 +16665,24 @@
     },
     {
       "album": {
+        "name": "Reframing",
+        "url": "https://open.spotify.com/album/7eBFplzkHrhvcSeoDDqmHb"
+      },
+      "artists": [
+        {
+          "name": "Barker",
+          "url": "https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239841,
+      "name": "Reframing",
+      "url": "https://open.spotify.com/track/0q01PkXaaxdmKlt12EcBOx"
+    },
+    {
+      "album": {
         "name": "Relegate",
         "url": "https://open.spotify.com/album/78QYwzV4OUNMflpPlZG6vz"
       },
@@ -18769,6 +18907,24 @@
     },
     {
       "album": {
+        "name": "Strike",
+        "url": "https://open.spotify.com/album/6gQCagpIQGiiCcdBTy9zRU"
+      },
+      "artists": [
+        {
+          "name": "Tirez Tirez",
+          "url": "https://open.spotify.com/artist/7zopVXYKcfoAyJWuNpnOtD"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375995,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/1QE2k10Dw91OSHy5FNC2EL"
+    },
+    {
+      "album": {
         "name": "Cry Sugar",
         "url": "https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU"
       },
@@ -19498,6 +19654,24 @@
       "duration_ms": 257146,
       "name": "The Blue & Gold - Bonus",
       "url": "https://open.spotify.com/track/48anPnguOsnO0fp0nlkbL7"
+    },
+    {
+      "album": {
+        "name": "The Boy from the Bookshop",
+        "url": "https://open.spotify.com/album/25FHMrKV6pjmrfLSUO7208"
+      },
+      "artists": [
+        {
+          "name": "White Magic for Lovers",
+          "url": "https://open.spotify.com/artist/4Un69DFnWNXl7AYN3MkGOQ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185399,
+      "name": "The Boy from the Bookshop",
+      "url": "https://open.spotify.com/track/2Ug9pTzlzooGPj5eX6iYLE"
     },
     {
       "album": {
@@ -20596,7 +20770,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 335516,
       "name": "This Weather",
       "url": "https://open.spotify.com/track/0xoIgPsIsP7GIN3f014Gvh"
@@ -20654,6 +20828,24 @@
       "duration_ms": 219106,
       "name": "This World Couldn\u2019t See Us",
       "url": "https://open.spotify.com/track/4Yn51m6nXxUXXwdWlOzlMC"
+    },
+    {
+      "album": {
+        "name": "Internal Swing",
+        "url": "https://open.spotify.com/album/24EXGh3fooFU2b9CrJXJS8"
+      },
+      "artists": [
+        {
+          "name": "Affaire",
+          "url": "https://open.spotify.com/artist/6OrprRHbuMRfnyIwscVqg5"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Thoughts And Pleasure",
+      "url": "https://open.spotify.com/track/7zZ2PvwgqyCRYVPeFCG87J"
     },
     {
       "album": {

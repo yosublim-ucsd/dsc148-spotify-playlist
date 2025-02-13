@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 456,
+  "num_followers": 457,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Waves (Acoustic)",
         "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 248176,
       "name": "Waves - Acoustic",
       "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "In The Sky",
-        "url": "https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C"
+        "name": "GG",
+        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
         }
       ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
+      "duration_ms": 243131,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF"
+        "name": "In The Sky",
+        "url": "https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C"
       },
       "artists": [
         {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 243131,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8"
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
-      },
-      "artists": [
-        {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
-        }
-      ],
-      "duration_ms": 295266,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Palo Alto",
         "url": "https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 199584,
       "name": "Palo Alto",
       "url": "https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 295266,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
     },
     {
       "added_at": "2023-11-15 02:04:48",

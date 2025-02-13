@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring camoufly
 
-944 songs - 2 day 4 hr 7 min
+945 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,7 +572,7 @@
 | [Nu Moon](https://open.spotify.com/track/2nRFheDcWnVjcRnQcKhFCq) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Nu Moon](https://open.spotify.com/album/3raXtfprw9tFNyGJ2CnZZY) | 4:16 | 2024-10-03 | 2024-10-18 |
 | [Oh My](https://open.spotify.com/track/6zCTxZ7se4Dp1uqY0Gnaeg) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83), [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Never Return](https://open.spotify.com/album/4NZ9O9tbUJwKzCMNLBCUvI) | 3:07 | 2023-12-22 | 2024-01-13 |
 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 | 2024-08-01 | 2024-10-10 |
-| [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 | 2024-09-26 |  |
+| [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 | 2024-09-26 | 2025-02-13 |
 | [On Air](https://open.spotify.com/track/3r7g1BxqfQu1y5CLBkemdZ) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [On Air](https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI) | 3:57 | 2023-02-24 | 2023-10-06 |
 | [on hold](https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [on hold](https://open.spotify.com/album/6GFEQWEDiLWBhJi1oXYwyZ) | 2:55 | 2022-06-24 | 2023-03-01 |
 | [On My Own](https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [On My Own](https://open.spotify.com/album/0NQddsB7zwntWpH9RVvYPt) | 3:26 | 2024-05-02 | 2024-06-07 |
@@ -926,6 +926,7 @@
 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 | 2024-08-22 | 2024-12-13 |
 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-11-17 | 2023-12-14 |
 | [While you count down.](https://open.spotify.com/track/2GTBThIhxFWnSNpvLr1HHu) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [While you count down.](https://open.spotify.com/album/2QKUud4s4gd5NoX6VD8suA) | 3:48 | 2024-03-21 | 2025-01-17 |
+| [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 | 2025-02-06 |  |
 | [Who We Are](https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS) | 3:13 | 2022-12-21 | 2023-05-13 |
 | [Wild](https://open.spotify.com/track/0UapLurjls7TjbtsX5QW7l) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Rising](https://open.spotify.com/album/05pxwAHOdXuatMuOFIeI6c) | 4:54 | 2021-08-06 | 2023-03-01 |
 | [Wild](https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Rising](https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0) | 4:54 | 2023-03-03 | 2024-04-19 |

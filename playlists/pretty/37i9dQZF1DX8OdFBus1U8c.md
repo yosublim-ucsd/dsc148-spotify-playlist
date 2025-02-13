@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! Cover : Fejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,745 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,878 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 4 | [Nalla Vibes](https://open.spotify.com/track/4LOjJJ8QqOHCQALGuXgSXv) | [Rakz Radiant](https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Nalla Vibes](https://open.spotify.com/album/7nRjkq5riRyb4gVIxhdrMf) | 2:36 |
 | 5 | [Nerunnu](https://open.spotify.com/track/5YPCtN3N5UDviYGBxzNdrw) | [Seth Panda](https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo) | [Nerunnu](https://open.spotify.com/album/64iFiAWa20toW721CRcHBb) | 3:13 |
 | 6 | [Umma](https://open.spotify.com/track/7cQ2G31gtRTEPiUtsM0VHm) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Umma](https://open.spotify.com/album/1ggBy8Uqb6x39l5CAcmFaz) | 3:32 |
-| 7 | [Pathanam](https://open.spotify.com/track/7J1LLA1CxdLgP7wrM7slun) | [Ashbin](https://open.spotify.com/artist/28LkhTNiL3kC1wprEPgaQy), [ADZ](https://open.spotify.com/artist/3f5gO11gbpxXDddvWESMuk) | [Ethir](https://open.spotify.com/album/3yhqspJcACvqD8hXXredEf) | 1:47 |
+| 7 | [Pathanam](https://open.spotify.com/track/7J1LLA1CxdLgP7wrM7slun) | [Ashbin](https://open.spotify.com/artist/28LkhTNiL3kC1wprEPgaQy), [Adz](https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc) | [Ethir](https://open.spotify.com/album/3yhqspJcACvqD8hXXredEf) | 1:47 |
 | 8 | [Vedi](https://open.spotify.com/track/1hF2EpIVu1pOK2AtRq9Wod) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Shyam Krishna](https://open.spotify.com/artist/3EOMc5YFWjnbULJWR4zP3G), [Mallu Gomez](https://open.spotify.com/artist/02YDDhHdxAQCYMUUKIGUEt), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Vedi](https://open.spotify.com/album/46IOg4n8hRcFt6TiBApEzN) | 3:35 |
 | 9 | [SLAM](https://open.spotify.com/track/7C2VAVmeq51CLGkYmaNDt6) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [SLAM](https://open.spotify.com/album/5fh4rLBLLy3gXanrpzyRJC) | 2:41 |
 | 10 | [Beevi](https://open.spotify.com/track/4JgRTf5gf9DtWFeeaOAZ5V) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Beevi](https://open.spotify.com/album/3iNJIpyJQCMr2qC2vZ3d8X) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Xavi & Manuel Turizo, Anitta, NATTI NATASHA and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,344 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,389 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [Un Bendito Día](https://open.spotify.com/track/0SN8t32hU7C203Tnmzew1p) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Bendito Día](https://open.spotify.com/album/6tYRIeNLlDe8MxrU0rl48o) | 3:31 |
 | 18 | [Fotografías](https://open.spotify.com/track/488ebozC7zLK9syFesprpO) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [Fotografías](https://open.spotify.com/album/4ImxyIUvHPhIypeFD5fCf4) | 4:06 |
 | 19 | [LA PUNTA DEL PEAK](https://open.spotify.com/track/61Sgps44nxvrBE5coeD6c3) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [LA PUNTA DEL PEAK](https://open.spotify.com/album/0UPceeOuRJ5FPSUEshCMXh) | 3:05 |
-| 20 | [Bing Bong \(House Version\)](https://open.spotify.com/track/0VeHL6ynQbi6PNc752kbX0) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Bing Bong \(House Version\)](https://open.spotify.com/album/7bssMREVzchOemaOgRjYGL) | 4:36 |
+| 20 | [Bing Bong \(House Version\)](https://open.spotify.com/track/0VeHL6ynQbi6PNc752kbX0) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong \(House Version\)](https://open.spotify.com/album/7bssMREVzchOemaOgRjYGL) | 4:36 |
 | 21 | [Lipstick](https://open.spotify.com/track/1Z4nJ4fWn0QBieErAU36E9) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Season 1](https://open.spotify.com/album/4sk0tfv2Ut7P4leg1ANKTi) | 3:28 |
 | 22 | [BEBÉ](https://open.spotify.com/track/4bUNQL3ys9gzimIGUAgAEN) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BEBÉ](https://open.spotify.com/album/2tGYPCZIEnxhNmCk3NqlK4) | 3:44 |
 | 23 | [Cosas Bonitas](https://open.spotify.com/track/3IOiLCVNsfx3zYh5rgo3LY) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Los Muñequitos De Matanzas](https://open.spotify.com/artist/1nGt9Auu0hzIZ6lI2WZWOq) | ["Cosas Bonitas" de eso "Se Trata"](https://open.spotify.com/album/3QuedvzF25IxYSMs42qdQ8) | 3:29 |

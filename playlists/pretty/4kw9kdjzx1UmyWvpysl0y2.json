@@ -1,13 +1,41 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125472,
+  "num_followers": 125467,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATqmi0OIBBTy4N6edTuwx3BeQfS+Mm",
+  "snapshot_id": "AAATq7aQ1Dx0h33AaVYkfPNoLZJECsNe",
   "tracks": [
+    {
+      "added_at": "2025-02-12 16:16:28",
+      "album": {
+        "name": "Heaven Knows (Remixes)",
+        "url": "https://open.spotify.com/album/7hY9SLQ83GGdXo7GSXVbZp"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Heaven Knows - Shingo Nakamura Remix",
+      "url": "https://open.spotify.com/track/3qNTDSKCmVVnfmzHaaoXK0"
+    },
     {
       "added_at": "2025-02-11 15:30:49",
       "album": {

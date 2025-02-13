@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 56 songs - 3 hr 7 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 57 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 54 | [I'll Make Cereal](https://open.spotify.com/track/7cZhrCKZRUPsDEK8PWR727) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:00 |
 | 55 | [7 O'Clock](https://open.spotify.com/track/2Eh6bvihTFDwAjHBEYnbgH) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [7 O'Clock](https://open.spotify.com/album/5Trjk7CuYJO5muXqXPB7xl) | 2:48 |
 | 56 | [Sleep](https://open.spotify.com/track/6NK9g64i0EOGhXCfx27jTE) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:43 |
+| 57 | [Until I Am Whole](https://open.spotify.com/track/6Rg82S9vW3Q91ZZaRjwmen) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:48 |
 
-Snapshot ID: `AAAAPDF8NjJR4r1PZmY1RdjC4acxJ/Zw`
+Snapshot ID: `AAAAPXv73B/DR1IR5RqkRxJKh0GzyM1/`

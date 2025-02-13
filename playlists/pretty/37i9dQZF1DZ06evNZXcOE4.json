@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 43249,
+  "num_followers": 43259,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6lBgAAAAAApudb1dj9ZcHUPYaOPMST2",
+  "snapshot_id": "Z6qTAAAAAAAgieoyYESatWkRbGKas5DE",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 325291,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Suffer Some",
-      "url": "https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 212024,
       "name": "My Time",
       "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Suffer Some",
+      "url": "https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM"
     },
     {
       "added_at": null,

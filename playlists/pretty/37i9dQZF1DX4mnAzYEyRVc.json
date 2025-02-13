@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: RAT BOY",
-  "num_followers": 58076,
+  "num_followers": 58096,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Cha Cha Love",
+        "name": "Cha-Cha Love",
         "url": "https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue"
       },
       "artists": [
@@ -21,7 +21,7 @@
         }
       ],
       "duration_ms": 214942,
-      "name": "Cha Cha Love",
+      "name": "Cha-Cha Love",
       "url": "https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW"
     },
     {
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Zombiler",
-        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
-      },
-      "artists": [
-        {
-          "name": "Second",
-          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "Zombiler",
-      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "Zombiler",
+        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+      },
+      "artists": [
+        {
+          "name": "Second",
+          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Zombiler",
+      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
+        "name": "Ruder Than Rude",
+        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
+      },
+      "artists": [
+        {
+          "name": "The Busters",
+          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Don't Worry, Be Happy",
+      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 179109,
       "name": "Juice",
       "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
-        "name": "Ruder Than Rude",
-        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
-      },
-      "artists": [
-        {
-          "name": "The Busters",
-          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Don't Worry, Be Happy",
-      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+        "name": "Si Oh !",
+        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
       "artists": [
         {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+          "name": "Los Tres Puntos",
+          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
         }
       ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
+      "duration_ms": 151013,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Si Oh !",
-        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
       },
       "artists": [
         {
-          "name": "Los Tres Puntos",
-          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "St. Pauli - Einhundert",
-        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
-      },
-      "artists": [
-        {
-          "name": "Dubtari",
-          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Forza St. Pauli",
-      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
-    },
-    {
-      "added_at": "2025-02-07 06:00:19",
-      "album": {
         "name": "Walking Pipebomb",
         "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 165111,
       "name": "Walking Pipebomb",
       "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
+    },
+    {
+      "added_at": "2025-02-07 06:00:19",
+      "album": {
+        "name": "St. Pauli - Einhundert",
+        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
+      },
+      "artists": [
+        {
+          "name": "Dubtari",
+          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Forza St. Pauli",
+      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     },
     {
       "added_at": "2025-02-07 06:00:19",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2025-02-07 06:00:19",
       "album": {
-        "name": "Wrong Side Of Town",
-        "url": "https://open.spotify.com/album/4CVsYdUQaVBpsWGZL1IGzX"
+        "name": "Random Hand",
+        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
       "artists": [
         {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        },
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
         }
       ],
-      "duration_ms": 265319,
-      "name": "Wrong Side of Town (feat. Hak Baker)",
-      "url": "https://open.spotify.com/track/33LjlRBCyzgFzHJLKey8gk"
+      "duration_ms": 192193,
+      "name": "Devil With a Microphone",
+      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
     }
   ],
   "unique_name": "Ska Around The Globe",

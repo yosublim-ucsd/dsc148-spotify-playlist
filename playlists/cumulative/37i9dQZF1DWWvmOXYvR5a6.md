@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Skinny Brown\(스키니 브라운\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-744 songs - 1 day 16 hr 2 min
+745 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Brunch](https://open.spotify.com/track/2rCE9eozHmfoqFVPOPHtCe) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Eat it when u nneed it](https://open.spotify.com/album/5OiW24T1l7SUyerZnskqKN) | 2:59 | 2022-04-01 | 2022-05-18 |
 | [Bucket List \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0ZUa8tF0zbGNvnST6xKHUg) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Time Machine](https://open.spotify.com/album/5zKdvQXlzgQfpHtfinxUgZ) | 3:41 | 2022-11-10 | 2022-12-20 |
 | [Burning slow](https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP) | [Burning slow](https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5) | 2:48 | 2025-02-10 |  |
+| [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 | 2025-02-12 |  |
 | [bury\. \(Feat\. SOLE\)](https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [bury.](https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq) | 3:16 | 2023-11-21 | 2024-01-08 |
 | [Button](https://open.spotify.com/track/6sfWkp3iGGTSdsfE4EIgHp) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Last Waltz](https://open.spotify.com/album/68ZbbysYxUQsq7smjVaajg) | 3:36 | 2022-04-01 | 2022-07-27 |
 | [Bye](https://open.spotify.com/track/0TbWJKIdBaDgyc1GJqx4qF) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [Bye](https://open.spotify.com/album/66GVpzcJ6V8RVTuilOk8DB) | 3:20 | 2022-05-28 | 2022-07-22 |
@@ -184,7 +185,7 @@
 | [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 | 2023-03-28 |  |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-04 | 2022-07-28 |
 | [Dry Flower \(Feat\. OLNL, GEMma\)](https://open.spotify.com/track/1izqekFgQhPvnYnMWV6Ciq) | [GRIO](https://open.spotify.com/artist/0MjC05t54hhvrqLBsIeTbu), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Dry Flower](https://open.spotify.com/album/4pKLK15Rc5OBNUeJbuA65W) | 2:57 | 2022-08-18 | 2022-09-06 |
-| [Dumb](https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:54 | 2023-06-23 |  |
+| [Dumb](https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:54 | 2023-06-23 | 2025-02-13 |
 | [Earphone](https://open.spotify.com/track/3Z32X2KetQtfp40lMU90CN) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:18 | 2022-04-21 | 2022-07-29 |
 | [EGG RICE](https://open.spotify.com/track/4pen9dLfeSHfI3uuXibiYU) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EGG RICE](https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z) | 2:51 | 2022-05-28 | 2022-07-15 |
 | [EMPTY GLASS \(Feat\. Bona Zoe\) \(Prod\. TOIL\)](https://open.spotify.com/track/2YOybbhiuvqlJhVi1FpjhK) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Bona Zoe](https://open.spotify.com/artist/1Y0vVGBkBNCcR0swcfXR1z) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:43 | 2022-08-17 | 2022-09-29 |

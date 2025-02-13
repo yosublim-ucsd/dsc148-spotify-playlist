@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Hannah Wants, ARA
 
-958 songs - 2 day 7 hr 7 min
+959 songs - 2 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-20 | 2023-04-07 |
 | [Ballo](https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Ballo](https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK) | 3:11 | 2024-07-18 |  |
 | [Bang](https://open.spotify.com/track/2nQ8IRyTMH0JO6MNvr1Nsq) | [Waze](https://open.spotify.com/artist/0Pe4Z3QAZI9ZEAoqwoWbvZ), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Bang](https://open.spotify.com/album/5mtTCps7w1BxcDQSU5j2x5) | 2:23 | 2024-10-18 |  |
-| [Bass Jumpin' \(Sweat\)](https://open.spotify.com/track/7ea3rnqY96op1jr7ub1Dvn) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Bass Jumpin' \(Sweat\)](https://open.spotify.com/album/6kOfMI4XaFpneh2rTtpWFr) | 3:40 | 2025-01-31 |  |
+| [Bass Jumpin' \(Sweat\)](https://open.spotify.com/track/7ea3rnqY96op1jr7ub1Dvn) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Bass Jumpin' \(Sweat\)](https://open.spotify.com/album/6kOfMI4XaFpneh2rTtpWFr) | 3:40 | 2025-01-31 | 2025-02-13 |
+| [Bass Jumpin' \(Sweat\)](https://open.spotify.com/track/7ngSri6b6ZfX5LlQ2q553M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Bass Jumpin' \(Sweat\)](https://open.spotify.com/album/4PYxHHjgvcmoQUUNSQtgbd) | 3:40 | 2025-02-12 |  |
 | [Bassline Pumping](https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Bassline Pumping EP](https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE) | 3:30 | 2023-11-24 | 2024-03-29 |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2022-04-15 | 2022-08-05 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-01-27 | 2023-06-10 |

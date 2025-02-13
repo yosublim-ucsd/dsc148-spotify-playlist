@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz, Souldia
 
-3,099 songs - 6 day 20 hr 40 min
+3,100 songs - 6 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Certifié](https://open.spotify.com/track/1nA1QtJzSomE13YuGA4K7W) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Certifié](https://open.spotify.com/album/4FPJakUjGGmXoRnD2UKSFI) | 2:30 | 2024-04-19 | 2024-04-27 |
 | [Cette année\-là](https://open.spotify.com/track/10JrUDqAjSR8JlcFj6GK8i) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:08 | 2022-12-23 | 2023-01-06 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-02 | 2023-01-04 |
-| [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-15 |  |
+| [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-15 | 2025-02-13 |
 | [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 | 2023-07-28 | 2023-09-30 |
 | [Cha cha](https://open.spotify.com/track/1YyrlP0MgMKq4CKEaURuDN) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Cha cha](https://open.spotify.com/album/5Z1docFNst7CuItaTQmyWd) | 2:43 | 2024-04-05 | 2024-04-13 |
 | [Chacun son chacun](https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Chacun son chacun](https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL) | 2:33 | 2024-10-04 | 2024-12-07 |
@@ -553,6 +553,7 @@
 | [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 | 2024-10-18 | 2024-10-26 |
 | [COMME MOI \(feat.La Fève\)](https://open.spotify.com/track/6RPqZSIXlEsYqDArWUdly7) | [Skefre](https://open.spotify.com/artist/23jImQO2IKgMUgt4eLYF4y), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [SKRRT Vol.1](https://open.spotify.com/album/2fNF8tBMkZftgaZ32zxO7Q) | 3:17 | 2023-04-21 | 2023-06-03 |
 | [Comme s'il pleuvait](https://open.spotify.com/track/6DSvtxMn1CPCoKl74pxN8a) | [Leonis](https://open.spotify.com/artist/4B5Y9RoKzJpDmHsZKQf0UI), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Sherhood part.2](https://open.spotify.com/album/3uOnj626gKYMCsQXRolg7A) | 3:32 | 2022-03-04 | 2022-03-12 |
+| [Comme toi](https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [RIPRO](https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388) | 3:37 | 2025-02-07 |  |
 | [Comme tu le souhaites \(Ding Dong\)](https://open.spotify.com/track/0jv4Qiw0H1OXb1FQ1Epirs) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Comme tu le souhaites \(Ding Dong\)](https://open.spotify.com/album/7Fv4qj6cYO540OuEb8z9Ac) | 5:53 | 2024-04-19 | 2024-04-27 |
 | [Comme un frère](https://open.spotify.com/track/3rzmuV2h0jeH4P7ueN6pQR) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Comme un frère](https://open.spotify.com/album/0SETqQbAljWEL1UOmTNMaB) | 2:49 | 2023-04-21 | 2023-06-03 |
 | [Comme un oiseau](https://open.spotify.com/track/4cSvVZdMWCPkGmmCjneYDu) | [Komo](https://open.spotify.com/artist/5wg2ra651q5K20VOy3WUqL) | [Comme un oiseau](https://open.spotify.com/album/5umCSAciVXC9tdAO1Dca4C) | 2:48 | 2022-04-08 | 2022-04-16 |

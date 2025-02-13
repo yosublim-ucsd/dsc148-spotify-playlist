@@ -785,6 +785,40 @@
     },
     {
       "album": {
+        "name": "Dear Ex Yami",
+        "url": "https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56"
+      },
+      "artists": [
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
+        },
+        {
+          "name": "Fanatic SA",
+          "url": "https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo"
+        },
+        {
+          "name": "Stallin Matsitsa",
+          "url": "https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI"
+        },
+        {
+          "name": "Caeser",
+          "url": "https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw"
+        },
+        {
+          "name": "Ayanda Art",
+          "url": "https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278875,
+      "name": "Dear Ex Yami",
+      "url": "https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW"
+    },
+    {
+      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -2338,7 +2372,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 383425,
       "name": "Ngathi Nguye",
       "url": "https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7"

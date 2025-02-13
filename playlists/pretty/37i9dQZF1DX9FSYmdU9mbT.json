@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1379252,
+  "num_followers": 1379620,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,18 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "francisco forr\u00f3 y frevo",
-        "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
+        "name": "Marina Lima",
+        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
         }
       ],
-      "duration_ms": 293509,
-      "name": "Deus Me Proteja",
-      "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
+      "duration_ms": 305373,
+      "name": "N\u00e3o Sei Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -295,18 +295,18 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Marina Lima",
-        "url": "https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj"
+        "name": "francisco forr\u00f3 y frevo",
+        "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
       },
       "artists": [
         {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 305373,
-      "name": "N\u00e3o Sei Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt"
+      "duration_ms": 293509,
+      "name": "Deus Me Proteja",
+      "url": "https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C"
     },
     {
       "added_at": "2025-01-31 13:44:06",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-01-31 13:44:06",
       "album": {
-        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Entre a Serpente e a Estrela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
-    },
-    {
-      "added_at": "2025-01-31 13:44:06",
-      "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 178892,
       "name": "Mentiras - Ao Vivo",
       "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
+    },
+    {
+      "added_at": "2025-01-31 13:44:06",
+      "album": {
+        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Entre a Serpente e a Estrela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
     },
     {
       "added_at": "2025-01-31 13:44:06",

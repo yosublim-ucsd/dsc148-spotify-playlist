@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: ASH DA HERO",
-  "num_followers": 50669,
+  "num_followers": 50664,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "The Landolt C",
-        "url": "https://open.spotify.com/album/3AEc4G6uZqIGc02Xo9ApZ1"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
-        }
-      ],
-      "duration_ms": 208336,
-      "name": "The Landolt C",
-      "url": "https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF"
-    },
-    {
-      "added_at": "2025-02-04 15:00:27",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+    },
+    {
+      "added_at": "2025-02-04 15:00:27",
+      "album": {
+        "name": "The Landolt C",
+        "url": "https://open.spotify.com/album/3AEc4G6uZqIGc02Xo9ApZ1"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "duration_ms": 208336,
+      "name": "The Landolt C",
+      "url": "https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 271265,
-      "name": "UNDER THE TREE - Full Length Ver.",
-      "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
-    },
-    {
-      "added_at": "2025-02-04 15:00:27",
-      "album": {
         "name": "\u72d0\u72ec\u306e\u624d\u671b",
         "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
       },
@@ -975,22 +959,34 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "SLAY!!",
-        "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
       },
       "artists": [
         {
-          "name": "Paledusk",
-          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
-        },
-        {
-          "name": "Hideyoshi",
-          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
         }
       ],
-      "duration_ms": 192753,
-      "name": "SLAY!!",
-      "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
+      "duration_ms": 271265,
+      "name": "UNDER THE TREE - Full Length Ver.",
+      "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
+    },
+    {
+      "added_at": "2025-02-04 15:00:27",
+      "album": {
+        "name": "THE ETERNAL DOOM",
+        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "\u5384\u707d",
+      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "THE ETERNAL DOOM",
-        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
+        "name": "SLAY!!",
+        "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
       "artists": [
         {
-          "name": "Knosis",
-          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
         }
       ],
-      "duration_ms": 180666,
-      "name": "\u5384\u707d",
-      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+      "duration_ms": 192753,
+      "name": "SLAY!!",
+      "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "PHOENIX (Movie Ver.)",
-        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
       "artists": [
         {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 151800,
-      "name": "PHOENIX (Movie Ver.)",
-      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+        "name": "PHOENIX (Movie Ver.)",
+        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+      "duration_ms": 151800,
+      "name": "PHOENIX (Movie Ver.)",
+      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "BUNBUN SUIBUN",
-        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
+        "name": "foundyou",
+        "url": "https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz"
       },
       "artists": [
         {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+          "name": "downy",
+          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
         }
       ],
-      "duration_ms": 191242,
-      "name": "BUNBUN SUIBUN",
-      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
+      "duration_ms": 291896,
+      "name": "foundyou",
+      "url": "https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "tx3k",
-        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
+        "name": "BUNBUN SUIBUN",
+        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
       },
       "artists": [
         {
-          "name": "Texas 3000",
-          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
         }
       ],
-      "duration_ms": 194520,
-      "name": "Connector Fuck Man",
-      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
+      "duration_ms": 191242,
+      "name": "BUNBUN SUIBUN",
+      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
     },
     {
       "added_at": "2025-02-04 15:00:27",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2025-02-04 15:00:27",
       "album": {
-        "name": "foundyou",
-        "url": "https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz"
+        "name": "tx3k",
+        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
       },
       "artists": [
         {
-          "name": "downy",
-          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
+          "name": "Texas 3000",
+          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
         }
       ],
-      "duration_ms": 291896,
-      "name": "foundyou",
-      "url": "https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz"
+      "duration_ms": 194520,
+      "name": "Connector Fuck Man",
+      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
     },
     {
       "added_at": "2025-02-04 15:00:27",

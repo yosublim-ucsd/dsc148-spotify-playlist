@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Midnight Serenade",
-  "num_followers": 1375299,
+  "num_followers": 1375592,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6WoOwAAAACDHUQjvUjx4h2aluPcWMAn",
+  "snapshot_id": "Z6wOtwAAAADIjwLhvKniOan9hu4TC6HG",
   "tracks": [
     {
       "added_at": "2025-02-07 06:29:15",
@@ -47,6 +47,22 @@
       "duration_ms": 184320,
       "name": "Garam & Madu (Sakit Dadaku)",
       "url": "https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD"
+    },
+    {
+      "added_at": "2025-02-07 06:29:15",
+      "album": {
+        "name": "Teruntuk Mia",
+        "url": "https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG"
+      },
+      "artists": [
+        {
+          "name": "Nuh...",
+          "url": "https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT"
+        }
+      ],
+      "duration_ms": 196090,
+      "name": "Teruntuk Mia",
+      "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
     },
     {
       "added_at": "2025-02-07 06:29:15",
@@ -147,22 +163,6 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N"
-    },
-    {
-      "added_at": "2025-02-07 06:29:15",
-      "album": {
-        "name": "Teruntuk Mia",
-        "url": "https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG"
-      },
-      "artists": [
-        {
-          "name": "Nuh...",
-          "url": "https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT"
-        }
-      ],
-      "duration_ms": 196090,
-      "name": "Teruntuk Mia",
-      "url": "https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B"
     },
     {
       "added_at": "2025-02-07 06:29:15",
@@ -293,6 +293,26 @@
       "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
     },
     {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "STUDY GROUP (Music from the Tving Original Series), Pt. 1",
+        "url": "https://open.spotify.com/album/4jqceG6FGehJS2nyZPajIz"
+      },
+      "artists": [
+        {
+          "name": "SEOK MATTHEW",
+          "url": "https://open.spotify.com/artist/7D345EoOMCNCzcs3o4ycWO"
+        },
+        {
+          "name": "PARK GUNWOOK",
+          "url": "https://open.spotify.com/artist/6kFlCDPded459r82IXDAPt"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "BACK PACKER",
+      "url": "https://open.spotify.com/track/1qlKEWVnWXphYmpQ8DT3X4"
+    },
+    {
       "added_at": "2025-02-07 06:29:15",
       "album": {
         "name": "Somebody's Pleasure (Extended Version)",
@@ -323,6 +343,22 @@
       "duration_ms": 224925,
       "name": "Jika Bersamamu",
       "url": "https://open.spotify.com/track/3aprt2YjJgqQtqbiMtDbUq"
+    },
+    {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "Berharap Pada Timur",
+        "url": "https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 221927,
+      "name": "Berharap Pada Timur",
+      "url": "https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN"
     },
     {
       "added_at": "2025-02-07 06:29:15",
@@ -489,6 +525,26 @@
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
+    },
+    {
       "added_at": "2025-02-07 06:29:15",
       "album": {
         "name": "Membangun & Menghancurkan",
@@ -575,6 +631,22 @@
       "duration_ms": 211253,
       "name": "Rocketeer",
       "url": "https://open.spotify.com/track/3ZuiIFm9nRnkRz8AZAekjJ"
+    },
+    {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "chess",
+        "url": "https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou"
+      },
+      "artists": [
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "chess",
+      "url": "https://open.spotify.com/track/4JwReuZYVaDOY8jT7BjQp2"
     },
     {
       "added_at": "2025-02-07 06:29:15",
@@ -873,6 +945,22 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "When the Stars Gossip OST Part.3",
+        "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
+    },
+    {
       "added_at": "2025-02-07 06:29:15",
       "album": {
         "name": "songs",
@@ -959,6 +1047,22 @@
       "duration_ms": 184993,
       "name": "ReawakeR (feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
+    },
+    {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 203464,
+      "name": "Blind Eyes Red",
+      "url": "https://open.spotify.com/track/0pk1V5jL0WcW8a2ZsrsEDl"
     },
     {
       "added_at": "2025-02-07 06:29:15",
@@ -1159,6 +1263,22 @@
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "added_at": "2025-02-12 03:00:07",
+      "album": {
+        "name": "Berharap Pada Timur",
+        "url": "https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 294031,
+      "name": "Sesal",
+      "url": "https://open.spotify.com/track/6i3uftr9aQf4u2R8szaD9y"
     },
     {
       "added_at": "2025-02-07 06:29:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 598014,
+  "num_followers": 598077,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6lBgAAAAAD0mHPE41dG1RsMx91KTBII",
+  "snapshot_id": "Z6qTAAAAAAAK4eXJqdSWJq2mw4wvrYU5",
   "tracks": [
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 30213,
-      "name": "Brohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
+      "duration_ms": 201480,
+      "name": "Home Is Such a Lonely Place",
+      "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Home Is Such a Lonely Place",
-      "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
+      "duration_ms": 30213,
+      "name": "Brohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
     },
     {
       "added_at": null,

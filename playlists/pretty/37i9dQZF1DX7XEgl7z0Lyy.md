@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,674 likes - 107 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,993 likes - 107 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 102 | [amends](https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [amends](https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX) | 2:38 |
 | 103 | [fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [33.1FM](https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ) | 2:15 |
 | 104 | [Sacrifice](https://open.spotify.com/track/32al0E3UafdMmOytlHwOK4) | [pluto](https://open.spotify.com/artist/3uFkM20bHYbCDR5E1u0yGX), [Clover!](https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD) | [Sacrifice](https://open.spotify.com/album/6fN1ijjm75vtLaetlir1qE) | 1:50 |
-| 105 | [LIGHTS OFF TONIGHT](https://open.spotify.com/track/0Xsrwyt3rLpGCJb7IWB0NA) | [VXJOKING](https://open.spotify.com/artist/07LIt5dV6tfrBPJhRdB1lM), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [LIGHTS OFF TONIGHT](https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v) | 1:30 |
+| 105 | [LIGHTS OFF TONIGHT](https://open.spotify.com/track/0Xsrwyt3rLpGCJb7IWB0NA) | [VXJOKING](https://open.spotify.com/artist/07LIt5dV6tfrBPJhRdB1lM), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [prod.stummyyy](https://open.spotify.com/artist/5mMJjMXaohKd2bMErjHaV7) | [LIGHTS OFF TONIGHT](https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v) | 1:30 |
 | 106 | [PURPLE HEART \(w/ Don Toliver\)](https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:05 |
 | 107 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 
-Snapshot ID: `ZzzFKQAAAACuqLzRQU+YhT0IHVEL38yG`
+Snapshot ID: `ZzzFKQAAAADzITp83yJsYwPDcfL241de`

@@ -1143,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "Scarlatti, D.: Sonatas",
+        "url": "https://open.spotify.com/album/7FOA2fqAs4VlZKGxLtuYKo"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Keyboard Sonata in D Minor, Kk. 9",
+      "url": "https://open.spotify.com/track/3N7GpFlh7BkEftNaEmJjnU"
+    },
+    {
+      "album": {
         "name": "Profesi\u00f3n",
         "url": "https://open.spotify.com/album/0dyXdhgy1xBPqk97JzFz8J"
       },
@@ -2336,28 +2358,6 @@
       "duration_ms": 422243,
       "name": "Some Sand",
       "url": "https://open.spotify.com/track/6wzHTBM9UtXdZOBp82flGU"
-    },
-    {
-      "album": {
-        "name": "Scarlatti, D.: Sonatas",
-        "url": "https://open.spotify.com/album/7FOA2fqAs4VlZKGxLtuYKo"
-      },
-      "artists": [
-        {
-          "name": "Domenico Scarlatti",
-          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
-        },
-        {
-          "name": "Ivo Pogorelich",
-          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
-        }
-      ],
-      "date_added": "2024-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254000,
-      "name": "Sonata in D Minor, K. 9",
-      "url": "https://open.spotify.com/track/3N7GpFlh7BkEftNaEmJjnU"
     },
     {
       "album": {

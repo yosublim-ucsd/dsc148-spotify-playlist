@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,031 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,054 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 4 | [Za3lan Mny Ya Sheta Leh](https://open.spotify.com/track/3LhjGqorUE4YRxtSeiwlEA) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Za3lan Mny Ya Sheta Leh](https://open.spotify.com/album/1MLX5vDZrTLDiHgqS90Qpi) | 3:18 |
 | 5 | [مستني](https://open.spotify.com/track/5l3kU06SSWGr20N4c2PiW3) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [مستني](https://open.spotify.com/album/2IxtWZG2uvyWES8U6EfiXk) | 3:00 |
 | 6 | [Keda Ray2a](https://open.spotify.com/track/3UNWQ32OPdRYB6H5wEeWQ1) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/0HlJUMmbPd9UP4QJ8EsEbJ) | 2:50 |
-| 7 | [ويلي \- walley](https://open.spotify.com/track/61lw20NVQo0O6cFM5L6tVD) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [ويلي \- walley](https://open.spotify.com/album/6ruDR8uIj4Octkp5LIwRZn) | 4:22 |
+| 7 | [ويلي](https://open.spotify.com/track/61lw20NVQo0O6cFM5L6tVD) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [ويلي](https://open.spotify.com/album/6ruDR8uIj4Octkp5LIwRZn) | 4:22 |
 | 8 | [Mish Ader Ansa](https://open.spotify.com/track/5G2GTdOEo3xF8RZZxibZjv) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mish Ader Ansa](https://open.spotify.com/album/1vhrqKQYvY1ztZ11HLs4BK) | 4:27 |
 | 9 | [Ka2en Hay](https://open.spotify.com/track/4Uo98PUW7zojN7nVRAIHrD) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ka2en Hay](https://open.spotify.com/album/6nfbfGwsXP5uBagtFbkyHB) | 3:44 |
 | 10 | [Assad](https://open.spotify.com/track/1gQz4I9Q2gcns4wEP9Fizh) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Hashem](https://open.spotify.com/artist/7CDm7aMX6Qiv6QATIBEFC8) | [Assad](https://open.spotify.com/album/12fuHTS6NBQaIznGxg8Zrs) | 3:51 |

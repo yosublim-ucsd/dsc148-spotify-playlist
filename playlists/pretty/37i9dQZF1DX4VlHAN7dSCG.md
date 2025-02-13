@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Boom！怪物星人
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,808 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,810 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 57 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 |
 | 58 | [Shallow](https://open.spotify.com/track/0SbQAxOciLnTM5tdi84vR8) | [Green!Eyes](https://open.spotify.com/artist/1bQ6HkvmQA9SaPcBRxmTUh), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [Stigma](https://open.spotify.com/album/4LZh8WcrwnewfAvjUMvtM8) | 3:37 |
 | 59 | [兩輩子的時間](https://open.spotify.com/track/0QgvnrRlzw86S87W7EnXoS) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [兩輩子的時間](https://open.spotify.com/album/7CSvQhlV3o4sO6TjJBRvjY) | 5:20 |
-| 60 | [Perfect Timing](https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ) | [Joshua Band](https://open.spotify.com/artist/0i6Ug2VPQVjkTAjxk8wLJK), [约书亚乐团](https://open.spotify.com/artist/2zQMLL1UHDpJUNa2r9peEi) | [You Fight For Me](https://open.spotify.com/album/0rMKfChBk4re59Vc1GJdgD) | 4:23 |
+| 60 | [Perfect Timing](https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ) | [Joshua Band](https://open.spotify.com/artist/0i6Ug2VPQVjkTAjxk8wLJK) | [You Fight For Me](https://open.spotify.com/album/0rMKfChBk4re59Vc1GJdgD) | 4:23 |
 | 61 | [陌生人的貓 Cat got my tongue](https://open.spotify.com/track/3OYUAGfTLjcyJlCR1uAZuR) | [Jazzweed.芥子草](https://open.spotify.com/artist/6hsNVDSKfU1yStQycSP67T) | [陌生人的貓 Cat got my tongue](https://open.spotify.com/album/5iMkHoMlm7SEGdewUXFhmJ) | 4:25 |
 | 62 | [新鞋踩三下](https://open.spotify.com/track/4NHdq5eDdmZjPV0S90WZBI) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [新鞋踩三下](https://open.spotify.com/album/0aBxPBnD7czNZXy35P1dz4) | 2:14 |
 | 63 | [白鸽乌鸦相爱的戏码 \- 英文版](https://open.spotify.com/track/2XLtkAFy5zjnPVaSLHBq0k) | [Mona Lavi](https://open.spotify.com/artist/70CWAIm00ajNwEa3zQih9w), [新街口组合](https://open.spotify.com/artist/1JRSl8qGb3BFaiQ93RsE4j) | [白鸽乌鸦相爱的戏码 \(英文版\)](https://open.spotify.com/album/1BVNTavlrIvfrCxRP1v1Vw) | 2:50 |

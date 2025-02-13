@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TOR.NUETUN. Artwork: Isu Kim",
+  "description": "\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c \u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07 \u0e04\u0e2d\u0e07, \u0e2d\u0e2d\u0e21 \u0e01\u0e23\u0e13\u0e4c\u0e19\u0e20\u0e31\u0e2a. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -5560,6 +5560,24 @@
       "duration_ms": 255900,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/1m8JRKtvFvMelIGt8q9wGZ"
+    },
+    {
+      "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/0Lw9iNvjJCKGhIOKZXkJnI"
+      },
+      "artists": [
+        {
+          "name": "paiiinntt",
+          "url": "https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/2NgoBV97C4ZcGZknUzoCmq"
     },
     {
       "album": {
@@ -11476,7 +11494,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 211440,
       "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
       "url": "https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG"
@@ -25265,6 +25283,28 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e40\u0e25\u0e48\u0e19\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e1a\u0e1a",
+        "url": "https://open.spotify.com/album/18GShjerMyurr4sHugR7TH"
+      },
+      "artists": [
+        {
+          "name": "\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07 \u0e04\u0e2d\u0e07",
+          "url": "https://open.spotify.com/artist/1St0LTo9RMbzZWv6hvBuh5"
+        },
+        {
+          "name": "\u0e2d\u0e2d\u0e21 \u0e01\u0e23\u0e13\u0e4c\u0e19\u0e20\u0e31\u0e2a",
+          "url": "https://open.spotify.com/artist/435ULoNKkDLlSGlMm2XJxN"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234734,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e40\u0e25\u0e48\u0e19\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e1a\u0e1a",
+      "url": "https://open.spotify.com/track/1edN3wZ317Du73K1Eyk6Fk"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e08\u0e1a\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22",
         "url": "https://open.spotify.com/album/0wOFpOoM0O8mbXvq6Wd4XF"
       },
@@ -28063,6 +28103,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30 (In a Relationship) [From \"\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series\"]",
+        "url": "https://open.spotify.com/album/6qqEWOAcJtJQkDUsvhumqG"
+      },
+      "artists": [
+        {
+          "name": "Thomas",
+          "url": "https://open.spotify.com/artist/7156bh6sBdsgJMfjunkcTh"
+        },
+        {
+          "name": "Kong",
+          "url": "https://open.spotify.com/artist/51xlDSXVbw8Hrg00E1bdBZ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191886,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30 (In a Relationship) [From \"\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series\"]",
+      "url": "https://open.spotify.com/track/0eyuAiveGnjbZ72MQEhib4"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e25\u0e22\u0e44\u0e14\u0e49\u0e1b\u0e48\u0e32\u0e27",
         "url": "https://open.spotify.com/album/3MFZWO7ZuaFhT11J2X5XYR"
       },
@@ -28252,7 +28314,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 245901,
       "name": "\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e2d\u0e30\u0e44\u0e23\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/7zvdRA3xQ7z7zVXgofBHKa"
@@ -29144,7 +29206,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 212352,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35\u0e41\u0e1f\u0e19 (So When?)",
       "url": "https://open.spotify.com/track/7GWZYkqZ7SsI2Vi9TrOXm8"

@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "G\u00f6nl\u00fcnce",
+        "url": "https://open.spotify.com/album/2BFAFKLMQPercZcPjInelo"
+      },
+      "artists": [
+        {
+          "name": "Kalabal\u0131klar",
+          "url": "https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173312,
+      "name": "G\u00f6nl\u00fcnce",
+      "url": "https://open.spotify.com/track/71AlB48iBStw15rt285oWZ"
+    },
+    {
+      "album": {
         "name": "G\u00fcc\u00fcm Yok",
         "url": "https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM"
       },
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 147529,
       "name": "Yar\u0131n\u0131 Yok Ac\u0131s\u0131 Var",
       "url": "https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI"

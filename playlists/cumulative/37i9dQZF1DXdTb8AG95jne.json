@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 206773,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 146146,
       "name": "Born as love",
       "url": "https://open.spotify.com/track/1gEMEItPa7BYMsdG40uMoe"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 263664,
       "name": "Esc",
       "url": "https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh"
@@ -4722,7 +4722,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 199105,
       "name": "Fragile love",
       "url": "https://open.spotify.com/track/3tYoHH7boUjXbmjNOiFdoy"
@@ -8514,7 +8514,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 343746,
       "name": "Make My Sadness a Cloud",
       "url": "https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW"
@@ -9822,6 +9822,24 @@
       "duration_ms": 244983,
       "name": "Not Reaching Words \uc0ac\uc787\ub9d0",
       "url": "https://open.spotify.com/track/1848CKG45LsRmk9JwziyIm"
+    },
+    {
+      "album": {
+        "name": "Not That Girl",
+        "url": "https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Not That Girl",
+      "url": "https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI"
     },
     {
       "album": {
@@ -11224,7 +11242,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 249133,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/7DUQT1Y2dtcptqGvuLtdQY"
@@ -11339,6 +11357,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/5Bawu66qitvPmRLWcZufPh"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186594,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2tjWtD3qkbad3QqA325sHG"
+    },
+    {
+      "album": {
         "name": "\u2018BLUISH\u2019 Unplugged",
         "url": "https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr"
       },
@@ -11350,7 +11386,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 172000,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy"
@@ -12588,6 +12624,24 @@
       "duration_ms": 195053,
       "name": "Special Cho",
       "url": "https://open.spotify.com/track/6jsPUW1fLKFKJ4OZVDn7On"
+    },
+    {
+      "album": {
+        "name": "Smile! You\u2019re On Camera (Special Edition)",
+        "url": "https://open.spotify.com/album/5gYX4UWYqOXMMjPz6qS5wt"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210852,
+      "name": "Speed Of Everything - Radio Edit",
+      "url": "https://open.spotify.com/track/2tiuPCM2PddioExkiG0qkS"
     },
     {
       "album": {
@@ -13949,6 +14003,28 @@
     },
     {
       "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/4As6SLkweWhpNGIA66b891"
+    },
+    {
+      "album": {
         "name": "THOUGHTS",
         "url": "https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh"
       },
@@ -14761,6 +14837,24 @@
     },
     {
       "album": {
+        "name": "Want U 2 Know",
+        "url": "https://open.spotify.com/album/0bO9A3V6xf4LFqwFSB7XWY"
+      },
+      "artists": [
+        {
+          "name": "Crystal Tea",
+          "url": "https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253065,
+      "name": "Want U 2 Know",
+      "url": "https://open.spotify.com/track/2GVjWKUdmJIpdHFQQt9NLv"
+    },
+    {
+      "album": {
         "name": "warm enough",
         "url": "https://open.spotify.com/album/1XHKm77AfJKs7h4jXR9Enr"
       },
@@ -15559,6 +15653,28 @@
     },
     {
       "album": {
+        "name": "YAYA",
+        "url": "https://open.spotify.com/album/3b7Gkime029zOsf82qmqvI"
+      },
+      "artists": [
+        {
+          "name": "OurR",
+          "url": "https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP"
+        },
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "YAYA",
+      "url": "https://open.spotify.com/track/1eLt1qqQQdhSNomFZ7FqhD"
+    },
+    {
+      "album": {
         "name": "YOLO!!",
         "url": "https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT"
       },
@@ -15707,6 +15823,28 @@
     },
     {
       "album": {
+        "name": "NE MAEUM",
+        "url": "https://open.spotify.com/album/6oWYVQIN4OVDbfhvFOFaaj"
+      },
+      "artists": [
+        {
+          "name": "zoey",
+          "url": "https://open.spotify.com/artist/1Y4L6WaAjUcEEGGhPJFGXf"
+        },
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185563,
+      "name": "YOU DON'T (feat. Khundi Panda)",
+      "url": "https://open.spotify.com/track/7iCr8kBlXUOw5n4NcsnSX4"
+    },
+    {
+      "album": {
         "name": "Boong-",
         "url": "https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc"
       },
@@ -15754,7 +15892,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 198954,
       "name": "You in one winter",
       "url": "https://open.spotify.com/track/686LobE3P4n9wWj3g6HzAI"
@@ -16274,6 +16412,24 @@
       "duration_ms": 217714,
       "name": "\uc0ac\ub791\ud574 \uc918",
       "url": "https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ud0d5\uac00\ub8e8",
+        "url": "https://open.spotify.com/album/3ycU2bmGecgKaHPYuizzjD"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "\uc0ac\ud0d5\uac00\ub8e8",
+      "url": "https://open.spotify.com/track/74FLPLC9oWghQQ9Z40ChKK"
     },
     {
       "album": {

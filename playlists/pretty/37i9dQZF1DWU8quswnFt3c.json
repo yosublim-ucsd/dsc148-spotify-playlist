@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: 4EVE",
-  "num_followers": 1060391,
+  "num_followers": 1061042,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
-        "url": "https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I"
-      },
-      "artists": [
-        {
-          "name": "Tu\u011f\u00e7e Kandemir",
-          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
-        }
-      ],
-      "duration_ms": 177890,
-      "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
-      "url": "https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "take your vibes and go",
         "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
+        "url": "https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "duration_ms": 177890,
+      "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
+      "url": "https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 220183,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Hartita de Llorar",
         "url": "https://open.spotify.com/album/4Ri9HhBxUW8gPwfPq8qOUB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 158045,
       "name": "Hartita de Llorar",
       "url": "https://open.spotify.com/track/0Mw0eiKbelPtJvN3WkLakf"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "Akanchawa",
-        "url": "https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Akanchawa",
-      "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Angkat",
         "url": "https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 119750,
       "name": "Angkat",
       "url": "https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "Akanchawa",
+        "url": "https://open.spotify.com/album/16Lcll0j1Re8Se1dGHunrQ"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Akanchawa",
+      "url": "https://open.spotify.com/track/2FNqnTDRS3BhrNIxMnEGIc"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "Obsesion",
-        "url": "https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk"
-      },
-      "artists": [
-        {
-          "name": "Tayna",
-          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
-        }
-      ],
-      "duration_ms": 175143,
-      "name": "Obsesion",
-      "url": "https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 124684,
       "name": "La OG",
       "url": "https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "Obsesion",
+        "url": "https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk"
+      },
+      "artists": [
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "duration_ms": 175143,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "El Pasado",
-        "url": "https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 174429,
-      "name": "Dame La Mano",
-      "url": "https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Nuova Genesi",
         "url": "https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 184706,
       "name": "Chega",
       "url": "https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "El Pasado",
+        "url": "https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 174429,
+      "name": "Dame La Mano",
+      "url": "https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "What The Hell Do We Do Now?",
-        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 193557,
-      "name": "What The Hell Do We Do Now?",
-      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "Plain Girl",
         "url": "https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+        "name": "What The Hell Do We Do Now?",
+        "url": "https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0"
       },
       "artists": [
         {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
         }
       ],
-      "duration_ms": 178560,
-      "name": "New Energy",
-      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+      "duration_ms": 193557,
+      "name": "What The Hell Do We Do Now?",
+      "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
     },
     {
       "added_at": "2025-02-05 05:00:14",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
         "name": "UPWARDS",
         "url": "https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-02-05 05:00:14",
       "album": {
-        "name": "Fine Wine In Italy",
-        "url": "https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 176803,
-      "name": "Fine Wine",
-      "url": "https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2"
-    },
-    {
-      "added_at": "2025-02-05 05:00:14",
-      "album": {
         "name": "FEMINA",
         "url": "https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 246474,
       "name": "FEMINA",
       "url": "https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM"
+    },
+    {
+      "added_at": "2025-02-05 05:00:14",
+      "album": {
+        "name": "Fine Wine In Italy",
+        "url": "https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 176803,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2"
     },
     {
       "added_at": "2025-02-05 05:00:14",

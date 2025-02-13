@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Lalu Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,717 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,722 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 24 | [JENUH](https://open.spotify.com/track/2yh83xBs3p3Wu2wE248w0n) | [RIZBCK](https://open.spotify.com/artist/4JLuetnqr5xbANF3TSVfGK), [Ir.One](https://open.spotify.com/artist/718g4ldhC6CYIDbPnWxKXK) | [JENUH](https://open.spotify.com/album/5njKYXpkUEWgxBPKEGaRLz) | 4:10 |
 | 25 | [Why](https://open.spotify.com/track/2N74I9zhcXPvLqwKfOzwcD) | [Bima Bagaskara](https://open.spotify.com/artist/6TJYBb6PYcD4el7NTm6Mfh) | [Why](https://open.spotify.com/album/4MKlbpKtYeVaMLOBVGqdiE) | 3:14 |
 | 26 | [We Kickin](https://open.spotify.com/track/5MOJLMfIFWJTA8ZH4tZZnG) | [Darren Qibata](https://open.spotify.com/artist/3ElFUU0uHHSAaWYVLaFvkV), [Del Lanno](https://open.spotify.com/artist/6kVzkZjOMOIWsEDIPmvzlt) | [We Kickin](https://open.spotify.com/album/0eMBpQYatfwzvC8qMnHaIJ) | 2:38 |
-| 27 | [SILENCE](https://open.spotify.com/track/0Bt5Se8vZvwYefsUxZf9wk) | [Fredy Fiori](https://open.spotify.com/artist/2il1sK3NL568LArF8QXAsD), [Rich Boy](https://open.spotify.com/artist/6svK0jJyKlacD7bpWXE1u2), [BOG](https://open.spotify.com/artist/4kCtkIwDEHR8N8cW5UZuOY), [Crisco](https://open.spotify.com/artist/2G5I0QCejdvsjCVe231QZM) | [SILENCE](https://open.spotify.com/album/2ykFSluaICfyNCbnxRFloz) | 3:47 |
+| 27 | [SILENCE](https://open.spotify.com/track/0Bt5Se8vZvwYefsUxZf9wk) | [Fredy Fiori](https://open.spotify.com/artist/2il1sK3NL568LArF8QXAsD), [Rich Boy](https://open.spotify.com/artist/6svK0jJyKlacD7bpWXE1u2), [BOG.](https://open.spotify.com/artist/4rGTvU9ea684et08y7h9YW), [Crisco](https://open.spotify.com/artist/2G5I0QCejdvsjCVe231QZM) | [SILENCE](https://open.spotify.com/album/2ykFSluaICfyNCbnxRFloz) | 3:47 |
 | 28 | [Dengar Cintaku](https://open.spotify.com/track/55AZqVlk2nbZIA3gfyzDEQ) | [Adrian Takndare](https://open.spotify.com/artist/4YuIFWHntQQjfumbtyFdKH) | [Dengar Cintaku](https://open.spotify.com/album/3rTYFFeVMh2ap3kQBppshF) | 3:29 |
 | 29 | [Terindah Bagiku](https://open.spotify.com/track/7M6X5lOGOu757W0VWEVRD8) | [MyOwnMusic](https://open.spotify.com/artist/7H69eV2Dzy6850Uk4hsRVv) | [Terindah Bagiku](https://open.spotify.com/album/7IZQGifhEfv0flRPYrs2yp) | 3:08 |
 | 30 | [Blues](https://open.spotify.com/track/6Lg7nPDnRLgtJ4n1tfvaae) | [The Rentenir](https://open.spotify.com/artist/2jclX5VpnewFBmChNZT3RY) | [Blues](https://open.spotify.com/album/05THAMxxeyyHK0w8cxbklL) | 3:54 |

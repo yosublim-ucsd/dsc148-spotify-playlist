@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,632 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,637 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 14 | [Luxemburgo](https://open.spotify.com/track/1sD1YXeS4R9xPCjc0ze0md) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Luxemburgo](https://open.spotify.com/album/5ZNGmhq2CJJaRGeNKzQGQd) | 3:31 |
 | 15 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 16 | [Before I Lose My Voice](https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Before I Lose My Voice](https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3) | 3:06 |
-| 17 | [Estou ativo](https://open.spotify.com/track/2G7mDcMNOuGpU3rjVBrEg3) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Estou ativo](https://open.spotify.com/album/3gvFNpHt14oEHcPPb3Vj9z) | 2:17 |
+| 17 | [Estou ativo](https://open.spotify.com/track/2G7mDcMNOuGpU3rjVBrEg3) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Estou ativo](https://open.spotify.com/album/3gvFNpHt14oEHcPPb3Vj9z) | 2:17 |
 | 18 | [Je Comprends Pas](https://open.spotify.com/track/3SGZeGjpb8RTpZcctXzsC6) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Je Comprends Pas](https://open.spotify.com/album/6FR067nKNNlOz76bU8iEDI) | 3:05 |
 | 19 | [Turma do golpe](https://open.spotify.com/track/5FWFHea6utB5l3E8afL6u7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Alumiarte](https://open.spotify.com/album/6GZlLVVD9MLF7QCKBJ1bjN) | 2:52 |
 | 20 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 |

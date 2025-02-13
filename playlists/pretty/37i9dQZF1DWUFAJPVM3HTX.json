@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH?si=BjNe592yRdqpfscUlO1g2Q\"> Kennedy Ryon</a>. Updates every Wednesday.",
-  "num_followers": 259413,
+  "num_followers": 259478,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6Y2VQAAAABJla7njQxE2jrv1hN8kug+",
+  "snapshot_id": "Z6zFiwAAAAAgJ91l1m/OtFOae4XgHi+/",
   "tracks": [
     {
       "added_at": "2025-02-07 16:35:32",
@@ -29,20 +29,24 @@
       "url": "https://open.spotify.com/track/5piMrHmFYoQekulxfIcoUy"
     },
     {
-      "added_at": "2025-02-07 16:35:32",
+      "added_at": "2025-02-12 16:00:11",
       "album": {
-        "name": "1-800 Heartbreak",
-        "url": "https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ"
+        "name": "Have It Your Way",
+        "url": "https://open.spotify.com/album/6ftBzWFlTIdUZnS3LF5vur"
       },
       "artists": [
         {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+          "name": "Jazlyn Martin",
+          "url": "https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0"
+        },
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         }
       ],
-      "duration_ms": 220833,
-      "name": "1-800 Heartbreak",
-      "url": "https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4"
+      "duration_ms": 223420,
+      "name": "Have It Your Way",
+      "url": "https://open.spotify.com/track/235fcM8Koz7jWEJylSIhIp"
     },
     {
       "added_at": "2025-02-07 16:35:32",
@@ -65,6 +69,54 @@
       "url": "https://open.spotify.com/track/41ZGDLBTRWnOoOfEa3P86W"
     },
     {
+      "added_at": "2025-02-12 16:00:11",
+      "album": {
+        "name": "Play Bout You",
+        "url": "https://open.spotify.com/album/72rFpoDQ0FEIUavgtbmEWw"
+      },
+      "artists": [
+        {
+          "name": "Tniyah",
+          "url": "https://open.spotify.com/artist/7EHD7M7VrgyUaRkleSNlKN"
+        }
+      ],
+      "duration_ms": 184109,
+      "name": "Play Bout You",
+      "url": "https://open.spotify.com/track/2ja9ZkUmMJqfEVt2kxHiWf"
+    },
+    {
+      "added_at": "2025-02-07 16:35:32",
+      "album": {
+        "name": "1-800 Heartbreak",
+        "url": "https://open.spotify.com/album/5nd07jJ9pXUfglidYQotxQ"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "1-800 Heartbreak",
+      "url": "https://open.spotify.com/track/20i3ZsA13evmkPqDh7TrE4"
+    },
+    {
+      "added_at": "2025-02-12 16:00:11",
+      "album": {
+        "name": "88 (Slowed)",
+        "url": "https://open.spotify.com/album/2GwS3bNz3gOQYypuiirunR"
+      },
+      "artists": [
+        {
+          "name": "JVVMN",
+          "url": "https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje"
+        }
+      ],
+      "duration_ms": 72741,
+      "name": "88 (Slowed)",
+      "url": "https://open.spotify.com/track/6F3wfmGhOAHToWMoLYPsa6"
+    },
+    {
       "added_at": "2025-02-07 16:35:32",
       "album": {
         "name": "Give It Up",
@@ -83,6 +135,22 @@
       "duration_ms": 196178,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/1KNNzjKUcp30V52dcD1jLW"
+    },
+    {
+      "added_at": "2025-02-12 16:00:11",
+      "album": {
+        "name": "Foggin' Up The Windows",
+        "url": "https://open.spotify.com/album/4ustYbpYeN83XdD2rqMP7A"
+      },
+      "artists": [
+        {
+          "name": "Paradise",
+          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Foggin' Up The Windows",
+      "url": "https://open.spotify.com/track/4jNBM6lhDOa2fyfHbdqdYQ"
     },
     {
       "added_at": "2025-02-07 16:35:32",

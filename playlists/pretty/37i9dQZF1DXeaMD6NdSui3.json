@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 155482,
+  "num_followers": 155526,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -427,30 +427,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Up Close",
-        "url": "https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9"
-      },
-      "artists": [
-        {
-          "name": "Eric Johnson",
-          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
-        },
-        {
-          "name": "Steve Miller",
-          "url": "https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW"
-        },
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 362240,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Bluesman for Life",
         "url": "https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh"
       },
@@ -483,18 +459,26 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Trying to Hold On",
-        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
+        "name": "Up Close",
+        "url": "https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9"
       },
       "artists": [
         {
-          "name": "Diunna Greenleaf",
-          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+          "name": "Eric Johnson",
+          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+        },
+        {
+          "name": "Steve Miller",
+          "url": "https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW"
+        },
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 220933,
-      "name": "Sunny Day Friends",
-      "url": "https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q"
+      "duration_ms": 362240,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -511,6 +495,22 @@
       "duration_ms": 230480,
       "name": "La Grange - 2005 Remaster",
       "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Trying to Hold On",
+        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
+      },
+      "artists": [
+        {
+          "name": "Diunna Greenleaf",
+          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Sunny Day Friends",
+      "url": "https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -603,6 +603,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Cold Snap",
         "url": "https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Very Baddest of... ZZ Top",
-        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Fitchburg Street",
         "url": "https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 273426,
       "name": "Pay the Band",
       "url": "https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -759,6 +743,22 @@
       "duration_ms": 286960,
       "name": "I Got My Mojo Working",
       "url": "https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
     },
     {
       "added_at": "2018-02-27 16:43:49",

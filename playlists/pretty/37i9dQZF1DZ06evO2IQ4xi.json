@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 53239,
+  "num_followers": 53899,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6lBgAAAAABzLS9I2uoDPjfV685P0umv",
+  "snapshot_id": "Z6qTAAAAAADSO65ydFGELg3QqOyttLAS",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Is Burning",
-        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Kal Banx",
-          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
         }
       ],
-      "duration_ms": 176682,
-      "name": "Wat U Sed (feat. Doechii & Kal Banx)",
-      "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": null,
@@ -347,18 +339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+        "name": "The House Is Burning",
+        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
       "artists": [
         {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
         }
       ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+      "duration_ms": 176682,
+      "name": "Wat U Sed (feat. Doechii & Kal Banx)",
+      "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
       "duration_ms": 156036,
       "name": "God",
       "url": "https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/1zvRP4zj0nfsHeeoeXuanm"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 60418,
+      "name": "Bills",
+      "url": "https://open.spotify.com/track/4qXBIFAjXJMwNxXTYN8Qyj"
     }
   ],
   "unique_name": "This Is Doechii",

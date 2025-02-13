@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr?si=drKheNG4SBm9f\-GO445sGQ">Fitzy West</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz?si=ilpTcCoAQ6GEAx77fBxGyA">Kyla Blac</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,869 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,881 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Md4K](https://open.spotify.com/track/5HHMu5Syeoa8BZqnFWsZRe) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr) | [Moda4Kah](https://open.spotify.com/album/6USyfyczhcBluojdLCoCLd) | 2:35 |
-| 2 | [Some Day](https://open.spotify.com/track/3vjjxG6sFwozeQnGY62Hc0) | [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [Some Day](https://open.spotify.com/album/6tqp1p6YVoLFZWKV3YfiMe) | 3:12 |
-| 3 | [Lagô](https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [Lagô](https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD) | 2:36 |
-| 4 | [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 |
-| 5 | [Morning Sun](https://open.spotify.com/track/5U3U8AV2L61SNtjHeJ1upp) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Summer/Morning Sun](https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4) | 2:48 |
+| 1 | [Some Day](https://open.spotify.com/track/3vjjxG6sFwozeQnGY62Hc0) | [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [Some Day](https://open.spotify.com/album/6tqp1p6YVoLFZWKV3YfiMe) | 3:12 |
+| 2 | [Lagô](https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [Lagô](https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD) | 2:36 |
+| 3 | [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 |
+| 4 | [Morning Sun](https://open.spotify.com/track/5U3U8AV2L61SNtjHeJ1upp) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Summer/Morning Sun](https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4) | 2:48 |
+| 5 | [Md4K](https://open.spotify.com/track/5HHMu5Syeoa8BZqnFWsZRe) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr) | [Moda4Kah](https://open.spotify.com/album/6USyfyczhcBluojdLCoCLd) | 2:35 |
 | 6 | [Lusaka!](https://open.spotify.com/track/6ChJEgvgEzkUB4GYUAhKVp) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [\[kimetsu.\]](https://open.spotify.com/artist/1PHEnDTwOtRf29ArCrHhJD) | [Lusaka!](https://open.spotify.com/album/4Ufcnd2d6LQ8dZ21eFN43O) | 4:27 |
 | 7 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 |
 | 8 | [Wait](https://open.spotify.com/track/5ZbteiG9A7q7UoJkGzHELN) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Wait](https://open.spotify.com/album/3774MZeLWsIH70hjja8VTG) | 2:26 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 54 | [FA TA SI](https://open.spotify.com/track/1StkdM4oVjKo55BGsEJRFk) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [FA TA SI](https://open.spotify.com/album/1MxS7J64CdjzeK91gSOz8P) | 2:19 |
 | 55 | [Patience Ozokwor](https://open.spotify.com/track/3blPHQ507J4INRzKu8oaRk) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:33 |
 
-Snapshot ID: `Z6U/HwAAAADVVo+G4yPRqpmOAH3gO1OM`
+Snapshot ID: `Z6xhgAAAAAAfCdvZ5PSBSb6zayDYEn+M`

@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485727,
+  "num_followers": 485714,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 290802,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "For The Dreams",
-        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
-      },
-      "artists": [
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
-        }
-      ],
-      "duration_ms": 225198,
-      "name": "Southerly",
-      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Daydream Twins",
@@ -343,6 +327,22 @@
       "duration_ms": 362601,
       "name": "Carpop",
       "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "For The Dreams",
+        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 225198,
+      "name": "Southerly",
+      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Thrift Store",
@@ -407,6 +391,22 @@
       "duration_ms": 134408,
       "name": "Thrift Store",
       "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7"
+      },
+      "artists": [
+        {
+          "name": "SweetLipp",
+          "url": "https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Mammoth Surf",
         "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
       },
@@ -1095,34 +1111,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7"
+        "name": "Ceviche",
+        "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
       "artists": [
         {
-          "name": "SweetLipp",
-          "url": "https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV"
+          "name": "The Audio Visual Drop Kicks",
+          "url": "https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI"
         }
       ],
-      "duration_ms": 160375,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "(The Ballad of) Buddy Kid",
-        "url": "https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93"
-      },
-      "artists": [
-        {
-          "name": "Prokop",
-          "url": "https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "(The Ballad of) Buddy Kid",
-      "url": "https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn"
+      "duration_ms": 245853,
+      "name": "Ceviche",
+      "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Ceviche",
-        "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
+        "name": "(The Ballad of) Buddy Kid",
+        "url": "https://open.spotify.com/album/1dPTbJdfJ6OWxStOeJ6P93"
       },
       "artists": [
         {
-          "name": "The Audio Visual Drop Kicks",
-          "url": "https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI"
+          "name": "Prokop",
+          "url": "https://open.spotify.com/artist/2IanyNCnSmoWWssEKKzTb2"
         }
       ],
-      "duration_ms": 245853,
-      "name": "Ceviche",
-      "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
+      "duration_ms": 239066,
+      "name": "(The Ballad of) Buddy Kid",
+      "url": "https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1191,34 +1191,34 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Lara",
-        "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
+        "name": "Stained Glass Curtain",
+        "url": "https://open.spotify.com/album/77BQ2RiVYfF9uT3lUIjE0L"
       },
       "artists": [
         {
-          "name": "Blanco Tranco",
-          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
+          "name": "Conflict at Serenity Pools",
+          "url": "https://open.spotify.com/artist/2NbYmPv7Un2A0cNOY2uZDd"
         }
       ],
-      "duration_ms": 185699,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
+      "duration_ms": 170788,
+      "name": "Stained Glass Curtain",
+      "url": "https://open.spotify.com/track/32hMObO47FeOlNPfn58XiZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Sir Gawain & The Green Knight (Live at Hohm)",
-        "url": "https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP"
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
       },
       "artists": [
         {
-          "name": "X Ray Cat Trio",
-          "url": "https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4"
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
         }
       ],
-      "duration_ms": 203558,
-      "name": "Sir Gawain & The Green Knight - Live at Hohm Studios",
-      "url": "https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co"
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

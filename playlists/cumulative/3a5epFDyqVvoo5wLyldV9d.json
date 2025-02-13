@@ -439,6 +439,46 @@
     },
     {
       "album": {
+        "name": "Togo Soul 70",
+        "url": "https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W"
+      },
+      "artists": [
+        {
+          "name": "Yta Jourias",
+          "url": "https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326978,
+      "name": "Adome Nyueto",
+      "url": "https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm"
+    },
+    {
+      "album": {
+        "name": "Togo Soul 70",
+        "url": "https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk"
+      },
+      "artists": [
+        {
+          "name": "Yta Jourias",
+          "url": "https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492968,
+      "name": "Adome Nyueto - Bosq Edit",
+      "url": "https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR"
+    },
+    {
+      "album": {
         "name": "Africa (My No. 1)",
         "url": "https://open.spotify.com/album/6XqRp5lQzxHTkJnCyPQGWO"
       },

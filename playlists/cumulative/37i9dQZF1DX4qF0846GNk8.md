@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=wpk2V5C7TeOmye8MjNunpg"> اسلام كابونحا </a>
 
-278 songs - 17 hr 7 min
+279 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-30 | 2024-02-01 |
 | [الخيانه مبدأ](https://open.spotify.com/track/0QN9AuFpqglmFR7enfH6CQ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordony](https://open.spotify.com/artist/7MDBPW2W5Bs3BfRIym4H37) | [الخيانه مبدأ](https://open.spotify.com/album/1gMYpmTsZf4glH6ylR5RxX) | 2:39 | 2023-08-20 | 2024-05-11 |
 | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/track/3Hf81fxwZmFrTgqaSqyTfw) | [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/album/1hzQl9blk5h3tZI5BGbqS7) | 3:31 | 2024-01-31 | 2024-05-11 |
+| [الشارع اتفسد \- اهلا بيكو يا مظابيط](https://open.spotify.com/track/5EVxFpZ5tYE8o0cYnoHoQy) | [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N), [Hady El Soghayar](https://open.spotify.com/artist/60peYSKKIhlh480uUFP7yP) | [الشارع اتفسد \(اهلا بيكو يا مظابيط\)](https://open.spotify.com/album/5AASREJYv8UztFh6i1zjCS) | 3:17 | 2025-02-12 |  |
 | [الصبر طيب يا عيوني](https://open.spotify.com/track/6MlfIdyeZRo0yRWIvMojGQ) | [فرامل](https://open.spotify.com/artist/6xLqSnm62lhtPR82fNG0uT) | [الصبر طيب يا عيوني](https://open.spotify.com/album/091A89Fi8UwATSmL97THJ8) | 3:26 | 2023-06-16 | 2023-08-09 |
 | [الضهر و السند اتحبسو](https://open.spotify.com/track/1dCsdA218qS3AyW5Vn3HGc) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [الضهر و السند اتحبسو](https://open.spotify.com/album/3arCqAEdsTVgqLMABriSZw) | 3:58 | 2023-05-30 | 2023-06-22 |
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-07 |  |
@@ -171,7 +172,7 @@
 | [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-07-19 | 2023-07-08 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/2l85aOtYtkfIecw0UJDnRW) | 3:58 | 2022-01-10 | 2022-07-29 |
 | [طمنيني](https://open.spotify.com/track/02WytyOun59cEcy1LhyGP3) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/48Hqj988XJYOOzaudRAj70) | 3:55 | 2022-07-19 | 2024-04-19 |
-| [طمنيني](https://open.spotify.com/track/1LBnLlVug13kIthC9VtMcJ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/3wnNwOBfnZhl6CZ8NtEzc9) | 3:55 | 2021-12-16 |  |
+| [طمنيني](https://open.spotify.com/track/1LBnLlVug13kIthC9VtMcJ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/3wnNwOBfnZhl6CZ8NtEzc9) | 3:55 | 2021-12-16 | 2025-02-13 |
 | [عادي عادي مبيشغلنيش](https://open.spotify.com/track/24JteCymkDnedpSDPCjLCR) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [بوده محمد](https://open.spotify.com/artist/1RqbnHZJu6fkerAn262p31) | [عادي عادي مبيشغلنيش](https://open.spotify.com/album/2EhOx2z4MHnBhjFlf6D2Q0) | 2:50 | 2021-12-16 | 2023-05-31 |
 | [عبيت سلاحي ورفعت شريط \( عم الشبح متكرتليش \)](https://open.spotify.com/track/5LFXU6sLK2IVY6pzLpGkKU) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [عبيت سلاحي ورفعت شريط \( عم الشبح متكرتليش \)](https://open.spotify.com/album/1mnb3IenRmZ2irh8mOzfXu) | 3:33 | 2023-07-12 | 2023-09-06 |
 | [عذرا قد حضر العو](https://open.spotify.com/track/4sN9tEkslUyImMrckTqjut) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [شئلشة](https://open.spotify.com/artist/6g5gJTj2RuFHU1y5dDWbY2), [محمد عبسلام](https://open.spotify.com/artist/3mITpO5lgkYAQFglY4ZFyZ) | [عذرا قد حضر العو](https://open.spotify.com/album/5PO1g2zD7NMsBNpkxVqDUr) | 2:42 | 2023-02-16 |  |

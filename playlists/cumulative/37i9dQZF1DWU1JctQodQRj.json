@@ -2294,6 +2294,28 @@
     {
       "album": {
         "name": "Bach: The Well-Tempered Clavier I",
+        "url": "https://open.spotify.com/album/1lF9n1AT6HbAAvYaBJiTZ0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "The Well-Tempered Clavier, Book 1: Prelude No. 1 in C Major BWV 846/1",
+      "url": "https://open.spotify.com/track/6VLGpRXbJAwtMCCsYWGyjB"
+    },
+    {
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier I",
         "url": "https://open.spotify.com/album/2THbXZ6lquHXul5edVsREd"
       },
       "artists": [
@@ -2312,28 +2334,6 @@
       "duration_ms": 137560,
       "name": "The Well-Tempered Clavier: Book I, BWV 846-869: I. Prelude",
       "url": "https://open.spotify.com/track/5nr0Je2fL2nILWaoUkcvrT"
-    },
-    {
-      "album": {
-        "name": "Bach: The Well-Tempered Clavier I",
-        "url": "https://open.spotify.com/album/1lF9n1AT6HbAAvYaBJiTZ0"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Pierre-Laurent Aimard",
-          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137560,
-      "name": "The Well-Tempered Clavier: Book I, BWV 846-869: I. Prelude",
-      "url": "https://open.spotify.com/track/6VLGpRXbJAwtMCCsYWGyjB"
     },
     {
       "album": {

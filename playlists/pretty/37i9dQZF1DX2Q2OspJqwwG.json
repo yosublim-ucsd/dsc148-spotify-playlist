@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 32340,
+  "num_followers": 32344,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "I'm Gonna Miss You",
-      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6s8bfXrXEqaFFmAi02m7k4"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "E Adev\u0103rat",
-        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 167203,
-      "name": "E Adev\u0103rat",
-      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
+        "name": "E Adev\u0103rat",
+        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 167203,
+      "name": "E Adev\u0103rat",
+      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "paradyse",
-        "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 211063,
-      "name": "paradyse",
-      "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
+        "name": "paradyse",
+        "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "duration_ms": 211063,
+      "name": "paradyse",
+      "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "Sistem Otoman",
-        "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
-      },
-      "artists": [
-        {
-          "name": "Tony One",
-          "url": "https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT"
-        },
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 163199,
-      "name": "Sistem Otoman",
-      "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
         "name": "Maria, Maria",
         "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
       },
@@ -1715,6 +1695,22 @@
       "duration_ms": 160800,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
+        "name": "Ador, Ador",
+        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
+      },
+      "artists": [
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "duration_ms": 150965,
+      "name": "Ador, Ador",
+      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "Ador, Ador",
-        "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
+        "name": "Sistem Otoman",
+        "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
       },
       "artists": [
         {
-          "name": "AMI",
-          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+          "name": "Tony One",
+          "url": "https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
         }
       ],
-      "duration_ms": 150965,
-      "name": "Ador, Ador",
-      "url": "https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF"
+      "duration_ms": 163199,
+      "name": "Sistem Otoman",
+      "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
     },
     {
       "added_at": "2025-02-10 17:07:50",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2025-02-10 17:07:50",
       "album": {
-        "name": "Iubire in Rate",
-        "url": "https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Iubire in Rate",
-      "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
-    },
-    {
-      "added_at": "2025-02-10 17:07:50",
-      "album": {
         "name": "Scrum",
         "url": "https://open.spotify.com/album/3zKY2z1eZxocc5MVb9kBjj"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 204375,
       "name": "Scrum",
       "url": "https://open.spotify.com/track/0WY8Quy5XCZENngfyBrH4B"
+    },
+    {
+      "added_at": "2025-02-10 17:07:50",
+      "album": {
+        "name": "Iubire in Rate",
+        "url": "https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Iubire in Rate",
+      "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

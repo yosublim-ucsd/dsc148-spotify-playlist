@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,621 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,625 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 5 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
 | 6 | [AMERICAN BEAUTY](https://open.spotify.com/track/5SnjJmCcuHkkWHMTLQTjkP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/2N7vgP69icYL6YHveTf4wO) | 3:16 |
 | 7 | [اورڠ كامڤوڠ](https://open.spotify.com/track/4OmRN51CejWxXMKewtprtM) | [Let Zapin](https://open.spotify.com/artist/7r0zo9kLQqY15seZ8mbvJh), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Jati Diri](https://open.spotify.com/album/4Bz433aZuBpQJsePr9QvTZ) | 3:24 |
-| 8 | [Nanti Pulangnya Ke Aku, Ya?](https://open.spotify.com/track/47utTzMgwJOofqQqLwzCVw) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ) | 3:46 |
+| 8 | [Nanti pulangnya ke aku, ya?](https://open.spotify.com/track/47utTzMgwJOofqQqLwzCVw) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ) | 3:46 |
 | 9 | [Salam](https://open.spotify.com/track/6y1sE7uY5b1Gce5eTBpBEk) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Benzooloo](https://open.spotify.com/artist/1XoYv8r7rCgzBSgMWCsnzR) | [Salam](https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c) | 3:11 |
 | 10 | [Seribu Tahun Lagi](https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Seribu Tahun Lagi](https://open.spotify.com/album/3zN8nN9moCS4xIGcGqTmMV) | 4:22 |
 | 11 | [Kemana Ni](https://open.spotify.com/track/3b4cYt5Gnxai9QBuUJUfgV) | [Luca Sickta](https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG), [Kmy Kmo](https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P), [Salammusik](https://open.spotify.com/artist/2GNPXIZNyBOs68fdaAeRYN) | [Kemana Ni](https://open.spotify.com/album/4bfV7zIHyQFQo3fFX7sHkk) | 3:42 |

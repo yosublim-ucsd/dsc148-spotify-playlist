@@ -1665,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "2Joints & Harmony",
+        "url": "https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        },
+        {
+          "name": "JP Bacallan",
+          "url": "https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Girl U Gotta Go",
+      "url": "https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe"
+    },
+    {
+      "album": {
         "name": "Girls Need Love (Remix)",
         "url": "https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL"
       },

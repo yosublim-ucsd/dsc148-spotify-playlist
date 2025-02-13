@@ -4,7 +4,7 @@
 
 > pinoy alternative music \. Cover: Kremesoda
 
-157 songs - 10 hr 10 min
+159 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Accidents](https://open.spotify.com/track/7lMWnmbFWP1Rg0cSICKmjx) | [Cheats](https://open.spotify.com/artist/4XUJ1FQti6aKrUrZTCBFKz) | [Cheats](https://open.spotify.com/album/7fy9ViwHRwWAEmG4upZLn9) | 3:55 | 2024-11-06 |  |
 | [Aking Araw, Araw\-Araw](https://open.spotify.com/track/4ZHwzYR9RBQN5AZhilFJUp) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Aking Araw, Araw\-Araw](https://open.spotify.com/album/013JCUPCrH1lYZZTyDWy2m) | 4:56 | 2024-06-21 | 2024-10-19 |
 | [Alitan](https://open.spotify.com/track/2Gv2G2MVmS2jejPj10SeRE) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Alitan](https://open.spotify.com/album/3fcCX9wgldCwjoP3WfXgtf) | 4:12 | 2024-10-18 |  |
+| [all along \(you were right there\)](https://open.spotify.com/track/1s5kvzPk0EeandHdA4qb7g) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [all along \(you were right there\)](https://open.spotify.com/album/49ZZqRW6PNEGYNRP90523b) | 2:53 | 2025-02-12 |  |
 | [ANXIOUS HEART](https://open.spotify.com/track/49Izqy2bYpnFKnlGNQlRbE) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/6g5Y5wbjT5tyTEPicGAL5O) | 3:26 | 2023-11-18 | 2025-01-17 |
 | [ANXIOUS HEART](https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [ANXIOUS HEART](https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ) | 3:26 | 2023-10-13 | 2024-06-22 |
 | [around in the](https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [around in the](https://open.spotify.com/album/6aSAHI9k9BZMy7ApRQyLQv) | 3:24 | 2023-10-27 | 2025-01-17 |
@@ -150,6 +151,7 @@
 | [Tagsilaw \(Pinilit Ko Man\)](https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU) | [HNT](https://open.spotify.com/artist/7aL6rI1bHOBUAtmLPCxfNR) | [Tagsilaw \(Pinilit Ko Man\)](https://open.spotify.com/album/0NN6egJCbuG4WrmCLRqvv1) | 3:42 | 2023-10-13 | 2025-01-17 |
 | [Tayo \(ating istorya\)](https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm) | [JEL REY](https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd) | [TERAPEWTIKA](https://open.spotify.com/album/4vdu6ZL5oS601mrZj5uYQN) | 5:21 | 2023-11-10 | 2025-01-17 |
 | [Teka Muna \(Sandali\)](https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Teka Muna \(Sandali\)](https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65) | 3:32 | 2024-07-19 |  |
+| [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 | 2025-02-12 |  |
 | [Things will fall to its place](https://open.spotify.com/track/7aoYrQTzLk4tGOwRrFBmdj) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Things will fall to its place](https://open.spotify.com/album/7wXo0a8lh04U2nLVvaPlI2) | 3:53 | 2024-06-21 |  |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2023-10-13 | 2024-02-10 |
 | [Toki](https://open.spotify.com/track/2C9Eh0yPIUvXDdamtZyrti) | [Rise High](https://open.spotify.com/artist/3F2yryKKtugBaJbQz2SkBN) | [Toki](https://open.spotify.com/album/0Q7ZoLdoAKHhu6DzWrBuoP) | 3:36 | 2024-08-16 |  |

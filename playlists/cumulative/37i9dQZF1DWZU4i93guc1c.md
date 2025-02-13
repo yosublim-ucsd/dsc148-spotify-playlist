@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Лівінстон
 
-261 songs - 13 hr 40 min
+262 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [YDC](https://open.spotify.com/track/2ARt99RLb5OzZDJ3XtFIbR) | [sichneva](https://open.spotify.com/artist/4KS49UDA2SDyXcWlJFYNkh) | [YDC](https://open.spotify.com/album/3uxtW0A17UJFPiCk3Txeq6) | 3:55 | 2025-01-02 | 2025-01-25 |
 | [zbroya](https://open.spotify.com/track/1zDz1h2j3XxEKO13G7qLkp) | [DONBASGRL](https://open.spotify.com/artist/0Xuf2TiF899O2zWkXLNim0) | [zbroya](https://open.spotify.com/album/2g2IpI13xYhpHeYjOeGPiM) | 3:03 | 2024-06-27 | 2024-07-13 |
 | [ZVUK](https://open.spotify.com/track/6HpZz0y8oHPgRedHy2QhAk) | [oneWITCH](https://open.spotify.com/artist/6XT4wI1kBZXB8T6jqiGt1x) | [ZVUK](https://open.spotify.com/album/5WwCh86SvSkSiTFnVpAB5I) | 1:49 | 2024-07-26 | 2024-08-24 |
-| [А якщо чесно](https://open.spotify.com/track/5MbTzZQ6X9fFXYwYSpwRQl) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [А якщо чесно](https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh) | 3:51 | 2024-11-07 |  |
+| [А якщо чесно](https://open.spotify.com/track/5MbTzZQ6X9fFXYwYSpwRQl) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [А якщо чесно](https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh) | 3:51 | 2024-11-07 | 2025-02-13 |
 | [Автомагістралі](https://open.spotify.com/track/1TyGIDpK57pPdg6u9Zlg5j) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Автомагістралі](https://open.spotify.com/album/4Z38v7Ak824Riy62zQm1EQ) | 3:21 | 2024-06-27 |  |
 | [Айстри](https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [La Dame Blanche](https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb) | 2:48 | 2024-06-27 | 2024-10-05 |
 | [Амбівалентний](https://open.spotify.com/track/1lfupPeDhugwiT00Citb0q) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Що спільного між вороном і кроликом?](https://open.spotify.com/album/3zSZmZsFb91EjRb6BicuFq) | 2:19 | 2024-11-07 |  |
@@ -147,6 +147,7 @@
 | [Найсумніші пісні](https://open.spotify.com/track/2P45bHQL4hN5e9EtKvTbaz) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Квартира 25](https://open.spotify.com/album/08LOzABdC5Fem8StK3QZwy) | 2:36 | 2024-06-27 | 2024-07-29 |
 | [Напряжно](https://open.spotify.com/track/0hhzD69nOJ2qTAR1AFIzsr) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Оля Шурова](https://open.spotify.com/artist/4ManbdSYB5rKfEq71fAglf) | [Напряжно](https://open.spotify.com/album/557EwH5HgfHVzPch88XjXi) | 2:05 | 2024-06-27 | 2024-12-07 |
 | [Не дивись на мене](https://open.spotify.com/track/6z6cvRLKENuywiD5jCRuoc) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не дивись на мене](https://open.spotify.com/album/1FQ8jGe2pDS7hFYL0Ze5KG) | 3:33 | 2024-06-27 |  |
+| [не забуду](https://open.spotify.com/track/7BYwCMGeTF5oTBDiq2uBbv) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [не забуду](https://open.spotify.com/album/5q5kwofN1MQb7LODYC9QWt) | 2:18 | 2025-01-24 |  |
 | [не раз чаруй](https://open.spotify.com/track/2fhkVtl77XswwQX0XD9VkD) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [не раз чаруй](https://open.spotify.com/album/35MuLeTs4BeFuhmEYL4TPA) | 2:56 | 2025-01-02 |  |
 | [Не твоя](https://open.spotify.com/track/1v0SdslDkgcIsER5f7ZctC) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Не твоя](https://open.spotify.com/album/7CJAkMzJ9jNKT2zvGts4em) | 2:33 | 2024-07-12 | 2024-08-24 |
 | [не цейво сам себе](https://open.spotify.com/track/3nPjixYGZykdgUCG6l2Jwu) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Кістеньов](https://open.spotify.com/artist/41rWLkWdjiK9QVtVcqlTNR), [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn) | [не цейво сам себе](https://open.spotify.com/album/2P2r7UwC6pocAFMP3uF3Ba) | 2:51 | 2024-06-27 |  |

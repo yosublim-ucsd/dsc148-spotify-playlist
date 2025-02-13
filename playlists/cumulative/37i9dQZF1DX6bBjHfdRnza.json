@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 234345,
       "name": "ALL MY DESIRE",
       "url": "https://open.spotify.com/track/2Xehqth99SKeWeMWtO96Tm"
@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/1fJEFXMh75IueXNWu3RDIQ"
+      },
+      "artists": [
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219523,
+      "name": "AWA",
+      "url": "https://open.spotify.com/track/70JRdrjQipmFw02WAIfavY"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/3BYWdCn0KIzNCTaVH8f5Zw"
       },
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 330000,
       "name": "Back In The Day",
       "url": "https://open.spotify.com/track/1iVWrRVYwyZGslIHvhSRNQ"
@@ -5386,6 +5404,24 @@
       "duration_ms": 183226,
       "name": "Body - bosourd Remix",
       "url": "https://open.spotify.com/track/0eUJKsriu5I5YV3h4Tj0LA"
+    },
+    {
+      "album": {
+        "name": "Body 2 Body",
+        "url": "https://open.spotify.com/album/0M81yYsQTzoUYQvzm00zzY"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418902,
+      "name": "Body 2 Body",
+      "url": "https://open.spotify.com/track/0CHoQYlc095HK6aNO6j4Sz"
     },
     {
       "album": {
@@ -12180,7 +12216,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 219107,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/7m5CAcn37t9EOCuLNlM6lx"
@@ -13604,7 +13640,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 233500,
       "name": "Energy",
       "url": "https://open.spotify.com/track/301VZQHjZa8HDRaLIUBokW"
@@ -22390,7 +22426,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 196153,
       "name": "In the Back",
       "url": "https://open.spotify.com/track/4oegXw8xCIQUQ6u9ukT959"
@@ -26251,6 +26287,24 @@
     },
     {
       "album": {
+        "name": "Love Is All Around",
+        "url": "https://open.spotify.com/album/71xOe0V8lYKJd2cjAkpp8e"
+      },
+      "artists": [
+        {
+          "name": "Kassko",
+          "url": "https://open.spotify.com/artist/7tziVSjdkcQy72BZnmL9sA"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201238,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/52lxsvyCNPIjeL78GKBBLj"
+    },
+    {
+      "album": {
         "name": "love like this",
         "url": "https://open.spotify.com/album/1OBhiq6OtjnSeZw9YlpUcO"
       },
@@ -26504,7 +26558,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 255423,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/68CMRWFv2noGyeGEg4ypZD"
@@ -27114,6 +27168,28 @@
       "duration_ms": 176151,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3d8VindlGRe4A5ymdiewZg"
+    },
+    {
+      "album": {
+        "name": "make it rain",
+        "url": "https://open.spotify.com/album/3qOFnB0kXnusutKcY1Sb2r"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/5fH5ILNzdD3HslAOfpOCOL"
     },
     {
       "album": {
@@ -30633,6 +30709,24 @@
     },
     {
       "album": {
+        "name": "No One Should Ever Die",
+        "url": "https://open.spotify.com/album/0uwVepIyM57M5RmI4BAsPZ"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Fazio",
+          "url": "https://open.spotify.com/artist/5Gkierv7Lyl8t0aEh7upyp"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "No One Should Ever Die",
+      "url": "https://open.spotify.com/track/4WyAwTnw7hSIQDXztAz4Ua"
+    },
+    {
+      "album": {
         "name": "No Other Way / We Run It",
         "url": "https://open.spotify.com/album/6fgSpnPZULVsB3qBOxUMrF"
       },
@@ -31146,6 +31240,24 @@
       "duration_ms": 345893,
       "name": "Nuke",
       "url": "https://open.spotify.com/track/0q5sSlzHJuncv8MS0Nwoat"
+    },
+    {
+      "album": {
+        "name": "Number 1 Sound",
+        "url": "https://open.spotify.com/album/2a44CK6k5rmgXAPK8zK1Xk"
+      },
+      "artists": [
+        {
+          "name": "Somepoe",
+          "url": "https://open.spotify.com/artist/6EJIqIHyYCtNqLMXT7NmfW"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218588,
+      "name": "Number 1 Sound",
+      "url": "https://open.spotify.com/track/7MAzQxiaDHTCSnN6soemCW"
     },
     {
       "album": {
@@ -32304,7 +32416,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 247619,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/6f3OwH4tjhsNkj6tPq5HlL"
@@ -41251,6 +41363,32 @@
     },
     {
       "album": {
+        "name": "Surrounding Me",
+        "url": "https://open.spotify.com/album/0yghnefiqGecEHVzB8r9Tw"
+      },
+      "artists": [
+        {
+          "name": "Scott Steer",
+          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
+        },
+        {
+          "name": "Poppy Wright",
+          "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
+        },
+        {
+          "name": "George Barclay",
+          "url": "https://open.spotify.com/artist/49cigWqLlZRSgaRfxL06yz"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Surrounding Me",
+      "url": "https://open.spotify.com/track/4WofZyq2GwNuqgV3eWXByh"
+    },
+    {
+      "album": {
         "name": "Susanna",
         "url": "https://open.spotify.com/album/3vAiDmx1dpeDcqT4ebU8CU"
       },
@@ -42450,6 +42588,24 @@
       "duration_ms": 218955,
       "name": "Tender",
       "url": "https://open.spotify.com/track/256oQphx4dzjEGbSv47q5P"
+    },
+    {
+      "album": {
+        "name": "Tequila EP",
+        "url": "https://open.spotify.com/album/5RNU24tfKhSVHHZwuP57eL"
+      },
+      "artists": [
+        {
+          "name": "Nacho Scoppa",
+          "url": "https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3vfmApGTaEvTH1CzmPHL76"
     },
     {
       "album": {
@@ -44416,7 +44572,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 124869,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/0fMNLNNZssbIbFFe4O9nrs"

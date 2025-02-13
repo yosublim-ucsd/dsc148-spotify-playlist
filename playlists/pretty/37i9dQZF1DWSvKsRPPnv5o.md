@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,515 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,848 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 38 | [Yaya Vs Everybody](https://open.spotify.com/track/3l4eovBIZQSaSzYXf1zcDR) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Yaya Vs Everybody](https://open.spotify.com/album/5F7QHJBaIAuePW2OrRK3Zw) | 2:40 |
 | 39 | [Pose For Me](https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU) | [Pose For Me](https://open.spotify.com/album/6d8UKmxIuws3fTX6ITvNh0) | 2:26 |
 | 40 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 |
-| 41 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:43 |
+| 41 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:41 |
 | 42 | [Work](https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Work](https://open.spotify.com/album/2UyogKVq8SYD2OBXZo6fdG) | 2:15 |
 | 43 | [2+2](https://open.spotify.com/track/3JB3u2A7BrgIn0y3WvNm64) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [2+2](https://open.spotify.com/album/7qjNk2utrc3cKe5d3fMpuV) | 3:25 |
 | 44 | [pink whitney](https://open.spotify.com/track/5QVD21jVsQd2gbZCSlJxJO) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:02 |

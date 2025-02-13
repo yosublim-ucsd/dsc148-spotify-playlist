@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: Ravyn Lenae",
-  "num_followers": 34965,
+  "num_followers": 34970,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5zh8QAAAACvgmU1zhMyCHQ8uq613cfi",
+  "snapshot_id": "Z6wv3gAAAACqifXFv5gdDtQLe7XYcLFF",
   "tracks": [
     {
       "added_at": "2025-01-27 22:50:44",
@@ -23,6 +23,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-02-12 05:21:34",
+      "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-01-31 05:00:30",
@@ -59,6 +75,22 @@
       "duration_ms": 132203,
       "name": "Versions of Me",
       "url": "https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq"
+    },
+    {
+      "added_at": "2025-02-12 05:21:34",
+      "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/4xl3poIBkaEJ0K8q2InLlr"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 140198,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/3aye54qH7pxFkwa445SAxp"
     },
     {
       "added_at": "2025-01-31 05:00:30",
@@ -815,38 +847,6 @@
       "duration_ms": 132773,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "I Hate You",
-        "url": "https://open.spotify.com/album/6X0cAmyh8VKZKgTK7P5jAy"
-      },
-      "artists": [
-        {
-          "name": "I Am Roze",
-          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "I Hate You",
-      "url": "https://open.spotify.com/track/0PwKHU6kWQ2GC1m37nqL43"
-    },
-    {
-      "added_at": "2025-01-27 22:50:44",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     }
   ],
   "unique_name": "Pop Frequency",

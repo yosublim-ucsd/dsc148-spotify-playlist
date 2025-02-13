@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Peggy Zina",
-  "num_followers": 32871,
+  "num_followers": 32873,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
         },
         {
-          "name": "Nikiforos",
+          "name": "Nikiforos Vithoulkas",
           "url": "https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9"
         }
       ],
@@ -515,18 +515,22 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "To Pairno Pano Mou",
-        "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
+        "name": "Alitheia",
+        "url": "https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2"
       },
       "artists": [
         {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
         }
       ],
-      "duration_ms": 190053,
-      "name": "To Pairno Pano Mou",
-      "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
+      "duration_ms": 172363,
+      "name": "Alitheia",
+      "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
     },
     {
       "added_at": "2025-02-06 22:00:24",
@@ -567,22 +571,18 @@
     {
       "added_at": "2025-02-06 22:00:24",
       "album": {
-        "name": "Alitheia",
-        "url": "https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2"
+        "name": "To Pairno Pano Mou",
+        "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
       },
       "artists": [
         {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
         }
       ],
-      "duration_ms": 172363,
-      "name": "Alitheia",
-      "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
+      "duration_ms": 190053,
+      "name": "To Pairno Pano Mou",
+      "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
     },
     {
       "added_at": "2025-02-06 22:00:24",

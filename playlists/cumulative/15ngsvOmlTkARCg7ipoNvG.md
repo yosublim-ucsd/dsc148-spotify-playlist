@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,889 songs - 1 day 14 hr 35 min
+1,894 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Coming To Life](https://open.spotify.com/track/3Yz90SD2sV5kZG74GS8Yo6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:17 | 2022-01-12 |  |
 | [Conclusion](https://open.spotify.com/track/4odARTUgwdkOs9CL6TQMjP) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Conclusion](https://open.spotify.com/album/2sNorVU9UiLhLugtqqfAjy) | 1:00 | 2025-01-23 |  |
 | [Connected](https://open.spotify.com/track/5gEkuJw8f6lNXOkbs72R9Y) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Connected](https://open.spotify.com/album/0n9jQMmpINdDUNPM2wLOFt) | 1:00 | 2024-08-15 |  |
+| [Connecting](https://open.spotify.com/track/4jN91f5kbIeHZsUREzOQnT) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connecting](https://open.spotify.com/album/6e9WhbqpEfcXa4yrzMqGJi) | 1:00 | 2025-02-12 |  |
 | [Connection](https://open.spotify.com/track/2RP93uPtPEcOTLLltaVvJS) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Connection](https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC) | 1:00 | 2024-07-30 |  |
 | [Connections](https://open.spotify.com/track/2mXj5DpuJJcoJ1DdJtIAo1) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Cello Moods](https://open.spotify.com/album/66eiIKbumufa9makcayfER) | 1:16 | 2022-01-12 |  |
 | [Constant Reminders](https://open.spotify.com/track/1DotoqFrrnUXTPsBqDjcli) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:41 | 2022-01-12 |  |
@@ -612,6 +613,7 @@
 | [Fields](https://open.spotify.com/track/1FKeTN8tag7Hm00e0UEEpN) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:43 | 2022-01-12 |  |
 | [Filled Hearts \- Cello Version](https://open.spotify.com/track/4gobtJMTbWoEK6JEFqcE8l) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Filled Hearts \(Cello Version\)](https://open.spotify.com/album/1jG12F1J9VMXZIdXdT804F) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Finally At Ease](https://open.spotify.com/track/0YdLGKpIdA9XqNVjR533m7) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
+| [Finding Home](https://open.spotify.com/track/57BTsqhjJwgZ4Dg3zW0iA5) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Finding Home](https://open.spotify.com/album/4w6pAQCVn4NTlHlWnyj9jg) | 1:00 | 2025-02-12 |  |
 | [Finding My Way \- Strings Version](https://open.spotify.com/track/5PcZo7ElSAscqy3cCjOfQD) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Serene Wonder](https://open.spotify.com/album/4l1fnIwCZpL26sJVNKFs3Y) | 1:03 | 2022-02-20 | 2024-02-13 |
 | [Finding My Way Back](https://open.spotify.com/track/1uhOYix2rAhAfO0XAqxyCR) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Cello Songs](https://open.spotify.com/album/4qk2Cg1Gu9xJvDjyu9Mf6u) | 1:02 | 2022-02-20 | 2024-02-13 |
 | [Finding Us](https://open.spotify.com/track/0yMhGTF9sdo4tNPTh5l0KO) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Stillness](https://open.spotify.com/album/7eegP3dh7y7zGSuvwCOTFv) | 1:24 | 2022-01-12 |  |
@@ -807,6 +809,7 @@
 | [Hiking](https://open.spotify.com/track/0eC7fbmLCsIYIwch3Sf6mn) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:29 | 2022-01-12 |  |
 | [Hills](https://open.spotify.com/track/581w1jXNwXJMFL69w9Ksid) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Hills](https://open.spotify.com/track/6mJiHWwkMkj5YJ7UFyeCPQ) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Hills](https://open.spotify.com/album/2nBQTD4MMw5NAnXZOX4GmU) | 1:00 | 2024-07-30 |  |
+| [Hilltop](https://open.spotify.com/track/6iP3miiJb5HYsBIFPOOXYD) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Hilltop](https://open.spotify.com/album/20yVOvbnj4vVLb5izJHcPH) | 1:00 | 2025-02-12 |  |
 | [Hold My Hand](https://open.spotify.com/track/3Cq8ZoVxpOAbz7jz8tfWgN) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:29 | 2022-01-12 |  |
 | [Home](https://open.spotify.com/track/24j1BbJXzzmazQOFHmsjut) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:19 | 2022-01-12 |  |
 | [Home In The Distance](https://open.spotify.com/track/0uBDF9UCh6MFvrhEn8bJtH) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:04 | 2022-03-03 |  |
@@ -1374,6 +1377,7 @@
 | [Rivers](https://open.spotify.com/track/46S417G0xvadkFYteZQvpj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
 | [Rivers Flow](https://open.spotify.com/track/6nD2yoVVGKocPg301QNkww) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Rivers Flow](https://open.spotify.com/album/4T1fij8tkq5WJfFeQTkDqj) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Rivers Flow \- Strings Version](https://open.spotify.com/track/791QINqCiJ9BoIAxsvxkIh) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Rivers Flow \(Strings Version\)](https://open.spotify.com/album/0ykI0ftLM0OCtyAqMQvhZK) | 1:02 | 2024-02-09 | 2024-02-13 |
+| [Riverside Light](https://open.spotify.com/track/66mNp9Il3Mg2Ze6dK6ekpz) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Riverside Light](https://open.spotify.com/album/5FRX6kF4Y9TQs87o5jRwIr) | 1:00 | 2025-02-12 |  |
 | [Romance](https://open.spotify.com/track/5115EAwjhOhlTvLuBGtkUi) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Romance](https://open.spotify.com/album/6nTS0HyGxjrbz7sydj6D2r) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Romance Revisited](https://open.spotify.com/track/6cUiTDvEI4wbktI61stWVY) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Romance Revisited](https://open.spotify.com/album/4UtvrvuFA4FcNeQXcDYQNO) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Romanced](https://open.spotify.com/track/5WU67k2X0BZ4nWdyWMPrD1) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 | 2024-01-30 |
@@ -1546,6 +1550,7 @@
 | [Stained Blue Windows](https://open.spotify.com/track/3mosxpcwbtA2hjVB9IXC8U) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Shifting Sands](https://open.spotify.com/album/0tOrP1XUnI0UU7qZjOhIjD) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Stained Glass](https://open.spotify.com/track/04zrIJnAGFidz3dgCQswti) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:28 | 2022-01-12 |  |
 | [Stained Glass](https://open.spotify.com/track/70QgzXi0kwgXkdvh7x0qDc) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:14 | 2022-01-12 |  |
+| [Stained Glass Meditations](https://open.spotify.com/track/6enSEkJmwiK8luINDCJCWL) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Stained Glass Meditations](https://open.spotify.com/album/2WBD6Wy1IMiyZwpoOML6xT) | 1:00 | 2025-02-12 |  |
 | [Stained Glass Memory](https://open.spotify.com/track/1JtQCKXlzjxbNfYXIFKTEW) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Hillside Reflections](https://open.spotify.com/album/3uRHm02elkBXbWQ06eOGnQ) | 1:06 | 2022-01-12 |  |
 | [Stained Glass Reflecting](https://open.spotify.com/track/0iM1is9T2It1mwRn1KAtjl) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Rising Hope](https://open.spotify.com/album/05bFtzLqr4sBPsxne7idU8) | 1:04 | 2022-01-16 | 2024-01-30 |
 | [Stained Glass Reflecting On You](https://open.spotify.com/track/3tIFXLKfZT1mNPopYSeudL) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tenderness](https://open.spotify.com/album/5cqsHPHamgtgv6JUuuKW8j) | 1:02 | 2022-02-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 
 > Mehmet Aslan's favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,083 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,096 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 19 | [Les points sur les i \- Dj Mehdi Remix](https://open.spotify.com/track/2zPC5gzWF6cyi7MRDfewnC) | [Intouchable](https://open.spotify.com/artist/4lMAWg5O9NCDdHaX7sHpWD), [Dj Medhi](https://open.spotify.com/artist/00yl0AmbP6Sd2SxeViTKGw) | [Retro rap français "À l'ancienne"](https://open.spotify.com/album/55cxzK5pC0GlcIBA1mkx3I) | 4:26 |
 | 20 | [Anassa](https://open.spotify.com/track/3KeVWNb93h28pPxwYq1ugr) | [Danae Palaka](https://open.spotify.com/artist/7ueEOfnefUAXFl3bH3yAMu) | [Velox](https://open.spotify.com/album/0ni2CUfr78oLX1MVfpAOPl) | 5:01 |
 | 21 | [Non\-Standard Mixture](https://open.spotify.com/track/3BOxDRt5HFDBFrdajDOjM7) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MAKING OF NON\-STANDARD MUSIC](https://open.spotify.com/album/0AXCPuHNL9q0EXsvD99gy5) | 7:04 |
-| 22 | [Euphoria](https://open.spotify.com/track/49Xy9ZgaujjP8xnDybKw9t) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Euphoria](https://open.spotify.com/album/0AGHEU0u4jatyJ4kDe4zo0) | 5:19 |
+| 22 | [Euphoria](https://open.spotify.com/track/49Xy9ZgaujjP8xnDybKw9t) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Euphoria](https://open.spotify.com/album/0AGHEU0u4jatyJ4kDe4zo0) | 5:19 |
 | 23 | [Boom Riddim \- Instrumental](https://open.spotify.com/track/15vUn0kzylQ3af1N7oaGjK) | [Head Concussion](https://open.spotify.com/artist/2hSgMPRN13bI6TkkHj99bn) | [Boom Riddim](https://open.spotify.com/album/3zG1rwrHYZFYIeLD07UVNH) | 2:36 |
 | 24 | [Yaad Aa Raha Hai](https://open.spotify.com/track/5IaTFrbQzBb5buXeaZMfL8) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 6:22 |
 | 25 | [Skittles](https://open.spotify.com/track/1SsbkXdk7SodHubBSeApSw) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Quick EP](https://open.spotify.com/album/3CUx8j4SgUTrS3CE9dudyS) | 6:06 |

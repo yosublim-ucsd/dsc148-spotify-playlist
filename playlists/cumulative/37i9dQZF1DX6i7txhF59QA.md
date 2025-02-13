@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-964 songs - 2 day 6 hr 58 min
+965 songs - 2 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Love foll](https://open.spotify.com/track/2EVoQ23J1RF2dzdkBjeJaB) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 4:14 | 2022-04-21 | 2022-07-29 |
 | [Love for a thousand years](https://open.spotify.com/track/2TKTPsdxbjblibyITIH25A) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 4:27 | 2022-04-21 | 2024-10-11 |
 | [Love Hate](https://open.spotify.com/track/1qJm7dEvPMBL3SjeKgyoix) | [MYTRO](https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ) | [LOVESTRUCK SISTERS Episode Final](https://open.spotify.com/album/354GwECXtfUdnyTyylP1Z9) | 2:38 | 2024-12-23 |  |
+| [Love in Dream](https://open.spotify.com/track/5Usr0LvocsSXbEKDJ9Y9JM) | [Son Bin Ah](https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e), [Kim Yong Bin](https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l), [Chun Gil](https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR), [Chu Hyuk Jin](https://open.spotify.com/artist/5tti8ePomOrIlKx3LPvYl9) | [Music Source of Mr\. Trot3 Team Battle by Genre Best PART2](https://open.spotify.com/album/4ZglJuelhgO9sqoL2G87gN) | 4:41 | 2025-02-11 |  |
 | [Love is](https://open.spotify.com/track/2b2ydPtPg06Rnou11jxKEF) | [LEE JEE HOON](https://open.spotify.com/artist/61Aeur7kZETwJ2ZjWGg1ZB) | [Music Source of Mr\. Trot3 Preliminary Match Best PART2](https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz) | 3:22 | 2025-02-11 |  |
 | [LOVE IS A FLOWER OF LIFE](https://open.spotify.com/track/1TncfbVa7r8xGksPcOYAEp) | [Jeon Yu Jin](https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:06 | 2024-05-24 |  |
 | [Love is Gone](https://open.spotify.com/track/2Xvgv65TsQ88x1fqMKC5Nk) | [Son Bin Ah](https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e) | [Music Source of Mr\. Trot3 Preliminary Match Best PART2](https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz) | 2:49 | 2025-02-11 |  |
@@ -741,7 +742,7 @@
 | [Unchained Melody](https://open.spotify.com/track/0bIIg7G4hGK6cuOnsO5DHN) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 1:25 | 2022-04-07 | 2022-07-21 |
 | [Unconditional love](https://open.spotify.com/track/60DzzW609I0tY1rWX41CjH) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART1](https://open.spotify.com/album/2u4uuAYzwv4AsETUiQcssS) | 3:10 | 2022-04-21 | 2022-07-22 |
 | [Unconditional Love](https://open.spotify.com/track/3cT2vpdepdJ35CXTu1MrHV) | [Park Sang\-Chul](https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt) | [Bang Bang](https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ) | 3:35 | 2022-04-07 |  |
-| [Unconditionally](https://open.spotify.com/track/7k09FsmFCPDsKFk8IPRa2H) | [Na Taeju](https://open.spotify.com/artist/7I9b0wtsZYnGXxGTN92XnP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:20 | 2024-08-13 |  |
+| [Unconditionally](https://open.spotify.com/track/7k09FsmFCPDsKFk8IPRa2H) | [Na Taeju](https://open.spotify.com/artist/7I9b0wtsZYnGXxGTN92XnP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:20 | 2024-08-13 | 2025-02-13 |
 | [Unpredictable life](https://open.spotify.com/track/0dSsay6Gw9QUxK1TTkIvlH) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 4:08 | 2022-05-03 | 2022-07-17 |
 | [Unprepared breakup](https://open.spotify.com/track/1JPzi2LunlhJxY9oTvEik6) | [Kim Byeomryong](https://open.spotify.com/artist/2fIIm6jLHVxpI0Jcr0i7PX), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 4:29 | 2022-04-21 | 2022-07-09 |
 | [Unreasonable Reason](https://open.spotify.com/track/06H9iIQ32dPy0L1IrbyZ4J) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 2:21 | 2022-05-03 | 2022-07-19 |

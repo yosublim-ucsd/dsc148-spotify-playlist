@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Yoki
 
-316 songs - 17 hr 40 min
+317 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 | 2025-01-17 |
 | [get lost.](https://open.spotify.com/track/0pSDzhQRvNWRw2w1mVkqlm) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [get lost.](https://open.spotify.com/album/2u9fbDDi10hsJXfuwTOuKE) | 2:46 | 2024-11-08 |  |
 | [get with u feat\. Zeke Abella](https://open.spotify.com/track/1f5M4c6EjswUWBAmWf3thL) | [davidgocray](https://open.spotify.com/artist/7IGGcRfxyZgcplCukyvWx1), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [felt anxiety yet excited](https://open.spotify.com/album/6HF2XZzRV5Gyf811OTwuVS) | 2:36 | 2024-07-26 |  |
+| [Girl U Gotta Go](https://open.spotify.com/track/54xW6CkZ9slyKusgzgV0Xe) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [2Joints & Harmony](https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L) | 2:47 | 2025-02-12 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-15 | 2025-01-17 |
 | [Gunita](https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Gunita](https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA) | 3:56 | 2023-07-13 | 2023-10-26 |
 | [Gusto](https://open.spotify.com/track/5ojhdirBnBs8y1EXgkpSj1) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l) | [Gusto](https://open.spotify.com/album/4A5EzPzTX7nQVhMmKGc1dG) | 2:10 | 2022-10-12 | 2023-07-29 |

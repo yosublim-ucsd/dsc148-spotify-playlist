@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "The Happiest Girl in the World (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C"
+      },
+      "artists": [
+        {
+          "name": "Dran Seitz",
+          "url": "https://open.spotify.com/artist/4z7pLsvRSRtqFye0rbG4xs"
+        },
+        {
+          "name": "Bruce Yarnell",
+          "url": "https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Adrift on a Star",
+      "url": "https://open.spotify.com/track/36vz0WZntxL3KVS6sxrTjg"
+    },
+    {
+      "album": {
         "name": "Vic Damone Collection",
         "url": "https://open.spotify.com/album/44WQaczmxqkkEROQaN51V3"
       },
@@ -20,7 +42,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 168386,
       "name": "Adrift On A Star (with Johnny Williams & His Orchestra) - Single Version",
       "url": "https://open.spotify.com/track/3LOBp68eiLITgsIdAxeggH"

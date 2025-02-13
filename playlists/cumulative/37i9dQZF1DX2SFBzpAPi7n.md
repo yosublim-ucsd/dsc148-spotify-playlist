@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can’t be blue \(캔트비블루\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-862 songs - 2 day 4 hr 30 min
+863 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,7 @@
 | [Nightwalk](https://open.spotify.com/track/7JB4L3CCPY4G6XsQr8EgSg) | [Yang Chang Keun](https://open.spotify.com/artist/2PkqaseTcIQZdKeZc4s0kX) | [WAVE](https://open.spotify.com/album/6MMA1Y9oAHFiLkxZPktVtD) | 3:23 | 2022-04-22 | 2022-07-29 |
 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 | 2024-05-09 | 2024-11-07 |
 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-04-09 | 2024-05-10 |
-| [No Parking](https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [No Parking](https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W) | 4:17 | 2024-12-18 |  |
+| [No Parking](https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [No Parking](https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W) | 4:17 | 2024-12-18 | 2025-02-13 |
 | [No Sad Christmas](https://open.spotify.com/track/0rYnCUmYBrLJAic7vG4flh) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [No Sad Christmas](https://open.spotify.com/album/1nzBncWAkOUCXML9Ae4kHX) | 4:06 | 2024-12-13 | 2025-02-12 |
 | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/track/2puhFUzrx1DjRJN7guhQoe) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [No, Thanks \(Feat\. Zion.T\)](https://open.spotify.com/album/1vVPwJYmieA4IgrddBOCcQ) | 3:50 | 2022-04-22 | 2022-04-26 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/5FOSwCZ66T9mSUMASC5PLh) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [BORN GENE](https://open.spotify.com/album/7EJ5ExGkZRhAtRCl9aAY4Z) | 3:00 | 2022-09-13 | 2022-10-01 |
@@ -819,6 +819,7 @@
 | [Wonder](https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:56 | 2024-06-05 | 2024-11-02 |
 | [WOODY](https://open.spotify.com/track/5gohv3y9eo1FeOmL8gYbVL) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [WOODY](https://open.spotify.com/album/0secYErmr26myE8T2RMdGf) | 2:56 | 2022-04-12 | 2022-04-21 |
 | [WYA](https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [MOIM](https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR) | 3:22 | 2023-01-26 | 2023-02-15 |
+| [YAYA](https://open.spotify.com/track/1eLt1qqQQdhSNomFZ7FqhD) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP), [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [YAYA](https://open.spotify.com/album/3b7Gkime029zOsf82qmqvI) | 4:17 | 2025-02-12 |  |
 | [Yes \(feat\. James Reid\)](https://open.spotify.com/track/7rXgJUG1dp42FJMjYsD7EW) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:16 | 2024-10-16 | 2024-10-31 |
 | [You](https://open.spotify.com/track/78AoiXiR6mu0mo9CbJIfMD) | [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [You](https://open.spotify.com/album/5VvgIkB3lhEcqrzDO7f8Y6) | 3:37 | 2025-01-14 |  |
 | [You](https://open.spotify.com/track/2F6CENl6unVtch4oN2o7I5) | [KAVE](https://open.spotify.com/artist/2ULfZAs05dyyWxznOPua14) | [Say My Name](https://open.spotify.com/album/0ZG0wS9PNE1GYE7NVjHBFP) | 3:24 | 2024-11-12 | 2025-01-02 |

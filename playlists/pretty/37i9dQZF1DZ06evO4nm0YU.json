@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 168321,
+  "num_followers": 168369,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6lBgAAAAACrR+3bRKeLtsc2PvmHl8Ex",
+  "snapshot_id": "Z6qTAAAAAAArUBO/OopfX+Heoh3s2ZSR",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 242386,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguanile",
         "url": "https://open.spotify.com/album/39gHO23z4L81f3xHVd8mML"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 173333,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/5T8uNSE1RCwGmIRJn95Vzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 242386,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
     },
     {
       "added_at": null,

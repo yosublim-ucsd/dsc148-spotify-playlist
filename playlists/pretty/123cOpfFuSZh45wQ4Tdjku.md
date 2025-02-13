@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 885 likes - 283 songs - 14 hr 23 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 884 likes - 284 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,5 +291,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 281 | [CYBERNETIC HEART \- Instrumental](https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 |
 | 282 | [Good Old Green Days](https://open.spotify.com/track/46t9sTC5suAbc3l4CMDDah) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 |
 | 283 | [Good Old Green Days \(Slappy Hours Mix\)](https://open.spotify.com/track/2PC17V6KxPHmKxvzaBgBof) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Good Old Green Days](https://open.spotify.com/album/4yQkbxQM6lxkWDrWRTwj4K) | 3:56 |
+| 284 | [Sun Spots](https://open.spotify.com/track/45c7BYsCMQ41jafFpcyAkg) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Sun Spots](https://open.spotify.com/album/2sYtxp26iKO2lG88ivhbL7) | 4:52 |
 
-Snapshot ID: `AAABUhYfuZWp7B1I/1zNMvlE1agElB2a`
+Snapshot ID: `AAABU3CKUdNd6qSHR5W7IgBGEOx6SpRT`

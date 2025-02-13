@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: \[IVY\]
 
-839 songs - 2 day 2 hr 27 min
+840 songs - 2 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [From The Dirt](https://open.spotify.com/track/3vqnAH6SerB5wzpbo8Gccb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [From The Dirt](https://open.spotify.com/album/5a87llnssLqkYFKLD0pqoL) | 3:28 | 2025-01-31 |  |
 | [Full Moon](https://open.spotify.com/track/7LNFCMklEjNQpaIucGl4Dy) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Full Moon / Haunta](https://open.spotify.com/album/0mBIjQQkHDWiX3CYonHWWB) | 6:03 | 2022-04-08 | 2022-04-21 |
 | [fumble \(feat\. piri\)](https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [fumble \(feat\. piri\)](https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH) | 2:54 | 2023-04-27 | 2023-10-27 |
-| [Fun in the Sun](https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Harry Bee](https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i) | [Fun in the Sun](https://open.spotify.com/album/2galUcRqce0LWecrsJgb3w) | 2:47 | 2024-07-25 |  |
+| [Fun in the Sun](https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Harry Bee](https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i) | [Fun in the Sun](https://open.spotify.com/album/2galUcRqce0LWecrsJgb3w) | 2:47 | 2024-07-25 | 2025-02-13 |
 | [Futurism](https://open.spotify.com/track/0TzjN3TEKHd5Ewb2OLHpzQ) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism](https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM) | 5:13 | 2022-04-08 | 2022-04-21 |
 | [Galactic](https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [Galactic](https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx) | 3:23 | 2024-03-08 | 2024-03-09 |
 | [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 | 2024-04-12 | 2024-11-01 |
@@ -652,6 +652,7 @@
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-04-06 | 2023-12-15 |
 | [Shut It Down \- P Money Remix](https://open.spotify.com/track/2YtunbLVHqHsFuw3R3N02Q) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Shut It Down \(P Money Remix\)](https://open.spotify.com/album/7gqzvebZH2m7SudhpVaD8w) | 2:53 | 2023-07-20 | 2023-12-08 |
 | [Shut Ya Mouth](https://open.spotify.com/track/0FIxD96rwitigRYZaTlD2m) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Shut Ya Mouth](https://open.spotify.com/album/6bOY3B8OrEgR6F6vsmy0i2) | 3:18 | 2022-06-10 | 2022-06-17 |
+| [Sientelo](https://open.spotify.com/track/1gPJ3F2p8rwhlzr1AF58W7) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Sientelo](https://open.spotify.com/album/7xOtseBRe8Uokfngv9JOnW) | 4:50 | 2025-02-12 |  |
 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 | 2024-02-16 | 2024-05-17 |
 | [Silly Banter](https://open.spotify.com/track/3jgEEKaw12kJgI3qrjpA0T) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Silly Banter](https://open.spotify.com/album/4c6iutQGEeNdcMMYtRsa7M) | 3:10 | 2023-12-27 | 2024-01-05 |
 | [Silverlined](https://open.spotify.com/track/2Cg6f0J6nIK46GvOZSkQ8n) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Silverlined](https://open.spotify.com/album/0UYxnluenY9kvPIhH2gAXy) | 3:42 | 2022-09-01 | 2023-06-22 |

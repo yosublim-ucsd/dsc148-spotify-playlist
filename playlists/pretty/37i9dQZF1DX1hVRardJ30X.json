@@ -1,6 +1,6 @@
 {
   "description": "New music by Xavi & Manuel Turizo, Anitta, NATTI NATASHA and more! Updates every Friday.",
-  "num_followers": 607344,
+  "num_followers": 607389,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
@@ -400,16 +400,16 @@
       },
       "artists": [
         {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
           "name": "Yailin la Mas Viral",
           "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
         },
         {
           "name": "Puyalo Pantera",
           "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
         }
       ],
       "duration_ms": 276363,

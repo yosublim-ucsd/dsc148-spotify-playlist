@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "hi, my name is insecure.",
+        "url": "https://open.spotify.com/album/0eMtRVx589kCihum41ixGw"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "alone at the party",
+      "url": "https://open.spotify.com/track/0YO7moiEboCUBDFf0hefSk"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj"
       },

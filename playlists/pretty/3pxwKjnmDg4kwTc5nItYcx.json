@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHRKxpWaANTfHJMIWSj0s5ZdpmrYR9",
+  "snapshot_id": "AAAHRZG16mb6gQNg2yuvCiKyHU8blBXK",
   "tracks": [
+    {
+      "added_at": "2025-02-12 23:13:30",
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/6B0uhVWdfDKV35fapjoolM"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/4YxrU1KNuhskMAQztkACrA"
+    },
     {
       "added_at": "2025-01-10 03:13:08",
       "album": {

@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Crisis (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "My God Is a Reasonable Man",
+      "url": "https://open.spotify.com/track/0hZYlJaQO7NZy8gBlcHrJv"
+    },
+    {
+      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },

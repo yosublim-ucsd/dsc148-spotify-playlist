@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: JESS REISS
 
-3,791 songs - 8 day 16 hr 17 min
+3,792 songs - 8 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1545,6 +1545,7 @@
 | [Hotel Santa Cruz](https://open.spotify.com/track/4tqA8kBbA7n4saOWUWJJTC) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Hotel Santa Cruz](https://open.spotify.com/album/3q8BNZU23MZ36bMGbMmzEO) | 3:26 | 2024-11-12 | 2025-01-29 |
 | [HOUDINI](https://open.spotify.com/track/6ZEEp282K8eqwV7EG59mwD) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/0MCR2VzikC4fNV3VQFEKZl) | 2:37 | 2022-12-02 | 2023-01-13 |
 | [HOUDINI](https://open.spotify.com/track/77qqkGyIATml8aUFgHSbBN) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/71S8wbGOnbvDHd10xyA7Mt) | 2:37 | 2022-10-26 | 2022-12-05 |
+| [Hounds](https://open.spotify.com/track/11YCHFUaBsofGaPFdiruzG) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Hounds](https://open.spotify.com/album/2FaOlceM6uGfvdpeEXvDFq) | 3:23 | 2025-02-11 |  |
 | [house](https://open.spotify.com/track/4ONiEVY1KmqAiimtTtc3TU) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [walls](https://open.spotify.com/album/5ZG015WchuvZhAZBzASrcf) | 3:45 | 2023-07-12 | 2023-08-10 |
 | [How Could You?](https://open.spotify.com/track/3HEQGX9v1ZjhXS5xcZKSOo) | [Joan & the Giants](https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4) | [How Could You?](https://open.spotify.com/album/0BXq5SgpyDayDxxjb4wArt) | 2:40 | 2024-10-08 | 2024-12-05 |
 | [How Do You Know?](https://open.spotify.com/track/1qrQrm2CgPjT6VDDFGA39B) | [Daffodils](https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T) | [How Do You Know?](https://open.spotify.com/album/3yxhZNc0JHuZeIkzvn3hVf) | 4:20 | 2022-04-20 | 2022-05-12 |

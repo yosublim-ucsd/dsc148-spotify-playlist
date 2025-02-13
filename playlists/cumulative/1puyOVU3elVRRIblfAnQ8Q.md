@@ -4,11 +4,12 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-207 songs - 11 hr 59 min
+209 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4X4 \(IT'S U\)](https://open.spotify.com/track/0H12TVZIucruvvGSPjvvj0) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [ELECTRICA](https://open.spotify.com/album/3Ht8tnhr8yzD9onmihpKhy) | 4:13 | 2024-08-05 | 2024-08-24 |
+| [A Moment With You](https://open.spotify.com/track/1UJ2VTgnCDwUXVyyxTWBB0) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [A Moment With You](https://open.spotify.com/album/4R8xZqk5xoRfCHQI44geug) | 3:23 | 2025-02-12 |  |
 | [Aching \(On A High\)](https://open.spotify.com/track/0nLo87MKJJUumGJqNAHACx) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Aching \(On A High\)](https://open.spotify.com/album/2EDH5qCIf3XIzMyR6FIPrN) | 3:39 | 2023-09-18 | 2024-05-17 |
 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 | 2023-05-05 | 2023-11-09 |
 | [Alien Wook 2230](https://open.spotify.com/track/3EQls5bTKQYP3zaDBV47sE) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Survivors EP](https://open.spotify.com/album/6uLt2izQ3oo51xlIN7LGR5) | 2:51 | 2023-08-11 | 2024-01-27 |
@@ -26,6 +27,7 @@
 | [Bassface](https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Bassface](https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy) | 3:06 | 2023-09-06 | 2024-05-17 |
 | [Berserk](https://open.spotify.com/track/05Rr6bZbvgqLk1VWuQdrCv) | [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:15 | 2024-08-23 | 2024-09-27 |
 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 | 2023-02-17 | 2023-11-09 |
+| [Better Be Moving](https://open.spotify.com/track/5EnoxPt5QZmLM2zBRYJhpJ) | [Keenan Mathias](https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL) | [Better Be Moving](https://open.spotify.com/album/0xkeeRW7van4LxsaSoNyhJ) | 5:02 | 2025-02-12 |  |
 | [Beyond The Sun](https://open.spotify.com/track/4TswMWD4ZFxCQZEep2SBxP) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:46 | 2024-01-26 | 2024-02-10 |
 | [Bigger Than Bad](https://open.spotify.com/track/0e4ZPqNyRUywth2AtjMH0K) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Circus Four](https://open.spotify.com/album/7qj4xzuZKpPdJ1zx8vM14e) | 3:51 | 2024-03-07 | 2024-05-17 |
 | [Bird Feeder](https://open.spotify.com/track/6aRKwQBMl8G2XaGfy7eDrx) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:20 | 2023-12-04 | 2024-08-24 |

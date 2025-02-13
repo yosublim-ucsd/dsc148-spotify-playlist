@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-201 songs - 10 hr 10 min
+202 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Leaf Fairies](https://open.spotify.com/track/2Dnm4G6oTucFajlFBwzLzw) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs), [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Fairies](https://open.spotify.com/album/7xEvSGUpZOHKk5lAr7dUwv) | 3:36 | 2023-03-09 | 2024-07-17 |
 | [Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/track/19ECnW3LhP8fMx35Wqzauw) | [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories \- Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/album/51C9ZkqBv58DZdxNJwqUm9) | 4:27 | 2022-05-11 | 2022-07-29 |
 | [Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/track/3j9dQrn1E6TWojRj1BEWxx) | [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 4:27 | 2022-07-18 | 2023-11-25 |
+| [Lente Et Firmiter](https://open.spotify.com/track/3o1mtnzLw07Ok6QMnwuf5E) | [Eiriane](https://open.spotify.com/artist/4k9PK8yl00PAnmOm21cmTz) | [Lente Et Firmiter](https://open.spotify.com/album/5BctDrwRlbHF2Y3vpc50Nt) | 3:02 | 2025-02-12 |  |
 | [Les Belles Cordes](https://open.spotify.com/track/41a5ljXdIkwoOp43yvAkYP) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Les Belles Cordes](https://open.spotify.com/album/08njtJ6n6aEOi5o5wooUpz) | 2:49 | 2023-07-11 |  |
 | [Light And Dark](https://open.spotify.com/track/0hfd9tzSPhGsRWBlFEhuwM) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Light And Dark](https://open.spotify.com/album/5G5Uut8akYzRtxBUGlrp7F) | 3:10 | 2023-11-24 |  |
 | [Limerick is Beautiful \- Kilcash](https://open.spotify.com/track/71T51fQHRA9XY7uvkaOyK2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:56 | 2022-07-18 | 2024-04-19 |
@@ -173,7 +174,7 @@
 | [Soft Touch](https://open.spotify.com/track/6ZEiwmGp8BInwOrn5jwRD6) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Gentle Harp](https://open.spotify.com/album/3BAQzjKZhAoDFJzZevg26J) | 2:37 | 2022-05-11 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-05-11 | 2023-11-25 |
 | [Space And Time](https://open.spotify.com/track/3jp4wLKoclP4bAWsMpsbib) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Space And Time](https://open.spotify.com/album/7r4NPZogMxLDSH4uRMrFvG) | 3:41 | 2024-07-16 |  |
-| [State Of Harp](https://open.spotify.com/track/0yY37P9rT3l7LfI74AHJic) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [State Of Harp](https://open.spotify.com/album/5CijIYsynZB0UpurMgPlf8) | 2:16 | 2023-10-20 |  |
+| [State Of Harp](https://open.spotify.com/track/0yY37P9rT3l7LfI74AHJic) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [State Of Harp](https://open.spotify.com/album/5CijIYsynZB0UpurMgPlf8) | 2:16 | 2023-10-20 | 2025-02-13 |
 | [Stationary](https://open.spotify.com/track/0rfgpx592J4Ed7NVuzNSmL) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Stationary](https://open.spotify.com/album/35R9NuEjzygzFFoEqS05lH) | 3:28 | 2023-10-04 |  |
 | [Strings Of Serenity](https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Strings Of Serenity](https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX) | 2:51 | 2023-03-09 |  |
 | [Síocháin](https://open.spotify.com/track/6FUMrOxk7rMqh9aIaWfuWc) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [Síocháin](https://open.spotify.com/album/5NQTTuuPJjCXIHrS3Jjgkv) | 1:43 | 2022-05-11 | 2023-10-05 |

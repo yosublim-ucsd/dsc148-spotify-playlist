@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 
 > Enjoy the JTBC drama 'Nevertheless,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '알고있지만'의 OST를 작중 대사와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,964 likes - 44 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,966 likes - 44 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 | 16 | [EP9\. Nevertheless, give me a last goodbye hug](https://open.spotify.com/track/3HE88QPiZ38vadFSq4D9dS) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nevertheless, \- Soundbytes from episodes](https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS) | 0:26 |
 | 17 | [Love, This](https://open.spotify.com/track/1FaHB2AIWGiStlMh4jS6QQ) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
 | 18 | [EP10\. Nevertheless, let's go out](https://open.spotify.com/track/4ohMpWkpUcf58uoxypvH8e) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nevertheless, \- Soundbytes from episodes](https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS) | 0:20 |
-| 19 | [Nevertheless](https://open.spotify.com/track/3GbDnsBtJM8M6ht5laDhmH) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
+| 19 | [Nevertheless](https://open.spotify.com/track/3GbDnsBtJM8M6ht5laDhmH) | [RIO](https://open.spotify.com/artist/0lrpGyoYIQ3llhwnJWreXY) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
 | 20 | [There's No Such Thing as Fate\. Nevertheless,](https://open.spotify.com/track/2jy3gijt1HkXowFLwrmtPY) | [Choe Jeong In](https://open.spotify.com/artist/3F6cVxPjYxxinah6vnYOWK) | [Nevertheless, \(Original Television Soundtrack\)](https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf) | 2:14 |
 | 21 | [It's Not Only Me\. Nevertheless,](https://open.spotify.com/track/0dloUneLHKWWHIAIFYhDcm) | [LIM MI HYUN](https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R) | [Nevertheless, \(Original Television Soundtrack\)](https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf) | 2:44 |
 | 22 | [It Has Already Begun\. Nevertheless,](https://open.spotify.com/track/4DyMBoGkrQTIt7cjYnumvP) | [Park Jung Eun](https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP) | [Nevertheless, \(Original Television Soundtrack\)](https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf) | 2:28 |
@@ -51,6 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 | 41 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
 | 42 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 | 43 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
-| 44 | [Nevertheless \- Instrumental](https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
+| 44 | [Nevertheless \- Instrumental](https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB) | [RIO](https://open.spotify.com/artist/0lrpGyoYIQ3llhwnJWreXY) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
 
 Snapshot ID: `ZIsP/gAAAAAxCiYkHvDMI23LVHyEi3qa`

@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-445 songs - 1 day 4 hr 19 min
+446 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [LIGHT IT UP](https://open.spotify.com/track/5fDMxAnUvFwVqIUPQjlGcV) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [LIGHT IT UP](https://open.spotify.com/album/3bdwPBIYg2JrDrMvKN5iUH) | 2:20 | 2024-08-12 | 2024-08-23 |
 | [Lights Out](https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Lights Out](https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m) | 2:33 | 2024-07-25 | 2024-08-13 |
 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 | 2024-07-25 | 2024-08-02 |
-| [Lonely Boy \- Radio Edit](https://open.spotify.com/track/0yoNW4nLQX8NaIyqgZkZWb) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy \(Radio Edit\)](https://open.spotify.com/album/4vnfTU5B6yTpUsedT6Jqgs) | 3:23 | 2025-01-27 |  |
+| [Lonely Boy](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 | 2025-02-06 |  |
+| [Lonely Boy \- Radio Edit](https://open.spotify.com/track/0yoNW4nLQX8NaIyqgZkZWb) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy \(Radio Edit\)](https://open.spotify.com/album/4vnfTU5B6yTpUsedT6Jqgs) | 3:23 | 2025-01-27 | 2025-02-13 |
 | [Lost in Chaos](https://open.spotify.com/track/06b25nBIIh9eEc3xQanUan) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Lost in Chaos](https://open.spotify.com/album/3ZU4vBH6aIJ5JvScEmmsOl) | 4:35 | 2023-10-05 | 2023-10-14 |
 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |
 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-13 | 2023-07-18 |

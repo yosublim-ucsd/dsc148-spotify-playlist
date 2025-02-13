@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-29",
-  "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Munjya",
+  "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Stree 2",
   "name": "Bollywood Dance Music",
   "tracks": [
     {
@@ -2729,6 +2729,32 @@
     },
     {
       "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani",
+        "url": "https://open.spotify.com/album/6FfXtcC6KsOTOO3GehQZ8x"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200568,
+      "name": "Heart Throb (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/5DmF6BrczaziIcPglsiAq8"
+    },
+    {
+      "album": {
         "name": "Indoo Ki Jawani",
         "url": "https://open.spotify.com/album/2FKfq70zO9Oa2ihti1I56D"
       },
@@ -3856,7 +3882,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 183000,
       "name": "Makhna - From \"Drive\"",
       "url": "https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE"

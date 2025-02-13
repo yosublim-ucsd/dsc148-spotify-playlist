@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: EST Gee
 
-1,068 songs - 2 day 1 hr 21 min
+1,069 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | [Perc & Sex 2](https://open.spotify.com/track/0Qchbh2Aacdxoj06AXycaY) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Perc & Sex 2](https://open.spotify.com/album/6S82A1LqlQ7Ue4gapN6LQ5) | 3:26 | 2024-12-27 | 2025-01-18 |
 | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/track/4qBRHPDCVYlJVVDD2qrPpH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/album/22eDXi43Cr695XthXqglIT) | 3:52 | 2024-01-26 | 2024-07-19 |
 | [Perfect Form Skub](https://open.spotify.com/track/4zZZkZ92eUCkmeVwzxMnnJ) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Perfect Form Skub](https://open.spotify.com/album/1g1dFDw1ctGtRHmeNS1RcY) | 3:08 | 2022-02-11 | 2022-03-18 |
-| [Permanent Ink](https://open.spotify.com/track/6bbmdST9CAAIBt252xjBPh) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Permanent Ink](https://open.spotify.com/album/5nPxQaMbEooBdz9t9HTrs8) | 2:25 | 2025-01-24 |  |
+| [Permanent Ink](https://open.spotify.com/track/6bbmdST9CAAIBt252xjBPh) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Permanent Ink](https://open.spotify.com/album/5nPxQaMbEooBdz9t9HTrs8) | 2:25 | 2025-01-24 | 2025-02-13 |
 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2022-03-11 | 2022-09-03 |
 | [Phil Jackson](https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:48 | 2023-07-14 | 2023-11-11 |
 | [PICK A SIDE \(feat\. EST Gee & Southside\)](https://open.spotify.com/track/7MaOwDy8D6jHWgs96XnSIk) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:42 | 2023-06-09 | 2023-08-26 |
@@ -1011,6 +1011,7 @@
 | [VENUS](https://open.spotify.com/track/2uozsmBhvnNaRIFNgOB0E0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VENUS](https://open.spotify.com/album/47A08e2HHoLNPnC80nxTae) | 3:16 | 2024-08-23 | 2024-08-27 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-04-04 | 2022-10-15 |
 | [WAIT A MINUTE](https://open.spotify.com/track/4MoYy077MFhf3q2RsBOhcN) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [WAIT A MINUTE](https://open.spotify.com/album/0KfYCcMAGKb0TiQULOnOS8) | 2:15 | 2022-02-11 | 2022-03-26 |
+| [walk em down](https://open.spotify.com/track/0lWT3Gp2l0qcpqc8R1RpmF) | [k3](https://open.spotify.com/artist/6FhM9cnSGHVmJ7qNLJndMx), [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC) | [walk em down](https://open.spotify.com/album/5deSIdVfrHTB3FMlGETH7c) | 2:48 | 2025-02-12 |  |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2021-12-03 | 2022-01-29 |
 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 | 2022-06-03 | 2022-10-15 |
 | [Watch](https://open.spotify.com/track/38mNgoRMYSdg2n8Tt98R8L) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Watch](https://open.spotify.com/album/6a1CNy5aFJske7Q8CF9Bh6) | 1:51 | 2022-08-19 | 2022-10-22 |

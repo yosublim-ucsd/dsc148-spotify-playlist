@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr?si=drKheNG4SBm9f\-GO445sGQ">Fitzy West</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz?si=ilpTcCoAQ6GEAx77fBxGyA">Kyla Blac</a>\. Artwork: Isu Kim.
 
 1,221 songs - 2 day 13 hr 4 min
 

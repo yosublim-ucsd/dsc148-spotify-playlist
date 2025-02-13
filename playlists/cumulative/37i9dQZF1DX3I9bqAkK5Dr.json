@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Love Bomb",
+        "url": "https://open.spotify.com/album/3UbURQIeb5W509prgJYV8Q"
+      },
+      "artists": [
+        {
+          "name": "Kavin Lavari",
+          "url": "https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144008,
+      "name": "Love Bomb",
+      "url": "https://open.spotify.com/track/7FWVeRGfC518qKs2ZFUq59"
+    },
+    {
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm"
       },
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 139471,
       "name": "Payanam",
       "url": "https://open.spotify.com/track/1sMlVMhCMFCsdBRDZ3UEmv"
@@ -5230,6 +5248,32 @@
       "duration_ms": 176094,
       "name": "Priyatama",
       "url": "https://open.spotify.com/track/31tg2XG4DzvSu2x2uUCAGp"
+    },
+    {
+      "album": {
+        "name": "Priyathama",
+        "url": "https://open.spotify.com/album/1mUvRuhQ12100SHnAotbiY"
+      },
+      "artists": [
+        {
+          "name": "Sunitha Upadrasta",
+          "url": "https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE"
+        },
+        {
+          "name": "RR Dhruvan",
+          "url": "https://open.spotify.com/artist/0u8CV5hMxYiKctbYRZy1aW"
+        },
+        {
+          "name": "Raghuram",
+          "url": "https://open.spotify.com/artist/7L5VvQ1WinT1TpMqpnfrbv"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241043,
+      "name": "Priyathama",
+      "url": "https://open.spotify.com/track/0k6jJMETRmI5vNUIsb9FVS"
     },
     {
       "album": {
@@ -6060,7 +6104,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 176824,
       "name": "Sukkalanti Pilla",
       "url": "https://open.spotify.com/track/5ju8QKjaAVfjUhScNSVJjD"
@@ -6957,6 +7001,24 @@
     },
     {
       "album": {
+        "name": "Vihari",
+        "url": "https://open.spotify.com/album/4ZcCcFycEipVUyLtALASyr"
+      },
+      "artists": [
+        {
+          "name": "C Shor",
+          "url": "https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186362,
+      "name": "Vihari",
+      "url": "https://open.spotify.com/track/2Wpnfxb1N9kX1YQqcwTKf3"
+    },
+    {
+      "album": {
         "name": "Vinabadena",
         "url": "https://open.spotify.com/album/3uywygrlPibb3GMkOrGMFA"
       },
@@ -7058,7 +7120,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 173988,
       "name": "Yedhalo",
       "url": "https://open.spotify.com/track/2DMqmP5HqmkmNcuVTK0KQx"

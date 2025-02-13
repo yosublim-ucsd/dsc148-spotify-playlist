@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,268 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,297 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 5 | [يحبك قلبي](https://open.spotify.com/track/5418ozmjWY7SLsRHfviqk1) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يحبك قلبي](https://open.spotify.com/album/3kqxJyn6LoM7rL3BUUpPbx) | 3:59 |
 | 6 | [المكان](https://open.spotify.com/track/3oH9oWDEhIadRjwGPcYCMp) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [المكان](https://open.spotify.com/album/72DhfPlDA1DO85lw5jYLnq) | 5:39 |
 | 7 | [بحر شوقك](https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [بحر شوقك](https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF) | 3:32 |
-| 8 | [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 |
-| 9 | [يا غريبة](https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [يا غريبة](https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo) | 7:43 |
-| 10 | [أجمل الحاضرين](https://open.spotify.com/track/1TJyLwBpYDb3XUX96jBn0m) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [أجمل الحاضرين](https://open.spotify.com/album/68ahwpxNs26XW5iZtdPk1g) | 4:06 |
+| 8 | [يا غريبة](https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [يا غريبة](https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo) | 7:43 |
+| 9 | [أجمل الحاضرين](https://open.spotify.com/track/1TJyLwBpYDb3XUX96jBn0m) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [أجمل الحاضرين](https://open.spotify.com/album/68ahwpxNs26XW5iZtdPk1g) | 4:06 |
+| 10 | [حبيب العمر](https://open.spotify.com/track/6YaCcGyn2KSgOSafdMn9kl) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [حبيب العمر](https://open.spotify.com/album/1Nf1CKfq5DCN92i3Ap9jrd) | 4:22 |
 | 11 | [Ma Gelt Lak](https://open.spotify.com/track/6Ppjr2AxQ9bnAJWPD7dgLk) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ma Gelt Lak](https://open.spotify.com/album/0ZoWLDnO4DKALWQXlKxAmX) | 3:19 |
 | 12 | [ما نسيتك](https://open.spotify.com/track/4Jl6YoYHy9qaVQff93CqOk) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [ما نسيتك](https://open.spotify.com/album/3Tp5wdUeLQYjjyUBy8CSpx) | 3:41 |
 | 13 | [حاجة جديده](https://open.spotify.com/track/5tdm3MX01qoLj5BvyzEO7i) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [حاجة جديده](https://open.spotify.com/album/3fajG53C3ssnpfQEbvzEN0) | 4:27 |
-| 14 | [حبيب العمر](https://open.spotify.com/track/6YaCcGyn2KSgOSafdMn9kl) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [حبيب العمر](https://open.spotify.com/album/1Nf1CKfq5DCN92i3Ap9jrd) | 4:22 |
+| 14 | [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 |
 | 15 | [طواري الشوق](https://open.spotify.com/track/27DHEesdJ58utI1NJ0vAwl) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [طواري الشوق](https://open.spotify.com/album/38XHNOo9c9Qg8SC3iryuzW) | 3:58 |
 | 16 | [رفرفي للعز](https://open.spotify.com/track/094Jh514FSCaW4RKKVr7KI) | [خالد المري](https://open.spotify.com/artist/7tB81yvQ3iMnxGUEjwIDqX) | [رفرفي للعز](https://open.spotify.com/album/5aqiFOhJPsmM3A60ZZJGhm) | 4:17 |
 | 17 | [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [Bdayat Shetaa](https://open.spotify.com/track/7IEG9EtW5Smb8IZ7No0Ogw) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs), [Sultan Ben Mreea](https://open.spotify.com/artist/0vmJ2z07MzXKYFAPEgQkcJ) | [Bdayat Shetaa](https://open.spotify.com/album/0LaGyEKQ0qZCeZDkuHRApu) | 3:53 |
 | 50 | [غلطة الشاطر](https://open.spotify.com/track/6El5OexIsYjjFVk7Y3PvGr) | [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [غلطة الشاطر](https://open.spotify.com/album/3BzAVIxiI5R6I3IzKgOtra) | 3:02 |
 
-Snapshot ID: `Z6m0fQAAAAAdS2ci16BEj3D6U+soFT4O`
+Snapshot ID: `Z6y2ZQAAAABnfrkpssv0NetD8f0pes2C`

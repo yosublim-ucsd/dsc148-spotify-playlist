@@ -4,7 +4,7 @@
 
 > 
 
-825 songs - 2 day 16 hr 58 min
+827 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 | 2020-07-23 |  |
 | [Acqua Minerale](https://open.spotify.com/track/4HDQijE0ZTtAM2kud3RUqM) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Fa Niente](https://open.spotify.com/album/45o0JtSekR90PAsU1X6cuS) | 3:48 | 2018-07-27 |  |
 | [Adome Nyueto](https://open.spotify.com/track/4JxUuQvXNpSWOZloyLpqVU) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/5geXl28rgMnrOjqvEgBBdi) | 5:26 | 2023-01-09 |  |
+| [Adome Nyueto](https://open.spotify.com/track/56q0Qovx0AZjocKjyNnKDm) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/3zUEkykK3sqOpdOPohc05W) | 5:26 | 2025-02-13 |  |
+| [Adome Nyueto \- Bosq Edit](https://open.spotify.com/track/3FLHEkgWc8p8L2nLCHyOwR) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Togo Soul 70](https://open.spotify.com/album/0xDHxhQYu9suFRiToCMDPk) | 8:12 | 2025-02-13 |  |
 | [Africa \(My No\. 1\)](https://open.spotify.com/track/4o3nPaw09L3mdIQIRRZi1q) | [General Ehi Duncan](https://open.spotify.com/artist/7AcVYXKD86pBTIEEEGpTge), [The Africa Army Express](https://open.spotify.com/artist/4I8C9PXQQUAgDtBvGAwfJs) | [Africa \(My No\. 1\)](https://open.spotify.com/album/6XqRp5lQzxHTkJnCyPQGWO) | 5:29 | 2023-01-23 |  |
 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 | 2020-07-13 |  |
 | [Afro Beat Blues](https://open.spotify.com/track/4xclRUqjOM5HMzDZQyRaPo) | [Ojah](https://open.spotify.com/artist/4BlnK8TML5QzxndhXN2NeJ), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 6:48 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,527,525 likes - 100 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,530,590 likes - 100 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 87 | [MONTAGEM BOTA HIPNOSIS 1.0](https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo) | [S4nri0](https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8) | [MONTAGEM BOTA HIPNOSIS 1.0](https://open.spotify.com/album/6q0JueIHwfwOyjSe4stHwX) | 1:28 |
 | 88 | [BLOODY BRAZIL \(Slowed\)](https://open.spotify.com/track/4CRd36RVExznLuyj7SOQmz) | [TENZOO](https://open.spotify.com/artist/4MT1nqv9uda3Z6d8ycM3xl) | [BLOODY BRAZIL \(Slowed\)](https://open.spotify.com/album/0J4MthqeDLd1vVhLRYlE0A) | 2:01 |
 | 89 | [MONTAGEM \- MELODIA ENVOLVENTE 4](https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm) | [DJ Dudah](https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr), [MC Vuiziki](https://open.spotify.com/artist/1ZpSaxWCRK3n77MzhFVD3T), [MC Da 12](https://open.spotify.com/artist/2ge1WtiBqengw0nAnq94Zo) | [MONTAGEM \- MELODIA ENVOLVENTE 4 \(Remixes\)](https://open.spotify.com/album/3YHtUENBFs9vZujcOCt1dP) | 4:10 |
-| 90 | [z\-alpha 2](https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [SoulFusi](https://open.spotify.com/artist/1WptJcbTMCn53nGP8HMAg2), [WXRTNAX](https://open.spotify.com/artist/2Ytgz8jqYULfKBtQCNrihy), [MC LyC4N](https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz) | [z\-alpha 2](https://open.spotify.com/album/2H5ysZmO4OKxPPRQKDJZDK) | 1:13 |
+| 90 | [z\-alpha 2](https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1) | [qaraqshy](https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9), [SoulFusi](https://open.spotify.com/artist/1WptJcbTMCn53nGP8HMAg2), [WXRTNAX](https://open.spotify.com/artist/2Ytgz8jqYULfKBtQCNrihy), [MC LyC4N](https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz) | [z\-alpha 2](https://open.spotify.com/album/2H5ysZmO4OKxPPRQKDJZDK) | 1:15 |
 | 91 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 92 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 |
 | 93 | [Montagem Sonic Ritmado 1.0 \(Super Slowed\)](https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n) | [Montagem Sonic Ritmado 1.0 \(Super Slowed\)](https://open.spotify.com/album/03GXBC2T6YdaBZo754wYlH) | 1:49 |

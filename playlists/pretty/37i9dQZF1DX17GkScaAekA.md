@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,159 likes - 91 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,461 likes - 91 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 56 | [La passante du Sans\-Souci](https://open.spotify.com/track/0VgsJeslY176suMw8tZgou) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [Duncan Ward](https://open.spotify.com/artist/39WxITwf1epxevcYQ4DbF1) | [La passante du Sans\-Souci](https://open.spotify.com/album/5U3Q1jD2WhzAqOjEbK0yog) | 4:20 |
 | 57 | [Cantata, BWV 159: Es ist vollbracht \(Arr\. Ólafsson for Piano\)](https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Cantata, BWV 159: Es ist vollbracht \(Arr\. Ólafsson for Piano\)](https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8) | 4:28 |
 | 58 | [La catedral: I\. Preludio \(Saudade\)](https://open.spotify.com/track/1N1zNKs5kVMIAzDDt6Thwc) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Profesión](https://open.spotify.com/album/0dyXdhgy1xBPqk97JzFz8J) | 1:59 |
-| 59 | [Sonata in D Minor, K\. 9](https://open.spotify.com/track/3N7GpFlh7BkEftNaEmJjnU) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Ivo Pogorelich](https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r) | [Scarlatti, D.: Sonatas](https://open.spotify.com/album/7FOA2fqAs4VlZKGxLtuYKo) | 4:14 |
+| 59 | [Keyboard Sonata in D Minor, Kk\. 9](https://open.spotify.com/track/3N7GpFlh7BkEftNaEmJjnU) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Ivo Pogorelich](https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r) | [Scarlatti, D.: Sonatas](https://open.spotify.com/album/7FOA2fqAs4VlZKGxLtuYKo) | 4:14 |
 | 60 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 |
 | 61 | [Requiem, Op\. 48:IV\. Pie Jesu \(Arr\. for Piano\)](https://open.spotify.com/track/4PpPfjRNDzPD0A6A5xgu0z) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Fauré: Requiem op\. 48 \(in a new version for piano\)](https://open.spotify.com/album/1gRfCVWCeB8VOKYmZ5JMOM) | 3:09 |
 | 62 | [Einaudi: Una mattina](https://open.spotify.com/track/3I26MLXZxlXnRnta6CKC9A) | [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq) | [Emotions \- Einaudi: Una mattina](https://open.spotify.com/album/5qurLB4HSufAFQVEQVHMPD) | 3:10 |

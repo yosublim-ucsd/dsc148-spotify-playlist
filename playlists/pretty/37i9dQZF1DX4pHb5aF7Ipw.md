@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Nava Hip\-Hop Punjabi! Cover: Sultaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,011 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,031 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 10 | [Laal Suha Rang](https://open.spotify.com/track/7rWw4eguIc5TZGCfKZ1rFn) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Laal Suha Rang](https://open.spotify.com/album/4222Ueib10aOn12baqR1as) | 2:06 |
 | 11 | [Far Away](https://open.spotify.com/track/3xMNg7xrFbQbvOhjHHEboW) | [Mizaaj](https://open.spotify.com/artist/5USe0Ic3MmLhBsd8861tz9), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Far Away](https://open.spotify.com/album/6hClYdDz7k71kgbUWxXtIq) | 2:33 |
 | 12 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 |
-| 13 | [Tohar](https://open.spotify.com/track/1h4kPrSOTcG2LWa904bgHP) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Avi Sohal](https://open.spotify.com/artist/47BPD2xZRf1kL2bMylsydP) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:18 |
+| 13 | [Tohar](https://open.spotify.com/track/1h4kPrSOTcG2LWa904bgHP) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Avi $ohal](https://open.spotify.com/artist/7dSFA9gmFQMjp9TBjB96oW) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:18 |
 | 14 | [Kaali Cullinan](https://open.spotify.com/track/3Wq1tTcKBQvs9TWFIkuRph) | [Yuvan](https://open.spotify.com/artist/2gFzNJG4d7qAEh3z8E5qdt), [Gurbaj](https://open.spotify.com/artist/4xofDh7I2jhxoQBpZpRsgP), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ), [Mb](https://open.spotify.com/artist/0guYBWbXPLtZ8mP4soCVan) | [TRUST THE PROCESS](https://open.spotify.com/album/7KWHTXHfy0gsyYAnn37p1P) | 2:35 |
 | 15 | [HUNDO \(feat\. Mxrci\)](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [HUNDO \(feat\. Mxrci\)](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 |
 | 16 | [Kaim](https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 3:03 |

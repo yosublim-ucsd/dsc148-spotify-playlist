@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,168 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,221 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 47 | [Mohamed rassoloullah](https://open.spotify.com/track/0OrNSB9ojwjENkA1ISYpHa) | [El Qarawiyine](https://open.spotify.com/artist/4E8Q8I9WtnkVJoKteCiiO7) | [Amdah nabawiya](https://open.spotify.com/album/3JMbdymKtjbegIQg1NeH2P) | 2:21 |
 | 48 | [Ya Rabb](https://open.spotify.com/track/7xuZ1Msjft0METU2vH54kb) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [The Best of Islamic Music Vol\. 2](https://open.spotify.com/album/1pDnHdMzxKhuvLTa2zTVMS) | 4:02 |
 | 49 | [You Came to Me \- Arabic](https://open.spotify.com/track/0ufRKgpHvlP0676HyqSpKb) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Wherever You Are](https://open.spotify.com/album/1WUFPPcISy76XSVtd4FSv4) | 4:06 |
-| 50 | [Fi Hadret El Naby](https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Fi Hadret Al Mahboob](https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf) | 2:57 |
-| 51 | [Ya Rabb Al’Alameen](https://open.spotify.com/track/02XdUSgfNByXXFZTPBW6ls) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Ya Rabb Al’Alameen](https://open.spotify.com/album/4iRWyReYqefiqGmMKoLkEs) | 3:26 |
+| 50 | [Ya Rabb Al’Alameen](https://open.spotify.com/track/02XdUSgfNByXXFZTPBW6ls) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Ya Rabb Al’Alameen](https://open.spotify.com/album/4iRWyReYqefiqGmMKoLkEs) | 3:26 |
+| 51 | [Fi Hadret El Naby](https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Fi Hadret Al Mahboob](https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf) | 2:57 |
 | 52 | [Elahy Abdak El Gany Atak](https://open.spotify.com/track/2fJr6YkAVZ2aju0JWFfHhw) | [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh) | [Elahy Abdak El Gany Atak](https://open.spotify.com/album/3dDL9hAv485tAoPa8CofPw) | 2:46 |
 | 53 | [Ataytu Bithanbi](https://open.spotify.com/track/0NWzI9YBJ3NJmXNED7rvzV) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Tabassam \(Smile\)](https://open.spotify.com/album/1s74QxYKwV1cKvikzveTMq) | 5:08 |
 | 54 | [هل هلالك يا رمضان](https://open.spotify.com/track/1QW644IFwYjUP46aS7Dik3) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [هل هلالك يا رمضان](https://open.spotify.com/album/7Ezl1DqSaOvXKUkbdFcgP5) | 1:28 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 63 | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/track/0ZDaoSIv3UViwpWHmuSUkM) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Khair AlAhilla \(Ramadan\)](https://open.spotify.com/album/10eFFOwl2qU2AhiTaGNQdT) | 1:27 |
 | 64 | [Mohamed](https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj) | [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Mohamed](https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB) | 6:58 |
 | 65 | [Hadul El\-Quran](https://open.spotify.com/track/37i5M2dPXF44z745r0HDEz) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Hadul El\-Quran](https://open.spotify.com/album/4mUAz2Gmtcg4gJM7TPpCtl) | 3:19 |
-| 66 | [Amenah](https://open.spotify.com/track/3Z13VsGFiW2NdDZj4Kh5YG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Al Hekayah Mohammadeyah](https://open.spotify.com/album/4dKqpCMQN27CbAXeP2uTV7) | 3:28 |
+| 66 | [Ramadan](https://open.spotify.com/track/2xvkYM2tGvWGokviBGG4PJ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ramadan](https://open.spotify.com/album/4arEPsmYRq7TthYzMo8kbQ) | 3:16 |
 | 67 | [Allah Akbar Kabiran](https://open.spotify.com/track/3cs1zIbg2NhspqwRiOiBrZ) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Anechid Al Rouh](https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA) | 1:31 |
-| 68 | [Meshwar Aldonia](https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Meshwar Aldonia](https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu) | 3:20 |
-| 69 | [Ramadan](https://open.spotify.com/track/2xvkYM2tGvWGokviBGG4PJ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ramadan](https://open.spotify.com/album/4arEPsmYRq7TthYzMo8kbQ) | 3:16 |
+| 68 | [Amenah](https://open.spotify.com/track/3Z13VsGFiW2NdDZj4Kh5YG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Al Hekayah Mohammadeyah](https://open.spotify.com/album/4dKqpCMQN27CbAXeP2uTV7) | 3:28 |
+| 69 | [Meshwar Aldonia](https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Meshwar Aldonia](https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu) | 3:20 |
 | 70 | [Ya Rab](https://open.spotify.com/track/6B4wIfzGB0yT0agpvIVhf4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Hamada Helal Collection](https://open.spotify.com/album/3X7CyGVcbSUGO0yN5aB0sL) | 4:48 |
 | 71 | [Ala Tatafakron](https://open.spotify.com/track/03JZ24r3awWpKZED5dFNB6) | [Ahmed Burhan](https://open.spotify.com/artist/7Lbjz4JoUYXlnfN9knP8L7) | [Ala Tatafakron](https://open.spotify.com/album/3Yqzyju8x2QCqU2NfPgk9Y) | 2:21 |
 | 72 | [Salat wa salam](https://open.spotify.com/track/61GqGt76bvqd8bY8gfc2kH) | [Groupe Al\-Houda](https://open.spotify.com/artist/5s22ybIc4xM351P4bepras) | [Soiree mystique andalouse \- Chants religieux \- Inchad \- Quran \- Coran](https://open.spotify.com/album/5eYlEogdqjUUrQnOFT0pKj) | 1:03 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 76 | [Asmaa Allah Alhusna \(The 99 Names\)](https://open.spotify.com/track/3WoaMZUO8VF4SsnV3fq5Ag) | [Mohamed Youssef](https://open.spotify.com/artist/1A7mFjUo6M3UjioPLzUgv4) | [Asmaa Allah Alhusna \(The 99 Names\)](https://open.spotify.com/album/4AicowGv8n5dGkEPnwq5SQ) | 3:20 |
 | 77 | [Kullo Al Qoloub](https://open.spotify.com/track/6jFuWfc79CIl8qJ2c5H2dv) | [Ali Obaid](https://open.spotify.com/artist/7aTm3afum41mj0prYWFnbW) | [Ata Ramadan](https://open.spotify.com/album/4McA4ZK2aLrXL8ALUUDFgR) | 1:17 |
 | 78 | [Alemny](https://open.spotify.com/track/7v3UnYvpPEU0CJfdxdE2Em) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alemny](https://open.spotify.com/album/4K5zAboLn1n67RdpzEH6Gq) | 1:46 |
-| 79 | [ياسيداً](https://open.spotify.com/track/7avYYI2ybJtDDoDGd3MWmK) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ياسيداً](https://open.spotify.com/album/0pBnc5eARWTFRDXHV2AeY8) | 4:41 |
-| 80 | [Alem Belolob](https://open.spotify.com/track/6Syx7Efsg2UHyzT6YpzPm9) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Alem Belolob](https://open.spotify.com/album/6qCKwAogbUb9ExdVr7VCbO) | 2:02 |
-| 81 | [Laylatou El Kadr](https://open.spotify.com/track/2pPu0dRgdUR3t8WvtAUXEc) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Anechid Al Rouh](https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA) | 2:14 |
+| 79 | [Alem Belolob](https://open.spotify.com/track/6Syx7Efsg2UHyzT6YpzPm9) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Alem Belolob](https://open.spotify.com/album/6qCKwAogbUb9ExdVr7VCbO) | 2:02 |
+| 80 | [ياسيداً](https://open.spotify.com/track/7avYYI2ybJtDDoDGd3MWmK) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ياسيداً](https://open.spotify.com/album/0pBnc5eARWTFRDXHV2AeY8) | 4:41 |
+| 81 | [Ya Ramdan](https://open.spotify.com/track/4XM3uxOhlGCFrhbow0yNNu) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Ramdan](https://open.spotify.com/album/6dbCPasbAqf5RPHABG76XD) | 4:16 |
 | 82 | [الله يالله](https://open.spotify.com/track/1Hu5Sz7RwYCEiwOfOnb2Sl) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [الله يالله](https://open.spotify.com/album/2bl9q3lmc69MeyLFwNhAJi) | 4:26 |
-| 83 | [Ya Ramdan](https://open.spotify.com/track/4XM3uxOhlGCFrhbow0yNNu) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Ramdan](https://open.spotify.com/album/6dbCPasbAqf5RPHABG76XD) | 4:16 |
+| 83 | [Laylatou El Kadr](https://open.spotify.com/track/2pPu0dRgdUR3t8WvtAUXEc) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Anechid Al Rouh](https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA) | 2:14 |
 | 84 | [حب الله](https://open.spotify.com/track/6qrw0nMF6lyxfgCBfNR9nu) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [حب الله](https://open.spotify.com/album/49HWo0yoOTxqJhbfHc7Q7S) | 3:40 |
 | 85 | [Anta Alazeem](https://open.spotify.com/track/6bPt9NyH2R6KKVDPka8VeZ) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Anta Alazeem](https://open.spotify.com/album/0PHQ73wgsVOWpC52RmVjTw) | 1:58 |
 | 86 | [Sobhanak](https://open.spotify.com/track/0ITQTpYV1ITZXotaUz7fNs) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs) | [Sobhanak](https://open.spotify.com/album/27CvW6MmQ4JZYMZAP098IQ) | 4:52 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 94 | [Shahr Ramadan](https://open.spotify.com/track/0U7GXZWcOpEe2GO3UFn78G) | [Mahmoud Helal](https://open.spotify.com/artist/1tYUfln3Asufbuh3dCrIDE) | [Adaeya Pt\. 1](https://open.spotify.com/album/6OcbPtpIIVpV4U9lrpTEuj) | 4:04 |
 | 95 | [Ya Rab Ba7a2 El2yam di](https://open.spotify.com/track/10loPIw9ZP601FgYHQfcWu) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ya Rab Ba7a2 El2yam di](https://open.spotify.com/album/4gRkW1GNVoEO96lTZKgaVs) | 2:05 |
 | 96 | [Al meshratie](https://open.spotify.com/track/53gBFmbeysqMBXdo0nNo0y) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Al meshratie](https://open.spotify.com/album/1QkHO81bSJD1KKHx2vTEWn) | 5:42 |
-| 97 | [Hanen Alena Ya Rab](https://open.spotify.com/track/2zQtX0AL8stVNw3tMcHY51) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC), [Amany](https://open.spotify.com/artist/1BduYVz5NAQzEGofQ4cWKZ) | [Hanen Alena Ya Rab](https://open.spotify.com/album/6fmZ5xg1bq1TZ1CyvPCoic) | 2:19 |
-| 98 | [اهديني](https://open.spotify.com/track/3vHSE1pwr3biAxobBF6tnN) | [Shimaa Shreif](https://open.spotify.com/artist/4yiBDuLDMJPNLNEESoO9mw) | [اهديني](https://open.spotify.com/album/4BcKkyQ1RnkgJMm5ivUUX3) | 2:02 |
+| 97 | [اهديني](https://open.spotify.com/track/3vHSE1pwr3biAxobBF6tnN) | [Shimaa Shreif](https://open.spotify.com/artist/4yiBDuLDMJPNLNEESoO9mw) | [اهديني](https://open.spotify.com/album/4BcKkyQ1RnkgJMm5ivUUX3) | 2:02 |
+| 98 | [Hanen Alena Ya Rab](https://open.spotify.com/track/2zQtX0AL8stVNw3tMcHY51) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC), [Amany](https://open.spotify.com/artist/1BduYVz5NAQzEGofQ4cWKZ) | [Hanen Alena Ya Rab](https://open.spotify.com/album/6fmZ5xg1bq1TZ1CyvPCoic) | 2:19 |
 | 99 | [مفيش غيرك احن يارب](https://open.spotify.com/track/7oYnLRqYvPnnQRElg6XY2j) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [مفيش غيرك احن يارب](https://open.spotify.com/album/4JH9w7bp3W2Iba6T7umPxS) | 2:37 |
 | 100 | [Rahman W Raheem](https://open.spotify.com/track/5umn164iPgwAJyYICjliDS) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Rahman W Raheem](https://open.spotify.com/album/2jiAWcfvBTcW1a4AyYLnCw) | 4:06 |
 

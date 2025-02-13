@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,992 likes - 83 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,006 likes - 83 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 48 | [LV MURAKAMI](https://open.spotify.com/track/0ZEp1lVKpsPJPRDrpo8qSj) | [MNNK Bro.](https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo), [Takashi Murakami](https://open.spotify.com/artist/6xK6GVtxgOqZu4sU10JARf), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [LV MURAKAMI](https://open.spotify.com/album/697cdskVog1FZdGOOTzDKy) | 2:44 |
 | 49 | [Hood](https://open.spotify.com/track/5ek3rLx6ZIPIr0lOidip61) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [STUDY GROUP \(Music from the Tving Original Series\), Pt\. 3](https://open.spotify.com/album/3HVqaIvha7is2lMa5ZzTzv) | 3:07 |
 | 50 | [All About You](https://open.spotify.com/track/4YpSR0WIqDz8x4AzDdxIKG) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7) | [Sorry Not Sorry OST Part 4](https://open.spotify.com/album/5lY44tiNLH1bSZP0N3On78) | 3:10 |
-| 51 | [Nanti Pulangnya Ke Aku, Ya?](https://open.spotify.com/track/47utTzMgwJOofqQqLwzCVw) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ) | 3:46 |
+| 51 | [Nanti pulangnya ke aku, ya?](https://open.spotify.com/track/47utTzMgwJOofqQqLwzCVw) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/39IaRLA134hrYXx37UA5GQ) | 3:46 |
 | 52 | [اورڠ كامڤوڠ](https://open.spotify.com/track/4OmRN51CejWxXMKewtprtM) | [Let Zapin](https://open.spotify.com/artist/7r0zo9kLQqY15seZ8mbvJh), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Jati Diri](https://open.spotify.com/album/4Bz433aZuBpQJsePr9QvTZ) | 3:24 |
 | 53 | [Seribu Tahun Lagi](https://open.spotify.com/track/1RKXxb95nvXtM7EQ6WtPmG) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Seribu Tahun Lagi](https://open.spotify.com/album/3zN8nN9moCS4xIGcGqTmMV) | 4:22 |
 | 54 | [Melopong \(feat\. Bunga\)](https://open.spotify.com/track/1NRL8GXxCFd2NJF1pv3v7l) | [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Melopong \(feat\. Bunga\)](https://open.spotify.com/album/61cRiiNUTeQvYvdBrNwlDK) | 3:01 |

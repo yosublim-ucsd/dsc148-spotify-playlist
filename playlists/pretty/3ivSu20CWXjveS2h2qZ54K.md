@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,710 likes - 88 songs - 4 hr 56 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,708 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 62 | [cómo salir](https://open.spotify.com/track/0F8yvsBPJDFRqkW241Y603) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [cómo salir](https://open.spotify.com/album/01aCVOkEQ4IOzqec9sZHV4) | 3:18 |
 | 63 | [HOUSEBROKEN VAR\. IV](https://open.spotify.com/track/3XF5lqWDTznSnOKc1xqfQN) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [HOUSEBROKEN VAR\. IV](https://open.spotify.com/album/2rHLtJgxqypjF7UJUKFle1) | 2:08 |
 | 64 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
-| 65 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:35 |
+| 65 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:32 |
 | 66 | [Underground](https://open.spotify.com/track/5qDdRsitKx5FE9RadaLAmx) | [Kinara](https://open.spotify.com/artist/3m3htXTs226gOEiAwiP6hd), [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [Underground](https://open.spotify.com/album/7zCEq7JmzDrfASAEmVs2Z1) | 2:27 |
 | 67 | [Cumulonimbus](https://open.spotify.com/track/2qkbQUH772cH13UTe6CEIh) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Cumulonimbus](https://open.spotify.com/album/02wpdszIZbxhK5fJrYfi2n) | 4:01 |
 | 68 | [Mamipuladora](https://open.spotify.com/track/5QghOReCdRE2nKdT9Mrqky) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [aka luigi](https://open.spotify.com/artist/7uQTy04qRnbl67Eejvs7vC) | [Mamipuladora](https://open.spotify.com/album/7o4MRkYTKC6UyDM1qv4pFK) | 2:25 |

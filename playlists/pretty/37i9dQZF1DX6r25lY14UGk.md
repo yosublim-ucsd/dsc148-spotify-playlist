@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,157 likes - 332 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,411 likes - 332 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 143 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/4JTJlhiVJKs3rFi22v66yZ) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [Me and Julio Down by the Schoolyard](https://open.spotify.com/album/1wwygt8wXs4jrBQ0a93zdV) | 2:13 |
 | 144 | [Marshmallow](https://open.spotify.com/track/6GM2N6NnjeRwBq3ElKgkvF) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle and Learn: 100 Educational Songs for Children](https://open.spotify.com/album/3OF13nG2NafIlsVk90770I) | 1:59 |
 | 145 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MILLION DOLLAR BABY](https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K) | 2:35 |
-| 146 | [The Nursery Rhyme Rehearsal](https://open.spotify.com/track/1F6WI8YKG1Ri11IzxdYDep) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane: The Nursery Rhyme Musical](https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx) | 2:51 |
+| 146 | [The Nursery Rhyme Rehearsal \- Songs From the Netflix Series](https://open.spotify.com/track/1F6WI8YKG1Ri11IzxdYDep) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane, Vol\. 3 \(Songs From the Netflix Series\)](https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx) | 2:51 |
 | 147 | [Come Out Feelings](https://open.spotify.com/track/74aZbvaPLZhlHJhnFaFqnR) | [Miss Katie Sings](https://open.spotify.com/artist/0eaRnbfMCxjbORTx34afUP) | [Just the Way You Are](https://open.spotify.com/album/0RXlviCffVBHnzBbSeklSi) | 2:43 |
 | 148 | [Jump in the Ball Pit!](https://open.spotify.com/track/3P5tUFnGfDMqKCJxTTUCjx) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Jump in the Ball Pit!](https://open.spotify.com/album/2cp12mlZpLeaLhaUwMTQQG) | 2:08 |
 | 149 | [Muddy Puddle Party](https://open.spotify.com/track/4EiBbDwWGUFsBJnAo6RikV) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Party! The Deluxe Album](https://open.spotify.com/album/5E5mXcVjNZ3QmMlPFXPwXC) | 2:46 |

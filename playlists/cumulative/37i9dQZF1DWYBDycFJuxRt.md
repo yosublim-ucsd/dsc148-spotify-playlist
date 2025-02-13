@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 斉藤和義 \*👉 <a href="https://spice.eplus.jp/articles/335384">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 斉藤和義 \*👉 <a href="https://spice.eplus.jp/articles/335552">SPICE連動記事</a>をSPICEでチェック!
 
-9,491 songs - 24 day 14 hr 18 min
+9,494 songs - 24 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [2025/1/22 ONE OK ROCKがカバー！米津玄師、Mrs\. GREEN APPLE、羊文学も新曲をリリース！星街すいせいのニューアルバムやEarly NoiseアーティストのレトロリロンのニューEPもピックアップ！](https://open.spotify.com/episode/3AuKRiTbfdH0PYhQI9CjBi) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:34 | 2025-01-22 | 2025-01-29 |
 | [2025/1/29 星野源がカバー！Omoinotakeのインタビューも到着！ニューEPをリリースした4s4ki、SKY\-HIの新曲もピックアップ！！](https://open.spotify.com/episode/4VF0JEXHVJ5ojW2mcmo0i8) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 47:21 | 2025-01-29 | 2025-02-05 |
 | [2025/1/8 tuki.がファーストアルバムをリリースしてカバーに！あっこゴリラの6年ぶりのアルバムも！マカロニえんぴつ、Awich、OKAMOTO’Sの新曲もピックアップ！Kvi Babaからメッセージも到着！](https://open.spotify.com/episode/37m1RyRlEnXWirNyg8SPSr) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:22 | 2025-01-08 | 2025-01-15 |
+| [2025/2/12 斉藤和義がカバー！YZERRの1stアルバムや唾奇の新曲も！Early Noiseアーティストブランデー戦記の新曲や、『第59回NFLスーパーボウル』のパフォーマンスに合わせてリリースされたSZAの楽曲もピックアップ！](https://open.spotify.com/episode/1vAoqJPileEKMdDVx4h4hs) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:57 | 2025-02-12 |  |
 | [2025/2/5 Creepy Nutsがカバー！『No No Girls』から誕生したHANA、Early NoiseアーティストLavtの新曲も！ハルカミライのニューアルバム、日食なつこの新曲もピックアップ！BOYNEXTDOORからメッセージも到着！](https://open.spotify.com/episode/5nrxle7946p4Hj07OSSVsk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:12 | 2025-02-05 | 2025-02-12 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
@@ -2052,6 +2053,7 @@
 | [gloom](https://open.spotify.com/track/1YfSPVzvMbVvnsL1Q2tUKR) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [about me](https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2) | 3:19 | 2024-05-28 | 2024-06-05 |
 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 | 2023-11-07 | 2023-11-16 |
 | [GLORY](https://open.spotify.com/track/2ElIOMmJFVGE2l4rZsRjsy) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [GLORY](https://open.spotify.com/album/2yF7hXYwvJiV27KWSUUcMl) | 3:48 | 2024-07-23 | 2024-07-31 |
+| [Glossolalia](https://open.spotify.com/track/0e3M8id1IbLwmh9GbqmyGD) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Glossolalia](https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2) | 4:19 | 2025-02-12 |  |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2024-07-17 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-14 | 2023-02-22 |
 | [GO](https://open.spotify.com/track/1Ui54Whd5iCFbpdkFwdFae) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [GO](https://open.spotify.com/album/4NVFXN8Hzc53QPggvt7Hb3) | 3:16 | 2023-04-25 | 2023-05-03 |
@@ -5178,6 +5180,7 @@
 | [Strawberry Night \- Prod\. by ESME MORI](https://open.spotify.com/track/1AzxWcwgz45ZSn7Iqd7gIc) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [RUNWAY](https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj) | 3:18 | 2023-09-05 | 2023-09-13 |
 | [Street Princess](https://open.spotify.com/track/0cYmeHq9kiCIvbatYNCmMK) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:42 | 2024-11-13 | 2024-11-20 |
 | [Streets is Calling \(feat\. M.anifest & Moonchild Sanelly\) \- Single Edit](https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets Is Calling \(feat\. Moonchild Sanelly & M.anifest\)](https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL) | 2:32 | 2024-09-04 | 2024-09-11 |
+| [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 | 2025-02-12 |  |
 | [Stroll](https://open.spotify.com/track/428eWALjHVycOSHsnJhzFS) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Stroll](https://open.spotify.com/album/6gx4zwwGU4gNHkDbPauEAY) | 3:49 | 2024-10-09 | 2024-10-16 |
 | [Stroller](https://open.spotify.com/track/0ZyWtuClEQAEvNKOia81Qq) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Stroller](https://open.spotify.com/album/1ZG1F37isbdvG3PX6SQxuH) | 3:24 | 2024-06-18 | 2024-06-26 |
 | [Strong Body and Rich Future of Macho Minimal Fairy](https://open.spotify.com/track/5QSMYpWm1klasdBZYQCox7) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Strong Body and Rich Future of Macho Minimal Fairy](https://open.spotify.com/album/4PcS8cnvWSb02xrUIX7tWz) | 2:30 | 2024-08-20 | 2024-08-28 |

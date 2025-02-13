@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> ASH ISLAND\)
 
-1,453 songs - 3 day 7 hr 0 min
+1,454 songs - 3 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Burn](https://open.spotify.com/track/1XcedEIfAAVwV6RS0iDuOj) | [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [RAP:PUBLIC Episode.2](https://open.spotify.com/album/2EnJRg31hBB44HTbl7MpA4) | 4:17 | 2024-12-04 |  |
 | [Burn Up \(Feat\. Dynamicduo\) \(Prod\. R.Tee\)](https://open.spotify.com/track/6tQEQqw6LInoszJ1k19v8k) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:18 | 2022-12-19 | 2023-07-18 |
 | [Burning slow](https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP) | [Burning slow](https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5) | 2:48 | 2025-02-10 |  |
+| [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 | 2025-02-12 |  |
 | [bury\. \(Feat\. SOLE\)](https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [bury.](https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq) | 3:16 | 2023-11-21 | 2024-03-09 |
 | [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 | 2022-08-20 | 2023-03-01 |
 | [By accident \(Feat\. Mesani, Nucksal\)](https://open.spotify.com/track/0AJ42CWDhQyyVDA5DWHCVx) | [Conda](https://open.spotify.com/artist/5JmsoI6wkkNkgJDsMheitH), [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Where is my Invitation?](https://open.spotify.com/album/6jzwFZGiLUsT6rSI9tZLtW) | 3:02 | 2023-01-10 | 2023-07-18 |

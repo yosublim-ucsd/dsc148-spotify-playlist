@@ -1138,6 +1138,24 @@
     {
       "album": {
         "name": "Channa",
+        "url": "https://open.spotify.com/album/2m2aMdLgZ9rsin4X22kB9t"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Channa",
+      "url": "https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N"
+    },
+    {
+      "album": {
+        "name": "Channa",
         "url": "https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx"
       },
       "artists": [
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 161232,
       "name": "In Love",
       "url": "https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H"
@@ -4406,6 +4424,24 @@
     {
       "album": {
         "name": "Over You",
+        "url": "https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v"
+    },
+    {
+      "album": {
+        "name": "Over You",
         "url": "https://open.spotify.com/album/4qzK6pkjG3mO9AUz1Z7SQT"
       },
       "artists": [
@@ -4634,6 +4670,36 @@
       "duration_ms": 237750,
       "name": "Patakay",
       "url": "https://open.spotify.com/track/2UB5xkPwY3Y2tVD0GbIccf"
+    },
+    {
+      "album": {
+        "name": "Pehla Nasha 2.0",
+        "url": "https://open.spotify.com/album/5E1pfbUzq4MSsq4nRQ00Jh"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247808,
+      "name": "Pehla Nasha 2.0",
+      "url": "https://open.spotify.com/track/2p5ETiuOn33KxupCfJyXLi"
     },
     {
       "album": {
@@ -5450,7 +5516,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 137518,
       "name": "Stormrider",
       "url": "https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji"
@@ -5932,7 +5998,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 224518,
       "name": "Tujhe Kaise, Pata Na Chala",
       "url": "https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm"

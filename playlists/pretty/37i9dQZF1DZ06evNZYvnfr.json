@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3746,
+  "num_followers": 3751,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z6lBgAAAAABkydNeDRQYTLVpn3QxQaHo",
+  "snapshot_id": "Z6qTAAAAAADVWHOMeMTC0kM2dQ9Z4Y72",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 202410,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Story I Tell",
-      "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 223883,
       "name": "You Make Sense",
       "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Story I Tell",
+      "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Last",
-      "url": "https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 166623,
       "name": "Headed for the Mountain (feat. Phil King)",
       "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Last",
+      "url": "https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Bless the Broken Road",
-        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229343,
       "name": "The Warrior",
       "url": "https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Bless the Broken Road",
+        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
     },
     {
       "added_at": null,

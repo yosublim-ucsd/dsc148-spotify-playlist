@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-903 songs - 1 day 16 hr 0 min
+905 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Heartless](https://open.spotify.com/track/51ITAzwCbIhNeRZe7d312g) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Heartless](https://open.spotify.com/album/6BLqtIoIwEQwdwmPWVXVZ6) | 2:36 | 2024-04-12 | 2024-09-10 |
 | [Heat Waves](https://open.spotify.com/track/6BoLWqWVSzgXuJjnbIHfAD) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Heat Waves](https://open.spotify.com/album/5vnfsifQQKO7LAbTyxup7b) | 3:24 | 2024-06-28 | 2024-08-10 |
 | [Heathens](https://open.spotify.com/track/2RVwR8YVyDasUY73Z30czb) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Heathens](https://open.spotify.com/album/13LKgwPsZm5lHGBqiHtuT1) | 2:37 | 2024-07-12 | 2024-08-10 |
+| [Her Eyes](https://open.spotify.com/track/2R1gWX63XdzbAccdDuADT0) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0S1R1lBQWa3G7Icz5Mvh3c) | 3:35 | 2025-02-12 |  |
 | [Hera](https://open.spotify.com/track/7dDxrrzLQMr1pl7fQaYO9N) | [Amphitryon](https://open.spotify.com/artist/1RZXk7ou8ZRXyFx8x40vlA) | [Hera](https://open.spotify.com/album/4FFcdG1rGBvLboVCXY3nTP) | 2:28 | 2024-03-22 | 2024-05-03 |
 | [Here Comes The Sun](https://open.spotify.com/track/347z1KBX5APmqm8UBaTti4) | [Cloudy Bubbles](https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW) | [Here Comes The Sun](https://open.spotify.com/album/0qNICbC4X5dr0YWJXJ1U0M) | 2:06 | 2024-04-05 | 2024-05-03 |
 | [Here Comes The Sun](https://open.spotify.com/track/55WP69Nc3TLamqr4laTPjK) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Here Comes The Sun](https://open.spotify.com/album/19V9spxcU6OOzdqQq63q0F) | 1:55 | 2024-10-11 | 2024-11-18 |
@@ -756,6 +757,7 @@
 | [Sun Falls](https://open.spotify.com/track/4dfNbAflDxKNQxTQVloPrq) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Miriam Cooper](https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X) | [Sun Falls](https://open.spotify.com/album/35vBUg4eVF2aCU9xLiSkQH) | 2:46 | 2024-07-19 | 2024-08-19 |
 | [Sun Goes Down](https://open.spotify.com/track/71lc9xGd1f5aUqZQmOkavH) | [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Sun Goes Down](https://open.spotify.com/album/7xkdv026WeI0oSgc78sARK) | 2:06 | 2024-09-13 |  |
 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/0CI422U7nhDLnk43s1BS1F) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1uMFVKi8n8T0Yjo3GI3wzh) | 2:59 | 2023-12-04 | 2024-09-15 |
+| [Sun Never Sets](https://open.spotify.com/track/1zpvGLxWpRERL4Aftjh78m) | [Løvento](https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [Sun Never Sets](https://open.spotify.com/album/2jh4TVAjd4pSALAa6Z1PPP) | 2:21 | 2025-02-12 |  |
 | [Sunlight Canopy](https://open.spotify.com/track/4m5981o52avY4TH5BOCunf) | [Lanle](https://open.spotify.com/artist/781sU1hUwd3HcKDumLJ5dS) | [Sunlight Canopy](https://open.spotify.com/album/4di5718tRJ74rJiXnaAtwl) | 3:06 | 2024-07-26 | 2024-08-31 |
 | [Sunny](https://open.spotify.com/track/6iolYWSFGkTNXEi7MOMeRs) | [Yume](https://open.spotify.com/artist/6jhofN6VeIi3EciznDCfCv) | [Sunny](https://open.spotify.com/album/7KHdVDoix9UsFrRT95OQqs) | 2:45 | 2024-04-13 | 2024-05-03 |
 | [Sunny Day](https://open.spotify.com/track/1tZpn8cXEnxoVaYKhBfrIc) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Sunny Day](https://open.spotify.com/album/2gwNqxHaivmr23CFIkxD8G) | 2:25 | 2024-05-10 | 2024-09-10 |

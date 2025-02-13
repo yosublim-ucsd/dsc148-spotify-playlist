@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa, Sayf, Escomar, Beba e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,689 likes - 120 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,690 likes - 120 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Mia Parola \(feat\. Guè, Joshua & Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua & Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
+| 1 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
 | 2 | [DAMME 'NA MANO](https://open.spotify.com/track/54dKn6kdf2fFpSYwgCcQOV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DAMME 'NA MANO](https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7) | 2:58 |
 | 3 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 |
 | 4 | [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 86 | [Delay](https://open.spotify.com/track/4MLlRPhK4Xyyzx08FsFDYJ) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Delay](https://open.spotify.com/album/4EcU926s7iTr5iZwoeLxdi) | 2:54 |
 | 87 | [A Parole](https://open.spotify.com/track/0s2t31hdaggHcnxYwAQuIO) | [Revé](https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [A Parole](https://open.spotify.com/album/5pxa5dmATgws3ngnO9nx3q) | 2:42 |
 | 88 | [Diamante Raro](https://open.spotify.com/track/6EvDF9E1H0GIGlBaORq5u4) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Diamante Raro](https://open.spotify.com/album/597vCgvFvAjQXaoWhOoRQe) | 3:08 |
-| 89 | [RAP](https://open.spotify.com/track/7ciJB97Q7t6oFlaDjgplYr) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [RAP](https://open.spotify.com/album/3jcI5x71nKgcpijW0T2yLy) | 2:22 |
+| 89 | [RAP](https://open.spotify.com/track/7ciJB97Q7t6oFlaDjgplYr) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE), [KEY ONE](https://open.spotify.com/artist/3ZwkQSFazUVjGvhZKnPMrz) | [RAP](https://open.spotify.com/album/3jcI5x71nKgcpijW0T2yLy) | 2:22 |
 | 90 | [Non siamo stati nulla](https://open.spotify.com/track/6d86Kh4603FSQJmINbKaj2) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR) | [Non siamo stati nulla](https://open.spotify.com/album/0MFcHeNalu6jJxY1IXYcAL) | 2:45 |
 | 91 | [Tu lo sai](https://open.spotify.com/track/5qEODz53L07WMEjbapmYQo) | [Kiesa](https://open.spotify.com/artist/5s7A7hLRZHWf2xuhAOpDei), [Mas](https://open.spotify.com/artist/05tTIrRxDOmJm8aljmOJaE) | [Tu lo sai](https://open.spotify.com/album/0vnV1ixMp8afOqWSEmFyyJ) | 3:08 |
 | 92 | [MADDECHE](https://open.spotify.com/track/1mMfMQnlmQ4bC4vHLgPTQ3) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw) | [MADDECHE](https://open.spotify.com/album/0r5rEDdBZh7omYkbwhprC9) | 1:46 |

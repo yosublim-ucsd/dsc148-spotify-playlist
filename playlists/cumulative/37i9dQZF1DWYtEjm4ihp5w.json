@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Stormy f la cover dial akbar playlist dial rap maghribi.",
+  "description": "a7san ma kayn f rap maghribi",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "SAV!OR",
+        "url": "https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90714,
+      "name": "19",
+      "url": "https://open.spotify.com/track/1dem6jRrgtlc1ryKALrhMb"
+    },
+    {
+      "album": {
         "name": "3A9EL",
         "url": "https://open.spotify.com/album/6712T5yLZMI1AZlRGH9eOx"
       },
@@ -100,7 +118,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 172500,
       "name": "3ADI JIDAN",
       "url": "https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V"
@@ -190,7 +208,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 185454,
       "name": "6AM",
       "url": "https://open.spotify.com/track/5UguZtOGnt018aCSqIMCIZ"
@@ -328,7 +346,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 163333,
       "name": "Akhennouch",
       "url": "https://open.spotify.com/track/0jhnXwnkKVB4FpI3Y7nJjW"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 140000,
       "name": "AZOUL V3",
       "url": "https://open.spotify.com/track/7mB6gUSK0aPPisiUA3czNV"
@@ -1611,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Doberwoman",
+        "url": "https://open.spotify.com/album/4AsflFTM4l2rAdiIBii1TP"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178214,
+      "name": "Doberwoman",
+      "url": "https://open.spotify.com/track/0DX90o91i4hKpfBp7JNNOg"
+    },
+    {
+      "album": {
         "name": "Docteur (Spotify Singles)",
         "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
       },
@@ -1626,7 +1666,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-01",
+      "date_removed": null,
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
@@ -1776,6 +1816,28 @@
       "duration_ms": 176218,
       "name": "Drouba",
       "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sert",
+        "url": "https://open.spotify.com/album/4NES3mugoAZeqRC2P9i7qC"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "D\u00e9sert",
+      "url": "https://open.spotify.com/track/51HpsmYJtOMzdO06DfnpNd"
     },
     {
       "album": {
@@ -1978,7 +2040,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 183947,
       "name": "Fi Derbi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"
@@ -2540,7 +2602,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 138857,
       "name": "IMESSOUAN",
       "url": "https://open.spotify.com/track/5GCUXVm3W4Kioqou0FocyE"
@@ -3128,7 +3190,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 177534,
       "name": "La Tete",
       "url": "https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk"
@@ -3168,7 +3230,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 245211,
       "name": "LA ZONE MAHKOMA",
       "url": "https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi"
@@ -3314,7 +3376,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 209583,
       "name": "Lewandoski",
       "url": "https://open.spotify.com/track/5MVAnYGimyRpWDkTD6qvRB"
@@ -5148,7 +5210,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 144088,
       "name": "Romeo.",
       "url": "https://open.spotify.com/track/3aGf4j38Jqgg2kBpPkzr6Z"
@@ -5328,7 +5390,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 204350,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
@@ -6445,6 +6507,24 @@
     },
     {
       "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136932,
+      "name": "Wa3ra",
+      "url": "https://open.spotify.com/track/5zvvrTE1QoTxsoeTupvQrW"
+    },
+    {
+      "album": {
         "name": "GHETTO STAR",
         "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
       },
@@ -6634,7 +6714,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 190000,
       "name": "WILI",
       "url": "https://open.spotify.com/track/4r00oTzxA1ksnNO89VkYTN"

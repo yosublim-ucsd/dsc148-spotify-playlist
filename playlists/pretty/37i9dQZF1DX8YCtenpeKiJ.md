@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,899 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,895 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

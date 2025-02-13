@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music from new, independent artists\.  Cover: Nami\. Artwork by Paola Saliby
+> The best new pop music from new, independent artists\.  Cover: i am yd\. Artwork by Paola Saliby
 
-3,819 songs - 8 day 2 hr 20 min
+3,824 songs - 8 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [are you there tonight?](https://open.spotify.com/track/2UHmiHEZ0Gwx2tqqMdpFUQ) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [are you there tonight?](https://open.spotify.com/album/3aF38Kh2VROKvQDfyx98s7) | 3:06 | 2024-03-27 | 2024-04-24 |
 | [arizona](https://open.spotify.com/track/6d5OKyBLb3fSSKGqwxopy6) | [gcmayn](https://open.spotify.com/artist/3n24tWtdvGsJFqsQcm9ujR) | [arizona](https://open.spotify.com/album/2IK5juKkSO13bAAlXTUtS4) | 2:44 | 2022-09-28 | 2022-11-10 |
 | [Armor](https://open.spotify.com/track/5JmqNrYrjIo5UlfJCGy3Lh) | [Aliana Lohan](https://open.spotify.com/artist/1wPfaXhiaOzhtpCa52LRux) | [Armor](https://open.spotify.com/album/2aYMLA1E4zM0c51s7qS4Ol) | 2:51 | 2023-09-13 | 2023-11-30 |
+| [Arrivederci, Baby](https://open.spotify.com/track/5vXLJ2ZWJO7q7jLWhDaMQB) | [Rosemary](https://open.spotify.com/artist/59nB82NKhoKIXU7ZN3Qdnt) | [Arrivederci, Baby](https://open.spotify.com/album/3qxowiXBWwN8HQCWTdnFKM) | 2:24 | 2025-02-12 |  |
 | [Arrow](https://open.spotify.com/track/3rpwjuR2xLihp1gZtF11GT) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Arrow](https://open.spotify.com/album/0ieoMMvu4PcM9uiG3d319W) | 2:20 | 2021-02-10 | 2021-03-11 |
 | [Arrête de danser](https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 2:49 | 2022-05-11 | 2022-06-30 |
 | [as our world begins to die](https://open.spotify.com/track/5x9z0OoeuD7VPuOQ35rLxN) | [twlips](https://open.spotify.com/artist/44oBe1r8Bp8z8ARJOWcfHP) | [as our world begins to die](https://open.spotify.com/album/5bXK6mmmoKvUWth8Qklq2c) | 4:09 | 2024-11-06 | 2024-12-05 |
@@ -1800,6 +1801,7 @@
 | [IT'S NOT MY FAULT.](https://open.spotify.com/track/3NZ1x68xzf6PGg0pkRkMPV) | [Charlotte Clarke](https://open.spotify.com/artist/1XYMi6D20kvVICBIfkaefS) | [IT'S NOT MY FAULT.](https://open.spotify.com/album/3enOgj3kH7WZmckmq6FIgv) | 4:11 | 2024-09-11 | 2024-11-28 |
 | [it's not my job to save you](https://open.spotify.com/track/4DCYJmtXwK3UGRPokm2fos) | [GANN0N](https://open.spotify.com/artist/3BHWqQ38qfUhzhHRbXCTFh) | [it's not my job to save you](https://open.spotify.com/album/2IN1s06KoDDTvdIIjqxHNu) | 3:17 | 2025-01-29 |  |
 | [It's Only Love](https://open.spotify.com/track/6a2q2pREr1Noz10UFD3kDB) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [It's Only Love](https://open.spotify.com/album/3hqMR8UqQppuf8y4iMNVEz) | 2:59 | 2022-10-12 | 2022-12-01 |
+| [Itchy](https://open.spotify.com/track/25Yl75KfR1EECE94pfcC3E) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Itchy](https://open.spotify.com/album/3tAjJQg7X3WvvzF0O24zDY) | 2:22 | 2025-02-12 |  |
 | [ITS OVER \(feat\. Yoshi T.\)](https://open.spotify.com/track/5sIPhxUbunhlJtp8jbqoTw) | [Jackson August](https://open.spotify.com/artist/1fEYP7fDawtTMpV3IHzZRN), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [ITS OVER \(feat\. Yoshi T.\)](https://open.spotify.com/album/4nd4X77W8pMymN3P9UkYZP) | 2:20 | 2023-09-27 | 2023-11-30 |
 | [Itsy Bitsy](https://open.spotify.com/track/7LwZguzLTNzMgN3ffeDzIg) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Itsy Bitsy](https://open.spotify.com/album/16YsDQEJhHrIHXV8SB3zbj) | 2:42 | 2023-03-22 | 2023-05-04 |
 | [Itsy Bitsy](https://open.spotify.com/track/00fhKpPny0gmIZnUXKzHXh) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Itsy Bitsy](https://open.spotify.com/album/5vMRBI41FHQFbyEbD8CHgS) | 2:56 | 2020-12-08 | 2021-01-15 |
@@ -1853,6 +1855,7 @@
 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 | 2023-05-17 | 2023-07-20 |
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-07 | 2024-10-10 |
 | [Kiss Away](https://open.spotify.com/track/4W3VkeSALtTQuQFwBQFkA3) | [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Kiss Away](https://open.spotify.com/album/0aCA9nSNVL7Lb4pAHQTii3) | 2:41 | 2021-03-11 | 2021-04-08 |
+| [Kiss Kiss Boom](https://open.spotify.com/track/2AEzCqX5rxIDcjY1Vso3qY) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Kiss Kiss Boom](https://open.spotify.com/album/3PAgrhyautuvz4LizAl3ky) | 2:03 | 2025-02-12 |  |
 | [Kiss Me](https://open.spotify.com/track/4pgLx6O7JYblZJGXxPJmUv) | [Becca Tg](https://open.spotify.com/artist/0AKk93IMKx5QgX2cuofvlw), [Housefly](https://open.spotify.com/artist/1qJ3SP6DvSi5R2wIQALBvN) | [Kiss Me](https://open.spotify.com/album/4HIerPiRIYcUXkqSUwnjG7) | 2:54 | 2021-02-10 | 2021-03-11 |
 | [Kiss Me Right Now](https://open.spotify.com/track/0GRofSO5zaCm81PfNzEmEE) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/4Sg9SnMSNP0jiM777Ezcla) | 4:00 | 2022-11-30 | 2023-01-12 |
 | [Kiss Me Right Now](https://open.spotify.com/track/2Wxj1gIUP2B6Eb0uWeqa1R) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Kiss Me Right Now](https://open.spotify.com/album/6KOGImqjlM8wNaL1JHtJXy) | 4:00 | 2022-03-16 | 2022-04-28 |
@@ -2131,6 +2134,7 @@
 | [Make It Right](https://open.spotify.com/track/4mIi1Y3DSVqsEcOxiQvNY6) | [Bungalow](https://open.spotify.com/artist/39HL50RSRHzwy1ElRSiZnw) | [Make It Right](https://open.spotify.com/album/0Lf4vZCkTa3ETIkQsmFvSn) | 4:07 | 2021-03-18 | 2021-04-15 |
 | [make me leave](https://open.spotify.com/track/0QeLl8arG92WyUax2vpXgb) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [make me leave](https://open.spotify.com/album/7BskqdK9MSbIthHog7eLYI) | 2:18 | 2021-04-08 | 2021-05-06 |
 | [Make Me Wanna](https://open.spotify.com/track/1LcoGvOnn5XhD016aeDELU) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Make Me Wanna](https://open.spotify.com/album/0SbucIFxuOANgxW33sMluo) | 2:45 | 2022-08-03 | 2022-10-06 |
+| [Make Up Sex](https://open.spotify.com/track/48S7JYmTP8ph2QoCQC47y2) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Make Up Sex](https://open.spotify.com/album/2Q6OjRKonRkQTtaTFgsCkC) | 2:05 | 2025-02-12 |  |
 | [Make Up Your Mind](https://open.spotify.com/track/4R08fSLXE7LFNJAuNh1avy) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Pink Noise](https://open.spotify.com/album/4Y18OAJV6GwtTlQ6E5vcoc) | 2:04 | 2021-03-06 | 2021-04-22 |
 | [Making Moves](https://open.spotify.com/track/5Btegk7YVy1hDXOMnppzdE) | [Dani Doucette](https://open.spotify.com/artist/2alhJ7s3IXafk9N2mGHYF2) | [Run With Me](https://open.spotify.com/album/6gQqpPllmsD3tplkVu7R4n) | 2:57 | 2022-01-19 | 2022-02-24 |
 | [Malibu](https://open.spotify.com/track/0eX9k2Geqgwo3wwmyauc9l) | [Emma Bradley](https://open.spotify.com/artist/5xYIRSJkHjlWgZidBISyzk) | [Malibu](https://open.spotify.com/album/5OCChixFi8WK1Jr3YwLe28) | 3:16 | 2021-07-29 | 2021-08-20 |
@@ -3800,6 +3804,7 @@
 | [You Wanted Me to Stay](https://open.spotify.com/track/0H0skF3IjqUeHNcHuQyLfy) | [Dasie](https://open.spotify.com/artist/5iRM7VatCq3Ea4VM5dB36R) | [Drama](https://open.spotify.com/album/02zUccC4Q2IEuhCRj6smkS) | 3:34 | 2022-06-15 | 2022-07-28 |
 | [you were just drunk](https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [you were just drunk](https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA) | 2:56 | 2025-01-22 |  |
 | [you won't even call me on my birthday](https://open.spotify.com/track/3Vv2zKApg406qNZz4lKcpI) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [you won't even call me on my birthday](https://open.spotify.com/album/3AkqzoLepkdtmPYddrxNvb) | 2:37 | 2020-10-13\* | 2020-10-29 |
+| [You'll Be Fine](https://open.spotify.com/track/5bo9KUYGNK1cwIEGiP79lh) | [Saila](https://open.spotify.com/artist/01ZjCJW32IZZfRpEv9ND14) | [You'll Be Fine](https://open.spotify.com/album/499KHILLKHUzXgMEyTM7aN) | 2:31 | 2025-02-12 |  |
 | [You're a Lot](https://open.spotify.com/track/7p1yFJ7tvOE8pwCbIB1ggu) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [You're a Lot](https://open.spotify.com/album/6se6xD1VQ6BNGwqD6wPTBg) | 2:32 | 2023-06-14 | 2023-09-28 |
 | [You're Not Real You're Just a Ghost](https://open.spotify.com/track/0LrwwSU0ycsvTxoqGcvjAe) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [You're Not Real You're Just a Ghost](https://open.spotify.com/album/6mifjdacVc8tvYQ4YHsNO0) | 3:14 | 2020-12-08 | 2021-01-15 |
 | [You're So Pretty](https://open.spotify.com/track/29VAY2QsjCtvo7ZF6muZMf) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You're So Pretty](https://open.spotify.com/album/7LNMaZri0BZsYI6UEpiszi) | 2:14 | 2020-11-27 | 2020-12-08 |

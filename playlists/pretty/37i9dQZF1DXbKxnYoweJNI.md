@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: Showmaîn
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,398 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,399 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 80 | [Hmm?](https://open.spotify.com/track/2hKrQnJyVgWZt9pMgYkhRb) | [EMI CHEOW](https://open.spotify.com/artist/2Aq7MZEBSyd9EPADwqHurs) | [Hmm?](https://open.spotify.com/album/3rbDbbQJ8KVnlLWv5BRWPg) | 2:37 |
 | 81 | [早該遺忘的美夢](https://open.spotify.com/track/2baeMGYRMgnvrH5ZH5BEqF) | [人生勝利組](https://open.spotify.com/artist/03zpY0YBh1rjpePiEmshh7) | [早該遺忘的美夢](https://open.spotify.com/album/1XdXrUgzZT08msV1llziRR) | 4:54 |
 | 82 | [缺](https://open.spotify.com/track/0VxWA8MdEly682d4mC5zzD) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [缺](https://open.spotify.com/album/01TGWmnonLEk9NAG9k9dxK) | 5:30 |
-| 83 | [Perfect Timing](https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ) | [Joshua Band](https://open.spotify.com/artist/0i6Ug2VPQVjkTAjxk8wLJK), [约书亚乐团](https://open.spotify.com/artist/2zQMLL1UHDpJUNa2r9peEi) | [You Fight For Me](https://open.spotify.com/album/0rMKfChBk4re59Vc1GJdgD) | 4:23 |
+| 83 | [Perfect Timing](https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ) | [Joshua Band](https://open.spotify.com/artist/0i6Ug2VPQVjkTAjxk8wLJK) | [You Fight For Me](https://open.spotify.com/album/0rMKfChBk4re59Vc1GJdgD) | 4:23 |
 | 84 | [下個星期回台南](https://open.spotify.com/track/0sASg8qEnB4tG8wpuystnP) | [河智昊](https://open.spotify.com/artist/3DEFgAPbosvePBoBfXwCak) | [下個星期回台南](https://open.spotify.com/album/0ALoez0qn1arONw6kyXSlE) | 3:34 |
 | 85 | [我正在经历的生活](https://open.spotify.com/track/0GdWRRbz1NolizYJe5upEi) | [Sue](https://open.spotify.com/artist/63tzlZxY9iaOeUnmGfwlyA) | [我正在經歷的生活](https://open.spotify.com/album/6If2kKuBkkAnVYHu40HFeg) | 4:37 |
 | 86 | [養我](https://open.spotify.com/track/5BtE7mi9hB70kFLzp5niS8) | [余育憲哥](https://open.spotify.com/artist/6xB7uDQ0Bi1rfUvz9LMoxw) | [養我](https://open.spotify.com/album/4bMOhMPLAyszvKEkdMqeNU) | 3:23 |

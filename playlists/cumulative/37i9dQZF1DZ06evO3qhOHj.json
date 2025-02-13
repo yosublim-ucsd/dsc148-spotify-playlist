@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 274328,
       "name": "Courageous",
       "url": "https://open.spotify.com/track/4JXo0SKUN32dkDH2l1RFVs"
@@ -1316,6 +1316,24 @@
       "duration_ms": 232011,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2025-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232011,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/76DyL56b4yuQy5PwCUYDCS"
     },
     {
       "album": {

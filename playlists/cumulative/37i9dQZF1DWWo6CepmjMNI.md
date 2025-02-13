@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Romancerr
+> วาเลนไทน์ ฟังเพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: แดน YEW, mute.
 
-152 songs - 10 hr 54 min
+154 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1](https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj) | [lnwza0072535](https://open.spotify.com/artist/0Ksnd5mm5rWFvWbptJFCFx) | [1](https://open.spotify.com/album/0o0qppFXlAQbE7PhAT5syJ) | 4:00 | 2024-08-02 | 2024-08-24 |
 | [694วัน\(ก่อนฉัน\)](https://open.spotify.com/track/2BLJyyfby2e0wTY6gwSJDL) | [Topeople](https://open.spotify.com/artist/3LXIfzAVXPvKnIyPLBcW1c) | [694วัน\(ก่อนฉัน\)](https://open.spotify.com/album/16aulQnbsgdsvQAJYiEiKO) | 3:56 | 2024-11-22 | 2025-01-25 |
 | [Black Bag](https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [Octave](https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy) | 4:25 | 2024-10-25 | 2024-12-21 |
-| [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T) | 3:41 | 2024-11-15 | 2024-11-23 |
+| [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [Dandilion \(ขอให้เธอไม่หายไป\)](https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T) | 3:41 | 2024-11-15 |  |
 | [Don’t You Go feat.Gong Thepvipat](https://open.spotify.com/track/0lNpn1MG96EgHjs5tDlFnR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM), [Gong Thepvipat](https://open.spotify.com/artist/745jmibDjv02om1m5ln0oC) | [Don’t You Go](https://open.spotify.com/album/2vZwyxOHn75WzVPqux1mhB) | 3:23 | 2024-06-21 | 2024-09-07 |
 | [Drowning Leaf](https://open.spotify.com/track/76dipWHfhzdJ0EH8WYVImp) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Drowning Leaf](https://open.spotify.com/album/6CYGKwZEdDX2o4j3VwJmMR) | 4:49 | 2024-06-28 | 2024-07-06 |
 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [Eleven](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 | 2024-06-21 |  |
@@ -27,8 +27,10 @@
 | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 | 2024-11-08 | 2025-02-01 |
 | [Parfum](https://open.spotify.com/track/3vdzZCjEX8KjOD6Hw40qLE) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Parfum](https://open.spotify.com/album/16wUkQkUk0NWmcqd9OXnMT) | 3:50 | 2024-06-21 | 2025-02-01 |
 | [River](https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [River](https://open.spotify.com/album/6hKyADQiXU8sh3fwGpdQuI) | 3:50 | 2024-06-21 | 2024-08-10 |
+| [seasons](https://open.spotify.com/track/2NgoBV97C4ZcGZknUzoCmq) | [paiiinntt](https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E) | [seasons](https://open.spotify.com/album/0Lw9iNvjJCKGhIOKZXkJnI) | 3:32 | 2025-02-12 |  |
 | [Skuna](https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Skuna](https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg) | 3:47 | 2024-11-08 | 2024-11-23 |
 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 | 2024-06-28 | 2024-07-20 |
+| [Summer](https://open.spotify.com/track/3xiQdmur1QcU1ZV52A0QTc) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Summer](https://open.spotify.com/album/6GcBIH0XEQn0cnmLEuf2Pz) | 3:40 | 2025-02-12 |  |
 | [Too Good](https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [Too Good](https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN) | 3:11 | 2024-07-19 | 2024-08-24 |
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 | 2024-12-14 |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
@@ -48,7 +50,7 @@
 | [ความสวยงาม](https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [ความสวยงาม](https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq) | 3:58 | 2024-10-25 | 2024-11-16 |
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 |  |
 | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/album/4ak31D4lpQ5PbTMTlCGLzh) | 3:50 | 2024-06-21 | 2024-10-12 |
-| [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 | 2024-12-20 |  |
+| [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 | 2024-12-20 | 2025-02-13 |
 | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/track/0MQpFb7vmL6pweZ0cfJzXp) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [จากวันที่เธอลา \(YT\-1300\)](https://open.spotify.com/album/4KxG5Miv9zHKxEPGBg12Uq) | 4:03 | 2024-12-13 |  |
 | [จากเมื่อวาน \(present\)](https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [จากเมื่อวาน \(present\)](https://open.spotify.com/album/6mjFCfCHUe17B3opy0FulL) | 4:27 | 2024-07-05 |  |
 | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/track/1Q74VWWMSq4CU30yUQdFdd) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/album/49s5RFPDHJLLfMeCyFXs0w) | 5:08 | 2024-06-21 |  |
@@ -73,7 +75,7 @@
 | [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 | 2024-12-26 |  |
 | [บอกลา \(So Long\)](https://open.spotify.com/track/7lD3wBoLA1tyMUNIlBfR8G) | [The River&Bridge](https://open.spotify.com/artist/5URHv3dJzBJdnGjkodcaR3) | [บอกลา \(So Long\)](https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk) | 3:49 | 2024-10-11 | 2024-11-02 |
 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 | 2024-08-09 | 2024-12-14 |
-| [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo) | 3:47 | 2025-01-09 |  |
+| [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo) | 3:47 | 2025-01-09 | 2025-02-13 |
 | [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 | 2024-08-17 |
 | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/track/6nquKmifNmk8JRy61FkHFx) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ปิดฉาก เดินจากไปพร้อมความต้องการของเธอ](https://open.spotify.com/album/3DXpBDOGRI8PwrL6z53xvR) | 4:30 | 2024-10-04 | 2024-10-26 |
 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 | 2024-06-21 |  |
@@ -147,7 +149,7 @@
 | [ใครกันที่เสียใจ](https://open.spotify.com/track/0coIZ28dh9M4rzudilx6Uq) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ใครกันที่เสียใจ](https://open.spotify.com/album/6maqJVtTw6gzh8Vp38sSj5) | 4:48 | 2024-06-21 |  |
 | [ใครในโลกนั้น \(Keep in Touch\)](https://open.spotify.com/track/5AZiY2IUDSchIwYHkekMxm) | [Ta anawin](https://open.spotify.com/artist/7nOkRJCyhpodlxce1s6XZj) | [ใครในโลกนั้น \(Keep in Touch\)](https://open.spotify.com/album/3C5WFK9bOOqGoGRrET1Pjg) | 4:20 | 2024-06-21 | 2024-07-20 |
 | [ในฝัน \(Krueger\)](https://open.spotify.com/track/5Kt6NUklWl2rzexBr07KBC) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [ในฝัน \(Krueger\)](https://open.spotify.com/album/65S7j4KnZY8nQSDqUIhJo6) | 4:02 | 2024-08-02 | 2024-11-23 |
-| [ในวันที่เอ่ยลา](https://open.spotify.com/track/18kyR29RAZahLvV8YwQ9Oj) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ในวันที่เอ่ยลา](https://open.spotify.com/album/2pmxwvLOH3qO8QqdsKSq9e) | 4:08 | 2025-01-24 |  |
+| [ในวันที่เอ่ยลา](https://open.spotify.com/track/18kyR29RAZahLvV8YwQ9Oj) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ในวันที่เอ่ยลา](https://open.spotify.com/album/2pmxwvLOH3qO8QqdsKSq9e) | 4:08 | 2025-01-24 | 2025-02-13 |
 | [ในวันที่ไม่เหลือใคร](https://open.spotify.com/track/3th5V3ADNe1y8K9Vf6H3aR) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ในวันที่ไม่เหลือใคร \(Lost it all\)](https://open.spotify.com/album/5LpBEKIcnhqpslAWcZAmS8) | 4:52 | 2024-06-21 | 2024-11-02 |
 | [ในวันและเวลาที่ฉัน \(My World\)](https://open.spotify.com/track/2zO2DASDL0sxQsFXY7xIq8) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ในวันและเวลาที่ฉัน](https://open.spotify.com/album/0gRpXkp9LssvvjdC7hq8H0) | 4:33 | 2024-09-27 | 2024-11-09 |
 | [ในเวลานี้](https://open.spotify.com/track/3KjSED3yuZ7MKpXJPYK0W2) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ในเวลานี้](https://open.spotify.com/album/2ZVV64XxjuWQcroyJhISN8) | 3:10 | 2024-06-21 | 2024-07-06 |

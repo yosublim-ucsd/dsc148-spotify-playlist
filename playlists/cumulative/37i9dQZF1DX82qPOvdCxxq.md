@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: JOSHUA LAZER \| Artwork: Laina Deene
+> The best new music from independent faith\-based artists every Wednesday! Cover: Charlene Nash \| Artwork: Laina Deene
 
-371 songs - 22 hr 15 min
+374 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [afterlife](https://open.spotify.com/track/7AV9yWPagSV79bXvPkM1BW) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [afterlife](https://open.spotify.com/album/7cIBQiFoURO2IcD2jl5eml) | 4:08 | 2024-10-25 | 2024-11-15 |
 | [Again and Again](https://open.spotify.com/track/2VtvyiPReTN9c7l7co6a0X) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Again and Again](https://open.spotify.com/album/2uH0NJYjekprSAWHx4IvQR) | 3:15 | 2021-02-12 | 2024-07-06 |
 | [Agua](https://open.spotify.com/track/2Ir8iLxpUI0IyBUelCfCWG) | [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx) | [Agua](https://open.spotify.com/album/4wtEnhog1bDKNTpxIxc2mz) | 4:46 | 2024-08-07 | 2024-09-27 |
+| [Ahora y Siempre](https://open.spotify.com/track/6zmsPguz1U9X3lxkYYsVQO) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Ahora y Siempre](https://open.spotify.com/album/1TM60j0IBdBzqDjprT9rgp) | 4:03 | 2025-02-12 |  |
 | [Ain't That Like Jesus](https://open.spotify.com/track/4RsTn2PQpfuAnSa0nxHD8h) | [Chris Ekiss](https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Ain't That Like Jesus \- EP](https://open.spotify.com/album/6D34uJuNT6C3ncmRjvcbPS) | 3:41 | 2024-07-05 | 2024-08-08 |
 | [Alchemy](https://open.spotify.com/track/1GRcZ66VWTuCWHfENuebh9) | [Damian](https://open.spotify.com/artist/3MnicHyslW5NAnIMcOsGeK) | [Alchemy](https://open.spotify.com/album/3ojNI0Iitk4xoLY6QPNLgx) | 3:41 | 2021-02-12 | 2024-07-06 |
 | [Alchemy](https://open.spotify.com/track/6vu0tUKye63v9xsyN3v9jL) | [Damian](https://open.spotify.com/artist/3MnicHyslW5NAnIMcOsGeK) | [Alchemy](https://open.spotify.com/album/7plw1iYmpv605jK1oMjubQ) | 3:41 | 2021-02-12 | 2024-04-19 |
@@ -210,7 +211,7 @@
 | [LIKE A FOOL](https://open.spotify.com/track/1e9A0e5QZcjFpy4dFU5bt6) | [Cody Towell](https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us) | [Our New Beginning](https://open.spotify.com/album/4gfgD7Rn7B11ExDNLDa60f) | 3:10 | 2024-10-02 |  |
 | [Limelight](https://open.spotify.com/track/6SVv09lEJDuYiAIkd3LTH3) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Ben Becker](https://open.spotify.com/artist/5MazUYO2ulxGOMPN5ZE00V) | [Limelight](https://open.spotify.com/album/3PmUu2bxKASz0ZpPnktitr) | 2:52 | 2024-08-07 | 2024-12-14 |
 | [Little Too Late](https://open.spotify.com/track/5jaPOOhbMhnT9KeGFGC4Nr) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8) | [Little Too Late](https://open.spotify.com/album/2fE91bwftk6KMgMf6mpKMV) | 3:22 | 2024-08-07 | 2024-10-03 |
-| [Losing Time](https://open.spotify.com/track/5fEmmBvHEKqbikRZI35LJ5) | [Charlotte Adelle](https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy) | [Losing Time](https://open.spotify.com/album/7J9pdX5h358WZMiEKl2DfN) | 3:23 | 2024-11-14 |  |
+| [Losing Time](https://open.spotify.com/track/5fEmmBvHEKqbikRZI35LJ5) | [Charlotte Adelle](https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy) | [Losing Time](https://open.spotify.com/album/7J9pdX5h358WZMiEKl2DfN) | 3:23 | 2024-11-14 | 2025-02-13 |
 | [LOST](https://open.spotify.com/track/41L3ekHUfoMQFzTAaEqCBH) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Addie Hailey](https://open.spotify.com/artist/3Dh3IYgjQEYePRN8JUTJdA), [Vennisay](https://open.spotify.com/artist/47fuPz0K0cyruPcpXiBo2W) | [LOST](https://open.spotify.com/album/3pl3IQ2X4cXp9Vq2xqyuiH) | 2:41 | 2024-08-07 | 2024-10-10 |
 | [Love Above All Loves](https://open.spotify.com/track/1a9RJklCsU8xjJHBSCtUlg) | [Sam Bailey](https://open.spotify.com/artist/5Y4egWWGjGizCPH1eexuHu), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Love Above All Loves](https://open.spotify.com/album/1uCtJMcCejhRY5fvR1Co1F) | 4:37 | 2024-07-05 | 2024-08-08 |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-22 |  |
@@ -278,6 +279,7 @@
 | [Ready to Grow](https://open.spotify.com/track/4ZllCBoKAxXoho6arZQXVK) | [Jennifer Jimenez](https://open.spotify.com/artist/34AvaqEPfpouhvRvlhRFLY) | [Ready to Grow](https://open.spotify.com/album/3RpPPodEVjdowyI1Xleh6o) | 4:21 | 2024-08-07 | 2025-01-16 |
 | [Receive](https://open.spotify.com/track/1aRMNC6oOhUjZROCKF0EnU) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Haydon](https://open.spotify.com/artist/5EBqNSGqpUzEF4CTH1T4EW) | [Receive](https://open.spotify.com/album/0iBHprcYThFlj5sWhIRsly) | 3:37 | 2024-09-26 | 2025-01-30 |
 | [Red Letters](https://open.spotify.com/track/65nOENuD1oVbZtMs8A3fxG) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Red Letters](https://open.spotify.com/album/2MwmuplCN5OHVF8M7L7L9R) | 3:03 | 2024-08-21 | 2024-10-10 |
+| [Relicario](https://open.spotify.com/track/42na5GNNjAf5h4YfqMhrkB) | [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv) | [Relicario](https://open.spotify.com/album/6yiJI1RR01R6siTHfB8Zkf) | 3:04 | 2025-02-12 |  |
 | [Renew My Life \(He\)](https://open.spotify.com/track/3fKGMCqOdIBh0Tpj47nitd) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Renew My Life \(He\)](https://open.spotify.com/album/7nH5hYuaI3D0qTadXR68kR) | 3:39 | 2024-09-26 | 2025-01-16 |
 | [RHYTHM](https://open.spotify.com/track/3uZR2lTKQHc9CRdjptdXkA) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU) | [RHYTHM](https://open.spotify.com/album/0ErAtlzxtHJ3laGBFlbsLZ) | 2:00 | 2024-11-27 |  |
 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 | 2024-08-28 |  |
@@ -298,6 +300,7 @@
 | [Show Us What's Real](https://open.spotify.com/track/1UKQhxhBZc91kNYPCnoN6o) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Show Us What's Real](https://open.spotify.com/album/1djOEDuXrJcJZFcaiwKkuU) | 3:16 | 2024-10-10 |  |
 | [Sigo](https://open.spotify.com/track/26sTKa12dR6zZdKW678qVE) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Sigo](https://open.spotify.com/album/6n1VtlQdAymqfWzMoYwNNn) | 2:51 | 2024-08-28 | 2024-09-27 |
 | [Silencio](https://open.spotify.com/track/4AaUPCfFrsXKu3G1BO91kq) | [Maca Andres](https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [Silencio](https://open.spotify.com/album/3ci590dWLVBMG43VZGtjHa) | 1:46 | 2024-08-07 | 2024-09-05 |
+| [Snow White](https://open.spotify.com/track/6roek1DnPiZlDOaWGfRJIA) | [Charlene Nash](https://open.spotify.com/artist/2qhBqNQlHE3Lq5VbUI4UHA) | [Snow White](https://open.spotify.com/album/59ySLYx7we14FM4vu8lXNs) | 3:50 | 2025-02-12 |  |
 | [Soft Maverick](https://open.spotify.com/track/3IujgFD9na2pChd07kbr3e) | [Imani Shola](https://open.spotify.com/artist/6Xg6LoqcniDRcZcIeipMwf) | [Soft Maverick](https://open.spotify.com/album/6rcWYP9seL1PdU8zNN7cID) | 3:53 | 2024-08-07 | 2024-10-03 |
 | [Solemn Sleep](https://open.spotify.com/track/6RTZ6z7SkjmYMgkm4aJMk5) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Solemn Sleep](https://open.spotify.com/album/6IiHm74zRXr4cdpvKlGrL6) | 3:06 | 2024-08-14 | 2024-08-22 |
 | [Song In The Room](https://open.spotify.com/track/5wGjWQvn4A5lziL01lSBFv) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Song In The Room](https://open.spotify.com/album/46rXmAu0vGY3QyoxmqTIMx) | 3:22 | 2024-07-05 | 2024-08-08 |

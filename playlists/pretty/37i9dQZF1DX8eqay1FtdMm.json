@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Hwang \bKaram(\ud669\uac00\ub78c)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 377411,
+  "num_followers": 377447,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 168978,
-      "name": "Tummy Hurts",
-      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
-    },
-    {
-      "added_at": "2025-02-10 12:02:45",
-      "album": {
         "name": "On My Mama",
         "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "added_at": "2025-02-10 12:02:45",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 168978,
+      "name": "Tummy Hurts",
+      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+      "duration_ms": 267280,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
-        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 267280,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+    },
+    {
+      "added_at": "2025-02-10 12:02:45",
+      "album": {
         "name": "Longing For The One I Lost",
         "url": "https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+        "name": "The Queen Who Crowns OST Part.1",
+        "url": "https://open.spotify.com/album/2HfEC3ebmMP9k1HHtFCXDm"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
         }
       ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+      "duration_ms": 245560,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4qjwurvhzFWb0hT0GeuYFl"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -1443,22 +1459,6 @@
       "duration_ms": 295040,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7"
-    },
-    {
-      "added_at": "2025-02-10 12:02:45",
-      "album": {
-        "name": "The Queen Who Crowns OST Part.1",
-        "url": "https://open.spotify.com/album/2HfEC3ebmMP9k1HHtFCXDm"
-      },
-      "artists": [
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4qjwurvhzFWb0hT0GeuYFl"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
+        "name": "The Queen Who Crowns OST Part.3",
+        "url": "https://open.spotify.com/album/2R22prFpAEhkn5unRy3buY"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "My Dream, My Love",
+      "url": "https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi"
+    },
+    {
+      "added_at": "2025-02-10 12:02:45",
+      "album": {
         "name": "\uc815\uc778 Jung In from Andromeda",
         "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
-        "name": "The Queen Who Crowns OST Part.3",
-        "url": "https://open.spotify.com/album/2R22prFpAEhkn5unRy3buY"
-      },
-      "artists": [
-        {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "My Dream, My Love",
-      "url": "https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi"
-    },
-    {
-      "added_at": "2025-02-10 12:02:45",
-      "album": {
         "name": "Ode To The Stars",
         "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
-    },
-    {
-      "added_at": "2025-02-10 12:02:45",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 263966,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2025-02-10 12:02:45",
       "album": {
-        "name": "Principle Of My Soul",
-        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
         }
       ],
-      "duration_ms": 308186,
-      "name": "Memory Of The Wind",
-      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
+      "duration_ms": 263966,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
     },
     {
       "added_at": "2025-02-10 12:02:45",
@@ -1695,6 +1679,22 @@
       "duration_ms": 218546,
       "name": "I can't forget you",
       "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
+    },
+    {
+      "added_at": "2025-02-10 12:02:45",
+      "album": {
+        "name": "Principle Of My Soul",
+        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 308186,
+      "name": "Memory Of The Wind",
+      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
     }
   ],
   "unique_name": "v o K a l",

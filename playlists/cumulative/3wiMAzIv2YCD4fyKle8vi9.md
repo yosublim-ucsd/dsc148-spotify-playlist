@@ -4,7 +4,7 @@
 
 > 
 
-65 songs - 6 hr 38 min
+66 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,5 +73,6 @@
 | [Watching It Unfold](https://open.spotify.com/track/7uWVu34XKqTFbQOmnRkver) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [A Colour For Autumn](https://open.spotify.com/album/3m8WKUe7KimObwrr8VLsMn) | 5:49 | 2024-12-23 |  |
 | [White Light](https://open.spotify.com/track/4sfORtxIQnO42AJpNy8Gsq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [A Long Journey](https://open.spotify.com/album/0sBlCjVNskfvbNAHwltpIU) | 2:07 | 2024-12-23 |  |
 | [Winter Of The Electric Beach](https://open.spotify.com/track/3suWj8HZyziLaThIw6qDeV) | [Olan Mill](https://open.spotify.com/artist/5EtbzLDdynYLlgthbKiAlH) | [Half Seas Over](https://open.spotify.com/album/1bBevItKt2S0O68vFYSX1o) | 4:04 | 2024-12-23 |  |
+| [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 | 2025-02-12 |  |
 
 \*This playlist was first scraped on 2024-12-23. Prior content cannot be recovered.

@@ -4473,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Eagle 12'",
+        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Eagle 12'",
+      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
+    },
+    {
+      "album": {
         "name": "Hunger / Ease Up",
         "url": "https://open.spotify.com/album/4mSE14gwpR49d3z1yYLThW"
       },
@@ -9716,6 +9734,24 @@
       "duration_ms": 278325,
       "name": "Love",
       "url": "https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq"
+      },
+      "artists": [
+        {
+          "name": "vesky",
+          "url": "https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L"
+        }
+      ],
+      "date_added": "2025-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2"
     },
     {
       "album": {
@@ -15210,7 +15246,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 153600,
       "name": "Squares",
       "url": "https://open.spotify.com/track/1VBg1BAU8UTgjE11tXzdWx"
@@ -18294,7 +18330,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-02-13",
       "duration_ms": 247559,
       "name": "Waiting on You",
       "url": "https://open.spotify.com/track/2d0YkF9qWbyqoNjarHSF1R"
